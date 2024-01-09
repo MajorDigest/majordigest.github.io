@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en">
+<head>
+<meta charset="utf-8">
+<title>What you need to know about Okta&#8217;s security breach - Major Digest</title>
+<meta name="description" content="On October 20, 2023, Okta Security identified adversarial activity that used a stolen credential to gain access to the company’s support case management system. Once inside the system, the hacker gained access to files uploaded by Okta customers using valid session tokens from recent support cases.">
+<link rel="canonical" href="https://majordigest.com/tech/2023/10/25/what-you-need-to-know-about-oktas-security-breach/">
+
+<meta itemprop="name" content="What you need to know about Okta&#8217;s security breach - Major Digest">
+<meta itemprop="description" content="On October 20, 2023, Okta Security identified adversarial activity that used a stolen credential to gain access to the company’s support case management system. Once inside the system, the hacker gained access to files uploaded by Okta customers using valid session tokens from recent support cases.">
+<link itemprop="url" href="https://majordigest.com/tech/2023/10/25/what-you-need-to-know-about-oktas-security-breach/">
+<meta itemprop="image" content="https://majordigest.com/static2/tech/2023/10/25/what-you-need-to-know-about-oktas-security-breach.webp">
+
+<meta property="og:title" content="What you need to know about Okta&#8217;s security breach - Major Digest">
+<meta property="og:description" content="On October 20, 2023, Okta Security identified adversarial activity that used a stolen credential to gain access to the company’s support case management system. Once inside the system, the hacker gained access to files uploaded by Okta customers using valid session tokens from recent support cases.">
+<meta property="og:url" content="https://majordigest.com/tech/2023/10/25/what-you-need-to-know-about-oktas-security-breach/">
+<meta property="og:image" content="https://majordigest.com/static2/tech/2023/10/25/what-you-need-to-know-about-oktas-security-breach.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Major Digest">
+<meta property="fb:pages" content="113570554924596">
+<!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+<meta name="twitter:title" content="What you need to know about Okta&#8217;s security breach - Major Digest">
+<meta name="twitter:description" content="On October 20, 2023, Okta Security identified adversarial activity that used a stolen credential to gain access to the company’s support case management system. Once inside the system, the hacker gained access to files uploaded by Okta customers using valid session tokens from recent support cases.">
+<meta name="twitter:url" content="https://majordigest.com/tech/2023/10/25/what-you-need-to-know-about-oktas-security-breach/">
+<meta name="twitter:image" content="https://majordigest.com/static2/tech/2023/10/25/what-you-need-to-know-about-oktas-security-breach.webp">
+<meta name="twitter:image:alt" content="What you need to know about Okta&#8217;s security breach - Major Digest">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@major_digest">
+<meta name="twitter:creator" content="@vpodk">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+<link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Major Digest">
+<meta name="application-name" content="Major Digest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="manifest" href="/manifest.json?v=1.1.5">
+<link rel="stylesheet" href="/assets/styles.css?v=1.1.5">
+</head>
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <a href="/archive/" aria-label="Major Digest Archive"
+         title="Delve into past events, breaking news, and timeless stories that shaped our world.">
+        <time datetime="2023-10-26T09:02:28.375Z" itemprop="datePublished">Thursday, October 26, 2023</time>
+      </a>&nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img
+           src="/assets/logo.svg" alt="Major Digest Home"
+           width="225" height="50"></a>
+      <span>What you need to know about Okta&#8217;s security breach - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Wed, 25 Oct 2023 17:36:48 +0000">
+  <meta itemprop="url" content="/tech/2023/10/25/what-you-need-to-know-about-oktas-security-breach/">
+  <h2 itemprop="headline">What you need to know about Okta&#8217;s security breach</h2>
+  <div itemprop="articleBody">
+    <img src="/static2/tech/2023/10/25/what-you-need-to-know-about-oktas-security-breach.webp" alt="What you need to know about Okta&#8217;s security breach" align="left"
+         itemprop="image" width="400" height="225"
+         referrerpolicy="no-referrer">
+    <body><div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>On October 20, 2023, Okta Security identified adversarial activity that used a stolen credential to gain access to the company’s support case management system. Once inside the system, the hacker gained access to files uploaded by Okta customers using valid session tokens from recent support cases. As a result of using the extracted tokens from the Okta support system and support cases, the threat actor subsequently gained complete access to many of their customers’ systems. In reaction to the attack, Okta support asked customers to upload an HTTP Archive (HAR) file to help troubleshoot issues. HAR files often contain sensitive data that malicious actors can use to imitate valid users.</p>
+
+
+
+<p>Zscaler ThreatLabz, an embedded team of security experts, researchers, and network engineers responsible for analyzing and eliminating threats and investigating the global threat landscape, described the impact of identity provider (IdP) breaches and how organizations can dramatically improve the protection against these types of sophisticated attacks by leveraging industry-wide best practices.</p>
+
+
+
+<h3 class="wp-block-heading">The potential damage of identity provider compromise</h3>
+
+
+
+<p>Identity threats targeting IdPs have quickly become the attack vector of choice for many threat actors. The recent compromise of a leading IdP provider isn’t the first time adversaries gained access to critical customer information, and it won’t be the last.</p>
+
+
+
+<p>When an IdP is compromised, the consequences can be severe. Unauthorized access to user accounts and sensitive information becomes a significant concern, leading to potential data breaches, financial loss, and unauthorized activity.</p>
+
+
+
+<p>Identity attacks use social engineering, prompt-bombing, bribing employees for 2FA codes, and session hijacking (among many techniques) to get privileged access. The theft of user credentials, such as usernames and passwords or session tokens, can enable attackers to infiltrate other systems and services and grant access to sensitive systems and resources. The exposure of personal or sensitive information can lead to identity theft, phishing attacks, and other forms of cybercrime. The recent breach is a stark reminder of the importance of robust security measures and continuous monitoring to safeguard identity provider systems and protect against these potential impacts.</p>
+
+
+
+<p>Traditional security controls are bypassed in such attacks as bad actors assume a user’s identity and their malicious activity is indistinguishable from routine behavior.</p>
+
+
+
+<p>Unfortunately, every time a breach like this is reported, the security community is bombarded with pseudo-silver bullets claiming how the compromise could have been averted if only a particular solution had been deployed.</p>
+
+
+
+<p><strong>There is no silver bullet in cybersecurity. Adversaries can bypass even the best laid defense plans.</strong></p>
+
+
+
+<p>This post explains several recommendations for better preventing, detecting, and/or containing a security incident targeting IdPs. By leveraging a combination of zero trust principles, deception &amp; honeypots for detecting threats that bypass existing controls, and Identity Threat Detection &amp; Response (ITDR) for maintaining strong identity hygiene, you can get visibility into active sessions and credential exposure on endpoints, while also being able to detect identity-specific attacks.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>The criticality of a Zero Trust architecture in defending against IdP compromise</h3>
+
+
+
+<p>Zero Trust Network Access (ZTNA) replaces network-level based access and reduces excessive implicit trust for access to resources, primarily from remote locations, by employees, contractors, and other third parties.</p>
+
+
+
+<p>In this breach, the user unknowingly uploaded a file that had sensitive information to Okta’s support management system. The adversary leveraged the session cookies from the uploaded information to further advance the breach. A DLP-like technology can be effective in preventing users from uploading files with sensitive data unknowingly.</p>
+
+
+
+<p>Using posture control, organizations can limit access to applications on managed devices only. Access will be prohibited if the adversaries try to access the critical applications or servers from unmanaged devices. It is imperative to make unmanaged device access a mandatory part of the ZTNA architecture.</p>
+
+
+
+<p>The blast radius from the attack can be reduced by enforcing stringent segmentation policies. An administrator should define the policies for combining user attributes and services to enforce who has access to what. It is important to determine if a universal access policy is needed when users are on and off premises.</p>
+
+
+
+<p>In this recent OKTA breach, no reports suggest major incidents so far. But in most cyberattacks, the threat actors are after the crown jewel systems and the data. Once the attackers have established a network foothold, they move laterally in the network, identifying the systems that are critical for the organizations to launch further attacks, including data theft. Defense-in-Depth (DiD) plays a very critical role in breaking the attack chain. This layered security approach enforces a very strong defense against sophisticated attacks such that if one layer fails to detect an advancement of a threat actor in the attack chain, then the next layer can still detect the attacker’s next move and break the chain to neutralize the attack.  </p>
+
+
+
+<h3 class="wp-block-heading">Leveraging deception and ITDR using the Zero Trust platform for defense</h3>
+
+
+
+<p>While Zero Trust reduces your attack surface by making resources invisible to the internet and minimizes the blast radius by connecting users directly to applications, deception, and ITDR are two additional tools in your arsenal that can help prevent, detect, and contain identity-driven attacks.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>Deception</h3>
+
+
+
+<p>Adversaries rely on human error, policy gaps, and poor security hygiene to circumvent defenses and stay hidden as they escalate privileges and move laterally. No security team can be 100% certain that their defenses are bulletproof all the time–this is what adversaries take advantage of.</p>
+
+
+
+<p>Deception changes the dynamics by injecting uncertainty into your environment. After hijacking a session token or using credentials, the attacker will scan the environment to find accounts and keys in an attempt to access critical applications and sensitive data.</p>
+
+
+
+<p>A simple deception strategy can help detect adversary presence before an attacker establishes persistence or exfiltrates data.</p>
+
+
+
+
+
+
+
+<p>Using deception will not always stop an identity attack, but it will act as a last line of defense to detect a post-breach adversarial presence. This can help prevent a compromise from turning into a breach.</p>
+
+
+
+<h3 class="wp-block-heading">ITDR</h3>
+
+
+
+<p>ITDR is an emerging security discipline that sits at the intersection of threat detection and identity and access management.</p>
+
+
+
+<p>It is becoming a top security priority for CISOs due to the rise of identity attacks and ITDR’s ability to provide visibility into an organization’s identity posture, implement hygiene best practices, and detect identity-specific attacks.</p>
+
+
+
+<p>Augment your Zero Trust implementation with ITDR to prevent and detect identity attacks using the following principles:</p>
+
+
+
+<p><strong>Identity Posture Management: </strong>Continuously assess identity stores like Active Directory, AzureAD, and Okta to get visibility into misconfigurations, excessive permissions, and Indicators or Exposure (IOEs) that could give attackers access to higher privileges and lateral movement paths.</p>
+
+
+
+<p><strong>Implement identity hygiene:</strong> Use posture management best practices to revoke permissions and configure default policies that minimize attack paths and privileges.</p>
+
+
+
+<p><strong>Threat Detection: </strong>Monitor endpoints for specific activities like DCSync, DCShadow, Kerberoasting, LDAP enumeration, and similar changes that correlate to malicious behavior.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>Detecting and responding to IdP breaches</h3>
+
+
+
+<p>An effective Security Operations Center (SOC) playbook plays a crucial role in proactively identifying and mitigating potential IdP attack vectors. By implementing a comprehensive monitoring and detection strategy, organizations can swiftly respond to IdP attack attempts, safeguard user identities, and protect critical resources.</p>
+
+
+
+<p>A SOC playbook for the IdP and MFA threat vectors contains detection alerts that are essential to identifying and responding to potential security incidents.</p>
+
+
+
+<p>Monitor and alert for:</p>
+
+
+
+<ul>
+<li>Permission changes implemented by suspicious users<ul><li> Admin with an unusual location</li></ul><ul><li> Admin with an unusual user agent</li></ul>
+<ul>
+<li> Admin with an unusual agent version</li>
+</ul>
+</li>
+
+
+
+<li>Failed Okta authentications for privileged users without a follow-up successful authentication</li>
+
+
+
+<li>Failed Okta authentications for different users coming from the same source</li>
+
+
+
+<li>Reused session IDs<ul><li> Same session ID with different user agents</li></ul>
+<ul>
+<li> Same session ID coming from different countries</li>
+</ul>
+</li>
+
+
+
+<li>MFA resets</li>
+</ul>
+
+
+
+<p>For Okta customers, it is advisable to contact the company directly to obtain more information regarding the potential impact on their organization. Additionally, we offer the following recommendations as immediate action:</p>
+
+
+
+<p>Perform a thorough investigation for any of the following recent events in your environment:<br><br></p>
+
+
+
+<ul>
+<li>Recent password resets or MFA resets performed by helpdesk or support personnel</li>
+
+
+
+<li>Review all recently created Okta administrators</li>
+
+
+
+<li>Review that all password resets are valid</li>
+
+
+
+<li>Review all MFA-related events, such as MFA resets or changes to any MFA configuration</li>
+
+
+
+<li>Ensure MFA is enabled for all user accounts and administrator accounts, and review actions performed by the administrator accounts</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Identity and MFA best practices</h3>
+
+
+
+<p>Employing security best practices in managing your identities and MFA configuration is paramount in establishing a robust security posture and effectively mitigating the risks associated with unauthorized access and data breaches. By diligently implementing the following measures and best practices, organizations can greatly fortify the safeguarding of identities and bolster the efficacy of their MFA deployment.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>Protect user identities</h3>
+
+
+
+<ul>
+<li><strong>Use Strong and Unique Passwords:</strong> Encourage users to create strong, complex, and unique passwords for their accounts. Implement password policies that enforce minimum length, complexity, and regular password changes.</li>
+
+
+
+<li><strong>Implement Least Privilege:</strong> Follow the principle of least privilege, granting users only the minimum access necessary to perform their tasks. By limiting user privileges, you reduce the potential impact of compromised credentials.</li>
+
+
+
+<li><strong>Educate Users:</strong> User awareness and education play a vital role in maintaining security. Train users on the importance of strong passwords, how to recognize phishing attempts, and how to properly use MFA methods. Regularly remind users to follow security best practices and report any suspicious activities.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Protect against MFA attacks</h3>
+
+
+
+<p>Traditional MFA methods, such as SMS codes or email-based one-time passwords (OTPs), can be susceptible to phishing attacks. Phishers can intercept these codes or trick users into entering them into fake login pages, bypassing the additional security layer provided by MFA. To address this vulnerability, phish-resistant MFA methods have been developed. These methods aim to ensure that even if users are tricked into entering their credentials on a phishing website, the attacker cannot gain access without the additional authentication factor.</p>
+
+
+
+<ul>
+<li><strong>Use FIDO2-Based MFA</strong>: FIDO2 (Fast Identity Online) is a strong authentication standard that provides secure and passwordless authentication. It is recommended to implement FIDO2-based MFA, which uses public key cryptography to enhance security and protect against phishing attacks.</li>
+
+
+
+<li><strong>Utilize Hardware Tokens: </strong>Hardware tokens, such as USB security keys or smart cards, can provide an extra level of security for MFA. These physical devices generate one-time passwords or use public key cryptography for authentication, making it difficult for attackers to compromise.</li>
+</ul>
+
+
+
+<p>Zscaler’s ThreatLabZ and security teams will continue to monitor the Okta breach. If any further information is disclosed by Okta or discovered through other sources, we will publish an update to this post.</p>
+
+
+
+<p>To learn more, visit us here.</p>
+</div></div></div></body>
+  </div>
+  <p>
+    Source:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.cio.com/article/657106/what-you-need-to-know-about-oktas-security-breach.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">CIO</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Wed, 25 Oct 2023 17:36:48 +0000</span>
+  </p>
+</div></main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="On October 20, 2023, Okta Security identified adversarial activity that used a stolen credential to gain access to the company’s support case management system. Once inside the system, the hacker gained access to files uploaded by Okta customers using valid session tokens from recent support cases.">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://twitter.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Twitter" aria-label="Follow us on Twitter"><svg role="img" aria-label="Twitter Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 612 612"><path d="M612,116.258c-22.525,9.981-46.694,16.75-72.088,19.772c25.929-15.527,45.777-40.155,55.184-69.411 c-24.322,14.379-51.169,24.82-79.775,30.48c-22.907-24.437-55.49-39.658-91.63-39.658c-69.334,0-125.551,56.217-125.551,125.513 c0,9.828,1.109,19.427,3.251,28.606C197.065,206.32,104.556,156.337,42.641,80.386c-10.823,18.51-16.98,40.078-16.98,63.101 c0,43.559,22.181,81.993,55.835,104.479c-20.575-0.688-39.926-6.348-56.867-15.756v1.568c0,60.806,43.291,111.554,100.693,123.104 c-10.517,2.83-21.607,4.398-33.08,4.398c-8.107,0-15.947-0.803-23.634-2.333c15.985,49.907,62.336,86.199,117.253,87.194 c-42.947,33.654-97.099,53.655-155.916,53.655c-10.134,0-20.116-0.612-29.944-1.721c55.567,35.681,121.536,56.485,192.438,56.485 c230.948,0,357.188-191.291,357.188-357.188l-0.421-16.253C573.872,163.526,595.211,141.422,612,116.258z"></path></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+    </span>
+    © 2023&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.5)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.5">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.5" async></script>
+</body>
+</html>
