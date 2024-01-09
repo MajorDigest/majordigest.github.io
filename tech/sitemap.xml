@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/01/09/nvidia-denies-valeos-code-theft-allegations/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-01-09T08:56:17.000Z</news:publication_date>
+            <news:title>Nvidia denies Valeo&#8217;s code theft allegations</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static4/tech/2024/01/09/nvidia-denies-valeos-code-theft-allegations.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/01/09/openai-claims-nyt-is-not-telling-the-full-story-in-its-copyright-lawsuit/</loc>
           <news:news>
             <news:publication>
@@ -17,17 +31,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/01/09/leadership-3-ostacoli-che-possono-compromettere-la-fiducia-nel-cio/</loc>
+          <loc>https://majordigest.com/tech/2024/01/09/openai-response-nyt-lawsuit-journalism-copyright/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-01-09T05:00:00.000Z</news:publication_date>
-            <news:title>Leadership: 3 ostacoli che possono compromettere la fiducia nel CIO</news:title>
+            <news:publication_date>2024-01-09T05:50:56.000Z</news:publication_date>
+            <news:title>OpenAI calls NYT lawsuit meritless, says it supports journalism</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static4/tech/2024/01/09/leadership-3-ostacoli-che-possono-compromettere-la-fiducia-nel-cio.webp</image:loc>
+            <image:loc>https://majordigest.com/static4/tech/2024/01/09/openai-response-nyt-lawsuit-journalism-copyright.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -87,20 +101,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/01/08/critical-fuel-leak-imperils-us-companys-moon-landing-attempt/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-01-08T23:59:54.000Z</news:publication_date>
-            <news:title>&#8216;Critical&#8217; fuel leak imperils US company&#8217;s moon landing attempt</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static4/tech/2024/01/08/critical-fuel-leak-imperils-us-companys-moon-landing-attempt.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/01/08/interagency-team-making-it-easier-for-new-families-to-seek-out-federal-benefits/</loc>
           <news:news>
             <news:publication>
@@ -157,6 +157,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/01/08/scientists-find-about-a-quarter-million-invisible-nanoplastic-particles-in-a-liter-of-bottled-water/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-01-08T21:11:20.000Z</news:publication_date>
+            <news:title>Scientists find about a quarter million invisible nanoplastic particles in a liter of bottled water</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static4/tech/2024/01/08/scientists-find-about-a-quarter-million-invisible-nanoplastic-particles-in-a-liter-of-bottled-water.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/01/08/%e3%83%89%e3%82%a4%e3%83%84itzbund%e3%80%81%e9%80%a3%e9%82%a6%e6%94%bf%e5%ba%9c%e3%81%aeit%e3%81%ae%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e5%8c%96%e7%9b%ae%e6%8c%87%e3%81%99/</loc>
           <news:news>
             <news:publication>
@@ -182,6 +196,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static4/tech/2024/01/08/elon-musk-denies-using-illegal-drugs-after-report-colleagues-concerns.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/01/08/openai-genai-tools-cant-be-made-without-copyrighted-materials/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-01-08T20:13:00.000Z</news:publication_date>
+            <news:title>OpenAI: GenAI tools can&#8217;t be made without copyrighted materials</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static4/tech/2024/01/08/openai-genai-tools-cant-be-made-without-copyrighted-materials.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -297,6 +325,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/01/08/semiconductor-chips-to-cost-less-as-chinese-chipmakers-offer-price-cuts/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-01-08T12:06:33.000Z</news:publication_date>
+            <news:title>Semiconductor chips to cost less as Chinese chipmakers offer price cuts</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static4/tech/2024/01/08/semiconductor-chips-to-cost-less-as-chinese-chipmakers-offer-price-cuts.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/01/08/are-your-out-loud-conversations-fueling-ads-pushed-to-your-devices/</loc>
           <news:news>
             <news:publication>
@@ -308,34 +350,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static4/tech/2024/01/08/are-your-out-loud-conversations-fueling-ads-pushed-to-your-devices.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/01/08/10-top-priorities-for-cios-in-2024/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-01-08T10:01:00.000Z</news:publication_date>
-            <news:title>10 top priorities for CIOs in 2024</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static4/tech/2024/01/08/10-top-priorities-for-cios-in-2024.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/01/08/how-do-we-make-money-with-generative-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-01-08T10:00:00.000Z</news:publication_date>
-            <news:title>How do we make money with generative AI? </news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static4/tech/2024/01/08/how-do-we-make-money-with-generative-ai.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -364,6 +378,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static4/tech/2024/01/08/10-ways-to-destroy-developer-happiness.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/01/08/how-do-we-make-money-with-generative-ai/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-01-08T10:00:00.000Z</news:publication_date>
+            <news:title>How do we make money with generative AI? </news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static4/tech/2024/01/08/how-do-we-make-money-with-generative-ai.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -406,20 +434,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static4/tech/2024/01/07/alaska-airlines-again-grounds-all-boeing-737-max-9-jetliners-as-more-maintenance-may-be-needed-2.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/01/07/these-5-fuzz-buster-apps-can-help-get-you-out-of-speeding-ticket/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-01-07T15:00:47.000Z</news:publication_date>
-            <news:title>These 5 fuzz buster apps can help get you out of a speeding ticket</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static4/tech/2024/01/07/these-5-fuzz-buster-apps-can-help-get-you-out-of-speeding-ticket.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -479,34 +493,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/01/05/broadcoms-vmware-alterations-include-layoffs-changes-to-partner-programs/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-01-05T17:53:13.000Z</news:publication_date>
-            <news:title>Broadcom&#8217;s VMware alterations include layoffs, changes to partner programs</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static4/tech/2024/01/05/broadcoms-vmware-alterations-include-layoffs-changes-to-partner-programs.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/01/05/official-suggests-polish-president-check-social-media-security-after-odd-tweet-from-private-account/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-01-05T14:21:56.000Z</news:publication_date>
-            <news:title>Official suggests Polish president check social media security after odd tweet from private account</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static4/tech/2024/01/05/official-suggests-polish-president-check-social-media-security-after-odd-tweet-from-private-account.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/01/04/13-year-old-gamer-becomes-the-first-to-beat-the-unbeatable-tetris-by-breaking-it/</loc>
           <news:news>
             <news:publication>
@@ -518,5 +504,19 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static4/tech/2024/01/04/13-year-old-gamer-becomes-the-first-to-beat-the-unbeatable-tetris-by-breaking-it.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/01/04/how-to-turn-off-facebooks-latest-way-to-track-you/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-01-04T02:11:03.000Z</news:publication_date>
+            <news:title>How to turn off Facebook's latest way to track you</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static4/tech/2024/01/04/how-to-turn-off-facebooks-latest-way-to-track-you.webp</image:loc>
           </image:image>
         </url></urlset>
