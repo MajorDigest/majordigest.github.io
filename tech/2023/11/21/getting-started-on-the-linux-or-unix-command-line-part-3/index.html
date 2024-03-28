@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en">
+<head>
+<meta charset="utf-8">
+<title>Getting started on the Linux (or Unix) command line, Part 3 - Major Digest</title>
+<meta name="description" content="One of the things you need when building your chops on Linux is a command vocabulary that will allow you to do all of the things that you need to do on the command line.">
+<link rel="canonical" href="https://majordigest.com/tech/2023/11/21/getting-started-on-the-linux-or-unix-command-line-part-3/">
+
+<meta itemprop="name" content="Getting started on the Linux (or Unix) command line, Part 3 - Major Digest">
+<meta itemprop="description" content="One of the things you need when building your chops on Linux is a command vocabulary that will allow you to do all of the things that you need to do on the command line.">
+<link itemprop="url" href="https://majordigest.com/tech/2023/11/21/getting-started-on-the-linux-or-unix-command-line-part-3/">
+<meta itemprop="image" content="https://majordigest.com/static3/tech/2023/11/21/getting-started-on-the-linux-or-unix-command-line-part-3.webp">
+
+<meta property="og:title" content="Getting started on the Linux (or Unix) command line, Part 3 - Major Digest">
+<meta property="og:description" content="One of the things you need when building your chops on Linux is a command vocabulary that will allow you to do all of the things that you need to do on the command line.">
+<meta property="og:url" content="https://majordigest.com/tech/2023/11/21/getting-started-on-the-linux-or-unix-command-line-part-3/">
+<meta property="og:image" content="https://majordigest.com/static3/tech/2023/11/21/getting-started-on-the-linux-or-unix-command-line-part-3.webp">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Major Digest">
+<meta property="fb:pages" content="113570554924596">
+<!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+<meta name="twitter:title" content="Getting started on the Linux (or Unix) command line, Part 3 - Major Digest">
+<meta name="twitter:description" content="One of the things you need when building your chops on Linux is a command vocabulary that will allow you to do all of the things that you need to do on the command line.">
+<meta name="twitter:url" content="https://majordigest.com/tech/2023/11/21/getting-started-on-the-linux-or-unix-command-line-part-3/">
+<meta name="twitter:image" content="https://majordigest.com/static3/tech/2023/11/21/getting-started-on-the-linux-or-unix-command-line-part-3.webp">
+<meta name="twitter:image:alt" content="Getting started on the Linux (or Unix) command line, Part 3 - Major Digest">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@major_digest">
+<meta name="twitter:creator" content="@vpodk">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+<link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Major Digest">
+<meta name="application-name" content="Major Digest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="manifest" href="/manifest.json?v=1.1.5">
+<link rel="stylesheet" href="/assets/styles.css?v=1.1.5">
+</head>
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <a href="/archive/" aria-label="Major Digest Archive"
+         title="Delve into past events, breaking news, and timeless stories that shaped our world.">
+        <time datetime="2023-11-22T08:02:30.118Z" itemprop="datePublished">Wednesday, November 22, 2023</time>
+      </a>&nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img
+           src="/assets/logo.svg" alt="Major Digest Home"
+           width="225" height="50"></a>
+      <span>Getting started on the Linux (or Unix) command line, Part 3 - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Tue, 21 Nov 2023 15:38:43 +0000">
+  <meta itemprop="url" content="/tech/2023/11/21/getting-started-on-the-linux-or-unix-command-line-part-3/">
+  <h2 itemprop="headline">Getting started on the Linux (or Unix) command line, Part 3</h2>
+  <div itemprop="articleBody">
+    <img src="/static3/tech/2023/11/21/getting-started-on-the-linux-or-unix-command-line-part-3.webp" alt="Getting started on the Linux (or Unix) command line, Part 3" align="left"
+         itemprop="image" width="400" height="225"
+         referrerpolicy="no-referrer">
+    <body><div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<p>One of the things you need when building your "chops" on Linux is a command vocabulary that will allow you to do all of the things that you need to do on the command line. One of the best ways to do this is to start with a "cheat sheet" - a list of the commonly used commands with brief explanations and examples of what the commands can do. A cheat sheet can help you to become familiar with commands you might not even have known were available.</p>
+<p>This post provides an intro Linux cheat sheet. It includes a series of commands with descriptions and examples and categorizes them in groups by their primary focus. Keep in mind that, while most commands on Linux will work the same from one distribution to the next, some commands - like those used to install manage packages (tools, programming languages, etc.) - will differ from one distro to another.</p>
+<h3 id="a-brief-cheat-sheet">A brief cheat sheet</h3>
+<p>The tables below provides information on some of the most basic Linux commands.</p>
+<h3 id="getting-familiar-with-your-account">Getting familiar with your account</h3>
+<div class="overflow-table-wrapper"><table>
+<tbody>
+<tr>
+<th>Command</th>
+<th>Function</th>
+<th>Example</th>
+</tr>
+<tr>
+<td>pwd</td>
+<td>display current file system location</td>
+<td>pwd</td>
+</tr>
+<tr>
+<td>whoami</td>
+<td>display username</td>
+<td>whoami</td>
+</tr>
+<tr>
+<td>who</td>
+<td>list logged in users</td>
+<td>who</td>
+</tr>
+<tr>
+<td>ls</td>
+<td>list files in current location</td>
+<td>ls; ls -l; ls -a</td>
+</tr>
+<tr>
+<td>env</td>
+<td>display settings (search path, command history ...)</td>
+<td>env</td>
+</tr>
+<tr>
+<td>echo</td>
+<td>repeat the argument provided</td>
+<td>echo hello; echo $PATH</td>
+</tr>
+<tr>
+<td>history</td>
+<td>list recently used commands</td>
+<td>history; history | tail -5</td>
+</tr>
+<tr>
+<td>passwd</td>
+<td>reset your password</td>
+<td>passwd</td>
+</tr>
+</tbody>
+</table> </div>
+<h3 id="looking-at-text-file-content">Looking at text file content</h3>
+<div class="overflow-table-wrapper"><table>
+<tbody>
+<tr>
+<th>Command</th>
+<th>Function</th>
+<th>Example</th>
+</tr>
+<tr>
+<td>cat</td>
+<td>display file content</td>
+<td>cat myfile</td>
+</tr>
+<tr>
+<td>more</td>
+<td>view file content a page at a time</td>
+<td>more myfile</td>
+</tr>
+<tr>
+<td>less</td>
+<td>display file content a page at a time, allows backing up</td>
+<td>less myfile</td>
+</tr>
+<tr>
+<td>head</td>
+<td>show top of file</td>
+<td>head myfile; head -5 myfile</td>
+</tr>
+<tr>
+<td>tail</td>
+<td>show bottom of file</td>
+<td>tail myfile; tail -3 myfile</td>
+</tr>
+</tbody>
+</table> </div>
+<h3 id="managing-your-files">Managing your files</h3>
+<div class="overflow-table-wrapper"><table>
+<tbody>
+<tr>
+<th>Command</th>
+<th>Function</th>
+<th>Example</th>
+</tr>
+<tr>
+<td>chmod</td>
+<td>change file permissions</td>
+<td>chmod a+x myscript; chmod 700 myscript</td>
+</tr>
+<tr>
+<td>cp</td>
+<td>make a copy of a file</td>
+<td>cp myfile savefile</td>
+</tr>
+<tr>
+<td>mv</td>
+<td>rename a file or move to another location</td>
+<td>mv file oldfile; mv script bin</td>
+</tr>
+<tr>
+<td>rm</td>
+<td>delete a file</td>
+<td>rm oldfile</td>
+</tr>
+</tbody>
+</table> </div>
+<h3 id="view-running-processes">View running processes</h3>
+<div class="overflow-table-wrapper"><table>
+<tbody>
+<tr>
+<th>Command</th>
+<th>Function</th>
+<th>Example</th>
+</tr>
+<tr>
+<td>ps</td>
+<td>show processes associated with your current login</td>
+<td>ps</td>
+</tr>
+<tr>
+<td>ps -ef</td>
+<td>show processes running on the system</td>
+<td>ps -ef; ps -ef | more</td>
+</tr>
+</tbody>
+</table> </div>
+<h3 id="command-output">Command output</h3>
+<p>The examples in this section provide sample output for many of the commands described in the tables above.</p>
+<h3 id="env">env</h3>
+<p>The <strong>env</strong> command provides a lot of information on your command environment. This includes the shell assigned to your account, how many of the commands you run will be maintained in your command history (HISTSIZE), your default text editor, your current file system location, terminal type and most recent former file system location as well as other data.</p>
+<pre>$ env
+SHELL=/bin/bash
+HISTCONTROL=ignoredups
+HISTSIZE=1000
+HOSTNAME=fedora
+EDITOR=/usr/bin/nano
+PWD=/home/justme
+LOGNAME=justme
+HOME=/home/justme
+LANG=en_US.UTF-8
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;37;41:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.m4a=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.oga=01;36:*.opus=01;36:*.spx=01;36:*.xspf=01;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:
+TERM=xterm
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+USER=justme
+SHLVL=1
+DEBUGINFOD_URLS=https://debuginfod.fedoraproject.org/
+XDG_DATA_DIRS=/home/justme/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+PATH=/home/justme/.local/bin:/home/justme/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+MAIL=/var/spool/mail/justme
+_=/usr/bin/env
+OLDPWD=/tmp
+</pre>
+<h3 id="echo">echo</h3>
+<p>The <strong>echo</strong> command will display content you provide and variables you include, but it can also be used to add lines to existing files.</p>
+<pre>$ echo date: `date`
+date: Tue Nov 20 02:53:43 PM EST 2023
+</pre>
+<p>Note that including command output in an <strong>echo</strong> command requires using backticks to run the command rather than just display its name. To add the generated output to a file, you would use a command like this:</p>
+<pre>$ echo date: `date` &gt; myreport
+$ cat myreport
+date: Tue Nov 20 03:06:33 PM EST 2023
+</pre>
+<p>Keep in mind that &gt; overwrites and former file content. Use &gt;&gt; to append to an existing file.</p>
+<h3 id="history">history</h3>
+<p>The <strong>history</strong> command shows recent commands you have run - as many as your $HISTSIZE setting allows. You can narrow this down to the most recent four with a command like this:</p>
+<pre>$ history | tail -3
+   84  echo date: `date` &gt; myreport
+   85  cat myreport
+   86  history | tail -3
+</pre>
+<p>The <strong>passwd</strong> command allows you to change your password but requires that you enter your current password first. It also enforces some length and complexity requirements.</p>
+<pre>$ passwd
+Changing password for user justme.
+Current password:
+New password:
+Retype new password:
+passwd: all authentication tokens updated successfully.
+</pre>
+<h3 id="more">more</h3>
+<p>The <strong>more</strong> command displays file content a screen at a time. To save space below, I've used the <strong>-n</strong> option to display only five lines at a time from a very long list of time zones. You would press the enter key to see the next five.</p>
+<pre>$ more -n 5 TZs
+Africa/Abidjan
+Africa/Accra
+Africa/Addis_Ababa
+Africa/Algiers
+Africa/Asmara
+</pre>
+<h3 id="head-and-tail">head and tail</h3>
+<p>The <strong>head</strong> and <strong>tail</strong> commands will display the top and bottom lines in text files. As with the <strong>more</strong> command, you can add the <strong>-n</strong> option to limit the number of lines displayed.</p>
+<pre>$ head -n 5 TZs
+Africa/Abidjan
+Africa/Accra
+Africa/Addis_Ababa
+Africa/Algiers
+Africa/Asmara
+$ tail -n 5 TZs
+UTC
+Universal
+W-SU
+WET	
+Zulu
+</pre>
+<h3 id="chmod">chmod</h3>
+<p>The <strong>chmod</strong> command is used to change file permissions. If you set up a script that you want others to be able to run, you can give them execute permission with command like this:</p>
+<pre>$ chmod 755 myscript
+</pre>
+<p>The first 5 in the <strong>chmod</strong> command above sets the script's permissions to allow others in the same group to read and execute the script. The second allows anyone else to run the script (provided they have access to the file's location). Normally, Linux accounts are set up with the account owner being the only member of a same-named group.</p>
+<pre>$ chmod 755 mkTable
+$ ls -l mkTable
+-rwxr-xr-x. 1 justme justme 701 Nov 17 14:05 mkTable
+</pre>
+<h3 id="cp">cp</h3>
+<p>The <strong>cp</strong> command makes a copy of a file. For example, it's often a good idea to make a backup copy of a file before making significant changes so that you can easily "roll back" if something goes wrong.</p>
+<pre>$ cp myfile myfile.backup
+</pre>
+<h3 id="mv-and-rm">mv and rm</h3>
+<p>The <strong>mv</strong> (remove) command allows you to rename a file, move it to another location, or do both in a single command. Here are some examples:</p>
+<pre>$ mv myreport oldreport
+$ mv myscript ~/bin
+$ mv myreport /shared/reports
+</pre>
+<p>The <strong>rm</strong> (remove) command deletes a file.</p>
+<pre>$ rm oldfile
+$ ls oldfile
+ls: cannot access 'oldfile': No such file or directory
+</pre>
+<p>The final <strong>ls</strong> command above shows that the file is no longer available after the <strong>rm</strong> command is run.</p>
+<h3 id="ps">ps</h3>
+<p>The <strong>ps</strong> command shows running processes. Without arguments, it only shows processes related to your current login.</p>
+<pre>$ ps
+    PID TTY          TIME CMD
+   6688 pts/1    00:00:00 bash
+   7201 pts/1    00:00:00 ps
+</pre>
+<p>Use <strong>ps -ef</strong> (<strong>ps -aux</strong> on some systems) to see all running processes. You can send the command output to a <strong>more</strong> or a <strong>grep</strong> command to restrict the output to just what you're looking for.</p>
+<pre>$ ps -ef | grep sshd
+root         782       1  0 Nov20 ?        00:00:00 sshd: /usr/sbin/sshd -D
+root        6632     782  0 14:38 ?        00:00:00 sshd: shs [priv]
+justme      6678    6632  0 14:38 ?        00:00:00 sshd: shs@pts/1
+justme      7228    6688  0 16:14 pts/1    00:00:00 grep --color=auto sshd
+</pre>
+<p>The command output above is showing processes associated with the <strong>sshd</strong> (secure login) processes.</p>
+<h3 id="who">who</h3>
+<p>The <strong>who</strong> command provides a list of everyone currently logged into the system, whether at the system console or logged on remotely.</p>
+<pre>$ who
+fedora   seat0        2023-11-16 09:06 (login screen)
+fedora   tty2         2023-11-16 09:06 (tty2)
+justme   pts/1        2023-11-17 14:38 (192.168.0.8)
+</pre>
+<h3 id="wrap-up">Wrap-up</h3>
+<p>There's a lot to learn about Linux before you will likely feel "at home" on the command line, but it's well worth the effort.</p></div></div></div></body>
+  </div>
+  <p>
+    Source:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.networkworld.com/article/1248722/getting-started-on-the-linux-or-unix-command-line-part-3.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Network World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Tue, 21 Nov 2023 15:38:43 +0000</span>
+  </p>
+</div></main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="One of the things you need when building your chops on Linux is a command vocabulary that will allow you to do all of the things that you need to do on the command line.">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://twitter.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Twitter" aria-label="Follow us on Twitter"><svg role="img" aria-label="Twitter Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 612 612"><path d="M612,116.258c-22.525,9.981-46.694,16.75-72.088,19.772c25.929-15.527,45.777-40.155,55.184-69.411 c-24.322,14.379-51.169,24.82-79.775,30.48c-22.907-24.437-55.49-39.658-91.63-39.658c-69.334,0-125.551,56.217-125.551,125.513 c0,9.828,1.109,19.427,3.251,28.606C197.065,206.32,104.556,156.337,42.641,80.386c-10.823,18.51-16.98,40.078-16.98,63.101 c0,43.559,22.181,81.993,55.835,104.479c-20.575-0.688-39.926-6.348-56.867-15.756v1.568c0,60.806,43.291,111.554,100.693,123.104 c-10.517,2.83-21.607,4.398-33.08,4.398c-8.107,0-15.947-0.803-23.634-2.333c15.985,49.907,62.336,86.199,117.253,87.194 c-42.947,33.654-97.099,53.655-155.916,53.655c-10.134,0-20.116-0.612-29.944-1.721c55.567,35.681,121.536,56.485,192.438,56.485 c230.948,0,357.188-191.291,357.188-357.188l-0.421-16.253C573.872,163.526,595.211,141.422,612,116.258z"></path></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+    </span>
+    © 2023&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.5)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.5">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.5" async></script>
+</body>
+</html>
