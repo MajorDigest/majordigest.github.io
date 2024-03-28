@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 28 Mar 2024 08:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 09:04:22 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,101 +19,91 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Debate emerges over whether modern protections could have saved Baltimore bridge</title>
-          <description><![CDATA[When a 900-foot container ship struck the San Francisco–Oakland Bay Bridge in 2007, the span stood firm and no one died, either on the ship or the highway above. The bridge's supports were protected by a fendering system of concrete and other materials that was installed to absorb such strikes.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/27/debate-emerges-over-whether-modern-protections-could-have-saved-baltimore-bridge-2/</guid>
-          <link>https://majordigest.com/tech/2024/03/27/debate-emerges-over-whether-modern-protections-could-have-saved-baltimore-bridge-2/</link>
-          <pubDate>Wed, 27 Mar 2024 23:30:24 +0000</pubDate>
+          <title>White House releases first government-wide policy to mitigate AI risks&#160;</title>
+          <description><![CDATA[The White House on Thursday morning released its first government-wide policy aimed at mitigating the risks of artificial intelligence (AI), requiring agencies to take further action to report the use of AI and address risks the technology may pose.]]></description>
+          <guid>https://majordigest.com/tech/2024/03/28/white-house-ai-risks/</guid>
+          <link>https://majordigest.com/tech/2024/03/28/white-house-ai-risks/</link>
+          <pubDate>Thu, 28 Mar 2024 09:00:00 +0000</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/27/debate-emerges-over-whether-modern-protections-could-have-saved-baltimore-bridge-2.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/27/debate-emerges-over-whether-modern-protections-could-have-saved-baltimore-bridge-2.webp"/>
-          <dc:creator>BEN FINLEY, Associated Press, NewsNation</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/28/white-house-ai-risks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/28/white-house-ai-risks.webp"/>
+          <dc:creator>Rebecca Klar, The Hill</dc:creator>
         </item>
         <item>
-          <title>TikTok is under investigation by the FTC over data practices and could face a lawsuit</title>
-          <description><![CDATA[NEW YORK (AP) — The Federal Trade Commission is investigating TikTok over its data and security practices, a probe that could lead to a settlement or a lawsuit against the company, according to a person familiar with the matter.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/27/tiktok-is-under-investigation-by-the-ftc-over-data-practices-and-could-face-a-lawsuit-2/</guid>
-          <link>https://majordigest.com/tech/2024/03/27/tiktok-is-under-investigation-by-the-ftc-over-data-practices-and-could-face-a-lawsuit-2/</link>
-          <pubDate>Wed, 27 Mar 2024 16:41:04 +0000</pubDate>
+          <title>Using Microsoft&#8217;s Retina to monitor Kubernetes networks</title>
+          <description><![CDATA[Kubernetes plays an important role at Microsoft. The container management system is a foundational piece of the company’s many clouds, from Microsoft 365 and Xbox, to Azure, to partners like OpenAI that use Microsoft’s Kubernetes to host their own services.]]></description>
+          <guid>https://majordigest.com/tech/2024/03/28/using-microsoft-s-retina-to-monitor-kubernetes-networks/</guid>
+          <link>https://majordigest.com/tech/2024/03/28/using-microsoft-s-retina-to-monitor-kubernetes-networks/</link>
+          <pubDate>Thu, 28 Mar 2024 02:00:00 -0700</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/27/tiktok-is-under-investigation-by-the-ftc-over-data-practices-and-could-face-a-lawsuit-2.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/27/tiktok-is-under-investigation-by-the-ftc-over-data-practices-and-could-face-a-lawsuit-2.webp"/>
-          <dc:creator>HALELUYA HADERO, Associated Press, KGET 17, NBC</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/28/using-microsoft-s-retina-to-monitor-kubernetes-networks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/28/using-microsoft-s-retina-to-monitor-kubernetes-networks.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Beware the gap between security readiness and confidence levels, Cisco warns</title>
-          <description><![CDATA[Security readiness among enterprises has dropped in the past year, while the confidence level of many organizations is up – a trend that doesn’t portend a good outcome.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/27/beware-the-gap-between-security-readiness-and-confidence-levels-cisco-warns/</guid>
-          <link>https://majordigest.com/tech/2024/03/27/beware-the-gap-between-security-readiness-and-confidence-levels-cisco-warns/</link>
-          <pubDate>Wed, 27 Mar 2024 16:24:12 +0000</pubDate>
+          <title>JDK 22: An average Java release, sort of</title>
+          <description><![CDATA[With atomic clock-like regularity, the latest version of Java, JDK 22, was released last week. Although this is not a long-term support (LTS) release, there is nothing to stop you from using it in production, and it contains some interesting new features.
+Let’s dive in and see what this brings us.]]></description>
+          <guid>https://majordigest.com/tech/2024/03/28/jdk-22-an-average-java-release-sort-of/</guid>
+          <link>https://majordigest.com/tech/2024/03/28/jdk-22-an-average-java-release-sort-of/</link>
+          <pubDate>Thu, 28 Mar 2024 02:00:00 -0700</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/27/beware-the-gap-between-security-readiness-and-confidence-levels-cisco-warns.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/27/beware-the-gap-between-security-readiness-and-confidence-levels-cisco-warns.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/28/jdk-22-an-average-java-release-sort-of.webp"/>
+          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/28/jdk-22-an-average-java-release-sort-of.webp"/>
+          <dc:creator>Simon Ritter, Info World</dc:creator>
         </item>
         <item>
-          <title>Cisco: AI tools, better workspaces would boost in-office appeal</title>
-          <description><![CDATA[With hybrid work becoming the norm, advanced software tools are key to getting employees more enthusiastic about in-office work.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/27/cisco-ai-tools-better-workspaces-would-boost-appeal-of-in-office-work/</guid>
-          <link>https://majordigest.com/tech/2024/03/27/cisco-ai-tools-better-workspaces-would-boost-appeal-of-in-office-work/</link>
-          <pubDate>Wed, 27 Mar 2024 14:00:29 +0000</pubDate>
+          <title>5 easy ways to run an LLM locally</title>
+          <description><![CDATA[Chatbots like ChatGPT, Claude.ai, and phind can be quite helpful, but you might not always want your questions or sensitive data handled by an external application. That's especially true on platforms where your interactions may be reviewed by humans and otherwise used to help train future models.]]></description>
+          <guid>https://majordigest.com/tech/2024/03/28/5-easy-ways-to-run-an-llm-locally/</guid>
+          <link>https://majordigest.com/tech/2024/03/28/5-easy-ways-to-run-an-llm-locally/</link>
+          <pubDate>Thu, 28 Mar 2024 02:00:00 -0700</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/27/cisco-ai-tools-better-workspaces-would-boost-appeal-of-in-office-work.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/27/cisco-ai-tools-better-workspaces-would-boost-appeal-of-in-office-work.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/28/5-easy-ways-to-run-an-llm-locally.webp"/>
+          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/28/5-easy-ways-to-run-an-llm-locally.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>AI death prediction researchers warn of copycats</title>
-          <description><![CDATA[The Life2vec AI Chatbot was revealed late last year, but remains private and unavailable to the public, according to a report from Metro.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/27/ai-death-prediction-researchers-warn-of-copycats/</guid>
-          <link>https://majordigest.com/tech/2024/03/27/ai-death-prediction-researchers-warn-of-copycats/</link>
-          <pubDate>Wed, 27 Mar 2024 04:16:33 +0000</pubDate>
+          <title>Lego asks police department to stop using toy heads on suspect photos</title>
+          <description><![CDATA[A California police department said it would no longer use Lego heads to obscure suspects’ faces in social media posts, after the Lego Group requested the department cease the practice, citing intellectual property concerns.]]></description>
+          <guid>https://majordigest.com/tech/2024/03/27/lego-asks-police-department-to-stop-using-toy-heads-on-suspect-photos/</guid>
+          <link>https://majordigest.com/tech/2024/03/27/lego-asks-police-department-to-stop-using-toy-heads-on-suspect-photos/</link>
+          <pubDate>Wed, 27 Mar 2024 19:39:51 +0000</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/27/ai-death-prediction-researchers-warn-of-copycats.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/27/ai-death-prediction-researchers-warn-of-copycats.webp"/>
-          <dc:creator>Katie Smith, NewsNation</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/27/lego-asks-police-department-to-stop-using-toy-heads-on-suspect-photos.webp"/>
+          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/27/lego-asks-police-department-to-stop-using-toy-heads-on-suspect-photos.webp"/>
+          <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
         </item>
         <item>
-          <title>Hallow prayer app co-founder says app's success is a 'blessing'</title>
-          <description><![CDATA[With 18.5 million downloads and 473 million prayers, CEO Alex Jones said he hopes the app reaches people who have “fallen away.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/27/hallow-prayer-app/</guid>
-          <link>https://majordigest.com/tech/2024/03/27/hallow-prayer-app/</link>
-          <pubDate>Wed, 27 Mar 2024 04:06:29 +0000</pubDate>
+          <title>Arizona becomes ground zero for 2024 election misinformation fears</title>
+          <description><![CDATA[Law enforcement officials are taking steps to put up guardrails ahead of the 2024 elections, where long-festering misinformation from 2020 is expected to heighten tensions — especially in the battleground state of Arizona.]]></description>
+          <guid>https://majordigest.com/tech/2024/03/27/arizona-becomes-ground-zero-for-2024-election-misinformation-fears/</guid>
+          <link>https://majordigest.com/tech/2024/03/27/arizona-becomes-ground-zero-for-2024-election-misinformation-fears/</link>
+          <pubDate>Wed, 27 Mar 2024 10:00:00 +0000</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/27/hallow-prayer-app.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/27/hallow-prayer-app.webp"/>
-          <dc:creator>Katie Smith, NewsNation</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/27/arizona-becomes-ground-zero-for-2024-election-misinformation-fears.webp"/>
+          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/27/arizona-becomes-ground-zero-for-2024-election-misinformation-fears.webp"/>
+          <dc:creator>Ella Lee, The Hill</dc:creator>
         </item>
         <item>
-          <title>Dutch hyperloop center aims to advance futuristic transport technology</title>
-          <description><![CDATA[VEENDAM, Netherlands (AP) — A 420-meter (quarter-mile) white steel tube running alongside a railway line in the windswept northern Netherlands could usher in a new era in the transportation of people and freight.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/26/dutch-hyperloop-center-aims-to-advance-futuristic-transport-technology/</guid>
-          <link>https://majordigest.com/tech/2024/03/26/dutch-hyperloop-center-aims-to-advance-futuristic-transport-technology/</link>
-          <pubDate>Tue, 26 Mar 2024 17:32:47 +0000</pubDate>
+          <title>Biden administration approves the nation's seventh large offshore wind project</title>
+          <description><![CDATA[The Biden administration greenlit the seventh large offshore wind project in the United States Tuesday.]]></description>
+          <guid>https://majordigest.com/tech/2024/03/26/biden-administration-approves-the-nations-seventh-large-offshore-wind-project/</guid>
+          <link>https://majordigest.com/tech/2024/03/26/biden-administration-approves-the-nations-seventh-large-offshore-wind-project/</link>
+          <pubDate>Tue, 26 Mar 2024 18:54:47 +0000</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/26/dutch-hyperloop-center-aims-to-advance-futuristic-transport-technology.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/26/dutch-hyperloop-center-aims-to-advance-futuristic-transport-technology.webp"/>
-          <dc:creator>MIKE CORDER, Associated Press, KGET 17, NBC</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/26/biden-administration-approves-the-nations-seventh-large-offshore-wind-project.webp"/>
+          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/26/biden-administration-approves-the-nations-seventh-large-offshore-wind-project.webp"/>
+          <dc:creator>The Associated Press, Associated Press, Local 4</dc:creator>
         </item>
         <item>
-          <title>HPE Aruba adds genAI search tools to network management platform</title>
-          <description><![CDATA[HPE Aruba is deploying genAI-driven search tools in its management platform to help customers access detailed responses to queries about network configurations, documentation, and other IT operational issues.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/26/hpe-aruba-adds-genai-search-tools-to-network-management-platform/</guid>
-          <link>https://majordigest.com/tech/2024/03/26/hpe-aruba-adds-genai-search-tools-to-network-management-platform/</link>
-          <pubDate>Tue, 26 Mar 2024 14:31:03 +0000</pubDate>
+          <title>What we know about Truth Social, Donald Trump's social media platform</title>
+          <description><![CDATA[Former President Donald Trump launched his social media platform, Truth Social, in early 2022, after he was banned from major sites such as Facebook and the former Twitter following the Jan. 6 insurrection.]]></description>
+          <guid>https://majordigest.com/tech/2024/03/22/what-is-truth-social-donald-trumps-social-media-platform/</guid>
+          <link>https://majordigest.com/tech/2024/03/22/what-is-truth-social-donald-trumps-social-media-platform/</link>
+          <pubDate>Fri, 22 Mar 2024 12:19:56 +0000</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/26/hpe-aruba-adds-genai-search-tools-to-network-management-platform.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/26/hpe-aruba-adds-genai-search-tools-to-network-management-platform.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>US and UK go after Chinese hackers accused of state-backed operation against politicians, dissidents</title>
-          <description><![CDATA[WASHINGTON (AP) — Hackers linked to the Chinese government launched a sweeping, state-backed operation that targeted U.S. officials, journalists, corporations, pro-democracy activists and the U.K.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/26/uk-government-set-to-link-china-government-affiliated-hackers-to-a-cyberattack-on-election-watchdog/</guid>
-          <link>https://majordigest.com/tech/2024/03/26/uk-government-set-to-link-china-government-affiliated-hackers-to-a-cyberattack-on-election-watchdog/</link>
-          <pubDate>Tue, 26 Mar 2024 01:04:48 +0000</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/26/uk-government-set-to-link-china-government-affiliated-hackers-to-a-cyberattack-on-election-watchdog.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/26/uk-government-set-to-link-china-government-affiliated-hackers-to-a-cyberattack-on-election-watchdog.webp"/>
-          <dc:creator>SYLVIA HUI and ERIC TUCKER, Associated Press, KGET 17, NBC</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/22/what-is-truth-social-donald-trumps-social-media-platform.webp"/>
+          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/22/what-is-truth-social-donald-trumps-social-media-platform.webp"/>
+          <dc:creator>The Associated Press, Associated Press, Local 4</dc:creator>
         </item></channel></rss>
