@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/03/28/a-timeline-of-the-downfall-of-sam-bankman-fried-and-the-colossal-failure-of-ftx/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-03-28T17:26:42.000Z</news:publication_date>
+            <news:title>A timeline of the downfall of Sam Bankman-Fried and the colossal failure of FTX</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static6/tech/2024/03/28/a-timeline-of-the-downfall-of-sam-bankman-fried-and-the-colossal-failure-of-ftx.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/03/28/does-your-dog-understand-when-you-say-fetch-the-ball-a-new-study-in-hungary-says-yes/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-03-28T17:19:04.000Z</news:publication_date>
+            <news:title>Does your dog understand when you say 'fetch the ball'? A new study in Hungary says yes</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static6/tech/2024/03/28/does-your-dog-understand-when-you-say-fetch-the-ball-a-new-study-in-hungary-says-yes.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/03/28/jetbrains-intellij-ide-to-add-k2-compiler-mode/</loc>
           <news:news>
             <news:publication>
@@ -42,5 +70,19 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static6/tech/2024/03/28/5-easy-ways-to-run-an-llm-locally.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/03/28/schools-in-the-path-of-aprils-total-solar-eclipse-prepare-for-a-natural-teaching-moment/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-03-28T04:20:20.000Z</news:publication_date>
+            <news:title>Schools in the path of April's total solar eclipse prepare for a natural teaching moment</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static6/tech/2024/03/28/schools-in-the-path-of-aprils-total-solar-eclipse-prepare-for-a-natural-teaching-moment.webp</image:loc>
           </image:image>
         </url></urlset>
