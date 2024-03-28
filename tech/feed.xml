@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 28 Mar 2024 18:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 19:05:19 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,68 +19,35 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Sam Bankman-Fried sentenced to 25 years in prison for fraud</title>
-          <description><![CDATA[FTX founder Sam Bankman-Fried was sentenced to 25 years in prison Thursday, a court spokesperson told The Hill.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/28/sam-bankman-fried-sentenced-fraud-ftx/</guid>
-          <link>https://majordigest.com/tech/2024/03/28/sam-bankman-fried-sentenced-fraud-ftx/</link>
-          <pubDate>Thu, 28 Mar 2024 15:52:16 +0000</pubDate>
+          <title>JetBrains IntelliJ IDE to add K2 compiler mode</title>
+          <description><![CDATA[JetBrains’ IntelliJ IDEA 2024.1, a release of the integrated development environment (IDE) due on April 4, will feature an optional K2 compiler mode, enabling developers to use K2 for faster and more robust Kotlin code analysis, the company said.]]></description>
+          <guid>https://majordigest.com/tech/2024/03/28/jetbrains-intellij-ide-to-add-k2-compiler-mode/</guid>
+          <link>https://majordigest.com/tech/2024/03/28/jetbrains-intellij-ide-to-add-k2-compiler-mode/</link>
+          <pubDate>Thu, 28 Mar 2024 08:45:00 -0700</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/28/sam-bankman-fried-sentenced-fraud-ftx.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/28/sam-bankman-fried-sentenced-fraud-ftx.webp"/>
-          <dc:creator>Taylor Giorno, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/28/jetbrains-intellij-ide-to-add-k2-compiler-mode.webp"/>
+          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/28/jetbrains-intellij-ide-to-add-k2-compiler-mode.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>White House releases first government-wide policy to mitigate AI risks&#160;</title>
-          <description><![CDATA[The White House on Thursday morning released its first government-wide policy aimed at mitigating the risks of artificial intelligence (AI), requiring agencies to take further action to report the use of AI and address risks the technology may pose.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/28/white-house-ai-risks/</guid>
-          <link>https://majordigest.com/tech/2024/03/28/white-house-ai-risks/</link>
-          <pubDate>Thu, 28 Mar 2024 09:00:00 +0000</pubDate>
+          <title>Using Microsoft&#8217;s Retina to monitor Kubernetes networks</title>
+          <description><![CDATA[Kubernetes plays an important role at Microsoft. The container management system is a foundational piece of the company’s many clouds, from Microsoft 365 and Xbox, to Azure, to partners like OpenAI that use Microsoft’s Kubernetes to host their own services.]]></description>
+          <guid>https://majordigest.com/tech/2024/03/28/using-microsoft-s-retina-to-monitor-kubernetes-networks/</guid>
+          <link>https://majordigest.com/tech/2024/03/28/using-microsoft-s-retina-to-monitor-kubernetes-networks/</link>
+          <pubDate>Thu, 28 Mar 2024 02:00:00 -0700</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/28/white-house-ai-risks.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/28/white-house-ai-risks.webp"/>
-          <dc:creator>Rebecca Klar, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/28/using-microsoft-s-retina-to-monitor-kubernetes-networks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/28/using-microsoft-s-retina-to-monitor-kubernetes-networks.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Debate emerges over whether modern protections could have saved Baltimore bridge</title>
-          <description><![CDATA[When a 900-foot container ship struck the San Francisco–Oakland Bay Bridge in 2007, the span stood firm and no one died, either on the ship or the highway above. The bridge's supports were protected by a fendering system of concrete and other materials that was installed to absorb such strikes.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/27/debate-emerges-over-whether-modern-protections-could-have-saved-baltimore-bridge-2/</guid>
-          <link>https://majordigest.com/tech/2024/03/27/debate-emerges-over-whether-modern-protections-could-have-saved-baltimore-bridge-2/</link>
-          <pubDate>Wed, 27 Mar 2024 23:30:24 +0000</pubDate>
+          <title>5 easy ways to run an LLM locally</title>
+          <description><![CDATA[Chatbots like ChatGPT, Claude.ai, and phind can be quite helpful, but you might not always want your questions or sensitive data handled by an external application. That's especially true on platforms where your interactions may be reviewed by humans and otherwise used to help train future models.]]></description>
+          <guid>https://majordigest.com/tech/2024/03/28/5-easy-ways-to-run-an-llm-locally/</guid>
+          <link>https://majordigest.com/tech/2024/03/28/5-easy-ways-to-run-an-llm-locally/</link>
+          <pubDate>Thu, 28 Mar 2024 02:00:00 -0700</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/27/debate-emerges-over-whether-modern-protections-could-have-saved-baltimore-bridge-2.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/27/debate-emerges-over-whether-modern-protections-could-have-saved-baltimore-bridge-2.webp"/>
-          <dc:creator>BEN FINLEY, Associated Press, Fox 5</dc:creator>
-        </item>
-        <item>
-          <title>Lego asks police department to stop using toy heads on suspect photos</title>
-          <description><![CDATA[A California police department said it would no longer use Lego heads to obscure suspects’ faces in social media posts, after the Lego Group requested the department cease the practice, citing intellectual property concerns.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/27/lego-asks-police-department-to-stop-using-toy-heads-on-suspect-photos/</guid>
-          <link>https://majordigest.com/tech/2024/03/27/lego-asks-police-department-to-stop-using-toy-heads-on-suspect-photos/</link>
-          <pubDate>Wed, 27 Mar 2024 19:39:51 +0000</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/27/lego-asks-police-department-to-stop-using-toy-heads-on-suspect-photos.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/27/lego-asks-police-department-to-stop-using-toy-heads-on-suspect-photos.webp"/>
-          <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
-        </item>
-        <item>
-          <title>Dutch hyperloop center aims to advance futuristic transport technology</title>
-          <description><![CDATA[VEENDAM, Netherlands (AP) — A 420-meter (quarter-mile) white steel tube running alongside a railway line in the windswept northern Netherlands could usher in a new era in the transportation of people and freight.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/26/dutch-hyperloop-center-aims-to-advance-futuristic-transport-technology/</guid>
-          <link>https://majordigest.com/tech/2024/03/26/dutch-hyperloop-center-aims-to-advance-futuristic-transport-technology/</link>
-          <pubDate>Tue, 26 Mar 2024 17:32:47 +0000</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/26/dutch-hyperloop-center-aims-to-advance-futuristic-transport-technology.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/26/dutch-hyperloop-center-aims-to-advance-futuristic-transport-technology.webp"/>
-          <dc:creator>MIKE CORDER, Associated Press, Fox 5</dc:creator>
-        </item>
-        <item>
-          <title>A London court will rule on whether WikiLeaks founder Assange can challenge extradition to the US</title>
-          <description><![CDATA[LONDON (AP) — A London court is scheduled Tuesday to rule whether WikiLeaks founder Julian Assange gets one final appeal in England to challenge extradition to the United States on espionage charges.]]></description>
-          <guid>https://majordigest.com/tech/2024/03/26/a-london-court-will-rule-on-whether-wikileaks-founder-assange-can-challenge-extradition-to-the-us/</guid>
-          <link>https://majordigest.com/tech/2024/03/26/a-london-court-will-rule-on-whether-wikileaks-founder-assange-can-challenge-extradition-to-the-us/</link>
-          <pubDate>Tue, 26 Mar 2024 04:02:12 +0000</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/26/a-london-court-will-rule-on-whether-wikileaks-founder-assange-can-challenge-extradition-to-the-us.webp"/>
-          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/26/a-london-court-will-rule-on-whether-wikileaks-founder-assange-can-challenge-extradition-to-the-us.webp"/>
-          <dc:creator>BRIAN MELLEY, Associated Press, Fox 5</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static6/tech/2024/03/28/5-easy-ways-to-run-an-llm-locally.webp"/>
+          <media:thumbnail url="https://majordigest.com/static6/tech/2024/03/28/5-easy-ways-to-run-an-llm-locally.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item></channel></rss>
