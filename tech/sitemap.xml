@@ -3,114 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/03/28/white-house-ai-risks/</loc>
+          <loc>https://majordigest.com/tech/2024/03/28/8-tips-for-managing-without-authority/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-03-28T09:00:00.000Z</news:publication_date>
-            <news:title>White House releases first government-wide policy to mitigate AI risks&#160;</news:title>
+            <news:publication_date>2024-03-28T10:01:00.000Z</news:publication_date>
+            <news:title>7 tips for leading without authority</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static6/tech/2024/03/28/white-house-ai-risks.webp</image:loc>
+            <image:loc>https://majordigest.com/static6/tech/2024/03/28/8-tips-for-managing-without-authority.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/03/28/using-microsoft-s-retina-to-monitor-kubernetes-networks/</loc>
+          <loc>https://majordigest.com/tech/2024/03/28/swiss-federal-railways-cio-relies-more-on-ai-than-concrete/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-03-28T09:00:00.000Z</news:publication_date>
-            <news:title>Using Microsoft&#8217;s Retina to monitor Kubernetes networks</news:title>
+            <news:publication_date>2024-03-28T10:00:00.000Z</news:publication_date>
+            <news:title>Swiss Federal Railways CIO relies more on AI than concrete</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static6/tech/2024/03/28/using-microsoft-s-retina-to-monitor-kubernetes-networks.webp</image:loc>
+            <image:loc>https://majordigest.com/static6/tech/2024/03/28/swiss-federal-railways-cio-relies-more-on-ai-than-concrete.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/03/28/jdk-22-an-average-java-release-sort-of/</loc>
+          <loc>https://majordigest.com/tech/2024/03/28/prepping-for-the-post-cio-chapter-of-a-storied-career/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-03-28T09:00:00.000Z</news:publication_date>
-            <news:title>JDK 22: An average Java release, sort of</news:title>
+            <news:publication_date>2024-03-28T10:00:00.000Z</news:publication_date>
+            <news:title>Prepping for the post-CIO chapter of a storied career</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static6/tech/2024/03/28/jdk-22-an-average-java-release-sort-of.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/03/28/5-easy-ways-to-run-an-llm-locally/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-03-28T09:00:00.000Z</news:publication_date>
-            <news:title>5 easy ways to run an LLM locally</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static6/tech/2024/03/28/5-easy-ways-to-run-an-llm-locally.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/03/27/lego-asks-police-department-to-stop-using-toy-heads-on-suspect-photos/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-03-27T19:39:51.000Z</news:publication_date>
-            <news:title>Lego asks police department to stop using toy heads on suspect photos</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static6/tech/2024/03/27/lego-asks-police-department-to-stop-using-toy-heads-on-suspect-photos.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/03/27/arizona-becomes-ground-zero-for-2024-election-misinformation-fears/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-03-27T10:00:00.000Z</news:publication_date>
-            <news:title>Arizona becomes ground zero for 2024 election misinformation fears</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static6/tech/2024/03/27/arizona-becomes-ground-zero-for-2024-election-misinformation-fears.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/03/26/biden-administration-approves-the-nations-seventh-large-offshore-wind-project/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-03-26T18:54:47.000Z</news:publication_date>
-            <news:title>Biden administration approves the nation's seventh large offshore wind project</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static6/tech/2024/03/26/biden-administration-approves-the-nations-seventh-large-offshore-wind-project.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/03/22/what-is-truth-social-donald-trumps-social-media-platform/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-03-22T12:19:56.000Z</news:publication_date>
-            <news:title>What we know about Truth Social, Donald Trump's social media platform</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static6/tech/2024/03/22/what-is-truth-social-donald-trumps-social-media-platform.webp</image:loc>
+            <image:loc>https://majordigest.com/static6/tech/2024/03/28/prepping-for-the-post-cio-chapter-of-a-storied-career.webp</image:loc>
           </image:image>
         </url></urlset>
