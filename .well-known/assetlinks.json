@@ -1,0 +1,19 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.majordigest.android",
+      "sha256_cert_fingerprints": [
+        "B4:04:2F:15:BC:EB:E3:2C:63:BC:77:A1:6B:36:ED:A9:7D:C9:EF:FC:6A:D7:60:41:02:36:12:22:31:4F:A9:CA"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.query_webapk"],
+    "target": {
+      "namespace": "web",
+      "site": "https://majordigest.com/manifest.json"
+    }
+  }
+]

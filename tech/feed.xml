@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <rss version="2.0"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:media="http://search.yahoo.com/mrss/"
+           xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
+        <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
+        <link>https://majordigest.com/?utm_medium=RSS</link>
+        <lastBuildDate>Sun, 16 Jun 2024 06:58:53 GMT</lastBuildDate>
+        <generator>https://majordigest.com/?v=1.1.5</generator>
+        <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+        <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
+        <language>en-US</language>
+        <ttl>60</ttl>
+        <image>
+          <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
+          <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
+          <link>https://majordigest.com/?utm_medium=RSS</link>
+        </image>
+        <item>
+          <title>Why future Artemis astronauts need a better warning system on the moon</title>
+          <description><![CDATA[NASA has set its sights on the moon, aiming to send astronauts back to the lunar surface by 2026 and establish a long-term presence there by the 2030s. But the moon isn’t exactly a habitable place for people.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/15/moon-future-artemis-astronauts-better-warning-system/</guid>
+          <link>https://majordigest.com/tech/2024/06/15/moon-future-artemis-astronauts-better-warning-system/</link>
+          <pubDate>2024-06-15T09:30:00</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/15/moon-future-artemis-astronauts-better-warning-system.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/15/moon-future-artemis-astronauts-better-warning-system.webp"/>
+          <dc:creator>The Conversation, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>In Japan, an AI app is detecting pain in cats</title>
+          <description><![CDATA[Mayumi Kitakata frets about the health and well-being of Chi, her stoic housemate who enjoys treats, indulges a bit too much in the catnip, and about 14 is getting on in years for a feline.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/15/ai-app-cats-pain-catsme-health/</guid>
+          <link>https://majordigest.com/tech/2024/06/15/ai-app-cats-pain-catsme-health/</link>
+          <pubDate>2024-06-15T09:00:00</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/15/ai-app-cats-pain-catsme-health.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/15/ai-app-cats-pain-catsme-health.webp"/>
+          <dc:creator>Reuters, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Can money conquer death? How wealthy people are trying to live forever</title>
+          <description><![CDATA[Longevity is the medical frontier and lifestyle fad of the moment, but it remains a hotly debated and controversial topic within the scientific community.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/15/can-money-conquer-death-how-wealthy-people-are-trying-to-live-forever/</guid>
+          <link>https://majordigest.com/tech/2024/06/15/can-money-conquer-death-how-wealthy-people-are-trying-to-live-forever/</link>
+          <pubDate>Sat, 15 Jun 2024 13:05:06 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/15/can-money-conquer-death-how-wealthy-people-are-trying-to-live-forever.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/15/can-money-conquer-death-how-wealthy-people-are-trying-to-live-forever.webp"/>
+          <dc:creator>Tribune News Service, The Mercury News</dc:creator>
+        </item>
+        <item>
+          <title>Encrypt private messages in QR codes with this simple free site</title>
+          <description><![CDATA[Most of the tools we talk about tend to be things that make our own lives a little bit easier—often in some small but significant way.
+Today’s tool takes a twist.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/15/encrypt-private-messages-in-qr-codes-weexpire/</guid>
+          <link>https://majordigest.com/tech/2024/06/15/encrypt-private-messages-in-qr-codes-weexpire/</link>
+          <pubDate>2024-06-15T04:05:00</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/15/encrypt-private-messages-in-qr-codes-weexpire.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/15/encrypt-private-messages-in-qr-codes-weexpire.webp"/>
+          <dc:creator>JR Raphael, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Rust stabilizes inline const expressions</title>
+          <description><![CDATA[The Rust Team has released Rust 1.79, an update to the memory safe programming language that stabilizes both inline const expressions and the associated item bounds syntax.
+Unveiled June 13, Rust 1.79 can be installed by running rustup update stable.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/15/rust-stabilizes-inline-const-expressions/</guid>
+          <link>https://majordigest.com/tech/2024/06/15/rust-stabilizes-inline-const-expressions/</link>
+          <pubDate>Fri, 14 Jun 2024 18:15:00 -0700</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/15/rust-stabilizes-inline-const-expressions.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/15/rust-stabilizes-inline-const-expressions.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>A prominent industry group creates a new chapter right on the space coast</title>
+          <description><![CDATA[AFCEA International's new Space Coast Chapter is up and running.
+The post A prominent industry group creates a new chapter right on the space coast first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/a-prominent-industry-group-creates-a-new-chapter-right-on-the-space-coast/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/a-prominent-industry-group-creates-a-new-chapter-right-on-the-space-coast/</link>
+          <pubDate>Fri, 14 Jun 2024 22:08:23 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/a-prominent-industry-group-creates-a-new-chapter-right-on-the-space-coast.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/a-prominent-industry-group-creates-a-new-chapter-right-on-the-space-coast.webp"/>
+          <dc:creator>Eric White, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Some feds continue to see fraudulent FSAFEDS deductions</title>
+          <description><![CDATA[One former official questioned why OPM and the FSAFEDS program didn’t have stronger fraud controls in place before recent reports of fraudulent deductions.
+The post Some feds continue to see fraudulent FSAFEDS deductions first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/some-feds-continue-to-see-fraudulent-fsafeds-deductions/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/some-feds-continue-to-see-fraudulent-fsafeds-deductions/</link>
+          <pubDate>Fri, 14 Jun 2024 19:24:25 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/some-feds-continue-to-see-fraudulent-fsafeds-deductions.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/some-feds-continue-to-see-fraudulent-fsafeds-deductions.webp"/>
+          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Power demand expected to double by 2040 thanks to AI and EVs, PG&#38;E&#8217;s CEO says</title>
+          <description><![CDATA[PG&#38;E is equipped to meet that surge in demand without significantly adding to its fleet of power plants, Chief Executive Officer Patti Poppe said. That’s because the utility’s system isn’t running at its full potential.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/power-demand-expected-to-double-by-2040-thanks-to-ai-and-evs-california-utility-says/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/power-demand-expected-to-double-by-2040-thanks-to-ai-and-evs-california-utility-says/</link>
+          <pubDate>Fri, 14 Jun 2024 17:26:31 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/power-demand-expected-to-double-by-2040-thanks-to-ai-and-evs-california-utility-says.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/power-demand-expected-to-double-by-2040-thanks-to-ai-and-evs-california-utility-says.webp"/>
+          <dc:creator>Bloomberg, The Mercury News</dc:creator>
+        </item>
+        <item>
+          <title>Congressman supports federal body to monitor AI, like one for cybersecurity</title>
+          <description><![CDATA[Some members of Congress want to make sure the government is able to keep tabs on AI developments and react accordingly.
+The post Congressman supports federal body to monitor AI, like one for cybersecurity first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/congressman-supports-federal-body-to-monitor-ai-like-one-for-cybersecurity/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/congressman-supports-federal-body-to-monitor-ai-like-one-for-cybersecurity/</link>
+          <pubDate>Fri, 14 Jun 2024 17:16:32 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/congressman-supports-federal-body-to-monitor-ai-like-one-for-cybersecurity.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/congressman-supports-federal-body-to-monitor-ai-like-one-for-cybersecurity.webp"/>
+          <dc:creator>Eric White, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Pope Francis raises concerns about AI in first-ever pontiff address to G7</title>
+          <description><![CDATA[Pope Francis warned of the dangers of artificial intelligence (AI) in the first-ever address by a pontiff to the leaders of the Group of Seven (G7) countries Friday.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/pope-frances-raises-concerns-ai-first-pontiff-address-g7/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/pope-frances-raises-concerns-ai-first-pontiff-address-g7/</link>
+          <pubDate>Fri, 14 Jun 2024 17:11:32 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/pope-frances-raises-concerns-ai-first-pontiff-address-g7.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/pope-frances-raises-concerns-ai-first-pontiff-address-g7.webp"/>
+          <dc:creator>Julia Shapero, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Microsoft delays controversial AI Recall feature on new Windows computers</title>
+          <description><![CDATA[New laptops equipped with Microsoft Windows start shipping to customers next week but without a flagship feature called Recall that drew concerns about privacy and cybersecurity.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/microsoft-delays-controversial-ai-recall-feature-on-new-windows-computers/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/microsoft-delays-controversial-ai-recall-feature-on-new-windows-computers/</link>
+          <pubDate>Fri, 14 Jun 2024 16:09:58 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/microsoft-delays-controversial-ai-recall-feature-on-new-windows-computers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/microsoft-delays-controversial-ai-recall-feature-on-new-windows-computers.webp"/>
+          <dc:creator>Associated Press, Local 4</dc:creator>
+        </item>
+        <item>
+          <title>OpenAI appoints former top US cyberwarrior Paul Nakasone to its board of directors</title>
+          <description><![CDATA[SAN FRANCISCO (AP) — OpenAI has appointed a former top U.S. cyberwarrior and intelligence official to its board of directors, saying he will help protect the ChatGPT maker from “increasingly sophisticated bad actors.” Retired Army Gen. Paul Nakasone was the commander of U.S.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/openai-appoints-former-top-us-cyberwarrior-paul-nakasone-to-its-board-of-directors/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/openai-appoints-former-top-us-cyberwarrior-paul-nakasone-to-its-board-of-directors/</link>
+          <pubDate>Fri, 14 Jun 2024 14:56:05 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/openai-appoints-former-top-us-cyberwarrior-paul-nakasone-to-its-board-of-directors.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/openai-appoints-former-top-us-cyberwarrior-paul-nakasone-to-its-board-of-directors.webp"/>
+          <dc:creator>Associated Press, KRON4</dc:creator>
+        </item>
+        <item>
+          <title>Trump says one of his speeches was 'rewritten with AI': 'So crazy'</title>
+          <description><![CDATA[Former President Trump, who has been a vocal skeptic of artificial intelligence (AI), divulged this week that he's actually used the technology to rewrite one of his speeches, but he still finds it "alarming." "What it does is so crazy. Now, it can also be really used for good.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/trump-ai-speech-alarming/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/trump-ai-speech-alarming/</link>
+          <pubDate>Fri, 14 Jun 2024 14:46:41 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/trump-ai-speech-alarming.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/trump-ai-speech-alarming.webp"/>
+          <dc:creator>Elizabeth Crisp, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Investigation underway into rare, unsafe &#8216;Dutch roll&#8217; experienced by a Boeing 737 Max during Oakland-bound flight</title>
+          <description><![CDATA[The incident occurred almost three weeks ago and was added to a FAA database this week. There were 175 passengers and six crew onboard, according to the airline.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/investigation-underway-into-rare-unsafe-dutch-roll-experienced-by-a-boeing-737-max-during-oakland-bound-flight/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/investigation-underway-into-rare-unsafe-dutch-roll-experienced-by-a-boeing-737-max-during-oakland-bound-flight/</link>
+          <pubDate>Fri, 14 Jun 2024 13:47:04 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/investigation-underway-into-rare-unsafe-dutch-roll-experienced-by-a-boeing-737-max-during-oakland-bound-flight.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/investigation-underway-into-rare-unsafe-dutch-roll-experienced-by-a-boeing-737-max-during-oakland-bound-flight.webp"/>
+          <dc:creator>CNN.com Wire Service, The Mercury News</dc:creator>
+        </item>
+        <item>
+          <title>Elon Musk gets 77% approval from shareholders to get back his big, $44.9 billion Tesla pay package</title>
+          <description><![CDATA[DETROIT (AP) — Tesla shareholders voted Thursday to restore CEO Elon Musk's record $44.9 billion pay package that was thrown out by a Delaware judge earlier this year, sending a strong vote of confidence in his leadership of the world's largest electric vehicle maker.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/future-of-elon-musk-and-tesla-are-on-the-line-as-shareholders-vote-on-massive-pay-package/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/future-of-elon-musk-and-tesla-are-on-the-line-as-shareholders-vote-on-massive-pay-package/</link>
+          <pubDate>Fri, 14 Jun 2024 13:13:11 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/future-of-elon-musk-and-tesla-are-on-the-line-as-shareholders-vote-on-massive-pay-package.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/future-of-elon-musk-and-tesla-are-on-the-line-as-shareholders-vote-on-massive-pay-package.webp"/>
+          <dc:creator>TOM KRISHER and DAVID HAMILTON, Associated Press, KRON4</dc:creator>
+        </item>
+        <item>
+          <title>Does AI make us dependent on Big Tech?</title>
+          <description><![CDATA[European banking executives are increasingly concerned about the growing dependence of big U.S. tech firms on integrated artificial intelligence (AI) in financial services. Substantial computing power is needed for AI, and many banks believe they will struggle to operate AI independently.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/does-ai-make-us-dependent-on-big-tech/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/does-ai-make-us-dependent-on-big-tech/</link>
+          <pubDate>Fri, 14 Jun 2024 02:00:00 -0700</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/does-ai-make-us-dependent-on-big-tech.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/does-ai-make-us-dependent-on-big-tech.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Python pick: Monkeytype automates type hints</title>
+          <description><![CDATA[What's new this (half-)month in Python and elsewhere? First up is Monkeytype, an Instagram-created library with a somewhat silly name. What's not silly is using it to add type hints automatically to untyped Python code.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/python-pick-monkeytype-automates-type-hints/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/python-pick-monkeytype-automates-type-hints/</link>
+          <pubDate>Fri, 14 Jun 2024 02:00:00 -0700</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/python-pick-monkeytype-automates-type-hints.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/python-pick-monkeytype-automates-type-hints.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>AI startup Perplexity wants to upend search business. News outlet Forbes says it's ripping them off</title>
+          <description><![CDATA[The artificial intelligence startup Perplexity AI has raised tens of millions of dollars from the likes of Jeff Bezos and other prominent tech investors for its mission to rival Google in the business of searching for information.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/14/ai-startup-perplexity-wants-to-upend-search-business-news-outlet-forbes-says-its-ripping-them-off/</guid>
+          <link>https://majordigest.com/tech/2024/06/14/ai-startup-perplexity-wants-to-upend-search-business-news-outlet-forbes-says-its-ripping-them-off/</link>
+          <pubDate>Fri, 14 Jun 2024 05:59:34 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/14/ai-startup-perplexity-wants-to-upend-search-business-news-outlet-forbes-says-its-ripping-them-off.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/14/ai-startup-perplexity-wants-to-upend-search-business-news-outlet-forbes-says-its-ripping-them-off.webp"/>
+          <dc:creator>Matt O'Brien And Sarah Parvini, Associated Press, Local 4</dc:creator>
+        </item>
+        <item>
+          <title>Comer investigating news-rating group</title>
+          <description><![CDATA[House Oversight Committee Chair James Comer (R-Ky.) announced Thursday he is launching a probe into a news-rating system that seeks to guard against misinformation by scoring news and information sites based on their reliability, trustworthiness and financial conflict of interest.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/13/newsguard-probe-oversight-committee/</guid>
+          <link>https://majordigest.com/tech/2024/06/13/newsguard-probe-oversight-committee/</link>
+          <pubDate>Thu, 13 Jun 2024 23:54:37 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/13/newsguard-probe-oversight-committee.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/13/newsguard-probe-oversight-committee.webp"/>
+          <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Massachusetts on verge of becoming second-to-last state to outlaw "revenge porn"</title>
+          <description><![CDATA[BOSTON (AP) — A bill aimed at outlawing “revenge porn” has been approved by lawmakers in the Massachusetts House and Senate and shipped to Democratic Gov. Maura Healey, a move advocates say was long overdue.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/13/massachusetts-on-verge-of-becoming-second-to-last-state-to-outlaw-revenge-porn/</guid>
+          <link>https://majordigest.com/tech/2024/06/13/massachusetts-on-verge-of-becoming-second-to-last-state-to-outlaw-revenge-porn/</link>
+          <pubDate>Thu, 13 Jun 2024 21:59:02 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/13/massachusetts-on-verge-of-becoming-second-to-last-state-to-outlaw-revenge-porn.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/13/massachusetts-on-verge-of-becoming-second-to-last-state-to-outlaw-revenge-porn.webp"/>
+          <dc:creator>STEVE LeBLANC, Associated Press, KRON4</dc:creator>
+        </item>
+        <item>
+          <title>From the trenches: A CISO&#8217;s guide to threat intelligence</title>
+          <description><![CDATA[Let’s face it, our jobs as CISOs are a constant dance with the shadows. We fight invisible enemies, anticipate the next attack, and strive to stay one step ahead of ever-evolving threats.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/13/from-the-trenches-a-cisos-guide-to-threat-intelligence/</guid>
+          <link>https://majordigest.com/tech/2024/06/13/from-the-trenches-a-cisos-guide-to-threat-intelligence/</link>
+          <pubDate>Thu, 13 Jun 2024 21:29:17 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/13/from-the-trenches-a-cisos-guide-to-threat-intelligence.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/13/from-the-trenches-a-cisos-guide-to-threat-intelligence.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Don&#8217;t break the bank: Stopping ransomware from getting the best of your business</title>
+          <description><![CDATA[In a world full of emerging cyber threats, ransomware—one of the earliest documented forms of cyberattacks—continues to pose a serious threat to organizations of all sizes. Even with cyber spending at an all-time high—to the tune of $219 billion globally—ransomware attacks continue to occur.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/13/dont-break-the-bank-stopping-ransomware-from-getting-the-best-of-your-business/</guid>
+          <link>https://majordigest.com/tech/2024/06/13/dont-break-the-bank-stopping-ransomware-from-getting-the-best-of-your-business/</link>
+          <pubDate>Thu, 13 Jun 2024 21:20:00 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/13/dont-break-the-bank-stopping-ransomware-from-getting-the-best-of-your-business.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/13/dont-break-the-bank-stopping-ransomware-from-getting-the-best-of-your-business.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Network jobs watch: Hiring, skills and certification trends</title>
+          <description><![CDATA[Network and infrastructure roles continue to shift as enterprises adopt technologies such as AI-driven network operations, multicloud networking, zero trust network access (ZTNA), and SD-WAN.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/13/network-jobs-watch-hiring-skills-and-certification-trends/</guid>
+          <link>https://majordigest.com/tech/2024/06/13/network-jobs-watch-hiring-skills-and-certification-trends/</link>
+          <pubDate>Thu, 13 Jun 2024 20:42:37 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/13/network-jobs-watch-hiring-skills-and-certification-trends.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/13/network-jobs-watch-hiring-skills-and-certification-trends.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Faking an honest woman: Why Russia, China and Big Tech all use faux females to get clicks</title>
+          <description><![CDATA[WASHINGTON (AP) — When disinformation researcher Wen-Ping Liu looked into China's efforts to influence Taiwan's recent election using fake social media accounts, something unusual stood out about the most successful profiles. They were female, or at least that's what they appeared to be.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/12/faking-an-honest-woman-why-russia-china-and-big-tech-all-use-faux-females-to-get-clicks-2/</guid>
+          <link>https://majordigest.com/tech/2024/06/12/faking-an-honest-woman-why-russia-china-and-big-tech-all-use-faux-females-to-get-clicks-2/</link>
+          <pubDate>Wed, 12 Jun 2024 04:05:12 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/12/faking-an-honest-woman-why-russia-china-and-big-tech-all-use-faux-females-to-get-clicks-2.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/12/faking-an-honest-woman-why-russia-china-and-big-tech-all-use-faux-females-to-get-clicks-2.webp"/>
+          <dc:creator>DAVID KLEPPER, Associated Press, KLAS, CBS News</dc:creator>
+        </item>
+        <item>
+          <title>Silicon Valley-backed voter plan for new California city qualifies for November ballot</title>
+          <description><![CDATA[SAN FRANCISCO (AP) — A Silicon Valley-backed initiative to build a green city for up to 400,000 people in the San Francisco Bay Area has qualified for the Nov. 5 ballot, elections officials said Tuesday.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/12/silicon-valley-backed-voter-plan-for-new-california-city-qualifies-for-november-ballot/</guid>
+          <link>https://majordigest.com/tech/2024/06/12/silicon-valley-backed-voter-plan-for-new-california-city-qualifies-for-november-ballot/</link>
+          <pubDate>Wed, 12 Jun 2024 01:19:05 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/12/silicon-valley-backed-voter-plan-for-new-california-city-qualifies-for-november-ballot.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/12/silicon-valley-backed-voter-plan-for-new-california-city-qualifies-for-november-ballot.webp"/>
+          <dc:creator>JANIE HAR, Associated Press, KLAS, CBS News</dc:creator>
+        </item>
+        <item>
+          <title>Apple enters AI race with ambitions to overtake the early leaders</title>
+          <description><![CDATA[Apple jumped into the race to bring generative artificial intelligence to the masses during its World Wide Developers Conference Monday, previewing an onslaught of features designed to soup up the iPhone and other popular products with technology already available on rival devices.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/10/apple-enters-ai-race-with-ambitions-to-overtake-the-early-leaders/</guid>
+          <link>https://majordigest.com/tech/2024/06/10/apple-enters-ai-race-with-ambitions-to-overtake-the-early-leaders/</link>
+          <pubDate>Mon, 10 Jun 2024 20:52:51 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/10/apple-enters-ai-race-with-ambitions-to-overtake-the-early-leaders.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/10/apple-enters-ai-race-with-ambitions-to-overtake-the-early-leaders.webp"/>
+          <dc:creator>MICHAEL LIEDTKE, WFLA, NBC</dc:creator>
+        </item>
+        <item>
+          <title>In Wyoming, Bill Gates moves ahead with nuclear project aimed at revolutionizing power generation</title>
+          <description><![CDATA[Bill Gates and his energy company are starting construction at their Wyoming site for a next-generation nuclear power plant he believes will “revolutionize” how power is generated. Gates was in the tiny community of Kemmerer Monday to break ground on the project.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/10/in-wyoming-bill-gates-moves-ahead-with-nuclear-project-aimed-at-revolutionizing-power-generation/</guid>
+          <link>https://majordigest.com/tech/2024/06/10/in-wyoming-bill-gates-moves-ahead-with-nuclear-project-aimed-at-revolutionizing-power-generation/</link>
+          <pubDate>Mon, 10 Jun 2024 18:47:17 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/10/in-wyoming-bill-gates-moves-ahead-with-nuclear-project-aimed-at-revolutionizing-power-generation.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/10/in-wyoming-bill-gates-moves-ahead-with-nuclear-project-aimed-at-revolutionizing-power-generation.webp"/>
+          <dc:creator>JENNIFER McDERMOTT, Associated Press, KLAS, CBS News</dc:creator>
+        </item></channel></rss>
