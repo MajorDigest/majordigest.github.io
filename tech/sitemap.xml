@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/07/02/apple-iphone-x-airpods-homepod-vintage-obsolete/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-02T03:00:00.000Z</news:publication_date>
+            <news:title>Apple Classifies iPhone X, Original AirPods, and HomePod as 'Vintage' Technology</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/02/apple-iphone-x-airpods-homepod-vintage-obsolete.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/07/02/eu-meta-paid-ad-free-consent-breaks-digital-competition-rules/</loc>
           <news:news>
             <news:publication>
@@ -10,7 +24,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-07-02T01:20:00.000Z</news:publication_date>
-            <news:title>EU Alleges Meta's Paid Ad-Free Option Violates Digital Competition Rules</news:title>
+            <news:title>EU says Meta&#8217;s paid ad-free option breaks its digital competition rules</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/02/eu-meta-paid-ad-free-consent-breaks-digital-competition-rules.webp</image:loc>
@@ -31,17 +45,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/07/01/mary-meeker-says-ai-and-higher-education-need-to-team-up/</loc>
+          <loc>https://majordigest.com/tech/2024/07/01/openssh-vulnerability-regresshion-puts-millions-of-servers-at-risk/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-07-01T23:51:07.000Z</news:publication_date>
-            <news:title>Mary Meeker says AI and higher education need to team up</news:title>
+            <news:publication_date>2024-07-01T20:45:23.000Z</news:publication_date>
+            <news:title>OpenSSH vulnerability regreSSHion puts millions of servers at risk</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/mary-meeker-says-ai-and-higher-education-need-to-team-up.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/openssh-vulnerability-regresshion-puts-millions-of-servers-at-risk.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/eclipse-theia-ide-arrives-for-desktop-browser/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T20:00:00.000Z</news:publication_date>
+            <news:title>Eclipse Theia IDE arrives for desktop, browser</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/eclipse-theia-ide-arrives-for-desktop-browser.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,6 +101,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/07/01/windows-11-has-never-been-so-popular-but-is-a-fresh-surge-of-installations-coming-from-a-place-of-love-or-mere-tolerance/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T18:45:04.000Z</news:publication_date>
+            <news:title>Windows 11 has never been so popular - but is a fresh surge of installations coming from a place of love or mere tolerance?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/windows-11-has-never-been-so-popular-but-is-a-fresh-surge-of-installations-coming-from-a-place-of-love-or-mere-tolerance.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/evolving-hybrid-cloud-strategies-in-modern-agencies/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T18:34:20.000Z</news:publication_date>
+            <news:title>Evolving hybrid cloud strategies in modern agencies</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/evolving-hybrid-cloud-strategies-in-modern-agencies.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/07/01/eu-finds-metas-pay-or-consent-advertising-model-violates-tech-rules/</loc>
           <news:news>
             <news:publication>
@@ -101,20 +157,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/07/01/the-technology-powering-taylor-swift-netflix-and-the-sphere/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T17:36:33.000Z</news:publication_date>
-            <news:title>The technology powering Taylor Swift, Netflix and the Sphere</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/the-technology-powering-taylor-swift-netflix-and-the-sphere.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/07/01/nutanix-hunts-disgruntled-vmware-customers/</loc>
           <news:news>
             <news:publication>
@@ -122,7 +164,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-07-01T16:20:28.000Z</news:publication_date>
-            <news:title>Nutanix hunts disgruntled VMware customers</news:title>
+            <news:title>Disgruntled VMware Customers Targeted by Nutanix's Hyperconverged Infrastructure Solutions</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/nutanix-hunts-disgruntled-vmware-customers.webp</image:loc>
@@ -136,7 +178,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-07-01T15:17:37.000Z</news:publication_date>
-            <news:title>Supreme Court Halts Social Media Regulation Efforts in Texas and Florida Amid Political Tensions</news:title>
+            <news:title>The Supreme Court keeps on hold efforts in Texas and Florida to regulate social media platforms</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/the-supreme-court-keeps-on-hold-efforts-in-texas-and-florida-to-regulate-social-media-platforms.webp</image:loc>
@@ -168,34 +210,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/supreme-court-punts-on-texas-florida-social-media-laws.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/07/01/the-supreme-court-keeps-hold-on-efforts-in-texas-and-florida-to-regulate-social-media-platforms/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T14:27:53.000Z</news:publication_date>
-            <news:title>US Supreme Court Halts Texas and Florida Efforts to Regulate Social Media Platforms</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/the-supreme-court-keeps-hold-on-efforts-in-texas-and-florida-to-regulate-social-media-platforms.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/07/01/dods-joint-staff-genai-sprint-lays-out-8-internal-use-cases/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T14:22:29.000Z</news:publication_date>
-            <news:title>DoD Joint Staff GenAI Use Cases Revealed: 8 Internal Applications</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/dods-joint-staff-genai-sprint-lays-out-8-internal-use-cases.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -241,20 +255,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/07/01/why-smaller-businesses-need-ai-pcs-to-make-hybrid-work-a-success/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T13:15:25.000Z</news:publication_date>
-            <news:title>Why smaller businesses need AI PCs to make hybrid work a success</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/why-smaller-businesses-need-ai-pcs-to-make-hybrid-work-a-success.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/07/01/what-key-features-underpin-best-in-class-ai-pcs/</loc>
           <news:news>
             <news:publication>
@@ -269,6 +269,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/07/01/boeing-spirit-acquisition-safety/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T12:56:59.000Z</news:publication_date>
+            <news:title>Boeing Set to Acquire Spirit AeroSystems in $4.7 Billion All-Stock Deal</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/boeing-spirit-acquisition-safety.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/european-union-accuses-facebook-owner-meta-of-breaking-digital-rules-with-paid-ad-free-option/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T10:02:55.000Z</news:publication_date>
+            <news:title>European Union accuses Facebook owner Meta of breaking digital rules with paid ad-free option</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/european-union-accuses-facebook-owner-meta-of-breaking-digital-rules-with-paid-ad-free-option.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/07/01/autonomous-trash-gobbling-robot-boat-wages-war-waterway-waste/</loc>
           <news:news>
             <news:publication>
@@ -276,24 +304,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-07-01T10:00:12.000Z</news:publication_date>
-            <news:title>Robot Boat Tackles Waterway Waste with Autonomous Trash Removal</news:title>
+            <news:title>Autonomous trash-gobbling robot boat wages war on waterway waste</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/autonomous-trash-gobbling-robot-boat-wages-war-waterway-waste.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/07/01/ai-powered-apps-that-actually-save-time/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T10:00:00.000Z</news:publication_date>
-            <news:title>8 AI-powered apps that&#8217;ll actually save you time</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/ai-powered-apps-that-actually-save-time.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -308,6 +322,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/why-and-perhaps-how-apple-intelligence-will-make-money.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/windows-11-insider-previews-whats-in-latest-build/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T09:02:51.000Z</news:publication_date>
+            <news:title>Windows 11 Insider Previews: What&#8217;s in the latest build?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/windows-11-insider-previews-whats-in-latest-build.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -339,31 +367,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/29/fcc-proposes-rule-requiring-carriers-to-unlock-all-cellphones/</loc>
+          <loc>https://majordigest.com/tech/2024/06/30/will-china-try-to-make-a-land-grab-on-the-moon/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-06-29T16:33:40.000Z</news:publication_date>
-            <news:title>FCC Proposes Mandatory Cell Phone Unlocking Policy for Carriers</news:title>
+            <news:publication_date>2024-06-30T01:32:32.000Z</news:publication_date>
+            <news:title>Will China try to make a land grab on the moon?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/29/fcc-proposes-rule-requiring-carriers-to-unlock-all-cellphones.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/30/will-china-try-to-make-a-land-grab-on-the-moon.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/29/too-many-passwords-to-remember-heres-what-you-can-do/</loc>
+          <loc>https://majordigest.com/tech/2024/06/29/animal-rescuers-try-to-keep-dozens-of-dolphins-away-from-cape-cod-shallows-after-mass-stranding/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-06-29T13:00:50.000Z</news:publication_date>
-            <news:title>Mastering Password Management: Tips for Securing Your Digital Life</news:title>
+            <news:publication_date>2024-06-29T15:53:05.000Z</news:publication_date>
+            <news:title>Animal rescuers try to keep dozens of dolphins away from Cape Cod shallows after mass stranding</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/29/too-many-passwords-to-remember-heres-what-you-can-do.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/29/animal-rescuers-try-to-keep-dozens-of-dolphins-away-from-cape-cod-shallows-after-mass-stranding.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -374,24 +402,24 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-29T12:10:12.000Z</news:publication_date>
-            <news:title>Supreme Court Nears Conclusion of Pivotal Term with Decision on Trump's Immunity Imminent</news:title>
+            <news:title>The Supreme Court nears the end of another momentous term. A decision on Trump's immunity looms</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/29/the-supreme-court-nears-the-end-of-another-momentous-term-a-decision-on-trumps-immunity-looms.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/29/as-ai-gains-a-workplace-foothold-states-are-trying-to-make-sure-workers-dont-get-left-behind/</loc>
+          <loc>https://majordigest.com/tech/2024/06/28/amazon-is-reviewing-whether-perplexity-ai-improperly-scraped-online-content/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-06-29T04:05:20.000Z</news:publication_date>
-            <news:title>As AI gains a workplace foothold, states are trying to make sure workers don't get left behind</news:title>
+            <news:publication_date>2024-06-28T22:45:40.000Z</news:publication_date>
+            <news:title>Amazon Investigates Claims of Unauthorized Content Scraping by Perplexity AI</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/29/as-ai-gains-a-workplace-foothold-states-are-trying-to-make-sure-workers-dont-get-left-behind.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/28/amazon-is-reviewing-whether-perplexity-ai-improperly-scraped-online-content.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -409,34 +437,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/28/google-opens-access-to-2-million-context-window-of-gemini-15-pro/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-28T18:30:00.000Z</news:publication_date>
-            <news:title>Google opens access to 2 million context window of Gemini 1.5 Pro</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/28/google-opens-access-to-2-million-context-window-of-gemini-15-pro.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/06/27/ai-success-real-or-hallucination/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-27T10:00:00.000Z</news:publication_date>
-            <news:title>AI success: Real or hallucination?</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/27/ai-success-real-or-hallucination.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/06/27/the-supreme-court-rules-for-biden-administration-in-a-social-media-dispute-with-conservative-states/</loc>
           <news:news>
             <news:publication>
@@ -448,20 +448,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/27/the-supreme-court-rules-for-biden-administration-in-a-social-media-dispute-with-conservative-states.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/06/26/a-vatican-radio-territory-in-north-rome-once-blamed-for-electro-smog-will-become-a-solar-farm/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-26T14:18:03.000Z</news:publication_date>
-            <news:title>Pope Francis Orders Conversion of Vatican Radio Territory into Solar Farm in North Rome</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/26/a-vatican-radio-territory-in-north-rome-once-blamed-for-electro-smog-will-become-a-solar-farm.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -500,23 +486,37 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-25T04:46:19.000Z</news:publication_date>
-            <news:title>Indonesia Resists Paying $8M Ransom After Cyberattack Compromises National Data Center</news:title>
+            <news:title>Indonesia Resists $8M Ransom Demand After National Data Center Hack</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/25/indonesia-wont-pay-an-8-million-ransom-after-a-cyberattack-compromised-its-national-data-center.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/24/car-dealerships-in-north-america-revert-to-pens-and-paper-after-cyberattacks-on-software-provider/</loc>
+          <loc>https://majordigest.com/tech/2024/06/25/indonesia-says-a-cyberattack-has-compromised-its-data-center-but-it-wont-pay-the-8-million-ransom/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-06-24T23:17:15.000Z</news:publication_date>
-            <news:title>Car dealerships in North America revert to pens and paper after cyberattacks on software provider</news:title>
+            <news:publication_date>2024-06-25T02:01:42.000Z</news:publication_date>
+            <news:title>Indonesia won't pay an $8 million ransom after a cyberattack compromised the national data center</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/24/car-dealerships-in-north-america-revert-to-pens-and-paper-after-cyberattacks-on-software-provider.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/25/indonesia-says-a-cyberattack-has-compromised-its-data-center-but-it-wont-pay-the-8-million-ransom.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/06/24/un-launches-global-principles-to-combat-online-hate-and-demands-big-tech-take-action-now/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-06-24T21:37:29.000Z</news:publication_date>
+            <news:title>UN launches global principles to combat online hate and demands big tech take action now</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/24/un-launches-global-principles-to-combat-online-hate-and-demands-big-tech-take-action-now.webp</image:loc>
           </image:image>
         </url></urlset>

@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Mon, 01 Jul 2024 19:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 20:56:30 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,8 +19,19 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>EU Alleges Meta's Paid Ad-Free Option Violates Digital Competition Rules</title>
-          <description><![CDATA[European Union regulators claim that Meta Platforms is breaching the bloc's digital competition rules by forcing Facebook and Instagram users to choose between viewing ads or paying to avoid them, sparking concerns over unfair market practices.]]></description>
+          <title>Apple Classifies iPhone X, Original AirPods, and HomePod as 'Vintage' Technology</title>
+          <description><![CDATA[Apple takes another step towards sunsetting the iPhone X, original AirPods, and HomePod by reclassifying them as vintage technology, marking their transition to obsolete status.]]></description>
+          <guid>https://majordigest.com/tech/2024/07/02/apple-iphone-x-airpods-homepod-vintage-obsolete/</guid>
+          <link>https://majordigest.com/tech/2024/07/02/apple-iphone-x-airpods-homepod-vintage-obsolete/</link>
+          <pubDate>2024-07-01T20:00:00</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/02/apple-iphone-x-airpods-homepod-vintage-obsolete.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/02/apple-iphone-x-airpods-homepod-vintage-obsolete.webp"/>
+          <dc:creator>Chris Morris, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>EU says Meta&#8217;s paid ad-free option breaks its digital competition rules</title>
+          <description><![CDATA[European Union regulators accused social media company Meta Platforms on Monday of breaching the bloc’s new digital competition rulebook by forcing Facebook and Instagram users to choose between seeing ads or paying to avoid them.]]></description>
           <guid>https://majordigest.com/tech/2024/07/02/eu-meta-paid-ad-free-consent-breaks-digital-competition-rules/</guid>
           <link>https://majordigest.com/tech/2024/07/02/eu-meta-paid-ad-free-consent-breaks-digital-competition-rules/</link>
           <pubDate>2024-07-01T18:20:00</pubDate>
@@ -41,15 +52,26 @@
           <dc:creator>Reuters, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Mary Meeker says AI and higher education need to team up</title>
-          <description><![CDATA[Influential tech investor Mary Meeker published a new report Monday calling for the tech industry, government, and higher education to all work together to advance artificial intelligence during what she sees as an inflection point “of epic proportions.]]></description>
-          <guid>https://majordigest.com/tech/2024/07/01/mary-meeker-says-ai-and-higher-education-need-to-team-up/</guid>
-          <link>https://majordigest.com/tech/2024/07/01/mary-meeker-says-ai-and-higher-education-need-to-team-up/</link>
-          <pubDate>2024-07-01T16:51:07</pubDate>
+          <title>OpenSSH vulnerability regreSSHion puts millions of servers at risk</title>
+          <description><![CDATA[Researchers have uncovered a serious remote code execution vulnerability in the Open Secure Shell (OpenSSH) server that could let unauthenticated attackers obtain a root shell on servers and take them over.]]></description>
+          <guid>https://majordigest.com/tech/2024/07/01/openssh-vulnerability-regresshion-puts-millions-of-servers-at-risk/</guid>
+          <link>https://majordigest.com/tech/2024/07/01/openssh-vulnerability-regresshion-puts-millions-of-servers-at-risk/</link>
+          <pubDate>Mon, 01 Jul 2024 20:45:23 +0000</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/mary-meeker-says-ai-and-higher-education-need-to-team-up.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/mary-meeker-says-ai-and-higher-education-need-to-team-up.webp"/>
-          <dc:creator>Jessica Bursztynsky, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/openssh-vulnerability-regresshion-puts-millions-of-servers-at-risk.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/openssh-vulnerability-regresshion-puts-millions-of-servers-at-risk.webp"/>
+          <dc:creator>csoonline</dc:creator>
+        </item>
+        <item>
+          <title>Eclipse Theia IDE arrives for desktop, browser</title>
+          <description><![CDATA[The Eclipse Foundation has announced the release of the Eclipse Theia IDE. Based on the Theia cloud and desktop IDE framework implemented in TypeScript, the Theia IDE is avialable for Windows, Linux, and macOS and can be tried online.]]></description>
+          <guid>https://majordigest.com/tech/2024/07/01/eclipse-theia-ide-arrives-for-desktop-browser/</guid>
+          <link>https://majordigest.com/tech/2024/07/01/eclipse-theia-ide-arrives-for-desktop-browser/</link>
+          <pubDate>Mon, 01 Jul 2024 13:00:00 -0700</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/eclipse-theia-ide-arrives-for-desktop-browser.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/eclipse-theia-ide-arrives-for-desktop-browser.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
           <title>10 voice scams to watch out for &#8211; and your quick action plan</title>
@@ -74,6 +96,29 @@
           <dc:creator> erichs211@gmail.com (Eric Hal Schwartz) , TechRadar</dc:creator>
         </item>
         <item>
+          <title>Windows 11 has never been so popular - but is a fresh surge of installations coming from a place of love or mere tolerance?</title>
+          <description><![CDATA[Almost 30% of all Windows PCs now run on Windows 11 - a slow but steady victory as more users are begrudgingly accepting the new operating system.]]></description>
+          <guid>https://majordigest.com/tech/2024/07/01/windows-11-has-never-been-so-popular-but-is-a-fresh-surge-of-installations-coming-from-a-place-of-love-or-mere-tolerance/</guid>
+          <link>https://majordigest.com/tech/2024/07/01/windows-11-has-never-been-so-popular-but-is-a-fresh-surge-of-installations-coming-from-a-place-of-love-or-mere-tolerance/</link>
+          <pubDate>Mon, 01 Jul 2024 18:45:04 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/windows-11-has-never-been-so-popular-but-is-a-fresh-surge-of-installations-coming-from-a-place-of-love-or-mere-tolerance.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/windows-11-has-never-been-so-popular-but-is-a-fresh-surge-of-installations-coming-from-a-place-of-love-or-mere-tolerance.webp"/>
+          <dc:creator> muskaan.saxena@futurenet.com (Muskaan Saxena) , TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Evolving hybrid cloud strategies in modern agencies</title>
+          <description><![CDATA[How are the CDC and TSA managing cloud adoption to meet their missions?
+The post Evolving hybrid cloud strategies in modern agencies first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/07/01/evolving-hybrid-cloud-strategies-in-modern-agencies/</guid>
+          <link>https://majordigest.com/tech/2024/07/01/evolving-hybrid-cloud-strategies-in-modern-agencies/</link>
+          <pubDate>Mon, 01 Jul 2024 18:34:20 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/evolving-hybrid-cloud-strategies-in-modern-agencies.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/evolving-hybrid-cloud-strategies-in-modern-agencies.webp"/>
+          <dc:creator>wfedstaff, Federal News Network</dc:creator>
+        </item>
+        <item>
           <title>EU finds Meta's 'pay or consent' advertising model violates tech rules</title>
           <description><![CDATA[The European Union said Meta’s “pay or consent” advertising model for European users violates the bloc’s Digital Markets Act (DMA), according to preliminary findings released Monday.]]></description>
           <guid>https://majordigest.com/tech/2024/07/01/eu-finds-metas-pay-or-consent-advertising-model-violates-tech-rules/</guid>
@@ -96,19 +141,8 @@
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>The technology powering Taylor Swift, Netflix and the Sphere</title>
-          <description><![CDATA[Disguise is a pioneer in an exploding market for visual graphics in demand from Hollywood to the NBA.]]></description>
-          <guid>https://majordigest.com/tech/2024/07/01/the-technology-powering-taylor-swift-netflix-and-the-sphere/</guid>
-          <link>https://majordigest.com/tech/2024/07/01/the-technology-powering-taylor-swift-netflix-and-the-sphere/</link>
-          <pubDate>Mon, 01 Jul 2024 17:36:33 +0000</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/the-technology-powering-taylor-swift-netflix-and-the-sphere.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/the-technology-powering-taylor-swift-netflix-and-the-sphere.webp"/>
-          <dc:creator>Bloomberg, The Mercury News</dc:creator>
-        </item>
-        <item>
-          <title>Nutanix hunts disgruntled VMware customers</title>
-          <description><![CDATA[The new Nutanix is virtually unrecognizable from the company that created the hyperconverged infrastructure (HCI) market in 2011.]]></description>
+          <title>Disgruntled VMware Customers Targeted by Nutanix's Hyperconverged Infrastructure Solutions</title>
+          <description><![CDATA[Nutanix, a pioneer in the hyperconverged infrastructure (HCI) market, has transformed significantly since its inception in 2011. With a focus on delivering innovative solutions to customers dissatisfied with their current VMware setup, Nutanix aims to provide a superior alternative for organizations seeking reliable and efficient HCI services.]]></description>
           <guid>https://majordigest.com/tech/2024/07/01/nutanix-hunts-disgruntled-vmware-customers/</guid>
           <link>https://majordigest.com/tech/2024/07/01/nutanix-hunts-disgruntled-vmware-customers/</link>
           <pubDate>Mon, 01 Jul 2024 16:20:28 +0000</pubDate>
@@ -118,8 +152,8 @@
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Supreme Court Halts Social Media Regulation Efforts in Texas and Florida Amid Political Tensions</title>
-          <description><![CDATA[A Supreme Court injunction has paused the implementation of social media regulations in Texas and Florida, following the suspension of then-President Donald Trump's accounts on Facebook and Twitter over controversial posts referencing the 2021 US Capitol attack.]]></description>
+          <title>The Supreme Court keeps on hold efforts in Texas and Florida to regulate social media platforms</title>
+          <description><![CDATA[The Florida and Texas laws were signed by Republican governors in the months following decisions by Facebook and Twitter, now X, to cut then-President Donald Trump off over his posts related to the Jan. 6, 2021, attack on the U.S. Capitol by his supporters.]]></description>
           <guid>https://majordigest.com/tech/2024/07/01/the-supreme-court-keeps-on-hold-efforts-in-texas-and-florida-to-regulate-social-media-platforms/</guid>
           <link>https://majordigest.com/tech/2024/07/01/the-supreme-court-keeps-on-hold-efforts-in-texas-and-florida-to-regulate-social-media-platforms/</link>
           <pubDate>Mon, 01 Jul 2024 15:17:37 +0000</pubDate>
@@ -149,28 +183,6 @@
           <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/supreme-court-punts-on-texas-florida-social-media-laws.webp"/>
           <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/supreme-court-punts-on-texas-florida-social-media-laws.webp"/>
           <dc:creator>Ella Lee, The Hill</dc:creator>
-        </item>
-        <item>
-          <title>US Supreme Court Halts Texas and Florida Efforts to Regulate Social Media Platforms</title>
-          <description><![CDATA[The US Supreme Court returns cases to lower courts, blocking challenges from trade associations seeking to regulate social media companies]]></description>
-          <guid>https://majordigest.com/tech/2024/07/01/the-supreme-court-keeps-hold-on-efforts-in-texas-and-florida-to-regulate-social-media-platforms/</guid>
-          <link>https://majordigest.com/tech/2024/07/01/the-supreme-court-keeps-hold-on-efforts-in-texas-and-florida-to-regulate-social-media-platforms/</link>
-          <pubDate>Mon, 01 Jul 2024 14:27:53 +0000</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/the-supreme-court-keeps-hold-on-efforts-in-texas-and-florida-to-regulate-social-media-platforms.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/the-supreme-court-keeps-hold-on-efforts-in-texas-and-florida-to-regulate-social-media-platforms.webp"/>
-          <dc:creator>MARK SHERMAN, Associated Press, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>DoD Joint Staff GenAI Use Cases Revealed: 8 Internal Applications</title>
-          <description><![CDATA[The DoD's Joint Staff has outlined 8 internal use cases for GenAI, following a sprint led by Lt. Gen. Todd Isaacson, the CIO for the Joint Chiefs of Staff/J-6.]]></description>
-          <guid>https://majordigest.com/tech/2024/07/01/dods-joint-staff-genai-sprint-lays-out-8-internal-use-cases/</guid>
-          <link>https://majordigest.com/tech/2024/07/01/dods-joint-staff-genai-sprint-lays-out-8-internal-use-cases/</link>
-          <pubDate>Mon, 01 Jul 2024 14:22:29 +0000</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/dods-joint-staff-genai-sprint-lays-out-8-internal-use-cases.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/dods-joint-staff-genai-sprint-lays-out-8-internal-use-cases.webp"/>
-          <dc:creator>Jason Miller, Federal News Network</dc:creator>
         </item>
         <item>
           <title>How to trace and block anonymous calls</title>
@@ -206,17 +218,6 @@
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>Why smaller businesses need AI PCs to make hybrid work a success</title>
-          <description><![CDATA[As hybrid working increasingly becomes the norm, businesses must ensure their digital strategy is enabling high quality collaboration in order to succeed.]]></description>
-          <guid>https://majordigest.com/tech/2024/07/01/why-smaller-businesses-need-ai-pcs-to-make-hybrid-work-a-success/</guid>
-          <link>https://majordigest.com/tech/2024/07/01/why-smaller-businesses-need-ai-pcs-to-make-hybrid-work-a-success/</link>
-          <pubDate>Mon, 01 Jul 2024 13:15:25 +0000</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/why-smaller-businesses-need-ai-pcs-to-make-hybrid-work-a-success.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/why-smaller-businesses-need-ai-pcs-to-make-hybrid-work-a-success.webp"/>
-          <dc:creator>CIO</dc:creator>
-        </item>
-        <item>
           <title>What key features underpin best-in-class AI PCs?</title>
           <description><![CDATA[As businesses seek to leverage AI in all aspects of their operations, it’s vital that IT leaders understand how this transformative moment will impact hardware.
 CIOs who aren’t actively investigating the possibilities risk being left behind.]]></description>
@@ -229,8 +230,30 @@ CIOs who aren’t actively investigating the possibilities risk being left behin
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>Robot Boat Tackles Waterway Waste with Autonomous Trash Removal</title>
-          <description><![CDATA[Kurt Knutsson, tech expert, discusses Clearbot, an autonomous vessel for efficient marine waste removal, designed to tackle waterway pollution.]]></description>
+          <title>Boeing Set to Acquire Spirit AeroSystems in $4.7 Billion All-Stock Deal</title>
+          <description><![CDATA[Boeing announces plans to purchase Spirit AeroSystems for $4.7 billion, bringing the supplier back under its umbrella decades after it spun off. The acquisition aims to streamline production and enhance efficiency.]]></description>
+          <guid>https://majordigest.com/tech/2024/07/01/boeing-spirit-acquisition-safety/</guid>
+          <link>https://majordigest.com/tech/2024/07/01/boeing-spirit-acquisition-safety/</link>
+          <pubDate>Mon, 01 Jul 2024 12:56:59 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/boeing-spirit-acquisition-safety.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/boeing-spirit-acquisition-safety.webp"/>
+          <dc:creator>Taylor Giorno, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>European Union accuses Facebook owner Meta of breaking digital rules with paid ad-free option</title>
+          <description><![CDATA[European Union regulators have accused social media company Meta Platforms of breaching the bloc’s new digital competition rulebook by forcing Facebook and Instagram users to choose between seeing ads or paying to avoid them.]]></description>
+          <guid>https://majordigest.com/tech/2024/07/01/european-union-accuses-facebook-owner-meta-of-breaking-digital-rules-with-paid-ad-free-option/</guid>
+          <link>https://majordigest.com/tech/2024/07/01/european-union-accuses-facebook-owner-meta-of-breaking-digital-rules-with-paid-ad-free-option/</link>
+          <pubDate>Mon, 01 Jul 2024 10:02:55 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/european-union-accuses-facebook-owner-meta-of-breaking-digital-rules-with-paid-ad-free-option.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/european-union-accuses-facebook-owner-meta-of-breaking-digital-rules-with-paid-ad-free-option.webp"/>
+          <dc:creator>Kelvin Chan, Associated Press, KPRC 2</dc:creator>
+        </item>
+        <item>
+          <title>Autonomous trash-gobbling robot boat wages war on waterway waste</title>
+          <description><![CDATA[Tech expert Kurt “CyberGuy&quot; Knutsson provides the details on the Class 3 Clearbot: an autonomous vessel for efficient marine trash/plant removal.]]></description>
           <guid>https://majordigest.com/tech/2024/07/01/autonomous-trash-gobbling-robot-boat-wages-war-waterway-waste/</guid>
           <link>https://majordigest.com/tech/2024/07/01/autonomous-trash-gobbling-robot-boat-wages-war-waterway-waste/</link>
           <pubDate>Mon, 01 Jul 2024 06:00:12 -0400</pubDate>
@@ -238,18 +261,6 @@ CIOs who aren’t actively investigating the possibilities risk being left behin
           <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/autonomous-trash-gobbling-robot-boat-wages-war-waterway-waste.webp"/>
           <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/autonomous-trash-gobbling-robot-boat-wages-war-waterway-waste.webp"/>
           <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>8 AI-powered apps that&#8217;ll actually save you time</title>
-          <description><![CDATA[You can’t open your eyes these days without seeing something about generative AI and all the reasons it’s, like, totally gonna revolutionize the way you work.
-And yet, call me surly, but most of the AI tools out there at this point seem far less impressive in practice than they do on paper.]]></description>
-          <guid>https://majordigest.com/tech/2024/07/01/ai-powered-apps-that-actually-save-time/</guid>
-          <link>https://majordigest.com/tech/2024/07/01/ai-powered-apps-that-actually-save-time/</link>
-          <pubDate>Mon, 01 Jul 2024 10:00:00 +0000</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/ai-powered-apps-that-actually-save-time.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/ai-powered-apps-that-actually-save-time.webp"/>
-          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
           <title>Why (and perhaps how) Apple Intelligence will make money</title>
@@ -260,6 +271,17 @@ And yet, call me surly, but most of the AI tools out there at this point seem fa
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/why-and-perhaps-how-apple-intelligence-will-make-money.webp"/>
           <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/why-and-perhaps-how-apple-intelligence-will-make-money.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Windows 11 Insider Previews: What&#8217;s in the latest build?</title>
+          <description><![CDATA[The Windows 11 2023 Update has been released, but behind the scenes, Microsoft is constantly working to improve the newest version of Windows.]]></description>
+          <guid>https://majordigest.com/tech/2024/07/01/windows-11-insider-previews-whats-in-latest-build/</guid>
+          <link>https://majordigest.com/tech/2024/07/01/windows-11-insider-previews-whats-in-latest-build/</link>
+          <pubDate>Mon, 01 Jul 2024 09:02:51 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/07/01/windows-11-insider-previews-whats-in-latest-build.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/07/01/windows-11-insider-previews-whats-in-latest-build.webp"/>
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
@@ -285,30 +307,30 @@ And yet, call me surly, but most of the AI tools out there at this point seem fa
           <dc:creator>Anna Kutz, NewsNation</dc:creator>
         </item>
         <item>
-          <title>FCC Proposes Mandatory Cell Phone Unlocking Policy for Carriers</title>
-          <description><![CDATA[The Federal Communications Commission (FCC) proposes a new rule requiring US carriers to unlock cellphones within 60 days of purchase, allowing consumers to switch networks without carrier restrictions]]></description>
-          <guid>https://majordigest.com/tech/2024/06/29/fcc-proposes-rule-requiring-carriers-to-unlock-all-cellphones/</guid>
-          <link>https://majordigest.com/tech/2024/06/29/fcc-proposes-rule-requiring-carriers-to-unlock-all-cellphones/</link>
-          <pubDate>Sat, 29 Jun 2024 16:33:40 +0000</pubDate>
+          <title>Will China try to make a land grab on the moon?</title>
+          <description><![CDATA[“A lot of their so-called civilian space program is a military program. And I think, in effect, we are in a race,” says NASA Administrator Bill Nelson.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/30/will-china-try-to-make-a-land-grab-on-the-moon/</guid>
+          <link>https://majordigest.com/tech/2024/06/30/will-china-try-to-make-a-land-grab-on-the-moon/</link>
+          <pubDate>Sun, 30 Jun 2024 01:32:32 +0000</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/29/fcc-proposes-rule-requiring-carriers-to-unlock-all-cellphones.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/29/fcc-proposes-rule-requiring-carriers-to-unlock-all-cellphones.webp"/>
-          <dc:creator>Safia Samee Ali, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/30/will-china-try-to-make-a-land-grab-on-the-moon.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/30/will-china-try-to-make-a-land-grab-on-the-moon.webp"/>
+          <dc:creator>Rich Johnson, NewsNation</dc:creator>
         </item>
         <item>
-          <title>Mastering Password Management: Tips for Securing Your Digital Life</title>
-          <description><![CDATA[A staggering number of individuals struggle with managing their numerous passwords, highlighting the need for effective password management strategies to maintain digital security.]]></description>
-          <guid>https://majordigest.com/tech/2024/06/29/too-many-passwords-to-remember-heres-what-you-can-do/</guid>
-          <link>https://majordigest.com/tech/2024/06/29/too-many-passwords-to-remember-heres-what-you-can-do/</link>
-          <pubDate>Sat, 29 Jun 2024 13:00:50 +0000</pubDate>
+          <title>Animal rescuers try to keep dozens of dolphins away from Cape Cod shallows after mass stranding</title>
+          <description><![CDATA[Animal rescuers were trying to keep dozens of dolphins away from shallow waters around Cape Cod after 125 of the creatures earlier stranded themselves.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/29/animal-rescuers-try-to-keep-dozens-of-dolphins-away-from-cape-cod-shallows-after-mass-stranding/</guid>
+          <link>https://majordigest.com/tech/2024/06/29/animal-rescuers-try-to-keep-dozens-of-dolphins-away-from-cape-cod-shallows-after-mass-stranding/</link>
+          <pubDate>Sat, 29 Jun 2024 15:53:05 +0000</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/29/too-many-passwords-to-remember-heres-what-you-can-do.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/29/too-many-passwords-to-remember-heres-what-you-can-do.webp"/>
-          <dc:creator>The Associated Press, WGN 9</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/29/animal-rescuers-try-to-keep-dozens-of-dolphins-away-from-cape-cod-shallows-after-mass-stranding.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/29/animal-rescuers-try-to-keep-dozens-of-dolphins-away-from-cape-cod-shallows-after-mass-stranding.webp"/>
+          <dc:creator>Associated Press, KPRC 2</dc:creator>
         </item>
         <item>
-          <title>Supreme Court Nears Conclusion of Pivotal Term with Decision on Trump's Immunity Imminent</title>
-          <description><![CDATA[As the Supreme Court approaches the end of its term, a critical decision on Donald Trump's immunity is looming, following a flurry of rulings that touched on various aspects of American society]]></description>
+          <title>The Supreme Court nears the end of another momentous term. A decision on Trump's immunity looms</title>
+          <description><![CDATA[WASHINGTON (AP) — In the last 10 days of June, on a frenetic pace of its own making, the Supreme Court touched a wide swath of American society in a torrent of decisions on abortion, guns, the environment, health, the opioid crisis, securities fraud and homelessness.]]></description>
           <guid>https://majordigest.com/tech/2024/06/29/the-supreme-court-nears-the-end-of-another-momentous-term-a-decision-on-trumps-immunity-looms/</guid>
           <link>https://majordigest.com/tech/2024/06/29/the-supreme-court-nears-the-end-of-another-momentous-term-a-decision-on-trumps-immunity-looms/</link>
           <pubDate>Sat, 29 Jun 2024 12:10:12 +0000</pubDate>
@@ -318,15 +340,15 @@ And yet, call me surly, but most of the AI tools out there at this point seem fa
           <dc:creator>MARK SHERMAN, Associated Press, ABC 4</dc:creator>
         </item>
         <item>
-          <title>As AI gains a workplace foothold, states are trying to make sure workers don't get left behind</title>
-          <description><![CDATA[HARTFORD, Conn. (AP) — With many jobs expected to eventually rely on generative artificial intelligence, states are trying to help workers beef up their tech skills before they become outdated and get outfoxed by machines that are becoming increasingly smarter.]]></description>
-          <guid>https://majordigest.com/tech/2024/06/29/as-ai-gains-a-workplace-foothold-states-are-trying-to-make-sure-workers-dont-get-left-behind/</guid>
-          <link>https://majordigest.com/tech/2024/06/29/as-ai-gains-a-workplace-foothold-states-are-trying-to-make-sure-workers-dont-get-left-behind/</link>
-          <pubDate>Sat, 29 Jun 2024 04:05:20 +0000</pubDate>
+          <title>Amazon Investigates Claims of Unauthorized Content Scraping by Perplexity AI</title>
+          <description><![CDATA[Amazon reviews allegations that Perplexity AI is scraping online content, including news articles from prominent sites, without proper authorization]]></description>
+          <guid>https://majordigest.com/tech/2024/06/28/amazon-is-reviewing-whether-perplexity-ai-improperly-scraped-online-content/</guid>
+          <link>https://majordigest.com/tech/2024/06/28/amazon-is-reviewing-whether-perplexity-ai-improperly-scraped-online-content/</link>
+          <pubDate>Fri, 28 Jun 2024 22:45:40 +0000</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/29/as-ai-gains-a-workplace-foothold-states-are-trying-to-make-sure-workers-dont-get-left-behind.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/29/as-ai-gains-a-workplace-foothold-states-are-trying-to-make-sure-workers-dont-get-left-behind.webp"/>
-          <dc:creator>SUSAN HAIGH, Associated Press, ABC 4</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/28/amazon-is-reviewing-whether-perplexity-ai-improperly-scraped-online-content.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/28/amazon-is-reviewing-whether-perplexity-ai-improperly-scraped-online-content.webp"/>
+          <dc:creator>HALELUYA HADERO, Associated Press, ABC 4</dc:creator>
         </item>
         <item>
           <title>Navigating the future of healthcare: Transformation, measurement and integration</title>
@@ -341,29 +363,6 @@ The post Navigating the future of healthcare: Transformation, measurement and in
           <dc:creator>wfedstaff, Federal News Network</dc:creator>
         </item>
         <item>
-          <title>Google opens access to 2 million context window of Gemini 1.5 Pro</title>
-          <description><![CDATA[Google has opened access to the 2-million-token context window of the Gemini 1.5 Pro AI model. The company also is giving developers access to code execution capabilities in the Gemini API and making the Gemma 2 model available in Google AI Studio.
-These announcements were made on June 27.]]></description>
-          <guid>https://majordigest.com/tech/2024/06/28/google-opens-access-to-2-million-context-window-of-gemini-15-pro/</guid>
-          <link>https://majordigest.com/tech/2024/06/28/google-opens-access-to-2-million-context-window-of-gemini-15-pro/</link>
-          <pubDate>Fri, 28 Jun 2024 11:30:00 -0700</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/28/google-opens-access-to-2-million-context-window-of-gemini-15-pro.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/28/google-opens-access-to-2-million-context-window-of-gemini-15-pro.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>AI success: Real or hallucination?</title>
-          <description><![CDATA[Ever consider how much of AI is a hallucination? Not how much AI output is hallucination, but rather how much of what we hear or read about it is genuine? Could it be that AI success is mostly hype, and that all the hype may be hurting the technology rather than helping? Enterprises need to get to t]]></description>
-          <guid>https://majordigest.com/tech/2024/06/27/ai-success-real-or-hallucination/</guid>
-          <link>https://majordigest.com/tech/2024/06/27/ai-success-real-or-hallucination/</link>
-          <pubDate>Thu, 27 Jun 2024 10:00:00 +0000</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/27/ai-success-real-or-hallucination.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/27/ai-success-real-or-hallucination.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
           <title>The Supreme Court rules for Biden administration in a social media dispute with conservative states</title>
           <description><![CDATA[WASHINGTON (AP) — The Supreme Court on Wednesday sided with the Biden administration in a dispute with Republican-led states over how far the federal government can go to combat controversial social media posts on topics including COVID-19 and election security.]]></description>
           <guid>https://majordigest.com/tech/2024/06/27/the-supreme-court-rules-for-biden-administration-in-a-social-media-dispute-with-conservative-states/</guid>
@@ -373,17 +372,6 @@ These announcements were made on June 27.]]></description>
           <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/27/the-supreme-court-rules-for-biden-administration-in-a-social-media-dispute-with-conservative-states.webp"/>
           <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/27/the-supreme-court-rules-for-biden-administration-in-a-social-media-dispute-with-conservative-states.webp"/>
           <dc:creator>MARK SHERMAN, Associated Press, KRON4</dc:creator>
-        </item>
-        <item>
-          <title>Pope Francis Orders Conversion of Vatican Radio Territory into Solar Farm in North Rome</title>
-          <description><![CDATA[Rome, Italy - Pope Francis has decreed that a territory in northern Rome previously blamed for electro-smog due to Vatican Radio towers will now be converted into a solar farm to power Vatican City. This move follows the Vatican's commitment to the United Nations' renewable energy goals.]]></description>
-          <guid>https://majordigest.com/tech/2024/06/26/a-vatican-radio-territory-in-north-rome-once-blamed-for-electro-smog-will-become-a-solar-farm/</guid>
-          <link>https://majordigest.com/tech/2024/06/26/a-vatican-radio-territory-in-north-rome-once-blamed-for-electro-smog-will-become-a-solar-farm/</link>
-          <pubDate>Wed, 26 Jun 2024 14:18:03 +0000</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/26/a-vatican-radio-territory-in-north-rome-once-blamed-for-electro-smog-will-become-a-solar-farm.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/26/a-vatican-radio-territory-in-north-rome-once-blamed-for-electro-smog-will-become-a-solar-farm.webp"/>
-          <dc:creator>NICOLE WINFIELD, Associated Press, KRON4</dc:creator>
         </item>
         <item>
           <title>Where tech, politics &#38; giving meet: CEO Nicole Taylor considers Silicon Valley's busy intersection</title>
@@ -408,8 +396,8 @@ These announcements were made on June 27.]]></description>
           <dc:creator>Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
-          <title>Indonesia Resists Paying $8M Ransom After Cyberattack Compromises National Data Center</title>
-          <description><![CDATA[The Indonesian government refuses to pay an $8 million ransom demanded by hackers after a cyberattack compromised the country's national data center, highlighting its commitment to cybersecurity and public safety.]]></description>
+          <title>Indonesia Resists $8M Ransom Demand After National Data Center Hack</title>
+          <description><![CDATA[The Indonesian government has refused to pay an $8 million ransom demanded by hackers after a cyberattack compromised its national data center, according to reports.]]></description>
           <guid>https://majordigest.com/tech/2024/06/25/indonesia-wont-pay-an-8-million-ransom-after-a-cyberattack-compromised-its-national-data-center/</guid>
           <link>https://majordigest.com/tech/2024/06/25/indonesia-wont-pay-an-8-million-ransom-after-a-cyberattack-compromised-its-national-data-center/</link>
           <pubDate>Tue, 25 Jun 2024 04:46:19 +0000</pubDate>
@@ -419,13 +407,24 @@ These announcements were made on June 27.]]></description>
           <dc:creator>NINIEK KARMINI, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
-          <title>Car dealerships in North America revert to pens and paper after cyberattacks on software provider</title>
-          <description><![CDATA[NEW YORK (AP) — Car dealerships in North America are still wrestling with major disruptions that started last week with cyberattacks on a company whose software is used widely in the auto retail sales sector. CDK Global, a company that provides software for thousands of auto dealers in the U.S.]]></description>
-          <guid>https://majordigest.com/tech/2024/06/24/car-dealerships-in-north-america-revert-to-pens-and-paper-after-cyberattacks-on-software-provider/</guid>
-          <link>https://majordigest.com/tech/2024/06/24/car-dealerships-in-north-america-revert-to-pens-and-paper-after-cyberattacks-on-software-provider/</link>
-          <pubDate>Mon, 24 Jun 2024 23:17:15 +0000</pubDate>
+          <title>Indonesia won't pay an $8 million ransom after a cyberattack compromised the national data center</title>
+          <description><![CDATA[JAKARTA, Indonesia (AP) — Indonesia's national data center has been compromised by a hacking group asking for a $8 million ransom that the government says it won't pay.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/25/indonesia-says-a-cyberattack-has-compromised-its-data-center-but-it-wont-pay-the-8-million-ransom/</guid>
+          <link>https://majordigest.com/tech/2024/06/25/indonesia-says-a-cyberattack-has-compromised-its-data-center-but-it-wont-pay-the-8-million-ransom/</link>
+          <pubDate>Tue, 25 Jun 2024 02:01:42 +0000</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/24/car-dealerships-in-north-america-revert-to-pens-and-paper-after-cyberattacks-on-software-provider.webp"/>
-          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/24/car-dealerships-in-north-america-revert-to-pens-and-paper-after-cyberattacks-on-software-provider.webp"/>
-          <dc:creator>WYATTE GRANTHAM-PHILIPS, Associated Press, KLAS, CBS News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/25/indonesia-says-a-cyberattack-has-compromised-its-data-center-but-it-wont-pay-the-8-million-ransom.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/25/indonesia-says-a-cyberattack-has-compromised-its-data-center-but-it-wont-pay-the-8-million-ransom.webp"/>
+          <dc:creator>NINIEK KARMINI, Associated Press, KGET 17, NBC</dc:creator>
+        </item>
+        <item>
+          <title>UN launches global principles to combat online hate and demands big tech take action now</title>
+          <description><![CDATA[UNITED NATIONS (AP) — The United Nations chief on Monday launched global principles to combat online hate and lies and demanded that big tech companies use their power to reduce the harm they are doing to people and societies around the world.]]></description>
+          <guid>https://majordigest.com/tech/2024/06/24/un-launches-global-principles-to-combat-online-hate-and-demands-big-tech-take-action-now/</guid>
+          <link>https://majordigest.com/tech/2024/06/24/un-launches-global-principles-to-combat-online-hate-and-demands-big-tech-take-action-now/</link>
+          <pubDate>Mon, 24 Jun 2024 21:37:29 +0000</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static8/tech/2024/06/24/un-launches-global-principles-to-combat-online-hate-and-demands-big-tech-take-action-now.webp"/>
+          <media:thumbnail url="https://majordigest.com/static8/tech/2024/06/24/un-launches-global-principles-to-combat-online-hate-and-demands-big-tech-take-action-now.webp"/>
+          <dc:creator>EDITH M. LEDERER, Associated Press, KLAS, CBS News</dc:creator>
         </item></channel></rss>
