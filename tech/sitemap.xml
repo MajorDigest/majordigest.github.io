@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/07/01/mary-meeker-says-ai-and-higher-education-need-to-team-up/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T23:51:07.000Z</news:publication_date>
+            <news:title>Mary Meeker says AI and higher education need to team up</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/mary-meeker-says-ai-and-higher-education-need-to-team-up.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/07/01/scotus-netchoice-decisions/</loc>
           <news:news>
             <news:publication>
@@ -10,24 +24,66 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-07-01T23:24:37.000Z</news:publication_date>
-            <news:title>Supreme Court Avoids Major Ruling on Social Media 'Censorship' Laws</news:title>
+            <news:title>The Supreme Court just ducked a major decision in its social media &#8216;censorship&#8217; cases</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/scotus-netchoice-decisions.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/07/01/data-is-gold-in-ai-era/</loc>
+          <loc>https://majordigest.com/tech/2024/07/01/supreme-court-decide-florida-texas-violating-social-media-first-amendment-rights/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-07-01T17:00:00.000Z</news:publication_date>
-            <news:title>In the AI era, data is gold. And these companies are striking it rich</news:title>
+            <news:publication_date>2024-07-01T20:23:23.000Z</news:publication_date>
+            <news:title>The Supreme Court will decide if Florida and Texas are violating social media First Amendment rights</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/data-is-gold-in-ai-era.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/supreme-court-decide-florida-texas-violating-social-media-first-amendment-rights.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/sorry-morgan-freeman-is-not-narrating-that-viral-tiktok-video/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T17:50:35.000Z</news:publication_date>
+            <news:title>Sorry, Morgan Freeman is not narrating that viral TikTok video</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/sorry-morgan-freeman-is-not-narrating-that-viral-tiktok-video.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/the-technology-powering-taylor-swift-netflix-and-the-sphere/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T17:36:33.000Z</news:publication_date>
+            <news:title>The technology powering Taylor Swift, Netflix and the Sphere</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/the-technology-powering-taylor-swift-netflix-and-the-sphere.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/huawei-claimed-that-its-ai-chip-is-faster-than-nvidias-a100-but-chinese-powerhouse-struggles-to-match-transformational-pace-of-rivals-as-international-sanctions-force-change-in-design/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T17:28:47.000Z</news:publication_date>
+            <news:title>Huawei claims its AI chip is faster than Nvidia A100 &#8212; but Chinese powerhouse struggles to match transformational pace of rivals as international sanctions force change in design</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/huawei-claimed-that-its-ai-chip-is-faster-than-nvidias-a100-but-chinese-powerhouse-struggles-to-match-transformational-pace-of-rivals-as-international-sanctions-force-change-in-design.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -38,10 +94,24 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-07-01T16:20:28.000Z</news:publication_date>
-            <news:title>VMware Migrators: Nutanix Lures Disgruntled Customers with Hyperconverged Solutions</news:title>
+            <news:title>Nutanix hunts disgruntled VMware customers</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/nutanix-hunts-disgruntled-vmware-customers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/the-supreme-court-keeps-on-hold-efforts-in-texas-and-florida-to-regulate-social-media-platforms/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T15:17:37.000Z</news:publication_date>
+            <news:title>The Supreme Court keeps on hold efforts in Texas and Florida to regulate social media platforms</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/the-supreme-court-keeps-on-hold-efforts-in-texas-and-florida-to-regulate-social-media-platforms.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -66,24 +136,24 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-07-01T14:42:38.000Z</news:publication_date>
-            <news:title>Millions of Infosys McCamish Users' Data Stolen in LockBit Ransomware Attack</news:title>
+            <news:title>LockBit ransomware attack stole data on millions of Infosys McCamish users</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/lockbit-ransomware-attack-stole-data-on-millions-of-infosys-mccamish-users.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/07/01/supreme-court-punts-on-texas-florida-social-media-laws/</loc>
+          <loc>https://majordigest.com/tech/2024/07/01/dods-joint-staff-genai-sprint-lays-out-8-internal-use-cases/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-07-01T14:37:10.000Z</news:publication_date>
-            <news:title>Supreme Court punts on Texas, Florida social media laws</news:title>
+            <news:publication_date>2024-07-01T14:22:29.000Z</news:publication_date>
+            <news:title>DoD&#8217;s Joint Staff GenAI sprint lays out 8 internal use cases</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/supreme-court-punts-on-texas-florida-social-media-laws.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/dods-joint-staff-genai-sprint-lays-out-8-internal-use-cases.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -94,38 +164,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-07-01T14:00:13.000Z</news:publication_date>
-            <news:title>How to trace and block anonymous calls</news:title>
+            <news:title>Prevent Scam Calls: Techniques for Tracing and Blocking Anonymous Phone Numbers</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/how-trace-block-anonymous-calls.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/07/01/microsoft-ai-ceo-says-content-published-online-is-freeware-to-help-train-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T13:53:11.000Z</news:publication_date>
-            <news:title>Microsoft AI CEO claims any content published online is "freeware" to help train AI &#8212; and people are not happy</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/microsoft-ai-ceo-says-content-published-online-is-freeware-to-help-train-ai.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/07/01/alibaba-cloud-closes-some-key-datacenters-as-it-pivots-to-different-markets/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T13:33:14.000Z</news:publication_date>
-            <news:title>Alibaba Cloud Shifts Focus to Southeast Asia, Closes Key Data Centers in Sydney and Mumbai</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/alibaba-cloud-closes-some-key-datacenters-as-it-pivots-to-different-markets.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -140,34 +182,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/alibaba-to-cease-data-center-operations-in-india-and-australia.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/07/01/how-smaller-businesses-can-reimagine-brand-building-with-generative-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T13:16:54.000Z</news:publication_date>
-            <news:title>How smaller businesses can reimagine brand building with generative AI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/how-smaller-businesses-can-reimagine-brand-building-with-generative-ai.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/07/01/why-smaller-businesses-need-ai-pcs-to-make-hybrid-work-a-success/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T13:15:25.000Z</news:publication_date>
-            <news:title>Why smaller businesses need AI PCs to make hybrid work a success</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/why-smaller-businesses-need-ai-pcs-to-make-hybrid-work-a-success.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,20 +241,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/07/01/infoworld-technology-of-the-year-awards-2024-nominations-now-open/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T09:00:00.000Z</news:publication_date>
-            <news:title>2024 InfoWorld Technology Awards Open for Nominations in Software, Cloud, Data Analytics &#38; AI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/infoworld-technology-of-the-year-awards-2024-nominations-now-open.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/07/01/7-steps-to-improve-analytics-for-data-driven-organizations/</loc>
           <news:news>
             <news:publication>
@@ -255,17 +255,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/30/most-targeted-cities-travel-booking-scams/</loc>
+          <loc>https://majordigest.com/tech/2024/07/01/infoworld-technology-of-the-year-awards-2024-nominations-now-open/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-06-30T14:00:10.000Z</news:publication_date>
-            <news:title>Cities most targeted for travel booking scams</news:title>
+            <news:publication_date>2024-07-01T09:00:00.000Z</news:publication_date>
+            <news:title>InfoWorld Announces Technology of the Year Awards 2024 Nominations</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/30/most-targeted-cities-travel-booking-scams.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/infoworld-technology-of-the-year-awards-2024-nominations-now-open.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -276,38 +276,24 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-30T01:35:34.000Z</news:publication_date>
-            <news:title>Meta's AI-Generated Avatars for Instagram Creators on the Horizon</news:title>
+            <news:title>Artificial Intelligence Portrayals of Instagram Creators Imminent</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/30/instagram-ai-meta-creators.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/30/will-china-try-to-make-a-land-grab-on-the-moon/</loc>
+          <loc>https://majordigest.com/tech/2024/06/29/fcc-proposes-rule-requiring-carriers-to-unlock-all-cellphones/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-06-30T01:32:32.000Z</news:publication_date>
-            <news:title>Will China try to make a land grab on the moon?</news:title>
+            <news:publication_date>2024-06-29T16:33:40.000Z</news:publication_date>
+            <news:title>FCC proposes rule requiring carriers to unlock all cellphones</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/30/will-china-try-to-make-a-land-grab-on-the-moon.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/06/29/animal-rescuers-try-to-keep-dozens-of-dolphins-away-from-cape-cod-shallows-after-mass-stranding/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-29T15:53:05.000Z</news:publication_date>
-            <news:title>Cape Cod Dolphin Stranding: Rescuers Contain Dozens of Stranded Dolphins in Shallow Waters</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/29/animal-rescuers-try-to-keep-dozens-of-dolphins-away-from-cape-cod-shallows-after-mass-stranding.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/29/fcc-proposes-rule-requiring-carriers-to-unlock-all-cellphones.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -318,7 +304,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-29T13:00:50.000Z</news:publication_date>
-            <news:title>Too many passwords to remember? Here's what you can do</news:title>
+            <news:title>Manage Your Passwords: Effective Solutions for Password Overload</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/29/too-many-passwords-to-remember-heres-what-you-can-do.webp</image:loc>
@@ -353,20 +339,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/29/how-viral-tiktok-recipes-are-changing-how-you-cook/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-29T10:25:33.000Z</news:publication_date>
-            <news:title>TikTok's Viral Recipe Trend is Redefining Cooking Habits</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/29/how-viral-tiktok-recipes-are-changing-how-you-cook.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/06/29/as-ai-gains-a-workplace-foothold-states-are-trying-to-make-sure-workers-dont-get-left-behind/</loc>
           <news:news>
             <news:publication>
@@ -374,10 +346,66 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-29T04:05:20.000Z</news:publication_date>
-            <news:title>Preventing Skills Obsolescence: States Ramp Up Training for Workers Amid AI Advancements</news:title>
+            <news:title>As AI gains a workplace foothold, states are trying to make sure workers don't get left behind</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/29/as-ai-gains-a-workplace-foothold-states-are-trying-to-make-sure-workers-dont-get-left-behind.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/06/28/amazon-is-reviewing-whether-perplexity-ai-improperly-scraped-online-content/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-06-28T22:45:40.000Z</news:publication_date>
+            <news:title>Amazon is reviewing whether Perplexity AI improperly scraped online content</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/28/amazon-is-reviewing-whether-perplexity-ai-improperly-scraped-online-content.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/06/28/navigating-the-future-of-healthcare-transformation-measurement-and-integration/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-06-28T22:29:03.000Z</news:publication_date>
+            <news:title>Navigating the future of healthcare: Transformation, measurement and integration</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/28/navigating-the-future-of-healthcare-transformation-measurement-and-integration.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/06/28/white-house-to-hold-conference-for-digital-creators/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-06-28T19:58:25.000Z</news:publication_date>
+            <news:title>White House to hold conference for digital creators</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/28/white-house-to-hold-conference-for-digital-creators.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/06/28/google-opens-access-to-2-million-context-window-of-gemini-15-pro/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-06-28T18:30:00.000Z</news:publication_date>
+            <news:title>Google opens access to 2 million context window of Gemini 1.5 Pro</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/28/google-opens-access-to-2-million-context-window-of-gemini-15-pro.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -416,24 +444,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-27T01:32:10.000Z</news:publication_date>
-            <news:title>The Supreme Court rules for Biden administration in a social media dispute with conservative states</news:title>
+            <news:title>Supreme Court Rules in Favor of Biden Administration in Social Media Dispute with Conservative States</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/27/the-supreme-court-rules-for-biden-administration-in-a-social-media-dispute-with-conservative-states.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/06/26/a-vatican-radio-territory-in-north-rome-once-blamed-for-electro-smog-will-become-a-solar-farm/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-26T14:18:03.000Z</news:publication_date>
-            <news:title>A Vatican Radio territory in north Rome once blamed for electro-smog will become a solar farm</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/26/a-vatican-radio-territory-in-north-rome-once-blamed-for-electro-smog-will-become-a-solar-farm.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -465,20 +479,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/25/indonesia-wont-pay-an-8-million-ransom-after-a-cyberattack-compromised-its-national-data-center/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-25T04:46:19.000Z</news:publication_date>
-            <news:title>Indonesia won't pay an $8 million ransom after a cyberattack compromised its national data center</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/25/indonesia-wont-pay-an-8-million-ransom-after-a-cyberattack-compromised-its-national-data-center.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/06/25/indonesia-says-a-cyberattack-has-compromised-its-data-center-but-it-wont-pay-the-8-million-ransom/</loc>
           <news:news>
             <news:publication>
@@ -493,6 +493,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/06/24/car-dealerships-in-north-america-revert-to-pens-and-paper-after-cyberattacks-on-software-provider/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-06-24T23:17:15.000Z</news:publication_date>
+            <news:title>Car dealerships in North America revert to pens and paper after cyberattacks on software provider</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/24/car-dealerships-in-north-america-revert-to-pens-and-paper-after-cyberattacks-on-software-provider.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/06/24/music-record-labels-sue-ai-song-generators-suno-and-udio-for-copyright-infringement/</loc>
           <news:news>
             <news:publication>
@@ -504,19 +518,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/24/music-record-labels-sue-ai-song-generators-suno-and-udio-for-copyright-infringement.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/06/24/european-union-regulators-accuse-apple-of-breaching-digital-competition-rules-for-app-stores/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-24T19:42:00.000Z</news:publication_date>
-            <news:title>Apple becomes first target of EU's new digital competition rules aimed at big tech</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/24/european-union-regulators-accuse-apple-of-breaching-digital-competition-rules-for-app-stores.webp</image:loc>
           </image:image>
         </url></urlset>
