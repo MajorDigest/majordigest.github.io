@@ -3,6 +3,76 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/07/01/free-chatgpt-apps-improve-productivity/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T16:00:00.000Z</news:publication_date>
+            <news:title>These free ChatGPT apps will analyze data, copyedit text, and improve productivity</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/free-chatgpt-apps-improve-productivity.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/new-samsung-galaxy-ring-leak-shows-its-health-tracking-features-in-action/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T09:34:49.000Z</news:publication_date>
+            <news:title>New Samsung Galaxy Ring leak shows its health-tracking features in action</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/new-samsung-galaxy-ring-leak-shows-its-health-tracking-features-in-action.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/infoworld-technology-of-the-year-awards-2024-nominations-now-open/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T09:00:00.000Z</news:publication_date>
+            <news:title>InfoWorld Technology of the Year Awards 2024 Nominations Now Open</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/infoworld-technology-of-the-year-awards-2024-nominations-now-open.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/7-steps-to-improve-analytics-for-data-driven-organizations/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T09:00:00.000Z</news:publication_date>
+            <news:title>7 steps to improve analytics for data-driven organizations</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/7-steps-to-improve-analytics-for-data-driven-organizations.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/07/01/morgan-stanley-lanza-una-ia-generativa-para-el-analisis-global/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-01T08:52:15.000Z</news:publication_date>
+            <news:title>Morgan Stanley Unveils AI-Powered Global Analysis Tool for Financial Advisors</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/07/01/morgan-stanley-lanza-una-ia-generativa-para-el-analisis-global.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/07/01/ibercaja-se-hace-con-la-plataforma-tecnologica-de-orange-bank-espana/</loc>
           <news:news>
             <news:publication>
@@ -10,7 +80,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-07-01T08:16:39.000Z</news:publication_date>
-            <news:title>Ibercaja se hace con la plataforma tecnol&#243;gica de Orange Bank Espa&#241;a</news:title>
+            <news:title>Ibercaja Acquires Orange Bank Espa&#241;a's Technological Platform to Boost Consumer Financing</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/ibercaja-se-hace-con-la-plataforma-tecnologica-de-orange-bank-espana.webp</image:loc>
@@ -31,20 +101,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/07/01/cybersecurity-leadership-for-small-businesses/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T07:43:31.000Z</news:publication_date>
-            <news:title>Cybersecurity leadership for small businesses</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/cybersecurity-leadership-for-small-businesses.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/07/01/the-sony-walkman-turns-45-heres-why-its-still-the-most-iconic-gadget-of-all-time/</loc>
           <news:news>
             <news:publication>
@@ -52,38 +108,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-07-01T06:00:00.000Z</news:publication_date>
-            <news:title>The Sony Walkman at 45: Why Its Legacy Endures</news:title>
+            <news:title>The Sony Walkman turns 45 &#8211; here's why it's still the most iconic gadget of all time</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/07/01/the-sony-walkman-turns-45-heres-why-its-still-the-most-iconic-gadget-of-all-time.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/07/01/huawei-succeeds-where-microsoft-failed-miserably-harmonyos-now-on-almost-one-billion-devices-and-chinas-largest-mobile-phone-manufacturer-has-completely-eliminated-android/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-01T05:28:00.000Z</news:publication_date>
-            <news:title>Huawei succeeds where Microsoft failed miserably &#8212; HarmonyOS now on almost one billion devices, and China's largest mobile phone manufacturer has completely eliminated Android</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/07/01/huawei-succeeds-where-microsoft-failed-miserably-harmonyos-now-on-almost-one-billion-devices-and-chinas-largest-mobile-phone-manufacturer-has-completely-eliminated-android.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/06/30/most-targeted-cities-travel-booking-scams/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-30T14:00:10.000Z</news:publication_date>
-            <news:title>Top 5 Travel Destinations Most Prone to Online Booking Scams</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/30/most-targeted-cities-travel-booking-scams.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,20 +129,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/30/instagram-ai-meta-creators/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-30T01:35:34.000Z</news:publication_date>
-            <news:title>AI-Generated Instagram Creators on Horizon: Meta Unveils 'Beta' Tag</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/30/instagram-ai-meta-creators.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/06/30/will-china-try-to-make-a-land-grab-on-the-moon/</loc>
           <news:news>
             <news:publication>
@@ -122,7 +136,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-30T01:32:32.000Z</news:publication_date>
-            <news:title>Will China try to make a land grab on the moon?</news:title>
+            <news:title>China's Moon Exploration Efforts Spark Concerns of Potential Military Intentions</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/30/will-china-try-to-make-a-land-grab-on-the-moon.webp</image:loc>
@@ -171,20 +185,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/29/what-is-a-passkey-password-apple-ios-18-google-microsoft-bank/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-29T16:00:00.000Z</news:publication_date>
-            <news:title>What is a passkey? Why Apple is betting on password-free tech</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/29/what-is-a-passkey-password-apple-ios-18-google-microsoft-bank.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/06/29/heartless-scammers-preying-peoples-lost-pet-anguish/</loc>
           <news:news>
             <news:publication>
@@ -199,17 +199,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/29/how-to-find-and-search-youtube-video-transcripts-on-your-phone/</loc>
+          <loc>https://majordigest.com/tech/2024/06/29/opinion-big-tech-companies-are-burning-through-reservoirs-of-trust-with-ai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-06-29T11:30:00.000Z</news:publication_date>
-            <news:title>Unlocking YouTube Video Insights: How to Search Transcripts on Your Mobile</news:title>
+            <news:publication_date>2024-06-29T12:30:42.000Z</news:publication_date>
+            <news:title>Opinion: Big tech companies are burning through reservoirs of trust with AI</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/29/how-to-find-and-search-youtube-video-transcripts-on-your-phone.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/29/opinion-big-tech-companies-are-burning-through-reservoirs-of-trust-with-ai.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/06/29/the-supreme-court-nears-the-end-of-another-momentous-term-a-decision-on-trumps-immunity-looms/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-06-29T12:10:12.000Z</news:publication_date>
+            <news:title>The Supreme Court nears the end of another momentous term. A decision on Trump's immunity looms</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/29/the-supreme-court-nears-the-end-of-another-momentous-term-a-decision-on-trumps-immunity-looms.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -220,7 +234,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-29T04:05:20.000Z</news:publication_date>
-            <news:title>As AI gains a workplace foothold, states are trying to make sure workers don't get left behind</news:title>
+            <news:title>States Prepare Workers for AI Era with Upgrading Tech Skills</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/29/as-ai-gains-a-workplace-foothold-states-are-trying-to-make-sure-workers-dont-get-left-behind.webp</image:loc>
@@ -248,10 +262,24 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-28T22:40:04.000Z</news:publication_date>
-            <news:title>Pescadero Mansion Lists for $8 Million, Features Solarium and Indoor Pool</news:title>
+            <news:title>Photos: Tech exec&#8217;s Pescadero mansion listed for $8 million</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/28/photos-tech-execs-pescadero-mansion-listed-for-8-million.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/06/28/navigating-the-future-of-healthcare-transformation-measurement-and-integration/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-06-28T22:29:03.000Z</news:publication_date>
+            <news:title>Navigating the future of healthcare: Transformation, measurement and integration</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/28/navigating-the-future-of-healthcare-transformation-measurement-and-integration.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -297,17 +325,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/28/uber-lyft-massachusetts-settlement/</loc>
+          <loc>https://majordigest.com/tech/2024/06/28/european-unions-competition-boss-signals-fresh-ai-scrutiny-for-microsoft-openai-deal-and-google/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-06-28T17:11:17.000Z</news:publication_date>
-            <news:title>Uber, Lyft agree to minimum pay, benefits in Massachusetts settlement</news:title>
+            <news:publication_date>2024-06-28T16:55:29.000Z</news:publication_date>
+            <news:title>European Union's competition boss signals fresh AI scrutiny for Microsoft-OpenAI deal and Google</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/28/uber-lyft-massachusetts-settlement.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/28/european-unions-competition-boss-signals-fresh-ai-scrutiny-for-microsoft-openai-deal-and-google.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -318,38 +346,24 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-28T16:07:46.000Z</news:publication_date>
-            <news:title>Apple Intelligence Delayed Amid Anticompetitive Fears, EU Commissioner Claims</news:title>
+            <news:title>EU commissioner slams Apple Intelligence delay</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/28/eu-commissioner-slams-apple-intelligence-delay.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/28/google-cloud-s-vertex-ai-gets-new-grounding-options/</loc>
+          <loc>https://majordigest.com/tech/2024/06/28/enterprise-buyers-guide-android-smartphones-for-business/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-06-28T12:09:00.000Z</news:publication_date>
-            <news:title>Google Cloud&#8217;s Vertex AI gets new grounding options</news:title>
+            <news:publication_date>2024-06-28T10:00:00.000Z</news:publication_date>
+            <news:title>The Ultimate Guide: Best Android Smartphones for Business</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/28/google-cloud-s-vertex-ai-gets-new-grounding-options.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/06/28/the-perils-of-overengineering-generative-ai-systems/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-28T09:00:00.000Z</news:publication_date>
-            <news:title>The perils of overengineering generative AI systems</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/28/the-perils-of-overengineering-generative-ai-systems.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/28/enterprise-buyers-guide-android-smartphones-for-business.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -388,7 +402,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-27T10:00:00.000Z</news:publication_date>
-            <news:title>AI success: Real or hallucination?</news:title>
+            <news:title>Busting AI Hype: Separating Fact from Fiction</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/27/ai-success-real-or-hallucination.webp</image:loc>
@@ -423,34 +437,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/26/why-nasa-astronauts-are-delayed-at-the-space-station-after-boeing-starliner-launch/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-26T18:56:37.000Z</news:publication_date>
-            <news:title>NASA Astronauts Delayed at Space Station due to Boeing Starliner Issues</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/26/why-nasa-astronauts-are-delayed-at-the-space-station-after-boeing-starliner-launch.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/06/26/pure-storage-adds-ai-features-for-security-and-performance/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-26T14:46:30.000Z</news:publication_date>
-            <news:title>Pure Storage adds AI features for security and performance</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/26/pure-storage-adds-ai-features-for-security-and-performance.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/06/26/a-vatican-radio-territory-in-north-rome-once-blamed-for-electro-smog-will-become-a-solar-farm/</loc>
           <news:news>
             <news:publication>
@@ -465,31 +451,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/26/where-tech-politics-giving-meet-ceo-nicole-taylor-considers-silicon-valleys-busy-intersection/</loc>
+          <loc>https://majordigest.com/tech/2024/06/25/ai-image-generator-startup-stability-ai-looks-for-reshoot-with-new-ceo-and-investor-group/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-06-26T12:32:05.000Z</news:publication_date>
-            <news:title>Where tech, politics &#38; giving meet: CEO Nicole Taylor considers Silicon Valley's busy intersection</news:title>
+            <news:publication_date>2024-06-25T19:41:41.000Z</news:publication_date>
+            <news:title>Stability AI Seeks New Direction with CEO Hire and Investment Boost from Sean Parker</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/26/where-tech-politics-giving-meet-ceo-nicole-taylor-considers-silicon-valleys-busy-intersection.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/25/ai-image-generator-startup-stability-ai-looks-for-reshoot-with-new-ceo-and-investor-group.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/06/25/indonesia-wont-pay-an-8-million-ransom-after-a-cyberattack-compromised-its-national-data-center/</loc>
+          <loc>https://majordigest.com/tech/2024/06/25/indonesia-says-a-cyberattack-has-compromised-its-data-center-but-it-wont-pay-the-8-million-ransom/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-06-25T04:46:19.000Z</news:publication_date>
-            <news:title>Indonesia won't pay an $8 million ransom after a cyberattack compromised its national data center</news:title>
+            <news:publication_date>2024-06-25T02:01:42.000Z</news:publication_date>
+            <news:title>Indonesia won't pay an $8 million ransom after a cyberattack compromised the national data center</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/25/indonesia-wont-pay-an-8-million-ransom-after-a-cyberattack-compromised-its-national-data-center.webp</image:loc>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/25/indonesia-says-a-cyberattack-has-compromised-its-data-center-but-it-wont-pay-the-8-million-ransom.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/06/24/car-dealerships-in-north-america-revert-to-pens-and-paper-after-cyberattacks-on-software-provider/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-06-24T23:17:15.000Z</news:publication_date>
+            <news:title>Cyberattacks on CDK Global Software Provider Disrupt North American Car Dealerships, Force Shift to Pens and Paper</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/24/car-dealerships-in-north-america-revert-to-pens-and-paper-after-cyberattacks-on-software-provider.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/06/24/un-launches-global-principles-to-combat-online-hate-and-demands-big-tech-take-action-now/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-06-24T21:37:29.000Z</news:publication_date>
+            <news:title>United Nations Urges Big Tech to Combat Online Hate with New Global Principles</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/tech/2024/06/24/un-launches-global-principles-to-combat-online-hate-and-demands-big-tech-take-action-now.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -500,23 +514,9 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-06-24T19:45:57.000Z</news:publication_date>
-            <news:title>Record Labels Sue AI Music Generators Suno and Udio for Copyright Infringement on Works by Chuck Berry to Mariah Carey</news:title>
+            <news:title>Music record labels sue AI song-generators Suno and Udio for copyright infringement</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/tech/2024/06/24/music-record-labels-sue-ai-song-generators-suno-and-udio-for-copyright-infringement.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/06/24/chinese-hackers-have-stepped-up-attacks-on-taiwanese-organizations-cybersecurity-firm-says/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-06-24T09:26:06.000Z</news:publication_date>
-            <news:title>Chinese hackers have stepped up attacks on Taiwanese organizations, cybersecurity firm says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/tech/2024/06/24/chinese-hackers-have-stepped-up-attacks-on-taiwanese-organizations-cybersecurity-firm-says.webp</image:loc>
           </image:image>
         </url></urlset>
