@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/world/2024/07/02/north-korea-says-its-recent-missile-tests-involved-new-ballistic-missile-with-super-large-warhead/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-02T05:56:02.000Z</news:publication_date>
+            <news:title>North Korea brags of new missile with 'super-large warhead.' Outsiders doubt the North's claim</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/world/2024/07/02/north-korea-says-its-recent-missile-tests-involved-new-ballistic-missile-with-super-large-warhead.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/07/02/un-adopts-chinese-resolution-with-us-support-on-closing-the-gap-in-access-to-artificial-intelligence/</loc>
           <news:news>
             <news:publication>
@@ -98,20 +112,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/world/2024/07/02/tourist-plane-crashes-highway-france-killing-three-video.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/07/02/ahead-of-election-venezuelas-maduro-says-he-has-agreed-to-resume-negotiations-with-united-states/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-02T01:56:13.000Z</news:publication_date>
-            <news:title>Ahead of election, Venezuela's Maduro says he has agreed to resume negotiations with United States</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/world/2024/07/02/ahead-of-election-venezuelas-maduro-says-he-has-agreed-to-resume-negotiations-with-united-states.webp</image:loc>
           </image:image>
         </url>
         <url>
