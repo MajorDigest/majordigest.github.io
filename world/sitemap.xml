@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/world/2024/07/02/bolivia-summons-argentine-ambassador-for-reprimand-over-its-claims-of-a-fake-coup/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-07-02T02:12:18.000Z</news:publication_date>
+            <news:title>Bolivia summons Argentine ambassador for reprimand over its claims of a fake coup</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static8/world/2024/07/02/bolivia-summons-argentine-ambassador-for-reprimand-over-its-claims-of-a-fake-coup.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/07/02/north-korea-says-its-recent-missile-tests-involved-new-ballistic-missile-with-super-large-warhead/</loc>
           <news:news>
             <news:publication>
@@ -42,20 +56,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static8/world/2024/07/02/ahead-of-election-venezuelas-maduro-says-he-has-agreed-to-resume-negotiations-with-united-states.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/07/02/hurricane-beryl-takes-aim-at-southeastern-caribbean-as-a-powerful-category-3-storm/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-07-02T01:19:34.000Z</news:publication_date>
-            <news:title>Hurricane Beryl razes southeast Caribbean as a record-breaking Category 4 storm</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static8/world/2024/07/02/hurricane-beryl-takes-aim-at-southeastern-caribbean-as-a-powerful-category-3-storm.webp</image:loc>
           </image:image>
         </url>
         <url>
