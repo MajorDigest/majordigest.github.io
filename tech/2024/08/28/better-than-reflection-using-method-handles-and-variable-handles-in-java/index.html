@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Better than reflection: Using method handles and variable handles in Java - Major Digest</title>
+  <meta name="description" content="One of the things that distinguishes a veteran Java developer is familiarity with reflection and its modern alternatives. Reflection gives you superpowers, but it is cumbersome, error-prone, and a performance bottleneck.">
+  <link rel="canonical" href="https://majordigest.com/tech/2024/08/28/better-than-reflection-using-method-handles-and-variable-handles-in-java/">
+
+  <meta itemprop="name" content="Better than reflection: Using method handles and variable handles in Java - Major Digest">
+  <meta itemprop="description" content="One of the things that distinguishes a veteran Java developer is familiarity with reflection and its modern alternatives. Reflection gives you superpowers, but it is cumbersome, error-prone, and a performance bottleneck.">
+  <link itemprop="url" href="https://majordigest.com/tech/2024/08/28/better-than-reflection-using-method-handles-and-variable-handles-in-java/">
+  <meta itemprop="image" content="https://majordigest.com/static9/tech/2024/08/28/better-than-reflection-using-method-handles-and-variable-handles-in-java.webp">
+
+  <meta property="og:title" content="Better than reflection: Using method handles and variable handles in Java - Major Digest">
+  <meta property="og:description" content="One of the things that distinguishes a veteran Java developer is familiarity with reflection and its modern alternatives. Reflection gives you superpowers, but it is cumbersome, error-prone, and a performance bottleneck.">
+  <meta property="og:url" content="https://majordigest.com/tech/2024/08/28/better-than-reflection-using-method-handles-and-variable-handles-in-java/">
+  <meta property="og:image" content="https://majordigest.com/static9/tech/2024/08/28/better-than-reflection-using-method-handles-and-variable-handles-in-java.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Better than reflection: Using method handles and variable handles in Java - Major Digest">
+  <meta name="twitter:description" content="One of the things that distinguishes a veteran Java developer is familiarity with reflection and its modern alternatives. Reflection gives you superpowers, but it is cumbersome, error-prone, and a performance bottleneck.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2024/08/28/better-than-reflection-using-method-handles-and-variable-handles-in-java/">
+  <meta name="twitter:image" content="https://majordigest.com/static9/tech/2024/08/28/better-than-reflection-using-method-handles-and-variable-handles-in-java.webp">
+  <meta name="twitter:image:alt" content="Better than reflection: Using method handles and variable handles in Java - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.5">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.5">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2024-08-29T10:35:20.528Z" itemprop="datePublished">Thursday, August 29, 2024</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Better than reflection: Using method handles and variable handles in Java - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "Better than reflection: Using method handles and variable handles in Java - Major Digest"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Wed, 28 Aug 2024 09:00:00 GMT">
+  <meta itemprop="url" content="/tech/2024/08/28/better-than-reflection-using-method-handles-and-variable-handles-in-java/">
+  <h2 itemprop="headline">Better than reflection: Using method handles and variable handles in Java</h2>
+  <div itemprop="articleBody">
+    <img src="/static9/tech/2024/08/28/better-than-reflection-using-method-handles-and-variable-handles-in-java.webp" alt="Better than reflection: Using method handles and variable handles in Java" align="left" itemprop="image" width="400" height="225">
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>One of the things that distinguishes a veteran Java developer is familiarity with reflection and its modern alternatives. Reflection gives you superpowers, but it is cumbersome, error-prone, and a performance bottleneck. Modern Java is working to replace reflection with standardized options, including MethodHandle and VarHandle. Like reflection, these classes give you the ability to access methods and fields on objects but in a cleaner API.</p>
+
+
+
+<h3 class="wp-block-heading" id="the-power-of-handles">The power of handles</h3>
+
+
+
+<p>As the names imply, both <code>MethodHandle</code> and <code>VarHandle</code> give you “handles,” which are variables to reference the meta-properties of an object. These handles give you the power to deal with methods and fields directly. They are special variables that refer to parts of the runtime environment otherwise hidden from your code.</p>
+
+
+
+<p>The starting point for these capabilities is the various lookup methods on <code>MethodHandle</code>, which offer a modern way to programmatically find the metadata for classes. This is similar to the old reflection API’s methods like <code>getDeclaredMethod</code>, but with more structure and safety.</p>
+
+
+
+<p>Once you have the handle for the class metadata, you can use MethodHandle and VarHandle to programmatically make calls against the method and fields that exist on a class instance. Under the hood, the JVM manages these approaches, which generally yields better performance than you would get with reflection.</p>
+
+
+
+<h3 class="wp-block-heading" id="method-and-variable-handles-vs-java-reflection">Method and variable handles vs. Java reflection</h3>
+
+
+
+<p>To truly understand <code>MethodHandles</code> and <code>VarHandles</code>—what they do and why they are useful—it’s helpful to know a few things about reflection in Java. This will help you understand why reflection has evolved into these newer APIs. If you already know about reflection, the gist will be clear. If not, some examples will help illustrate.</p>
+
+
+
+<p>The fundamental question is: What need do these technologies—reflection, method handles, variable handles—fulfill? Why, when we can simply instantiate an object, call its public methods, and access its public members, would we do these things programmatically instead?</p>
+
+
+
+<p>In many cases, you actually can’t access what you need via public methods, so you have to go around the normal routes. This mostly happens when you are writing something like framework code that operates against a range of classes and does something non-standard with them.</p>
+
+
+
+<p>As an example, think of a persistence framework. You need to map classes to and from tables, and so you need to introspect the classes to understand what fields and methods they have. This scenario also comes up in application code, especially if you need to access an otherwise inaccessible part of a legacy library.</p>
+
+
+
+<p>Deciding which technology to use requires understanding what is needed. If you can resolve the issue with normal Java calls, that’s the way to go. If you need something more sophisticated, first look to the standard APIs, like <code>MethodHandles</code> and <code>VarHandles</code>. Only if these all fail to deliver should you fall back on reflection.</p>
+
+
+
+<p>Examples should help clarify why the JDK prefers handles to traditional Java reflection.</p>
+
+
+
+<h3 class="wp-block-heading" id="using-reflection-to-access-a-method">Using reflection to access a method</h3>
+
+
+
+<p>We’ll start with an example of reflection because it is familiar and will give us a known reference. Just remember that it is the solution of last resort.</p>
+
+<p>Say you have this class:</p>
+
+
+
+
+<pre class="prettyprint">
+<code>
+public class MyClass {
+  private String name;
+  public MyClass(String name) {
+    this.name = name;
+  }
+  public String getName() { 
+    return name;
+  }
+}
+</code></pre>
+
+
+
+
+<p>This is a very simple affair: just a class to hold string name and a getter and setter. To create this class, we can use normal instantiation:</p>
+
+
+
+<pre class="prettyprint">
+<code>
+MyClass objectInstance = new MyClass("John Doe");
+</code></pre>
+
+
+
+
+<p>Here’s how to access the method using reflection:</p>
+
+
+
+<pre class="prettyprint">
+<code>
+Class<?> clazz = objectInstance.getClass();
+Method method = clazz3.getDeclaredMethod("getName");
+String value = (String) method.invoke(objectInstance);
+System.out.println(value); // prints "John Doe"
+</code>
+</pre>
+
+
+
+
+<h3 class="wp-block-heading" id="using-methodhandles-to-access-a-method">Using MethodHandles to access a method</h3>
+
+
+
+<p>Method handles give us the same kind of power as reflection, but with safer syntax:</p>
+
+
+
+<pre class="prettyprint"><code>
+Class<?> clazz = objectInstance.getClass();  
+MethodHandle handle = MethodHandles.lookup().findVirtual(clazz, "getName", methodType(String.class));
+String value = (String) handle.invoke(objectInstance);
+System.out.println(value);  // Prints “John Doe”
+</code>
+</pre>
+
+
+
+
+<p>We start off the same way, by obtaining the class from our instance. Then, we use the lookup().findVirtual() method on <code>MethodHandles</code>. This is one of the chief things that <code>MethodHandles</code> was designed to do: provide a cleaner, JDK-approved way to look up a method. This approach is also enhanced for JVM optimization.</p>
+
+
+
+<p>Next, we would call the method with the handle using <code>handle.invoke</code> and passing in the object instance.</p>
+
+
+
+<aside class="sidebar large">
+<h3 id="java-reflection-with-method-handles">Java reflection with method handles</h3>
+<p>The core reflection APIs were recentlyreimplemented using method handles under the hood. You can learn more about that adventure here.</p>
+</aside>
+
+
+
+
+<h3 class="wp-block-heading" id="directly-accessing-fields">Directly accessing fields</h3>
+
+
+
+<p>Now let’s say our earlier class, <code>MyClass</code>, has that <code>name</code> field on it but there is no accessor. We need something stronger to get at it now because we’re going to directly access the private member. Here’s how we’d do it using standard reflection:</p>
+
+
+
+<pre class="prettyprint">
+<code>
+Class<?> clazz = objectInstance.getClass(); 
+Field field = clazz.getDeclaredField("name"); 
+field.setAccessible(true); 
+String value = (String) field.get(objectInstance);
+System.out.println(value); // prints “John Doe”
+</code></pre>
+
+
+
+
+<p>Notice we are again directly working with the metadata of the object, like its class and the field on it. We can manipulate the accessibility of the field with <code>setAccessible</code> (this is considered risky because it might alter the restrictions that were put on the target code as written). This is the essential part of making that private field visible to us.</p>
+
+
+
+<p>Now let’s do the same thing using variable handles:</p>
+
+
+
+<pre class="prettyprint">
+<code>
+Class<?&gtl clazz = objectInstance.getClass();
+VarHandle handle = MethodHandles.privateLookupIn(clazz,   
+  MethodHandles.lookup()).findVarHandle(clazz, "name", String.class);
+String value = (String) handle.get(objectInstance);
+System.out.println(value4); // prints "John Doe"
+</code></pre>
+
+
+
+
+<p>Here, we use <code>privateLookupIn</code> because the field is marked private. There is also a generic <code>lookup()</code>, which will respect the access modifiers, so it’s safer but won’t find the private field.</p>
+
+
+
+<p>Although the above code works, it is recommended to instantiate the handle itself statically for performance reasons, like so:</p>
+
+
+
+<pre class="prettyprint">
+<code>
+private static VarHandle HANDLE;
+  static {
+    try {
+      HANDLE = MethodHandles.privateLookupIn(MyClass.class, MethodHandles.lookup()).findVarHandle(MyClass.class, "name", String.class);
+    } catch (Throwable t){
+      throw new RuntimeException(t);
+    }
+  }
+
+// …
+
+System.out.println("static: " + HANDLE.get(objectInstance));
+</code></pre>
+
+
+
+
+<p>Here, we have statically instantiated the <code>HANDLE</code> variable and then used it later in the normal code flow. This also highlights the fact that the handle itself is defined for the type (<code>MyClass</code>) and then reused for the instances (<code>objectInstance</code>).</p>
+
+
+
+<p>Note that directly instantiating the handle requires that you know the name of the class. If you don’t know the name of the class—such as if you are taking a <code>String</code> and reflectively instantiating that class and then accessing its fields—you can’t use this approach.</p>
+
+
+
+<aside class="sidebar large">
+<h3 id="handling-checked-exceptions">Handling checked exceptions</h3>
+<p>Various operations on <code>MethodHandles</code> and <code>VarHandle</code> throw checked exceptions that you will need to catch and declare in production code.</p>
+</aside>
+
+
+
+
+<h3 class="wp-block-heading" id="limitations-of-method-and-var-handles">Limitations of method and var handles</h3>
+
+
+
+<p>Although they bring serious power into the standardized JDK—this article is a mere sampling of what they can do—method and variable handles are not intended to cover all of the capabilities found in the Java Reflection API. They cover a focused range: finding class metadata and using it to access methods and fields outside of the normal Java restrictions. The rest of the power of reflection, found in <code>sun.misc.Unsafe</code>, is gradually being replaced by other packages.</p>
+
+
+
+<p>As previously mentioned, <code>MethodHandles</code> and <code>VarHandle</code> do not support instantiating classes, which presents limitations in some scenarios.</p>
+
+
+
+<h3 class="wp-block-heading" id="why-its-time-for-an-alternative-to-reflection">Why it’s time for an alternative to reflection</h3>
+
+
+
+<p>It’s worth taking a moment to convince yourself that migrating away from reflection is necessary. The performance of method and var handles, if you research the benchmarks, is not universally considered superior to reflection. On the other hand, they are safer, more idiomatic, and the JVM codebase is adopting these approaches. It’s only a matter of time before you will need to begin using them.</p>
+
+
+
+<p>In benchmarks, <em>statically declaring the handle</em>, as we did above, dramatically improves performance. This is because the JVM can inline that information at compile-time. But, as noted, doing that is not always possible—for example, if you don’t know the name of the class at compile time.</p>
+
+
+
+<p>Beyond performance, though, and even beyond correctness, reflection is being deprecated. Eventually, the work of migrating will be required no matter what. Now is the time to start moving those parts of your codebase that have modern replacements like <code>MethodHandles</code> and <code>VarHandle</code>.</p>
+</div></div></div></div>
+  </div>
+  <p>
+    Source:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/3489879/better-than-reflection-using-method-handles-and-variable-handles-in-java.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Aug 28, 2024, 5:00:00 AM EDT</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://t.me/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Telegram" aria-label="Follow us on Telegram"><svg role="img" aria-label="Telegram Logo" width="24px" height="24px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M40.83,8.48c1.14,0,2,1,1.54,2.86l-5.58,26.3c-.39,1.87-1.52,2.32-3.08,1.45L20.4,29.26a.4.4,0,0,1,0-.65L35.77,14.73c.7-.62-.15-.92-1.07-.36L15.41,26.54a.46.46,0,0,1-.4.05L6.82,24C5,23.47,5,22.22,7.23,21.33L40,8.69a2.16,2.16,0,0,1,.83-.21Z"/></svg></a>
+<!--
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2024&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.5)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.5">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.5" async></script>
+</body>
+</html>

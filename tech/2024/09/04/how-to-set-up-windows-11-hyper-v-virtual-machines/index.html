@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en"
+  prefix="og: https://ogp.me/ns#">
+
+<head>
+  <meta charset="utf-8">
+  <title>How to set up Windows 11 Hyper-V virtual machines - Major Digest</title>
+  <meta name="description" content="Though it may seem that virtual machines, a.k.a. VMs, have been around forever, Microsoft introduced its first version of the Hyper-V virtualization environment as part of Windows Server 2008.">
+  <link rel="canonical" href="https://majordigest.com/tech/2024/09/04/how-to-set-up-windows-11-hyper-v-virtual-machines/">
+
+  <meta itemprop="name" content="How to set up Windows 11 Hyper-V virtual machines - Major Digest">
+  <meta itemprop="description" content="Though it may seem that virtual machines, a.k.a. VMs, have been around forever, Microsoft introduced its first version of the Hyper-V virtualization environment as part of Windows Server 2008.">
+  <link itemprop="url" href="https://majordigest.com/tech/2024/09/04/how-to-set-up-windows-11-hyper-v-virtual-machines/">
+  <meta itemprop="image" content="https://majordigest.com/static9/tech/2024/09/04/how-to-set-up-windows-11-hyper-v-virtual-machines.webp">
+
+  <meta property="og:title" content="How to set up Windows 11 Hyper-V virtual machines - Major Digest">
+  <meta property="og:description" content="Though it may seem that virtual machines, a.k.a. VMs, have been around forever, Microsoft introduced its first version of the Hyper-V virtualization environment as part of Windows Server 2008.">
+  <meta property="og:url" content="https://majordigest.com/tech/2024/09/04/how-to-set-up-windows-11-hyper-v-virtual-machines/">
+  <meta property="og:image" content="https://majordigest.com/static9/tech/2024/09/04/how-to-set-up-windows-11-hyper-v-virtual-machines.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="How to set up Windows 11 Hyper-V virtual machines - Major Digest">
+  <meta name="twitter:description" content="Though it may seem that virtual machines, a.k.a. VMs, have been around forever, Microsoft introduced its first version of the Hyper-V virtualization environment as part of Windows Server 2008.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2024/09/04/how-to-set-up-windows-11-hyper-v-virtual-machines/">
+  <meta name="twitter:image" content="https://majordigest.com/static9/tech/2024/09/04/how-to-set-up-windows-11-hyper-v-virtual-machines.webp">
+  <meta name="twitter:image:alt" content="How to set up Windows 11 Hyper-V virtual machines - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.5">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.5">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2024-09-04T21:35:15.457Z" itemprop="datePublished">Wednesday, September 4, 2024</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>How to set up Windows 11 Hyper-V virtual machines - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "How to set up Windows 11 Hyper-V virtual machines - Major Digest"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Wed, 04 Sep 2024 10:00:00 GMT">
+  <meta itemprop="url" content="/tech/2024/09/04/how-to-set-up-windows-11-hyper-v-virtual-machines/">
+  <h2 itemprop="headline">How to set up Windows 11 Hyper-V virtual machines</h2>
+  <div itemprop="articleBody">
+    <img src="/static9/tech/2024/09/04/how-to-set-up-windows-11-hyper-v-virtual-machines.webp" alt="How to set up Windows 11 Hyper-V virtual machines" align="left" itemprop="image" width="400" height="225">
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Though it may seem that virtual machines, a.k.a. VMs, have been around forever, Microsoft introduced its first version of the Hyper-V virtualization environment as part of Windows Server 2008. Hyper-V and its VMs didn’t appear in a Windows desktop operating system until May 2012 with the Windows 8 technical preview.</p>
+
+
+
+<p>Since then, however, Hyper-V VMs have come to represent approximately 1 in every 10 VMs in global use. This is no small number, given that the cloud more or less runs on VMs of one kind or another. We’re talking billions and billions (and not hamburgers, either).</p>
+
+
+
+<p>That said, Windows 11 users and admins have plenty of good reasons to run VMs on PCs on a vastly smaller scale than in the cloud. Among them are:</p>
+
+
+
+<ul>
+<li>The ability to run multiple OSes, including various versions of Windows 10 and 11 (or older, unsupported versions), Linux, and more, side-by-side. Among other benefits, this lets users run legacy applications not compatible with Windows 11.</li>
+
+
+
+<li>Supports virtual networks, complete with virtualized gateways, routers, servers, and network nodes on one or more private or public networks.</li>
+
+
+
+<li>Supports easy isolation and testing, useful to testing software, experimenting with specific configurations, and avoiding device or software conflicts with the host PC.</li>
+
+
+
+<li>Enables superior backup and disaster recovery capabilities, thanks to checkpoint and snapshot mechanisms, with recovery to other PCs or into the cloud easily done.</li>
+
+
+
+<li>Works through remote access and management, so that VMs can be maintained across multiple devices and locations, with secure boot, live migration, and lots of options for network storage.</li>
+</ul>
+
+
+
+<p>Microsoft provides two tools for creating Hyper-V VMs in Windows 11. In this guide I’ll provide some background, discuss how to use each tool, and detail the drawbacks each entails.</p>
+
+
+
+<h3 class="wp-block-heading" id="in-this-article">In this article:</h3>
+
+
+
+<ul>
+<li>Understanding VMs and hypervisors</li>
+
+
+
+<li>Requirements for a Windows 11 VM</li>
+
+
+
+<li>Creating VMs with Hyper-V Manager</li>
+
+
+
+<li>Creating VMs with Dev Home (Preview)</li>
+
+
+
+<li>Net-Net: It really could be easier</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="understanding-vms-and-hypervisors">Understanding VMs and hypervisors</h3>
+
+
+
+<p>Hyper-V is a kind of hypervisor: a program that can create, run, and manage one or more virtual machines on some kind of physical computer. Essentially, a hypervisor creates a runtime environment in which an administrator can define the properties of one or more VMs that run in its embrace.</p>
+
+
+
+<p>Such properties include virtual processors and cores, virtual memory, virtual storage, virtual networking connections, and a virtualized operating system. VMs use such resources to run commands, programs, and more, each inside its own independent and isolated runtime environment.</p>
+
+
+
+<p>From inside a VM, Windows looks and runs as it would on any computer. From outside the VM, the hypervisor handles interactions with the host OS and translates between virtual resources allocated to the VM and physical resources made available to the hypervisor.</p>
+
+
+
+<p>PCs that run Hyper-V Manager (the hypervisor built into Windows) or other hypervisors, such as VMware Workstation, are called host PCs, where individual VMs function as hypervisor clients.</p>
+
+
+
+<h3 class="wp-block-heading" id="requirements-for-a-windows-11-vm">Requirements for a Windows 11 VM</h3>
+
+
+
+<p>Because a Windows VM represents an instance of a virtualized Windows operating system, Windows 11 VMs inherit the system requirements for Windows 11 itself. Hyper-V adds additional items to this list (they’re preceded by an asterisk):</p>
+
+
+
+<ul>
+<li><strong>* Windows Edition</strong>: Windows 11 Enterprise, Education, or Pro. (Windows 11 Home does not support Hyper-V.)</li>
+
+
+
+<li><strong>CPU: </strong>A 1.0GHz (or faster), 64-bit ARM or x86 CPU that supports second-level address translation (SLAT is its Intel name, RVI its AMD name, and “Stage-2 page tables” is what ARM calls it) is needed to run Windows 11 inside Hyper-V. Windows 11 also imposes CPU requirements for SSE4.2 instruction support for 24H2 or newer OS versions (specifically, the POPCNT instruction must be available).</li>
+
+
+
+<li><strong>RAM:</strong> Windows 11 VMs need at least 4GB of RAM to operate, ideally on a physical PC equipped with 8GB RAM (or more). For Windows PCs that will run Hyper-V, you’ll want at least 4GB of RAM for the base OS and at least 4GB more for each VM you want to run in parallel. Thus, a Windows 11 PC with 32GB of RAM could handle up to seven Windows 11 VMs, but no more than that. Fewer is better, in fact.</li>
+
+
+
+<li><strong>Graphics:</strong> The physical PC should support DirectX 12 or higher as well as a WDDM 2.0 (or higher) driver. Display resolution to accommodate a VM window should be 720p (1280 x 720 pixels) or better. This is the same as for the Windows 11 OS itself.</li>
+
+
+
+<li><strong>* VM generation:</strong> VMs come in two forms: Generation 1 and Generation 2. A Gen 1 VM uses BIOS firmware and supports only limited hardware devices and features. A Gen 2 VM uses UEFI firmware and supports a much wider range of hardware devices and features. Microsoft recommends that admins always create generation 2 VMs if they can. Indeed, Windows 11 works <strong>only</strong> on a Gen 2 VM.</li>
+
+
+
+<li><strong>Other noteworthy requirements:</strong> The physical PC should support the Trusted Platform Module (TPM) version 2.0 and UEFI with Secure Boot. Nearly all PCs built in mid-2018 or later should meet these requirements with ease, although TPM 2.0 must be enabled on some PCs.</li>
+</ul>
+
+
+
+<p>Today, there are two ways to set up a Hyper-V VM in Windows 11: the standard way, and a developer-oriented way. The standard way uses Hyper-V Manager to create and configure VMs. The developer-oriented way, which made its debut in April 2024, uses a Microsoft utility named Dev Home (Preview). It’s available from the Microsoft Store.</p>
+
+
+
+<p>As you will see, the developer-oriented way is simpler and less fraught with obstacles than the traditional one. But there’s a catch, as I’ll explain in the Dev Home section below.</p>
+
+
+
+<h3 class="wp-block-heading" id="creating-vms-with-hyper-v-manager">Creating VMs with Hyper-V Manager</h3>
+
+
+
+<p>Although Hyper-V is included with modern Windows versions, it is not enabled by default. Thus, you must first turn Hyper-V on using the Windows Features element from Control Panel (<em>Control Panel > Programs and Features > Turn Windows features on or off</em>).</p>
+
+
+
+<h3 class="wp-block-heading" id="turn-on-hyper-v-manager">Turn on Hyper-V Manager</h3>
+
+
+
+<p>Click the top-level <em>Hyper-V</em> item. When you do so, you’re turning on both the Hyper-V platform itself (Hyper-V Platform) and Hyper-V Management Tools to run VMs through the Hyper-V Manager or through some remote access toolset (e.g., the Remote Desktop Connection, a.k.a. <strong>mstsc.exe</strong>, or the Remote Desktop app, ID=9WZDNCRFJ3PS).</p>
+
+
+
+<p>I usually turn on the item labeled <em>Windows Hypervisor Platform</em> as well, as shown in Figure 1. Once you’ve selected these items, click <em>OK</em> and Windows will install and enable them for you.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 1: Turn on top-level Hyper-V and the Windows Hypervisor Platform elements.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>Windows Features will find, install and enable the elements necessary to run Hyper-V Manager — and along with it, the support necessary to run Hyper-V VMs inside its embrace. When Windows Features is done, it reports: “Windows completed the requested changes.” It also informs you that a reboot is needed to finish the installation process.</p>
+
+
+
+<p>Thus, you must restart the PC before you can run or use the Hyper-V platform in any way. The easiest way to do that is simply to click the “Restart now” button at the lower right in Figure 2.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 2: Click “Restart now” to get your PC ready for Hyper-V VM action!</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>After the reboot, typing “hyper” into the Start menu search box brings Hyper-V Manager up as its first choice, as shown in Figure 3.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 3: Once rebooted, Hyper-V Manager is ready to run.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<h3 class="wp-block-heading" id="run-vm-quick-create-using-a-provided-os">Run VM Quick Create using a provided OS</h3>
+
+
+
+<p>Accessing Hyper-V Manager from its host desktop — also known as running local, or local invocation — turns out to be the easiest way to set up a Hyper-V VM. The first time Hyper-V Manager is run, there’s literally nothing to see because no VMs are known to it yet. As you can see in Figure 4, each of the center panes for Hyper-V Manager reports “No VMs” or “No item.”</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 4: When run for the first time, Hyper-V Manager shows precisely nothing.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>If you click <em>Quick Create</em>, the top item in the right-hand menu you can soon remedy this situation. By default, Microsoft provides pointers to various predefined runtime environments, including evaluation versions of Windows 10 and 11 aimed at developers and (until early July) three different Long Term Servicing (LTS) branches for Ubuntu Linux (which may be freely offered to anyone who’s interested).</p>
+
+
+
+<p>The right-hand side of Figure 5 shows the details for the “Windows 11 dev environment” item, an evaluation copy worth installing as a short-lived example. Select the OS you want to install and click <em>Create Virtual Machine</em>.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 5: Select Windows 11 dev environment (left), then click Create Virtual Machine (lower right).</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>This downloads a ~21GB Windows image file. (On my Lenovo P16 Mobile Workstation, a 12<sup>th</sup>-Gen x86 platform, that took about 5 minutes to complete, including image verification.) Then, Hyper-V Manager creates a VM, extracts the virtual boot/system disk, verifies the image again, and completes (this takes another 5 minutes or so), as announced in Figure 6. Click <em>Connect</em> to hook up the new test VM inside Hyper-V Manager.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 6: VM successfully created. Next step: click <em>Connect</em>.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>What happens next is that Hyper-V Manager opens a virtual machine window. You must start the VM to turn it on, as shown in Figure 7. If you were using an ISO (covered in a moment), this is when the process of installing Windows inside the VM would occur.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Figure 7: Before you can interact with a VM, you must start it up: click <em>Start!</em></p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>But because Microsoft has so kindly provided us with a predefined, ready-to-run VM for this development environment, clicking <em>Start</em> launches a boot-up screen (“Getting ready”) that grinds away for a minute or so. After that you’ll be able to log in to a Windows 11 desktop (account name User, no password). There’s your first Hyper-V VM!</p>
+
+
+
+<p>Though this takes at least 15 minutes to work through, it’s about as fast and easy as creating a VM ever gets. Figure 8 shows the VM running inside a Hyper-V Virtual Machine Connection window (see the legend on the title bar for confirmation).</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Figure 8: The Windows 11 Dev Environment VM start menu shows a developer focus.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>Setting up a VM from a predefined virtual hard disk (<strong>.vhdx</strong> file and configuration information) is incredibly simple. Basically, it means turning on and running an already set up VM that’s more or less ready to run.</p>
+
+
+
+<h3 class="wp-block-heading" id="vm-quick-create-using-an-iso">VM Quick Create using an ISO</h3>
+
+
+
+<p>You can see another option for creating VMs if you look back to Figure 5, where you can navigate into a “Local installation source” by clicking that button at the lower left corner of the “Create Virtual Machine” window. This lets you navigate into local drives and pick an ISO — a disk image format used for Windows installations — from which to run VM setup. (See “The best places to find Windows ISOs” for some reliable sources.)</p>
+
+
+
+<p>That approach offers the ability to pick any Windows version you might like, but because it requires OS installation into a new VM, it takes longer to work through. There’s more effort involved in getting configuration right, too.</p>
+
+
+
+<p>By clicking the <em>Local Installation source</em> button shown in Figure 5 and navigating to the root of my <strong>E:\</strong> drive where a May 30 Windows 11 Insider Preview ISO resides, I made it a target for a Hyper-V VM. You can see the results of this election in Figure 9, from whence you must click <em>Create Virtual Machine</em> (lower right) to proceed further with a local ISO.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 9: By targeting an ISO through File Explorer, you open VM creation options to whatever the file system can see.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>This time when you click <em>Create Virtual Machine</em>, the Hyper-V wizard works from the ISO. Because I accepted all defaults, this VM shows up as “New Virtual Machine” in Hyper-V Manager. I right-clicked that string in the top center pane (“Virtual Machines” and selected <em>Rename</em> from the pop-up menu to call it “Win11.26100.” It appears as such in Figure 10.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 10: Renamed to Win11.26100 (for its primary Windows 11 build number), the new VM must now be installed.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>Because we’re working from an ISO file, we must now install this OS image before it can run as a VM. This is where timing becomes sensitive: once you click <em>Connect</em>, then click the <em>Start</em> button, you must be ready to hit the proverbial “any key” (because any key will do) to start the installer running. If you wait too long, you’ll see a PXE boot message instead, and the install will go no further. Be prepared and act fast!</p>
+
+
+
+<p>If all goes well, you’ll see the Windows 11 setup screen “Select language settings.” After that, it’s just matter of marching through the Windows install process, so I won’t track that further except to note that you will need a valid product key for whatever version of Windows you’re installing.</p>
+
+
+
+<p>By default, you will encounter a problem: At some point, you’ll get the error message “This PC doesn’t currently meet Windows 11 system requirements.” That’s because Hyper-V Manager Quick Create does not enable the Trusted Platform Module (TPM: special, secure chip-level storage used for hardware keys and other highly sensitive system data) by default.</p>
+
+
+
+<p>Turn off the VM (click <em>Action</em> in the top menu, then click <em>Turn off</em>). In the main Hyper-V Manager screen, select the VM you’re installing (in this case, Win11.26100), then click the <em>Settings</em> option at the lower right. This opens the Settings page for the Win11.26100 VM. Click on <em>Security</em>. In the Security pane, you will see that while Secure Boot is enabled, TPM is not. Check the <em>Enable Trusted Platform Module</em> checkbox, as shown in Figure 11. Then click <em>Apply</em> and then <em>OK</em>.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 11: TPM must be enabled before Windows 11 may be installed. Hyper-V Manager neglects to do this by default, so you must do so manually.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>Now when you click <em>Connect</em> and get into the installer, it should run to the end.</p>
+
+
+
+<p>Once the process is complete (it took another 40 minutes or so on my beefy P16 Mobile Workstation), you’ll see a typical Windows in a VM window. There you are: another VM for your Hyper-V collection.</p>
+
+
+
+<h3 class="wp-block-heading" id="full-blown-vm-creation">Full-blown VM creation</h3>
+
+
+
+<p>In addition to the Quick Create option, Hyper-V Manager also offers a <em>New > Virtual Machine</em> option, as show in Figure 12. This provides more direct access to the various settings and selections possible when creating a Hyper-V VM.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 12: The <em>New > Virtual Machine</em> action provides more control over details when creating a new VM.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>Using this option opens a New Virtual Machine Wizard that walks you through the entire VM specification process, as shown in Figure 13. As you can see, it lets you specify a name, choose a file system location, select a VM generation, assign memory, and handle networking, virtual hard disk, and installation details. (Alas, you must still manage the TPM setting yourself manually, as described in the preceding section.)</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 13: The New Virtual Machine Wizard takes users through VM creation and settings, step-by-step.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>In the screenshots that follow, I’ll create a new Windows 11 VM for version 24H2 (Build 26100.863) downloaded from the Insider Preview downloads page. Figure 14 shows the Specify Name and Location screen, where I’ve named the VM <strong>Win11.24H2</strong>. It uses the default storage location for a virtual hard disk file.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 14: The VM name is set to Win11.24H2, after which you click <em>Next</em> to continue.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>By default, all Hyper-V VMs are designated Generation 1. Since Generation 1 doesn’t support Windows 11 VM requirements, you must select the <em>Generation 2</em> radio button to install a Windows 11 VM, as shown in Figure 15.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 15: Click the <em>Generation 2</em> radio button to meet Windows 11 VM requirements.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>The next step is to allocate 8GB (8,192MB) of RAM (double the default) for the Win11.24H2 VM, as shown in Figure 16.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 16: Double the defaults (8GB instead of 4GB) this time around, please.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>The next step is to select the <em>Default Switch</em> option for the Connection field under the Configure Networking heading, as shown in Figure 17. Here again, it’s important to note the default is “Not connected,” which means the VM cannot access any networks. Default Switch enables the VM to connect to the networks to which the host PC has access. If you have other switches defined in your host configuration, they should appear in the pull-down menu for this VM setup item (and you’ll be able to use them, if you like).</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 17: Use <em>Default Switch</em> if you want the VM to have network (and internet) access.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>The next step is to connect a virtual hard disk for the VM to use. Here again we’ll use the default location mentioned earlier. Other options include “Use an existing virtual hard disk” (this is how the dev environment described earlier gets its contents) and “Attach a virtual hard disk later” (allows users to otherwise finish configuring a VM without allocating or linking to a virtual hard disk). See Figure 18 for the details for <strong>Win11.24H2.vhdx</strong>.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 18: This represents the default allocation (127GB) for Hyper-V VM virtual hard disks.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>Next comes the fun part: providing a file system link to an ISO and electing how (or if) to install that image. This reads “Installation Options” on the left-hand side. In this case, we’ll link to the ISO I downloaded from the Insider Preview downloads page, and tell it to install the OS from that file, as shown in Figure 19.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 19: The selected radio button instructs the installer to find a specific Windows 11 ISO file.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>At this point, the wizard is finished, so click <em>Summary</em> on the left to show your work so far. It will show all the settings you’ve made. Click Finish to complete the VM creation process. Then, you’ll return to Hyper-V Manager, where you now see a VM named Win11.24H2 in the upper center “Virtual Machines” pane, as shown in Figure 20.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 20: The new VM, Win11.24H2, is turned off. That’s good!</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>You could try to connect to and start the install process for Win11.24H2 now, but we know one more change is needed — namely, to enable TPM under the new VM’s Security settings, as detailed before Figure 11 above. Once you’ve done so, you can get going on the install for this Windows 11 OS image, as described earlier in this story as well.</p>
+
+
+
+<p>We’re done with the introduction to Hyper-V Manager and creating VMs. Now it’s time to dig into some down and dirty details.</p>
+
+
+
+<h3 class="wp-block-heading" id="a-big-hyper-v-manager-gotcha-remote-vm-access">A big Hyper-V Manager gotcha: remote VM access</h3>
+
+
+
+<p>By definition, all VM access is remote — that is, there’s no physical mouse, keyboard, or monitor attached to any VM. To interact with a VM, you must map virtual stuff onto real stuff — including the aforementioned peripherals but also CPUs, RAM, storage, networking, and yadda yadda yadda. Remember further that remote access is one of the benefits of VMs: indeed, they should readily support access across any network connection to a parent hypervisor.</p>
+
+
+
+<p>Alas, when a remote connection uses the Windows remote desktop protocol (RDP) through Remote Desktop Connection or the Remote Desktop app, and that hypervisor is Hyper-V, things can get interesting. Let me explain how this can present obstacles above and beyond the gotchas I’ve already mentioned (issues getting the Windows Installer to start up for an ISO-based install, and the need to enable TPM for that install to actually work).</p>
+
+
+
+<p>For starters, you can’t start a new Windows 11 VM from inside an RDP session, as it seeks to read and mount the targeted Windows 11 ISO to run its <strong>Setup.exe</strong>. For whatever odd reason, this works only from a local login on the host PC (not in an RDP session). If you click the Start button shown in Figure 7 in an RDP session, the VM won’t boot to run <strong>Setup.exe</strong>.</p>
+
+
+
+<p>Indeed, if you click <em>Start</em>, you’ll get a black screen in the VM window, instead of running the Windows 11 installer. You must turn off the VM (click <em>Action</em> in the top menu, then click <em>Turn off</em>). Then click the <em>Start</em> button shown in Figure 7 from the physical host PC, using the local mouse or keyboard. Once <strong>Setup.exe </strong>is running, however, an RDP session shows the VM as you’d expect to see it, with the initial Windows 11 installer screen (see Figure 21).</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 21: Once Setup.exe is running, you can RDP into the VM, if you wish.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>The next gotcha that makes itself felt occurs after you elect the <em>Install now</em> option that appears next. You will find you cannot copy and paste a Windows activation key into the Activate Windows prompt shown in Figure 22. Why? Because this only works in an enhanced session inside RDP, and you can’t elect that option until after Windows 11 is installed. Indeed, fixing this requires some fiddling to the Windows Hello login options. (Turned on by default, they don’t work with an enhanced session that permits copying and pasting from outside the RDP session into that session.)</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Figure 22: When you get to the key prompt in Activate Windows, you’ll discover you cannot copy and paste a text key. Manual entry only!</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>You’ll have to enter the 25-character (letters and numbers) string for your chosen Windows key manually. Or you can use the 30-day eval for the Windows 11 developer environment instead (no key required but access doesn’t last very long).</p>
+
+
+
+<p>But there’s one more RDP gotcha to surmount: you can’t log in to your new desktop until you uncheck the “Enhanced session” option in the View menu for the RDP session. Once you do that and log in, click <em>Settings > Accounts > Sign-in options</em>, then turn off the toggle under “Additional settings” that reads <em>For improved security…</em>, as shown in Figure 23. Then you can switch back to an enhanced session and log in using a password or a PIN.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Figure 23: Note that “Enhanced session” in the View menu up top is unchecked. Turn off the toggle under “Additional settings.” Then you can re-enable that option so that cut and paste will work in RDP.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<h3 class="wp-block-heading" id="getting-past-plain-vanilla-vms">Getting past plain-vanilla VMs</h3>
+
+
+
+<p>Thanks to our earlier efforts in this story, you’ve got yourself some working Windows 11 VMs set up mostly using Hyper-V Manager’s defaults. By setting up the plain-vanilla, all-default Win11.26100 VM via Quick Create and the slightly modified Win11.24H2 VM that follows it through the New Virtual Machine Wizard, you can learn a lot about what makes a VM tick, as well as provisioning defaults.</p>
+
+
+
+<p>Those defaults will change according to the configuration of the host physical PC on which Hyper-V Manager runs. That is, machines with fewer cores, less RAM, and less storage will produce default VMs with fewer cores, less RAM, and less storage than those machines with more cores, more RAM and more storage, like the formidable Lenovo P16 Mobile Workstation I used as my test machine, with 24 cores, 64GB RAM, and ~4 TB total storage, 2 TB on the boot/system drive.</p>
+
+
+
+<p>In most cases, the defaults that Hyper-V Manager chooses for the VMs it creates on your behalf work reasonably well. For those already familiar with Hyper-V, feel free to change values up or down. IMO, reducing values from their defaults doesn’t make too much sense except perhaps for special cases (or underwhelming physical PCs).</p>
+
+
+
+<p><strong>For more info on Hyper-V and VMs</strong>: Microsoft Learning offers a free 45-minute module entitled “Configure and Manage Hyper-V virtual machines” for those who want more details. Also, there’s a series of tutorials at Windows 11 Forum under its Virtualization heading (54 in all, across a range of VM topics) for those who really want all the minutiae.</p>
+
+
+
+<h3 class="wp-block-heading" id="creating-vms-with-dev-home-preview">Creating VMs with Dev Home (Preview)</h3>
+
+
+
+<p>When Microsoft released v0.13 of its Dev Home (Preview) developer toolbox on April 23, 2024, I noticed they added support for “Environments” as something new. Microsoft explains that environments provide “… the ability to create, manage, and configure Hyper-V VMs and Microsoft Dev Boxes” (see the GitHub Dev Home Preview v0.13 release notes).</p>
+
+
+
+<p>Many readers may be indifferent to Dev Boxes (an Azure service to enhance developer productivity through self-service access to preconfigured, project-oriented development environments in the cloud via Azure, for which a subscription is required). If those readers want to use Hyper-V VMs, however, they should NOT be indifferent to its VM capabilities, which require Windows 11 22H2 or later.</p>
+
+
+
+<p>Because I’m only too familiar with the gotchas outlined in the previous section that can impede creation (and use) of VMs through Hyper-V Manager, I wanted to see if Dev Home (Preview) could do any better. I deliberately used an RDP session to run Dev Home on a remote PC. Inside Dev Home, I opened the <em>Environments</em> option, shown with a small blue highlight bar to its left in Figure 24.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 24: Home Dev Environments shows existing VMs along with “New Virtual Machine.”</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>Notably, Dev Home brought up all VMs already defined on the P16, and their status (Stopped, Running, Saved); I guess that means they count as “Environments” from the tool’s perspective. More notably, clicking the <em>Create Environment</em> button at the upper right sped me through the steps to create a new Hyper-V VM:</p>
+
+
+
+<ol>
+<li>Select Microsoft Hyper-V as the “environment provider.”</li>
+
+
+
+<li>Enter <strong>NewVM2</strong> in the field tagged “New virtual machine name.”</li>
+
+
+
+<li>Select the 30-day evaluation for the “Windows 11 dev environment” as the Windows OS image source (it’s labeled an “Environment” below), purely as a test, as shown in Figure 25.</li>
+
+
+
+<li>Click <em>Create Environment</em> (see lower right, Figure 25).</li>
+</ol>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 25: This screen shows you’ve chosen the Microsoft-supplied “Windows 11 dev environment” as your image source for a new VM.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>Once you’ve clicked the <em>Create Environment</em> button, be prepared to wait a while. Dev Home must download the Windows 11 dev environment (over 20GB in size), then extract its interior files. On the P16 Mobile Workstation, that took about 15 minutes. Dev Home does report progress during this process, as you can see in Figure 26, which shows the download 76% complete.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Figure 26: Progress in downloading the ISO for the Windows 11 dev environment stands at 76%.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>When the extraction process ends, the ISO is mounted and the VM ready to launch. You’ll see Environment information for your new VM (NewVM2, in this case) like that shown in Figure 27. You must click the <em>Launch</em> button (far right) to start the VM installation process.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Figure 27: Click the <em>Launch</em> button to fire off the Windows installer for the VM’s OS.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>When you do that, a small VM window opens to present you with a Start button to fire things off. Figure 28 depicts that VM window: click that <em>Start</em> button!</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 28: Click the <em>Start</em> button to put Setup.exe to work to install the VM’s OS.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>This starts the VM, which fires off the ISO image’s <strong>Setup.exe</strong>, at which point you’ll see a larger VM window labelled Hyper-V and a circular progress indicator. Then, you’ll be asked to size the VM window for further display (I recommend at least 1680 x 1050). At this point, a login window for a generic “User” (no password) appears, as shown in Figure 29. Remarkably, this took two minutes or less to complete. Click <em>Sign in</em> to get to the desktop.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Figure 29: Because the predefined User account requires no password, click “Sign in” and you’re done.</p>
+</figcaption></figure><p class="imageCredit">Ed Tittel / IDG</p></div>
+
+
+
+<p>The next thing you’ll see is the NewVM2 desktop, a mostly bare-bones Windows 11 install that also includes Visual Studio 2022 and Ubuntu on Windows. It’s running the current build as I write this for an Enterprise Evaluation (22621.3447) version. I also checked: you cannot use a valid Windows 11 Enterprise key to activate this install (it rejects all keys).</p>
+
+
+
+<p>But here we are, having installed a working Hyper-V VM for Windows 11 from start to finish inside an RDP session! Thus, the Dev Home approach completely sidesteps all gotchas one encounters when using Hyper-V manager, to wit:</p>
+
+
+
+<ul>
+<li>There’s no need to stop the VM after its first start, visit its Security settings and check the Enable TPM option as in Hyper-V Manager. Home Dev is smart enough to handle this in the background.</li>
+
+
+
+<li>It starts, installs and boots from inside an enhanced RDP session. No local login is required to start up the VM to run setup.exe for the first time.</li>
+
+
+
+<li>Built-in support for enhanced sessions also fixes the missing login prompt problem once the VM is up and running. There’s no need to tweak sign-in options, either. In fact, the OS doesn’t even show the “Only allow Hello logins” entry under Additional settings in <em>Settings > Accounts > Sign-in options</em> as shown in Figure 4 earlier.</li>
+
+
+
+<li>Because enhanced sessions are turned on by default, you can cut and paste strings from outside the RDP session into the RDP session. That’s how I determined that a valid Windows 11 Enterprise key did not work to re-key the Windows 11 Dev image that Dev Home downloads and uses.</li>
+</ul>
+
+
+
+<p><strong>There’s just one problem</strong>: Dev Home environments don’t let you grab an arbitrary local ISO on a drive. You can only use Environments that Microsoft makes available (these are essentially the same as the “gallery images” shown in Figure 9 earlier in this story).</p>
+
+
+
+<p>For any other Windows images you might want to run as VMs, you must use Hyper-V Manager and its quick or slow create processes — that is, unless Microsoft responds to my feature request to add access to local ISOs to Dev Home’s existing image options when creating a VM.</p>
+
+
+
+<h3 class="wp-block-heading" id="net-net-it-really-could-be-easier">Net-Net: It really could be easier</h3>
+
+
+
+<p>What I learned from digging into Dev Home and its capabilities — especially when using RDP — is that it’s entirely possible for Microsoft to update and rationalize its Hyper-V VM creation process. Whether or not they choose to do so is up to them. I certainly hope they’ll figure this out, and do just that.</p>
+
+
+
+<p>Ideally, Microsoft would fix Hyper-V Manager to make it Windows 11-aware (and friendly). And then they might add local ISO access to image selection options in Dev Home. Frankly, I’d be happy with either of these approaches (you can always tweak a VM created in Dev Home in Hyper-V Manager through its many Settings categories and options). Although it would be great to see both happen, I’m not holding my breath…</p>
+</div></div></div></div>
+  </div>
+  <p>
+    Source:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.computerworld.com/article/3477240/how-to-set-up-windows-11-hyper-v-virtual-machines.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Computer World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Sep 4, 2024, 6:00:00 AM EDT</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://t.me/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Telegram" aria-label="Follow us on Telegram"><svg role="img" aria-label="Telegram Logo" width="24px" height="24px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M40.83,8.48c1.14,0,2,1,1.54,2.86l-5.58,26.3c-.39,1.87-1.52,2.32-3.08,1.45L20.4,29.26a.4.4,0,0,1,0-.65L35.77,14.73c.7-.62-.15-.92-1.07-.36L15.41,26.54a.46.46,0,0,1-.4.05L6.82,24C5,23.47,5,22.22,7.23,21.33L40,8.69a2.16,2.16,0,0,1,.83-.21Z"/></svg></a>
+<!--
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2024&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.5)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.5">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.5" async></script>
+</body>
+</html>

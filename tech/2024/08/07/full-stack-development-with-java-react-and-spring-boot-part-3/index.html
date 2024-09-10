@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Full-stack development with Java, React, and Spring Boot, Part 3 - Major Digest</title>
+  <meta name="description" content="In the first part of this tutorial, we created a Todo application with a React front end and a Spring Boot back end. In the second part, we added a local MongoDB instance for storage.">
+  <link rel="canonical" href="https://majordigest.com/tech/2024/08/07/full-stack-development-with-java-react-and-spring-boot-part-3/">
+
+  <meta itemprop="name" content="Full-stack development with Java, React, and Spring Boot, Part 3 - Major Digest">
+  <meta itemprop="description" content="In the first part of this tutorial, we created a Todo application with a React front end and a Spring Boot back end. In the second part, we added a local MongoDB instance for storage.">
+  <link itemprop="url" href="https://majordigest.com/tech/2024/08/07/full-stack-development-with-java-react-and-spring-boot-part-3/">
+  <meta itemprop="image" content="https://majordigest.com/static9/tech/2024/08/07/full-stack-development-with-java-react-and-spring-boot-part-3.webp">
+
+  <meta property="og:title" content="Full-stack development with Java, React, and Spring Boot, Part 3 - Major Digest">
+  <meta property="og:description" content="In the first part of this tutorial, we created a Todo application with a React front end and a Spring Boot back end. In the second part, we added a local MongoDB instance for storage.">
+  <meta property="og:url" content="https://majordigest.com/tech/2024/08/07/full-stack-development-with-java-react-and-spring-boot-part-3/">
+  <meta property="og:image" content="https://majordigest.com/static9/tech/2024/08/07/full-stack-development-with-java-react-and-spring-boot-part-3.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Full-stack development with Java, React, and Spring Boot, Part 3 - Major Digest">
+  <meta name="twitter:description" content="In the first part of this tutorial, we created a Todo application with a React front end and a Spring Boot back end. In the second part, we added a local MongoDB instance for storage.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2024/08/07/full-stack-development-with-java-react-and-spring-boot-part-3/">
+  <meta name="twitter:image" content="https://majordigest.com/static9/tech/2024/08/07/full-stack-development-with-java-react-and-spring-boot-part-3.webp">
+  <meta name="twitter:image:alt" content="Full-stack development with Java, React, and Spring Boot, Part 3 - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.5">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.5">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2024-08-13T04:35:13.906Z" itemprop="datePublished">Tuesday, August 13, 2024</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Full-stack development with Java, React, and Spring Boot, Part 3 - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Wed, 07 Aug 2024 09:00:00 +0000">
+  <meta itemprop="url" content="/tech/2024/08/07/full-stack-development-with-java-react-and-spring-boot-part-3/">
+  <h2 itemprop="headline">Full-stack development with Java, React, and Spring Boot, Part 3</h2>
+  <div itemprop="articleBody">
+    <img src="/static9/tech/2024/08/07/full-stack-development-with-java-react-and-spring-boot-part-3.webp" alt="Full-stack development with Java, React, and Spring Boot, Part 3" align="left"
+         itemprop="image" width="400" height="225"
+         referrerpolicy="no-referrer">
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>In the first part of this tutorial, we created a Todo application with a React front end and a Spring Boot back end. In the second part, we added a local MongoDB instance for storage. Now we’ll move the application into a production environment using MongoDB Atlas, Vercel for the React front end, and a Spring virtual machine to host the back end. We’ll also dip into some considerations around supporting HTTPS with a certificate for the back-end API.</p>
+
+
+<h3 id="the-deployment-architecture">The deployment architecture</h3>
+
+
+<p>When you get ready to deploy an application into production, the usual thought is: what’s the easiest way to meet all the application requirements? In this case, we have three components that need to interact: MongoDB, the Spring server, and the React front end.</p>
+
+
+
+<p>We’ll use the following technologies to accomplish our goal:</p>
+
+
+
+<ul>
+<li>A MongoDB Atlas managed instance for the datastore</li>
+
+
+
+<li>A Spring Web API VM on Google’s public cloud for the Spring server</li>
+
+
+
+<li>A serverless deployment on Vercel for the React/NPM front end</li>
+</ul>
+
+
+
+<p>There are advantages and disadvantages to these choices, as there would be with any component we choose. Probably the biggest point for our stack here is that the parts that <em>can</em> be simple—the database and front end—are hosted by services that make deploying them very easy. The Java middleware, where we want more control, is deployed into a virtual machine which gives us more direct access to things.</p>
+
+
+
+<p>I should also mention that we won’t devote any attention to creating a CI/CD pipeline for this example. That could easily fill another entire article. We’ll just work on getting the components into a reasonable configuration that could be developed into a more effective build-and-deploy setup with minimal effort. We’ll use a self-signed certificate for the Java API.</p>
+
+
+
+<h3 class="wp-block-heading" id="the-database">The database</h3>
+
+
+
+<p>We begin with the lowest level of the stack, the MongoDB datastore, because the Spring API will depend on knowing its location. In turn, React will need to know where the Spring application is.</p>
+
+
+
+<p>MongoDB Atlas is the official managed platform from the makers of the open source MongoDB that we used for our local development install in Part 2. Like MongoDB, Atlas is geared towards making the developer’s life easy. You can sign up for a free account here.</p>
+
+
+
+<p>We will make use of a free cluster for our purposes. From the Atlas dashboard, once you have your free account, click the <strong>Create</strong> button, as shown in Figure 1.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Figure 1. Create a cluster on the MongoDB Atlas dashboard.</p>
+</figcaption></figure><p class="imageCredit">Matthew Tyson</p></div>
+
+
+
+<p></p><p>Next, follow the prompts to create a free-tier cluster. The new cluster will appear as mine does in the above screenshot, as “InfoWorld.” You will need to create a username and password to access this instance, so go ahead and write those down. If you forget, you can reset the password by navigating to <strong>Security->Database Access</strong> on the left-hand menu.</p>
+<p>To find the connection string that we’ll use from Java to access the database, click on the cluster instance, then select the “Drivers” option, and then pick from the dropdown to find <strong>Java</strong>, which will give you a string to copy:</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Figure 2. How to get the MongoDB connection string.</p>
+</figcaption></figure><p class="imageCredit">Matthew Tyson</p></div>
+
+
+
+<p>My connection string looks like so:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+mongodb+srv://<username>:<password>@infoworld.mwvvuo9.mongodb.net/?retryWrites=true&w=majority&appName=infoworld
+</code>
+</pre>
+
+
+
+
+
+<p>Just hang on to that for now. We’ll use it soon.</p>
+
+
+
+<h3 class="wp-block-heading" id="the-spring-application">The Spring application</h3>
+
+
+
+<p>We need to take several steps to prepare the Spring application for production:</p>
+
+
+
+<ul>
+<li>Create two profiles: <code>dev</code> and <code>prod</code>.</li>
+
+
+
+<li>Create a virtual machine to host the application.</li>
+
+
+
+<li>Extract the username and password to an environment variable.</li>
+
+
+
+<li>Add the MongoDB connection string to the <code>prod</code> profile using the environment variables.</li>
+
+
+
+<li>Create an HTTPS certification (cert) to support HTTPS.</li>
+
+
+
+<li>Create a standalone JAR build, then copy it to <code>prod</code> and run it.</li>
+</ul>
+
+
+
+<p>I am using Google Cloud Platform for the virtual machine, but the steps will be similar for any cloud provider: sign up for an account, then go to the Compute menu to define and create a new virtual machine. Most cloud platforms have free-tier VMs you can use for this tutorial. Once you have provisioned a VM, you can SSH to it and check out the Spring app from my GitHub repository for this tutorial:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+$ git clone https://github.com/MTyson/java-spring-react.git
+</code>
+</pre>
+
+
+
+
+
+<p>That will give you the version that already has the necessary changes. Let’s walk through them.</p>
+
+
+
+<p>Note that there is a keystore file at <code>src/main/resources/keystore/infoworld.p12</code>. This is the way Java apps store keys for use in Transport Layer Security. We need this for serving the API over HTTPS, which we’ll need because Vercel will host our React front end with HTTPS, and browsers won’t serve mixed security content. We want to host production APIs on HTTPS in any case.</p>
+
+
+
+<p>We are using a self-signed certificate, which means we’ll still get a warning in the browser, but it gives you an idea of how things work. See HTTPS using self-signed certificate in Spring Boot to learn how to generate your own self-signed certificate. You’ll end up with a keystore file like the one here, and because it’s in the /resources directory, it will be available on the classpath. If you obtain keys signed by an authority, you can use those and avoid the warning. (Let’s Encrypt will provide you with legitimate keys, but only for a domain name.)</p>
+
+
+
+<p>There are various levels of sophistication in how you store your keys, including using a centralized cloud store like GCP KMS. We’re keeping it simple here.</p>
+
+
+
+<h3 class="wp-block-heading" id="application-properties-and-profiles">Application properties and profiles</h3>
+
+
+
+<p>We need two profiles: <code>prod</code> and <code>dev</code>. We can create them by adding two files to <code>/src/main/resources</code>:</p>
+
+
+
+<ul>
+<li><code>application-dev.properties</code> for the <code>dev</code> profile properties</li>
+
+
+
+<li><code>application-prod.properties</code> for the <code>prod</code> profile properties</li>
+</ul>
+
+
+
+<p>Our property files need to do two things: point at the right database and configure the TLS key for HTTPS. The <code>dev</code> file will point to the local MongoDB database and the <code>prod</code> file will point to MongoDB Atlas. (For a more in-depth discussion of Spring profiles, see Mastering Spring Boot profiles in application.properties.)</p>
+
+
+
+<p>Here’s a look at our <code>application-pro.properties</code> file:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+spring.application.name=demo
+spring.data.mongodb.uri=mongodb+srv://${MONGODB_USERNAME}:${MONGODB_PASSWORD}@infoworld.mwvvuo9.mongodb.net/todo?retryWrites=true&w=majority&appName=infoworld
+
+server.ssl.key-store-type=PKCS12
+server.ssl.key-store=classpath:keystore/infoworld.p12
+server.ssl.key-store-password=${KEYSTORE_PASSWORD}
+# Alias is set when you create the keystore
+server.ssl.key-alias=infoworld 
+server.ssl.enabled=true
+</code>
+</pre>
+
+
+
+
+
+<p>You’ll notice we are relying on environment variables to set the username and password for MongoDB and the password for the keystore. This is to keep those credentials out of version control. In Unix-like systems, you can add these to <code>~/.bashrc</code> like so:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+export MONGODB_USERNAME=dbname
+export MONGODB_PASSWORD=dbpass
+export KEYSTORE_PASSWORD=keystorepass
+</code>
+</pre>
+
+
+
+
+
+<p>Now the Spring application is ready to run in production mode. For testing, you can run the <code>prod</code> profile in development mode like so:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+$ mvn spring-boot:run -Dspring-boot.run.profiles=prod</code>
+</pre>
+
+
+
+
+
+<p>What we want is to package up the profile and deploy it as a standalone JAR. To build the JAR, run:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+$ mvn clean package
+</code>
+</pre>
+
+
+
+
+
+<p>When the build completes, there will be a JAR file in the target directory. This is the production build that you can run on the VM like so:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+$ java -jar -Dspring.profiles.active=prod target/iw-react-spring-0.0.1-SNAPSHOT.jar
+</code>
+</pre>
+
+
+
+
+
+<p>Notice we are again specifying the <code>prod</code> profile but with a slightly different syntax for the JAR file.</p>
+
+
+
+<p>When that is all running properly, Spring will expose the API and talk to MongoDB Atlas for persistence. At this point, you could go to the IP address of your VM (you can find this on your cloud provider’s dashboard) and get back the JSON for any to-do items entered:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+https://<your-ip>:8080/todos
+</code>
+</pre>
+
+
+
+
+
+<p>This will likely return you an empty array: <code>[]</code>.</p>
+
+
+
+<p>Notice we’re using HTTPS now. The browser will flag the address as “not secure,” because of the self-signed cert.</p>
+
+
+
+<h3 class="wp-block-heading" id="react">React</h3>
+
+
+
+<p>On to deploying the React app. The first step is to create a Vercel account if you don’t have one. Once you are logged into Vercel, you can click <strong>Add New</strong> from the project dashboard, and from there you will select the front-end project in GitHub:</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Figure 3. Select the new Vercel project from GitHub.</p>
+</figcaption></figure><p class="imageCredit">Matthew Tyson</p></div>
+
+
+
+<p>The project that holds our React front end is iw-react-java-part3-frontend. You can import that because it is public, however, Vercel won’t do automatic redeploys for you because you won’t have push access. If you clone it, then you can get the full auto-deploy experience.</p>
+
+
+
+<p>Vercel makes this very straightforward. Once the GitHub repo is imported, Vercel automatically deploys it. It’ll give you a summary screen for the project:</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Figure 4. The Vercel deployment.</p>
+</figcaption></figure><p class="imageCredit">Matthew Tyson</p></div>
+
+
+
+<p>If you open the app, everything will <em>almost</em> be working. We need to tell the Spring application where our incoming requests are coming from to get around cross-origin restrictions in the browser.</p>
+
+
+
+<p>Copy the address for the Vercel front end by opening it and looking at the address bar. Returning to Spring, add that domain to the allowed origins in the controller:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+package com.example.iwreactspring.controller
+//…
+@RestController
+@CrossOrigin(origins = "https://iw-react-java-part3-frontend-vizl.vercel.app")
+public class MyController { … }
+</code>
+</pre>
+
+
+
+
+
+<p>Now rebuild Spring and run again. You should only have to do this once, but it is admittedly clunky. To improve the situation, we could extract the Vercel front-end hosting location to a property and inject that into the controller, so we won’t have to modify the code if the location changes.</p>
+
+
+
+<p>If you run into the browser disallowing the self-signed certificate, check out this resource. The workaround is to give the browser permission to accept self-signed certs for your VM’s domain.</p>
+
+
+
+<p>Ultimately, you’ll be presented with a fully working application that uses MongoDB Atlas, a GCP virtual machine, and Vercel to host the three components, as shown here:</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Figure 5. The Spring-React-MongoDB app running in production.</p>
+</figcaption></figure><p class="imageCredit">Matthew Tyson</p></div>
+
+
+
+<h3 class="wp-block-heading" id="conclusion">Conclusion</h3>
+
+
+
+<p>The biggest shortcut we have taken here is regarding the self-signed certificate. Otherwise, these components are all in legitimate production hosting environments. Of course, a lot is to be desired for clean ongoing operations. We could devote considerable attention to making these components simple to deploy and test and ensure smooth releases.</p>
+
+
+
+<p>The downside of this setup is the inherent network calls across the components. We could reduce those by self-hosting everything within our public cloud. On the upside, we have highly isolated services at each component, supporting an easier separation of teams, projects, and deployment pipelines.</p>
+
+
+
+<h3 class="wp-block-heading" id="more-from-this-author">More from this author</h3>
+
+
+
+<ul>
+<li>HTMX for Java with Spring Boot and Thymeleaf</li>
+
+
+
+<li>Stream gatherers: A new way to manipulate Java streams</li>
+
+
+
+<li>Data storage for front-end JavaScript</li>
+</ul>
+
+
+
+<p></p>
+</div></div></div></div>
+  </div>
+  <p>
+    Source:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/3480856/full-stack-development-with-java-react-and-spring-boot-part-3.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Wed, 07 Aug 2024 09:00:00 +0000</span>
+  </p>
+</div></main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+    </span>
+    © 2024&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.5)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.5">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.5" async></script>
+</body>
+</html>

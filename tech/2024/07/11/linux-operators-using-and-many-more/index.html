@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Linux operators: Using |, &#62;, &#62;&#62;, &#38;, &#38;&#38;, !, =, (\) and many more - Major Digest</title>
+  <meta name="description" content="The power of working on the Linux command line is evidenced nearly as much by the available operators as it is by the awesome collection of available commands. This post gives details and provides examples of how these many operators work.">
+  <link rel="canonical" href="https://majordigest.com/tech/2024/07/11/linux-operators-using-and-many-more/">
+
+  <meta itemprop="name" content="Linux operators: Using |, &#62;, &#62;&#62;, &#38;, &#38;&#38;, !, =, (\) and many more - Major Digest">
+  <meta itemprop="description" content="The power of working on the Linux command line is evidenced nearly as much by the available operators as it is by the awesome collection of available commands. This post gives details and provides examples of how these many operators work.">
+  <link itemprop="url" href="https://majordigest.com/tech/2024/07/11/linux-operators-using-and-many-more/">
+  <meta itemprop="image" content="https://majordigest.com/static8/tech/2024/07/11/linux-operators-using-and-many-more.webp">
+
+  <meta property="og:title" content="Linux operators: Using |, &#62;, &#62;&#62;, &#38;, &#38;&#38;, !, =, (\) and many more - Major Digest">
+  <meta property="og:description" content="The power of working on the Linux command line is evidenced nearly as much by the available operators as it is by the awesome collection of available commands. This post gives details and provides examples of how these many operators work.">
+  <meta property="og:url" content="https://majordigest.com/tech/2024/07/11/linux-operators-using-and-many-more/">
+  <meta property="og:image" content="https://majordigest.com/static8/tech/2024/07/11/linux-operators-using-and-many-more.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Linux operators: Using |, &#62;, &#62;&#62;, &#38;, &#38;&#38;, !, =, (\) and many more - Major Digest">
+  <meta name="twitter:description" content="The power of working on the Linux command line is evidenced nearly as much by the available operators as it is by the awesome collection of available commands. This post gives details and provides examples of how these many operators work.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2024/07/11/linux-operators-using-and-many-more/">
+  <meta name="twitter:image" content="https://majordigest.com/static8/tech/2024/07/11/linux-operators-using-and-many-more.webp">
+  <meta name="twitter:image:alt" content="Linux operators: Using |, &#62;, &#62;&#62;, &#38;, &#38;&#38;, !, =, (\) and many more - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.5">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.5">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2024-07-12T11:45:14.614Z" itemprop="datePublished">Friday, July 12, 2024</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Linux operators: Using |, &#62;, &#62;&#62;, &#38;, &#38;&#38;, !, =, (\) and many more - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Thu, 11 Jul 2024 17:44:19 +0000">
+  <meta itemprop="url" content="/tech/2024/07/11/linux-operators-using-and-many-more/">
+  <h2 itemprop="headline">Linux operators: Using |, &#62;, &#62;&#62;, &#38;, &#38;&#38;, !, =, (\) and many more</h2>
+  <div itemprop="articleBody">
+    <img src="/static8/tech/2024/07/11/linux-operators-using-and-many-more.webp" alt="Linux operators: Using |, &#62;, &#62;&#62;, &#38;, &#38;&#38;, !, =, (\) and many more" align="left"
+         itemprop="image" width="400" height="225"
+         referrerpolicy="no-referrer">
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The power of working on the Linux command line is evidenced nearly as much by the available operators as it is by the awesome collection of available commands. This post gives details and provides examples of how these many operators work.</p>
+
+
+
+<h3 class="wp-block-heading" id="using">Using |</h3>
+
+
+
+<p>The command line pipe, expressed by the character <strong>| </strong>(a vertical bar) is one of the most useful operators imaginable. It’s called a “pipe” and likely the vertical bar was selected to represent this operator because it resembles a physical pipe. What it does is pass the output of the command on the left side of the pipe to the command on the right side of the pipe through a special connection. For example, you could use a command like this one below to see which users are logged into the system:</p>
+
+
+
+<pre class="wp-block-preformatted">$ who
+jdoe     seat0        2024-06-20 10:37 (login screen)
+jdoe     tty2         2024-06-20 10:39 (tty2)
+nancy    tty3         2024-06-20 10:40 (tty2)
+shs      pts/1        2024-06-20 10:56 (192.168.0.5)</pre>
+
+
+
+<p>If you only want to count the logins, on the other hand, you could use a pipe like this:</p>
+
+
+
+<pre class="wp-block-preformatted">$ who | wc -l
+4</pre>
+
+
+
+<p>If you want to see how many unique users are logged in, you’d have to work a little harder. You could reduce the username listing to the unique names like this:</p>
+
+
+
+<pre class="wp-block-preformatted">$ who | awk '{print $1}' | sort | uniq
+jdoe
+nancy
+shs</pre>
+
+
+
+<p>That <strong>awk</strong> command in between the first and second pipes would reduce the output from the <strong>who</strong> command to just the first string on every line. The <strong>sort</strong> command then arranges these in alphabetical order so that the <strong>uniq</strong> command will include each username only once. That’s quite a few pipes, but they can cut the output down to just what we might want to see.</p>
+
+
+
+<h3 class="wp-block-heading" id="using">Using ||</h3>
+
+
+
+<p>In spite of the seeming similarity of <strong>|</strong> and <strong>||</strong>, two vertical lines do not represent a double pipe. In fact, they don’t represent piping at all. Instead, the two vertical lines represent an “or” operator and they work in an interesting way. That is, if the command on the left side of a <strong>|| </strong>works, the one on the right side won’t be run at all.</p>
+
+
+
+<p>In the example below, the <strong>head</strong> command fails because it wasn’t run with root-level privilege (e.g., using <strong>sudo</strong>) and, thus, has no access to the /etc/shadow file. The <strong>echo</strong> command then runs after the error appears.</p>
+
+
+
+<pre class="wp-block-preformatted">$ head -4 /etc/shadow || echo oops
+head: cannot open '/etc/shadow' for reading: Permission denied
+oops</pre>
+
+
+
+<p>If you want to see the effect without the error message, you could send the error output of the <strong>head</strong> command to <strong>/dev/null</strong> like this:</p>
+
+
+
+<pre class="wp-block-preformatted">$ head -4 /etc/shadow 2&gt;/dev/null || echo oops
+oops</pre>
+
+
+
+<p>The <strong>2&gt;</strong> operator redirects error output – in this case to <strong>/dev/null</strong>.</p>
+
+
+
+<h3 class="wp-block-heading" id="using-and">Using &gt; and &gt;&gt;</h3>
+
+
+
+<p>The <strong>&gt;</strong> and <strong>&gt;&gt;</strong> operators, unlike <strong>| </strong>and <strong>||</strong>, are tightly related to each other. Still, they have a different though related function. If you run a command like one of those below, you add output of the fortune command to a file, creating it if is doesn’t already exist and overwriting it if it does.</p>
+
+
+
+<pre class="wp-block-preformatted">$ fortune &gt; readme
+$ cat readme
+1 bulls, 3 cows.
+$ fortune &gt; readme
+$ cat readme
+Does a one-legged duck swim in a circle?</pre>
+
+
+
+<p>Notice that, in the example above, the content of the file is replaced.</p>
+
+
+
+<p>If you use <strong>&gt;&gt;</strong> instead, content will be appended to the file if it exists and used to create a new file if it doesn’t.</p>
+
+
+
+<pre class="wp-block-preformatted">$ fortune &gt;&gt; readme
+$ cat readme
+Does a one-legged duck swim in a circle?
+fractal radiation jamming the backbone
+$ fortune &gt;&gt; ignoreme
+$ cat ignoreme
+It's all magic.  :-)</pre>
+
+
+
+<h3 class="wp-block-heading" id="using-and-and">Using &amp; and &amp;&amp; (and)</h3>
+
+
+
+<p>In a similar manner to <strong>|</strong> and <strong>||</strong>, the <strong>&amp;</strong> and <strong>&amp;&amp;</strong> operators are very different in how they function in spite of the similarity in their appearance. A single <strong>&amp;</strong> operator is used to run a process in the background. This means that you can go ahead and run other commands on the command line while it is still running. Here’s an example:</p>
+
+
+
+<pre class="wp-block-preformatted">$ run-long-script &amp;
+$</pre>
+
+
+
+<p>Notice how the prompt comes back to welcome your next command.</p>
+
+
+
+<p>The <strong>&amp;&amp;</strong>, on the other hand, is more like the <strong>||</strong> operator, except that the command on the right side of the <strong>&amp;&amp;</strong> runs only if the command on the left succeeds (rather than fails).</p>
+
+
+
+<pre class="wp-block-preformatted">$ echo hello &amp;&amp; echo goodbye
+hello
+goodbye</pre>
+
+
+
+<h3 class="wp-block-heading" id="using">Using ;</h3>
+
+
+
+<p>The <strong>; </strong>is an operator that allows you to run multiple commands on a single line. It simply separates them so they will run independently of each other. The commands will run in the order specified and each will complete before the next one is started.</p>
+
+
+
+<pre class="wp-block-preformatted">$ sleep 3; echo 1; sleep 2; echo 2; sleep 1; echo 3
+1
+2
+3</pre>
+
+
+
+<h3 class="wp-block-heading" id="using">Using !</h3>
+
+
+
+<p>The ! (not) operator is one that allows you to express an exception when you type commands. For example, the command below will display the content of all of the files in the current directory except for the one named “ignoreme”.</p>
+
+
+
+<pre class="wp-block-preformatted">$ cat !(ignoreme)
+Does a one-legged duck swim in a circle?
+fractal radiation jamming the backbone
+Virus transmitted from computer to sysadmins.</pre>
+
+
+
+<p>You can also use the <strong>! </strong>with wild cards as in this example:</p>
+
+
+
+<pre class="wp-block-preformatted">$ ls
+goodtimes  ignoreme  readme
+$ rm !(*me)
+$ ls
+ignoreme  readme</pre>
+
+
+
+<p>When the rm command above runs, all files, except those ending in “me” are removed.</p>
+
+
+
+<h3 class="wp-block-heading" id="using-and">Using =, == and !=</h3>
+
+
+
+<p>The <strong>=</strong> sign, as you undoubtedly know, is used to assign a value to a variable. The <strong>==</strong> and <strong>!=</strong> signs test for equality and inequality.</p>
+
+
+
+<pre class="wp-block-preformatted">$ three=3
+$ if [ $three == 3 ]; then
+&gt;   echo I like math
+&gt; fi
+I like math
+$ if [ $three != 3 ]; then
+&gt;   echo "I do not trust math"
+&gt; fi</pre>
+
+
+
+<p>Fortunately, three did equal 3 in the tests shown above, so we saw no output on the inequality test.</p>
+
+
+
+<h3 class="wp-block-heading" id="using-the-escape-character">Using the escape character (\)</h3>
+
+
+
+<p>The backslash character works as an escape character (at least for the Bourne shell). It allows other characters to be displayed without being interpreted. In the rather complex string below, every other character is simply displayed because of the backslash preceding it.</p>
+
+
+
+<pre class="wp-block-preformatted">$ echo \"\'\&amp;\|\;\(\)\^\'\&lt;\&gt;\$
+"'&amp;|;()^'&lt;&gt;$</pre>
+
+
+
+<h3 class="wp-block-heading" id="wrap-up">Wrap-up</h3>
+
+
+
+<p>It takes a while to become familiar with all of the available command operators, but they prove extremely useful on the command line and in scripts. An earlier post on &amp;&amp;, ||, and ! is available at Demystifying &amp;&amp;, !! and ! on Linux</p>
+</div></div></div></div>
+  </div>
+  <p>
+    Source:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.networkworld.com/article/2516127/linux-operators-using-and-many-more.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Network World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Thu, 11 Jul 2024 17:44:19 +0000</span>
+  </p>
+</div></main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://twitter.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Twitter" aria-label="Follow us on Twitter"><svg role="img" aria-label="Twitter Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 612 612"><path d="M612,116.258c-22.525,9.981-46.694,16.75-72.088,19.772c25.929-15.527,45.777-40.155,55.184-69.411 c-24.322,14.379-51.169,24.82-79.775,30.48c-22.907-24.437-55.49-39.658-91.63-39.658c-69.334,0-125.551,56.217-125.551,125.513 c0,9.828,1.109,19.427,3.251,28.606C197.065,206.32,104.556,156.337,42.641,80.386c-10.823,18.51-16.98,40.078-16.98,63.101 c0,43.559,22.181,81.993,55.835,104.479c-20.575-0.688-39.926-6.348-56.867-15.756v1.568c0,60.806,43.291,111.554,100.693,123.104 c-10.517,2.83-21.607,4.398-33.08,4.398c-8.107,0-15.947-0.803-23.634-2.333c15.985,49.907,62.336,86.199,117.253,87.194 c-42.947,33.654-97.099,53.655-155.916,53.655c-10.134,0-20.116-0.612-29.944-1.721c55.567,35.681,121.536,56.485,192.438,56.485 c230.948,0,357.188-191.291,357.188-357.188l-0.421-16.253C573.872,163.526,595.211,141.422,612,116.258z"></path></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+    </span>
+    © 2024&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.5)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.5">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.5" async></script>
+</body>
+</html>

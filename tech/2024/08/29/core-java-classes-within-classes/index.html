@@ -1,0 +1,769 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Static classes and inner classes in Java - Major Digest</title>
+  <meta name="description" content="Nested classes are classes that are declared as members of other classes or scopes. Nesting classes is one way to better organize your code.">
+  <link rel="canonical" href="https://majordigest.com/tech/2024/08/29/core-java-classes-within-classes/">
+
+  <meta itemprop="name" content="Static classes and inner classes in Java - Major Digest">
+  <meta itemprop="description" content="Nested classes are classes that are declared as members of other classes or scopes. Nesting classes is one way to better organize your code.">
+  <link itemprop="url" href="https://majordigest.com/tech/2024/08/29/core-java-classes-within-classes/">
+  <meta itemprop="image" content="https://majordigest.com/static9/tech/2024/08/29/core-java-classes-within-classes.webp">
+
+  <meta property="og:title" content="Static classes and inner classes in Java - Major Digest">
+  <meta property="og:description" content="Nested classes are classes that are declared as members of other classes or scopes. Nesting classes is one way to better organize your code.">
+  <meta property="og:url" content="https://majordigest.com/tech/2024/08/29/core-java-classes-within-classes/">
+  <meta property="og:image" content="https://majordigest.com/static9/tech/2024/08/29/core-java-classes-within-classes.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Static classes and inner classes in Java - Major Digest">
+  <meta name="twitter:description" content="Nested classes are classes that are declared as members of other classes or scopes. Nesting classes is one way to better organize your code.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2024/08/29/core-java-classes-within-classes/">
+  <meta name="twitter:image" content="https://majordigest.com/static9/tech/2024/08/29/core-java-classes-within-classes.webp">
+  <meta name="twitter:image:alt" content="Static classes and inner classes in Java - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.5">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.5">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2024-08-29T11:35:18.447Z" itemprop="datePublished">Thursday, August 29, 2024</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Static classes and inner classes in Java - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "Static classes and inner classes in Java - Major Digest"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Thu, 29 Aug 2024 08:45:00 GMT">
+  <meta itemprop="url" content="/tech/2024/08/29/core-java-classes-within-classes/">
+  <h2 itemprop="headline">Static classes and inner classes in Java</h2>
+  <div itemprop="articleBody">
+    <img src="/static9/tech/2024/08/29/core-java-classes-within-classes.webp" alt="Static classes and inner classes in Java" align="left" itemprop="image" width="400" height="225">
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+
+
+
+
+
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p><em>Nested classes</em> are classes that are declared as members of other classes or scopes. Nesting classes is one way to better organize your code. For example, say you have a non-nested class (also known as a <em>top-level class</em>) that stores objects in a resizable array, followed by an iterator class that returns each object. Rather than pollute the top-level class’s namespace, you could declare the iterator class as a member of the resizable array collection class. This works because the two are closely related.</p>
+			
+<p>In Java, nested classes are categorized as either <em>static member classes</em> or <em>inner classes</em>. Inner classes are non-static member classes, local classes, or anonymous classes. In this tutorial you’ll learn how to work with static member classes and the three types of inner classes in your Java programs.</p>
+
+<h3 id="what-youll-learn-in-this-java-tutorial">What you’ll learn in this Java tutorial</h3>
+<ul>
+<li>About static classes in Java</li>
+<li>About the three types of inner classes:
+<ul>
+<li>Non-static member classes</li>
+<li>Local classes</li>
+<li>Anonymous classes</li>
+</ul>
+</li>
+<li>Examples of using nested classes in your Java programs</li>
+</ul>
+
+
+<h3 id="static-classes-in-java">Static classes in Java</h3>
+<p>In Classes and objects in Java, you learned how to declare static fields and static methods as members of a class, and in Class and object initialization in Java, you learned how to declare static initializers as members of a class. Now you’ll learn how to declare <em>static classes</em>. Formally known as <em>static member classes</em>, these are nested classes that you declare at the same level as these other static entities, using the <code>static</code> keyword. Here’s an example of a static member class declaration:</p>
+
+<pre class="prettyprint"><code>
+class C
+{
+   static int f;
+
+   static void m() {}
+
+   static
+   {
+      f = 2;
+   }
+
+   static class D
+   {
+      // members
+   }
+}
+</code></pre>
+<p>This example introduces top-level class <code>C</code> with static field <code>f</code>, static method <code>m()</code>, a static initializer, and static member class <code>D</code>. Notice that <code>D</code> is a member of <code>C</code>. The static field <code>f</code>, static method <code>m()</code>, and the static initializer are also members of <code>C</code>. Since all these elements belong to class <code>C</code>, it is known as the <em>enclosing class</em>. Class <code>D</code> is known as the <em>enclosed class</em>.</p>
+
+<h3 id="enclosure-and-access-rules">Enclosure and access rules</h3>
+<p>Although it is enclosed, a static member class cannot access the enclosing class’s instance fields and invoke its instance methods. However, it can access the enclosing class’s static fields and invoke its static methods, even those members that are declared <code>private</code>. To demonstrate, Listing 1 declares an <code>EnclosingClass</code> with a nested <code>SMClass</code>.</p>
+
+<h3 id="listing-1-declaring-a-static-member-class-enclosingclass-java-version-1">Listing 1. Declaring a static member class (EnclosingClass.java, version 1)</h3>
+<pre class="prettyprint"><code>
+class EnclosingClass
+{
+   private static String s;
+
+   private static void m1()
+   {
+      System.out.println(s);
+   }
+
+   static void m2()
+   {
+      SMClass.accessEnclosingClass();
+   }
+
+   static class SMClass
+   {
+      static void accessEnclosingClass()
+      {
+         s = "Called from SMClass's accessEnclosingClass() method";
+         m1();
+      }
+
+      void accessEnclosingClass2()
+      {
+         m2();
+      }
+   }
+}
+</code></pre>
+
+<p>Listing 1 declares a top-level class named <code>EnclosingClass</code> with class field <code>s</code>, class methods <code>m1()</code> and <code>m2()</code>, and static member class <code>SMClass</code>. <code>SMClass</code> declares class method <code>accessEnclosingClass()</code> and instance method <code>accessEnclosingClass2()</code>. Note the following:</p>
+<ul>
+<li><code>m2()</code>‘s invocation of <code>SMClass</code>‘s <code>accessEnclosingClass()</code> method requires the <code>SMClass.</code> prefix because <code>accessEnclosingClass()</code> is declared <code>static</code>.</li>
+<li><code>accessEnclosingClass()</code> is able to access <code>EnclosingClass</code>‘s <code>s</code> field and call its <code>m1()</code> method, even though both have been declared <code>private</code>.</li>
+</ul>
+
+<p>Listing 2 presents the source code to an <code>SMCDemo</code> application class that demonstrates how to invoke <code>SMClass</code>‘s <code>accessEnclosingClass()</code> method. It also demonstrates how to instantiate <code>SMClass</code> and invoke its <code>accessEnclosingClass2()</code> instance method.</p>
+<h3 id="listing-2-invoking-a-static-member-classs-methods-smcdemo-java">Listing 2. Invoking a static member class’s methods (SMCDemo.java)</h3>
+<pre class="prettyprint"><code>
+public class SMCDemo
+{
+   public static void main(String[] args)
+   {
+      EnclosingClass.SMClass.accessEnclosingClass();
+      EnclosingClass.SMClass smc = new EnclosingClass.SMClass();
+      smc.accessEnclosingClass2();
+   }
+}
+</code></pre>
+<p>As shown in Listing 2, if you want to invoke a top-level class’s method from within an enclosed class, you must prefix the enclosed class’s name with the name of its enclosing class. Likewise, in order to instantiate an enclosed class you must prefix the name of that class with the name of its enclosing class. You can then invoke the instance method in the normal manner.</p>
+
+<p>Compile Listings 1 and 2 as follows:</p>
+<pre class="prettyprint"><code>
+javac *.java
+</code></pre>
+
+<p>When you compile an enclosing class that contains a static member class, the compiler creates a class file for the static member class whose name consists of its enclosing class’s name, a dollar-sign character, and the static member class’s name. In this case, compiling results in <code>EnclosingClass$SMCClass.class</code> and <code>EnclosingClass.class</code>.</p>
+
+<p>Run the application as follows:</p>
+<pre class="prettyprint"><code>
+java SMCDemo
+</code></pre>
+<p>You should observe the following output:</p>
+<pre class="prettyprint"><code>
+Called from SMClass's accessEnclosingClass() method
+Called from SMClass's accessEnclosingClass() method
+</code></pre>
+<h3 id="example-static-classes-and-java-2d">Example: Static classes and Java 2D</h3>
+<p>Java’s <em>standard class library</em> is a runtime library of class files, which store compiled classes and other reference types. The library includes numerous examples of static member classes, some of which are found in the Java 2D geometric shape classes located in the <code>java.awt.geom</code> package. (You’ll learn about packages in the next <strong>Java 101</strong> tutorial.)</p>
+<p>The <code>Ellipse2D</code> class found in <code>java.awt.geom</code> describes an ellipse, which is defined by a framing rectangle in terms of an (x,y) upper-left corner along with width and height extents. The following code fragment shows that this class’s architecture is based on <code>Float</code> and <code>Double</code> static member classes, which both subclass <code>Ellipse2D</code>:</p>
+<pre class="prettyprint"><code>
+public abstract class Ellipse2D extends RectangularShape
+{
+   public static class Float extends Ellipse2D implements Serializable
+   {
+      public float x, y, width, height;
+
+      public Float()
+      {
+      }
+
+      public Float(float x, float y, float w, float h)
+      {
+         setFrame(x, y, w, h);
+      }
+
+      public double getX()
+      {
+         return (double) x;
+      }
+
+      // additional instance methods
+   }
+
+   public static class Double extends Ellipse2D implements Serializable
+   {
+      public double x, y, width, height;
+
+      public Double()
+      {
+      }
+
+      public Double(double x, double y, double w, double h)
+      {
+         setFrame(x, y, w, h);
+      }
+
+      public double getX()
+      {
+         return x;
+      }
+
+      // additional instance methods
+   }
+
+   public boolean contains(double x, double y)
+   {
+      // ...
+   }
+
+   // additional instance methods shared by Float, Double, and other
+   // Ellipse2D subclasses
+}
+</code></pre>
+<p>The <code>Float</code> and <code>Double</code> classes extend <code>Ellipse2D</code>, providing floating-point and double precision floating-point <code>Ellipse2D</code> implementations. Developers use <code>Float</code> to reduce memory consumption, particularly because you might need thousands or more of these objects to construct a single 2D scene. We use <code>Double</code> when greater accuracy is required.</p>
+<p>You cannot instantiate the abstract <code>Ellipse2D</code> class, but you can instantiate either <code>Float</code> or <code>Double</code>. You also can extend <code>Ellipse2D</code> to describe a custom shape that’s based on an ellipse.</p>
+<p>As an example, let’s say you want to introduce a <code>Circle2D</code> class, which isn’t present in the <code>java.awt.geom</code> package. The following code fragment shows how you would create an <code>Ellipse2D</code> object with a floating-point implementation:</p>
+<pre class="prettyprint"><code>
+Ellipse2D e2d = new Ellipse2D.Float(10.0f, 10.0f, 20.0f, 30.0f);
+</code></pre>
+<p>The next code fragment shows how you would create an <code>Ellipse2D</code> object with a double-precision floating-point implementation:</p>
+<pre class="prettyprint"><code>
+Ellipse2D e2d = new Ellipse2D.Double(10.0, 10.0, 20.0, 30.0);
+</code></pre>
+<p>You can now invoke any of the methods declared in <code>Float</code> or <code>Double</code> by invoking the method on the returned <code>Ellipse2D</code> reference (e.g., <code>e2d.getX()</code>). In the same manner, you could invoke any of the methods that are common to <code>Float</code> and <code>Double</code>, and which are declared in <code>Ellipse2D</code>. An example is:</p>
+<pre class="prettyprint"><code>
+e2d.contains(2.0, 3.0)
+</code></pre>
+<p>That completes the introduction to static member classes. Next we’ll look at inner classes, which are non-static member classes, local classes, or anonymous classes. You’ll learn how to work with all three inner class types.</p>
+<div id="199194" class="download-asset asset-type-3 asset-format-1"><a class="download-icon" href="https://images.idgesg.net/assets/2020/02/j101-nesting-src.zip" rel="nofollow"> <span class="ss-icon">download</span> </a>
+<div class="download-title">Get the code</div>
+<div class="download-desc">Download the source code for examples in this tutorial. <span class="download-source">Created by Jeff Friesen.</span></div>
+</div>
+<h3 id="inner-class-type-1-non-static-member-classes">Inner class type 1: Non-static member classes</h3>
+<p>You’ve learned previously in the <strong>Java 101</strong> series how to declare non-static (instance) fields, methods, and constructors as members of a class. You can also declare <em>non-static member classes</em>, which are nested non-static classes that you declare at the same level as instance fields, methods, and constructors. Consider this example:</p>
+<pre class="prettyprint"><code>
+class C
+{
+   int f;
+
+   void m() {}
+
+   C()
+   {
+      f = 2;
+   }
+
+   class D
+   {
+      // members
+   }
+}
+</code></pre>
+<p>Here, we introduce top-level class <code>C</code> with instance field <code>f</code>, instance method <code>m()</code>, a constructor, and non-static member class <code>D</code>. All of these entities are members of class <code>C</code>, which encloses them. However, unlike in the previous example, these instance entities are associated with <em>instances of</em> <code>C</code> and not with the <code>C</code> class itself.</p>
+<p>Each instance of the non-static member class is implicitly associated with an instance of its enclosing class. The non-static member class’s instance methods can call the enclosing class’s instance methods and access its instance fields. To demonstrate this access, Listing 3 declares an <code>EnclosingClass</code> with a nested <code>NSMClass</code>.</p>
+<h3 id="listing-3-declare-an-enclosing-class-with-a-nested-non-static-member-class-enclosingclass-java-version-2">Listing 3. Declare an enclosing class with a nested non-static member class (EnclosingClass.java, version 2)</h3>
+<pre class="prettyprint"><code>
+class EnclosingClass
+{
+   private String s;
+
+   private void m()
+   {
+      System.out.println(s);
+   }
+
+   class NSMClass
+   {
+      void accessEnclosingClass()
+      {
+         s = "Called from NSMClass's accessEnclosingClass() method";
+         m();
+      }
+   }
+}
+</code></pre>
+<p>Listing 3 declares a top-level class named <code>EnclosingClass</code> with instance field <code>s</code>, instance method <code>m()</code>, and non-static member class <code>NSMClass</code>. Furthermore, <code>NSMClass</code> declares instance method <code>accessEnclosingClass()</code>.</p>
+<p>Because <code>accessEnclosingClass()</code> is non-static, <code>NSMClass</code> must be instantiated before this method can be called. This instantiation must take place via an instance of <code>EnclosingClass</code>, as shown in Listing 4.</p>
+<h3 id="listing-4-nsmcdemo-java">Listing 4. NSMCDemo.java</h3>
+<pre class="prettyprint"><code>
+public class NSMCDemo
+{
+   public static void main(String[] args)
+   {
+      EnclosingClass ec = new EnclosingClass();
+      ec.new NSMClass().accessEnclosingClass();
+   }
+}
+</code></pre>
+<p>Listing 4’s <code>main()</code> method first instantiates <code>EnclosingClass</code> and saves its reference in local variable <code>ec</code>. The <code>main()</code> method then uses the <code>EnclosingClass</code> reference as a prefix to the <code>new</code> operator, in order to instantiate <code>NSMClass</code>. The <code>NSMClass</code> reference is then used to call <code>accessEnclosingClass()</code>.</p>
+<aside class="sidebar large">
+<h3 id="should-i-use-new-with-a-reference-to-the-enclosing-class">Should I use ‘new’ with a reference to the enclosing class?</h3>
+<p>Prefixing <code>new</code> with a reference to the enclosing class is rare. Instead, you will typically call an enclosed class’s constructor from within a constructor or an instance method of its enclosing class.</p>
+</aside>
+<p>Compile Listings 3 and 4 as follows:</p>
+<pre class="prettyprint"><code>
+javac *.java
+</code></pre>
+<p>When you compile an enclosing class that contains a non-static member class, the compiler creates a class file for the non-static member class whose name consists of its enclosing class’s name, a dollar-sign character, and the non-static member class’s name. In this case, compiling results in <code>EnclosingClass$NSMCClass.class</code> and <code>EnclosingClass.class</code>.</p>
+<p>Run the application as follows:</p>
+<pre class="prettyprint"><code>
+java NSMCDemo
+</code></pre>
+<p>You should observe the following output:</p>
+<pre class="prettyprint"><code>
+Called from NSMClass's accessEnclosingClass() method
+</code></pre>
+<!--ao: Are you okay with the title change below?-->
+<aside class="sidebar large">
+<h3 id="when-and-how-to-qualify-this">When (and how) to qualify ‘this’</h3>
+<p>An enclosed class’s code can obtain a reference to its enclosing-class instance by qualifying reserved word <code>this</code> with the enclosing class’s name and the member access operator (<code>.</code>). For example, if code within <code>accessEnclosingClass()</code> needed to obtain a reference to its <code>EnclosingClass</code> instance, it would specify <code>EnclosingClass.this</code>. Because the compiler generates code to accomplish this task, specifying this prefix is rare.</p>
+</aside>
+<h3 id="example-non-static-member-classes-in-hashmap">Example: Non-static member classes in HashMap</h3>
+<p>The standard class library includes non-static member classes as well as static member classes. For this example, we’ll look at the <code>HashMap</code> class, which is part of the Java Collections Framework in the <code>java.util</code> package. <code>HashMap</code>, which describes a hash table-based implementation of a map, includes several non-static member classes.</p>
+<p>For example, the <code>KeySet</code> non-static member class describes a set-based <em>view</em> of the keys contained in the map. The following code fragment relates the enclosed <code>KeySet</code> class to its <code>HashMap</code> enclosing class:</p>
+<pre class="prettyprint"><code>
+public class HashMap<K,V> extends AbstractMap<K,V>
+                          implements Map<K,V>, Cloneable, Serializable
+{
+   // various members
+
+   final class KeySet extends AbstractSet<K>
+   {
+      // various members
+   }
+
+   // various members
+}
+</code></pre>
+<p>The <code><K,V></code> and <code><K></code> syntaxes are examples of <em>generics</em>, a suite of related language features that help the compiler enforce type safety. I’ll introduce generics in an upcoming <strong>Java 101</strong> tutorial. For now, you just need to know that these syntaxes help the compiler enforce the type of key objects that can be stored in the map and in the keyset, and the type of value objects that can be stored in the map.</p>
+<p><code>HashMap</code> provides a <code>keySet()</code> method that instantiates <code>KeySet</code> when necessary and returns this instance or a cached instance. Here’s the complete method:</p>
+<pre class="prettyprint"><code>
+public Set<K> keySet()
+{
+   Set<K> ks = keySet;
+   if (ks == null)
+   {
+      ks = new KeySet();
+      keySet = ks;
+   }
+   return ks;
+}
+</code></pre>
+<p>Notice that the enclosed class’s (<code>KeySet</code>‘s) constructor is called from within the enclosing class’s (<code>HashSet</code>‘s) <code>keySet()</code> instance method. This illustrates a common practice, especially because prefixing the <code>new</code> operator with an enclosing class reference is rare.</p>
+<h3 id="inner-class-type-2-local-classes">Inner class type 2: Local classes</h3>
+<p>It’s occasionally helpful to declare a class in a block, such as a method body or sub-block. For example, you might declare a class that describes an iterator in a method that returns an instance of this class. Such classes are known as <em>local classes</em> because (as with local variables) they are local to the methods in which they are declared. Here is an example:</p>
+<pre class="prettyprint"><code>
+interface I
+{
+   // members
+}
+
+class C
+{
+   I m() // or even static I m()
+   {
+      class D implements I
+      {
+         // members
+      }
+      return new D();
+   }
+}
+</code></pre>
+<p>Top-level class <code>C</code> declares instance method <code>m()</code>, which returns an instance of local class <code>D</code>, which is declared in this method. Notice that <code>m()</code>‘s return type is interface <code>I</code>, which <code>D</code> implements. The interface is necessary because giving <code>m()</code> return type <code>D</code> would result in a compiler error–<code>D</code> isn’t accessible outside of <code>m()</code>‘s body.</p>
+<aside class="sidebar large">
+<h3 id="illegal-access-modifiers-in-local-class-declaration">Illegal access modifiers in local class declaration</h3>
+<p>The compiler will report an error if a local class declaration contains any of the access modifiers <code>private</code>, <code>public</code>, or <code>protected</code>; or the modifier <code>static</code>.</p>
+</aside>
+<p>A local class can be associated with an instance of its enclosing class, but only when used in a non-static context. Also, a local class can be declared anywhere that a local variable can be declared, and has the same scope as a local variable. It can access the surrounding scope’s local variables and parameters, which must be declared <code>final</code>. Consider Listing 5.</p>
+<h3 id="listing-5-declaring-a-local-class-within-an-enclosing-class-instance-method-enclosingclass-java-version-3">Listing 5. Declaring a local class within an enclosing class instance method (EnclosingClass.java, version 3)</h3>
+<pre class="prettyprint"><code>
+class EnclosingClass
+{
+   void m(final int x)
+   {
+      final int y = x * 3;
+      class LClass
+      {
+         int m = x;
+         int n = y;
+      }
+      LClass lc = new LClass();
+      System.out.println(lc.m);
+      System.out.println(lc.n);
+   }
+}
+</code></pre>
+<p>Listing 5 declares <code>EnclosingClass</code> with instance method <code>m()</code>, declaring a local class named <code>LClass</code>. <code>LClass</code> declares a pair of instance fields (<code>m</code> and <code>n</code>). When <code>LClass</code> is instantiated, the instance fields are initialized to the values of final parameter <code>x</code> and final local variable <code>y</code>, as shown in Listing 6.</p>
+<h3 id="listing-6-a-local-class-declares-and-initializes-a-pair-of-instance-fields-lcdemo-java">Listing 6. A local class declares and initializes a pair of instance fields (LCDemo.java)</h3>
+<pre class="prettyprint"><code>
+public class LCDemo
+{
+   public static void main(String[] args)
+   {
+      EnclosingClass ec = new EnclosingClass();
+      ec.m(5);
+   }
+}
+</code></pre>
+<p>Listing 6’s <code>main()</code> method first instantiates <code>EnclosingClass</code>. It then invokes <code>m(5)</code> on this instance. The called <code>m()</code> method multiplies this argument by <code>3</code>, instantiates <code>LClass</code>, whose <code><init>()</code> method assigns the argument and the tripled value to its pair of instance fields and outputs <code>LClass</code>‘s instance fields. (Note that in this case the local class uses the <code><init>()</code> method instead of a constructor to interact with its instance fields.)</p>
+<p>Compile Listings 5 and 6 as follows:</p>
+<pre class="prettyprint"><code>
+javac *.java
+</code></pre>
+<p>When you compile a class whose method contains a local class, the compiler creates a class file for the local class whose name consists of its enclosing class’s name, a dollar-sign character, a 1-based integer, and the local class’s name. In this case, compiling results in <code>EnclosingClass$1LClass.class</code> and <code>EnclosingClass.class</code>.</p>
+<h3 id="a-note-about-local-class-file-name">A note about local class file name</h3>
+<p>When generating a name for a local class’s class file, the compiler adds an integer to the generated name. This integer is probably generated to distinguish a local class’s class file from a non-static member class’s class file. If two local classes have the same name, the compiler increments the integer to avoid conflicts. Consider the following example:</p>
+<pre class="prettyprint"><code>
+public class EnclosingClass
+{
+    public void m1()
+    {
+       class LClass
+       {
+       }
+    }
+
+    public void m2()
+    {
+       class LClass
+       {
+       }
+    }
+
+    public void m3()
+    {
+       class LClass2
+       {
+       }
+    }
+}
+</code></pre>
+<p><code>EnclosingClass</code> declares three instance methods that each declare a local class. The first two methods generate two different local classes with the same name. The compiler generates the following class files:</p>
+<pre class="prettyprint"><code>
+EnclosingClass$1LClass.class
+EnclosingClass$1LClass2.class
+EnclosingClass$2LClass.class
+EnclosingClass.class
+</code></pre>
+<p>Run the application as follows:</p>
+<pre class="prettyprint"><code>
+java LCDemo
+</code></pre>
+<p>You should observe the following output:</p>
+<pre class="prettyprint"><code>
+5
+15
+</code></pre>
+<h3 id="example-using-local-classes-in-regular-expressions">Example: Using local classes in regular expressions</h3>
+<p>The standard class library includes examples of local class usage. For example, the <code>Matcher</code> class, in <code>java.util.regex</code>, provides a <code>results()</code> method that returns a stream of match results. This method declares a <code>MatchResultIterator</code> class for iterating over these results:</p>
+<pre class="prettyprint"><code>
+public Stream<MatchResult> results()
+{
+   class MatchResultIterator implements Iterator<MatchResult>
+   {
+      // members
+   }
+   return StreamSupport.
+          stream(Spliterators.spliteratorUnknownSize(new MatchResultIterator(),
+                                                     Spliterator.ORDERED |
+                                                     Spliterator.NONNULL),
+                 false);
+}
+</code></pre>
+<p>Note the instantiation of <code>MatchResultIterator()</code> following the class declaration. Don’t worry about parts of the code that you don’t understand; instead, think about the usefulness in being able to declare classes in the appropriate scopes (such as a method body) to better organize your code.</p>
+
+<h3 id="inner-class-type-3-anonymous-classes">Inner class type 3: Anonymous classes</h3>
+<p>Static member classes, non-static member classes, and local classes have names. In contrast, <em>anonymous classes</em> are unnamed nested classes. You introduce them in the context of expressions that involve the <code>new</code> operator and the name of either a base class or an interface that is implemented by the anonymous class:</p>
+<pre class="prettyprint"><code>
+// subclass the base class
+
+abstract class Base
+{
+   // members
+}
+
+class A
+{
+   void m()
+   {
+      Base b = new Base()
+               {
+                 // members
+               };
+   }
+}
+
+// implement the interface
+
+interface I
+{
+   // members
+}
+
+class B
+{
+   void m()
+   {
+      I i = new I()
+            {
+               // members
+            };
+   }
+}
+</code></pre>
+<p>The first example demonstrates an anonymous class extending a base class. Expression <code>new Base()</code> is followed by a pair of brace characters that signify the anonymous class. The second example demonstrates an anonymous class implementing an interface. Expression <code>new I()</code> is followed by a pair of brace characters that signify the anonymous class.</p>
+<aside class="sidebar large">
+<h3 id="constructing-anonymous-class-instances">Constructing anonymous class instances</h3>
+<p>An anonymous class cannot have an explicit constructor because a constructor must be named after the class and anonymous classes are unnamed. Instead, you can use an object initialization block (<code>{}</code>) as a constructor.</p>
+</aside>
+<p>Anonymous classes are useful for expressing functionality that’s passed to a method as its argument. For example, consider a method for sorting an array of integers. You want to sort the array in ascending or descending order, based on comparisons between pairs of array elements. You might duplicate the sorting code, with one version using the less than (<code><</code>) operator for one order, and the other version using the greater than (<code>></code>) operator for the opposite order. Alternatively, as shown below, you could design the sorting code to invoke a comparison method, then pass an object containing this method as an argument to the sorting method.</p>
+<h3 id="listing-7-using-an-anonymous-class-to-pass-functionality-as-a-method-argument-comparer-java">Listing 7. Using an anonymous class to pass functionality as a method argument (Comparer.java)</h3>
+<pre class="prettyprint"><code>
+public abstract class Comparer
+{
+   public abstract int compare(int x, int y);
+}
+</code></pre>
+<p>The <code>compare()</code> method is invoked with two integer array elements and returns one of three values: a negative value if <code>x</code> is less than <code>y</code>, 0 if both values are the same, and a positive value if <code>x</code> is greater than <code>y</code>. Listing 8 presents an application whose <code>sort()</code> method invokes <code>compare()</code> to perform the comparisons.</p>
+<h3 id="listing-8-sorting-an-array-of-integers-with-the-bubble-sort-algorithm-acdemo-java">Listing 8. Sorting an array of integers with the Bubble Sort algorithm (ACDemo.java)</h3>
+<pre class="prettyprint"><code>
+public class ACDemo
+{
+   public static void main(String[] args)
+   {
+      int[] a = { 10, 30, 5, 0, -2, 100, -9 };
+      dump(a);
+      sort(a, new Comparer()
+                  {
+                     public int compare(int x, int y)
+                     {
+                        return x - y;
+                     }
+                  });
+      dump(a);
+      int[] b = { 10, 30, 5, 0, -2, 100, -9 };
+      sort(b, new Comparer()
+                  {
+                     public int compare(int x, int y)
+                     {
+                        return y - x;
+                     }
+                  });
+      dump(b);
+   }
+
+   static void dump(int[] x)
+   {
+      for (int i = 0; i < x.length; i++)
+         System.out.print(x[i] + " ");
+      System.out.println();
+   }
+
+   static void sort(int[] x, Comparer c)
+   {
+      for (int pass = 0; pass < x.length - 1; pass++)
+         for (int i = x.length - 1; i > pass; i--)
+            if (c.compare(x[i], x[pass]) < 0)
+            {
+               int temp = x[i];
+               x[i] = x[pass];
+               x[pass] = temp;
+            }
+   }
+}
+</code></pre>
+<p>The <code>main()</code> method reveals two calls to its companion <code>sort()</code> method, which sorts an array of integers via the Bubble Sort algorithm. Each call receives an integer array as its first argument, and a reference to an object created from an anonymous <code>Comparer</code> subclass as its second argument. The first call achieves an ascending order sort by subtracting <code>y</code> from <code>x</code>; the second call achieves a descending order sort by subtracting <code>x</code> from <code>y</code>.</p>
+<aside class="sidebar large">
+<h3 id="migrating-from-anonymous-classes-to-lambdas">Migrating from anonymous classes to lambdas</h3>
+<p>As you can see in Listing 8, passing anonymous class-based functionality can lead to verbose syntax. Starting with Java 8, you can use lambdas for more concise code. See Get started with lambda expressions in Java to learn more about using lambdas in your Java code.</p>
+</aside>
+<p>Compile Listings 7 and 8 as follows:</p>
+<pre class="prettyprint"><code>
+javac *.java
+</code></pre>
+<p>When you compile a class whose method contains an anonymous class, the compiler creates a class file for the anonymous class whose name consists of its enclosing class’s name, a dollar-sign character, and an integer that uniquely identifies the anonymous class. In this case, compiling results in <code>ACDemo$1.class</code> and <code>ACDemo$2.class</code> in addition to <code>ACDemo.class</code>.</p>
+<p>Run the application as follows:</p>
+<pre class="prettyprint"><code>
+java ACDemo
+</code></pre>
+<p>You should observe the following output:</p>
+<pre class="prettyprint"><code>
+10 30 5 0 -2 100 -9
+-9 -2 0 5 10 30 100
+100 30 10 5 0 -2 -9
+</code></pre>
+<h3 id="example-using-anonymous-classes-with-an-awt-event-handler">Example: Using anonymous classes with an AWT event handler</h3>
+<p>Anonymous classes can be used with many packages in the standard class library. For this example, we’ll use an anonymous class as an event handler in the Abstract Windowing Toolkit or Swing Windowing Toolkit. The following code fragment registers an event handler with Swing’s <code>JButton</code> class, which is located in the <code>javax.swing</code> package. <code>JButton</code> describes a button that performs an action (in this case printing a message) when clicked.</p>
+<pre class="prettyprint"><code>
+JButton btnClose = new JButton("close");
+btnClose.addActionListener(new ActionListener()
+                               {
+                                  public void actionPerformed(ActionEvent ae)
+                                  {
+                                     System.out.println("close button clicked");
+                                  }
+                               });
+</code></pre>
+<p>The first line instantiates <code>JButton</code>, passing <code>close</code> as the button label to <code>JButton</code>‘s constructor. The second line registers an action listener with the button. The action listener’s <code>actionPerformed()</code> method is invoked whenever the button is clicked. The object passed to <code>addActionListener()</code> is instantiated from an anonymous class that implements the <code>java.awt.event.ActionListener</code> interface.</p>
+<aside class="sidebar large">
+<h3 id="nested-interfaces-and-classes">Nested interfaces and classes</h3>
+<p>Java also lets you nest interfaces in interfaces and classes in interfaces. Check out this article on nested interfaces to learn about this strange but occasionally useful Java language feature.</p>
+</aside>
+<h3 id="conclusion">Conclusion</h3>
+<p>Java’s nesting capabilities help you organize non-top-level reference types. For top-level reference types, Java provides packages. The next <strong>Java 101</strong> tutorial introduces you to packages and static imports in Java.</p>
+
+<h3 id="more-from-this-author">More from this author</h3>
+<ul>
+<li>Java polymorphism and its types</li>
+<li>Deciding and iterating with Java statements</li>
+<li>Evaluate Java expressions with operators</li>
+</ul>
+
+
+
+</div></div></div></div>
+  </div>
+  <p>
+    Source:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/2162629/core-java-classes-within-classes.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Aug 29, 2024, 4:45:00 AM EDT</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://t.me/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Telegram" aria-label="Follow us on Telegram"><svg role="img" aria-label="Telegram Logo" width="24px" height="24px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M40.83,8.48c1.14,0,2,1,1.54,2.86l-5.58,26.3c-.39,1.87-1.52,2.32-3.08,1.45L20.4,29.26a.4.4,0,0,1,0-.65L35.77,14.73c.7-.62-.15-.92-1.07-.36L15.41,26.54a.46.46,0,0,1-.4.05L6.82,24C5,23.47,5,22.22,7.23,21.33L40,8.69a2.16,2.16,0,0,1,.83-.21Z"/></svg></a>
+<!--
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2024&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.5)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.5">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.5" async></script>
+</body>
+</html>

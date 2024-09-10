@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Java polymorphism and its types - Major Digest</title>
+  <meta name="description" content="Polymorphism refers to the ability of some entities to occur in different forms. It is popularly represented by the butterfly, which morphs from larva to pupa to imago.">
+  <link rel="canonical" href="https://majordigest.com/tech/2024/08/20/java-101-polymorphism-in-java/">
+
+  <meta itemprop="name" content="Java polymorphism and its types - Major Digest">
+  <meta itemprop="description" content="Polymorphism refers to the ability of some entities to occur in different forms. It is popularly represented by the butterfly, which morphs from larva to pupa to imago.">
+  <link itemprop="url" href="https://majordigest.com/tech/2024/08/20/java-101-polymorphism-in-java/">
+  <meta itemprop="image" content="https://majordigest.com/static9/tech/2024/08/20/java-101-polymorphism-in-java.webp">
+
+  <meta property="og:title" content="Java polymorphism and its types - Major Digest">
+  <meta property="og:description" content="Polymorphism refers to the ability of some entities to occur in different forms. It is popularly represented by the butterfly, which morphs from larva to pupa to imago.">
+  <meta property="og:url" content="https://majordigest.com/tech/2024/08/20/java-101-polymorphism-in-java/">
+  <meta property="og:image" content="https://majordigest.com/static9/tech/2024/08/20/java-101-polymorphism-in-java.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Java polymorphism and its types - Major Digest">
+  <meta name="twitter:description" content="Polymorphism refers to the ability of some entities to occur in different forms. It is popularly represented by the butterfly, which morphs from larva to pupa to imago.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2024/08/20/java-101-polymorphism-in-java/">
+  <meta name="twitter:image" content="https://majordigest.com/static9/tech/2024/08/20/java-101-polymorphism-in-java.webp">
+  <meta name="twitter:image:alt" content="Java polymorphism and its types - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.5">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.5">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2024-08-21T04:35:14.927Z" itemprop="datePublished">Wednesday, August 21, 2024</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Java polymorphism and its types - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "Java polymorphism and its types"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Tue, 20 Aug 2024 08:30:00 +0000">
+  <meta itemprop="url" content="/tech/2024/08/20/java-101-polymorphism-in-java/">
+  <h2 itemprop="headline">Java polymorphism and its types</h2>
+  <div itemprop="articleBody">
+    <img src="/static9/tech/2024/08/20/java-101-polymorphism-in-java.webp" alt="Java polymorphism and its types" align="left" itemprop="image" width="400" height="225">
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+			<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+			
+
+<p><em>Polymorphism</em> refers to the ability of some entities to occur in different forms. It is popularly represented by the butterfly, which morphs from larva to pupa to imago. Polymorphism also exists in programming languages, as a modeling technique that allows you to create a single interface to various operands, arguments, and objects. In Java, polymorphism results in code that is more concise and easier to maintain.</p>
+
+<p>This tutorial provides an overview of the four types of Java polymorphism, but our focus is subtype polymorphism. You’ll learn about upcasting and late binding, abstract classes (which cannot be instantiated), and abstract methods (which cannot be called). You’ll also learn about downcasting and runtime-type identification, and you’ll get a first look at covariant return types.</p>
+
+<h3 id="what-youll-learn-in-this-java-tutorial">What you’ll learn in this Java tutorial</h3>
+<ul>
+<li>The four types of Java polymorphism</li>
+<li>About subtype polymorphism</li>
+<li>Examples with upcasting and late binding</li>
+<li>Examples with abstract classes and methods</li>
+<li>Examples with downcasting and runtime-type identification</li>
+<li>First look at covariant return types</li>
+</ul>
+
+<div class="download-asset asset-type-3 asset-format-1"><a class="download-icon" href="https://images.techhive.com/assets/2016/12/19/jw-java101-pij-src.zip"> <span class="ss-icon">download</span> </a>
+<div class="download-title">Get the code</div>
+<div class="download-desc">Download the source code for examples in this tutorial. <span class="download-source">Created by Jeff Friesen.</span></div>
+</div>
+
+<h3 id="the-four-types-of-polymorphism-in-java">The four types of polymorphism in Java</h3>
+<p>While this tutorial focuses on subtype polymorphism, there are several other types you should know about.</p>
+<ol>
+<li><strong>Coercion</strong> is an operation that serves multiple types through implicit-type conversion. For example, you divide an integer by another integer or a floating-point value by another floating-point value. If one operand is an integer and the other operand is a floating-point value, the compiler <em>coerces</em> (implicitly converts) the integer to a floating-point value to prevent a type error. (There is no division operation that supports an integer operand and a floating-point operand.) Another example is passing a subclass object reference to a method’s superclass parameter. The compiler coerces the subclass type to the superclass type to restrict operations to those of the superclass.</li>
+
+<li><strong>Overloading</strong> refers to using the same operator symbol or method name in different contexts. For example, you might use <code>+</code> to perform integer addition, floating-point addition, or string concatenation, depending on the types of its operands. Also, multiple methods having the same name can appear in a class (through declaration and/or inheritance).</li>
+
+<li><strong>Parametric</strong> polymorphism stipulates that within a class declaration, a field name can associate with different types and a method name can associate with different parameter and return types. The field and method can then take on different types in each class instance (object). For example, a field might be of type <code>Double</code> (a member of Java’s standard class library that wraps a <code>double</code> value) and a method might return a <code>Double</code> in one object, and the same field might be of type <code>String</code> and the same method might return a <code>String</code> in another object. Java supports parametric polymorphism via generics, which I’ll discuss in a future article.</li>
+
+<li><strong>Subtype</strong> means that a type can serve as another type’s subtype. When a subtype instance appears in a supertype context, executing a supertype operation on the subtype instance results in the subtype’s version of that operation executing. For example, consider a fragment of code that draws arbitrary shapes. You can express this drawing code more concisely by introducing a <code>Shape</code> class with a <code>draw()</code> method; by introducing <code>Circle</code>, <code>Rectangle</code>, and other subclasses that override <code>draw()</code>; by introducing an array of type <code>Shape</code> whose elements store references to <code>Shape</code> subclass instances; and by calling <code>Shape</code>‘s <code>draw()</code> method on each instance. When you call <code>draw()</code>, it’s the <code>Circle</code>‘s, <code>Rectangle</code>‘s or other <code>Shape</code> instance’s <code>draw()</code> method that gets called. We say that there are many forms of <code>Shape</code>‘s <code>draw()</code> method.</li>
+</ol>
+
+<aside class="sidebar large">
+<h3 id="ad-hoc-vs-universal-polymorphism">Ad-hoc vs. universal polymorphism</h3>
+<p>Like many developers, I classify coercion and overloading as ad-hoc polymorphism, and parametric and subtype as universal polymorphism. While valuable techniques, I don’t believe coercion and overloading are true polymorphism; they’re more like type conversions and syntactic sugar.</p>
+</aside>
+
+<h3 id="subtype-polymorphism-upcasting-and-late-binding">Subtype polymorphism: Upcasting and late binding</h3>
+<p>Subtype polymorphism relies on upcasting and late binding. <em>Upcasting</em> is a form of casting where you cast up the inheritance hierarchy from a subtype to a supertype. No cast operator is involved because the subtype is a specialization of the supertype. For example, <code>Shape s = new Circle();</code> upcasts from <code>Circle</code> to <code>Shape</code>. This makes sense because a circle is a kind of shape.</p>
+<p>After upcasting <code>Circle</code> to <code>Shape</code>, you cannot call <code>Circle</code>-specific methods, such as a <code>getRadius()</code> method that returns the circle’s radius, because <code>Circle</code>-specific methods are not part of <code>Shape</code>‘s interface. Losing access to subtype features after narrowing a subclass to its superclass seems pointless, but is necessary for achieving subtype polymorphism.</p>
+
+<p>Suppose that <code>Shape</code> declares a <code>draw()</code> method, its <code>Circle</code> subclass overrides this method, <code>Shape s = new Circle();</code> has just executed, and the next line specifies <code>s.draw();</code>. Which <code>draw()</code> method is called: <code>Shape</code>‘s <code>draw()</code> method or <code>Circle</code>‘s <code>draw()</code> method? The compiler doesn’t know which <code>draw()</code> method to call. All it can do is verify that a method exists in the superclass, and verify that the method call’s arguments list and return type match the superclass’s method declaration. However, the compiler also inserts an instruction into the compiled code that, at runtime, fetches and uses whatever reference is in <code>s</code> to call the correct <code>draw()</code> method. This task is known as <em>late binding</em>.</p>
+
+<aside class="sidebar large">
+<h3 id="late-binding-vs-early-binding">Late binding vs. early binding</h3>
+<p>Late binding is used for calls to non-<code>final</code> instance methods. For all other method calls, the compiler knows which method to call. It inserts an instruction into the compiled code that calls the method associated with the variable’s type and not its value. This technique is known as <em>early binding</em>.</p>
+</aside>
+
+<p>I’ve created an application that demonstrates subtype polymorphism in terms of upcasting and late binding. This application consists of <code>Shape</code>, <code>Circle</code>, <code>Rectangle</code>, and <code>Shapes</code> classes, where each class is stored in its own source file. Listing 1 presents the first three classes.</p>
+
+<h3 id="listing-1-declaring-a-hierarchy-of-shapes">Listing 1. Declaring a hierarchy of shapes</h3>
+<pre class="prettyprint"><code>class Shape
+{
+   void draw()
+   {
+   }
+}
+
+class Circle extends Shape
+{
+   private int x, y, r;
+
+   Circle(int x, int y, int r)
+   {
+      this.x = x;
+      this.y = y;
+      this.r = r;
+   }
+
+   // For brevity, I've omitted getX(), getY(), and getRadius() methods.
+
+   @Override
+   void draw()
+   {
+      System.out.println("Drawing circle (" + x + ", "+ y + ", " + r + ")");
+   }
+}
+
+class Rectangle extends Shape
+{
+   private int x, y, w, h;
+
+   Rectangle(int x, int y, int w, int h)
+   {
+      this.x = x;
+      this.y = y;
+      this.w = w;
+      this.h = h;
+   }
+
+   // For brevity, I've omitted getX(), getY(), getWidth(), and getHeight()
+   // methods.
+
+   @Override
+   void draw()
+   {
+      System.out.println("Drawing rectangle (" + x + ", "+ y + ", " + w + "," +
+                         h + ")");
+   }
+}</code></pre>
+<p>Listing 2 presents the <code>Shapes</code> application class whose <code>main()</code> method drives the application.</p>
+
+<h3 id="listing-2-upcasting-and-late-binding-in-subtype-polymorphism">Listing 2. Upcasting and late binding in subtype polymorphism</h3>
+<pre class="prettyprint"><code>class Shapes
+{
+   public static void main(String[] args)
+   {
+      Shape[] shapes = { new Circle(10, 20, 30),
+                         new Rectangle(20, 30, 40, 50) };
+      for (int i = 0; i < shapes.length; i++)
+         shapes[i].draw();
+   }
+}</code></pre>
+
+<p>The declaration of the <code>shapes</code> array demonstrates upcasting. The <code>Circle</code> and <code>Rectangle</code> references are stored in <code>shapes[0]</code> and <code>shapes[1]</code> and are upcast to type <code>Shape</code>. Each of <code>shapes[0]</code> and <code>shapes[1]</code> is regarded as a <code>Shape</code> instance: <code>shapes[0]</code> isn’t regarded as a <code>Circle</code>; <code>shapes[1]</code> isn’t regarded as a <code>Rectangle</code>.</p>
+<p>Late binding is demonstrated by the <code>shapes[i].draw();</code> expression. When <code>i</code> equals <code>0</code>, the compiler-generated instruction causes <code>Circle</code>‘s <code>draw()</code> method to be called. When <code>i</code> equals <code>1</code>, however, this instruction causes <code>Rectangle</code>‘s <code>draw()</code> method to be called. This is the essence of subtype polymorphism.</p>
+<p>Assuming that all four source files (<code>Shapes.java</code>, <code>Shape.java</code>, <code>Rectangle.java</code>, and <code>Circle.java</code>) are located in the current directory, compile them via either of the following command lines:</p>
+<pre class="prettyprint"><code>javac *.java
+javac Shapes.java</code></pre>
+<p>Run the resulting application:</p>
+<pre class="prettyprint"><code>java Shapes</code></pre>
+<p>You should observe the following output:</p>
+<pre class="prettyprint"><code>Drawing circle (10, 20, 30)
+Drawing rectangle (20, 30, 40, 50)</code></pre>
+<h3 id="abstract-classes-and-methods">Abstract classes and methods</h3>
+<p>When designing class hierarchies, you’ll find that classes nearer the top of these hierarchies are more generic than classes that are lower down. For example, a <code>Vehicle</code> superclass is more generic than a <code>Truck</code> subclass. Similarly, a <code>Shape</code> superclass is more generic than a <code>Circle</code> or a <code>Rectangle</code> subclass.</p>
+<p>It doesn’t make sense to instantiate a generic class. After all, what would a <code>Vehicle</code> object describe? Similarly, what kind of shape is represented by a <code>Shape</code> object? Rather than code an empty <code>draw()</code> method in <code>Shape</code>, we can prevent this method from being called and this class from being instantiated by declaring both entities to be abstract.</p>
+<p>Java provides the <code>abstract</code> reserved word to declare a class that cannot be instantiated. The compiler reports an error when you try to instantiate this class. <code>abstract</code> is also used to declare a method without a body. The <code>draw()</code> method doesn’t need a body because it is unable to draw an abstract shape. Listing 3 demonstrates.</p>
+<h3 id="listing-3-abstracting-the-shape-class-and-its-draw-method">Listing 3. Abstracting the Shape class and its draw() method</h3>
+<pre class="prettyprint"><code>abstract class Shape
+{
+   abstract void draw(); // semicolon is required
+}</code></pre>
+<aside class="sidebar large">
+<h3 id="abstract-cautions">Abstract cautions</h3>
+<p>The compiler reports an error when you attempt to declare a class <code>abstract</code> and <code>final</code>. For example, the compiler complains about <code>abstract final class Shape</code> because an abstract class cannot be instantiated and a final class cannot be extended. The compiler also reports an error when you declare a method <code>abstract</code> but don’t declare its class <code>abstract</code>. Removing <code>abstract</code> from the <code>Shape</code> class’s header in Listing 3 would result in an error, for instance. This would be an error because a non-abstract (concrete) class cannot be instantiated when it contains an abstract method. Finally, when you extend an abstract class, the extending class must override all of the abstract methods, or else the extending class must itself be declared to be abstract; otherwise, the compiler will report an error.</p>
+</aside>
+<p>An abstract class can declare fields, constructors, and non-abstract methods in addition to or instead of abstract methods. For example, an abstract <code>Vehicle</code> class might declare fields describing its make, model, and year. Also, it might declare a constructor to initialize these fields and concrete methods to return their values. Check out Listing 4.</p>
+<h3 id="listing-4-abstracting-a-vehicle">Listing 4. Abstracting a vehicle</h3>
+<pre class="prettyprint"><code>abstract class Vehicle
+{
+   private String make, model;
+   private int year;
+
+   Vehicle(String make, String model, int year)
+   {
+      this.make = make;
+      this.model = model;
+      this.year = year;
+   }
+
+   String getMake()
+   {
+      return make;
+   }
+
+   String getModel()
+   {
+      return model;
+   }
+
+   int getYear()
+   {
+      return year;
+   }
+
+   abstract void move();
+}</code></pre>
+<p>You’ll note that <code>Vehicle</code> declares an abstract <code>move()</code> method to describe the movement of a vehicle. For example, a car rolls down the road, a boat sails across the water, and a plane flies through the air. <code>Vehicle</code>‘s subclasses would override <code>move()</code> and provide an appropriate description. They would also inherit the methods and their constructors would call <code>Vehicle</code>‘s constructor.</p>
+<h3 id="downcasting-and-rtti">Downcasting and RTTI</h3>
+<p>Moving up the class hierarchy, via upcasting, entails losing access to subtype features. For example, assigning a <code>Circle</code> object to <code>Shape</code> variable <code>s</code> means that you cannot use <code>s</code> to call <code>Circle</code>‘s <code>getRadius()</code> method. However, it’s possible to once again access <code>Circle</code>‘s <code>getRadius()</code> method by performing an <em>explicit cast operation</em> like this one: <code>Circle c = (Circle) s;</code>.</p>
+<p>This assignment is known as <em>downcasting</em> because you are casting down the inheritance hierarchy from a supertype to a subtype (from the <code>Shape</code> superclass to the <code>Circle</code> subclass). Although an upcast is always safe (the superclass’s interface is a subset of the subclass’s interface), a downcast isn’t always safe. Listing 5 shows what kind of trouble could ensue if you use downcasting incorrectly.</p>
+<h3 id="listing-5-the-problem-with-downcasting">Listing 5. The problem with downcasting</h3>
+<pre class="prettyprint"><code>class Superclass
+{
+}
+
+class Subclass extends Superclass
+{
+   void method()
+   {
+   }
+}
+
+public class BadDowncast
+{
+   public static void main(String[] args)
+   {
+      Superclass superclass = new Superclass();
+      Subclass subclass = (Subclass) superclass;
+      subclass.method();
+   }
+}</code></pre>
+<p>Listing 5 presents a class hierarchy consisting of <code>Superclass</code> and <code>Subclass</code>, which extends <code>Superclass</code>. Furthermore, <code>Subclass</code> declares <code>method()</code>. A third class named <code>BadDowncast</code> provides a <code>main()</code> method that instantiates <code>Superclass</code>. <code>BadDowncast</code> then tries to downcast this object to <code>Subclass</code> and assign the result to variable <code>subclass</code>.</p>
+<p>In this case the compiler will not complain because downcasting from a superclass to a subclass in the same type hierarchy is legal. That said, if the assignment was allowed the application would crash when it tried to execute <code>subclass.method();</code>. In this case the JVM would be attempting to call a nonexistent method, because <code>Superclass</code> doesn’t declare <code>method()</code>. Fortunately, the JVM verifies that a cast is legal before performing a cast operation. Detecting that <code>Superclass</code> doesn’t declare <code>method()</code>, it would throw a <code>ClassCastException</code> object. (I’ll discuss exceptions in a future article.)</p>
+<p>Compile Listing 5 as follows:</p>
+<pre class="prettyprint"><code>javac BadDowncast.java</code></pre>
+<p>Run the resulting application:</p>
+<pre class="prettyprint"><code>java BadDowncast</code></pre>
+<p>You should observe the following output:</p>
+<pre class="prettyprint"><code>Exception in thread "main" java.lang.ClassCastException: class Superclass cannot be cast to class Subclass (Superclass and Subclass are in unnamed module of loader 'app')
+    at BadDowncast.main(BadDowncast.java:17)</code></pre>
+<h3 id="runtime-type-identification">Runtime type identification</h3>
+<p>The JVM’s cast verification in Listing 5 illustrates <em>runtime type identification</em> (or RTTI, for short). Cast verification performs RTTI by examining the type of the cast operator’s operand to see whether the cast should be allowed or not. In this scenario, the cast should not be allowed.</p>
+<p>Another form of RTTI involves the <code>instanceof</code> operator. This operator checks the left operand to see whether or not it’s an instance of the right operand and returns true when this is the case. The following example introduces <code>instanceof</code> to Listing 5, to prevent the <code>ClassCastException</code>:</p>
+<pre class="prettyprint"><code>if (superclass instanceof Subclass)
+{
+   Subclass subclass = (Subclass) superclass;
+   subclass.method();
+}</code></pre>
+<p>The <code>instanceof</code> operator detects that variable <code>superclass</code>‘s instance was not created from <code>Subclass</code> and returns false to indicate this fact. As a result, the code that performs the illegal cast will not execute.</p>
+<p>Because a subtype is a kind of supertype, <code>instanceof</code> will return true when its left operand is a subtype instance or a supertype instance of its right operand supertype. The following example demonstrates:</p>
+<pre class="prettyprint"><code>Superclass superclass = new Superclass();
+Subclass subclass = new Subclass();
+System.out.println(subclass instanceof Superclass); // Output: true
+System.out.println(superclass instanceof Superclass); // Output: true</code></pre>
+<p>This example assumes the class structure shown in Listing 5 and instantiates <code>Superclass</code> and <code>Subclass</code>. The first <code>System.out.println()</code> method call outputs <code>true</code> because <code>subclass</code>‘s reference identifies an instance of a subclass of <code>Superclass</code>; the second <code>System.out.println()</code> method call outputs <code>true</code> because <code>superclass</code>‘s reference identifies an instance of <code>Superclass</code>.</p>
+<aside class="sidebar large">
+<h3 id="dont-overuse-instanceof">Don’t overuse instanceof</h3>
+<p>Overusing the <code>instanceof</code> operator can indicate poor software design. For example, suppose you decide to use multiple <code>instanceof</code> expressions to determine whether a <code>shape</code> object is a <code>Square</code>, a <code>Circle</code>, or some other <code>Shape</code> subtype. When you introduce a new <code>Shape</code> subtype, you might forget to include an <code>instanceof</code> test to see if <code>shape</code> is an instance of that type, which would lead to a bug. Minimize your reliance on <code>instanceof</code> to special cases. Most of the time, you’ll be better off using subtype polymorphism.</p>
+</aside>
+<h3 id="covariant-return-types">Covariant return types</h3>
+<p>A <em>covariant return type</em> is a method return type that, in the superclass’s method declaration, is the supertype of the return type in the subclass’s overriding method declaration. I’ve created a small application that demonstrates this language feature. Check out Listing 6 for the source code.</p>
+<h3 id="listing-6-demonstrating-covariant-return-types">Listing 6. Demonstrating covariant return types</h3>
+<pre class="prettyprint"><code>class BaseReturnType
+{
+   @Override
+   public String toString()
+   {
+      return "base class return type";
+   }
+}
+
+class DerivedReturnType extends BaseReturnType
+{
+   @Override
+   public String toString()
+   {
+      return "derived class return type";
+   }
+}
+
+class BaseClass
+{
+   BaseReturnType createReturnType()
+   {
+      return new BaseReturnType();
+   }
+}
+
+class DerivedClass extends BaseClass
+{
+   @Override
+   <strong>DerivedReturnType</strong> createReturnType()
+   {
+      return new <strong>DerivedReturnType</strong>();
+   }
+}
+
+public class CRTDemo
+{
+   public static void main(String[] args)
+   {
+      BaseReturnType brt = new BaseClass().createReturnType();
+      System.out.println(brt);
+      <strong>DerivedReturnType drt = new DerivedClass().createReturnType();</strong>
+      System.out.println(drt);
+   }
+}</code></pre>
+<p>Listing 6 declares <code>BaseReturnType</code> and <code>BaseClass</code> superclasses and <code>DerivedReturnType</code> and <code>DerivedClass</code> subclasses. Each of <code>BaseClass</code> and <code>DerivedClass</code> declares a <code>createReturnType()</code> method. <code>BaseClass</code>‘s method has its return type set to <code>BaseReturnType</code>, whereas <code>DerivedClass</code>‘s overriding method has its return type set to <code>DerivedReturnType</code>, a subclass of <code>BaseReturnType</code>.</p>
+<p>Covariant return types minimize upcasting and downcasting. For example, <code>DerivedClass</code>‘s <code>createReturnType()</code> method doesn’t need to upcast its <code>DerivedReturnType</code> instance to its <code>DerivedReturnType</code> return type. Furthermore, this instance doesn’t need to be downcast to <code>DerivedReturnType</code> when assigning to variable <code>drt</code>.</p>
+<p>Compile Listing 6 as follows:</p>
+<pre class="prettyprint"><code>javac CRTDemo.java</code></pre>
+<p>Run the resulting application:</p>
+<pre class="prettyprint"><code>java CRTDemo</code></pre>
+<p>You should observe the following output:</p>
+<pre class="prettyprint"><code>base class return type
+derived class return type</code></pre>
+<p>In the absence of covariant return types, you would end up with Listing 7.</p>
+<h3 id="listing-7-demonstrating-the-absence-of-covariant-return-types">Listing 7. Demonstrating the absence of covariant return types</h3>
+<pre class="prettyprint"><code>class BaseReturnType
+{
+   @Override
+   public String toString()
+   {
+      return "base class return type";
+   }
+}
+
+class DerivedReturnType extends BaseReturnType
+{
+   @Override
+   public String toString()
+   {
+      return "derived class return type";
+   }
+}
+
+class BaseClass
+{
+   BaseReturnType createReturnType()
+   {
+      return new BaseReturnType();
+   }
+}
+
+class DerivedClass extends BaseClass
+{
+   @Override
+   <strong>BaseReturnType</strong> createReturnType()
+   {
+      return new <strong>DerivedReturnType</strong>();
+   }
+}
+
+public class CRTDemo
+{
+   public static void main(String[] args)
+   {
+      BaseReturnType brt = new BaseClass().createReturnType();
+      System.out.println(brt);
+      DerivedReturnType drt =
+         <strong>(DerivedReturnType)</strong> new DerivedClass().createReturnType();
+      System.out.println(drt);
+   }
+}</code></pre>
+<p>In Listing 7, the first bolded code reveals an upcast from <code>DerivedReturnType</code> to <code>BaseReturnType</code>, and the second bolded code uses the required <code>(DerivedReturnType)</code> cast operator to downcast from <code>BaseReturnType</code> to <code>DerivedReturnType</code> before the assignment to <code>drt</code>.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Polymorphism lets you program in the abstract by creating uniform interfaces to different kinds of operands, arguments, and objects. In this article, you discovered subtype polymorphism, in which a type can serve as another type’s subtype. You also learned that subtype polymorphism relies on upcasting and late binding; that classes that describe these uniform interfaces are declared <code>abstract</code> and can contain abstract methods; that downcasting relies on the cast operator and can result in <code>ClassCastException</code>s (which is why you can verify the target type via the <code>instanceof</code> operator—a form of RTTI); and that covariant return types minimize upcasting and downcasting in a method return type context.</p>
+
+
+</div></div></div></div>
+  </div>
+  <p>
+    Source:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/2244198/java-101-polymorphism-in-java.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Tue, 20 Aug 2024 08:30:00 +0000</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+<!--
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2024&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.5)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.5">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.5" async></script>
+</body>
+</html>

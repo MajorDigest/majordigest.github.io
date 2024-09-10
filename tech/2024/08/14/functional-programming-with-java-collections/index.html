@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Functional programming with Java collections - Major Digest</title>
+  <meta name="description" content="Java’s collections like arrays and lists are foundational building blocks. Functional programming techniques are at times the ideal way to work with these collections.">
+  <link rel="canonical" href="https://majordigest.com/tech/2024/08/14/functional-programming-with-java-collections/">
+
+  <meta itemprop="name" content="Functional programming with Java collections - Major Digest">
+  <meta itemprop="description" content="Java’s collections like arrays and lists are foundational building blocks. Functional programming techniques are at times the ideal way to work with these collections.">
+  <link itemprop="url" href="https://majordigest.com/tech/2024/08/14/functional-programming-with-java-collections/">
+  <meta itemprop="image" content="https://majordigest.com/static9/tech/2024/08/14/functional-programming-with-java-collections.webp">
+
+  <meta property="og:title" content="Functional programming with Java collections - Major Digest">
+  <meta property="og:description" content="Java’s collections like arrays and lists are foundational building blocks. Functional programming techniques are at times the ideal way to work with these collections.">
+  <meta property="og:url" content="https://majordigest.com/tech/2024/08/14/functional-programming-with-java-collections/">
+  <meta property="og:image" content="https://majordigest.com/static9/tech/2024/08/14/functional-programming-with-java-collections.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Functional programming with Java collections - Major Digest">
+  <meta name="twitter:description" content="Java’s collections like arrays and lists are foundational building blocks. Functional programming techniques are at times the ideal way to work with these collections.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2024/08/14/functional-programming-with-java-collections/">
+  <meta name="twitter:image" content="https://majordigest.com/static9/tech/2024/08/14/functional-programming-with-java-collections.webp">
+  <meta name="twitter:image:alt" content="Functional programming with Java collections - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.5">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.5">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2024-08-14T13:35:15.523Z" itemprop="datePublished">Wednesday, August 14, 2024</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Functional programming with Java collections - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Wed, 14 Aug 2024 09:00:00 +0000">
+  <meta itemprop="url" content="/tech/2024/08/14/functional-programming-with-java-collections/">
+  <h2 itemprop="headline">Functional programming with Java collections</h2>
+  <div itemprop="articleBody">
+    <img src="/static9/tech/2024/08/14/functional-programming-with-java-collections.webp" alt="Functional programming with Java collections" align="left"
+         itemprop="image" width="400" height="225"
+         referrerpolicy="no-referrer">
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Java’s collections like arrays and lists are foundational building blocks. Functional programming techniques are at times the ideal way to work with these collections. This article gives a tour of some of the most essential functional programming operations in Java collections, using the built-in lambda features of Java 8 and later.</p>
+
+
+
+<h3 class="wp-block-heading" id="imperative-vs-functional-collections">Imperative vs. functional collections</h3>
+
+
+
+<p>There are many ways to do anything in Java, and there is no conclusive right way. Often, the right way is simply the way you know best. Imperative loops like the for loop are the most basic way to do something with the elements of a collection, and they have in their favor a utilitarian handiness. However, functional operations often can do the same thing with a cleaner and more obvious syntax.</p>
+
+
+
+<p>There’s never any shame in using an imperative loop—sometimes it’s the only way!—but there’s always delight in arriving at a bit-sized functional expression that does just the thing you need. The developers who read and maintain the code will appreciate the improved ability to look at and divine the purpose of the code within the larger context.</p>
+
+
+
+<h3 class="wp-block-heading" id="streams-and-lambdas-in-java">Streams and lambdas in Java</h3>
+
+
+
+<p>One of the great evolutions in Java was the introduction of streams and lambdas in Java 8. These are the features that allow Java programmers to apply functional style to collections:</p>
+
+
+
+<ul>
+<li>Streams: Turns a collection into a flow of elements, to which can be applied functions.</li>
+
+
+
+<li>Lambdas: Allows for defining first-class functions (outside of a class) that can consume the elements provided by a stream.</li>
+</ul>
+
+
+
+<p><aside class="sidebar large">
+<h3 id="virtual-threads">Virtual threads</h3>
+<p>For another great leap in Java, have a look at Virtual Threads.</p>
+</aside></p>
+
+
+
+
+<h3 class="wp-block-heading" id="sort">Sort </h3>
+
+
+
+<p>One of the most common needs with collections is sorting. Java has long had a built-in <a href="https://docs.oracle.com/javase%2F8%2Fdocs%2Fapi%2F%2F/java/util/Arrays.html"><code>Arrays.sort</code></a> method, and <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html"><code>Collections.sort</code></a> allows for sorting by natural order or using a custom comparator. However, these approaches are destructive, meaning they modify the original collection.</p>
+
+
+
+<p>Using a functional approach lets us sort into a new collection, which honors immutability and lets us chain together operations. We could sort a list of names like so:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+List<String> names = new ArrayList();
+names.add("Lao Tzu");
+names.add("Paramahansa Yogananda");
+names.add("Rudolph Steiner");
+System.out.println("\nOriginal List: " + names);
+names.stream().sorted((a, b) -> b.compareTo(a)) // creates a sorted stream
+</code>
+</pre>
+
+
+
+
+
+<p>We use the standard <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html"><code>compareTo()</code></a> method (which in the case of <code>String</code> does a simple alphanumeric comparison) to sort the elements. The statement <code>(a, b) -> b.compareTo(a)</code> creates a function that accepts two arguments, and then compares them, returning true or false based on that comparison. The <code>sorted()</code> method on the stream uses that return value to move through the stream, ordering the elements.</p>
+
+
+
+<p>Notice that this creates a sorted stream of the elements in the list—an event-based channel of the events, not a collection. This makes for a very efficient, composable pipeline that we can do almost anything with. For example, if our goal is to just output the sorted list to the console, we could chain the stream from <code>sorted()</code> to <code>forEach()</code> and print it like so:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+List<String> sortedNames = names.stream().sorted((a, b) -> b.compareTo(a)).forEach(System.out::println);
+</code>
+</pre>
+
+
+
+
+
+<h3 class="wp-block-heading" id="foreach">forEach</h3>
+
+
+
+<p>The <code>forEach()</code> function does just what its name says, letting you pass in a function to do something with each element. It’s important to note that <code>forEach</code> is a “terminal operation.” That is because it doesn’t return the stream for further chaining. Rather, it performs its operation (in our case, printing the element to the console) and then it’s finished. This contrasts with the <code>map</code> function you’ll see in a moment, which does something to each element but also returns the stream.</p>
+
+
+
+<p>We use the method reference operator (the double colon) to refer to the <code>System.out::println()</code> function. This lets us supply that operation to <code>forEach</code>, resulting in each element being printed to the console.</p>
+
+
+
+<h3 class="wp-block-heading" id="turn-a-stream-back-into-a-collection-with-a-collector">Turn a stream back into a collection with a Collector</h3>
+
+
+
+<p>Now, if what we want is to get a new <code>List</code> back out, we can use a <code>Collector</code>:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+List<String> sortedNames = names.stream()
+     .sorted((a, b) -> b.compareTo(a))
+     .collect(Collectors.toList());
+</code>
+</pre>
+
+
+
+
+
+<p>Like the <code>forEach</code> example, this is another simple example of functional composition, or chaining. The <code>.sorted()</code> method is chained to <code>.collect()</code>, creating a larger and more complex operation out of atomic functions. (Like <code>forEach</code>, <code>collect</code> is a terminal operation.)</p>
+
+
+
+<p>Now, let’s say we wanted to sort the name by last name. We could implement this with a more customized method for collect:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+// a fancier sort operation
+List<String> lastNames = names.stream()
+      .sorted((name1, name2) -> {
+        String[] parts1 = name1.split(" ");
+        String lastName1 = parts1[parts1.length - 1];
+        String[] parts2 = name2.split(" ");
+        String lastName2 = parts2[parts2.length - 1];
+        return lastName2.compareTo(lastName1);
+    })
+</code>
+</pre>
+
+
+
+
+
+<h3 class="wp-block-heading" id="map">Map</h3>
+
+
+
+<p>How about turning this into a stream that holds only the last names:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+names.stream()
+      .sorted((name1, name2) -> {
+        String[] parts1 = name1.split(" ");
+        String lastName1 = parts1[parts1.length - 1];
+        String[] parts2 = name2.split(" ");
+        String lastName2 = parts2[parts2.length - 1];
+        return lastName2.compareTo(lastName1);
+    })
+    .map(name -> {  // keep only last names
+      String[] parts = name.split(" ");
+      return parts[parts.length - 1];
+    })
+    .forEach(System.out::println);
+</code>
+</pre>
+
+
+
+
+
+<p>Here we output the sorted last names. The <code>map()</code> method is used to apply a transformation to the elements. Each element is accepted as the argument name, then the return value of the string (modified to hold only the last name) is returned. The <code>map</code> will assign that return value to each element.</p>
+
+
+
+<p><code>map</code> lets you “map” each element from one thing (the argument) to another (the return value). You’ll remember that <code>forEach</code> and <code>collect</code> are terminal operations. The <code>map</code> function is not. Like <code>sort</code>, it is an “intermediate operation.”</p>
+
+
+
+<h3 class="wp-block-heading" id="filter">Filter</h3>
+
+
+
+<p>Let’s continue our manipulation of the stream by keeping only the last names with five or more characters:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+names.stream()
+      .sorted((name1, name2) -> {
+      String[] parts1 = name1.split(" ");
+      String lastName1 = parts1[parts1.length - 1];
+      String[] parts2 = name2.split(" ");
+      String lastName2 = parts2[parts2.length - 1];
+      return lastName2.compareTo(lastName1);
+    })
+    .map(name -> {
+      String[] parts = name.split(" ");
+      return parts[parts.length - 1];
+    })
+    .filter(lastName -> lastName.length() >= 5)
+    .forEach(System.out::println);
+</code>
+</pre>
+
+
+
+
+
+<p>Here we have added the <code>filter()</code> method, another intermediate operation, to our chain. This example uses a simple lambda expression that accepts a single argument and uses it to return true if the length of the string is greater than five. The result is the steam now contains just the two last names with more than five characters.</p>
+
+
+
+<h3 class="wp-block-heading" id="reduce">Reduce</h3>
+
+
+
+<p>Now let’s consider another terminal operation, <code>reduce()</code>. This lets us take the entire stream and output a scalar (single) value. For this example, let’s reduce the stream to a single string with the names joined by commas, which we could handle like so:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+String output = names.stream()
+      .sorted((name1, name2) -> {
+      String[] parts1 = name1.split(" ");
+      String lastName1 = parts1[parts1.length - 1];
+      String[] parts2 = name2.split(" ");
+      String lastName2 = parts2[parts2.length - 1];
+      return lastName2.compareTo(lastName1);
+    })
+    .map(name -> {
+      String[] parts = name.split(" ");
+      return parts[parts.length - 1];
+    })
+    .filter(lastName -> lastName.length() >= 5)
+    .reduce("", (accumulator, element) -> accumulator + element + ", ");
+
+    System.out.println("result: " + output);
+</code>
+</pre>
+
+
+
+
+
+<p>This will concatenate all the strings together, joined by a comma. (We’ll have a trailing comma that we could drop off the end.)</p>
+
+
+
+<p><code>reduce</code> gives us an interesting look at a slightly more advanced area of streams. Consider if you wanted to count the string characters and return an integer value. How could you do that? The return value of <code>reduce</code> would want to be an integer, but the <code>accumulator</code> and <code>element</code> args are strings. I’ll leave that for an exercise, with this Stack Overflow question as one lead, and my introduction to Java stream gatherers as another.</p>
+
+
+
+<h3 class="wp-block-heading" id="reusing-operations">Reusing operations</h3>
+
+
+
+<p>We’ve had a pretty good look at the way it feels to use and compose some of the most important Java functional operations. Another important facet is code reuse. Say you needed to use that fancy string sorter in several places. In Java, we could create a functional interface to share that operation:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+  static class LastNameComparator implements java.util.Comparator<string> {
+    @Override
+    public int compare(String name1, String name2) {
+      String[] parts1 = name1.split(" ");
+      String lastName1 = parts1[parts1.length - 1];
+      String[] parts2 = name2.split(" ");
+      String lastName2 = parts2[parts2.length - 1];
+      return lastName2.compareTo(lastName1);
+    }
+  }
+
+names.stream().sorted(new LastNameComparator()).forEach(System.out::println);
+</string></code>
+</pre>
+
+
+
+
+
+<p>Now we can use the <code>LastNameComparator</code> in whatever streams we need. Similar abstraction can be used for other functional operations.</p>
+
+
+
+<h3 class="wp-block-heading" id="other-collections">Other collections</h3>
+
+
+
+<p>We’ve been working with <code>ArrayList</code> so far. An array can be converted into a stream, just like <code>ArrayList</code>, like so:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+Arrays.stream(array)
+</code>
+</pre>
+
+
+
+
+
+<p>And then the same operations can be used on the stream just like we’ve seen before. Other collections like sets and maps can also be readily turned into streams with the <code>stream()</code> method. Streams are good ways to transform from one collection to another. Sometimes the underlying implementation has implications for stream operators, however. For example, <code>HashSet</code> and <code>HashMap</code> do not maintain order and therefore using <code>sort()</code> on them doesn’t make sense.</p>
+
+
+
+<p>Streams and lambdas are an incredibly useful way to work with Java’s collections. Functional programming is in general a great addition to the overall range of tools available to us in building applications of all kinds.</p>
+</div></div></div></div>
+  </div>
+  <p>
+    Source:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/3481596/functional-programming-with-java-collections.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Wed, 14 Aug 2024 09:00:00 +0000</span>
+  </p>
+</div></main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+    </span>
+    © 2024&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.5)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.5">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.5" async></script>
+</body>
+</html>

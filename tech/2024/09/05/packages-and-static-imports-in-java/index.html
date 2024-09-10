@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en"
+  prefix="og: https://ogp.me/ns#">
+
+<head>
+  <meta charset="utf-8">
+  <title>Packages and static imports in Java - Major Digest</title>
+  <meta name="description" content="In a previous Java 101 tutorial, you learned how to better organize your code by declaring reference types (also known as classes and interfaces) as members of other reference types and blocks.">
+  <link rel="canonical" href="https://majordigest.com/tech/2024/09/05/packages-and-static-imports-in-java/">
+
+  <meta itemprop="name" content="Packages and static imports in Java - Major Digest">
+  <meta itemprop="description" content="In a previous Java 101 tutorial, you learned how to better organize your code by declaring reference types (also known as classes and interfaces) as members of other reference types and blocks.">
+  <link itemprop="url" href="https://majordigest.com/tech/2024/09/05/packages-and-static-imports-in-java/">
+  <meta itemprop="image" content="https://majordigest.com/static9/tech/2024/09/05/packages-and-static-imports-in-java.webp">
+
+  <meta property="og:title" content="Packages and static imports in Java - Major Digest">
+  <meta property="og:description" content="In a previous Java 101 tutorial, you learned how to better organize your code by declaring reference types (also known as classes and interfaces) as members of other reference types and blocks.">
+  <meta property="og:url" content="https://majordigest.com/tech/2024/09/05/packages-and-static-imports-in-java/">
+  <meta property="og:image" content="https://majordigest.com/static9/tech/2024/09/05/packages-and-static-imports-in-java.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Packages and static imports in Java - Major Digest">
+  <meta name="twitter:description" content="In a previous Java 101 tutorial, you learned how to better organize your code by declaring reference types (also known as classes and interfaces) as members of other reference types and blocks.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2024/09/05/packages-and-static-imports-in-java/">
+  <meta name="twitter:image" content="https://majordigest.com/static9/tech/2024/09/05/packages-and-static-imports-in-java.webp">
+  <meta name="twitter:image:alt" content="Packages and static imports in Java - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.5">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.5">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2024-09-05T12:35:16.978Z" itemprop="datePublished">Thursday, September 5, 2024</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Packages and static imports in Java - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "Packages and static imports in Java - Major Digest"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Thu, 05 Sep 2024 09:00:00 GMT">
+  <meta itemprop="url" content="/tech/2024/09/05/packages-and-static-imports-in-java/">
+  <h2 itemprop="headline">Packages and static imports in Java</h2>
+  <div itemprop="articleBody">
+    <img src="/static9/tech/2024/09/05/packages-and-static-imports-in-java.webp" alt="Packages and static imports in Java" align="left" itemprop="image" width="400" height="225">
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+			<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+			
+			
+			<p>In a previous <strong>Java 101</strong> tutorial, you learned how to better organize your code by declaring reference types (also known as classes and interfaces) as members of other reference types and blocks. I also showed you how to use nesting to avoid name conflicts between nested reference types and top-level reference types that share the same name.</p>
+			
+<p>Along with nesting, Java uses packages to resolve same-name issues in top-level reference types. Using static imports also simplifies access to the static members in packaged top-level reference types. Static imports will save you keystrokes when accessing these members in your code, but there are a few things to watch out for when you use them. In this tutorial, I will introduce you to using packages and static imports in your Java programs.</p>
+
+<div id="202889" class="download-asset asset-type-3 asset-format-1"><a class="download-icon" href="https://images.idgesg.net/assets/2020/05/jw-j101-static20imports-src.zip" rel="nofollow"> <span class="ss-icon">download </span></a>
+<div class="download-title">Get the code</div>
+<div class="download-desc">Download the source code for examples in this Java tutorial. <span class="download-source">Created by Jeff Friesen.</span></div>
+</div>
+
+<h3 id="what-youll-learn-in-this-java-tutorial">What you’ll learn in this Java tutorial</h3>
+<ul>
+<li>What are packages in Java?</li>
+<li>Using the package statement</li>
+<li>Using the import statement</li>
+<li>Packages on the Java classpath</li>
+<li>All about static imports</li>
+</ul>
+
+<p>There’s a lot more to discuss and learn about packages, and I’ll have a lot of example for you to explore.</p>
+
+<h3 id="packaging-reference-types">Packaging reference types</h3>
+<p>Java developers group related classes and interfaces into packages. Using packages makes it easier to locate and use reference types, avoid name conflicts between same-named types, and control access to types.</p>
+
+<p>In this section, you’ll learn about packages. You’ll find out what packages are, learn about the <code>package</code> and <code>import</code> statements, and explore the additional topics of protected access, JAR files, and type searches.</p>
+
+<h3 id="what-are-packages-in-java">What are packages in Java?</h3>
+<p>In software development, we commonly organize items according to their hierarchical relationships. For example, in the previous tutorial, I showed you how to declare classes as members of other classes. We can also use file systems to nest directories in other directories.</p>
+
+<p>Using these hierarchical structures will help you avoid name conflicts. For example, in a non-hierarchical file system (a single directory), it’s not possible to assign the same name to multiple files. In contrast, a hierarchical file system lets same-named files exist in different directories. Similarly, two enclosing classes can contain same-named nested classes. Name conflicts don’t exist because items are partitioned into different namespaces.</p>
+
+<p>Java also allows us to partition top-level (non-nested) reference types into multiple namespaces so that we can better organize these types and to prevent name conflicts. In Java, we use the package language feature to partition top-level reference types into multiple namespaces.  In this case, a <em>package</em> is a unique namespace for storing reference types. Packages can store classes and interfaces, as well as <em>subpackages,</em> which are packages nested within other packages.</p>
+
+<p>A package has a name, which must be a non-reserved identifier; for example, <code>java</code>. The member access operator (<code>.</code>) separates a package name from a subpackage name and separates a package or subpackage name from a type name. For example, the two-member access operators in <code>java.lang.System</code> separate package name <code>java</code> from the <code>lang</code> subpackage name and separate subpackage name <code>lang</code> from the <code>System</code> type name.</p>
+
+<p>Reference types must be declared <code>public</code> to be accessible from outside their packages. The same applies to any constants, constructors, methods, or nested types that must be accessible. You’ll see examples of these later in the tutorial.</p>
+
+<h3 class="body" id="the-package-statement">The package statement</h3>
+<p>In Java, we use the <em>package statement</em> to create a package. This statement appears at the top of a source file and identifies the package to which the source file types belong. It must conform to the following syntax:</p>
+
+<pre class="prettyprint"><code>
+package <em>identifier</em>[.<em>identifier</em>]*;
+</code></pre>
+
+<p>A package statement starts with the reserved word <code>package</code> and continues with an identifier, which is optionally followed by a period-separated sequence of identifiers. A semicolon (<code>;</code>) terminates this statement.</p>
+
+<p>The first (left-most) identifier names the package, and each subsequent identifier names a subpackage. For example, in <code>package a.b;</code>, all types declared in the source file belong to the <code>b</code> subpackage of the <code>a</code> package.</p>
+
+<aside class="sidebar large">
+<h3 id="package-subpackage-naming-convention">Package/subpackage naming convention</h3>
+<p>By convention, we express a package or subpackage name in lowercase. When the name consists of multiple words, you might want to capitalize each word except for the first; for example, <code>generalLedger</code>.</p>
+</aside>
+
+<p>A sequence of package names must be unique to avoid compilation problems. For example, suppose you create two different <code>graphics</code> packages, and assume that each <code>graphics</code> package contains a <code>Triangle</code> class with a different interface. When the Java compiler encounters something like what’s below, it needs to verify that the <code>Triangle(int, int, int, int)</code> constructor exists:</p>
+
+<pre class="prettyprint"><code>
+Triangle
+      t = new Triangle(1, 20, 30, 40);
+</code></pre>
+
+<aside class="sidebar large">
+<h3 id="triangle-bounding-box">Triangle bounding box</h3>
+<p>Think of the <code>Triangle</code> constructor as specifying a bounding box in which to draw the triangle. The first two parameters identify the box’s upper-left corner, and the second two parameters define the box’s extents.</p>
+</aside>
+
+<p>The compiler will search all accessible packages until it finds a <code>graphics</code> package that contains a <code>Triangle</code> class. If the found package includes the appropriate <code>Triangle</code> class with a <code>Triangle(int, int, int, int)</code> constructor, everything is fine. Otherwise, if the found <code>Triangle</code> class doesn’t have a <code>Triangle(int, int, int, int)</code> constructor, the compiler reports an error. (I’ll say more about the search algorithm later in this tutorial.)</p>
+<p>This scenario illustrates the importance of choosing unique package name sequences. The convention in selecting a unique name sequence is to reverse your Internet domain name and use it as a prefix for the sequence. For example, I would choose <code>ca.javajeff</code> as my prefix because <code>javajeff.ca</code> is my domain name. I would then specify <code>ca.javajeff.graphics.Triangle</code> to access <code>Triangle</code>.</p>
+<aside class="sidebar large">
+<h3 id="domain-name-components-and-valid-package-names">Domain name components and valid package names</h3>
+<p>Domain name components are not always valid package names. One or more component names might start with a digit (<code>3D.com</code>), contain a hyphen (<code>-</code>) or another illegal character (<code>ab-z.com</code>), or be one of Java’s reserved words (<code>short.com</code>). Convention dictates that you prefix the digit with an underscore (<code>com._3D</code>), replace the illegal character with an underscore (<code>com.ab_z</code>), and suffix the reserved word with an underscore (<code>com.short_</code>).</p>
+</aside>
+<p>You need to follow a couple of rules to avoid additional problems with the package statement: </p>
+<ol>
+<li>You can declare only one package statement in a source file.</li>
+<li>You cannot precede the package statement with anything apart from comments.</li>
+</ol>
+<p>The first rule, which is a special case of the second rule, exists because it doesn’t make sense to store a reference type in multiple packages. Although a package can store multiple types, a type can belong to only one package.</p>
+<p>When a source file doesn’t declare a package statement, the source file’s types are said to belong to the <em>unnamed package</em>. Non-trivial reference types are typically stored in their own packages and avoid the unnamed package.</p>
+<p>Java implementations map package and subpackage names to same-named directories. For example, an implementation would map <code>graphics</code> to a directory named <code>graphics</code>. In the case of the package <code>a.b</code>, the first letter, <em>a</em> would map to a directory named <code>a</code> and <em>b</em> would map to a <code>b</code> subdirectory of <code>a</code>. The compiler stores the class files that implement the package’s types in the corresponding directory. Note that the unnamed package corresponds to the current directory.</p>
+<h3 id="example-packaging-an-audio-library-in-java">Example: Packaging an audio library in Java</h3>
+<p>A practical example is helpful for fully grasping the <code>package</code> statement. In this section I demonstrate packages in the context of an audio library that lets you read audio files and obtain audio data. For brevity, I’ll only present a skeletal version of the library.</p>
+<p>The audio library currently consists of only two classes: <code>Audio</code> and <code>WavReader</code>. <code>Audio</code> describes an audio clip and is the library’s main class. Listing 1 presents its source code.</p>
+<h3 id="listing-1-package-statement-example-audio-java">Listing 1. Package statement example (Audio.java)</h3>
+<pre class="prettyprint"><code>
+package ca.javajeff.audio;
+
+public final class Audio
+{
+   private int[] samples;
+   private int sampleRate;
+
+   Audio(int[] samples, int sampleRate)
+   {
+      this.samples = samples;
+      this.sampleRate = sampleRate;
+   }
+
+   public int[] getSamples()
+   {
+      return samples;
+   }
+
+   public int getSampleRate()
+   {
+      return sampleRate;
+   }
+
+   public static Audio newAudio(String filename)
+   {
+      if (filename.toLowerCase().endsWith(".wav"))
+         return WavReader.read(filename);
+      else
+         return null; // unsupported format
+   }
+}
+</code></pre>
+<p>Let’s go through Listing 1 step by step.</p>
+<ul>
+<li>The <code>Audio.java</code> file in Listing 1 stores the <code>Audio</code> class. This listing begins with a package statement that identifies <code>ca.javajeff.audio</code> as the class’s package.</li>
+<li><code>Audio</code> is declared <code>public</code> so that it can be referenced from outside of its package. Also, it’s declared <code>final</code> so that it cannot be extended (meaning, subclassed).</li>
+<li><code>Audio</code> declares <code>private</code> <code>samples</code> and <code>sampleRate</code> fields to store audio data. These fields are initialized to the values passed to <code>Audio</code>‘s constructor.</li>
+<li><code>Audio</code>‘s constructor is declared <em>package-private</em> (meaning, the constructor isn’t declared <code>public</code>, <code>private</code>, or <code>protected</code>) so that this class cannot be instantiated from outside of its package.</li>
+<li><code>Audio</code> presents <code>getSamples()</code> and <code>getSampleRate()</code> methods for returning an audio clip’s samples and sample rate. Each method is declared <code>public</code> so that it can be called from outside of <code>Audio</code>‘s package.</li>
+<li><code>Audio</code> concludes with a <code>public</code> and <code>static</code> <code>newAudio()</code> factory method for returning an <code>Audio</code> object corresponding to the <code>filename</code> argument. If the audio clip cannot be obtained, <code>null</code> is returned.</li>
+<li><code>newAudio()</code> compares <code>filename</code>‘s extension with <code>.wav</code> (this example only supports WAV audio). If they match, it executes <code>return WavReader.read(filename)</code> to return an <code>Audio</code> object with WAV-based audio data.</li>
+</ul>
+<p>Listing 2 describes <code>WavReader</code>.</p>
+<h3 id="listing-2-the-wavreader-helper-class-wavreader-java">Listing 2.  The WavReader helper class (WavReader.java)</h3>
+<pre class="prettyprint"><code>
+package ca.javajeff.audio;
+
+final class WavReader
+{
+   static Audio read(String filename)
+   {
+      // Read the contents of filename's file and process it
+      // into an array of sample values and a sample rate
+      // value. If the file cannot be read, return null. For
+      // brevity (and because I've yet to discuss Java's
+      // file I/O APIs), I present only skeletal code that
+      // always returns an Audio object with default values.
+
+      return new Audio(new int[0], 0);
+   }
+}
+</code></pre>
+<p><code>WavReader</code> is intended to read a WAV file’s contents into an <code>Audio</code> object. (The class will eventually be larger with additional <code>private</code> fields and methods.) Notice that this class isn’t declared <code>public</code>, which makes <code>WavReader</code> accessible to <code>Audio</code> but not to code outside of the <code>ca.javajeff.audio</code> package. Think of <code>WavReader</code> as a helper class whose only reason for existence is to serve <code>Audio</code>.</p>
+<p>Complete the following steps to build this library:</p>
+<ol>
+<li>Select a suitable location in your file system as the current directory.</li>
+<li>Create a <code>ca/javajeff/audio</code> subdirectory hierarchy within the current directory.</li>
+<li>Copy Listings 1 and 2 to files <code>Audio.java</code> and <code>WavReader.java</code>, respectively; and store these files in the <code>audio</code> subdirectory.</li>
+<li>Assuming that the current directory contains the <code>ca</code> subdirectory, execute <code>javac
+
+          ca/javajeff/audio/*.java</code> to compile the two source files in <code>ca/javajeff/audio</code>. If all goes well, you should discover <code>Audio.class</code> and <code>WavReader.class</code> files in the <code>audio</code> subdirectory. (Alternatively, for this example, you could switch to the <code>audio</code> subdirectory and execute <code>javac *.java</code>.)</li>
+</ol>
+<p>Now that you’ve created the audio library, you’ll want to use it. Soon, we’ll look at a small Java application that demonstrates this library. First, you need to learn about the import statement.</p>
+<h3 id="javas-import-statement">Java’s import statement</h3>
+<p>Imagine having to specify <code>ca.javajeff.graphics.Triangle</code> for each occurrence of <code>Triangle</code> in source code, repeatedly. Java provides the import statement as a convenient alternative for omitting lengthy package details.</p>
+<p>The import statement imports types from a package by telling the compiler where to look for <em>unqualified</em> (no package prefix) type names during compilation. It appears near the top of a source file and must conform to the following syntax:</p>
+<pre class="prettyprint"><code>
+import <em>identifier</em>[.<em>identifier</em>]*.(<em>typeName</em> | *);
+</code></pre>
+<p>An import statement starts with reserved word <code>import</code> and continues with an identifier, which is optionally followed by a period-separated sequence of identifiers. A type name or asterisk (<code>*</code>) follows, and a semicolon terminates this statement.</p>
+<p>The syntax reveals two forms of the import statement. First, you can import a single type name, which is identified via <em><code>typeName</code></em>. Second, you can import all types, which is identified via the asterisk.</p>
+<p>The <code>*</code> symbol is a wildcard that represents all unqualified type names. It tells the compiler to look for such names in the right-most package of the import statement’s package sequence unless the type name is found in a previously searched package. Note that using the wildcard doesn’t have a performance penalty or lead to code bloat. However, it can lead to name conflicts, which you will see.</p>
+<p>For example, <code>import ca.javajeff.graphics.Triangle;</code> tells the compiler that an unqualified <code>Triangle</code> class exists in the <code>ca.javajeff.graphics</code> package. Similarly, something like</p>
+<pre class="prettyprint"><code>
+import
+      ca.javajeff.graphics.*;
+</code></pre>
+<p>tells the compiler to look in this package when it encounters a <code>Triangle</code> name, a <code>Circle</code> name, or even an <code>Account</code> name (if <code>Account</code> has not already been found).</p>
+<aside class="sidebar large">
+<h3 id="avoid-the-in-multi-developer-projects">Avoid the * in multi-developer projects</h3>
+<p>When working on a multi-developer project, avoid using the <code>*</code> wildcard so that other developers can easily see which types are used in your source code.</p>
+</aside>
+<p>You can run into name conflicts when using the wildcard version of the import statement because any unqualified type name matches the wildcard. For example, you have <code>graphics</code> and <code>geometry</code> packages that each contain a <code>Triangle</code> class, the source code begins with <code>import geometry.*;</code> and <code>import
+
+      graphics.*;</code> statements, and it also contains an unqualified occurrence of <code>Triangle</code>. Because the compiler doesn’t know if <code>Triangle</code> refers to <code>geometry</code>‘s <code>Triangle</code> class or to <code>graphics</code>‘ <code>Triangle</code> class, it reports an error. You can fix this problem by qualifying <code>Triangle</code> with the correct package name (<code>graphics.Triangle</code> or <code>geometry.Triangle</code>).</p>
+<p>To avoid additional problems with the import statement, follow these rules:</p>
+<ol>
+<li>Because Java is case sensitive, package and subpackage names specified in an import statement must be expressed in the same case as that used in the package statement.</li>
+<li>You cannot precede the import statement with anything apart from comments, a package statement, other import statements, and static import statements (which I introduce later in this article).</li>
+</ol>
+<p>The compiler automatically imports types from the <code>java.lang</code> library package. As a result, you don’t have to specify <code>import java.lang.System;</code> (import <code>java.lang</code>‘s <code>System</code> class) or similar import statements in your source code.</p>
+<p>Because Java implementations map package and subpackage names to same-named directories, an import statement is equivalent to loading a reference type’s class file from the directory sequence corresponding to the package sequence.</p>
+<h3 id="importing-types">Importing types</h3>
+<p>Continuing the packaged audio library example, I’ve created a <code>UseAudio</code> application that shows how to import and work with this library’s <code>Audio</code> type. Listing 3 presents this application’s source code.</p>
+<h3 id="listing-3-importing-types-useaudio-java">Listing 3. Importing types (UseAudio.java)</h3>
+<pre class="prettyprint"><code>
+import ca.javajeff.audio.Audio;
+
+public final class UseAudio
+{
+   public static void main(String[] args)
+   {
+      if (args.length != 1)
+      {
+         System.err.println("usage: java UseAudio filename");
+         return;
+      }
+
+      Audio audio = Audio.newAudio(args[0]);
+      if (audio == null)
+      {
+         System.err.println("unsupported audio format");
+         return;
+      }
+      System.out.println("Samples");
+      for (int i = 0; i < audio.getSamples().length; i++)
+         System.out.print(audio.getSamples()[i] + " ");
+      System.out.println();
+      System.out.println("Sample Rate: " + audio.getSampleRate());
+   }
+}
+</code></pre>
+<p>Listing 3 doesn’t begin with a package statement because simple applications are typically not stored in packages. Instead, it begins with an import statement for importing the audio library’s <code>Audio</code> class.</p>
+<p>The <code>main()</code> method first verifies that a single command-line argument has been specified. If the verification succeeds, it passes this argument to <code>Audio.newAudio()</code> and assigns the returned <code>Audio</code> object’s reference to a local variable named <code>audio</code>. <code>main()</code> then proceeds to verify that <code>audio</code> isn’t null and (in this case) interrogate the <code>Audio</code> object, outputting the audio clip’s sample values along with its sample rate.</p>
+<p>Copy Listing 3 to a file named <code>UseAudio.java</code> and place this file in the same directory as the <code>ca</code> directory that you previously created. Then, execute the following command to compile <code>UseAudio.java</code>:</p>
+<pre class="prettyprint"><code>
+javac UseAudio.java
+</code></pre>
+<p>If all goes well, you should observe <code>UseAudio.class</code> in the current directory.</p>
+<p>Execute the following command to run <code>UseAudio</code> against a fictitious WAV file named <code>audio.wav</code>:</p>
+<pre class="prettyprint"><code>
+java UseAudio audio.wav
+</code></pre>
+<p>You should observe the following output:</p>
+<pre class="prettyprint"><code>
+Samples
+
+Sample Rate: 0
+</code></pre>
+
+<p>Suppose that <code>UseAudio.java</code> wasn’t located in the same directory as <code>ca</code>. How would you compile this source file and run the resulting application? The answer is to use the classpath.</p>
+<h3 id="the-java-classpath">The Java classpath</h3>
+<p>The <em>Java classpath</em> is a sequence of packages that the Java virtual machine (JVM) searches for reference types. It’s specified via the <code>-classpath</code> (or <code>-cp</code>) option used to start the JVM or, when not present, the <code>CLASSPATH</code> environment variable.</p>
+<aside class="sidebar large">
+<h3 id="classpath-format">Classpath format</h3>
+<p>Whether you use the <code>-classpath</code>/<code>-cp</code> option or the <code>CLASSPATH</code> environment variable to specify a classpath, there is a specific format that must be followed. Under Windows, this format is expressed as <code><em>path1</em>;<em>path2</em>;...</code>, where <em><code>path1</code></em>, <em><code>path2</code></em>, and so on are the locations of package directories. Under Mac OS X, Unix, and Linux, this format changes to <code><em>path1</em>:<em>path2</em>:...</code>.</p>
+</aside>
+<p>Suppose (on a Windows platform) that the audio library is stored in <code>C:audio</code> and that <code>UseAudio.java</code> is stored in <code>C:UseAudio</code>, which is current. Specify the following commands to compile the source code and run the application:</p>
+<pre class="prettyprint"><code>
+javac -cp ../audio UseAudio.java
+java -cp ../audio;. UseAudio audio.wav
+</code></pre>
+<p>The period character in the <code>java</code>-prefixed command line represents the current directory. It must be specified so that the JVM can locate <code>UseAudio.class</code>.</p>
+<h3 id="additional-package-topics">Additional package topics</h3>
+<p>The Java language includes a <code>protected</code> keyword, which is useful in a package context. Also, packages can be distributed in JAR files. Furthermore, the JVM follows a specific search order when searching packages for reference types (regardless of whether or not these packages are stored in JAR files). We’ll explore these topics next.</p>
+<h3 id="protected-access">Protected access</h3>
+<p>The <code>protected</code> keyword assigns the protected access level to a class member, such as a field or method (as an example, <code>protected void clear()</code>). Declaring a class member <code>protected</code> makes the member accessible to all code in any class located in the same package and to subclasses regardless of their packages.</p>
+<p>Joshua Bloch explains the rationale for giving class members protected access in his book, <a href="https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683/" rel="nofollow noopener" target="_blank"><em>Effective Java Second Edition</em></a> (“Item 17: Design and document for inheritance or else prohibit it”). They are hooks into a class’s internal workings to let programmers “write efficient subclasses without undue pain.” Check out the book for more information.</p>
+<h3 id="jar-files">JAR files</h3>
+<p>Distributing a package by specifying instructions for creating the necessary directory structure along with the package’s class files (and instructions on which class files to store in which directories) would be a tedious and error-prone task. Fortunately, JAR files offer a much better alternative.</p>
+<p>A <em>JAR (Java archive) file</em> is a ZIP archive with a <code>.jar</code> extension (instead of the <code>.zip</code> extension). It includes a special <code>META-INF</code> directory containing <code>manifest.mf</code> (a special file that stores information about the contents of the JAR file) and a hierarchical directory structure that organizes class files.</p>
+<p>You use the JDK’s <code>jar</code> tool to create and maintain a JAR file. You can also view the JAR file’s table of contents. To show you how easy it is to use this tool, we’ll create an <code>audio.jar</code> file that stores the contents of the <code>ca.javajeff.audio</code> package. We’ll then access this JAR file when running <code>UseAudio.class</code>. Create <code>audio.jar</code> as follows:</p>
+<p>First, make sure that the current directory contains the previously created <code>ca / javajeff / audio</code> directory hierarchy, and that <code>audio</code> contains <code>audio.class</code> and <code>WavReader.class</code>.</p>
+<p>Second, execute the following command:</p>
+<pre class="prettyprint"><code>
+jar cf audio.jar cajavajeffaudio*.class
+</code></pre>
+<p>The <code>c</code> option stands for “create new archive” and the <code>f</code> option stands for “specify archive filename”.</p>
+<p>You should now find an <code>audio.jar</code> file in the current directory. Prove to yourself that this file contains the two class files by executing the following command, where the <code>t</code> option stands for “list table of contents”:</p>
+<pre class="prettyprint"><code>
+jar tf audio.jar
+</code></pre>
+<p>You can run <code>UseAudio.class</code> by adding <code>audio.jar</code> to its classpath. For example, assuming that <code>audio.jar</code> is located in the same directory as <code>UseAudio.class</code>, you can run <code>UseAudio</code> under Windows via the following command:</p>
+<pre class="prettyprint"><code>
+java -classpath audio.jar;. UseAudio
+</code></pre>
+<p>For convenience, you could specify the shorter <code>-cp</code> instead of the longer <code>-classpath</code>.</p>
+<h3 id="searching-packages-for-reference-types">Searching packages for reference types</h3>
+<p>Newcomers to Java packages often become frustrated by “no class definition found” and other errors. This frustration can be partly avoided by understanding how the JVM looks for reference types. To understand this process, you must realize that the compiler is a special Java application that runs under the control of the JVM. Also, there are two forms of search: compile-time search and runtime search.</p>
+<h3 id="compile-time-search">Compile-time search</h3>
+<p>When the compiler encounters a type expression (such as a method call) in source code, it must locate that type’s declaration to verify that the expression is legal. As an example, it might check to see that a method exists in the type’s class, whose parameter types match the types of the arguments passed in the method call.</p>
+<p>The compiler first searches the Java platform packages (in <code>rt.jar</code> and other JAR files), which contain Java’s standard class library types (such as <code>java.lang</code>‘s <code>System</code> class). It then searches extension packages for extension types. If the <code>-sourcepath</code> option is specified when starting <code>javac</code>, the compiler searches the indicated path’s source files.</p>
+<aside class="sidebar large">
+<h3 id="the-extension-mechanism">The extension mechanism</h3>
+<p>Java supports an <em>extension mechanism</em> that “provides a standard, scalable way to make custom APIs available to all applications running on the Java platform.” Java extension packages (also known as optional packages) are stored in a special extensions directory named <code>ext</code>. This directory is located in the <code>lib</code> subdirectory of the Java home directory’s <code>jre</code> subdirectory. Oracle deprecated the extension mechanism in Java 8 and will remove it in a future release.</p>
+</aside>
+<p>Otherwise, the compiler searches the classpath (in left-to-right order) for the first class file or source file containing the type. If no classpath is present, the current directory is searched. If no package matches or the type still cannot be found, the compiler reports an error. Otherwise, it records the package information in the class file.</p>
+<h3 id="runtime-search">Runtime search</h3>
+<p>When the compiler or any other Java application runs, the JVM will encounter types and must load their associated class files via special code known as a <em>classloader</em>. The JVM will use the previously stored package information that’s associated with the encountered type in a search for that type’s class file. </p>
+<p>The JVM searches the Java platform packages, followed by extension packages, followed by the classpath or current directory (when there is no classpath) for the first class file that contains the type. If no package matches or the type cannot be found, a “no class definition found” error is reported. Otherwise, the class file is loaded into memory.</p>
+<h3 id="statically-importing-static-members">Statically importing static members</h3>
+<p><em>In Effective Java Second Edition, Item 19</em>, Joshua Bloch mentions that Java developers should only use interfaces to declare types. We should not use interfaces to declare <em>constant interfaces</em>, which are interfaces that only exist to export constants. Listing 4’s <code>Switchable</code> constant interface provides an example.</p>
+<h3 id="listing-4-a-constant-interface-switchable-java">Listing 4. A constant interface (Switchable.java)</h3>
+<pre class="prettyprint"><code>
+public interface Switchable
+{
+   boolean OFF = false;
+   boolean ON = true;
+}</code></pre>
+<p>Developers resort to constant interfaces to avoid having to prefix the constant’s name with the name of its reference type (e.g., <code>Math.PI</code>). For example, consider Listing 5’s <code>Light</code> class, which implements the <code>Switchable</code> interface so that the developer is free to specify constants <code>OFF</code> and <code>ON</code> without having to include class prefixes (if they were declared in a class).</p>
+<h3 id="listing-5-light-implements-switchable-light-java-version-1">Listing 5. Light implements Switchable (Light.java, version 1)</h3>
+<pre class="prettyprint"><code>
+public class Light implements Switchable
+{
+   private boolean state = OFF;
+
+   public void printState()
+   {
+      System.out.printf("state = %s%n", (state == OFF) ? "OFF" : "ON");
+   }
+
+   public void toggle()
+   {
+      state = (state == OFF) ? ON : OFF;
+   }
+}</code></pre>
+
+<p>A constant interface provides constants that are intended to be used in a class’s implementation. As an implementation detail, you shouldn’t leak constants into the class’s exported API because they could confuse others using your class. Furthermore, to preserve binary compatibility, you’re committed to supporting them, even when the class is no longer using them.</p>
+<h3 id="static-imports">Static imports</h3>
+<p>To satisfy the need for constant interfaces while avoiding the problems imposed by using them, Java 5 introduced <em>static imports</em>. This language feature can be used to import a reference type’s static members. It’s implemented via the <code>import static</code> statement whose syntax appears below:</p>
+<pre class="prettyprint"><code>
+import static <em>packagespec</em> . <em>typename</em> . ( <em>staticmembername</em> | * );
+</code></pre>
+<p>Placing <code>static</code> after <code>import</code> distinguishes this statement from a regular import statement. The syntax is similar to the regular <code>import</code> statement in terms of the standard period-separated list of package and subpackage names. You can import either a single static member name or all static member names (thanks to the asterisk). Consider the following examples:</p>
+<pre class="prettyprint">
+<code>
+import static java.lang.Math.*;   // Import all static members from Math.
+import static java.lang.Math.PI;  // Import the PI static constant only.
+import static java.lang.Math.cos; // Import the cos() static method only.
+</code></pre>
+<p>Once you’ve imported them, you can specify static members without having to prefix them with their type names. For example, after specifying either the first or third static import, you could specify <code>cos</code> directly, as in [></p>
+<pre class="prettyprint"><code>
+double
+      cosine = cos(angle);
+</code></pre>
+
+<p>To fix Listing 5 so that it no longer relies on <code>implements Switchable</code>, we can insert a static import, as demonstrated in Listing 6.</p>
+<h3 id="listing-6-a-static-import-improves-the-implementation-of-switchable-light-java-version-2">Listing 6. A static import improves the implementation of Switchable (Light.java, version 2)</h3>
+<pre class="prettyprint"><code>
+package foo;
+
+import static foo.Switchable.*;
+
+public class Light
+{
+   private boolean state = OFF;
+
+   public void printState()
+   {
+      System.out.printf("state = %s%n", (state == OFF) ? "OFF" : "ON");
+   }
+
+   public void toggle()
+   {
+      state = (state == OFF) ? ON : OFF;
+   }
+}</code></pre>
+<p>Listing 6 begins with a <code>package foo;</code> statement because you cannot import static members from a type located in the unnamed package. This package name appears as part of the subsequent static import:</p>
+<pre class="prettyprint">
+<code>
+import static
+      foo.Switchable.*;
+</code>
+</pre>
+<h3 id="what-to-watch-out-for-when-using-static-imports">What to watch out for when using static imports</h3>
+<p>There are two additional cautions concerning static imports.</p>
+<p>First, when two static imports import the same-named member, the compiler reports an error. For example, suppose package <code>physics</code> contains a <code>Math</code> class that’s identical to <code>java.lang</code>‘s <code>Math</code> class in that it implements the same <code>PI</code> constant and trigonometric methods. When confronted by the following code fragment, the compiler reports errors because it cannot determine whether <code>java.lang.Math</code>‘s or <code>physics.Math</code>‘s <code>PI</code> constant is being accessed and <code>cos()</code> method is being called:</p>
+<pre class="prettyprint">
+<code>
+import static java.lang.Math.cos;
+import static physics.Math.cos;
+
+double angle = PI;
+System.out.println(cos(angle));
+</code></pre>
+<p>Second, overusing static imports pollutes the code’s namespace with all of the static members you import, which can make your code unreadable and unmaintainable. Also, anyone reading your code could have a hard time finding out which type a static member comes from, especially when importing all static member names from a type.</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Packages help you create reusable libraries of reference types with their methods. If you should call a method (whether packaged into a library or not) with an illegal argument (such as a negative index for an array), you’ll probably run into a Java exception. </p>
+
+</div></div></div></div>
+  </div>
+  <p>
+    Source:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/2257947/packages-and-static-imports-in-java.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Sep 5, 2024, 5:00:00 AM EDT</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://t.me/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Telegram" aria-label="Follow us on Telegram"><svg role="img" aria-label="Telegram Logo" width="24px" height="24px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M40.83,8.48c1.14,0,2,1,1.54,2.86l-5.58,26.3c-.39,1.87-1.52,2.32-3.08,1.45L20.4,29.26a.4.4,0,0,1,0-.65L35.77,14.73c.7-.62-.15-.92-1.07-.36L15.41,26.54a.46.46,0,0,1-.4.05L6.82,24C5,23.47,5,22.22,7.23,21.33L40,8.69a2.16,2.16,0,0,1,.83-.21Z"/></svg></a>
+<!--
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2024&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.5)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.5">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.5" async></script>
+</body>
+</html>
