@@ -1,43 +1,25 @@
-# scheduler
+# About Major Digest: A Journey from Idea to Publication
 
-Create the `.env` file with the following variables:
+<img src="https://majordigest.com/assets/images/major-digest-initial-sketch-2022-400px.jpg" alt="An initial sketch of the Major Digest web app, drawn on a whiteboard in November 2022." title="An initial sketch of the Major Digest web app, drawn on a whiteboard in November 2022." align="left" itemprop="image" width="400" height="522" referrerpolicy="no-referrer">
 
-```
-TWITTER_API_KEY=1aSwQIFJjDdqtUS
-TWITTER_API_SECRET=RvMqJ1mzMcHs
-TWITTER_ACCESS_TOKEN=1597035658
-TWITTER_ACCESS_TOKEN_SECRET=uc5
-INSTAGRAM_ACCESS_TOKEN=EAAI8AZB
-MEDIUM_PUBLICATION_ID=a0ff5915f
-MEDIUM_ACCESS_TOKEN=2a605217986
-GITHUB_ACCESS_TOKEN=ghp_xe1IzzY
-GITHUB_USER=github-actions[bot]
-```
+[Major Digest](https://majordigest.com/) is the brainchild of [Valentin Podkamennyi](https://github.com/vpodk) and his daughter, [Liza Podkamenna](https://github.com/lizapodk). Born out of their frustration with navigating multiple news sources, Major Digest has evolved into a simple and reliable online platform for comprehensive news coverage. Created as a pet project, Major Digest has become an accessible resource for individuals seeking up-to-date and trustworthy news.
 
-Setup local crontab:
+The initial idea for Major Digest arose when Valentin and Liza found themselves spending countless hours scouring various news outlets to stay informed about current events. They realized that the process was time-consuming, often leading to information overload and conflicting reports. They envisioned a solution that would consolidate reliable news sources into a single, easy-to-access platform.
 
-```
-crontab -e
+Combining their love of technology with a desire to make news more attainable, Valentin and Liza embarked on a mission to bring Major Digest to life. With Liza's passion for technical expertise and Valentin's eye for design and user experience, the duo began transforming their vision into reality.
 
-PATH=/usr/local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/bin:/bin:/usr/sbin:/sbin
-45 */1 * * * cd /Users/[username]/scheduler/ && git pull && ./builder.sh > builder.log 2>&1
-30 */1 * * * cd /Users/[username]/scheduler/ && ./publisher.sh > publisher.log 2>&1
-0 0 * * * cd /Users/[username]/scheduler/ && ./midnigth.sh > midnigth.log 2>&1
+Their journey began with extensive research and planning. Valentin and Liza identified the most reputable and reliable news sources across various domains, ensuring that Major Digest would offer a comprehensive range of topics to cater to diverse interests. They meticulously curated a collection of news outlets renowned for their accuracy, credibility, and journalistic integrity.
 
-crontab -l
+With a clear vision in mind, Valentin and Liza set out to develop a user-friendly website that would be accessible to all. They focused on creating a clean, modern design that would prioritize simplicity and ease of navigation. The title, "Major Digest - Reliable and Comprehensive News Sources," encapsulates their commitment to providing reliable news coverage from a wide range of sources.
 
-# debug:
-tail -f /var/mail/[username]
-```
+From coding the website's framework to selecting the perfect color scheme, Valentin and Liza poured their heart and soul into every aspect of Major Digest's development. Countless hours were spent refining the user interface, ensuring a seamless browsing experience for visitors.
 
-Also update `IMAGES_REPO="staticX"` in the "builder.sh" file when needed.
+One of the core principles that guided Valentin and Liza throughout the process was their dedication to keeping Major Digest absolutely free. They firmly believed that access to accurate information should be readily available to all, without any barriers. Major Digest was designed to empower individuals, allowing them to stay informed about the world around them without any financial burden.
 
-# AI
+Valentin and Liza continue to nurture and grow Major Digest, constantly seeking ways to enhance its features and expand its coverage. They are grateful to the loyal community of readers who rely on Major Digest as their go-to source for up-to-date news.
 
-- https://ollama.com/
-- https://ollama.com/download
-- https://github.com/ollama/ollama
+At Major Digest, Valentin and Liza's commitment to delivering reliable and comprehensive news remains unwavering. Their shared passion and tireless efforts have transformed a simple idea into a trusted platform that empowers individuals to stay informed and engaged with the world.
 
-```
-curl -OL https://ollama.com/download/Ollama-darwin.zip
-```
+Join Major Digest today and experience a new level of news consumption. Stay informed, stay connected, and let Major Digest be your guide to a world of reliable news sources.
+
+"Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!"
