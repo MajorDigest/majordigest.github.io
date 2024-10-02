@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/02/microsoft-releases-official-openai-library-for-net/</loc>
+          <loc>https://majordigest.com/tech/2024/10/02/nvidia-rtx-4060-graphics-cards-are-finally-impressing-pc-gamers-and-were-betting-theyll-soon-be-the-most-popular-gpus-around/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-02T07:30:00.000Z</news:publication_date>
-            <news:title>A Smooth Integration: Microsoft Releases Official OpenAI Library for .NET</news:title>
+            <news:publication_date>2024-10-02T15:24:43.000Z</news:publication_date>
+            <news:title>Nvidia RTX 4060 Gains Momentum in Steam Hardware Survey</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/microsoft-releases-official-openai-library-for-net.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/02/nvidia-rtx-4060-graphics-cards-are-finally-impressing-pc-gamers-and-were-betting-theyll-soon-be-the-most-popular-gpus-around.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/02/musk-starlink-help-north-carolina/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T13:30:02.000Z</news:publication_date>
+            <news:title>SpaceX Sends Starlink Terminals to North Carolina Amid Hurricane Devastation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/02/musk-starlink-help-north-carolina.webp</image:loc>
           </image:image>
         </url></urlset>
