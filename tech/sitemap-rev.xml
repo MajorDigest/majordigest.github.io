@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/02/accenture-forms-new-nvidia-business-group-focused-on-agentic-ai-adoption/</loc>
+          <loc>https://majordigest.com/tech/2024/09/30/x-twitter-value-elon-musk-fidelity/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-02T12:00:00.000Z</news:publication_date>
-            <news:title>Accenture and Nvidia Expand Partnership to Help Clients Scale AI Adoption</news:title>
+            <news:publication_date>2024-09-30T13:25:39.000Z</news:publication_date>
+            <news:title>X's Value Plummets After Musk Takeover</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/accenture-forms-new-nvidia-business-group-focused-on-agentic-ai-adoption.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/09/30/x-twitter-value-elon-musk-fidelity.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/09/30/newsom-vetoes-bill-ai-regulations/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-09-30T01:09:01.000Z</news:publication_date>
+            <news:title>California Governor Vetoes AI Bill Amid Industry Concerns</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/09/30/newsom-vetoes-bill-ai-regulations.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/09/26/ken-klippenstein-jd-vance-x-document-hack/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-09-26T23:01:55.000Z</news:publication_date>
+            <news:title>Journalist Suspended for Publishing Stolen Campaign Materials - Controversy Surrounds Free Press and Public Interest</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/09/26/ken-klippenstein-jd-vance-x-document-hack.webp</image:loc>
           </image:image>
         </url></urlset>
