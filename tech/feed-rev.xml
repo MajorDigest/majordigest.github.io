@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 03 Oct 2024 15:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 16:02:59 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>JDK 24 Development Already Underway: Features and Release Schedule</title>
-          <description><![CDATA[JDK 24 development has begun, with three features proposed for the release. Learn about the planned features, including warnings to prepare developers for future restrictions on JNI use and late barrier expansion for the G1 garbage collector.]]></description>
-          <guid>https://majordigest.comnull</guid>
-          <link>https://majordigest.comnull</link>
-          <pubDate>Tue, 01 Oct 2024 22:15:11 GMT</pubDate>
+          <title>New California Law on Election Deepfakes Put on Pause by Federal Judge</title>
+          <description><![CDATA[California law on election deepfakes blocked by federal judge, raising concerns about freedom of speech and democracy]]></description>
+          <guid>https://majordigest.com/tech/2024/10/03/californias-new-ai-deepfakes-law-blocked-federal-judge-heres-why/</guid>
+          <link>https://majordigest.com/tech/2024/10/03/californias-new-ai-deepfakes-law-blocked-federal-judge-heres-why/</link>
+          <pubDate>Thu, 03 Oct 2024 21:25:48 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/01/jdk-24-the-new-features-in-java-24.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/01/jdk-24-the-new-features-in-java-24.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/03/californias-new-ai-deepfakes-law-blocked-federal-judge-heres-why.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/03/californias-new-ai-deepfakes-law-blocked-federal-judge-heres-why.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>The Rise of GenAI: Accenture and Nvidia's Partnership Redefines Enterprise IT</title>
+          <description><![CDATA[Accenture and Nvidia partner to create a 30,000-person business unit for AI development. The partnership illustrates a new reality in enterprise IT, where genAI is no longer optional but essential.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/03/accenture-nvidia-deal-a-first-peek-into-the-new-world-of-genai-centric-strategies/</guid>
+          <link>https://majordigest.com/tech/2024/10/03/accenture-nvidia-deal-a-first-peek-into-the-new-world-of-genai-centric-strategies/</link>
+          <pubDate>Thu, 03 Oct 2024 02:00:56 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/03/accenture-nvidia-deal-a-first-peek-into-the-new-world-of-genai-centric-strategies.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/03/accenture-nvidia-deal-a-first-peek-into-the-new-world-of-genai-centric-strategies.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
