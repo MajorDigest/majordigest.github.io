@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/10/04/alphabets-waymo-expand-robotaxi-fleet-hyundai-evs/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-04T21:32:23.000Z</news:publication_date>
+            <news:title>Waymo Expands US Operations with Hyundai Partnership - Exclusive Electric Vehicle Deal</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/04/alphabets-waymo-expand-robotaxi-fleet-hyundai-evs.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/04/civilization-7-makers-work-with-shawnee-to-bring-sincere-representation-of-the-tribe-to-the-game/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-04T13:32:55.000Z</news:publication_date>
+            <news:title>Civilization 7 makers work with Shawnee to bring sincere representation of the tribe to the game</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/04/civilization-7-makers-work-with-shawnee-to-bring-sincere-representation-of-the-tribe-to-the-game.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/10/04/google-says-it-will-stop-linking-to-new-zealand-news-if-a-law-passes-forcing-it-to-pay-for-content/</loc>
           <news:news>
             <news:publication>
@@ -17,17 +45,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/googles-search-engines-latest-ai-injection-will-answer-voiced-questions-about-video-and-photos/</loc>
+          <loc>https://majordigest.com/tech/2024/10/03/amazon-nlrb-complaint-drivers-union-joint-employer/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T22:21:38.000Z</news:publication_date>
-            <news:title>Google's search engine's latest AI injection will answer voiced questions about video and photos</news:title>
+            <news:publication_date>2024-10-03T23:30:00.000Z</news:publication_date>
+            <news:title>Amazon faces NLRB complaint over refusing to bargain with drivers&#8217; union</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/googles-search-engines-latest-ai-injection-will-answer-voiced-questions-about-video-and-photos.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/03/amazon-nlrb-complaint-drivers-union-joint-employer.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/03/california-schools-will-be-required-to-integrate-ai-into-curriculum/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-03T22:36:17.000Z</news:publication_date>
+            <news:title>California schools will be required to integrate AI into curriculum</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/03/california-schools-will-be-required-to-integrate-ai-into-curriculum.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,297 +87,129 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/addressing-the-public-sectors-penetration-testing-problems/</loc>
+          <loc>https://majordigest.com/tech/2024/10/03/10-ways-ai-can-make-your-programming-job-easier/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T18:47:54.000Z</news:publication_date>
-            <news:title>Addressing the public sector&#8217;s penetration testing problems</news:title>
+            <news:publication_date>2024-10-03T17:03:00.000Z</news:publication_date>
+            <news:title>10 ways AI can make your programming job easier</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/addressing-the-public-sectors-penetration-testing-problems.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/03/10-ways-ai-can-make-your-programming-job-easier.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/openai-continues-to-burn-money/</loc>
+          <loc>https://majordigest.com/tech/2024/10/03/openai-updates-api-with-model-distillation-prompt-caching-abilities/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T16:51:29.000Z</news:publication_date>
-            <news:title>OpenAI continues to burn money</news:title>
+            <news:publication_date>2024-10-03T10:53:58.000Z</news:publication_date>
+            <news:title>OpenAI updates API with model distillation, prompt caching abilities</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/openai-continues-to-burn-money.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/03/openai-updates-api-with-model-distillation-prompt-caching-abilities.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/the-us-and-microsoft-disrupt-a-russian-hacking-group-targeting-american-officials-and-nonprofits/</loc>
+          <loc>https://majordigest.com/tech/2024/10/03/understanding-vbs-enclaves-windows-new-security-technology/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T16:41:22.000Z</news:publication_date>
-            <news:title>The US and Microsoft disrupt a Russian hacking group targeting American officials and nonprofits</news:title>
+            <news:publication_date>2024-10-03T09:00:00.000Z</news:publication_date>
+            <news:title>Understanding VBS Enclaves, Windows&#8217; new security technology</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/the-us-and-microsoft-disrupt-a-russian-hacking-group-targeting-american-officials-and-nonprofits.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/03/understanding-vbs-enclaves-windows-new-security-technology.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/fremont-tech-property-build-real-estate-develop-economy-office-seimens/</loc>
+          <loc>https://majordigest.com/tech/2024/10/01/cruise-fined-for-failure-disclose-crash/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T15:35:55.000Z</news:publication_date>
-            <news:title>Big Fremont office park occupied by German tech titan lands buyer</news:title>
+            <news:publication_date>2024-10-01T15:27:23.000Z</news:publication_date>
+            <news:title>Cruise fined $1.5M over robotaxi crash reporting</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/fremont-tech-property-build-real-estate-develop-economy-office-seimens.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/01/cruise-fined-for-failure-disclose-crash.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/how-data-brokers-fueling-elder-fraud-america/</loc>
+          <loc>https://majordigest.com/tech/2024/10/01/arkansas-sues-youtube-over-claims-that-the-site-is-fueling-a-mental-health-crisis/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T14:00:52.000Z</news:publication_date>
-            <news:title>How data brokers are fueling elder fraud in America</news:title>
+            <news:publication_date>2024-10-01T00:02:21.000Z</news:publication_date>
+            <news:title>Arkansas sues YouTube over claims that the site is fueling a mental health crisis</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/how-data-brokers-fueling-elder-fraud-america.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/01/arkansas-sues-youtube-over-claims-that-the-site-is-fueling-a-mental-health-crisis.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/musk-donated-millions-to-gop-causes-as-early-as-2022-reports/</loc>
+          <loc>https://majordigest.com/tech/2024/09/30/what-to-stream-coldplay-an-unhinged-charlie-puth-salems-lot-sarah-paulson-and-nhl-25/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T13:21:10.000Z</news:publication_date>
-            <news:title>Elon Musk's Republican Donations: A Shift in Political Allegiance?</news:title>
+            <news:publication_date>2024-09-30T22:20:22.000Z</news:publication_date>
+            <news:title>What to stream: Coldplay, an unhinged Charlie Puth, 'Salem&#8217;s Lot,' Sarah Paulson and NHL 25</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/musk-donated-millions-to-gop-causes-as-early-as-2022-reports.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/09/30/what-to-stream-coldplay-an-unhinged-charlie-puth-salems-lot-sarah-paulson-and-nhl-25.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai/</loc>
+          <loc>https://majordigest.com/tech/2024/09/30/device42-amps-up-it-asset-management-with-generative-ai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T11:18:57.000Z</news:publication_date>
-            <news:title>OpenAI demands investors shun rivals such as Anthropic, Elon Musk&#8217;s xAI</news:title>
+            <news:publication_date>2024-09-30T15:17:24.000Z</news:publication_date>
+            <news:title>Device42 amps up IT asset management with generative AI</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/09/30/device42-amps-up-it-asset-management-with-generative-ai.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/how-not-to-waste-34-hours-a-month-in-meetings/</loc>
+          <loc>https://majordigest.com/tech/2024/09/30/verizon-service-outage/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T09:59:00.000Z</news:publication_date>
-            <news:title>How not to waste 34 hours a month in meetings</news:title>
+            <news:publication_date>2024-09-30T15:15:43.000Z</news:publication_date>
+            <news:title>Verizon, AT&#38;T, T-Mobile service outages reported by users</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/how-not-to-waste-34-hours-a-month-in-meetings.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/09/30/verizon-service-outage.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/microsoft-cheat-sheets-dive-into-windows-and-office-apps/</loc>
+          <loc>https://majordigest.com/tech/2024/09/30/san-francisco-rolls-out-ai-powered-cameras-combat-crime/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T09:44:00.000Z</news:publication_date>
-            <news:title>Microsoft cheat sheets: Dive into Windows and Office apps</news:title>
+            <news:publication_date>2024-09-30T10:00:30.000Z</news:publication_date>
+            <news:title>San Francisco rolls out AI-powered cameras to combat crime</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/microsoft-cheat-sheets-dive-into-windows-and-office-apps.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/03/how-uber-and-lyft-are-funding-opposition-efforts-over-san-francisco-transit-ballot/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-03T05:41:19.000Z</news:publication_date>
-            <news:title>Uber and Lyft Fund Opposition to San Francisco's Proposition L</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/how-uber-and-lyft-are-funding-opposition-efforts-over-san-francisco-transit-ballot.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/02/chatgpt-maker-openai-raises-66-billion-in-fresh-funding-as-it-moves-away-from-its-nonprofit-roots/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-02T20:11:38.000Z</news:publication_date>
-            <news:title>OpenAI Raises $6.6 Billion in Venture Capital, Shifts Away from Nonprofit Roots</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/chatgpt-maker-openai-raises-66-billion-in-fresh-funding-as-it-moves-away-from-its-nonprofit-roots.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/02/fix-for-bgp-routing-insecurity-plagued-by-software-vulnerabilities-of-its-own-researchers-find/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-02T17:57:51.000Z</news:publication_date>
-            <news:title>Fix for BGP routing insecurity &#8216;plagued by software vulnerabilities&#8217; of its own, researchers find</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/fix-for-bgp-routing-insecurity-plagued-by-software-vulnerabilities-of-its-own-researchers-find.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/02/beware-fraudsters-posing-government-officials-trying-steal-your-cash/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-02T14:00:10.000Z</news:publication_date>
-            <news:title>Beware of fraudsters posing as government officials trying to steal your cash</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/beware-fraudsters-posing-government-officials-trying-steal-your-cash.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/02/tesla-posts-first-quarterly-increase-in-deliveries-but-shares-slump-with-investors-hoping-for-more/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-02T13:47:52.000Z</news:publication_date>
-            <news:title>Tesla posts first quarterly increase in deliveries, but shares slump with investors hoping for more</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/tesla-posts-first-quarterly-increase-in-deliveries-but-shares-slump-with-investors-hoping-for-more.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/02/musk-starlink-help-north-carolina/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-02T13:30:02.000Z</news:publication_date>
-            <news:title>Musk sending Starlink terminals to storm-ravaged North Carolina</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/musk-starlink-help-north-carolina.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/02/dod-agencies-confront-zero-trust-challenges-misunderstandings-ahead-of-2026-deadline/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-02T13:08:24.000Z</news:publication_date>
-            <news:title>DoD agencies confront zero trust challenges, misunderstandings ahead of 2026 deadline</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/dod-agencies-confront-zero-trust-challenges-misunderstandings-ahead-of-2026-deadline.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/02/microsoft-unveils-new-ai-powered-windows-11-features-for-copilot-pc-users/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-02T11:36:32.000Z</news:publication_date>
-            <news:title>Microsoft unveils new AI-powered Windows 11 features for Copilot+ PC users</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/microsoft-unveils-new-ai-powered-windows-11-features-for-copilot-pc-users.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/02/newsom-throws-ai-regulation-fight-into-uncertainty-with-veto/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-02T10:00:00.000Z</news:publication_date>
-            <news:title>Newsom throws AI regulation fight into uncertainty with veto</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/newsom-throws-ai-regulation-fight-into-uncertainty-with-veto.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/01/australias-online-dating-industry-adopts-code-of-conduct-to-keep-users-safer/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-01T23:23:27.000Z</news:publication_date>
-            <news:title>Australia's online dating industry adopts code of conduct to keep users safer</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/01/australias-online-dating-industry-adopts-code-of-conduct-to-keep-users-safer.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/01/details-from-new-mexicos-lawsuit-against-snap-show-site-failed-to-act-on-reports-of-sextortion/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-01T21:49:08.000Z</news:publication_date>
-            <news:title>Details from New Mexico's lawsuit against Snap show site failed to act on reports of sextortion</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/01/details-from-new-mexicos-lawsuit-against-snap-show-site-failed-to-act-on-reports-of-sextortion.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/09/30/think-twice-before-using-public-computers-heres-why/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-09-30T14:00:23.000Z</news:publication_date>
-            <news:title>Think twice before using public computers: Here's why</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/09/30/think-twice-before-using-public-computers-heres-why.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/09/30/san-francisco-rolls-out-ai-powered-cameras-combat-crime.webp</image:loc>
           </image:image>
         </url>
         <url>
