@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/spider-lovers-scurry-to-colorado-town-in-search-of-mating-tarantulas-and-community/</loc>
+          <loc>https://majordigest.com/tech/2024/10/04/micron-launched-36gb-hbm3e-memory-as-it-plays-catch-up-with-samsung-and-sk-hynix/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T05:13:38.000Z</news:publication_date>
-            <news:title>Tarantula Mating Season Brings Throngs to La Junta, Colorado - Arachnid Enthusiasts Flock to Witness Rare Event</news:title>
+            <news:publication_date>2024-10-04T03:02:00.000Z</news:publication_date>
+            <news:title>Micron Launches 36GB HBM3E 12-High Memory for AI and Data Centers</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/spider-lovers-scurry-to-colorado-town-in-search-of-mating-tarantulas-and-community.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/04/micron-launched-36gb-hbm3e-memory-as-it-plays-catch-up-with-samsung-and-sk-hynix.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/02/the-vp-debate-was-a-return-to-politics-of-yesteryear-except-on-truth-social/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T20:38:57.000Z</news:publication_date>
+            <news:title>Tensions Run High on Truth Social as Trump and Supporters Target Walz and Moderators</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/02/the-vp-debate-was-a-return-to-politics-of-yesteryear-except-on-truth-social.webp</image:loc>
           </image:image>
         </url></urlset>
