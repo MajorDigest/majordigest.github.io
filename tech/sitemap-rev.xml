@@ -3,30 +3,16 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.comnull</loc>
+          <loc>https://majordigest.com/tech/2024/10/03/openai-updates-api-with-model-distillation-prompt-caching-abilities/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-05T03:32:34.000Z</news:publication_date>
-            <news:title>The AI Hype Bubble: A Reality Check on the Tech Sector's Future</news:title>
+            <news:publication_date>2024-10-03T10:53:58.000Z</news:publication_date>
+            <news:title>The Future of Generative AI: OpenAI's Latest Updates to Catch Up with Rivals</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/05/stock-market-tech-ai-bubble.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/09/30/device42-amps-up-it-asset-management-with-generative-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-09-30T15:17:24.000Z</news:publication_date>
-            <news:title>Device42 Unveils InsightsAI to Simplify IT Inventory Management with Generative AI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/09/30/device42-amps-up-it-asset-management-with-generative-ai.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/03/openai-updates-api-with-model-distillation-prompt-caching-abilities.webp</image:loc>
           </image:image>
         </url></urlset>
