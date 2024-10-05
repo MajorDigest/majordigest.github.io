@@ -3,17 +3,73 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/04/tech-tips-tricks-everyone-should-know/</loc>
+          <loc>https://majordigest.com/tech/2024/10/05/stock-market-tech-ai-bubble/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-04T22:19:35.000Z</news:publication_date>
-            <news:title>10 tech tips and tricks everyone should know</news:title>
+            <news:publication_date>2024-10-05T03:32:34.000Z</news:publication_date>
+            <news:title>Is the stock market in an AI bubble?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/04/tech-tips-tricks-everyone-should-know.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/05/stock-market-tech-ai-bubble.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/05/elon-musk-attending-trump-pennsylvania-rally/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-05T03:20:29.000Z</news:publication_date>
+            <news:title>Elon Musk will attend Trump&#8217;s Pennsylvania rally at site of first assassination attempt</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/05/elon-musk-attending-trump-pennsylvania-rally.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/04/nyt-strands-today-answers-hints-5-october-2024/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-04T23:02:00.000Z</news:publication_date>
+            <news:title>The Daily Word: Unraveling the Mysteries of NYT Strands</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/04/nyt-strands-today-answers-hints-5-october-2024.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/04/node-js-previews-network-inspection-support/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-04T22:21:14.000Z</news:publication_date>
+            <news:title>Node.js previews network inspection support</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/04/node-js-previews-network-inspection-support.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/04/pete-buttigieg-elon-musk-hurricane/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-04T21:28:50.000Z</news:publication_date>
+            <news:title>Buttigieg dismisses Musk's Helene federal response claims</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/04/pete-buttigieg-elon-musk-hurricane.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -31,34 +87,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/04/googles-ad-tech-antitrust-trial-wrapping-up-the-case-for-the-defense/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T19:45:14.000Z</news:publication_date>
-            <news:title>Google&#8217;s ad-tech antitrust trial: Wrapping up the case for the defense</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/04/googles-ad-tech-antitrust-trial-wrapping-up-the-case-for-the-defense.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/04/fiscal-service-using-death-data-to-reduce-improper-payments/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T19:27:56.000Z</news:publication_date>
-            <news:title>Fiscal Service using death data to reduce improper payments</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/04/fiscal-service-using-death-data-to-reduce-improper-payments.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/10/04/civilization-7-makers-work-with-shawnee-to-bring-sincere-representation-of-the-tribe-to-the-game/</loc>
           <news:news>
             <news:publication>
@@ -73,59 +101,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/04/apple-amkor-and-tsmc-neath-the-arizona-skies/</loc>
+          <loc>https://majordigest.com/tech/2024/10/04/de-la-sala-de-maquinas-a-la-junta-directiva-el-nuevo-rol-del-cio-a-debate-en-el-cio-summit-2024/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-04T16:59:43.000Z</news:publication_date>
-            <news:title>Apple, Amkor, and TSMC &#8216;neath the Arizona Skies</news:title>
+            <news:publication_date>2024-10-04T12:03:51.000Z</news:publication_date>
+            <news:title>De la &#8216;sala de m&#225;quinas&#8217; a la junta directiva: el nuevo rol del CIO, a debate en el CIO Summit 2024</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/04/apple-amkor-and-tsmc-neath-the-arizona-skies.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/04/how-a-former-labor-organizer-uses-tech-to-help-governments-better-support-people-in-poverty-and-be-more-efficient/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T15:00:16.000Z</news:publication_date>
-            <news:title>Former Bay Area labor organizer uses tech to help governments better support people in poverty</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/04/how-a-former-labor-organizer-uses-tech-to-help-governments-better-support-people-in-poverty-and-be-more-efficient.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/04/a-mystery-surge-in-california-tax-revenue-points-to-tech-companies-like-nvidia-heres-why/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T12:00:00.000Z</news:publication_date>
-            <news:title>Mystery surge in California tax revenue points to tech companies like Nvidia</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/04/a-mystery-surge-in-california-tax-revenue-points-to-tech-companies-like-nvidia-heres-why.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/04/austrian-activist-schrems-wins-privacy-case-against-meta-over-personal-data-on-sexual-orientation/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T11:13:07.000Z</news:publication_date>
-            <news:title>Austrian activist Schrems wins privacy case against Meta over personal data on sexual orientation</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/04/austrian-activist-schrems-wins-privacy-case-against-meta-over-personal-data-on-sexual-orientation.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/04/de-la-sala-de-maquinas-a-la-junta-directiva-el-nuevo-rol-del-cio-a-debate-en-el-cio-summit-2024.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,101 +129,143 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/suncor-energy-derives-business-value-through-business-ai-and-automation/</loc>
+          <loc>https://majordigest.com/tech/2024/10/04/does-your-smb-have-the-foundation-in-place-for-genai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T12:40:50.000Z</news:publication_date>
-            <news:title>Suncor Energy derives business value through business AI and automation</news:title>
+            <news:publication_date>2024-10-04T09:45:46.000Z</news:publication_date>
+            <news:title>Does your SMB have the foundation in place for GenAI?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/suncor-energy-derives-business-value-through-business-ai-and-automation.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/04/does-your-smb-have-the-foundation-in-place-for-genai.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/03/how-not-to-waste-34-hours-a-month-in-meetings/</loc>
+          <loc>https://majordigest.com/tech/2024/10/03/googles-search-engines-latest-ai-injection-will-answer-voiced-questions-about-video-and-photos/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-03T09:59:00.000Z</news:publication_date>
-            <news:title>How not to waste 34 hours a month in meetings</news:title>
+            <news:publication_date>2024-10-03T22:21:38.000Z</news:publication_date>
+            <news:title>Google's search engine's latest AI injection will answer voiced questions about video and photos</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/how-not-to-waste-34-hours-a-month-in-meetings.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/03/googles-search-engines-latest-ai-injection-will-answer-voiced-questions-about-video-and-photos.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/02/doj-revising-vulnerability-disclosure-framework-to-encourage-ai-red-teaming/</loc>
+          <loc>https://majordigest.com/tech/2024/10/03/the-bigger-the-better-approaching-generative-ai-by-size/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-02T21:11:21.000Z</news:publication_date>
-            <news:title>DoJ revising vulnerability disclosure framework to encourage AI red teaming</news:title>
+            <news:publication_date>2024-10-03T21:08:48.000Z</news:publication_date>
+            <news:title>The bigger the better? Approaching Generative AI by size</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/doj-revising-vulnerability-disclosure-framework-to-encourage-ai-red-teaming.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/03/the-bigger-the-better-approaching-generative-ai-by-size.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/02/apple-accused-of-violating-labor-laws-again/</loc>
+          <loc>https://majordigest.com/tech/2024/10/03/cupertino-spared-from-paying-state-millions-in-apple-sales-tax-revenue/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-02T20:13:11.000Z</news:publication_date>
-            <news:title>Apple accused of violating labor laws, again</news:title>
+            <news:publication_date>2024-10-03T20:44:18.000Z</news:publication_date>
+            <news:title>Cupertino spared from paying state millions in Apple sales tax revenue</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/apple-accused-of-violating-labor-laws-again.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/03/cupertino-spared-from-paying-state-millions-in-apple-sales-tax-revenue.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/02/cyber-leaders-exchange-cisas-jeff-greene-on-challenging-the-status-quo/</loc>
+          <loc>https://majordigest.com/tech/2024/10/03/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-02T20:00:57.000Z</news:publication_date>
-            <news:title>Cyber Leaders Exchange 2024: CISA&#8217;s Jeff Greene on challenging the status quo</news:title>
+            <news:publication_date>2024-10-03T11:18:57.000Z</news:publication_date>
+            <news:title>The Impact of OpenAI's Exclusivity Deal on the AI Industry: A Game-Changer?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/cyber-leaders-exchange-cisas-jeff-greene-on-challenging-the-status-quo.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/03/openai-demands-investors-shun-rivals-such-as-anthropic-elon-musks-xai.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/02/generative-ai-impact-jobs-survey-analysis/</loc>
+          <loc>https://majordigest.com/tech/2024/10/02/openai-previews-realtime-api-for-speech-to-speech-apps/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-02T19:38:08.000Z</news:publication_date>
-            <news:title>4 in 10 Americans think generative AI will reduce jobs: Report</news:title>
+            <news:publication_date>2024-10-02T22:00:59.000Z</news:publication_date>
+            <news:title>OpenAI previews Realtime API for speech-to-speech apps</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/generative-ai-impact-jobs-survey-analysis.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/02/openai-previews-realtime-api-for-speech-to-speech-apps.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/02/docker-tutorial-get-started-with-docker/</loc>
+          <loc>https://majordigest.com/tech/2024/10/02/tesla-posts-first-quarterly-increase-in-deliveries-but-shares-slump-with-investors-hoping-for-more/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-02T09:00:00.000Z</news:publication_date>
-            <news:title>Docker tutorial: Get started with Docker</news:title>
+            <news:publication_date>2024-10-02T13:47:52.000Z</news:publication_date>
+            <news:title>Tesla posts first quarterly increase in deliveries, but shares slump with investors hoping for more</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/docker-tutorial-get-started-with-docker.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/02/tesla-posts-first-quarterly-increase-in-deliveries-but-shares-slump-with-investors-hoping-for-more.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/02/musk-starlink-help-north-carolina/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T13:30:02.000Z</news:publication_date>
+            <news:title>Musk sending Starlink terminals to storm-ravaged North Carolina</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/02/musk-starlink-help-north-carolina.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/02/iphones-satellite-messaging-lifeline-hurricane-helenes-aftermath/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T10:00:31.000Z</news:publication_date>
+            <news:title>iPhone's satellite messaging: A lifeline in Hurricane Helene's aftermath</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/02/iphones-satellite-messaging-lifeline-hurricane-helenes-aftermath.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/01/australias-online-dating-industry-adopts-code-of-conduct-to-keep-users-safer/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-01T23:23:27.000Z</news:publication_date>
+            <news:title>Australia's online dating industry adopts code of conduct to keep users safer</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/01/australias-online-dating-industry-adopts-code-of-conduct-to-keep-users-safer.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -255,16 +283,58 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/09/28/lionsgates-bold-move-ai-about-change-filmmaking-forever/</loc>
+          <loc>https://majordigest.com/tech/2024/10/01/for-fiscal-service-intelligent-automation-transforms-federal-workflows/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-09-28T10:00:12.000Z</news:publication_date>
-            <news:title>Lionsgate's bold move into AI is about to change filmmaking forever</news:title>
+            <news:publication_date>2024-10-01T22:07:44.000Z</news:publication_date>
+            <news:title>For Fiscal Service, intelligent automation transforms federal workflows</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/09/28/lionsgates-bold-move-ai-about-change-filmmaking-forever.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/01/for-fiscal-service-intelligent-automation-transforms-federal-workflows.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/01/details-from-new-mexicos-lawsuit-against-snap-show-site-failed-to-act-on-reports-of-sextortion/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-01T21:49:08.000Z</news:publication_date>
+            <news:title>Details from New Mexico's lawsuit against Snap show site failed to act on reports of sextortion</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/01/details-from-new-mexicos-lawsuit-against-snap-show-site-failed-to-act-on-reports-of-sextortion.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/01/pytorch-library-makes-models-faster-and-smaller/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-01T21:29:04.000Z</news:publication_date>
+            <news:title>PyTorch library makes models faster and smaller</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/01/pytorch-library-makes-models-faster-and-smaller.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/01/new-jersey-offshore-wind-farm-clears-big-federal-hurdle-amid-environmental-concerns/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-01T17:33:51.000Z</news:publication_date>
+            <news:title>New Jersey offshore wind farm clears big federal hurdle amid environmental concerns</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/01/new-jersey-offshore-wind-farm-clears-big-federal-hurdle-amid-environmental-concerns.webp</image:loc>
           </image:image>
         </url></urlset>
