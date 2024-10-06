@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/world/2024/10/06/apparent-israeli-airstrike-on-mosque-in-central-gaza-kills-at-least-18-people/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T15:34:55.000Z</news:publication_date>
-            <news:title>A strike on a mosque kills 19 as Israel bombards northern Gaza and southern Lebanon</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/06/apparent-israeli-airstrike-on-mosque-in-central-gaza-kills-at-least-18-people.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2024/10/06/1-dead-as-russia-strikes-ukraine-with-drones-and-missiles/</loc>
           <news:news>
             <news:publication>
@@ -28,6 +14,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/world/2024/10/06/1-dead-as-russia-strikes-ukraine-with-drones-and-missiles.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/06/apparent-israeli-airstrike-on-mosque-in-central-gaza-kills-at-least-18-people/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-06T14:18:33.000Z</news:publication_date>
+            <news:title>A strike on a mosque kills at least 19, Palestinian officials say, as Israel bombards northern Gaza and southern Lebanon</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/06/apparent-israeli-airstrike-on-mosque-in-central-gaza-kills-at-least-18-people.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,48 +45,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/06/brazilians-vote-in-tense-local-elections/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T13:29:35.000Z</news:publication_date>
-            <news:title>Brazilians vote in tense local elections</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/06/brazilians-vote-in-tense-local-elections.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/06/israel-intensifies-bombardment-of-northern-gaza-southern-beirut/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T13:02:02.000Z</news:publication_date>
-            <news:title>Israel intensifies bombardment of northern Gaza, southern Beirut</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/06/israel-intensifies-bombardment-of-northern-gaza-southern-beirut.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/06/tunisians-vote-in-an-election-with-one-of-president-saieds-2-challengers-in-prison/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T12:00:39.000Z</news:publication_date>
-            <news:title>Tunisians vote in an election with one of President Saied's 2 challengers in prison</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/06/tunisians-vote-in-an-election-with-one-of-president-saieds-2-challengers-in-prison.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2024/10/06/lebanese-worldwide-fear-for-their-homeland-and-loved-ones-as-violence-escalates/</loc>
           <news:news>
             <news:publication>
@@ -98,20 +56,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/world/2024/10/06/lebanese-worldwide-fear-for-their-homeland-and-loved-ones-as-violence-escalates.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/06/a-year-into-the-israel-hamas-war-students-say-a-chill-on-free-speech-has-reached-college-classrooms/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T04:30:43.000Z</news:publication_date>
-            <news:title>A year into the Israel-Hamas war, students say a chill on free speech has reached college classrooms</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/06/a-year-into-the-israel-hamas-war-students-say-a-chill-on-free-speech-has-reached-college-classrooms.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,269 +87,87 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/06/israel-strikes-lebanon-hitting-beirut-suburbs-and-the-north/</loc>
+          <loc>https://majordigest.com/world/2024/10/05/panetta-war-middle-east/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-06T01:05:18.000Z</news:publication_date>
-            <news:title>Israel expands its bombardment in Lebanon as thousands flee widening war</news:title>
+            <news:publication_date>2024-10-05T16:40:59.000Z</news:publication_date>
+            <news:title>Former CIA head signals full-scale war inevitable if Israel 'goes all out'</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/06/israel-strikes-lebanon-hitting-beirut-suburbs-and-the-north.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/05/panetta-war-middle-east.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/05/south-korean-leader-says-north-korea-wants-us-attention-by-showing-off-nuclear-might/</loc>
+          <loc>https://majordigest.com/world/2024/10/05/israel-attack-cuts-off-lebanon-syria-crossing/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-05T23:37:13.000Z</news:publication_date>
-            <news:title>South Korean leader says North Korea wants US attention by showing off nuclear might</news:title>
+            <news:publication_date>2024-10-05T12:29:07.000Z</news:publication_date>
+            <news:title>Israel's latest attack on Beirut cuts off crossing between Lebanon, Syria</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/05/south-korean-leader-says-north-korea-wants-us-attention-by-showing-off-nuclear-might.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/05/israel-attack-cuts-off-lebanon-syria-crossing.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/05/emirates-bans-pagers-flights-lebanon-attack/</loc>
+          <loc>https://majordigest.com/world/2024/10/05/kurdish-minorities-concerned-us-downsizing/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-05T18:29:36.000Z</news:publication_date>
-            <news:title>Emirates bans pagers from flights after Lebanon attack</news:title>
+            <news:publication_date>2024-10-05T10:00:00.000Z</news:publication_date>
+            <news:title>US downsizing in Iraq sparks fear from Kurdish minority</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/05/emirates-bans-pagers-flights-lebanon-attack.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/05/kurdish-minorities-concerned-us-downsizing.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/05/israel-netanyahu-confidence-biden/</loc>
+          <loc>https://majordigest.com/world/2024/10/04/rainstorms-and-heavy-floods-hit-large-parts-of-bosnia-killing-at-least-14-people/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-05T17:29:20.000Z</news:publication_date>
-            <news:title>Clinton Defense chief says Netanyahu 'does not have any confidence' with Biden</news:title>
+            <news:publication_date>2024-10-04T15:56:35.000Z</news:publication_date>
+            <news:title>Rainstorms and heavy floods hit large parts of Bosnia, killing at least 16 people</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/05/israel-netanyahu-confidence-biden.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/04/rainstorms-and-heavy-floods-hit-large-parts-of-bosnia-killing-at-least-14-people.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/05/senate-republicans-hungary-russia-viktor-orban-vladimir-putin-ties/</loc>
+          <loc>https://majordigest.com/world/2024/10/04/mexicos-new-president-promises-to-resume-fight-against-climate-change/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-05T15:34:23.000Z</news:publication_date>
-            <news:title>5 GOP senators question Hungary's ties to Russia</news:title>
+            <news:publication_date>2024-10-04T15:42:26.000Z</news:publication_date>
+            <news:title>Mexico&#8217;s new president promises to resume fight against climate change</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/05/senate-republicans-hungary-russia-viktor-orban-vladimir-putin-ties.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/04/mexicos-new-president-promises-to-resume-fight-against-climate-change.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/05/rising-from-ashes-israelis-nations-war-torn-south-move-home-year-after-oct-7-massacre/</loc>
+          <loc>https://majordigest.com/world/2024/10/04/clashes-in-kenya-as-people-discuss-the-deputy-presidents-impeachment-motion/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-05T15:20:46.000Z</news:publication_date>
-            <news:title>Rising from the ashes: Israelis in nation's war-torn south move home a year after October 7 massacre</news:title>
+            <news:publication_date>2024-10-04T13:30:15.000Z</news:publication_date>
+            <news:title>Clashes in Kenya as people discuss the deputy president's impeachment motion</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/05/rising-from-ashes-israelis-nations-war-torn-south-move-home-year-after-oct-7-massacre.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/05/former-nato-chief-jens-stoltenberg-russia-ukraine-war-weapons-support/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-05T15:06:30.000Z</news:publication_date>
-            <news:title>Ex-NATO chief says allies should have given Ukraine weapons earlier</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/05/former-nato-chief-jens-stoltenberg-russia-ukraine-war-weapons-support.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/05/mark-esper-potenial-israel-iran-nuclear-facilities-strike/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-05T13:48:13.000Z</news:publication_date>
-            <news:title>Former Defense chief: Israeli attack on Iran nuclear facilities would be 'significant strike'</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/05/mark-esper-potenial-israel-iran-nuclear-facilities-strike.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/05/ukraine-downs-a-russian-warplane-and-russia-claims-gains-in-the-east/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-05T12:53:11.000Z</news:publication_date>
-            <news:title>Ukraine downs a Russian warplane and Russia claims gains in the east</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/05/ukraine-downs-a-russian-warplane-and-russia-claims-gains-in-the-east.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/05/rescue-teams-search-for-missing-after-floods-landslides-kill-at-least-16-in-bosnia/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-05T09:54:59.000Z</news:publication_date>
-            <news:title>Rescue teams search for missing after floods, landslides kill at least 16 in Bosnia</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/05/rescue-teams-search-for-missing-after-floods-landslides-kill-at-least-16-in-bosnia.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/05/expert-warns-uns-role-ai-regulation-could-lead-safety-overreach/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-05T06:00:20.000Z</news:publication_date>
-            <news:title>Expert warns UN's role in AI regulation could lead to safety overreach</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/05/expert-warns-uns-role-ai-regulation-could-lead-safety-overreach.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/biden-detained-americans-china/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T22:58:05.000Z</news:publication_date>
-            <news:title>Bipartisan lawmakers urge Biden to seek release of Americans detained in China</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/biden-detained-americans-china.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/irans-supreme-leader-speech-attacks-israel/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T22:42:33.000Z</news:publication_date>
-            <news:title>Iran's supreme leader makes rare speech after attacks on Israel</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/irans-supreme-leader-speech-attacks-israel.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/relatives-say-a-whole-family-was-killed-in-israels-deadliest-west-bank-strike-since-oct-7/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T19:31:44.000Z</news:publication_date>
-            <news:title>Relatives say a whole family was killed in Israel's deadliest West Bank strike since Oct. 7</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/relatives-say-a-whole-family-was-killed-in-israels-deadliest-west-bank-strike-since-oct-7.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/new-mh370-project/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T19:28:37.000Z</news:publication_date>
-            <news:title>New MH370 project searches for answers on vanished plane</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/new-mh370-project.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/boris-johnson-alleges-netanyahu-may-have-bugged-his-bathroom/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T18:41:02.000Z</news:publication_date>
-            <news:title>Boris Johnson alleges Netanyahu may have bugged his bathroom</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/boris-johnson-alleges-netanyahu-may-have-bugged-his-bathroom.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/israeli-military-kills-250-hezbollah-terrorists-since-start-limited-ground-operation-lebanon/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T15:46:51.000Z</news:publication_date>
-            <news:title>Israeli military kills 250 Hezbollah terrorists since start of limited ground operation in Lebanon</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/israeli-military-kills-250-hezbollah-terrorists-since-start-limited-ground-operation-lebanon.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/us-arranges-flights-to-bring-americans-out-of-lebanon-as-others-seek-escape/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T15:38:28.000Z</news:publication_date>
-            <news:title>US arranges flights to bring Americans out of Lebanon as others seek escape</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/us-arranges-flights-to-bring-americans-out-of-lebanon-as-others-seek-escape.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/sanxingdui-ruins-were-discovered-accidentally-farmer-has-since-been-site-over-60000-relics/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T15:29:13.000Z</news:publication_date>
-            <news:title>Sanxingdui Ruins were discovered accidentally by a farmer; has since been the site of over 60K relics</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/sanxingdui-ruins-were-discovered-accidentally-farmer-has-since-been-site-over-60000-relics.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/04/clashes-in-kenya-as-people-discuss-the-deputy-presidents-impeachment-motion.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -420,20 +182,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/world/2024/10/04/irans-ayatollah-khamenei-defends-missile-barrage-against-israel-rare-sermon.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/middle-east-latest-an-israeli-airstrike-cuts-a-major-highway-linking-lebanon-with-syria/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T11:11:47.000Z</news:publication_date>
-            <news:title>Middle East latest: An Israeli airstrike cuts a major highway linking Lebanon with Syria</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/middle-east-latest-an-israeli-airstrike-cuts-a-major-highway-linking-lebanon-with-syria.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -457,53 +205,11 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-04T05:14:36.000Z</news:publication_date>
+            <news:publication_date>2024-10-04T05:14:37.000Z</news:publication_date>
             <news:title>Tunisia votes Sunday in its third presidential election since the Arab Spring</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/world/2024/10/04/tunisia-votes-sunday-in-its-third-presidential-election-since-the-arab-spring.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/uk-hands-sovereignty-of-chagos-islands-to-mauritius-in-a-deal-to-secure-us-base/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T03:05:53.000Z</news:publication_date>
-            <news:title>UK gives sovereignty of the Chagos Islands to Mauritius. The US base on Diego Garcia stays</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/uk-hands-sovereignty-of-chagos-islands-to-mauritius-in-a-deal-to-secure-us-base.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/north-koreas-kim-threatens-to-destroy-south-korea-with-nuclear-strikes-if-provoked/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T02:40:22.000Z</news:publication_date>
-            <news:title>North Korea's Kim threatens to destroy South Korea with nuclear strikes if provoked</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/north-koreas-kim-threatens-to-destroy-south-korea-with-nuclear-strikes-if-provoked.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/israeli-military-says-it-killed-a-senior-hamas-leader-in-a-gaza-strike-earlier-this-year/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T02:04:33.000Z</news:publication_date>
-            <news:title>Israel extends evacuation warnings in Lebanon, signaling a wider offensive</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/israeli-military-says-it-killed-a-senior-hamas-leader-in-a-gaza-strike-earlier-this-year.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -518,5 +224,229 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/world/2024/10/04/peru-celebrates-2-decades-of-a-fast-growing-breed-of-guinea-pigs-eaten-as-a-delicacy.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/04/un-peacekeepers-stay-on-lebanons-border-despite-israeli-ground-incursion/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-04T00:59:54.000Z</news:publication_date>
+            <news:title>UN peacekeepers stay on Lebanon's border despite Israeli ground incursion</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/04/un-peacekeepers-stay-on-lebanons-border-despite-israeli-ground-incursion.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/03/g20-environment-ministers-back-funding-for-forest-conservation/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-03T21:49:51.000Z</news:publication_date>
+            <news:title>G20 environment ministers back funding for forest conservation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/03/g20-environment-ministers-back-funding-for-forest-conservation.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/03/2-teens-detained-explosions-denmarks-israeli-embassy/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-03T19:56:50.000Z</news:publication_date>
+            <news:title>2 teens detained following explosions near Denmark's Israeli Embassy</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/03/2-teens-detained-explosions-denmarks-israeli-embassy.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/03/ukrainian-stronghold-vuhledar-falls-russian-offensive-after-two-years-bombardment/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-03T18:34:14.000Z</news:publication_date>
+            <news:title>Ukrainian stronghold Vuhledar falls to Russian offensive after two years of bombardment</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/03/ukrainian-stronghold-vuhledar-falls-russian-offensive-after-two-years-bombardment.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/03/harpole-treasure-includes-one-most-valuable-pieces-ancient-jewelry-found-britain/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-03T16:33:33.000Z</news:publication_date>
+            <news:title>The Harpole Treasure includes one of the most valuable pieces of ancient jewelry found in Britain</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/03/harpole-treasure-includes-one-most-valuable-pieces-ancient-jewelry-found-britain.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/02/world-war-ii-era-bomb-explodes-international-airport-cratering-taxiway/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T23:39:18.000Z</news:publication_date>
+            <news:title>World War II-era bomb explodes at busy international airport, cratering taxiway</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/02/world-war-ii-era-bomb-explodes-international-airport-cratering-taxiway.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/02/chinese-communist-party-marks-75-years-rule-economic-security-threats-persist/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T18:31:46.000Z</news:publication_date>
+            <news:title>Chinese Communist Party marks 75 years of rule as economic, security threats persist</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/02/chinese-communist-party-marks-75-years-rule-economic-security-threats-persist.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/02/us-guided-missile-destroyers-fires-ballistic-missile-interceptors-defend-israel-against-iranian-barrage/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T18:16:22.000Z</news:publication_date>
+            <news:title>WATCH: US destroyer fires ballistic missile interceptors to defend Israel against Iranian barrage</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/02/us-guided-missile-destroyers-fires-ballistic-missile-interceptors-defend-israel-against-iranian-barrage.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/02/israel-bans-un-secretary-general-over-anti-israel-actions-doesnt-deserve-set-foot-israeli-soil/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T17:41:03.000Z</news:publication_date>
+            <news:title>Israel bans UN secretary-general over anti-Israel actions: 'Doesn't deserve to set foot on Israeli soil'</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/02/israel-bans-un-secretary-general-over-anti-israel-actions-doesnt-deserve-set-foot-israeli-soil.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/02/8-israeli-soldiers-killed-lebanon-netanyahu-says-idf-engaged-tough-war-hezbollah/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T16:10:57.000Z</news:publication_date>
+            <news:title>8 Israeli soldiers killed in Lebanon as Netanyahu says IDF engaged in 'tough war' with Hezbollah</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/02/8-israeli-soldiers-killed-lebanon-netanyahu-says-idf-engaged-tough-war-hezbollah.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/02/mexicos-army-seizes-local-police-weapons-cartel-heartland-amid-gunfights-violence/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T15:36:14.000Z</news:publication_date>
+            <news:title>Mexico's army seizes local police weapons in cartel heartland amid gunfights, violence</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/02/mexicos-army-seizes-local-police-weapons-cartel-heartland-amid-gunfights-violence.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/02/palestinian-officials-say-32-killed-in-israeli-strikes-on-southern-gaza/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T12:39:12.000Z</news:publication_date>
+            <news:title>Israeli troops battle Hezbollah in Lebanon as fears of a wider war mount after Iran's missile attack</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/02/palestinian-officials-say-32-killed-in-israeli-strikes-on-southern-gaza.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/02/claudia-sheinbaum-to-be-sworn-in-as-1st-female-president-of-mexico-a-country-with-pressing-problems/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T07:14:46.000Z</news:publication_date>
+            <news:title>Claudia Sheinbaum sworn in as 1st female president of Mexico</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/02/claudia-sheinbaum-to-be-sworn-in-as-1st-female-president-of-mexico-a-country-with-pressing-problems.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/02/israel-to-have-substantial-response-to-iran-attacks-john-bolton/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T02:16:01.000Z</news:publication_date>
+            <news:title>Israel to have 'substantial response' to Iran attacks: John Bolton</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/02/israel-to-have-substantial-response-to-iran-attacks-john-bolton.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/01/israel-says-iran-has-fired-missiles-at-israel-and-it-warned-residents-to-shelter-in-place/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-01T16:48:06.000Z</news:publication_date>
+            <news:title>Iran says it fired dozens of missiles into Israel, where residents are warned to shelter in place</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/01/israel-says-iran-has-fired-missiles-at-israel-and-it-warned-residents-to-shelter-in-place.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/09/30/israel-ground-raids-hezbollah-lebanon/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-09-30T19:16:56.000Z</news:publication_date>
+            <news:title>Israeli raids against Hezbollah signal a wider ground incursion into Lebanon could come soon</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/09/30/israel-ground-raids-hezbollah-lebanon.webp</image:loc>
           </image:image>
         </url></urlset>
