@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/02/fix-for-bgp-routing-insecurity-plagued-by-software-vulnerabilities-of-its-own-researchers-find/</loc>
+          <loc>https://majordigest.com/tech/2024/10/07/apple-intelligence-release-date-leaked-heres-when-the-first-ai-features-are-set-to-arrive-on-your-iphone/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-02T17:57:51.000Z</news:publication_date>
-            <news:title>BGP Security Weaknesses Persist Despite RPKI Efforts</news:title>
+            <news:publication_date>2024-10-07T09:37:55.000Z</news:publication_date>
+            <news:title>Apple Intelligence Release Date Leaked: What to Expect from AI Features on October 28</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/02/fix-for-bgp-routing-insecurity-plagued-by-software-vulnerabilities-of-its-own-researchers-find.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/07/apple-intelligence-release-date-leaked-heres-when-the-first-ai-features-are-set-to-arrive-on-your-iphone.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/05/visualping-monitor-webpages/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-05T17:00:00.000Z</news:publication_date>
+            <news:title>Watch Web Pages for Updates the Easy Way with Visualping</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/05/visualping-monitor-webpages.webp</image:loc>
           </image:image>
         </url></urlset>
