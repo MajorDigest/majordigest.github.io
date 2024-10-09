@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/world/2024/10/09/susan-rice-trump-putin-logan-act/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T16:33:42.000Z</news:publication_date>
+            <news:title>Susan Rice: Trump's reported calls with Putin appear illegal</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/09/susan-rice-trump-putin-logan-act.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/10/09/un-tribunal-orders-ex-official-to-repay-58-8-million-lost-in-bad-deals-while-getting-perks/</loc>
           <news:news>
             <news:publication>
@@ -31,17 +45,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/09/john-legend-harris-us-aid-israel-hamas-lebanon/</loc>
+          <loc>https://majordigest.com/world/2024/10/09/detecting-ai-image-manipulation-key-signs-to-watch-out-for/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T15:10:55.000Z</news:publication_date>
-            <news:title>John Legend calls for Harris to put 'conditions' on US aid to Israel</news:title>
+            <news:publication_date>2024-10-09T15:56:57.000Z</news:publication_date>
+            <news:title>Detecting AI image manipulation: Key signs to watch out for</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/09/john-legend-harris-us-aid-israel-hamas-lebanon.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/09/detecting-ai-image-manipulation-key-signs-to-watch-out-for.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/09/history-hoxne-hoard-largest-collection-roman-treasure-found-britain/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T15:34:52.000Z</news:publication_date>
+            <news:title>The history of the Hoxne Hoard, the largest collection of Roman treasure found in Britain</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/09/history-hoxne-hoard-largest-collection-roman-treasure-found-britain.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,20 +101,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/09/mozambique-votes-for-president-and-the-ruling-party-could-extend-its-49-years-in-power/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T13:47:12.000Z</news:publication_date>
-            <news:title>Mozambique votes for president as the longtime ruling party faces a surprise new challenger</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/09/mozambique-votes-for-president-and-the-ruling-party-could-extend-its-49-years-in-power.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2024/10/09/north-korea-vows-to-block-border-with-south-korea-and-build-front-line-defense-structures/</loc>
           <news:news>
             <news:publication>
@@ -98,20 +112,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/world/2024/10/09/north-korea-vows-to-block-border-with-south-korea-and-build-front-line-defense-structures.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/09/ukrainian-drone-strikes-another-arms-depot-inside-russia-officials-say/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T10:28:35.000Z</news:publication_date>
-            <news:title>Ukrainian drone strikes another arms depot inside Russia, officials say</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/09/ukrainian-drone-strikes-another-arms-depot-inside-russia-officials-say.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -129,87 +129,101 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/09/hezbollah-leader-says-more-israelis-will-be-displaced-as-it-expands-attacks/</loc>
+          <loc>https://majordigest.com/world/2024/10/09/israeli-offensive-in-hard-hit-northern-gaza-kills-and-wounds-dozens-and-threatens-hospitals/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T02:38:24.000Z</news:publication_date>
-            <news:title>Hezbollah steps up rocket fire as Israel sends more troops into Lebanon</news:title>
+            <news:publication_date>2024-10-09T09:10:38.000Z</news:publication_date>
+            <news:title>Israeli defense minister warns an attack on Iran would be 'lethal' and 'surprising'</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/09/hezbollah-leader-says-more-israelis-will-be-displaced-as-it-expands-attacks.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/09/israeli-offensive-in-hard-hit-northern-gaza-kills-and-wounds-dozens-and-threatens-hospitals.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/08/as-israel-plots-to-strike-iran-its-choices-range-from-symbolic-to-severe/</loc>
+          <loc>https://majordigest.com/world/2024/10/09/the-nobel-prize-in-chemistry-is-being-awarded-in-stockholm/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T21:13:42.000Z</news:publication_date>
-            <news:title>As Israel plots to strike Iran, its choices range from symbolic to severe</news:title>
+            <news:publication_date>2024-10-09T08:05:43.000Z</news:publication_date>
+            <news:title>Nobel Prize in chemistry awarded to 3 scientists for work on proteins, building blocks of life</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/08/as-israel-plots-to-strike-iran-its-choices-range-from-symbolic-to-severe.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/09/the-nobel-prize-in-chemistry-is-being-awarded-in-stockholm.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/08/the-nobel-prize-in-physics-is-being-awarded-a-day-after-2-americans-won-the-medicine-prize/</loc>
+          <loc>https://majordigest.com/world/2024/10/09/survivors-of-massacre-in-small-haitian-town-where-70-died-point-finger-at-government/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T20:13:00.000Z</news:publication_date>
-            <news:title>Pioneers in artificial intelligence win the Nobel Prize in physics</news:title>
+            <news:publication_date>2024-10-09T07:23:19.000Z</news:publication_date>
+            <news:title>Survivors of massacre in small Haitian town where 70 died point finger at government</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/08/the-nobel-prize-in-physics-is-being-awarded-a-day-after-2-americans-won-the-medicine-prize.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/09/survivors-of-massacre-in-small-haitian-town-where-70-died-point-finger-at-government.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/08/israel-defense-minister-cancels-visit-with-pentagon-chief/</loc>
+          <loc>https://majordigest.com/world/2024/10/09/doctor-disguises-himself-nurse-poison-his-mothers-partner-fake-covid-vaccine/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T19:57:28.000Z</news:publication_date>
-            <news:title>Israel defense minister cancels visit with Pentagon chief</news:title>
+            <news:publication_date>2024-10-09T07:09:18.000Z</news:publication_date>
+            <news:title>British doctor admits to attempted murder after injecting mother&#8217;s partner with poison disguised as vaccine</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/08/israel-defense-minister-cancels-visit-with-pentagon-chief.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/09/doctor-disguises-himself-nurse-poison-his-mothers-partner-fake-covid-vaccine.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/08/benjamin-netanyahu-replacement-hezbollah-chief-killed-strike/</loc>
+          <loc>https://majordigest.com/world/2024/10/09/ishiba-dissolves-japans-lower-house-to-set-up-an-oct-27-parliamentary-election/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T18:46:46.000Z</news:publication_date>
-            <news:title>Netanyahu says replacement for slain Hezbollah chief was killed</news:title>
+            <news:publication_date>2024-10-09T07:06:53.000Z</news:publication_date>
+            <news:title>Japan's new PM dissolves the lower house of parliament to set up a snap election</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/08/benjamin-netanyahu-replacement-hezbollah-chief-killed-strike.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/09/ishiba-dissolves-japans-lower-house-to-set-up-an-oct-27-parliamentary-election.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/08/frances-fragile-new-government-faces-a-no-confidence-vote-as-far-right-offers-critical-support/</loc>
+          <loc>https://majordigest.com/world/2024/10/08/musks-x-to-be-reinstated-in-brazil-after-complying-with-supreme-court-demands/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T18:37:56.000Z</news:publication_date>
-            <news:title>France&#8217;s minority government survives a no-confidence vote, 2 weeks after taking office</news:title>
+            <news:publication_date>2024-10-08T23:22:22.000Z</news:publication_date>
+            <news:title>Musk's X to be reinstated in Brazil after complying with Supreme Court demands</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/08/frances-fragile-new-government-faces-a-no-confidence-vote-as-far-right-offers-critical-support.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/08/musks-x-to-be-reinstated-in-brazil-after-complying-with-supreme-court-demands.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/08/mexicos-president-lays-out-a-plan-to-combat-cartel-violence-but-it-looks-like-more-of-the-same/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-08T17:34:09.000Z</news:publication_date>
+            <news:title>Mexico's president lays out a plan to combat cartel violence. But it looks like more of the same</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/08/mexicos-president-lays-out-a-plan-to-combat-cartel-violence-but-it-looks-like-more-of-the-same.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,31 +241,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/08/marburg-virus-rwanda-cdc/</loc>
+          <loc>https://majordigest.com/world/2024/10/08/hungarys-orban-interrupted-accused-selling-out-country-russia-china-eu-news-conference/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T15:27:51.000Z</news:publication_date>
-            <news:title>Travelers from Rwanda to be screened for Marburg</news:title>
+            <news:publication_date>2024-10-08T15:57:06.000Z</news:publication_date>
+            <news:title>Hungary&#8217;s Orban interrupted, accused of 'selling out' country to Russia, China during EU news conference</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/08/marburg-virus-rwanda-cdc.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/08/trump-campaign-rejects-woodward-book/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-08T14:43:07.000Z</news:publication_date>
-            <news:title>Trump campaign blasts Woodward; denies secret Putin calls</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/08/trump-campaign-rejects-woodward-book.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/08/hungarys-orban-interrupted-accused-selling-out-country-russia-china-eu-news-conference.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -269,31 +269,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/08/german-leader-scholzs-party-moves-fast-to-replace-an-official-in-a-key-campaign-post/</loc>
+          <loc>https://majordigest.com/world/2024/10/08/votes-are-being-counted-in-the-election-for-a-truncated-government-in-indian-controlled-kashmir/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T13:47:38.000Z</news:publication_date>
-            <news:title>German leader Scholz's party moves fast to replace an official in a key campaign post</news:title>
+            <news:publication_date>2024-10-08T09:09:08.000Z</news:publication_date>
+            <news:title>Votes are being counted in the election for a truncated government in Indian-controlled Kashmir</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/08/german-leader-scholzs-party-moves-fast-to-replace-an-official-in-a-key-campaign-post.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/08/votes-are-being-counted-in-the-election-for-a-truncated-government-in-indian-controlled-kashmir.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/08/4000-staffordshire-hoard-make-largest-collection-history-its-kind/</loc>
+          <loc>https://majordigest.com/world/2024/10/08/no-evidence-of-major-fuel-spill-on-samoan-reef-where-new-zealand-navy-ship-sank/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T12:24:25.000Z</news:publication_date>
-            <news:title>The 4,000 items in the Staffordshire Hoard make it the largest collection in history of its kind</news:title>
+            <news:publication_date>2024-10-08T05:31:04.000Z</news:publication_date>
+            <news:title>No evidence of major fuel spill on Samoan reef where New Zealand navy ship sank</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/08/4000-staffordshire-hoard-make-largest-collection-history-its-kind.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/08/no-evidence-of-major-fuel-spill-on-samoan-reef-where-new-zealand-navy-ship-sank.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -311,17 +311,87 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/07/four-american-hostages-remain-hamas-captivity-year-after-oct-7-massacre/</loc>
+          <loc>https://majordigest.com/world/2024/10/08/north-koreas-kim-again-threatens-to-use-nuclear-weapons-against-south-korea-and-us/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-07T19:37:21.000Z</news:publication_date>
-            <news:title>Four American hostages remain in Hamas captivity a year after Oct. 7 massacre</news:title>
+            <news:publication_date>2024-10-08T03:23:11.000Z</news:publication_date>
+            <news:title>North Korea's Kim again threatens to use nuclear weapons against South Korea and US</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/07/four-american-hostages-remain-hamas-captivity-year-after-oct-7-massacre.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/08/north-koreas-kim-again-threatens-to-use-nuclear-weapons-against-south-korea-and-us.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/07/mexican-mayor-murdered-week-taking-office/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-07T20:56:43.000Z</news:publication_date>
+            <news:title>Mexican mayor murdered less than a week after taking office</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/07/mexican-mayor-murdered-week-taking-office.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/07/watch-live-harris-emhoff-mark-oct-7-attacks-at-vps-residence/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-07T18:00:00.000Z</news:publication_date>
+            <news:title>Watch: Harris, Emhoff mark anniversary of Oct. 7 attacks</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/07/watch-live-harris-emhoff-mark-oct-7-attacks-at-vps-residence.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/07/oct-7-how-many-dead-israel-hamas-war/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-07T15:40:57.000Z</news:publication_date>
+            <news:title>How many are dead, missing one year since Hamas' attack on Israel?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/07/oct-7-how-many-dead-israel-hamas-war.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/07/russia-jails-american-stephen-hubbard-over-fighting-mercenary-ukraine/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-07T14:40:28.000Z</news:publication_date>
+            <news:title>Russia jails American Stephen Hubbard over fighting as a mercenary in Ukraine</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/07/russia-jails-american-stephen-hubbard-over-fighting-mercenary-ukraine.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/07/benjamin-netanyahus-churchill-moment-comes-amid-multi-front-war-against-iranian-terror-expert-says/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-07T13:09:05.000Z</news:publication_date>
+            <news:title>Benjamin Netanyahu's Churchill moment comes amid multifront war against Iranian terror, expert says</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/07/benjamin-netanyahus-churchill-moment-comes-amid-multi-front-war-against-iranian-terror-expert-says.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -339,20 +409,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/07/the-worlds-rivers-faced-the-driest-year-in-three-decades-in-2023-the-un-weather-agency-says/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-07T11:58:59.000Z</news:publication_date>
-            <news:title>The world's rivers faced the driest year in three decades in 2023, the UN weather agency says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/07/the-worlds-rivers-faced-the-driest-year-in-three-decades-in-2023-the-un-weather-agency-says.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2024/10/07/hamas-launches-rockets-from-gaza-one-year-after-oct-7-attacks-while-idf-strikes-terror-targets/</loc>
           <news:news>
             <news:publication>
@@ -367,73 +423,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/07/swiss-probe-womans-voluntary-death-causing-advocacy-groups-behind-suicide-capsule-suspend-its-use/</loc>
+          <loc>https://majordigest.com/world/2024/10/07/american-father-hamas-hostage-itay-chen-pushes-us-israel-plan-b-negotiations-falter/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-07T07:36:17.000Z</news:publication_date>
-            <news:title>Swiss probe into woman's voluntary death causing advocacy groups behind 'suicide capsule' to suspend its use</news:title>
+            <news:publication_date>2024-10-07T08:00:43.000Z</news:publication_date>
+            <news:title>American father of Hamas hostage Itay Chen pushes US, Israel on &#8216;Plan B&#8217; as negotiations falter</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/07/swiss-probe-womans-voluntary-death-causing-advocacy-groups-behind-suicide-capsule-suspend-its-use.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/07/american-father-hamas-hostage-itay-chen-pushes-us-israel-plan-b-negotiations-falter.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/07/irans-chief-overseas-arms-dealings-radio-silent-since-beirut-strikes-iranian-officials/</loc>
+          <loc>https://majordigest.com/world/2024/10/06/iran-lifts-flight-restrictions-ahead-schedule-after-grounding-all-flights-operational-restrictions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-07T01:21:35.000Z</news:publication_date>
-            <news:title>Iran&#8217;s chief of overseas arms dealings radio silent since Beirut strikes: Iranian officials</news:title>
+            <news:publication_date>2024-10-06T20:13:37.000Z</news:publication_date>
+            <news:title>Iran lifts flight restrictions ahead of schedule after grounding all flights for 'operational restrictions'</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/07/irans-chief-overseas-arms-dealings-radio-silent-since-beirut-strikes-iranian-officials.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/07/oct-7-attacks-documentary-movie/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-07T01:06:04.000Z</news:publication_date>
-            <news:title>New film documents Oct. 7 attacks after first anniversary</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/07/oct-7-attacks-documentary-movie.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/06/israeli-official-warns-everything-table-idf-prepares-response-iranian-missile-attack/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T20:41:21.000Z</news:publication_date>
-            <news:title>Israeli official warns 'everything is on the table' as IDF prepares response to Iranian missile attack</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/06/israeli-official-warns-everything-table-idf-prepares-response-iranian-missile-attack.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/06/apparent-israeli-airstrike-on-mosque-in-central-gaza-kills-at-least-18-people/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T14:18:33.000Z</news:publication_date>
-            <news:title>A strike on a mosque kills at least 19, Palestinian officials say, as Israel bombards northern Gaza and southern Lebanon</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/06/apparent-israeli-airstrike-on-mosque-in-central-gaza-kills-at-least-18-people.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/06/iran-lifts-flight-restrictions-ahead-schedule-after-grounding-all-flights-operational-restrictions.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -448,34 +462,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/world/2024/10/04/israeli-airstrikes-rock-southern-suburbs-of-beirut-and-cut-off-a-key-crossing-into-syria.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/mexicos-new-president-promises-to-resume-fight-against-climate-change/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T15:42:26.000Z</news:publication_date>
-            <news:title>Mexico&#8217;s new president promises to resume fight against climate change</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/mexicos-new-president-promises-to-resume-fight-against-climate-change.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/04/us-arranges-flights-to-bring-americans-out-of-lebanon-as-others-seek-escape/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T15:38:28.000Z</news:publication_date>
-            <news:title>US arranges flights to bring Americans out of Lebanon as others seek escape</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/04/us-arranges-flights-to-bring-americans-out-of-lebanon-as-others-seek-escape.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -504,19 +490,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/world/2024/10/04/north-koreas-kim-threatens-to-destroy-south-korea-with-nuclear-strikes-if-provoked.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/03/12-injured-after-a-russian-glide-bomb-smashes-into-a-ukrainian-apartment-building/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-03T12:23:22.000Z</news:publication_date>
-            <news:title>New NATO chief Mark Rutte visits Ukraine in his first trip since taking office</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/03/12-injured-after-a-russian-glide-bomb-smashes-into-a-ukrainian-apartment-building.webp</image:loc>
           </image:image>
         </url></urlset>
