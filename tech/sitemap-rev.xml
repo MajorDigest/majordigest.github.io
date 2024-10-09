@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/08/california-joins-13-other-states-in-lawsuit-against-tiktok-over-alleged-harm-to-childrens-mental-health/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/the-nobel-prize-in-chemistry-is-being-awarded-in-stockholm/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T15:02:14.000Z</news:publication_date>
-            <news:title>TikTok Lawsuits: 14 Attorneys General File Action Against Platform Over Mental Health Concerns</news:title>
+            <news:publication_date>2024-10-09T08:05:43.000Z</news:publication_date>
+            <news:title>The Nobel Prize in Chemistry: A Day After AI Pioneers Won Physics Award</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/08/california-joins-13-other-states-in-lawsuit-against-tiktok-over-alleged-harm-to-childrens-mental-health.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/the-nobel-prize-in-chemistry-is-being-awarded-in-stockholm.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/09/understanding-the-proxy-market/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T07:35:35.000Z</news:publication_date>
+            <news:title>The Unseen Role of Proxies in Business: Understanding the Benefits and Practices</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/understanding-the-proxy-market.webp</image:loc>
           </image:image>
         </url></urlset>
