@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/us/2024/10/09/why-do-people-fill-their-bathtubs-with-water-before-a-hurricane/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T02:54:29.000Z</news:publication_date>
+            <news:title>Why do people fill their bathtubs with water before a hurricane?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/09/why-do-people-fill-their-bathtubs-with-water-before-a-hurricane.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/us/2024/10/09/florida-has-nearly-all-ballots-counted-on-election-day-while-california-can-take-weeks-this-is-why/</loc>
           <news:news>
             <news:publication>
@@ -31,31 +45,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/09/chicago-prosecutor-declines-charge-dangerous-colombian-migrant-shooting-death-17-year-old/</loc>
+          <loc>https://majordigest.com/us/2024/10/09/video-floridians-last-minute-preparations-ahead-hurricane-milton/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T01:00:04.000Z</news:publication_date>
-            <news:title>Chicago prosecutor declines to charge 'dangerous' Colombian migrant in shooting death of 17-year-old</news:title>
+            <news:publication_date>2024-10-09T01:02:28.000Z</news:publication_date>
+            <news:title>Video shows Floridians making last-minute preparations ahead of Hurricane Milton</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/09/chicago-prosecutor-declines-charge-dangerous-colombian-migrant-shooting-death-17-year-old.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/09/video-floridians-last-minute-preparations-ahead-hurricane-milton.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/08/retired-houston-officer-gets-60-years-for-deaths-of-couple-during-drug-raid/</loc>
+          <loc>https://majordigest.com/us/2024/10/08/plane-evacuating-people-from-hurricane-milton-crashes-after-takeoff/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T23:17:39.000Z</news:publication_date>
-            <news:title>A retired Houston officer gets 60 years in a couple's drug raid deaths that revealed corruption</news:title>
+            <news:publication_date>2024-10-08T23:59:51.000Z</news:publication_date>
+            <news:title>Plane evacuating people from Hurricane Milton crashes after takeoff</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/retired-houston-officer-gets-60-years-for-deaths-of-couple-during-drug-raid.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/08/plane-evacuating-people-from-hurricane-milton-crashes-after-takeoff.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,59 +87,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/08/how-will-hurricane-milton-stack-up-against-other-major-recent-storms/</loc>
+          <loc>https://majordigest.com/us/2024/10/08/coconut-rhinoceros-beetle-infestations-oahu/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T22:51:28.000Z</news:publication_date>
-            <news:title>How will Hurricane Milton stack up against other major recent storms?</news:title>
+            <news:publication_date>2024-10-08T22:05:18.000Z</news:publication_date>
+            <news:title>How do officials plan to manage CRB infestations on Oahu?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/how-will-hurricane-milton-stack-up-against-other-major-recent-storms.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/08/hurricane-milton-plane-crash-evacuation/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-08T22:46:04.000Z</news:publication_date>
-            <news:title>Plane evacuating people from Hurricane Milton crashes after takeoff</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/hurricane-milton-plane-crash-evacuation.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/08/video-hurricane-hunters-take-turbulent-trip-through-milton/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-08T22:41:45.000Z</news:publication_date>
-            <news:title>VIDEO: Hurricane hunters take turbulent trip through Milton</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/video-hurricane-hunters-take-turbulent-trip-through-milton.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/08/plane-evacuating-people-from-hurricane-milton-crashes-after-takeoff/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-08T22:28:46.000Z</news:publication_date>
-            <news:title>Plane evacuating people from Hurricane Milton crashes after takeoff</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/plane-evacuating-people-from-hurricane-milton-crashes-after-takeoff.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/08/coconut-rhinoceros-beetle-infestations-oahu.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,31 +115,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/08/why-do-people-fill-their-bathtubs-with-water-before-a-hurricane/</loc>
+          <loc>https://majordigest.com/us/2024/10/08/fentanyl-hidden-within-carne-asada-beef-seized-in-fresno-county/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T20:47:49.000Z</news:publication_date>
-            <news:title>Why do people fill their bathtubs with water before a hurricane?</news:title>
+            <news:publication_date>2024-10-08T21:13:59.000Z</news:publication_date>
+            <news:title>Fentanyl hidden within carne asada beef seized in Fresno County</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/why-do-people-fill-their-bathtubs-with-water-before-a-hurricane.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/08/fentanyl-hidden-within-carne-asada-beef-seized-in-fresno-county.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/08/cook-political-report-shifts-wisconsin-senate-race-toward-gop/</loc>
+          <loc>https://majordigest.com/us/2024/10/08/what-makes-a-storm-a-hurricane-the-dangers-across-5-categories/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T19:40:52.000Z</news:publication_date>
-            <news:title>Cook Political Report shifts Wisconsin Senate race toward GOP</news:title>
+            <news:publication_date>2024-10-08T20:10:05.000Z</news:publication_date>
+            <news:title>What makes a storm a hurricane? The dangers across 5 categories</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/cook-political-report-shifts-wisconsin-senate-race-toward-gop.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/08/what-makes-a-storm-a-hurricane-the-dangers-across-5-categories.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/08/supreme-court-to-decide-whether-oklahoma-must-execute-death-row-inmate/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-08T19:39:24.000Z</news:publication_date>
+            <news:title>Supreme Court to decide whether Oklahoma must execute death row inmate</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/08/supreme-court-to-decide-whether-oklahoma-must-execute-death-row-inmate.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -177,11 +163,25 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T19:09:01.000Z</news:publication_date>
+            <news:publication_date>2024-10-08T19:09:12.000Z</news:publication_date>
             <news:title>West Virginia woman met her husband after getting donor lungs from his late sister</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/us/2024/10/08/west-virginia-woman-met-her-husband-after-getting-donor-lungs-from-his-late-sister.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/08/uk-doctor-poison-fake-vaccine-appointment/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-08T19:00:38.000Z</news:publication_date>
+            <news:title>Doctor poisoned mom's partner during fake home visit</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/08/uk-doctor-poison-fake-vaccine-appointment.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -199,101 +199,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/08/trumps-shifting-abortion-stance-raises-questions-for-evangelical-support/</loc>
+          <loc>https://majordigest.com/us/2024/10/08/remains-american-woman-68-found-stomach-shark-after-disappearing-diving-vacation/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T17:33:51.000Z</news:publication_date>
-            <news:title>Trump's shifting abortion stance raises questions for evangelical support</news:title>
+            <news:publication_date>2024-10-08T15:41:33.000Z</news:publication_date>
+            <news:title>Remains of Michigan woman, 68, who disappeared during vacation, found in stomach of shark</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/trumps-shifting-abortion-stance-raises-questions-for-evangelical-support.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/08/remains-american-woman-68-found-stomach-shark-after-disappearing-diving-vacation.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/08/states-sue-tiktok-alleging-platform-is-addictive-harms-kids-mental-health/</loc>
+          <loc>https://majordigest.com/us/2024/10/08/hurricane-milton-may-be-october-surprise-in-presidential-battle/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T16:04:57.000Z</news:publication_date>
-            <news:title>States sue TikTok, alleging platform is addictive, harms kids' mental health</news:title>
+            <news:publication_date>2024-10-08T12:53:16.000Z</news:publication_date>
+            <news:title>Hurricane Milton may be October surprise in presidential battle</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/states-sue-tiktok-alleging-platform-is-addictive-harms-kids-mental-health.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/08/hurricane-milton-may-be-october-surprise-in-presidential-battle.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/08/trump-campaign-blasts-bob-woodward-denies-secret-putin-calls/</loc>
+          <loc>https://majordigest.com/us/2024/10/08/why-is-tampa-bay-so-vulnerable-to-hurricanes/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T15:46:40.000Z</news:publication_date>
-            <news:title>Trump campaign blasts Bob Woodward; denies secret Putin calls</news:title>
+            <news:publication_date>2024-10-08T10:18:22.000Z</news:publication_date>
+            <news:title>Why is Tampa Bay so vulnerable to hurricanes?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/trump-campaign-blasts-bob-woodward-denies-secret-putin-calls.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/08/why-is-tampa-bay-so-vulnerable-to-hurricanes.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/08/melania-trump-waves-off-hand-swatting-incident-a-mere-misunderstanding/</loc>
+          <loc>https://majordigest.com/us/2024/10/08/gabby-petito-describes-utah-fight-brian-laundrie-conversation-female-park-ranger-bodycam/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T15:44:10.000Z</news:publication_date>
-            <news:title>Melania Trump waves off 'hand-swatting incident': A 'mere misunderstanding'</news:title>
+            <news:publication_date>2024-10-08T08:00:09.000Z</news:publication_date>
+            <news:title>Gabby Petito describes Utah fight with Brian Laundrie in conversation with female park ranger: bodycam</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/melania-trump-waves-off-hand-swatting-incident-a-mere-misunderstanding.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/08/gabby-petito-describes-utah-fight-brian-laundrie-conversation-female-park-ranger-bodycam.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/08/canyoneer-dies-after-accidental-150-foot-fall-at-zion-national-park/</loc>
+          <loc>https://majordigest.com/us/2024/10/08/florida-prepares-for-massive-evacuations-as-hurricane-milton-takes-aim-at-major-metro-areas/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T14:37:53.000Z</news:publication_date>
-            <news:title>Canyoneer dies after accidental 150-foot fall at Zion National Park</news:title>
+            <news:publication_date>2024-10-08T03:28:50.000Z</news:publication_date>
+            <news:title>Hurricane Milton is a Category 5. Florida orders evacuations and scrambles to clear Helene's debris</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/canyoneer-dies-after-accidental-150-foot-fall-at-zion-national-park.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/08/heres-why-experts-are-so-worried-about-hurricane-milton/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-08T02:58:19.000Z</news:publication_date>
-            <news:title>Here's why experts are so worried about Hurricane Milton</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/heres-why-experts-are-so-worried-about-hurricane-milton.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/08/fema-administrator-continues-pushback-against-false-claims-as-helene-death-toll-hits-230/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-08T01:09:18.000Z</news:publication_date>
-            <news:title>FEMA administrator continues pushback against false claims as Helene death toll hits 230</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/08/fema-administrator-continues-pushback-against-false-claims-as-helene-death-toll-hits-230.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/08/florida-prepares-for-massive-evacuations-as-hurricane-milton-takes-aim-at-major-metro-areas.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -311,157 +283,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/07/are-hurricanes-intensifying-more-rapidly-than-ever-before/</loc>
+          <loc>https://majordigest.com/us/2024/10/07/a-peek-inside-human-brain-shows-a-way-it-cleans-out-waste/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-07T17:22:34.000Z</news:publication_date>
-            <news:title>Are hurricanes intensifying more rapidly than ever before?</news:title>
+            <news:publication_date>2024-10-07T21:57:21.000Z</news:publication_date>
+            <news:title>A peek inside human brain shows a way it cleans out waste</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/07/are-hurricanes-intensifying-more-rapidly-than-ever-before.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/07/a-peek-inside-human-brain-shows-a-way-it-cleans-out-waste.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/07/supreme-court-taking-the-bench-with-ghost-guns-a-capital-case-and-transgender-rights-on-the-docket/</loc>
+          <loc>https://majordigest.com/us/2024/10/07/new-analysis-suggests-national-debt-could-increase-under-harris-but-it-would-surge-under-trump/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-07T16:27:20.000Z</news:publication_date>
-            <news:title>Supreme Court takes the bench with ghost guns, a capital case and transgender rights on the docket</news:title>
+            <news:publication_date>2024-10-07T20:47:29.000Z</news:publication_date>
+            <news:title>New analysis suggests national debt could increase under Harris, but it would surge under Trump</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/07/supreme-court-taking-the-bench-with-ghost-guns-a-capital-case-and-transgender-rights-on-the-docket.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/07/new-analysis-suggests-national-debt-could-increase-under-harris-but-it-would-surge-under-trump.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/07/major-north-carolina-newspaper-knocks-trump-over-helene-response-falsehoods/</loc>
+          <loc>https://majordigest.com/us/2024/10/07/singer-cissy-houston-mother-of-whitney-houston-dies-at-91/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-07T15:27:59.000Z</news:publication_date>
-            <news:title>Major North Carolina newspaper knocks Trump over Helene response 'falsehoods'</news:title>
+            <news:publication_date>2024-10-07T19:41:50.000Z</news:publication_date>
+            <news:title>Singer Cissy Houston, mother of Whitney Houston, dies at 91</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/07/major-north-carolina-newspaper-knocks-trump-over-helene-response-falsehoods.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/07/singer-cissy-houston-mother-of-whitney-houston-dies-at-91.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/07/johnson-sidesteps-question-on-whether-trump-lost-2020-election-this-is-a-gotcha-game/</loc>
+          <loc>https://majordigest.com/us/2024/10/06/heres-what-spirit-halloween-seeks-in-an-ideal-retail-location/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-07T13:55:06.000Z</news:publication_date>
-            <news:title>Johnson sidesteps question on whether Trump lost 2020 election: &#8216;This is a gotcha game&#8217;</news:title>
+            <news:publication_date>2024-10-06T16:34:48.000Z</news:publication_date>
+            <news:title>Here's what Spirit Halloween seeks in an 'ideal' retail location</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/07/johnson-sidesteps-question-on-whether-trump-lost-2020-election-this-is-a-gotcha-game.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/07/walmart-will-be-closed-on-thanksgiving-day-for-5th-consecutive-year/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-07T02:02:54.000Z</news:publication_date>
-            <news:title>Walmart will be closed on Thanksgiving Day for 5th consecutive year</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/07/walmart-will-be-closed-on-thanksgiving-day-for-5th-consecutive-year.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/06/groups-suspend-use-of-suicide-capsule-pending-criminal-probe-of-us-womans-death/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T23:10:06.000Z</news:publication_date>
-            <news:title>Groups suspend use of 'suicide capsule' pending criminal probe of US woman's death</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/06/groups-suspend-use-of-suicide-capsule-pending-criminal-probe-of-us-womans-death.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/06/milton-becomes-hurricane-in-gulf-of-mexico-nhc/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T20:15:39.000Z</news:publication_date>
-            <news:title>Hurricane Milton growing stronger as it approaches Florida: NHC</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/06/milton-becomes-hurricane-in-gulf-of-mexico-nhc.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/06/voters-in-north-carolina-and-georgia-have-bigger-problems-than-politics-helene-changed-everything/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T17:41:16.000Z</news:publication_date>
-            <news:title>Voters in North Carolina and Georgia have bigger problems than politics. Helene changed everything</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/06/voters-in-north-carolina-and-georgia-have-bigger-problems-than-politics-helene-changed-everything.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/06/how-to-save-big-on-prime-day-by-loading-your-carts-now/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T15:15:44.000Z</news:publication_date>
-            <news:title>How to save big on Prime Day by loading your carts now</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/06/how-to-save-big-on-prime-day-by-loading-your-carts-now.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/06/tropical-storm-milton-expected-to-become-hurricane-on-sunday-nhc/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T14:58:23.000Z</news:publication_date>
-            <news:title>Hurricane Milton growing stronger as it approaches Florida: NHC</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/06/tropical-storm-milton-expected-to-become-hurricane-on-sunday-nhc.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/06/for-small-cities-across-alabama-with-haitian-populations-springfield-is-a-cautionary-tale/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T12:01:08.000Z</news:publication_date>
-            <news:title>For small cities across Alabama with Haitian populations, Springfield is a cautionary tale</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/06/for-small-cities-across-alabama-with-haitian-populations-springfield-is-a-cautionary-tale.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/06/heres-what-spirit-halloween-seeks-in-an-ideal-retail-location.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -493,6 +367,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/us/2024/10/06/european-cities-brace-for-pro-palestinian-rallies-amid-high-alert-as-oct-7-anniversary-approaches/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-06T03:06:37.000Z</news:publication_date>
+            <news:title>Thousands join pro-Palestinian rallies around the globe as Oct. 7 anniversary nears</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/06/european-cities-brace-for-pro-palestinian-rallies-amid-high-alert-as-oct-7-anniversary-approaches.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/us/2024/10/06/elon-musk-makes-appearance-at-trump-rally-casting-election-in-dire-terms/</loc>
           <news:news>
             <news:publication>
@@ -507,16 +395,114 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/05/hurricane-helene-aftermath-poses-election-hurdles-in-critical-battlegrounds/</loc>
+          <loc>https://majordigest.com/us/2024/10/05/keanu-reeves-spins-out-at-indianapolis-motor-speedway-in-pro-auto-racing-debut/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-05T21:00:50.000Z</news:publication_date>
-            <news:title>Hurricane Helene aftermath poses election hurdles in critical battlegrounds</news:title>
+            <news:publication_date>2024-10-05T21:42:47.000Z</news:publication_date>
+            <news:title>Keanu Reeves spins out at Indianapolis Motor Speedway in pro auto racing debut</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/05/hurricane-helene-aftermath-poses-election-hurdles-in-critical-battlegrounds.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/05/keanu-reeves-spins-out-at-indianapolis-motor-speedway-in-pro-auto-racing-debut.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/05/idaho-state-senator-tells-native-american-candidate-go-back-where-you-came-from-in-forum/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-05T02:42:03.000Z</news:publication_date>
+            <news:title>Idaho state senator tells Native American candidate 'go back where you came from' in forum</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/05/idaho-state-senator-tells-native-american-candidate-go-back-where-you-came-from-in-forum.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/03/source-dockworkers-union-to-suspend-strike-until-jan-15-to-allow-time-to-negotiate-new-contract/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-03T22:43:07.000Z</news:publication_date>
+            <news:title>Dockworkers' union to suspend strike until Jan. 15 to allow time to negotiate new contract</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/03/source-dockworkers-union-to-suspend-strike-until-jan-15-to-allow-time-to-negotiate-new-contract.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/03/melania-trump-says-she-supports-abortion-rights-putting-her-at-odds-with-the-gop/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-03T19:54:25.000Z</news:publication_date>
+            <news:title>Melania Trump says she supports abortion rights, putting her at odds with the GOP</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/03/melania-trump-says-she-supports-abortion-rights-putting-her-at-odds-with-the-gop.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/03/federal-agencies-warn-of-scams-in-wake-of-helene/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-03T18:33:42.000Z</news:publication_date>
+            <news:title>Federal agencies warn of scams in wake of Helene</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/03/federal-agencies-warn-of-scams-in-wake-of-helene.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/03/video-shipping-container-slams-into-electrical-pole-during-hurricane-helene-death-toll-reaches-200/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-03T17:46:57.000Z</news:publication_date>
+            <news:title>VIDEO: Shipping container slams into electrical pole during Hurricane Helene; death toll reaches 200</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/03/video-shipping-container-slams-into-electrical-pole-during-hurricane-helene-death-toll-reaches-200.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/02/after-employees-swept-away-in-helene-flooding-tennessee-factory-under-investigation/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T18:56:05.000Z</news:publication_date>
+            <news:title>After employees swept away in Helene flooding, Tennessee factory under investigation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/02/after-employees-swept-away-in-helene-flooding-tennessee-factory-under-investigation.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/02/hurricane-helene-renews-calls-for-congress-to-pass-disaster-funding/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-02T10:01:28.000Z</news:publication_date>
+            <news:title>Hurricane Helene renews calls for Congress to pass disaster funding</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/02/hurricane-helene-renews-calls-for-congress-to-pass-disaster-funding.webp</image:loc>
           </image:image>
         </url></urlset>
