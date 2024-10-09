@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.comnull</loc>
+          <loc>https://majordigest.com/tech/2024/10/08/iphone-update-text-for-help-no-cell-service/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T11:31:48.000Z</news:publication_date>
-            <news:title>Staying Connected in the Face of Disaster: Apple's Satellite-Based Services</news:title>
+            <news:publication_date>2024-10-08T23:02:40.000Z</news:publication_date>
+            <news:title>iPhone Satellite Feature Could Be Life-Saving During Hurricane Milton</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/how-to-send-satellite-messages-on-your-iphone.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/08/iphone-update-text-for-help-no-cell-service.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/04/tech-tips-tricks-everyone-should-know/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-04T22:19:35.000Z</news:publication_date>
+            <news:title>New iPhone Frustrations: Easy Solutions to Make Tech Less Annoying</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/04/tech-tips-tricks-everyone-should-know.webp</image:loc>
           </image:image>
         </url></urlset>
