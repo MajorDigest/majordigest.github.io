@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/10/ben-horowitzs-dual-support-for-trump-and-harris-says-a-lot-about-the-valleys-ai-politics/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T23:00:00.000Z</news:publication_date>
-            <news:title>Ben Horowitz&#8217;s dual support for Trump and Harris says a lot about the Valley&#8217;s AI politics</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/ben-horowitzs-dual-support-for-trump-and-harris-says-a-lot-about-the-valleys-ai-politics.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/10/10/52-million-settlement-announced-between-marriott-ftc/</loc>
           <news:news>
             <news:publication>
@@ -31,17 +17,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/10/north-carolina-maker-of-high-purity-quartz-back-operating-post-helene/</loc>
+          <loc>https://majordigest.com/tech/2024/10/10/typescript-5-7-improves-error-reporting/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-10T20:17:18.000Z</news:publication_date>
-            <news:title>North Carolina maker of high-purity quartz back operating post-Helene</news:title>
+            <news:publication_date>2024-10-10T20:25:49.000Z</news:publication_date>
+            <news:title>TypeScript 5.7 improves error reporting</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/north-carolina-maker-of-high-purity-quartz-back-operating-post-helene.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/typescript-5-7-improves-error-reporting.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -52,192 +38,38 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-10-10T19:31:00.000Z</news:publication_date>
-            <news:title>Dualtronics Breakthrough: Cornell Researchers Revolutionize Semiconductor Tech</news:title>
+            <news:title>Only 'limited by your imagination': Gallium Nitride breakthrough could make LED displays more affordable and convert your smartphone screen into an antenna</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/10/only-limited-by-your-imagination-gallium-nitride-breakthrough-could-make-led-displays-more-affordable-and-convert-your-smartphone-screen-into-an-antenna.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/10/amd-announces-new-ryzen-ai-pro-300-series-processors-bringing-copilot-pcs-to-enterprise-users/</loc>
+          <loc>https://majordigest.com/tech/2024/10/10/good-news-gamers-amd-could-launch-a-cheap-radeon-gpu-soon-that-may-shake-up-the-budget-card-market/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-10T18:00:19.000Z</news:publication_date>
-            <news:title>AMD Ryzen AI Pro 300: Enterprise-Focused Lineup Brings More Powerful AI Chips to Businesses</news:title>
+            <news:publication_date>2024-10-10T19:22:26.000Z</news:publication_date>
+            <news:title>Rumors Spark Around AMD Radeon RX 7650 GRE Graphics Card: What to Expect in 2025?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/amd-announces-new-ryzen-ai-pro-300-series-processors-bringing-copilot-pcs-to-enterprise-users.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/good-news-gamers-amd-could-launch-a-cheap-radeon-gpu-soon-that-may-shake-up-the-budget-card-market.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/10/cisco-revamps-key-devnet-sandboxes/</loc>
+          <loc>https://majordigest.com/tech/2024/10/10/openai-misuse-elections/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-10T17:47:54.000Z</news:publication_date>
-            <news:title>Cisco revamps key DevNet sandboxes</news:title>
+            <news:publication_date>2024-10-10T19:17:54.000Z</news:publication_date>
+            <news:title>OpenAI sees continued attempts to use AI models for election interference</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/cisco-revamps-key-devnet-sandboxes.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/sfc-bug-detected-in-new-windows-11-24h2-update-microsoft-sure-to-issue-a-patch/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T17:32:11.000Z</news:publication_date>
-            <news:title>sfc bug detected in new Windows 11 24H2 update - Microsoft sure to issue a patch</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/sfc-bug-detected-in-new-windows-11-24h2-update-microsoft-sure-to-issue-a-patch.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/this-has-to-be-one-of-the-weirdest-pcie-cards-ever-sold-japanese-firm-fuses-antiquated-parallel-port-with-pcie-slot-and-promises-that-it-is-compatible-with-windows-xp/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T17:32:00.000Z</news:publication_date>
-            <news:title>This has to be one of the weirdest PCIe cards ever sold &#8212; Japanese firm fuses antiquated parallel port with PCIe slot, and promises it is compatible with Windows XP</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/this-has-to-be-one-of-the-weirdest-pcie-cards-ever-sold-japanese-firm-fuses-antiquated-parallel-port-with-pcie-slot-and-promises-that-it-is-compatible-with-windows-xp.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/ibm-78-of-mainframe-shops-are-piloting-operating-ai-apps/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T15:48:42.000Z</news:publication_date>
-            <news:title>IBM: 78% of mainframe shops are piloting, operating AI apps</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/ibm-78-of-mainframe-shops-are-piloting-operating-ai-apps.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/trials-for-2019-pleasure-point-mans-killing-divided-into-four/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T14:37:28.000Z</news:publication_date>
-            <news:title>Trials for 2019 kidnapping, killing of Santa Cruz tech entrepreneur divided into four</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/trials-for-2019-pleasure-point-mans-killing-divided-into-four.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/jd-vance-silicon-valley-fundraiser-supporters-california-bay-area/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T12:20:13.000Z</news:publication_date>
-            <news:title>Waiting for JD: Vance&#8217;s appearance at Silicon Valley fundraiser keeps nearby crowd on edge</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/jd-vance-silicon-valley-fundraiser-supporters-california-bay-area.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/five-days-a-week-in-the-office-forget-it/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T10:05:00.000Z</news:publication_date>
-            <news:title>Five days a week in the office? Forget it!</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/five-days-a-week-in-the-office-forget-it.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/heres-whats-new-in-office-2024/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T10:00:00.000Z</news:publication_date>
-            <news:title>Here&#8217;s what&#8217;s new in Office 2024</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/heres-whats-new-in-office-2024.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/how-ntt-data-cio-barry-shurkey-takes-a-people-first-approach-to-it-success/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T10:00:00.000Z</news:publication_date>
-            <news:title>How NTT DATA CIO Barry Shurkey takes a people-first approach to IT success</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/how-ntt-data-cio-barry-shurkey-takes-a-people-first-approach-to-it-success.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/microsofts-drasi-a-lightweight-approach-to-event-driven-programming/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T09:00:00.000Z</news:publication_date>
-            <news:title>Microsoft&#8217;s Drasi: A lightweight approach to event-driven programming</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/microsofts-drasi-a-lightweight-approach-to-event-driven-programming.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/pmi-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%84%b1%ea%b3%b5%ec%9d%98-%ea%b8%b0%ec%a4%80-%ec%9e%ac%ec%a0%95%eb%a6%bd%ed%95%9c%eb%8b%a4-11%ec%9b%94-%ec%97%b0%ea%b5%ac-%ea%b2%b0%ea%b3%bc-%ea%b3%b5/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T02:28:57.000Z</news:publication_date>
-            <news:title>PMI, 프로젝트 성공의 기준 재정립한다 &#8220;11월 연구 결과 공개&#8221;</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/pmi-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%84%b1%ea%b3%b5%ec%9d%98-%ea%b8%b0%ec%a4%80-%ec%9e%ac%ec%a0%95%eb%a6%bd%ed%95%9c%eb%8b%a4-11%ec%9b%94-%ec%97%b0%ea%b5%ac-%ea%b2%b0%ea%b3%bc-%ea%b3%b5.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/why-its-important-to-support-fintechs-in-the-acceleration-age/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T02:10:30.000Z</news:publication_date>
-            <news:title>Why it&#8217;s important to support fintechs in the acceleration age</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/why-its-important-to-support-fintechs-in-the-acceleration-age.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/openai-misuse-elections.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -255,31 +87,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/09/twins-born-conjoined-celebrate-1st-birthday-after-separation-surgery/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/heres-what-has-made-hurricane-milton-so-fierce-and-unusual/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T20:57:12.000Z</news:publication_date>
-            <news:title>Twin boys born conjoined celebrate 1st birthday after separation surgery</news:title>
+            <news:publication_date>2024-10-09T22:58:39.000Z</news:publication_date>
+            <news:title>Here's what has made Hurricane Milton so fierce and unusual</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/twins-born-conjoined-celebrate-1st-birthday-after-separation-surgery.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/heres-what-has-made-hurricane-milton-so-fierce-and-unusual.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/09/google-scientists-share-chemistry-nobel-for-ai-protein-work/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/planned-adobe-app-to-put-an-end-to-ai-training-on-images-and-clips/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T14:53:37.000Z</news:publication_date>
-            <news:title>Google scientists share Nobel Prize in chemistry for AI protein work</news:title>
+            <news:publication_date>2024-10-09T18:41:09.000Z</news:publication_date>
+            <news:title>Planned Adobe app to put an end to AI training on images and clips</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/google-scientists-share-chemistry-nobel-for-ai-protein-work.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/planned-adobe-app-to-put-an-end-to-ai-training-on-images-and-clips.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/09/fox-news-ai-newsletter-creepy-yet-helpful/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T16:40:20.000Z</news:publication_date>
+            <news:title>Fox News AI Newsletter: Creepy yet helpful robot is ready to assist</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/fox-news-ai-newsletter-creepy-yet-helpful.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -289,7 +135,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T13:46:49.000Z</news:publication_date>
+            <news:publication_date>2024-10-09T13:46:48.000Z</news:publication_date>
             <news:title>American Water cyberattack renews focus on protecting critical infrastructure</news:title>
           </news:news>
           <image:image>
@@ -297,31 +143,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/09/us-considers-asking-court-to-break-up-google-as-it-weighs-remedies-in-the-antitrust-case/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/the-nobel-prize-in-chemistry-is-being-awarded-in-stockholm/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T13:23:47.000Z</news:publication_date>
-            <news:title>US considers asking court to break up Google as it weighs remedies in the antitrust case</news:title>
+            <news:publication_date>2024-10-09T08:05:43.000Z</news:publication_date>
+            <news:title>Nobel Prize in chemistry honors 3 scientists who used AI to design proteins &#8212; life's building blocks</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/us-considers-asking-court-to-break-up-google-as-it-weighs-remedies-in-the-antitrust-case.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/the-nobel-prize-in-chemistry-is-being-awarded-in-stockholm.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/09/windows-11-a-guide-to-the-updates/</loc>
+          <loc>https://majordigest.com/tech/2024/10/08/top-court-rules-x-reinstated-brazil/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T08:38:24.000Z</news:publication_date>
-            <news:title>Windows 11: A guide to the updates</news:title>
+            <news:publication_date>2024-10-08T22:53:42.000Z</news:publication_date>
+            <news:title>Brazil Supreme Court Reinstates X Amid Controversy Over Speech Moderation</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/windows-11-a-guide-to-the-updates.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/08/top-court-rules-x-reinstated-brazil.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -353,87 +199,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/08/iot-driven-endpoint-proliferation-requires-secure-by-design-principles/</loc>
+          <loc>https://majordigest.com/tech/2024/10/08/san-jose-tech-office-build-develop-property-real-estate-economy-loan/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T17:53:38.000Z</news:publication_date>
-            <news:title>IoT-driven endpoint proliferation requires secure-by-design principles</news:title>
+            <news:publication_date>2024-10-08T15:30:26.000Z</news:publication_date>
+            <news:title>Lender seizes big San Jose office building in grim sign of market woes</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/08/iot-driven-endpoint-proliferation-requires-secure-by-design-principles.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/08/san-jose-tech-office-build-develop-property-real-estate-economy-loan.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/08/federal-executive-forum-customer-experience-strategies-in-government-progress-and-best-practices-2024/</loc>
+          <loc>https://majordigest.com/tech/2024/10/08/databricks-says-with-its-new-databricks-apps-platform-you-can-build-tailored-enterprise-apps-in-5-minutes/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T14:56:00.000Z</news:publication_date>
-            <news:title>Federal Executive Forum Customer Experience Strategies in Government Progress and Best Practices 2024</news:title>
+            <news:publication_date>2024-10-08T13:00:00.000Z</news:publication_date>
+            <news:title>Databricks says with its new Databricks Apps platform, you can build tailored enterprise apps in 5 minutes</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/08/federal-executive-forum-customer-experience-strategies-in-government-progress-and-best-practices-2024.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/08/databricks-says-with-its-new-databricks-apps-platform-you-can-build-tailored-enterprise-apps-in-5-minutes.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/07/american-water-largest-water-utility-in-us-dealing-with-cyberattack/</loc>
+          <loc>https://majordigest.com/tech/2024/10/07/public-speakerphone-etiquette/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-07T21:51:07.000Z</news:publication_date>
-            <news:title>American Water, largest water utility in US, dealing with cyberattack</news:title>
+            <news:publication_date>2024-10-07T19:04:47.000Z</news:publication_date>
+            <news:title>Many loathe public speakerphone calls, so why do people do it?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/07/american-water-largest-water-utility-in-us-dealing-with-cyberattack.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/07/public-speakerphone-etiquette.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/07/the-coast-guard-will-hear-from-former-oceangate-employees-about-the-titan-implosion/</loc>
+          <loc>https://majordigest.com/tech/2024/10/07/a-new-tool-to-help-startups-get-a-foot-in-the-door-at-the-pentagon/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-07T20:14:37.000Z</news:publication_date>
-            <news:title>The Titan's former lead engineer says he felt pressured to get the submersible ready</news:title>
+            <news:publication_date>2024-10-07T16:09:56.000Z</news:publication_date>
+            <news:title>A new tool to help startups get a foot in the door at the Pentagon</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/07/the-coast-guard-will-hear-from-former-oceangate-employees-about-the-titan-implosion.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/07/a-new-tool-to-help-startups-get-a-foot-in-the-door-at-the-pentagon.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/07/open-source-isnt-going-to-save-ai/</loc>
+          <loc>https://majordigest.com/tech/2024/10/07/5-ways-data-scientists-can-prepare-now-for-genai-transformation/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-10-07T09:00:00.000Z</news:publication_date>
-            <news:title>Open source isn&#8217;t going to save AI</news:title>
+            <news:title>5 ways data scientists can prepare now for genAI transformation</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/07/open-source-isnt-going-to-save-ai.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/07/5-ways-companies-can-use-time-series-forecasting/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-07T08:30:00.000Z</news:publication_date>
-            <news:title>5 ways companies can use time series forecasting</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/07/5-ways-companies-can-use-time-series-forecasting.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/07/5-ways-data-scientists-can-prepare-now-for-genai-transformation.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -462,34 +294,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/04/what-to-stream-coldplay-an-unhinged-charlie-puth-salems-lot-sarah-paulson-and-nhl-25.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/04/fiscal-service-using-death-data-to-reduce-improper-payments/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T19:27:56.000Z</news:publication_date>
-            <news:title>Fiscal Service using death data to reduce improper payments</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/04/fiscal-service-using-death-data-to-reduce-improper-payments.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/04/civilization-7-makers-work-with-shawnee-to-bring-sincere-representation-of-the-tribe-to-the-game/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T19:24:59.000Z</news:publication_date>
-            <news:title>Civilization 7 makers work with Shawnee to bring sincere representation of the tribe to the game</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/04/civilization-7-makers-work-with-shawnee-to-bring-sincere-representation-of-the-tribe-to-the-game.webp</image:loc>
           </image:image>
         </url>
         <url>
