@@ -3,17 +3,59 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/10/the-inside-story-of-rokus-tv-program/</loc>
+          <loc>https://majordigest.com/tech/2024/10/10/ben-horowitzs-dual-support-for-trump-and-harris-says-a-lot-about-the-valleys-ai-politics/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-10T19:00:00.000Z</news:publication_date>
-            <news:title>The inside story of Roku&#8217;s TV program</news:title>
+            <news:publication_date>2024-10-10T23:00:00.000Z</news:publication_date>
+            <news:title>Ben Horowitz&#8217;s dual support for Trump and Harris says a lot about the Valley&#8217;s AI politics</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/the-inside-story-of-rokus-tv-program.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/ben-horowitzs-dual-support-for-trump-and-harris-says-a-lot-about-the-valleys-ai-politics.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/10/openai-misuse-elections/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-10T19:17:54.000Z</news:publication_date>
+            <news:title>Election Interference Rises: OpenAI Reports 20+ Misuse Attempts of AI Models</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/openai-misuse-elections.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/10/gsas-emerging-tech-radar-keeping-tabs-on-future-needs/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-10T18:55:44.000Z</news:publication_date>
+            <news:title>GSA&#8217;s emerging tech radar keeping tabs on future needs</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/gsas-emerging-tech-radar-keeping-tabs-on-future-needs.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/10/cisco-revamps-key-devnet-sandboxes/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-10T17:47:54.000Z</news:publication_date>
+            <news:title>Cisco Expands DevNet Sandboxes for Enterprise Networking Technologies - Enhanced Scalability and Simplicity</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/cisco-revamps-key-devnet-sandboxes.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -31,45 +73,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/10/your-cat-and-its-secret-life-cant-hide-from-rings-powerful-new-ai-video-search-feature/</loc>
+          <loc>https://majordigest.com/tech/2024/10/10/this-has-to-be-one-of-the-weirdest-pcie-cards-ever-sold-japanese-firm-fuses-antiquated-parallel-port-with-pcie-slot-and-promises-that-it-is-compatible-with-windows-xp/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-10T17:27:01.000Z</news:publication_date>
-            <news:title>Your cat and its secret life can&#8217;t hide from Ring&#8217;s powerful new AI video search feature</news:title>
+            <news:publication_date>2024-10-10T17:32:00.000Z</news:publication_date>
+            <news:title>This has to be one of the weirdest PCIe cards ever sold &#8212; Japanese firm fuses antiquated parallel port with PCIe slot, and promises it is compatible with Windows XP</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/your-cat-and-its-secret-life-cant-hide-from-rings-powerful-new-ai-video-search-feature.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/ibm-78-of-mainframe-shops-are-piloting-operating-ai-apps/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T15:48:42.000Z</news:publication_date>
-            <news:title>IBM: 78% of mainframe shops are piloting, operating AI apps</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/ibm-78-of-mainframe-shops-are-piloting-operating-ai-apps.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/cloudera-jockeys-for-ai-platform-prominence/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T14:47:46.000Z</news:publication_date>
-            <news:title>Cloudera jockeys for AI platform prominence</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/cloudera-jockeys-for-ai-platform-prominence.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/this-has-to-be-one-of-the-weirdest-pcie-cards-ever-sold-japanese-firm-fuses-antiquated-parallel-port-with-pcie-slot-and-promises-that-it-is-compatible-with-windows-xp.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -87,6 +101,62 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/10/10/what-to-expect-at-gitex-2024-key-technologies-shaping-the-future-for-tech-leaders/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-10T07:30:56.000Z</news:publication_date>
+            <news:title>What to expect at GITEX 2024: Key technologies shaping the future for tech leaders</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/what-to-expect-at-gitex-2024-key-technologies-shaping-the-future-for-tech-leaders.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/10/amazon-ai-vision-assisted-package-retrieval-spotlight-delivery-drivers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-10T04:30:00.000Z</news:publication_date>
+            <news:title>Amazon&#8217;s new AI-powered spotlight tech aims to help delivery drivers find packages faster</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/amazon-ai-vision-assisted-package-retrieval-spotlight-delivery-drivers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/10/why-its-important-to-support-fintechs-in-the-acceleration-age/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-10T02:10:30.000Z</news:publication_date>
+            <news:title>Why it&#8217;s important to support fintechs in the acceleration age</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/why-its-important-to-support-fintechs-in-the-acceleration-age.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/09/tesla-self-driving-robotaxi-black-box-concerns/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T23:00:00.000Z</news:publication_date>
+            <news:title>The big question mark at the center of Tesla&#8217;s self-driving Robotaxi</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/tesla-self-driving-robotaxi-black-box-concerns.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/10/09/heres-what-has-made-hurricane-milton-so-fierce-and-unusual/</loc>
           <news:news>
             <news:publication>
@@ -101,6 +171,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/10/09/login-gov-facial-recognition-option-gets-gsa-approval/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T22:21:11.000Z</news:publication_date>
+            <news:title>Login.gov facial recognition option gets GSA approval</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/login-gov-facial-recognition-option-gets-gsa-approval.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/09/twins-born-conjoined-celebrate-1st-birthday-after-separation-surgery/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T20:57:12.000Z</news:publication_date>
+            <news:title>Twin boys born conjoined celebrate 1st birthday after separation surgery</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/twins-born-conjoined-celebrate-1st-birthday-after-separation-surgery.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/10/09/climate-solution-form-energy-secures-405m-to-speed-development-of-long-awaited-100-hour-battery/</loc>
           <news:news>
             <news:publication>
@@ -108,94 +206,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-10-09T20:38:12.000Z</news:publication_date>
-            <news:title>Form Energy Hits $405 Million Funding Milestone</news:title>
+            <news:title>Climate solution: Form Energy secures $405M to speed development of long-awaited 100-hour battery</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/09/climate-solution-form-energy-secures-405m-to-speed-development-of-long-awaited-100-hour-battery.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/09/severe-solar-storm-could-stress-power-grids-even-more-as-us-deals-with-major-back-to-back-hurricanes/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T20:19:56.000Z</news:publication_date>
-            <news:title>Severe solar storm could stress power grids even more as US deals with major back-to-back hurricanes</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/severe-solar-storm-could-stress-power-grids-even-more-as-us-deals-with-major-back-to-back-hurricanes.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/09/gemini-code-assist-enterprise-woos-enterprise-developers/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T18:37:22.000Z</news:publication_date>
-            <news:title>Gemini Code Assist Enterprise woos enterprise developers</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/gemini-code-assist-enterprise-woos-enterprise-developers.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/09/chatgpt-canvas-notebooklm-bear-scrivener/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T18:30:00.000Z</news:publication_date>
-            <news:title>Big Tech&#8217;s experimental AI can&#8217;t beat old-school productivity gems</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/chatgpt-canvas-notebooklm-bear-scrivener.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/09/concordia-cemetery-technology-buffalo-history/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T18:18:35.000Z</news:publication_date>
-            <news:title>Volunteers at Concordia Cemetery use technology to unearth Buffalo history</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/concordia-cemetery-technology-buffalo-history.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/09/big-shift-in-it-employment-shows-new-skills-are-needed/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T18:09:00.000Z</news:publication_date>
-            <news:title>Big shift in IT employment shows new skills are needed</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/big-shift-in-it-employment-shows-new-skills-are-needed.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/09/can-facebook-win-back-gen-z/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T18:00:00.000Z</news:publication_date>
-            <news:title>Can Facebook win back Gen Z?</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/can-facebook-win-back-gen-z.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -206,24 +220,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-10-09T17:16:00.000Z</news:publication_date>
-            <news:title>BMC breaks into two: Mainframe and Helix businesses to operate independently</news:title>
+            <news:title>BMC Divides into Two Standalone Software Companies</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/09/bmc-breaks-into-two-mainframe-and-helix-businesses-to-operate-independently.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/09/these-ai-tools-can-make-filing-your-taxes-less-of-a-nightmare/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T17:15:00.000Z</news:publication_date>
-            <news:title>AI-Powered Tax Prep Services: Revolutionizing the Filing Process</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/these-ai-tools-can-make-filing-your-taxes-less-of-a-nightmare.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -241,59 +241,87 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/09/ransomware-attack-impacts-237000-comcast-customers/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/ocasio-cortez-defends-ftc-chair-khan-brawl/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T14:00:44.000Z</news:publication_date>
-            <news:title>Ransomware attack impacts 237,000 Comcast customers</news:title>
+            <news:publication_date>2024-10-09T16:06:35.000Z</news:publication_date>
+            <news:title>Ocasio-Cortez promises 'brawl' if 'billionaires' force out Lina Khan</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/ransomware-attack-impacts-237000-comcast-customers.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/ocasio-cortez-defends-ftc-chair-khan-brawl.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/09/why-bradley-tusk-believes-mobile-voting-is-key-the-health-of-our-democracy/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/american-water-cyberattack-renews-focus-on-protecting-critical-infrastructure/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T11:00:00.000Z</news:publication_date>
-            <news:title>Why Bradley Tusk believes mobile voting is key to the health of our democracy</news:title>
+            <news:publication_date>2024-10-09T13:46:48.000Z</news:publication_date>
+            <news:title>American Water cyberattack renews focus on protecting critical infrastructure</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/why-bradley-tusk-believes-mobile-voting-is-key-the-health-of-our-democracy.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/american-water-cyberattack-renews-focus-on-protecting-critical-infrastructure.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/09/electron-vs-tauri-which-cross-platform-framework-is-for-you/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/us-suggests-splitting-chrome-and-android-to-break-googles-monopoly/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T11:17:31.000Z</news:publication_date>
+            <news:title>DOJ suggests splitting off Chrome and Android to break Google&#8217;s monopoly</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/us-suggests-splitting-chrome-and-android-to-break-googles-monopoly.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/09/iphone-update-emergency-text-no-service-hurricane-milton/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T11:15:59.000Z</news:publication_date>
+            <news:title>iPhone update allows users to text for help when there's no cell service. How it works</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/iphone-update-emergency-text-no-service-hurricane-milton.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/09/states-sue-tiktok-addictive-harms-kids/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T09:41:16.000Z</news:publication_date>
+            <news:title>TikTok Sued by Over a Dozen States Over Allegations of Exploiting Young Users</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/states-sue-tiktok-addictive-harms-kids.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/09/websockets-under-the-hood/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-10-09T09:00:00.000Z</news:publication_date>
-            <news:title>Electron vs. Tauri: Which cross-platform framework is for you?</news:title>
+            <news:title>WebSockets under the hood with Node.js</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/electron-vs-tauri-which-cross-platform-framework-is-for-you.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/09/climate-change-boosted-helenes-deadly-rain-and-wind-and-scientists-say-same-is-likely-for-milton/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T04:02:56.000Z</news:publication_date>
-            <news:title>Climate change boosted Helene's deadly rain and wind and scientists say same is likely for Milton</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/climate-change-boosted-helenes-deadly-rain-and-wind-and-scientists-say-same-is-likely-for-milton.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/websockets-under-the-hood.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -311,59 +339,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/08/is-the-io-top-level-domain-headed-for-extinction/</loc>
+          <loc>https://majordigest.com/tech/2024/10/08/our-close-call-crafty-scammer-posing-microsoft-support/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T18:36:08.000Z</news:publication_date>
-            <news:title>Is the .io top level domain headed for extinction?</news:title>
+            <news:publication_date>2024-10-08T14:00:32.000Z</news:publication_date>
+            <news:title>A close call with crafty scammer posing as Microsoft support</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/08/is-the-io-top-level-domain-headed-for-extinction.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/08/our-close-call-crafty-scammer-posing-microsoft-support.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/08/elon-musk-tucker-carlson-harris-assassination-trump/</loc>
+          <loc>https://majordigest.com/tech/2024/10/07/dod-wringing-out-zero-trust-concepts-under-assessment-process/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T14:08:45.000Z</news:publication_date>
-            <news:title>Musk, Tucker Carlson laugh about post discussing hypothetical Harris assassination</news:title>
+            <news:publication_date>2024-10-07T22:15:42.000Z</news:publication_date>
+            <news:title>DoD wringing out zero trust concepts under assessment process</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/08/elon-musk-tucker-carlson-harris-assassination-trump.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/07/rust-resumes-rise-in-popularity/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-07T20:50:34.000Z</news:publication_date>
-            <news:title>Rust resumes rise in popularity</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/07/rust-resumes-rise-in-popularity.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/07/the-coast-guard-will-hear-from-former-oceangate-employees-about-the-titan-implosion/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-07T20:14:37.000Z</news:publication_date>
-            <news:title>The Titan's former lead engineer says he felt pressured to get the submersible ready</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/07/the-coast-guard-will-hear-from-former-oceangate-employees-about-the-titan-implosion.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/07/dod-wringing-out-zero-trust-concepts-under-assessment-process.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -378,6 +378,48 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/07/supreme-court-wont-take-up-challenge-to-jack-smiths-trump-twitter-data-access.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/07/chatgpt-o1-preview-excels-at-code-generation/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-07T02:44:38.000Z</news:publication_date>
+            <news:title>ChatGPT o1-preview excels at code generation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/07/chatgpt-o1-preview-excels-at-code-generation.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/06/advocacy-groups-suspend-use-of-suicide-capsule-pending-swiss-criminal-probe-into-its-first-use/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-06T19:44:06.000Z</news:publication_date>
+            <news:title>Advocacy groups suspend use of 'suicide capsule' pending Swiss criminal probe of woman's death</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/06/advocacy-groups-suspend-use-of-suicide-capsule-pending-swiss-criminal-probe-into-its-first-use.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/05/using-your-apple-watch-monitor-blood-pressure/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-05T10:00:27.000Z</news:publication_date>
+            <news:title>Using your Apple Watch to monitor blood pressure</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/05/using-your-apple-watch-monitor-blood-pressure.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -409,20 +451,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/04/understanding-exit-codes-on-linux-2/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-04T12:58:40.000Z</news:publication_date>
-            <news:title>Understanding exit codes on Linux</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/04/understanding-exit-codes-on-linux-2.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/10/04/google-says-it-will-stop-linking-to-new-zealand-news-if-a-law-passes-forcing-it-to-pay-for-content/</loc>
           <news:news>
             <news:publication>
@@ -448,19 +476,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/03/googles-search-engines-latest-ai-injection-will-answer-voiced-questions-about-video-and-photos.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/03/omb-gives-agencies-new-considerations-when-buying-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-03T21:01:50.000Z</news:publication_date>
-            <news:title>OMB&#8217;s new memo details new requirements for buying AI technology</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/03/omb-gives-agencies-new-considerations-when-buying-ai.webp</image:loc>
           </image:image>
         </url></urlset>
