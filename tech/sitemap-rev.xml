@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/09/nyt-connections-today-answers-hints-10-october-2024/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/can-facebook-win-back-gen-z/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T23:02:00.000Z</news:publication_date>
-            <news:title>The Daily Word Game: NYT Connections Challenge</news:title>
+            <news:publication_date>2024-10-09T18:00:00.000Z</news:publication_date>
+            <news:title>Facebook's Bid to Regain Gen Z Users: Can the Redesign Succeed?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/nyt-connections-today-answers-hints-10-october-2024.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/can-facebook-win-back-gen-z.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/08/julia-language-adds-lower-overhead-memory-type/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-08T19:07:51.000Z</news:publication_date>
+            <news:title>Julia 1.11 Released: Enhancements and Improvements for Numerical Computing</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/08/julia-language-adds-lower-overhead-memory-type.webp</image:loc>
           </image:image>
         </url></urlset>
