@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/09/deno-2-0-arrives-ready-to-battle-node-js/</loc>
+          <loc>https://majordigest.com/tech/2024/10/11/the-oneplus-13-is-confirmed-to-be-on-the-way-with-one-major-upgrade/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T21:59:34.000Z</news:publication_date>
-            <news:title>Deno 2.0 Revolutionizes JavaScript Development with Backward Compatibility and Simplified Tooling</news:title>
+            <news:publication_date>2024-10-11T10:31:32.000Z</news:publication_date>
+            <news:title>OnePlus 13 Confirmed: Major Upgrades Ahead</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/deno-2-0-arrives-ready-to-battle-node-js.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/11/the-oneplus-13-is-confirmed-to-be-on-the-way-with-one-major-upgrade.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/09/twins-born-conjoined-celebrate-1st-birthday-after-separation-surgery/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T20:57:12.000Z</news:publication_date>
+            <news:title>Twin Brothers Celebrate First Birthday After Successful Separation Surgery</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/twins-born-conjoined-celebrate-1st-birthday-after-separation-surgery.webp</image:loc>
           </image:image>
         </url></urlset>
