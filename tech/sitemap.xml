@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/12/what-do-if-lose-your-phone/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-12T16:00:00.000Z</news:publication_date>
-            <news:title>What to do if you lose your phone</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/12/what-do-if-lose-your-phone.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/10/12/peacemaker-season-2-hub/</loc>
           <news:news>
             <news:publication>
@@ -31,129 +17,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/12/icymi-the-weeks-8-biggest-tech-news-stories-from-nintendos-new-alarm-clock-to-toyotas-revolutionary-ev-charging-tech/</loc>
+          <loc>https://majordigest.com/tech/2024/10/11/dot-driving-it-modernization-to-meet-enterprise-local-needs/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-12T11:35:10.000Z</news:publication_date>
-            <news:title>ICYMI: the week's 8 biggest tech news stories from Nintendo's new alarm clock, to Toyota's revolutionary EV charging tech</news:title>
+            <news:publication_date>2024-10-11T19:27:36.000Z</news:publication_date>
+            <news:title>DoT driving IT modernization to meet enterprise, local needs</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/12/icymi-the-weeks-8-biggest-tech-news-stories-from-nintendos-new-alarm-clock-to-toyotas-revolutionary-ev-charging-tech.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/11/dot-driving-it-modernization-to-meet-enterprise-local-needs.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/12/who-gets-to-own-america-online/</loc>
+          <loc>https://majordigest.com/tech/2024/10/11/what-is-digital-transformation-a-necessary-disruption/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-12T04:00:00.000Z</news:publication_date>
-            <news:title>Who gets to own &#8216;America&#8217; online?</news:title>
+            <news:publication_date>2024-10-11T10:01:00.000Z</news:publication_date>
+            <news:title>What is digital transformation? Ongoing reinvention</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/12/who-gets-to-own-america-online.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/robinhood-co-founder-baiju-bhatt-wants-to-create-the-starlink-of-solar-power/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T21:00:00.000Z</news:publication_date>
-            <news:title>Robinhood cofounder Baiju Bhatt wants to create the Starlink of solar power</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/robinhood-co-founder-baiju-bhatt-wants-to-create-the-starlink-of-solar-power.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/amd-boosts-ai-performance-in-new-line-of-enterprise-pc-chips/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T20:10:57.000Z</news:publication_date>
-            <news:title>AMD boosts AI performance in new line of enterprise PC chips</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/amd-boosts-ai-performance-in-new-line-of-enterprise-pc-chips.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/key-supplier-critical-semiconductor-material-back-operation-post-helene/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T19:48:12.000Z</news:publication_date>
-            <news:title>Key supplier of this critical semiconductor material is back in operation post-Helene</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/key-supplier-critical-semiconductor-material-back-operation-post-helene.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T19:05:37.000Z</news:publication_date>
-            <news:title>Microsoft&#8217;s Patch Tuesday updates: Keeping up with the latest fixes</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/pentagon-releases-final-cmmc-rule-paving-way-for-implementation/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T12:45:26.000Z</news:publication_date>
-            <news:title>Pentagon releases final CMMC rule, paving way for implementation</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/pentagon-releases-final-cmmc-rule-paving-way-for-implementation.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/senators-urge-chips-act-contracts-transparency/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T09:00:00.000Z</news:publication_date>
-            <news:title>Senators press Commerce Department to boost transparency about CHIPS Act contracts</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/senators-urge-chips-act-contracts-transparency.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/ben-horowitzs-dual-support-for-trump-and-harris-says-a-lot-about-the-valleys-ai-politics/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T23:00:00.000Z</news:publication_date>
-            <news:title>Ben Horowitz&#8217;s dual support for Trump and Harris says a lot about the Valley&#8217;s AI politics</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/ben-horowitzs-dual-support-for-trump-and-harris-says-a-lot-about-the-valleys-ai-politics.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/11/what-is-digital-transformation-a-necessary-disruption.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -171,73 +59,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/10/one-tech-tip-heres-what-you-need-to-do-before-and-after-your-phone-is-stolen-or-lost/</loc>
+          <loc>https://majordigest.com/tech/2024/10/10/scammers-exploit-grief-fake-funeral-streaming-facebook/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-10T19:48:06.000Z</news:publication_date>
-            <news:title>One Tech Tip: Here's what you need to do before and after your phone is stolen or lost</news:title>
+            <news:publication_date>2024-10-10T14:00:57.000Z</news:publication_date>
+            <news:title>Scammers exploit grief with fake funeral streaming on Facebook</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/one-tech-tip-heres-what-you-need-to-do-before-and-after-your-phone-is-stolen-or-lost.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/headspace-mental-health-generative-ai-chatbot-ebb-exclusive/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T19:01:00.000Z</news:publication_date>
-            <news:title>Exclusive: Headspace&#8217;s new AI chatbot will offer mental health support to subscribers</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/headspace-mental-health-generative-ai-chatbot-ebb-exclusive.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/microsoft-ai-tools-health-care/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T18:11:54.000Z</news:publication_date>
-            <news:title>Microsoft unveils health care AI tools</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/microsoft-ai-tools-health-care.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/if-your-agency-is-buying-artificial-intelligence-what-are-you-exactly-buying-anyhow/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T16:57:28.000Z</news:publication_date>
-            <news:title>If your agency is buying artificial intelligence, what are you exactly buying anyhow?</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/if-your-agency-is-buying-artificial-intelligence-what-are-you-exactly-buying-anyhow.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/energy-leader-petrobras-sails-toward-sustainability-with-new-supply-chain-solution/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T13:59:51.000Z</news:publication_date>
-            <news:title>Energy leader Petrobras sails toward sustainability with new supply chain solution</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/energy-leader-petrobras-sails-toward-sustainability-with-new-supply-chain-solution.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/scammers-exploit-grief-fake-funeral-streaming-facebook.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -255,59 +87,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/10/when-is-the-right-time-to-dump-an-ai-project/</loc>
+          <loc>https://majordigest.com/tech/2024/10/10/openai-chatgpt-cybercriminals-elections/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-10T10:01:00.000Z</news:publication_date>
-            <news:title>When is the right time to dump an AI project?</news:title>
+            <news:publication_date>2024-10-10T03:00:00.000Z</news:publication_date>
+            <news:title>OpenAI says cybercriminals are using ChatGPT more to influence elections</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/when-is-the-right-time-to-dump-an-ai-project.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/openai-chatgpt-cybercriminals-elections.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/10/heres-whats-new-in-office-2024/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/bmc-breaks-into-two-mainframe-and-helix-businesses-to-operate-independently/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-10T10:00:00.000Z</news:publication_date>
-            <news:title>Here&#8217;s what&#8217;s new in Office 2024</news:title>
+            <news:publication_date>2024-10-09T17:16:00.000Z</news:publication_date>
+            <news:title>BMC breaks into two: Mainframe and Helix businesses to operate independently</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/heres-whats-new-in-office-2024.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T08:51:08.000Z</news:publication_date>
-            <news:title>Meta expands AI assistant to more countries and languages amid intensifying AI battle</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/09/effective-edr-balancing-testing-rigor-and-velocity/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T20:04:26.000Z</news:publication_date>
-            <news:title>Effective EDR: Balancing testing rigor and velocity</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/effective-edr-balancing-testing-rigor-and-velocity.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/bmc-breaks-into-two-mainframe-and-helix-businesses-to-operate-independently.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -325,45 +129,101 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/08/iot-driven-endpoint-proliferation-requires-secure-by-design-principles/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/us-considers-asking-court-to-break-up-google-as-it-weighs-remedies-in-the-antitrust-case/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T17:53:38.000Z</news:publication_date>
-            <news:title>IoT-driven endpoint proliferation requires secure-by-design principles</news:title>
+            <news:publication_date>2024-10-09T13:23:47.000Z</news:publication_date>
+            <news:title>US considers asking court to break up Google as it weighs remedies in the antitrust case</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/08/iot-driven-endpoint-proliferation-requires-secure-by-design-principles.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/us-considers-asking-court-to-break-up-google-as-it-weighs-remedies-in-the-antitrust-case.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/08/aryaka-brings-casb-into-unified-sase-fold/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/linus-torvalds-annoyed-by-passive-language-in-commit-messages/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-08T12:35:34.000Z</news:publication_date>
-            <news:title>Aryaka brings CASB into unified SASE fold</news:title>
+            <news:publication_date>2024-10-09T12:54:35.000Z</news:publication_date>
+            <news:title>Linus Torvalds annoyed by passive language in commit messages</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/08/aryaka-brings-casb-into-unified-sase-fold.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/linus-torvalds-annoyed-by-passive-language-in-commit-messages.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/07/dod-wringing-out-zero-trust-concepts-under-assessment-process/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/states-sue-tiktok-addictive-harms-kids/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-07T22:15:42.000Z</news:publication_date>
-            <news:title>DoD wringing out zero trust concepts under assessment process</news:title>
+            <news:publication_date>2024-10-09T09:41:16.000Z</news:publication_date>
+            <news:title>States sue TikTok, alleging platform harms kids' mental health</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/07/dod-wringing-out-zero-trust-concepts-under-assessment-process.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/states-sue-tiktok-addictive-harms-kids.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/09/the-nobel-prize-in-chemistry-is-being-awarded-in-stockholm/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T08:05:43.000Z</news:publication_date>
+            <news:title>Nobel Prize in chemistry honors 3 scientists who used AI to design proteins &#8212; life's building blocks</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/the-nobel-prize-in-chemistry-is-being-awarded-in-stockholm.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/08/states-sue-tiktok-claiming-its-platform-is-addictive-and-harms-the-mental-health-of-children/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-08T22:52:04.000Z</news:publication_date>
+            <news:title>TikTok is designed to be addictive to kids and causes them harm, US states' lawsuits say</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/08/states-sue-tiktok-claiming-its-platform-is-addictive-and-harms-the-mental-health-of-children.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/08/misinformation-hurricane-helene-recovery/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-08T21:26:22.000Z</news:publication_date>
+            <news:title>Furious officials say misinformation is harming hurricane response</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/08/misinformation-hurricane-helene-recovery.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/07/rust-resumes-rise-in-popularity/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-07T20:50:34.000Z</news:publication_date>
+            <news:title>Rust resumes rise in popularity</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/07/rust-resumes-rise-in-popularity.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -381,20 +241,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/07/wi-fi-halow-hands-on-with-asiarfs-iot-network-gateway/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-07T15:22:31.000Z</news:publication_date>
-            <news:title>Wi-Fi HaLow: Hands on with AsiaRF&#8217;s IoT network gateway</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/07/wi-fi-halow-hands-on-with-asiarfs-iot-network-gateway.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/10/07/network-jobs-watch-hiring-skills-and-certification-trends/</loc>
           <news:news>
             <news:publication>
@@ -406,19 +252,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/07/network-jobs-watch-hiring-skills-and-certification-trends.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/06/advocacy-groups-suspend-use-of-suicide-capsule-pending-swiss-criminal-probe-into-its-first-use/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-06T19:44:06.000Z</news:publication_date>
-            <news:title>Advocacy groups suspend use of 'suicide capsule' pending Swiss criminal probe of woman's death</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/06/advocacy-groups-suspend-use-of-suicide-capsule-pending-swiss-criminal-probe-into-its-first-use.webp</image:loc>
           </image:image>
         </url></urlset>
