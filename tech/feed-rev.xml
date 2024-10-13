@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sun, 13 Oct 2024 14:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 14:55:14 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -20,12 +20,23 @@
         </image>
         <item>
           <title>Internet Archive Hacked, 31 Million User Accounts Exposed</title>
-          <description><![CDATA[The Internet Archive, a digital library known for its Wayback Machine, suffered a data breach and was hacked, exposing 31 million user accounts.]]></description>
-          <guid>https://majordigest.comnull</guid>
-          <link>https://majordigest.comnull</link>
+          <description><![CDATA[Internet Archive hack results in 31 million user accounts exposed, with usernames, emails, and encrypted passwords compromised]]></description>
+          <guid>https://majordigest.com/tech/2024/10/10/internet-archive-data-breach/</guid>
+          <link>https://majordigest.com/tech/2024/10/10/internet-archive-data-breach/</link>
           <pubDate>Thu, 10 Oct 2024 23:15:19 GMT</pubDate>
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/10/internet-archive-data-breach.webp"/>
           <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/10/internet-archive-data-breach.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Rovo GenAI Assistant Now Available: Revolutionizing Teamwork Efficiency</title>
+          <description><![CDATA[Atlassian's Rovo genAI assistant is now available, promising to boost teamwork efficiency with AI-powered knowledge discovery and virtual teammates.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/09/atlassians-genai-assistant-rovo-is-now-available/</guid>
+          <link>https://majordigest.com/tech/2024/10/09/atlassians-genai-assistant-rovo-is-now-available/</link>
+          <pubDate>Wed, 09 Oct 2024 11:52:37 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/09/atlassians-genai-assistant-rovo-is-now-available.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/09/atlassians-genai-assistant-rovo-is-now-available.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
