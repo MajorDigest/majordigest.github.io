@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/11/senators-urge-chips-act-contracts-transparency/</loc>
+          <loc>https://majordigest.com/tech/2024/10/12/nyt-connections-today-answers-hints-13-october-2024/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-11T09:00:00.000Z</news:publication_date>
-            <news:title>US Senators Urge Transparency in CHIPS Act Agreements: Ensuring a Safe and Sustainable Semiconductor Industry</news:title>
+            <news:publication_date>2024-10-12T23:02:00.000Z</news:publication_date>
+            <news:title>NYT Connections Game #490: Hints and Answers</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/senators-urge-chips-act-contracts-transparency.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/12/nyt-connections-today-answers-hints-13-october-2024.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/12/google-monopoly-prosecutors-hint-at-company-breakup-but-analysts-say-its-unlikely/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-12T13:00:16.000Z</news:publication_date>
+            <news:title>Google Faces Antitrust Lawsuit: Potential Breakup and Court-Ordered Fixes</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/12/google-monopoly-prosecutors-hint-at-company-breakup-but-analysts-say-its-unlikely.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/11/embedded-developers-face-mounting-pressure-on-security/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-11T17:37:13.000Z</news:publication_date>
+            <news:title>Rapid Innovation vs Safety: Developers Face Mounting Pressure - 2023</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/11/embedded-developers-face-mounting-pressure-on-security.webp</image:loc>
           </image:image>
         </url></urlset>
