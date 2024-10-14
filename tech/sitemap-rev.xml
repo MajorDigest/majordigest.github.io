@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/13/nyt-strands-today-answers-hints-14-october-2024/</loc>
+          <loc>https://majordigest.com/tech/2024/10/14/murder-trial-of-tech-consultant-in-death-of-cash-app-founder-bob-lee-begins/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-13T23:02:00.000Z</news:publication_date>
-            <news:title>NYT Strands Hints and Answers: Get Out of Here! Theme</news:title>
+            <news:publication_date>2024-10-14T07:08:15.000Z</news:publication_date>
+            <news:title>The Murder Trial of Tech Consultant Nima Momeni: A Year and a Half After Cash App Founder Bob Lee's Tragic Death</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/13/nyt-strands-today-answers-hints-14-october-2024.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/14/murder-trial-of-tech-consultant-in-death-of-cash-app-founder-bob-lee-begins.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/11/amd-boosts-ai-performance-in-new-line-of-enterprise-pc-chips/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-11T20:10:57.000Z</news:publication_date>
+            <news:title>The Rise of AI-Powered Chips: AMD's Advancing AI Event Sheds Light on Industry Shifts</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/11/amd-boosts-ai-performance-in-new-line-of-enterprise-pc-chips.webp</image:loc>
           </image:image>
         </url></urlset>
