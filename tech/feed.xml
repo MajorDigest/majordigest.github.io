@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Mon, 14 Oct 2024 17:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 18:53:45 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,17 +18,6 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
-        <item>
-          <title>Move aside H100, Huawei wants Chinese hyperscalers to use its new Ascend AI chip instead of Nvidia's workhorse, but it's going to be tough</title>
-          <description><![CDATA[Huawei is investing heavily in AI ecosystem development as it bids to become China's answer to Nvidia]]></description>
-          <guid>https://majordigest.com/tech/2024/10/14/move-aside-h100-huawei-wants-chinese-hyperscalers-to-use-its-new-ascend-ai-chip-instead-of-nvidias-workhorse-but-its-going-to-be-tough/</guid>
-          <link>https://majordigest.com/tech/2024/10/14/move-aside-h100-huawei-wants-chinese-hyperscalers-to-use-its-new-ascend-ai-chip-instead-of-nvidias-workhorse-but-its-going-to-be-tough/</link>
-          <pubDate>Mon, 14 Oct 2024 17:31:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/14/move-aside-h100-huawei-wants-chinese-hyperscalers-to-use-its-new-ascend-ai-chip-instead-of-nvidias-workhorse-but-its-going-to-be-tough.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/14/move-aside-h100-huawei-wants-chinese-hyperscalers-to-use-its-new-ascend-ai-chip-instead-of-nvidias-workhorse-but-its-going-to-be-tough.webp"/>
-          <dc:creator>waynewilliams@onmail.com (Wayne Williams), TechRadar</dc:creator>
-        </item>
         <item>
           <title>Plan for AI data center power usage or face the consequences, energy companies told</title>
           <description><![CDATA[Energy companies are being warned to address AI data center power needs or risk losing out on big opportunities.]]></description>
@@ -49,33 +38,11 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/14/nasa-spacecraft-rockets-toward-jupiters-moon-europa-in-search-of-the-right-conditions-for-life.webp"/>
           <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/14/nasa-spacecraft-rockets-toward-jupiters-moon-europa-in-search-of-the-right-conditions-for-life.webp"/>
-          <dc:creator>Marcia Dunn, Associated Press, Local 4</dc:creator>
+          <dc:creator>Marcia Dunn, Associated Press, KPRC 2</dc:creator>
         </item>
         <item>
-          <title>Open source package entry points could be used for command jacking</title>
-          <description><![CDATA[Open source application packages, including those in Python and JavaScript, have a vulnerability in their entry points that could be used by threat actors to execute malicious code to steal data, plant malware, and more.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/14/open-source-package-entry-points-could-be-used-for-command-jacking-report/</guid>
-          <link>https://majordigest.com/tech/2024/10/14/open-source-package-entry-points-could-be-used-for-command-jacking-report/</link>
-          <pubDate>Mon, 14 Oct 2024 15:48:04 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/14/open-source-package-entry-points-could-be-used-for-command-jacking-report.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/14/open-source-package-entry-points-could-be-used-for-command-jacking-report.webp"/>
-          <dc:creator>csoonline</dc:creator>
-        </item>
-        <item>
-          <title>AMD Ryzen 9800X3D benchmark leaks could disappoint PC gamers &#8211; but let&#8217;s not rule out this CPU just yet</title>
-          <description><![CDATA[New leaks have burst the optimistic bubble around the CPU’s gaming prowess, but there’s lots to chew over with these benchmarks.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/14/amd-ryzen-9800x3d-benchmark-leaks-could-disappoint-pc-gamers-but-lets-not-rule-out-this-cpu-just-yet/</guid>
-          <link>https://majordigest.com/tech/2024/10/14/amd-ryzen-9800x3d-benchmark-leaks-could-disappoint-pc-gamers-but-lets-not-rule-out-this-cpu-just-yet/</link>
-          <pubDate>Mon, 14 Oct 2024 15:41:57 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/14/amd-ryzen-9800x3d-benchmark-leaks-could-disappoint-pc-gamers-but-lets-not-rule-out-this-cpu-just-yet.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/14/amd-ryzen-9800x3d-benchmark-leaks-could-disappoint-pc-gamers-but-lets-not-rule-out-this-cpu-just-yet.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>Adobe's GenStudio Content Supply Chain Platform Now Generally Available</title>
-          <description><![CDATA[Adobe launches GenStudio for Performance Marketing, integrating AI-generated content across marketing campaigns and social media channels.]]></description>
+          <title>Adobe makes GenStudio app generally available</title>
+          <description><![CDATA[Adobe’s GenStudio content supply chain platform is now generally available, with the ability to publish content directly to social media channels such as Instagram, Snap and TikTok coming soon.]]></description>
           <guid>https://majordigest.com/tech/2024/10/14/adobes-makes-genstudio-app-generally-available/</guid>
           <link>https://majordigest.com/tech/2024/10/14/adobes-makes-genstudio-app-generally-available/</link>
           <pubDate>Mon, 14 Oct 2024 13:09:07 GMT</pubDate>
@@ -93,17 +60,17 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/14/murder-trial-of-tech-consultant-in-death-of-cash-app-founder-bob-lee-begins.webp"/>
           <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/14/murder-trial-of-tech-consultant-in-death-of-cash-app-founder-bob-lee-begins.webp"/>
-          <dc:creator>JANIE HAR, Associated Press, KLAS, CBS News</dc:creator>
+          <dc:creator>JANIE HAR, Associated Press, NewsNation</dc:creator>
         </item>
         <item>
-          <title>El acceso a la &#8216;Capilla Sixtina del rom&#225;nico&#8217; se democratiza gracias a la realidad virtual</title>
-          <description><![CDATA[El Museo de San Isidoro, en colaboración con la tecnológica HP, ha logrado acercar el arte del Panteón de los Reyes, bautizado como la ‘Capilla Sixtina del arte románico’, a personas y visitantes de todo el mundo.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/14/el-acceso-a-la-capilla-sixtina-del-romanico-se-democratiza-gracias-a-la-realidad-virtual/</guid>
-          <link>https://majordigest.com/tech/2024/10/14/el-acceso-a-la-capilla-sixtina-del-romanico-se-democratiza-gracias-a-la-realidad-virtual/</link>
-          <pubDate>Mon, 14 Oct 2024 10:38:20 GMT</pubDate>
+          <title>Aquona digitaliza sus operaciones en Castilla y Le&#243;n mediante la herramienta DROP</title>
+          <description><![CDATA[En el marco del proceso de transformación digital que está ejecutando Aquona, empresa responsable de la gestión del agua en más de 60 municipios de Castilla y León, se ha procedido a digitalizar la totalidad de sus operaciones dando un paso adelante en la mejora de la planificación de los trabajos y]]></description>
+          <guid>https://majordigest.com/tech/2024/10/14/aquona-digitaliza-sus-operaciones-en-castilla-y-leon-mediante-la-herramienta-drop/</guid>
+          <link>https://majordigest.com/tech/2024/10/14/aquona-digitaliza-sus-operaciones-en-castilla-y-leon-mediante-la-herramienta-drop/</link>
+          <pubDate>Mon, 14 Oct 2024 09:40:20 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/14/el-acceso-a-la-capilla-sixtina-del-romanico-se-democratiza-gracias-a-la-realidad-virtual.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/14/el-acceso-a-la-capilla-sixtina-del-romanico-se-democratiza-gracias-a-la-realidad-virtual.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/14/aquona-digitaliza-sus-operaciones-en-castilla-y-leon-mediante-la-herramienta-drop.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/14/aquona-digitaliza-sus-operaciones-en-castilla-y-leon-mediante-la-herramienta-drop.webp"/>
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
@@ -119,15 +86,26 @@ Today’s tool is a twist. It’s about email, through and through—but it’s 
           <dc:creator>JR Raphael, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Volunteers bring solar power to Hurricane Helene's disaster zone</title>
-          <description><![CDATA[Nearly two weeks after Hurricane Helene downed power lines and washed out roads all over North Carolina’s mountains, the roar of gas-powered generators is both unpleasant and essential.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/13/volunteers-bring-solar-power-to-hurricane-helenes-disaster-zone/</guid>
-          <link>https://majordigest.com/tech/2024/10/13/volunteers-bring-solar-power-to-hurricane-helenes-disaster-zone/</link>
-          <pubDate>Sun, 13 Oct 2024 04:02:54 GMT</pubDate>
+          <title>This 3D-printed Texas hotel is shaking up the construction industry</title>
+          <description><![CDATA[The Vulcan is Icon&apos;s massive 3D printer, which stands 15½ feet tall and weighs 4.75 tons. It&apos;s capable of creating buildings with 12-foot-high curving walls.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/13/3d-printed-texas-hotel-shaking-up-construction-industry/</guid>
+          <link>https://majordigest.com/tech/2024/10/13/3d-printed-texas-hotel-shaking-up-construction-industry/</link>
+          <pubDate>Sun, 13 Oct 2024 10:00:55 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/13/volunteers-bring-solar-power-to-hurricane-helenes-disaster-zone.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/13/volunteers-bring-solar-power-to-hurricane-helenes-disaster-zone.webp"/>
-          <dc:creator>Gabriela Aoun Angueira, Associated Press, Local 4</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/13/3d-printed-texas-hotel-shaking-up-construction-industry.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/13/3d-printed-texas-hotel-shaking-up-construction-industry.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>How schools are tackling misinformation as false claims about hurricanes, election run wild</title>
+          <description><![CDATA[Schools face challenges teaching children how to identify and handle misinformation without getting political, especially in recent days as false claims swirl surrounding the recent hurricanes and the upcoming election.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/12/schools-misinformation-hurricane-milton-helene-election-disinformation-conspiracy-theories/</guid>
+          <link>https://majordigest.com/tech/2024/10/12/schools-misinformation-hurricane-milton-helene-election-disinformation-conspiracy-theories/</link>
+          <pubDate>Sat, 12 Oct 2024 18:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/12/schools-misinformation-hurricane-milton-helene-election-disinformation-conspiracy-theories.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/12/schools-misinformation-hurricane-milton-helene-election-disinformation-conspiracy-theories.webp"/>
+          <dc:creator>Lexi Lonas Cochran, The Hill</dc:creator>
         </item>
         <item>
           <title>What to do if you lose your phone</title>
@@ -141,59 +119,59 @@ Today’s tool is a twist. It’s about email, through and through—but it’s 
           <dc:creator>Associated Press, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Ktor 3.0 switches to kotlinx.io library</title>
-          <description><![CDATA[Ktor 3.0, the latest version of the Kotlin-based framework for building asynchronous client- and server-side applications, is now available. Ktor 3.0 switches to the kotlinx.io library for handling data sources. The release also highlights support for server-sent events (SSE).]]></description>
-          <guid>https://majordigest.com/tech/2024/10/11/ktor-3-0-switches-to-kotlinx-io-library/</guid>
-          <link>https://majordigest.com/tech/2024/10/11/ktor-3-0-switches-to-kotlinx-io-library/</link>
-          <pubDate>Fri, 11 Oct 2024 22:32:44 GMT</pubDate>
+          <title>Opinion: Musk&#8217;s courtship with MAGA has driven X into a misinformation abyss</title>
+          <description><![CDATA[If X is a town square, it's inundated with an uncontrolled, right-wing mob. And Musk is their cheering benefactor.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/12/opinion-musks-courtship-with-maga-has-driven-x-into-misinformation-abyss/</guid>
+          <link>https://majordigest.com/tech/2024/10/12/opinion-musks-courtship-with-maga-has-driven-x-into-misinformation-abyss/</link>
+          <pubDate>Sat, 12 Oct 2024 11:15:05 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/11/ktor-3-0-switches-to-kotlinx-io-library.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/11/ktor-3-0-switches-to-kotlinx-io-library.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/12/opinion-musks-courtship-with-maga-has-driven-x-into-misinformation-abyss.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/12/opinion-musks-courtship-with-maga-has-driven-x-into-misinformation-abyss.webp"/>
+          <dc:creator>Lorraine Ali, The Mercury News</dc:creator>
         </item>
         <item>
-          <title>House Democrats press tech leaders to curb hurricane misinformation</title>
-          <description><![CDATA[A group of House Democrats representing areas affected by hurricanes Helene and Milton are calling on the leaders of major technology companies to do more to combat the flurry of misinformation online about the extreme weather.  In a letter sent Friday, Reps. Deborah Ross (N.C.), Kathy Castor (Fla.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/11/hurricane-helene-milton-misinformation-disinformation/</guid>
-          <link>https://majordigest.com/tech/2024/10/11/hurricane-helene-milton-misinformation-disinformation/</link>
-          <pubDate>Fri, 11 Oct 2024 20:13:10 GMT</pubDate>
+          <title>Aetherflux Aims to Revolutionize Solar Power with Space-Based Technology</title>
+          <description><![CDATA[Aetherflux, a new startup founded by Robinhood's Baiju Bhatt, aims to harness solar power from space and beam it down to remote regions, potentially changing the way we generate renewable energy.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/11/robinhood-co-founder-baiju-bhatt-wants-to-create-the-starlink-of-solar-power/</guid>
+          <link>https://majordigest.com/tech/2024/10/11/robinhood-co-founder-baiju-bhatt-wants-to-create-the-starlink-of-solar-power/</link>
+          <pubDate>Fri, 11 Oct 2024 21:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/11/hurricane-helene-milton-misinformation-disinformation.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/11/hurricane-helene-milton-misinformation-disinformation.webp"/>
-          <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/11/robinhood-co-founder-baiju-bhatt-wants-to-create-the-starlink-of-solar-power.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/11/robinhood-co-founder-baiju-bhatt-wants-to-create-the-starlink-of-solar-power.webp"/>
+          <dc:creator>Susan Karlin, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Tesla&#8217;s Cybercab, Robovan revealed with Elon Musk&#8217;s reputation at stake</title>
-          <description><![CDATA[The product launch in California didn't address how Tesla will make the leap from selling advanced driver-assistance features to fully autonomous vehicles.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/11/teslas-robotaxi-day-arrives-with-musks-reputation-at-stake/</guid>
-          <link>https://majordigest.com/tech/2024/10/11/teslas-robotaxi-day-arrives-with-musks-reputation-at-stake/</link>
-          <pubDate>Fri, 11 Oct 2024 16:52:51 GMT</pubDate>
+          <title>Elon Musk is hampering hurricane relief efforts&#8212;and using X to do it</title>
+          <description><![CDATA[When Federal Emergency Management Agency first responders raced to western North Carolina in the days after Hurricane Helene, they expected much of the devastation they found in its wake: totaled cars, crumbling roads, homes filled with mud or ruined by floodwaters or washed away entirely.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/11/elon-musk-is-hampering-hurricane-relief-efforts-and-using-x-to-do-it/</guid>
+          <link>https://majordigest.com/tech/2024/10/11/elon-musk-is-hampering-hurricane-relief-efforts-and-using-x-to-do-it/</link>
+          <pubDate>Fri, 11 Oct 2024 20:45:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/11/teslas-robotaxi-day-arrives-with-musks-reputation-at-stake.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/11/teslas-robotaxi-day-arrives-with-musks-reputation-at-stake.webp"/>
-          <dc:creator>Bloomberg, The Mercury News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/11/elon-musk-is-hampering-hurricane-relief-efforts-and-using-x-to-do-it.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/11/elon-musk-is-hampering-hurricane-relief-efforts-and-using-x-to-do-it.webp"/>
+          <dc:creator>Jay Willis, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Lesser-known xargs command is a versatile time saver</title>
-          <description><![CDATA[The xargs command may be one that many Linux users don’t know, but it’s also one that can save a lot of time and trouble on the command line. It’s an unusual command with some very handy uses.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/11/lesser-known-xargs-command-is-a-versatile-time-saver/</guid>
-          <link>https://majordigest.com/tech/2024/10/11/lesser-known-xargs-command-is-a-versatile-time-saver/</link>
-          <pubDate>Fri, 11 Oct 2024 14:19:22 GMT</pubDate>
+          <title>Key supplier of this critical semiconductor material is back in operation post-Helene</title>
+          <description><![CDATA[One of the two companies that manufacture high-purity quartz used for making semiconductors and other high-tech products from mines in a western North Carolina community severely damaged by Hurricane Helene is operating again.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/11/key-supplier-critical-semiconductor-material-back-operation-post-helene/</guid>
+          <link>https://majordigest.com/tech/2024/10/11/key-supplier-critical-semiconductor-material-back-operation-post-helene/</link>
+          <pubDate>Fri, 11 Oct 2024 19:48:12 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/11/lesser-known-xargs-command-is-a-versatile-time-saver.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/11/lesser-known-xargs-command-is-a-versatile-time-saver.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/11/key-supplier-critical-semiconductor-material-back-operation-post-helene.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/11/key-supplier-critical-semiconductor-material-back-operation-post-helene.webp"/>
+          <dc:creator>Associated Press, Fast Company</dc:creator>
         </item>
         <item>
-          <title>AMD unveils new generation of Epyc, Instinct chips</title>
-          <description><![CDATA[AMD announced its latest AI and high-performance computing processors at its Advancing AI event in San Francisco, including the fifth generation of its Epyc server processors and AMD Instinct MI325X accelerators.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/11/amd-unveils-new-generation-of-epyc-instinct-chips/</guid>
-          <link>https://majordigest.com/tech/2024/10/11/amd-unveils-new-generation-of-epyc-instinct-chips/</link>
-          <pubDate>Fri, 11 Oct 2024 13:02:38 GMT</pubDate>
+          <title>What's behind the northern lights that dazzled the sky farther south than normal</title>
+          <description><![CDATA[The latest solar storm has triggered northern lights farther south than normal including into parts of Germany, the United Kingdom, New England and New York City.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/11/northern-lights-dazzle-much-farther-south-than-normal-heres-whats-behind-the-show/</guid>
+          <link>https://majordigest.com/tech/2024/10/11/northern-lights-dazzle-much-farther-south-than-normal-heres-whats-behind-the-show/</link>
+          <pubDate>Fri, 11 Oct 2024 15:54:11 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/11/amd-unveils-new-generation-of-epyc-instinct-chips.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/11/amd-unveils-new-generation-of-epyc-instinct-chips.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/11/northern-lights-dazzle-much-farther-south-than-normal-heres-whats-behind-the-show.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/11/northern-lights-dazzle-much-farther-south-than-normal-heres-whats-behind-the-show.webp"/>
+          <dc:creator>Associated Press, Local 4</dc:creator>
         </item>
         <item>
           <title>Why you should want face-recognition glasses</title>
@@ -207,15 +185,15 @@ Today’s tool is a twist. It’s about email, through and through—but it’s 
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Ben Horowitz&#8217;s dual support for Trump and Harris says a lot about the Valley&#8217;s AI politics</title>
-          <description><![CDATA[Welcome to AI Decoded, Fast Company’s weekly newsletter that breaks down the most important news in the world of AI. I’m Mark Sullivan, a senior writer at Fast Company, covering emerging tech, AI, and tech policy.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/10/ben-horowitzs-dual-support-for-trump-and-harris-says-a-lot-about-the-valleys-ai-politics/</guid>
-          <link>https://majordigest.com/tech/2024/10/10/ben-horowitzs-dual-support-for-trump-and-harris-says-a-lot-about-the-valleys-ai-politics/</link>
-          <pubDate>Thu, 10 Oct 2024 23:00:00 GMT</pubDate>
+          <title>Why did the 2024 Nobel for physics go to AI-related research?</title>
+          <description><![CDATA[The award this week of Nobel prizes in chemistry and physics to a small number of artificial intelligence pioneers affiliated with Google has stirred debate over the company’s research dominance and how breakthroughs in computer science ought to be recognised.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/10/why-2024-nobel-physics-go-ai-related-research/</guid>
+          <link>https://majordigest.com/tech/2024/10/10/why-2024-nobel-physics-go-ai-related-research/</link>
+          <pubDate>Thu, 10 Oct 2024 21:45:44 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/10/ben-horowitzs-dual-support-for-trump-and-harris-says-a-lot-about-the-valleys-ai-politics.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/10/ben-horowitzs-dual-support-for-trump-and-harris-says-a-lot-about-the-valleys-ai-politics.webp"/>
-          <dc:creator>Mark Sullivan, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/10/why-2024-nobel-physics-go-ai-related-research.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/10/why-2024-nobel-physics-go-ai-related-research.webp"/>
+          <dc:creator>Reuters, Fast Company</dc:creator>
         </item>
         <item>
           <title>North Carolina maker of high-purity quartz back operating post-Helene</title>
@@ -229,27 +207,50 @@ Today’s tool is a twist. It’s about email, through and through—but it’s 
           <dc:creator>Associated Press, NewsNation</dc:creator>
         </item>
         <item>
-          <title>Cloudera jockeys for AI platform prominence</title>
-          <description><![CDATA[While the big hyperscalers are fighting it out for dominance in the AI space, many enterprises are looking for alternatives.
-More than half (60%) of large companies have pulled some AI workloads from public clouds, according to a survey released this summer by Flexential.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/10/cloudera-jockeys-for-ai-platform-prominence/</guid>
-          <link>https://majordigest.com/tech/2024/10/10/cloudera-jockeys-for-ai-platform-prominence/</link>
-          <pubDate>Thu, 10 Oct 2024 14:47:46 GMT</pubDate>
+          <title>Hurricane&#8217;s impact on semiconductor industry remains a threat</title>
+          <description><![CDATA[One of two plants that mine high-purity quartz and silica sand needed for the production of semiconductors and other high-tech hardware has reopened operations after being shut down for more than a week.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/10/hurricanes-impact-on-semiconductor-industry-remains-a-threat/</guid>
+          <link>https://majordigest.com/tech/2024/10/10/hurricanes-impact-on-semiconductor-industry-remains-a-threat/</link>
+          <pubDate>Thu, 10 Oct 2024 20:06:26 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/10/cloudera-jockeys-for-ai-platform-prominence.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/10/cloudera-jockeys-for-ai-platform-prominence.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/10/hurricanes-impact-on-semiconductor-industry-remains-a-threat.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/10/hurricanes-impact-on-semiconductor-industry-remains-a-threat.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Meta expands AI assistant to more countries and languages amid intensifying AI battle</title>
-          <description><![CDATA[Meta announced plans to roll out its AI-powered chatbot, Meta AI, in 21 new markets, intensifying its competition with OpenAI’s ChatGPT and Google’s Gemini.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/10/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle/</guid>
-          <link>https://majordigest.com/tech/2024/10/10/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle/</link>
-          <pubDate>Thu, 10 Oct 2024 08:51:08 GMT</pubDate>
+          <title>The inside story of Roku&#8217;s TV program</title>
+          <description><![CDATA[Ten years ago, streaming stick maker Roku released its first smart TVs in partnership with Hisense and TCL, two Chinese TV manufacturers that few had heard of in the U.S. at that time. In the years since, Roku has become the domestic smart TV market leader.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/10/the-inside-story-of-rokus-tv-program/</guid>
+          <link>https://majordigest.com/tech/2024/10/10/the-inside-story-of-rokus-tv-program/</link>
+          <pubDate>Thu, 10 Oct 2024 19:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/10/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/10/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle.webp"/>
-          <dc:creator>Computer World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/10/the-inside-story-of-rokus-tv-program.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/10/the-inside-story-of-rokus-tv-program.webp"/>
+          <dc:creator>Janko Roettgers, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Login.gov facial recognition option gets GSA approval</title>
+          <description><![CDATA[Login.gov will allow its users to match a selfie with the photo on a government ID, such as a driver’s license.
+The post Login.gov facial recognition option gets GSA approval first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/09/login-gov-facial-recognition-option-gets-gsa-approval/</guid>
+          <link>https://majordigest.com/tech/2024/10/09/login-gov-facial-recognition-option-gets-gsa-approval/</link>
+          <pubDate>Wed, 09 Oct 2024 22:21:11 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/09/login-gov-facial-recognition-option-gets-gsa-approval.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/09/login-gov-facial-recognition-option-gets-gsa-approval.webp"/>
+          <dc:creator>Jory Heckman, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Effective EDR: Balancing testing rigor and velocity</title>
+          <description><![CDATA[Various industries are still dealing with the consequences of the July 2024 technology outage which led to a "blue screen of death" and extreme disruptions.
+The post Effective EDR: Balancing testing rigor and velocity first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/09/effective-edr-balancing-testing-rigor-and-velocity/</guid>
+          <link>https://majordigest.com/tech/2024/10/09/effective-edr-balancing-testing-rigor-and-velocity/</link>
+          <pubDate>Wed, 09 Oct 2024 20:04:26 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/09/effective-edr-balancing-testing-rigor-and-velocity.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/09/effective-edr-balancing-testing-rigor-and-velocity.webp"/>
+          <dc:creator>commentators, Federal News Network</dc:creator>
         </item>
         <item>
           <title>Sanders: Mark Cuban wrong to call for Lina Khan to be replaced</title>
@@ -263,6 +264,17 @@ More than half (60%) of large companies have pulled some AI workloads from publi
           <dc:creator>Lauren Irwin, The Hill</dc:creator>
         </item>
         <item>
+          <title>Ransomware attack impacts 237,000 Comcast customers</title>
+          <description><![CDATA[Debt agency breach exposes 237,700 Comcast customers&apos; personal data. Kurt “CyberGuy&quot; Knutsson explains what happened and provides six tips to help protect yourself from such a breach.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/09/ransomware-attack-impacts-237000-comcast-customers/</guid>
+          <link>https://majordigest.com/tech/2024/10/09/ransomware-attack-impacts-237000-comcast-customers/</link>
+          <pubDate>Wed, 09 Oct 2024 14:00:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/09/ransomware-attack-impacts-237000-comcast-customers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/09/ransomware-attack-impacts-237000-comcast-customers.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
           <title>American Water cyberattack renews focus on protecting critical infrastructure</title>
           <description><![CDATA[CAMDEN, N.J. (AP) — A cyberattack continues to affect the largest regulated water and wastewater utility company in the United States, renewing a focus on the importance of protecting critical infrastructure sites.]]></description>
           <guid>https://majordigest.com/tech/2024/10/09/american-water-cyberattack-renews-focus-on-protecting-critical-infrastructure/</guid>
@@ -271,7 +283,7 @@ More than half (60%) of large companies have pulled some AI workloads from publi
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/09/american-water-cyberattack-renews-focus-on-protecting-critical-infrastructure.webp"/>
           <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/09/american-water-cyberattack-renews-focus-on-protecting-critical-infrastructure.webp"/>
-          <dc:creator>BRUCE SHIPKOWSKI, Associated Press, KLAS, CBS News</dc:creator>
+          <dc:creator>BRUCE SHIPKOWSKI, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
           <title>US considers asking court to break up Google as it weighs remedies in the antitrust case</title>
@@ -282,61 +294,27 @@ More than half (60%) of large companies have pulled some AI workloads from publi
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/09/us-considers-asking-court-to-break-up-google-as-it-weighs-remedies-in-the-antitrust-case.webp"/>
           <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/09/us-considers-asking-court-to-break-up-google-as-it-weighs-remedies-in-the-antitrust-case.webp"/>
-          <dc:creator>SHAWN CHEN, Associated Press, KREX 5</dc:creator>
+          <dc:creator>SHAWN CHEN, Associated Press, KLAS, CBS News</dc:creator>
         </item>
         <item>
-          <title>iPhone update allows users to text for help when there's no cell service</title>
-          <description><![CDATA[The new update allows users to connect their phones to satellite, as long its an iPhone 14 or later model running iOS18.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/08/iphone-update-text-for-help-no-cell-service/</guid>
-          <link>https://majordigest.com/tech/2024/10/08/iphone-update-text-for-help-no-cell-service/</link>
-          <pubDate>Tue, 08 Oct 2024 23:02:40 GMT</pubDate>
+          <title>Google loses final EU court appeal against 2.4 billion euro fine in antitrust shopping case</title>
+          <description><![CDATA[LONDON (AP) — Google lost its final legal challenge on Tuesday against a European Union penalty for giving its own shopping recommendations an illegal advantage over rivals in search results, ending a long-running antitrust case that came with a whopping fine.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/09/google-loses-final-eu-court-appeal-against-2-4-billion-euro-fine-in-antitrust-shopping-case/</guid>
+          <link>https://majordigest.com/tech/2024/10/09/google-loses-final-eu-court-appeal-against-2-4-billion-euro-fine-in-antitrust-shopping-case/</link>
+          <pubDate>Wed, 09 Oct 2024 10:25:25 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/08/iphone-update-text-for-help-no-cell-service.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/08/iphone-update-text-for-help-no-cell-service.webp"/>
-          <dc:creator>Kaycee Sloan, NewsNation</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/09/google-loses-final-eu-court-appeal-against-2-4-billion-euro-fine-in-antitrust-shopping-case.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/09/google-loses-final-eu-court-appeal-against-2-4-billion-euro-fine-in-antitrust-shopping-case.webp"/>
+          <dc:creator>KELVIN CHAN, Associated Press, NewsNation</dc:creator>
         </item>
         <item>
-          <title>TikTok is designed to be addictive to kids and causes them harm, US states' lawsuits say</title>
-          <description><![CDATA[More than a dozen states and the District of Columbia filed lawsuits against TikTok on Tuesday, saying that the popular short-form video app is designed to be addictive to kids and harms their mental health.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/08/states-sue-tiktok-claiming-its-platform-is-addictive-and-harms-the-mental-health-of-children/</guid>
-          <link>https://majordigest.com/tech/2024/10/08/states-sue-tiktok-claiming-its-platform-is-addictive-and-harms-the-mental-health-of-children/</link>
-          <pubDate>Tue, 08 Oct 2024 22:52:04 GMT</pubDate>
+          <title>WebSockets under the hood with Node.js</title>
+          <description><![CDATA[WebSockets is a network communication protocol that enables two-way client-server communication. WebSockets are often used for applications that require instantaneous updates, using a persistent duplex channel atop HTTP to support real-time interactions without constant connection negotiation.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/09/websockets-under-the-hood/</guid>
+          <link>https://majordigest.com/tech/2024/10/09/websockets-under-the-hood/</link>
+          <pubDate>Wed, 09 Oct 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/08/states-sue-tiktok-claiming-its-platform-is-addictive-and-harms-the-mental-health-of-children.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/08/states-sue-tiktok-claiming-its-platform-is-addictive-and-harms-the-mental-health-of-children.webp"/>
-          <dc:creator>HALELUYA HADERO and BARBARA ORTUTAY, Associated Press, KLAS, CBS News</dc:creator>
-        </item>
-        <item>
-          <title>IoT-driven endpoint proliferation requires secure-by-design principles</title>
-          <description><![CDATA[The government needs to push the market in the direction of secure-by-design, including manufacturing, fielding and management of these new endpoints.
-The post IoT-driven endpoint proliferation requires secure-by-design principles first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/08/iot-driven-endpoint-proliferation-requires-secure-by-design-principles/</guid>
-          <link>https://majordigest.com/tech/2024/10/08/iot-driven-endpoint-proliferation-requires-secure-by-design-principles/</link>
-          <pubDate>Tue, 08 Oct 2024 17:53:38 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/08/iot-driven-endpoint-proliferation-requires-secure-by-design-principles.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/08/iot-driven-endpoint-proliferation-requires-secure-by-design-principles.webp"/>
-          <dc:creator>Daisy Thornton, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Embracing your inner on-premises self</title>
-          <description><![CDATA[In a significant development in the cloud computing industry, AWS, a leading hyperscaler, has recently acknowledged considerable competition from on-premises IT solutions.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/08/embracing-your-inner-on-premises-self/</guid>
-          <link>https://majordigest.com/tech/2024/10/08/embracing-your-inner-on-premises-self/</link>
-          <pubDate>Tue, 08 Oct 2024 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/08/embracing-your-inner-on-premises-self.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/08/embracing-your-inner-on-premises-self.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/09/websockets-under-the-hood.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/09/websockets-under-the-hood.webp"/>
           <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>The Titan's former lead engineer says he felt pressured to get the submersible ready</title>
-          <description><![CDATA[The lead engineer for an experimental submersible that imploded en route to the wreck of the Titanic testified Monday that he felt pressured to get the vessel ready to dive and refused to pilot it for a journey several years earlier.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/07/the-coast-guard-will-hear-from-former-oceangate-employees-about-the-titan-implosion/</guid>
-          <link>https://majordigest.com/tech/2024/10/07/the-coast-guard-will-hear-from-former-oceangate-employees-about-the-titan-implosion/</link>
-          <pubDate>Mon, 07 Oct 2024 20:14:37 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/07/the-coast-guard-will-hear-from-former-oceangate-employees-about-the-titan-implosion.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/07/the-coast-guard-will-hear-from-former-oceangate-employees-about-the-titan-implosion.webp"/>
-          <dc:creator>PATRICK WHITTLE and LISA J. ADAMS WAGNER, Associated Press, KGET 17, NBC</dc:creator>
         </item></channel></rss>
