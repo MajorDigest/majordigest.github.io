@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/world/2024/10/15/israeli-strike-on-hospital-tent-camp-kills-4-and-ignites-a-fire-that-burns-dozens/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-15T02:47:42.000Z</news:publication_date>
+            <news:title>Israeli strike in northern Lebanon kills at least 21 people</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/15/israeli-strike-on-hospital-tent-camp-kills-4-and-ignites-a-fire-that-burns-dozens.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/10/15/un-security-council-voices-strong-concern-for-un-peacekeepers-after-israeli-attacks/</loc>
           <news:news>
             <news:publication>
@@ -14,6 +28,34 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/world/2024/10/15/un-security-council-voices-strong-concern-for-un-peacekeepers-after-israeli-attacks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/14/india-recalls-ambassador-from-canada-in-growing-dispute-over-assassination-of-sikh-activist/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-14T22:00:34.000Z</news:publication_date>
+            <news:title>Canada expels India's top diplomat and alleges wider diplomatic involvement in crimes</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/india-recalls-ambassador-from-canada-in-growing-dispute-over-assassination-of-sikh-activist.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/14/ocasio-cortez-biden-gaza-genocide/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-14T21:58:37.000Z</news:publication_date>
+            <news:title>Ocasio-Cortez criticizes Biden administration over 'unrestrained' Israel government</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/ocasio-cortez-biden-gaza-genocide.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -37,7 +79,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T19:07:00.000Z</news:publication_date>
+            <news:publication_date>2024-10-14T18:54:15.000Z</news:publication_date>
             <news:title>A bus carrying university students crashes, killing 12 and injuring 33 in Egypt's northeast</news:title>
           </news:news>
           <image:image>
@@ -45,45 +87,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/14/italy-sends-the-first-ship-with-migrants-to-albania-as-rights-groups-warn-of-a-dangerous-precedent/</loc>
+          <loc>https://majordigest.com/world/2024/10/14/israel-faces-a-fierce-and-evasive-foe-in-hezbollahs-drones/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T18:44:00.000Z</news:publication_date>
-            <news:title>Italy sends the first ship with migrants to Albania as rights groups warn of a dangerous precedent</news:title>
+            <news:publication_date>2024-10-14T18:08:50.000Z</news:publication_date>
+            <news:title>Hezbollah's drones are a fierce and evasive threat to Israel</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/14/italy-sends-the-first-ship-with-migrants-to-albania-as-rights-groups-warn-of-a-dangerous-precedent.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/14/russia-says-it-captured-a-southern-ukraine-village-in-a-push-before-winter-comes/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-14T17:36:45.000Z</news:publication_date>
-            <news:title>Russia says it captured a southern Ukraine village in a push before winter comes</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/14/russia-says-it-captured-a-southern-ukraine-village-in-a-push-before-winter-comes.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/14/vial-that-contained-nerve-agent-that-killed-uk-woman-contained-enough-poison-to-kill-thousands/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-14T16:55:02.000Z</news:publication_date>
-            <news:title>Vial that contained nerve agent that killed UK woman contained enough poison to kill thousands</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/14/vial-that-contained-nerve-agent-that-killed-uk-woman-contained-enough-poison-to-kill-thousands.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/israel-faces-a-fierce-and-evasive-foe-in-hezbollahs-drones.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,73 +115,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/14/israel-faces-a-fierce-and-evasive-foe-in-hezbollahs-drones/</loc>
+          <loc>https://majordigest.com/world/2024/10/14/former-officer-with-east-germanys-secret-police-sentenced-to-prison-for-a-border-killing-in-1974/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T16:01:46.000Z</news:publication_date>
-            <news:title>Hezbollah's drones are a fierce and evasive threat to Israel</news:title>
+            <news:publication_date>2024-10-14T12:46:07.000Z</news:publication_date>
+            <news:title>Former officer with East Germany&#8217;s secret police sentenced to prison for a border killing in 1974</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/14/israel-faces-a-fierce-and-evasive-foe-in-hezbollahs-drones.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/former-officer-with-east-germanys-secret-police-sentenced-to-prison-for-a-border-killing-in-1974.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/14/india-canada-diplomatic-war/</loc>
+          <loc>https://majordigest.com/world/2024/10/14/china-surrounds-taiwan-military-exercise-against-independence/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T15:25:43.000Z</news:publication_date>
-            <news:title>India-Canada diplomatic war intensifies over  killing probe</news:title>
+            <news:publication_date>2024-10-14T12:17:51.000Z</news:publication_date>
+            <news:title>China surrounds Taiwan in military exercise against independence</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/14/india-canada-diplomatic-war.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/14/unifil-ignored-hezbollah-terror-build-up-18-years-israels-un-ambassador-says/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-14T15:11:30.000Z</news:publication_date>
-            <news:title>UNIFIL ignored Hezbollah terror build up for 18 years, Israel's UN ambassador says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/14/unifil-ignored-hezbollah-terror-build-up-18-years-israels-un-ambassador-says.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/14/polish-governments-decision-to-suspend-asylum-law-triggers-concerns-from-civil-society/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-14T13:00:42.000Z</news:publication_date>
-            <news:title>Poland's leader defends his decision to suspend the right to asylum</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/14/polish-governments-decision-to-suspend-asylum-law-triggers-concerns-from-civil-society.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/14/middle-east-latest-eu-condemns-attacks-on-peacekeepers-in-lebanon/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-14T12:46:24.000Z</news:publication_date>
-            <news:title>Middle East latest: EU condemns attacks on peacekeepers in Lebanon</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/14/middle-east-latest-eu-condemns-attacks-on-peacekeepers-in-lebanon.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/china-surrounds-taiwan-military-exercise-against-independence.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -185,20 +157,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/14/udine-on-high-alert-ahead-of-italys-match-against-israel/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-14T10:40:23.000Z</news:publication_date>
-            <news:title>Udine on high alert ahead of Italy's match against Israel</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/14/udine-on-high-alert-ahead-of-italys-match-against-israel.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2024/10/14/seoul-says-north-korea-prepares-to-destroy-the-northern-sides-of-inter-korean-roads-no-longer-in-use/</loc>
           <news:news>
             <news:publication>
@@ -213,17 +171,101 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/14/israeli-strike-on-hospital-tent-camp-kills-4-and-ignites-a-fire-that-burns-dozens/</loc>
+          <loc>https://majordigest.com/world/2024/10/14/udine-on-high-alert-ahead-of-italys-match-against-israel/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T06:29:53.000Z</news:publication_date>
-            <news:title>Israeli strike in northern Lebanon kills at least 21 people</news:title>
+            <news:publication_date>2024-10-14T09:29:20.000Z</news:publication_date>
+            <news:title>Italy-Israel soccer match is held without incident despite security concerns</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/14/israeli-strike-on-hospital-tent-camp-kills-4-and-ignites-a-fire-that-burns-dozens.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/udine-on-high-alert-ahead-of-italys-match-against-israel.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/14/biden-harris-admin-accused-too-little-too-late-save-people-war-torn-famine-stricken-sudan/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-14T08:00:24.000Z</news:publication_date>
+            <news:title>Biden-Harris admin accused of &#8216;too little, too late&#8217; to save the people of war-torn, famine-stricken Sudan</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/biden-harris-admin-accused-too-little-too-late-save-people-war-torn-famine-stricken-sudan.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/14/israeli-strike-on-gaza-kills-a-family-of-8/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-14T07:02:29.000Z</news:publication_date>
+            <news:title>Israel says 4 soldiers killed by Hezbollah drone attack while Israeli strike in Gaza leaves 20 dead</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/israeli-strike-on-gaza-kills-a-family-of-8.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/14/ailing-and-silenced-in-prison-belarus-activist-symbolizes-the-nations-repression/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-14T04:06:28.000Z</news:publication_date>
+            <news:title>Ailing and silenced in prison, Belarus activist symbolizes the nation's repression</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/ailing-and-silenced-in-prison-belarus-activist-symbolizes-the-nations-repression.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/14/advanced-civilizations-theory/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-14T03:44:17.000Z</news:publication_date>
+            <news:title>Maybe advanced civilizations aren&#8217;t all that advanced: Scientist</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/advanced-civilizations-theory.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/14/harris-israel-gaza-food-aid/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-14T01:49:14.000Z</news:publication_date>
+            <news:title>Harris urges Israel to ramp up Gaza aid, citing UN food report</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/harris-israel-gaza-food-aid.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/14/north-korea-sends-warning-south-korea-saying-troops-ready-strike-more-drones-appear/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-14T01:19:20.000Z</news:publication_date>
+            <news:title>North Korea sends warning to South Korea, saying troops ready to strike if more drones appear</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/14/north-korea-sends-warning-south-korea-saying-troops-ready-strike-more-drones-appear.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -241,31 +283,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/13/pentagon-will-send-advanced-missile-defense-system-military-personnel-to-israel/</loc>
+          <loc>https://majordigest.com/world/2024/10/13/north-korea-says-front-line-units-ready-to-strike-south-korea-if-more-drones-appear/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-13T17:13:24.000Z</news:publication_date>
-            <news:title>Pentagon will send advanced missile defense system, military personnel to Israel</news:title>
+            <news:publication_date>2024-10-13T18:56:01.000Z</news:publication_date>
+            <news:title>North Korea says front-line units ready to strike South Korea if more drones appear</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/13/pentagon-will-send-advanced-missile-defense-system-military-personnel-to-israel.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/13/north-korea-says-front-line-units-ready-to-strike-south-korea-if-more-drones-appear.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/13/trump-kim-jong-un-putin/</loc>
+          <loc>https://majordigest.com/world/2024/10/13/iran-making-billions-oil-revenues-under-biden-admin-expert-slams-sanctions-policy-lack-pressure/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-13T15:58:28.000Z</news:publication_date>
-            <news:title>Trump touts relationship with Kim Jong Un, Putin</news:title>
+            <news:publication_date>2024-10-13T18:40:32.000Z</news:publication_date>
+            <news:title>Iran making billions in oil revenues under Biden admin as expert slams sanctions policy for lack of 'pressure'</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/13/trump-kim-jong-un-putin.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/13/iran-making-billions-oil-revenues-under-biden-admin-expert-slams-sanctions-policy-lack-pressure.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -311,6 +353,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/world/2024/10/13/indian-politician-known-for-his-close-ties-with-bollywood-is-killed-in-mumbai/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-13T09:17:59.000Z</news:publication_date>
+            <news:title>Indian politician known for his close ties with Bollywood is killed in Mumbai</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/13/indian-politician-known-for-his-close-ties-with-bollywood-is-killed-in-mumbai.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/10/13/lithuanians-vote-in-parliamentary-election-with-many-looking-for-change-despite-a-strong-economy/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-13T08:50:23.000Z</news:publication_date>
+            <news:title>Lithuanians vote in parliamentary election with many looking for change despite a strong economy</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/13/lithuanians-vote-in-parliamentary-election-with-many-looking-for-change-despite-a-strong-economy.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/10/13/heavy-israeli-bombardment-in-northern-gaza-as-un-peacekeepers-in-lebanon-are-hit-again/</loc>
           <news:news>
             <news:publication>
@@ -322,20 +392,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/world/2024/10/13/heavy-israeli-bombardment-in-northern-gaza-as-un-peacekeepers-in-lebanon-are-hit-again.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/11/navy-seal-drownings-iran-houthi-rebels-yemen/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T21:22:28.000Z</news:publication_date>
-            <news:title>Navy SEALs' drownings in Iranian op were preventable, investigation finds</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/11/navy-seal-drownings-iran-houthi-rebels-yemen.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -353,31 +409,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/11/archaeologists-unearth-well-preserved-4000-year-old-egyptian-tomb/</loc>
+          <loc>https://majordigest.com/world/2024/10/11/mount-everest-remains-believed-climber-who-vanished-100-years-ago/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-11T12:25:18.000Z</news:publication_date>
-            <news:title>Archaeologists unearth well-preserved 4,000-year-old Egyptian tomb</news:title>
+            <news:publication_date>2024-10-11T18:10:18.000Z</news:publication_date>
+            <news:title>Mount Everest remains believed to be climber who vanished 100 years ago</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/11/archaeologists-unearth-well-preserved-4000-year-old-egyptian-tomb.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/11/mount-everest-remains-believed-climber-who-vanished-100-years-ago.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/11/irans-national-airliner-accused-flying-weapons-beirut-airport-terror-proxy-hezbollah-report/</loc>
+          <loc>https://majordigest.com/world/2024/10/11/john-bolton-donald-trump-nato-withdrawal-chances/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-11T12:17:30.000Z</news:publication_date>
-            <news:title>Iran's national airliner accused of flying weapons to Beirut airport for terror proxy Hezbollah: Report</news:title>
+            <news:publication_date>2024-10-11T14:18:40.000Z</news:publication_date>
+            <news:title>Bolton: Odds that Trump would withdraw from NATO very high</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/11/irans-national-airliner-accused-flying-weapons-beirut-airport-terror-proxy-hezbollah-report.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/11/john-bolton-donald-trump-nato-withdrawal-chances.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -395,31 +451,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/10/canadian-woman-charged-killing-people-days-labeled-serial-killer/</loc>
+          <loc>https://majordigest.com/world/2024/10/09/north-korea-vows-block-border-south-korea-build-front-line-defense-structures/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-10T01:45:41.000Z</news:publication_date>
-            <news:title>Canadian woman charged with killing 3 people in 3 days, labeled a serial killer</news:title>
+            <news:publication_date>2024-10-09T19:49:04.000Z</news:publication_date>
+            <news:title>North Korea vows to block border with South Korea and build front-line defense structures</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/10/canadian-woman-charged-killing-people-days-labeled-serial-killer.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/09/north-korea-vows-block-border-south-korea-build-front-line-defense-structures.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/10/09/trump-covid-tests-vladimir-putin-pandemic/</loc>
+          <loc>https://majordigest.com/world/2024/10/09/fugitive-father-new-zealand/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-09T19:54:49.000Z</news:publication_date>
-            <news:title>Kremlin confirms Trump sent COVID tests to Putin during pandemic</news:title>
+            <news:publication_date>2024-10-09T18:01:59.000Z</news:publication_date>
+            <news:title>Fugitive father missing with 3 kids since 2021 filmed hiking in New Zealand</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/09/trump-covid-tests-vladimir-putin-pandemic.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/world/2024/10/09/fugitive-father-new-zealand.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -437,6 +493,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/world/2024/10/09/history-hoxne-hoard-largest-collection-roman-treasure-found-britain/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T15:34:52.000Z</news:publication_date>
+            <news:title>The history of the Hoxne Hoard, the largest collection of Roman treasure found in Britain</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/world/2024/10/09/history-hoxne-hoard-largest-collection-roman-treasure-found-britain.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/10/09/israel-hit-multiple-terrorist-attacks-two-killed-while-walking-dogs/</loc>
           <news:news>
             <news:publication>
@@ -448,47 +518,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/world/2024/10/09/israel-hit-multiple-terrorist-attacks-two-killed-while-walking-dogs.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/09/fbi-arrests-afghan-man-who-officials-say-planned-election-day-attack-in-the-us/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T02:43:23.000Z</news:publication_date>
-            <news:title>FBI arrests Afghan man who officials say planned Election Day attack in the US</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/09/fbi-arrests-afghan-man-who-officials-say-planned-election-day-attack-in-the-us.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/08/musks-x-to-be-reinstated-in-brazil-after-complying-with-supreme-court-demands/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-08T23:22:22.000Z</news:publication_date>
-            <news:title>Musk's X to be reinstated in Brazil after complying with Supreme Court demands</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/08/musks-x-to-be-reinstated-in-brazil-after-complying-with-supreme-court-demands.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/10/08/netanyahu-confirms-nasrallahs-replacement-dead-thousands-terrorists-killed/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-08T17:38:36.000Z</news:publication_date>
-            <news:title>Netanyahu confirms Nasrallah's replacement dead: &#8216;Thousands of terrorists&#8217; killed</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/world/2024/10/08/netanyahu-confirms-nasrallahs-replacement-dead-thousands-terrorists-killed.webp</image:loc>
           </image:image>
         </url></urlset>
