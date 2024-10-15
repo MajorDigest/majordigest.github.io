@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.comnull</loc>
+          <loc>https://majordigest.com/tech/2024/10/15/youtube-tv-tips-2/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T08:32:48.000Z</news:publication_date>
-            <news:title>Mercedes-Benz Adopts Quantum Computing to Achieve Zero Errors in Vehicle Assembly</news:title>
+            <news:publication_date>2024-10-15T11:30:00.000Z</news:publication_date>
+            <news:title>Maximizing Your YouTube TV Experience: Tips and Tricks</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/14/mercedes-benz-emplea-computacion-cuantica-en-la-planificacion-de-la-produccion-de-vehiculos.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/15/youtube-tv-tips-2.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/10/biometric-data-safe-hand-company-asks/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-10T21:50:22.000Z</news:publication_date>
+            <news:title>TSA Biometric Tech and the Risks of Sharing Your Personal Data</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/biometric-data-safe-hand-company-asks.webp</image:loc>
           </image:image>
         </url></urlset>
