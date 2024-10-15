@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/15/the-wordpress-drama-could-have-major-implications-for-the-internet/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T17:22:00.000Z</news:publication_date>
-            <news:title>WordPress Dispute Heats Up: Mullenweg vs. WP Engine</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/15/the-wordpress-drama-could-have-major-implications-for-the-internet.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/10/15/how-can-ai-win-the-trust-of-doctors-and-nurses/</loc>
           <news:news>
             <news:publication>
@@ -31,17 +17,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/15/el-centro-espanol-de-vigilancia-y-seguimiento-espacial-ve-aumentada-su-capacidad-de-computacion/</loc>
+          <loc>https://majordigest.com/tech/2024/10/15/copemar-en-busca-de-la-agilidad-empresarial-avanza-en-su-plan-de-digitalizacion/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T10:46:25.000Z</news:publication_date>
-            <news:title>El Centro Espa&#241;ol de Vigilancia y Seguimiento Espacial ve aumentada su capacidad de computaci&#243;n</news:title>
+            <news:publication_date>2024-10-15T09:50:01.000Z</news:publication_date>
+            <news:title>Copemar, en busca de la agilidad empresarial, avanza en su plan de digitalizaci&#243;n</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/15/el-centro-espanol-de-vigilancia-y-seguimiento-espacial-ve-aumentada-su-capacidad-de-computacion.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/15/copemar-en-busca-de-la-agilidad-empresarial-avanza-en-su-plan-de-digitalizacion.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/15/biden-admin-to-provide-750-million-to-north-carolina-based-wolfspeed-for-advanced-computer-chips/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-15T09:02:38.000Z</news:publication_date>
+            <news:title>Biden admin to provide $750 million to North Carolina-based Wolfspeed for advanced computer chips</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/15/biden-admin-to-provide-750-million-to-north-carolina-based-wolfspeed-for-advanced-computer-chips.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/15/at-the-mercy-of-social-media/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-15T09:00:00.000Z</news:publication_date>
+            <news:title>At the mercy of social media</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/15/at-the-mercy-of-social-media.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/15/el-67-del-sector-industrial-ya-utiliza-la-ia-para-la-fabricacion-de-productos/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-15T08:35:58.000Z</news:publication_date>
+            <news:title>El 67% del sector industrial ya utiliza la IA para la fabricaci&#243;n de productos</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/15/el-67-del-sector-industrial-ya-utiliza-la-ia-para-la-fabricacion-de-productos.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/15/convergenza-it-business-la-digital-transformation-diventa-trasformazione-aziendale/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-15T05:00:00.000Z</news:publication_date>
+            <news:title>Convergenza IT-business: la digital transformation diventa trasformazione aziendale</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/15/convergenza-it-business-la-digital-transformation-diventa-trasformazione-aziendale.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -94,402 +136,94 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-10-14T22:16:00.000Z</news:publication_date>
-            <news:title>Elon Musk is becoming a liability for his own businesses</news:title>
+            <news:title>Elon Musk's Starship Success Halted by Coastal Commission, Personal Legacy at Stake</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/14/elon-musk-is-becoming-a-liability-for-his-own-businesses.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/14/steps-stolen-lost-phone/</loc>
+          <loc>https://majordigest.com/tech/2024/10/11/teslas-robotaxi-day-arrives-with-musks-reputation-at-stake/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T18:03:08.000Z</news:publication_date>
-            <news:title>One Tech Tip: Here&#8217;s what you need to do before and after your phone is stolen or lost</news:title>
+            <news:publication_date>2024-10-11T16:52:51.000Z</news:publication_date>
+            <news:title>Tesla&#8217;s Cybercab, Robovan revealed with Elon Musk&#8217;s reputation at stake</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/14/steps-stolen-lost-phone.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/11/teslas-robotaxi-day-arrives-with-musks-reputation-at-stake.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/14/nasa-spacecraft-rockets-toward-jupiters-moon-europa-in-search-of-the-right-conditions-for-life/</loc>
+          <loc>https://majordigest.com/tech/2024/10/11/android-settings-security/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T16:07:13.000Z</news:publication_date>
-            <news:title>NASA spacecraft rockets toward Jupiter's moon Europa in search of the right conditions for life</news:title>
+            <news:publication_date>2024-10-11T09:45:00.000Z</news:publication_date>
+            <news:title>18 Android settings that&#8217;ll strengthen your security</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/14/nasa-spacecraft-rockets-toward-jupiters-moon-europa-in-search-of-the-right-conditions-for-life.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/11/android-settings-security.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/14/open-source-package-entry-points-could-be-used-for-command-jacking-report/</loc>
+          <loc>https://majordigest.com/tech/2024/10/10/internet-archive-data-breach/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T15:48:04.000Z</news:publication_date>
-            <news:title>Open source package entry points could be used for command jacking</news:title>
+            <news:publication_date>2024-10-10T23:15:19.000Z</news:publication_date>
+            <news:title>Internet Archive data breach exposes more than 31 million user accounts: Reports</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/14/open-source-package-entry-points-could-be-used-for-command-jacking-report.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/internet-archive-data-breach.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/14/making-generative-ai-work-for-you/</loc>
+          <loc>https://majordigest.com/tech/2024/10/10/say-goodbye-dead-batteries-portable-wind-turbine/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T09:00:00.000Z</news:publication_date>
-            <news:title>Making generative AI work for you</news:title>
+            <news:publication_date>2024-10-10T10:00:23.000Z</news:publication_date>
+            <news:title>Say goodbye to dead batteries with this portable wind turbine</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/14/making-generative-ai-work-for-you.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/say-goodbye-dead-batteries-portable-wind-turbine.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/14/how-to-leverage-apis-for-it-enabled-information-capability/</loc>
+          <loc>https://majordigest.com/tech/2024/10/10/heres-whats-new-in-office-2024/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T08:00:00.000Z</news:publication_date>
-            <news:title>How to leverage APIs for IT-enabled information capability</news:title>
+            <news:publication_date>2024-10-10T10:00:00.000Z</news:publication_date>
+            <news:title>Here&#8217;s what&#8217;s new in Office 2024</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/14/how-to-leverage-apis-for-it-enabled-information-capability.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/10/heres-whats-new-in-office-2024.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/13/how-to-convert-podcasts-podsnacks/</loc>
+          <loc>https://majordigest.com/tech/2024/10/09/ocasio-cortez-defends-ftc-chair-khan-brawl/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-13T15:00:00.000Z</news:publication_date>
-            <news:title>The secret to reading (yes, reading!) podcasts in your inbox</news:title>
+            <news:publication_date>2024-10-09T16:06:35.000Z</news:publication_date>
+            <news:title>Ocasio-Cortez promises 'brawl' if 'billionaires' force out Lina Khan</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/13/how-to-convert-podcasts-podsnacks.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/13/top-5-methods-equip-your-car-wi-fi/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-13T13:00:16.000Z</news:publication_date>
-            <news:title>Top 5 methods to equip your car with Wi-Fi</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/13/top-5-methods-equip-your-car-wi-fi.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/13/volunteers-bring-solar-power-to-hurricane-helenes-disaster-zone/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-13T04:02:54.000Z</news:publication_date>
-            <news:title>Volunteers bring solar power to Hurricane Helene's disaster zone</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/13/volunteers-bring-solar-power-to-hurricane-helenes-disaster-zone.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/12/opinion-musks-courtship-with-maga-has-driven-x-into-misinformation-abyss/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-12T11:15:05.000Z</news:publication_date>
-            <news:title>Opinion: Musk&#8217;s courtship with MAGA has driven X into a misinformation abyss</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/12/opinion-musks-courtship-with-maga-has-driven-x-into-misinformation-abyss.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/dot-driving-it-modernization-to-meet-enterprise-local-needs/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T19:27:36.000Z</news:publication_date>
-            <news:title>DoT driving IT modernization to meet enterprise, local needs</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/dot-driving-it-modernization-to-meet-enterprise-local-needs.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/trump-campaign-musk-coordinated-to-stop-hacked-material-on-x-report/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T18:55:56.000Z</news:publication_date>
-            <news:title>Trump campaign, Musk coordinated to stop hacked material on X: Report</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/trump-campaign-musk-coordinated-to-stop-hacked-material-on-x-report.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/apple-is-inventing-a-reality-distortion-field/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T16:41:39.000Z</news:publication_date>
-            <news:title>Apple is inventing a reality distortion field</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/apple-is-inventing-a-reality-distortion-field.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/army-corps-of-engineers-modernizes-it-infrastructure-through-hybrid-cloud-vertosoft/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T16:03:09.000Z</news:publication_date>
-            <news:title>Army Corps of Engineers modernizes IT infrastructure through hybrid cloud Vertosoft</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/army-corps-of-engineers-modernizes-it-infrastructure-through-hybrid-cloud-vertosoft.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/tesla-is-unveiling-its-long-awaited-robotaxi-amid-doubts-about-the-technology-it-runs-on/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T13:32:14.000Z</news:publication_date>
-            <news:title>Elon Musk unveils Tesla's 'Cybercab' as stock sinks</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/tesla-is-unveiling-its-long-awaited-robotaxi-amid-doubts-about-the-technology-it-runs-on.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/11/more-than-one-third-of-cloud-environments-are-critically-exposed-says-tenable/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-11T09:06:33.000Z</news:publication_date>
-            <news:title>More than one-third of cloud environments are critically exposed, says Tenable</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/11/more-than-one-third-of-cloud-environments-are-critically-exposed-says-tenable.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/typescript-5-7-improves-error-reporting/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T20:25:49.000Z</news:publication_date>
-            <news:title>TypeScript 5.7 improves error reporting</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/typescript-5-7-improves-error-reporting.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/gsas-emerging-tech-radar-keeping-tabs-on-future-needs/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T18:55:44.000Z</news:publication_date>
-            <news:title>GSA&#8217;s emerging tech radar keeping tabs on future needs</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/gsas-emerging-tech-radar-keeping-tabs-on-future-needs.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/geomagnetic-storm-northern-lights-power-grid/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T18:14:56.000Z</news:publication_date>
-            <news:title>Will we see northern lights, power grid impacts amid 'severe' geomagnetic storm?</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/geomagnetic-storm-northern-lights-power-grid.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/microsoft-ai-tools-health-care/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T18:11:54.000Z</news:publication_date>
-            <news:title>Microsoft unveils health care AI tools</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/microsoft-ai-tools-health-care.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/cisco-revamps-key-devnet-sandboxes/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T17:47:54.000Z</news:publication_date>
-            <news:title>Cisco revamps key DevNet sandboxes</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/cisco-revamps-key-devnet-sandboxes.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/ibm-78-of-mainframe-shops-are-piloting-operating-ai-apps/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T15:48:42.000Z</news:publication_date>
-            <news:title>IBM: 78% of mainframe shops are piloting, operating AI apps</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/ibm-78-of-mainframe-shops-are-piloting-operating-ai-apps.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/astera-labs-debuts-scorpio-fabric-switch-to-accelerate-pcie-for-ai-cloud/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T15:20:38.000Z</news:publication_date>
-            <news:title>Astera Labs debuts Scorpio fabric switch to accelerate PCIe for AI, cloud</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/astera-labs-debuts-scorpio-fabric-switch-to-accelerate-pcie-for-ai-cloud.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/german-marshall-fund-ai-deep-fakes/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T09:00:00.000Z</news:publication_date>
-            <news:title>AI tracker charts growth in deepfakes ahead of election</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/german-marshall-fund-ai-deep-fakes.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/microsofts-drasi-a-lightweight-approach-to-event-driven-programming/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T09:00:00.000Z</news:publication_date>
-            <news:title>Microsoft&#8217;s Drasi: A lightweight approach to event-driven programming</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/microsofts-drasi-a-lightweight-approach-to-event-driven-programming.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/how-to-use-java-generics-to-avoid-classcastexceptions/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T09:00:00.000Z</news:publication_date>
-            <news:title>How to use Java generics to avoid ClassCastExceptions</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/how-to-use-java-generics-to-avoid-classcastexceptions.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/10/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-10T08:51:08.000Z</news:publication_date>
-            <news:title>Meta expands AI assistant to more countries and languages amid intensifying AI battle</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/10/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/09/effective-edr-balancing-testing-rigor-and-velocity/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T20:04:26.000Z</news:publication_date>
-            <news:title>Effective EDR: Balancing testing rigor and velocity</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/effective-edr-balancing-testing-rigor-and-velocity.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/09/planned-adobe-app-to-put-an-end-to-ai-training-on-images-and-clips/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-09T18:41:09.000Z</news:publication_date>
-            <news:title>Planned Adobe app to put an end to AI training on images and clips</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/09/planned-adobe-app-to-put-an-end-to-ai-training-on-images-and-clips.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/ocasio-cortez-defends-ftc-chair-khan-brawl.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -504,5 +238,33 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/09/american-water-cyberattack-renews-focus-on-protecting-critical-infrastructure.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/09/someone-reinvented-toilet-so-you-can-do-your-business-anywhere/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-09T10:00:20.000Z</news:publication_date>
+            <news:title>Someone reinvented the toilet so that you can do your business anywhere</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/09/someone-reinvented-toilet-so-you-can-do-your-business-anywhere.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/08/states-sue-tiktok-claiming-its-platform-is-addictive-and-harms-the-mental-health-of-children/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-08T22:52:04.000Z</news:publication_date>
+            <news:title>TikTok is designed to be addictive to kids and causes them harm, US states' lawsuits say</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/08/states-sue-tiktok-claiming-its-platform-is-addictive-and-harms-the-mental-health-of-children.webp</image:loc>
           </image:image>
         </url></urlset>
