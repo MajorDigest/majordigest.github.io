@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/16/viofos-powerful-new-dash-cam-brings-several-world-first-features-including-smoother-4k-video/</loc>
+          <loc>https://majordigest.com/tech/2024/10/15/missed-out-on-the-northern-lights-scientists-expect-more-solar-storms-to-produce-auroras/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T01:45:00.000Z</news:publication_date>
-            <news:title>The Viofo A329 Dash Cam: Revolutionizing Road Safety with 4K Video Recording</news:title>
+            <news:publication_date>2024-10-15T18:50:16.000Z</news:publication_date>
+            <news:title>More Northern Lights Expected as Sun's Activity Peaks</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/16/viofos-powerful-new-dash-cam-brings-several-world-first-features-including-smoother-4k-video.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/15/missed-out-on-the-northern-lights-scientists-expect-more-solar-storms-to-produce-auroras.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/15/hide-lock-your-apps-your-iphone-ios-18/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-15T10:00:42.000Z</news:publication_date>
+            <news:title>iOS 18 App Management: A Game-Changing Feature for Your iPhone</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/15/hide-lock-your-apps-your-iphone-ios-18.webp</image:loc>
           </image:image>
         </url></urlset>
