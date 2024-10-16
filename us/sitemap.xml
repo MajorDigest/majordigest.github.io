@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/us/2024/10/16/injured-alex-cobb-dropped-from-guardians-alcs-roster-replaced-by-ben-lively/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-16T05:22:24.000Z</news:publication_date>
-            <news:title>Injured Alex Cobb dropped from Guardians' ALCS roster, replaced by Ben Lively</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/16/injured-alex-cobb-dropped-from-guardians-alcs-roster-replaced-by-ben-lively.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/us/2024/10/16/texas-man-facing-execution-in-shaken-baby-syndrome-case-awaits-clemency-ruling/</loc>
           <news:news>
             <news:publication>
@@ -28,6 +14,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/us/2024/10/16/texas-man-facing-execution-in-shaken-baby-syndrome-case-awaits-clemency-ruling.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/16/adobe-starts-roll-out-of-ai-video-tools-challenging-openai-and-meta/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-16T04:46:00.000Z</news:publication_date>
+            <news:title>Adobe starts roll-out of AI video tools, challenging OpenAI and Meta</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/16/adobe-starts-roll-out-of-ai-video-tools-challenging-openai-and-meta.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,17 +45,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/16/republicans-challenge-more-than-63000-voters-in-georgia-but-few-removed-ap-finds/</loc>
+          <loc>https://majordigest.com/us/2024/10/16/19-mayoral-candidates-compete-to-lead-portland-oregon-in-a-race-with-homelessness-at-its-heart/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T04:05:07.000Z</news:publication_date>
-            <news:title>Republicans challenge more than 63,000 voters in Georgia, but few removed, AP finds</news:title>
+            <news:publication_date>2024-10-16T04:13:26.000Z</news:publication_date>
+            <news:title>19 mayoral candidates compete to lead Portland, Oregon, in a race with homelessness at its heart</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/16/republicans-challenge-more-than-63000-voters-in-georgia-but-few-removed-ap-finds.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/16/19-mayoral-candidates-compete-to-lead-portland-oregon-in-a-race-with-homelessness-at-its-heart.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/16/the-son-of-a-south-carolina-inmate-urges-the-governor-to-save-his-father-from-execution/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-16T04:04:30.000Z</news:publication_date>
+            <news:title>The son of a South Carolina inmate urges the governor to save his father from execution</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/16/the-son-of-a-south-carolina-inmate-urges-the-governor-to-save-his-father-from-execution.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/16/former-ozzy-osbourne-guitarist-jake-e-lee-shot-while-walking-dog/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-16T03:02:55.000Z</news:publication_date>
+            <news:title>Former Ozzy Osbourne guitarist Jake E. Lee shot while walking dog</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/16/former-ozzy-osbourne-guitarist-jake-e-lee-shot-while-walking-dog.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/16/biden-says-harris-will-cut-her-own-path-as-president-and-her-perspective-will-be-fresh-and-new/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-16T02:21:00.000Z</news:publication_date>
+            <news:title>Biden says Harris will cut her own path as president, and her perspective will be fresh and new</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/16/biden-says-harris-will-cut-her-own-path-as-president-and-her-perspective-will-be-fresh-and-new.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/16/prosecutors-will-not-file-criminal-charges-against-2-people-at-center-of-los-angeles-racism-scandal/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-16T01:25:23.000Z</news:publication_date>
+            <news:title>Prosecutors will not file criminal charges against 2 people at center of Los Angeles racism scandal</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/16/prosecutors-will-not-file-criminal-charges-against-2-people-at-center-of-los-angeles-racism-scandal.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,45 +129,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/15/north-carolina-man-shot-killed-outside-of-his-own-wedding-family-wants-answers/</loc>
+          <loc>https://majordigest.com/us/2024/10/15/coca-cola-recalls-zero-sugar-lemonade-after-its-found-to-contain-full-sugar/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T23:45:23.000Z</news:publication_date>
-            <news:title>North Carolina man shot, killed outside of his own wedding; family wants answers</news:title>
+            <news:publication_date>2024-10-15T22:26:09.000Z</news:publication_date>
+            <news:title>Coca-Cola recalls 'zero sugar' lemonade after it's found to contain full sugar</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/north-carolina-man-shot-killed-outside-of-his-own-wedding-family-wants-answers.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/15/bills-boost-patchwork-receiver-group-by-acquiring-amari-cooper-in-trade-with-browns-ap-source-says/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T22:49:24.000Z</news:publication_date>
-            <news:title>Bills acquire wide receiver Amari Cooper from Browns, giving QB Josh Allen a much-needed playmaker</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/bills-boost-patchwork-receiver-group-by-acquiring-amari-cooper-in-trade-with-browns-ap-source-says.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/15/senate-intel-chair-frets-about-foreign-actors-spreading-hurricane-election-misinformation/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T22:28:02.000Z</news:publication_date>
-            <news:title>Senate Intel chair frets about foreign actors spreading hurricane, election misinformation</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/senate-intel-chair-frets-about-foreign-actors-spreading-hurricane-election-misinformation.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/15/coca-cola-recalls-zero-sugar-lemonade-after-its-found-to-contain-full-sugar.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -129,62 +157,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/15/row-boat-across-pacific-ocean/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T22:14:57.000Z</news:publication_date>
-            <news:title>Man to row across the Pacific Ocean to honor victims of war in Ukraine</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/row-boat-across-pacific-ocean.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/15/lsus-indian-institute-graduate-degree/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T22:12:23.000Z</news:publication_date>
-            <news:title>LSUS partners with Indian institute for dual graduate degree program</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/lsus-indian-institute-graduate-degree.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/15/coca-cola-recalls-zero-sugar-lemonade-after-its-found-to-contain-full-sugar/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T21:11:54.000Z</news:publication_date>
-            <news:title>Coca-Cola recalls 'zero sugar' lemonade after it's found to contain full sugar</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/coca-cola-recalls-zero-sugar-lemonade-after-its-found-to-contain-full-sugar.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/15/idaho-revamps-execution-chamber-so-docs-can-access-deep-veins-after-failed-lethal-injection-attempt/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T21:01:10.000Z</news:publication_date>
-            <news:title>Idaho will begin using deep veins as backup for lethal injection executions, officials say</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/idaho-revamps-execution-chamber-so-docs-can-access-deep-veins-after-failed-lethal-injection-attempt.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/us/2024/10/15/ex-husband-of-real-housewives-star-gets-seven-years-for-hiring-mobster-to-assault-her-boyfriend/</loc>
           <news:news>
             <news:publication>
@@ -199,143 +171,115 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/15/fema-resumes-door-to-door-visits-in-north-carolina-after-threats-connected-to-disinformation/</loc>
+          <loc>https://majordigest.com/us/2024/10/15/long-lost-sisters-meet-for-the-first-time-in-person/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T20:34:33.000Z</news:publication_date>
-            <news:title>FEMA resumes door-to-door visits in North Carolina after threats tied to disinformation</news:title>
+            <news:publication_date>2024-10-15T19:02:52.000Z</news:publication_date>
+            <news:title>Long lost sisters meet for the first time in person</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/fema-resumes-door-to-door-visits-in-north-carolina-after-threats-connected-to-disinformation.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/15/long-lost-sisters-meet-for-the-first-time-in-person.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/15/supreme-court-turns-away-self-proclaimed-republicans-defense-in-claiming-partys-support/</loc>
+          <loc>https://majordigest.com/us/2024/10/15/one-quarter-of-applicants-ruled-out-colleges-because-of-states-political-climate-poll/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T20:06:24.000Z</news:publication_date>
-            <news:title>Supreme Court turns away self-proclaimed Republican&#8217;s defense in claiming party&#8217;s support</news:title>
+            <news:publication_date>2024-10-15T18:24:18.000Z</news:publication_date>
+            <news:title>One-quarter of applicants ruled out colleges because of states' political climate: Poll</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/supreme-court-turns-away-self-proclaimed-republicans-defense-in-claiming-partys-support.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/15/one-quarter-of-applicants-ruled-out-colleges-because-of-states-political-climate-poll.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/15/apple-watch-series-10-medical-device/</loc>
+          <loc>https://majordigest.com/us/2024/10/15/supreme-court-opens-door-to-texas-online-journalists-lawsuit-over-her-2017-arrest/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T19:53:46.000Z</news:publication_date>
-            <news:title>Can Apple Watch 10 be used as a medical device?</news:title>
+            <news:publication_date>2024-10-15T14:03:02.000Z</news:publication_date>
+            <news:title>Supreme Court opens door to Texas online journalist's lawsuit over her 2017 arrest</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/apple-watch-series-10-medical-device.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/15/supreme-court-opens-door-to-texas-online-journalists-lawsuit-over-her-2017-arrest.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/15/trump-rally-turns-into-awkward-dance-party/</loc>
+          <loc>https://majordigest.com/us/2024/10/15/suspected-murder-hornet-found-in-washington-state/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T16:26:22.000Z</news:publication_date>
-            <news:title>Trump rally turns into awkward dance party</news:title>
+            <news:publication_date>2024-10-15T14:01:57.000Z</news:publication_date>
+            <news:title>Suspected 'murder hornet' found in Washington State</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/trump-rally-turns-into-awkward-dance-party.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/15/suspected-murder-hornet-found-in-washington-state.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/15/family-mom-whose-suspected-killer-illegal-immigrant-praises-clinton-calling-out-biden-harris-border/</loc>
+          <loc>https://majordigest.com/us/2024/10/15/sewage-from-mexico-affects-recreational-opportunities-north-of-the-border/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T16:24:46.000Z</news:publication_date>
-            <news:title>Family of mom whose suspected killer is illegal immigrant praises Clinton for calling out Biden-Harris border</news:title>
+            <news:publication_date>2024-10-15T13:25:25.000Z</news:publication_date>
+            <news:title>Sewage from Mexico affects recreational opportunities north of the border</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/family-mom-whose-suspected-killer-illegal-immigrant-praises-clinton-calling-out-biden-harris-border.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/15/sewage-from-mexico-affects-recreational-opportunities-north-of-the-border.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/15/alex-murdaugh-settles-south-carolina-lawsuit-mallory-beach-family-2019-boat-crash/</loc>
+          <loc>https://majordigest.com/us/2024/10/15/walgreens-to-close-1200-us-stores/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T16:12:25.000Z</news:publication_date>
-            <news:title>Alex Murdaugh settles South Carolina lawsuit with Mallory Beach family for 2019 boat crash</news:title>
+            <news:publication_date>2024-10-15T12:34:58.000Z</news:publication_date>
+            <news:title>Walgreens to close 1,200 US stores</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/alex-murdaugh-settles-south-carolina-lawsuit-mallory-beach-family-2019-boat-crash.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/15/walgreens-to-close-1200-us-stores.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/15/husband-boston-nurse-lindsay-clancy-accused-killing-their-3-kids-says-he-wasnt-married-monster/</loc>
+          <loc>https://majordigest.com/us/2024/10/15/geraldo-rivera-backing-harris-trump-cannot-be-trusted-to-honor-the-constitution/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T15:33:45.000Z</news:publication_date>
-            <news:title>Husband of Boston nurse Lindsay Clancy, accused of killing their 3 kids, says he wasn&#8217;t married to &#8216;monster&#8217;</news:title>
+            <news:publication_date>2024-10-15T11:27:44.000Z</news:publication_date>
+            <news:title>Geraldo Rivera backing Harris: Trump 'cannot be trusted to honor the Constitution'</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/husband-boston-nurse-lindsay-clancy-accused-killing-their-3-kids-says-he-wasnt-married-monster.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/15/geraldo-rivera-backing-harris-trump-cannot-be-trusted-to-honor-the-constitution.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/15/jets-acquire-raiders-wide-receiver-davante-adams-ap-sources-say/</loc>
+          <loc>https://majordigest.com/us/2024/10/15/biden-responds-hurricane-survivors-fury-over-750-fema-payment-more-top-headlines/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T15:05:27.000Z</news:publication_date>
-            <news:title>Jets acquire Raiders wide receiver Davante Adams, AP sources say</news:title>
+            <news:publication_date>2024-10-15T11:03:07.000Z</news:publication_date>
+            <news:title>Biden responds to hurricane survivors' fury over the '$750' FEMA payment and more top headlines</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/jets-acquire-raiders-wide-receiver-davante-adams-ap-sources-say.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/15/knife-wielding-woman-slashes-virginia-police-officer-before-she-shot-bodycam-shows/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T14:07:11.000Z</news:publication_date>
-            <news:title>Knife-wielding woman slashes Virginia police officer before she is shot, bodycam shows</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/knife-wielding-woman-slashes-virginia-police-officer-before-she-shot-bodycam-shows.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/15/petitions-for-union-representation-doubled-under-bidens-presidency-first-increase-since-1970s/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T14:04:37.000Z</news:publication_date>
-            <news:title>Petitions for union representation doubled under Biden's presidency, first increase since 1970s</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/petitions-for-union-representation-doubled-under-bidens-presidency-first-increase-since-1970s.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/15/biden-responds-hurricane-survivors-fury-over-750-fema-payment-more-top-headlines.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -345,7 +289,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T02:46:59.000Z</news:publication_date>
+            <news:publication_date>2024-10-15T02:46:48.000Z</news:publication_date>
             <news:title>Massive meat recall includes hundreds of products sold at Walmart, Target, more</news:title>
           </news:news>
           <image:image>
@@ -353,129 +297,87 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/15/florida-returning-to-something-like-normal-after-hurricane-milton/</loc>
+          <loc>https://majordigest.com/us/2024/10/14/tom-donohue-former-longtime-chamber-of-commerce-ceo-dies/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T01:49:42.000Z</news:publication_date>
-            <news:title>Florida returning to something like normal after Hurricane Milton</news:title>
+            <news:publication_date>2024-10-14T18:47:43.000Z</news:publication_date>
+            <news:title>Tom Donohue, former longtime Chamber of Commerce CEO, dies</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/15/florida-returning-to-something-like-normal-after-hurricane-milton.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/14/tom-donohue-former-longtime-chamber-of-commerce-ceo-dies.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/14/what-to-know-about-shaken-baby-syndrome-as-a-texas-man-could-be-first-in-us-executed-over-it/</loc>
+          <loc>https://majordigest.com/us/2024/10/14/new-lawsuits-accuse-sean-diddy-combs-of-sexual-assault-against-6-people-including-a-minor/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T22:01:35.000Z</news:publication_date>
-            <news:title>What to know about shaken baby syndrome as a Texas man could be first in US executed over it</news:title>
+            <news:publication_date>2024-10-14T18:22:31.000Z</news:publication_date>
+            <news:title>New lawsuits accuse Sean 'Diddy' Combs of sexual assault against 6 people, including a minor</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/14/what-to-know-about-shaken-baby-syndrome-as-a-texas-man-could-be-first-in-us-executed-over-it.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/14/new-lawsuits-accuse-sean-diddy-combs-of-sexual-assault-against-6-people-including-a-minor.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/14/members-of-the-kennedy-family-gather-for-funeral-of-ethel-kennedy/</loc>
+          <loc>https://majordigest.com/us/2024/10/14/lilly-ledbetter-equal-pay-trailblazer-dies-at-86/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T20:53:21.000Z</news:publication_date>
-            <news:title>Members of the Kennedy family gather for funeral of Ethel Kennedy</news:title>
+            <news:publication_date>2024-10-14T17:57:46.000Z</news:publication_date>
+            <news:title>Lilly Ledbetter, equal pay trailblazer, dies at 86</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/14/members-of-the-kennedy-family-gather-for-funeral-of-ethel-kennedy.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/14/lilly-ledbetter-equal-pay-trailblazer-dies-at-86.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/14/fema-temporarily-pauses-aid-in-parts-of-nc-over-reported-threats/</loc>
+          <loc>https://majordigest.com/us/2024/10/14/major-home-improvement-retailer-files-for-bankruptcy-announces-sale-plans/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T17:53:15.000Z</news:publication_date>
-            <news:title>FEMA temporarily pauses aid in parts of NC over reported threats</news:title>
+            <news:publication_date>2024-10-14T16:18:00.000Z</news:publication_date>
+            <news:title>Major home improvement retailer files for bankruptcy, announces sale plans</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/14/fema-temporarily-pauses-aid-in-parts-of-nc-over-reported-threats.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/14/major-home-improvement-retailer-files-for-bankruptcy-announces-sale-plans.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/14/watch-live-nasa-launches-europa-clipper-will-scour-jupiter-moon-for-ingredients-of-life/</loc>
+          <loc>https://majordigest.com/us/2024/10/14/bath-and-body-works-apologizes-for-candle-designed-with-what-looked-like-kkk-hoods/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T15:04:28.000Z</news:publication_date>
-            <news:title>WATCH: NASA launches Europa Clipper, will scour Jupiter moon for ingredients of life</news:title>
+            <news:publication_date>2024-10-14T15:02:20.000Z</news:publication_date>
+            <news:title>Bath &#38; Body Works apologizes for candle designed with what looked like KKK hoods</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/14/watch-live-nasa-launches-europa-clipper-will-scour-jupiter-moon-for-ingredients-of-life.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/14/bath-and-body-works-apologizes-for-candle-designed-with-what-looked-like-kkk-hoods.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/14/armed-man-arrested-near-trump-rally-denies-assassination-attempt-claims/</loc>
+          <loc>https://majordigest.com/us/2024/10/14/senate-rankings-5-seats-most-likely-to-flip-4/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T14:40:12.000Z</news:publication_date>
-            <news:title>Armed man arrested near Trump rally denies 'assassination attempt' claims</news:title>
+            <news:publication_date>2024-10-14T10:00:28.000Z</news:publication_date>
+            <news:title>Senate rankings: 5 seats most likely to flip</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/14/armed-man-arrested-near-trump-rally-denies-assassination-attempt-claims.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/14/group-associated-with-polygamous-sect-builds-fences-on-us-forest-service-lands/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-14T14:39:39.000Z</news:publication_date>
-            <news:title>Group associated with polygamous sect builds fences on US Forest Service lands</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/14/group-associated-with-polygamous-sect-builds-fences-on-us-forest-service-lands.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/14/influx-of-homeless-encampments-under-political-signages-seen-across-las-vegas-valley/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-14T13:08:07.000Z</news:publication_date>
-            <news:title>Influx of homeless encampments under political signages seen across Las Vegas valley</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/14/influx-of-homeless-encampments-under-political-signages-seen-across-las-vegas-valley.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2024/10/14/nearly-200-miles-of-blue-ridge-parkway-reopens-as-long-term-work-remains-in-north-carolina/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-14T09:46:04.000Z</news:publication_date>
-            <news:title>Nearly 200 miles of Blue Ridge Parkway reopens as long-term work remains in North Carolina</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/14/nearly-200-miles-of-blue-ridge-parkway-reopens-as-long-term-work-remains-in-north-carolina.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/14/senate-rankings-5-seats-most-likely-to-flip-4.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -485,7 +387,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T01:32:18.000Z</news:publication_date>
+            <news:publication_date>2024-10-14T04:39:46.000Z</news:publication_date>
             <news:title>What $35 trillion in US national debt means for Americans</news:title>
           </news:news>
           <image:image>
@@ -493,30 +395,128 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/14/deputies-probably-prevented-3rd-trump-assassination-attempt-california-sheriff-says/</loc>
+          <loc>https://majordigest.com/us/2024/10/13/jackson-outduels-daniels-and-henry-runs-for-two-tds-as-ravens-beat-commanders-30-23/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-14T00:17:34.000Z</news:publication_date>
-            <news:title>Deputies 'probably' prevented 3rd Trump assassination attempt, California sheriff says</news:title>
+            <news:publication_date>2024-10-13T21:39:20.000Z</news:publication_date>
+            <news:title>Jackson outduels Daniels and Henry runs for two TDs as Ravens beat Commanders 30-23</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/14/deputies-probably-prevented-3rd-trump-assassination-attempt-california-sheriff-says.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/13/jackson-outduels-daniels-and-henry-runs-for-two-tds-as-ravens-beat-commanders-30-23.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2024/10/11/internet-archive-data-breach-exposes-more-than-31-million-user-accounts-reports/</loc>
+          <loc>https://majordigest.com/us/2024/10/13/not-exactly-smooth-sailing-at-the-52nd-albuquerque-balloon-fiesta-after-4-incidents/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-11T12:48:32.000Z</news:publication_date>
-            <news:title>Internet Archive data breach exposes more than 31 million user accounts: reports</news:title>
+            <news:publication_date>2024-10-13T18:43:20.000Z</news:publication_date>
+            <news:title>Not exactly smooth sailing at the 52nd Albuquerque balloon fiesta after 4 incidents</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/us/2024/10/11/internet-archive-data-breach-exposes-more-than-31-million-user-accounts-reports.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/us/2024/10/13/not-exactly-smooth-sailing-at-the-52nd-albuquerque-balloon-fiesta-after-4-incidents.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/13/trump-calls-for-protester-to-go-back-home-to-mommy-during-california-rally/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-13T17:32:03.000Z</news:publication_date>
+            <news:title>Trump calls for protester to 'go back home to Mommy' during California rally</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/13/trump-calls-for-protester-to-go-back-home-to-mommy-during-california-rally.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/13/family-desperately-trying-to-get-colorado-dad-home-after-he-fell-ill-on-european-cruise/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-13T17:30:57.000Z</news:publication_date>
+            <news:title>Family desperately trying to get Colorado dad home after he fell ill on European cruise</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/13/family-desperately-trying-to-get-colorado-dad-home-after-he-fell-ill-on-european-cruise.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/13/professor-leaves-university-after-highly-inappropriate-remarks-during-lecture/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-13T11:24:54.000Z</news:publication_date>
+            <news:title>Professor leaves university after 'highly inappropriate' remarks during lecture</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/13/professor-leaves-university-after-highly-inappropriate-remarks-during-lecture.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/13/chevy-and-gmc-truck-owners-could-get-up-to-12700-as-part-of-35m-settlement/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-13T06:14:29.000Z</news:publication_date>
+            <news:title>Chevy and GMC truck owners could get up to $12,700 as part of $35M settlement</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/13/chevy-and-gmc-truck-owners-could-get-up-to-12700-as-part-of-35m-settlement.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/13/ariana-grande-hosts-snl-for-the-first-time-since-the-last-female-presidential-nominee/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-13T05:22:22.000Z</news:publication_date>
+            <news:title>Ariana Grande hosts 'SNL' for the first time since the last female presidential nominee</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/13/ariana-grande-hosts-snl-for-the-first-time-since-the-last-female-presidential-nominee.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/12/7-eleven-closing-over-400-locations-north-america/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-12T23:35:40.000Z</news:publication_date>
+            <news:title>7-Eleven to close over 400 'underperforming' locations in North America</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/12/7-eleven-closing-over-400-locations-north-america.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2024/10/12/how-schools-are-tackling-misinformation-as-false-claims-about-hurricanes-election-run-wild/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-12T18:47:26.000Z</news:publication_date>
+            <news:title>How schools are tackling misinformation as false claims about hurricanes, election run wild</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/us/2024/10/12/how-schools-are-tackling-misinformation-as-false-claims-about-hurricanes-election-run-wild.webp</image:loc>
           </image:image>
         </url></urlset>
