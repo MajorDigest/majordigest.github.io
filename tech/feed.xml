@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 18 Oct 2024 12:01:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 12:55:03 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,15 +19,71 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Ultimate guide to the best AI tools to make your life and work easier</title>
-          <description><![CDATA[Generative AI tools have been popping up everywhere and becoming second nature to use. That’s thanks in part, to a familiar user experience.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/18/ultimate-guide-to-the-best-ai-tools-to-make-your-life-and-work-easier/</guid>
-          <link>https://majordigest.com/tech/2024/10/18/ultimate-guide-to-the-best-ai-tools-to-make-your-life-and-work-easier/</link>
-          <pubDate>Fri, 18 Oct 2024 16:00:00 GMT</pubDate>
+          <title>The gap between AI investment and AI adoption</title>
+          <description><![CDATA[AI continues to shape cloud strategies, but AI implementation is going slower than most predicted. This is frustrating for technology providers who have made big bets on AI.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/18/ai-stagnation-the-gap-between-ai-investment-and-ai-adoption/</guid>
+          <link>https://majordigest.com/tech/2024/10/18/ai-stagnation-the-gap-between-ai-investment-and-ai-adoption/</link>
+          <pubDate>Fri, 18 Oct 2024 12:27:56 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/18/ultimate-guide-to-the-best-ai-tools-to-make-your-life-and-work-easier.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/18/ultimate-guide-to-the-best-ai-tools-to-make-your-life-and-work-easier.webp"/>
-          <dc:creator>Sadiya Kherani, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/18/ai-stagnation-the-gap-between-ai-investment-and-ai-adoption.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/18/ai-stagnation-the-gap-between-ai-investment-and-ai-adoption.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>US to probe Tesla's 'Full Self-Driving' system after pedestrian killed in low visibility conditions</title>
+          <description><![CDATA[DETROIT (AP) — The U.S. government's road safety agency is again investigating Tesla's “Full Self-Driving” system, this time after getting reports of crashes in low-visibility conditions, including one that killed a pedestrian.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions/</guid>
+          <link>https://majordigest.com/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions/</link>
+          <pubDate>Fri, 18 Oct 2024 12:13:51 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions.webp"/>
+          <dc:creator>TOM KRISHER, Associated Press, KLAS, CBS News</dc:creator>
+        </item>
+        <item>
+          <title>Augmented reality screens are a feature, not a product</title>
+          <description><![CDATA[Apple released a claustrophobic submarine movie for Apple Vision Pro earlier this month, and it gave me a sinking feeling. 
+The movie Submerged was neither augmented reality (AR) nor virtual reality (VR) nor 360-degree video. It was more like 180-degree video.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/18/augmented-reality-screens-are-a-feature-not-a-product/</guid>
+          <link>https://majordigest.com/tech/2024/10/18/augmented-reality-screens-are-a-feature-not-a-product/</link>
+          <pubDate>Fri, 18 Oct 2024 10:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/18/augmented-reality-screens-are-a-feature-not-a-product.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/18/augmented-reality-screens-are-a-feature-not-a-product.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Free-threaded programming in Python 3.13</title>
+          <description><![CDATA[This (half-) month in Python and elsewhere: Python 3.13’s “no-GIL” or “free-threaded” version is out, and you can try it right now! Also, explore the ins and outs of Anaconda’s Python distribution for data science and get cracking on a Python-powered generative AI project—if you can choose just one.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/18/free-threaded-programming-in-python-3-13/</guid>
+          <link>https://majordigest.com/tech/2024/10/18/free-threaded-programming-in-python-3-13/</link>
+          <pubDate>Fri, 18 Oct 2024 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/18/free-threaded-programming-in-python-3-13.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/18/free-threaded-programming-in-python-3-13.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>As&#237; es la plataforma que permite digitalizar y comercializar experiencias personalizadas para cada viajero</title>
+          <description><![CDATA[El segmento tours y actividades de la cadena de valor turístico representa actualmente el tercer mercado más importante del sector travel.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/18/asi-es-la-plataforma-que-permite-digitalizar-y-comercializar-experiencias-personalizadas-para-cada-viajero/</guid>
+          <link>https://majordigest.com/tech/2024/10/18/asi-es-la-plataforma-que-permite-digitalizar-y-comercializar-experiencias-personalizadas-para-cada-viajero/</link>
+          <pubDate>Fri, 18 Oct 2024 08:09:29 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/18/asi-es-la-plataforma-que-permite-digitalizar-y-comercializar-experiencias-personalizadas-para-cada-viajero.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/18/asi-es-la-plataforma-que-permite-digitalizar-y-comercializar-experiencias-personalizadas-para-cada-viajero.webp"/>
+          <dc:creator>CIO</dc:creator>
+        </item>
+        <item>
+          <title>El desarrollo de &#8216;software&#8217; nativo de IA podr&#237;a estar m&#225;s cerca de lo que parece</title>
+          <description><![CDATA[Los desarrolladores no impresionados por los primeros resultados de la inteligencia artificial (IA) generativa para la codificación toman nota: el desarrollo de software se dirige hacia una nueva era, en la que la mayor parte del código será escrito por agentes de IA y revisado por desarrolladores e]]></description>
+          <guid>https://majordigest.com/tech/2024/10/18/el-desarrollo-de-software-nativo-de-ia-podria-estar-mas-cerca-de-lo-que-parece/</guid>
+          <link>https://majordigest.com/tech/2024/10/18/el-desarrollo-de-software-nativo-de-ia-podria-estar-mas-cerca-de-lo-que-parece/</link>
+          <pubDate>Fri, 18 Oct 2024 07:28:06 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/18/el-desarrollo-de-software-nativo-de-ia-podria-estar-mas-cerca-de-lo-que-parece.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/18/el-desarrollo-de-software-nativo-de-ia-podria-estar-mas-cerca-de-lo-que-parece.webp"/>
+          <dc:creator>CIO</dc:creator>
         </item>
         <item>
           <title>New Chrome extension aims to detect deepfake AI-generated voices&#8212;but it&#8217;s far from perfect</title>
@@ -49,18 +105,52 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/alabama-man-arrested-in-sec-social-media-account-hack-that-led-the-price-of-bitcoin-to-spike.webp"/>
           <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/alabama-man-arrested-in-sec-social-media-account-hack-that-led-the-price-of-bitcoin-to-spike.webp"/>
-          <dc:creator>ALANNA DURKIN RICHER, Associated Press, KREX 5</dc:creator>
+          <dc:creator>ALANNA DURKIN RICHER, Associated Press, Fox 5</dc:creator>
         </item>
         <item>
-          <title>The Dominion Voting Systems Conspiracy Theories Resurface in US Election Politics</title>
-          <description><![CDATA[US election politics: Dominion Voting Systems conspiracy theories resurface as Republicans raise security concerns ahead of 2024 presidential election]]></description>
-          <guid>https://majordigest.com/tech/2024/10/17/dominion-voting-systems-is-still-a-gop-bogeyman-ahead-of-the-election/</guid>
-          <link>https://majordigest.com/tech/2024/10/17/dominion-voting-systems-is-still-a-gop-bogeyman-ahead-of-the-election/</link>
-          <pubDate>Thu, 17 Oct 2024 22:02:35 GMT</pubDate>
+          <title>Treasury kept $4B away from fraudsters this year. It plans to triple that by 2029</title>
+          <description><![CDATA[Department officials are building on these fraud-prevention efforts, and expect to prevent $12 billion in improper payments annually by 2029.
+The post Treasury kept $4B away from fraudsters this year. It plans to triple that by 2029 first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/treasury-kept-4b-away-from-fraudsters-this-year-it-plans-to-triple-that-by-2029/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/treasury-kept-4b-away-from-fraudsters-this-year-it-plans-to-triple-that-by-2029/</link>
+          <pubDate>Thu, 17 Oct 2024 21:57:27 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/dominion-voting-systems-is-still-a-gop-bogeyman-ahead-of-the-election.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/dominion-voting-systems-is-still-a-gop-bogeyman-ahead-of-the-election.webp"/>
-          <dc:creator>Chris Stokel-Walker, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/treasury-kept-4b-away-from-fraudsters-this-year-it-plans-to-triple-that-by-2029.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/treasury-kept-4b-away-from-fraudsters-this-year-it-plans-to-triple-that-by-2029.webp"/>
+          <dc:creator>Jory Heckman, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Scientists show how sperm and egg come together like a key in a lock</title>
+          <description><![CDATA[Scientists have pinpointed how sperm and egg fuse together across the animal kingdom, from fish to people.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/scientists-show-how-sperm-and-egg-come-together-like-a-key-in-a-lock-at-the-beginning-of-life/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/scientists-show-how-sperm-and-egg-come-together-like-a-key-in-a-lock-at-the-beginning-of-life/</link>
+          <pubDate>Thu, 17 Oct 2024 20:32:30 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/scientists-show-how-sperm-and-egg-come-together-like-a-key-in-a-lock-at-the-beginning-of-life.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/scientists-show-how-sperm-and-egg-come-together-like-a-key-in-a-lock-at-the-beginning-of-life.webp"/>
+          <dc:creator>Laura Ungar, Associated Press, Local 4</dc:creator>
+        </item>
+        <item>
+          <title>How you can help protect your aging parents from scammers</title>
+          <description><![CDATA["They were raised to be a very trusting generation, a very rule following generation, so they make the assumption that everyone has their best interest at heart," Paula Daigle said.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/aging-parents-scams/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/aging-parents-scams/</link>
+          <pubDate>Thu, 17 Oct 2024 19:15:58 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/aging-parents-scams.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/aging-parents-scams.webp"/>
+          <dc:creator>Hayley Wielgus, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>Gluware expands network automation platform with AI copilots, GitHub integration</title>
+          <description><![CDATA[Gluware today announced a series of upcoming features for its network automation platform, designed to streamline network management and reduce downtime across diverse network environments.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/gluware-expands-network-automation-platform-with-ai-copilots-github-integration/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/gluware-expands-network-automation-platform-with-ai-copilots-github-integration/</link>
+          <pubDate>Thu, 17 Oct 2024 18:23:36 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/gluware-expands-network-automation-platform-with-ai-copilots-github-integration.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/gluware-expands-network-automation-platform-with-ai-copilots-github-integration.webp"/>
+          <dc:creator>Network World</dc:creator>
         </item>
         <item>
           <title>Hit the lights: Mets outfit Citi Field for electric light shows</title>
@@ -71,29 +161,62 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/hit-the-lights-mets-outfit-citi-field-for-electric-light-shows.webp"/>
           <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/hit-the-lights-mets-outfit-citi-field-for-electric-light-shows.webp"/>
-          <dc:creator>RONALD BLUM, Associated Press, NewsNation</dc:creator>
+          <dc:creator>RONALD BLUM, Associated Press, KREX 5</dc:creator>
         </item>
         <item>
-          <title>Windows 10 Insider Previews: A guide to the builds</title>
-          <description><![CDATA[Microsoft never sleeps. In addition to its steady releases of major and minor updates to the current version of Windows 10, the company frequently rolls out public preview builds to members of its Windows Insider Program, allowing them to test out — and even help shape — upcoming features.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/17/windows-10-insider-previews-a-guide-to-the-builds/</guid>
-          <link>https://majordigest.com/tech/2024/10/17/windows-10-insider-previews-a-guide-to-the-builds/</link>
-          <pubDate>Thu, 17 Oct 2024 09:06:38 GMT</pubDate>
+          <title>The Cybersecurity Talent Shortage: A Growing Concern for Businesses</title>
+          <description><![CDATA[The cybersecurity talent shortage is a growing concern for businesses, with data showing that the US alone needs 265,000 more workers to solve current staffing needs.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/global-cybersecurity-talent-gap-widens/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/global-cybersecurity-talent-gap-widens/</link>
+          <pubDate>Thu, 17 Oct 2024 14:39:23 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/windows-10-insider-previews-a-guide-to-the-builds.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/windows-10-insider-previews-a-guide-to-the-builds.webp"/>
-          <dc:creator>Computer World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/global-cybersecurity-talent-gap-widens.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/global-cybersecurity-talent-gap-widens.webp"/>
+          <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>How to use Task.WhenEach in .NET 9</title>
-          <description><![CDATA[The upcoming release of .NET 9 introduces the Task.WhenEach method, which enables developers to handle asynchronous tasks more elegantly. The Task.WhenEach method allows us to iterate through tasks as they complete, without having to call Task.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/17/how-to-use-task-wheneach-in-net-9/</guid>
-          <link>https://majordigest.com/tech/2024/10/17/how-to-use-task-wheneach-in-net-9/</link>
+          <title>Boeing competitor Airbus to cut up to 2,500 jobs in space, defense sector</title>
+          <description><![CDATA[Boeing competitor Airbus on Wednesday announced it would take steps to cut 2,500 jobs in the company’s defense and space division through the middle of 2026.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/airbus-job-cuts-defense-space/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/airbus-job-cuts-defense-space/</link>
+          <pubDate>Thu, 17 Oct 2024 14:39:11 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/airbus-job-cuts-defense-space.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/airbus-job-cuts-defense-space.webp"/>
+          <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Burning to learn: What wildfire research shows us about how to save a home</title>
+          <description><![CDATA[Insurance industry's unique campus could toughen building codes, show how homes can survive wildfires.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/burning-to-learn-what-wildfire-research-shows-us-about-how-to-save-a-home/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/burning-to-learn-what-wildfire-research-shows-us-about-how-to-save-a-home/</link>
+          <pubDate>Thu, 17 Oct 2024 13:00:11 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/burning-to-learn-what-wildfire-research-shows-us-about-how-to-save-a-home.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/burning-to-learn-what-wildfire-research-shows-us-about-how-to-save-a-home.webp"/>
+          <dc:creator>Lisa M. Krieger, The Mercury News</dc:creator>
+        </item>
+        <item>
+          <title>Secure Azure Kubernetes with Advanced Container Networking Services</title>
+          <description><![CDATA[Microsoft’s Azure Kubernetes Service is designed to take care of much of the day-to-day management of Kubernetes, simplifying a lot of the complexity that goes with building and running large-scale, cloud-native applications.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/secure-azure-kubernetes-with-advanced-container-networking-services/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/secure-azure-kubernetes-with-advanced-container-networking-services/</link>
           <pubDate>Thu, 17 Oct 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/how-to-use-task-wheneach-in-net-9.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/how-to-use-task-wheneach-in-net-9.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/secure-azure-kubernetes-with-advanced-container-networking-services.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/secure-azure-kubernetes-with-advanced-container-networking-services.webp"/>
           <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Microsoft 365: A guide to the updates</title>
+          <description><![CDATA[Microsoft 365 (and Office 365) subscribers get more frequent software updates than those who have purchased Office without a subscription, which means subscribers have access to the latest features, security patches, and bug fixes.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/office-365-a-guide-to-the-updates/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/office-365-a-guide-to-the-updates/</link>
+          <pubDate>Thu, 17 Oct 2024 08:38:57 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/office-365-a-guide-to-the-updates.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/office-365-a-guide-to-the-updates.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
           <title>US agency adopts rule to make it easier for consumers to cancel unwanted subscriptions</title>
@@ -104,29 +227,7 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/us-agency-adopts-rule-to-make-it-easier-for-consumers-to-cancel-unwanted-subscriptions.webp"/>
           <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/us-agency-adopts-rule-to-make-it-easier-for-consumers-to-cancel-unwanted-subscriptions.webp"/>
-          <dc:creator>HALELUYA HADERO, Associated Press, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Feds Seek Guidance as Post-Quantum Cryptography Transition Looms</title>
-          <description><![CDATA[Federal agencies struggling with lack of formal guidance on costly post-quantum cryptography initiative]]></description>
-          <guid>https://majordigest.com/tech/2024/10/16/feds-seeks-more-guidance-on-post-quantum-cryptography-transition/</guid>
-          <link>https://majordigest.com/tech/2024/10/16/feds-seeks-more-guidance-on-post-quantum-cryptography-transition/</link>
-          <pubDate>Wed, 16 Oct 2024 22:00:09 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/feds-seeks-more-guidance-on-post-quantum-cryptography-transition.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/feds-seeks-more-guidance-on-post-quantum-cryptography-transition.webp"/>
-          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Big Tech turns to nuclear energy to power AI boom</title>
-          <description><![CDATA[Major technology companies are increasingly turning to nuclear energy as they attempt to keep up with the vast energy demands of artificial intelligence (AI) without derailing their highly publicized environmental goals.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/16/google-amazon-nuclear-power-energy-ai/</guid>
-          <link>https://majordigest.com/tech/2024/10/16/google-amazon-nuclear-power-energy-ai/</link>
-          <pubDate>Wed, 16 Oct 2024 21:39:07 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/google-amazon-nuclear-power-energy-ai.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/google-amazon-nuclear-power-energy-ai.webp"/>
-          <dc:creator>Julia Shapero, The Hill</dc:creator>
+          <dc:creator>HALELUYA HADERO, Associated Press, PIX 11</dc:creator>
         </item>
         <item>
           <title>The Internet Archive is even more essential than I realized</title>
@@ -140,6 +241,41 @@
           <dc:creator>Harry McCracken, Fast Company</dc:creator>
         </item>
         <item>
+          <title>How AI can unlock innovation across our nation&#8217;s research institutions</title>
+          <description><![CDATA[At a university campus in Rolla, Missouri (population 22,000), a small team of scientists is developing a glass powder that, when applied to wounds, significantly improves blood clotting and reduces risk of infection.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/16/how-ai-can-unlock-innovation-across-our-nations-research-institutions/</guid>
+          <link>https://majordigest.com/tech/2024/10/16/how-ai-can-unlock-innovation-across-our-nations-research-institutions/</link>
+          <pubDate>Wed, 16 Oct 2024 18:04:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/how-ai-can-unlock-innovation-across-our-nations-research-institutions.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/how-ai-can-unlock-innovation-across-our-nations-research-institutions.webp"/>
+          <dc:creator>Kevin Leland, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Good customer experience isn&#8217;t just good. For federal agencies, it&#8217;s the law</title>
+          <description><![CDATA["The purpose of the act is to improve government websites and its related services to enhance that customer experience," said GAO's Carol Harris.
+The post Good customer experience isn’t just good. For federal agencies, it’s the law first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/16/good-customer-experience-isnt-just-good-for-federal-agencies-its-the-law/</guid>
+          <link>https://majordigest.com/tech/2024/10/16/good-customer-experience-isnt-just-good-for-federal-agencies-its-the-law/</link>
+          <pubDate>Wed, 16 Oct 2024 17:27:36 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/good-customer-experience-isnt-just-good-for-federal-agencies-its-the-law.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/good-customer-experience-isnt-just-good-for-federal-agencies-its-the-law.webp"/>
+          <dc:creator>Tom Temin, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>What contractors need to know, now that the CMMC rule is finalized</title>
+          <description><![CDATA["The real meat of CMMC is now finalized and out," said Eric Crusius, attorney at Holland Knight.
+The post What contractors need to know, now that the CMMC rule is finalized first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/16/what-contractors-need-to-know-now-that-the-cmmc-rule-is-finalized/</guid>
+          <link>https://majordigest.com/tech/2024/10/16/what-contractors-need-to-know-now-that-the-cmmc-rule-is-finalized/</link>
+          <pubDate>Wed, 16 Oct 2024 16:59:17 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/what-contractors-need-to-know-now-that-the-cmmc-rule-is-finalized.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/what-contractors-need-to-know-now-that-the-cmmc-rule-is-finalized.webp"/>
+          <dc:creator>Tom Temin, Federal News Network</dc:creator>
+        </item>
+        <item>
           <title>DoNotPay will now call customer service hotlines for you</title>
           <description><![CDATA[If you dread the thought of calling to change an airline ticket or negotiate your internet bill, a new artificial intelligence tool may provide a solution.]]></description>
           <guid>https://majordigest.com/tech/2024/10/16/donotpay-will-now-call-customer-service-hotlines-for-you/</guid>
@@ -151,24 +287,91 @@
           <dc:creator>Steven Melendez, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Microsoft settles video gamers' lawsuit over Activision takeover</title>
-          <description><![CDATA[SAN FRANCISCO (AP) — Microsoft Corp. has settled a lawsuit from a group of gamers who sued to try to stop the company from buying video game publisher Activision Blizzard for $69 billion last year. Terms of the settlement were not disclosed.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/15/microsoft-settles-video-gamers-lawsuit-over-activision-takeover/</guid>
-          <link>https://majordigest.com/tech/2024/10/15/microsoft-settles-video-gamers-lawsuit-over-activision-takeover/</link>
-          <pubDate>Tue, 15 Oct 2024 20:55:51 GMT</pubDate>
+          <title>15 new Android 15 features to find on your Google Pixel phone</title>
+          <description><![CDATA[Oh, hello Android 15. How’s that for an all-around excellent October surprise?
+Yes, indeedly: Google’s latest and greatest Android version is officially on its way to Pixel devices near and far this week, just over a month after Google dropped the source code in an unusually detached move.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/16/android-15-features-google-pixel-phone/</guid>
+          <link>https://majordigest.com/tech/2024/10/16/android-15-features-google-pixel-phone/</link>
+          <pubDate>Wed, 16 Oct 2024 16:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/15/microsoft-settles-video-gamers-lawsuit-over-activision-takeover.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/15/microsoft-settles-video-gamers-lawsuit-over-activision-takeover.webp"/>
-          <dc:creator>Associated Press, PIX 11</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/android-15-features-google-pixel-phone.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/android-15-features-google-pixel-phone.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Fox News AI Newsletter: Fake Jennifer Aniston bikini body ad</title>
-          <description><![CDATA[Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/12/ai-newsletter-fake-jennifer-aniston-bikini-body-ad/</guid>
-          <link>https://majordigest.com/tech/2024/10/12/ai-newsletter-fake-jennifer-aniston-bikini-body-ad/</link>
-          <pubDate>Sat, 12 Oct 2024 12:30:01 GMT</pubDate>
+          <title>AI-powered scam targets 2.5 billion Gmail users in sophisticated phishing attacks</title>
+          <description><![CDATA[Tech expert Kurt “CyberGuy&quot; Knutsson talks about a new AI-powered scam that targets Gmail users and is harder to detect unless you&apos;re very cautious.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/16/ai-powered-scam-targets-2-5-billion-gmail-users-sophisticated-phishing-attacks/</guid>
+          <link>https://majordigest.com/tech/2024/10/16/ai-powered-scam-targets-2-5-billion-gmail-users-sophisticated-phishing-attacks/</link>
+          <pubDate>Wed, 16 Oct 2024 13:00:33 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/12/ai-newsletter-fake-jennifer-aniston-bikini-body-ad.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/12/ai-newsletter-fake-jennifer-aniston-bikini-body-ad.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/ai-powered-scam-targets-2-5-billion-gmail-users-sophisticated-phishing-attacks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/ai-powered-scam-targets-2-5-billion-gmail-users-sophisticated-phishing-attacks.webp"/>
           <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Amazon signs deals to build, invest in small modular nuclear reactors</title>
+          <description><![CDATA[Amazon announced a series of deals Wednesday aimed at building out small modular nuclear reactors, becoming the latest major technology company to invest in nuclear energy as Big Tech contends with the extensive energy needs of artificial intelligence (AI).]]></description>
+          <guid>https://majordigest.com/tech/2024/10/16/amazon-invests-nuclear-energy-ai/</guid>
+          <link>https://majordigest.com/tech/2024/10/16/amazon-invests-nuclear-energy-ai/</link>
+          <pubDate>Wed, 16 Oct 2024 12:50:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/amazon-invests-nuclear-energy-ai.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/amazon-invests-nuclear-energy-ai.webp"/>
+          <dc:creator>Julia Shapero, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Musk's Starlink Internet free for hurricane victims through 2024</title>
+          <description><![CDATA[Following criticism, the company issued a new offer that extends the free service through the end of the year for victims of both hurricanes Helene and Milton.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/13/musks-starlink-internet-free-for-hurricane-victims-through-2024/</guid>
+          <link>https://majordigest.com/tech/2024/10/13/musks-starlink-internet-free-for-hurricane-victims-through-2024/</link>
+          <pubDate>Sun, 13 Oct 2024 11:32:38 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/13/musks-starlink-internet-free-for-hurricane-victims-through-2024.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/13/musks-starlink-internet-free-for-hurricane-victims-through-2024.webp"/>
+          <dc:creator>Ashley Soriano, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>This 3D-printed Texas hotel is shaking up the construction industry</title>
+          <description><![CDATA[The Vulcan is Icon&apos;s massive 3D printer, which stands 15½ feet tall and weighs 4.75 tons. It&apos;s capable of creating buildings with 12-foot-high curving walls.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/13/3d-printed-texas-hotel-shaking-up-construction-industry/</guid>
+          <link>https://majordigest.com/tech/2024/10/13/3d-printed-texas-hotel-shaking-up-construction-industry/</link>
+          <pubDate>Sun, 13 Oct 2024 10:00:55 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/13/3d-printed-texas-hotel-shaking-up-construction-industry.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/13/3d-printed-texas-hotel-shaking-up-construction-industry.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Over 77,000 customers' personal information is exposed in Fidelity Investments data breach</title>
+          <description><![CDATA[Fidelity Investments, one of the world&apos;s biggest asset managers, experienced a data breach in August, the company&apos;s second in 12 months.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/12/over-77000-customers-personal-information-exposed-fidelity-investments-data-breach/</guid>
+          <link>https://majordigest.com/tech/2024/10/12/over-77000-customers-personal-information-exposed-fidelity-investments-data-breach/</link>
+          <pubDate>Sat, 12 Oct 2024 13:00:49 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/12/over-77000-customers-personal-information-exposed-fidelity-investments-data-breach.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/12/over-77000-customers-personal-information-exposed-fidelity-investments-data-breach.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Ktor 3.0 switches to kotlinx.io library</title>
+          <description><![CDATA[Ktor 3.0, the latest version of the Kotlin-based framework for building asynchronous client- and server-side applications, is now available. Ktor 3.0 switches to the kotlinx.io library for handling data sources. The release also highlights support for server-sent events (SSE).]]></description>
+          <guid>https://majordigest.com/tech/2024/10/11/ktor-3-0-switches-to-kotlinx-io-library/</guid>
+          <link>https://majordigest.com/tech/2024/10/11/ktor-3-0-switches-to-kotlinx-io-library/</link>
+          <pubDate>Fri, 11 Oct 2024 22:32:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/11/ktor-3-0-switches-to-kotlinx-io-library.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/11/ktor-3-0-switches-to-kotlinx-io-library.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Embedded developers face mounting pressure on security</title>
+          <description><![CDATA[Developers and software engineers face mounting pressure to balance rapid innovation with safety and security, says software provider BlackBerry Limited. The company released the results of its survey of 1,000 embedded software developers and engineers worldwide on October 8.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/11/embedded-developers-face-mounting-pressure-on-security/</guid>
+          <link>https://majordigest.com/tech/2024/10/11/embedded-developers-face-mounting-pressure-on-security/</link>
+          <pubDate>Fri, 11 Oct 2024 17:37:13 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/11/embedded-developers-face-mounting-pressure-on-security.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/11/embedded-developers-face-mounting-pressure-on-security.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item></channel></rss>
