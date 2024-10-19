@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/politics/2024/10/19/big-bets-on-trump/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-19T01:35:11.000Z</news:publication_date>
+            <news:title>Big bets on Trump don&#8217;t mean the market is rigged: Betting analyst</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/19/big-bets-on-trump.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/10/19/poll-finds-majority-americans-say-worse-off-than-four-years-ago-similar-1992/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-19T00:17:49.000Z</news:publication_date>
+            <news:title>Poll finds majority of Americans say they're worse off than four years ago, similar to 1992 election</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/19/poll-finds-majority-americans-say-worse-off-than-four-years-ago-similar-1992.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/politics/2024/10/18/facing-a-budget-deficit-challenge-johnson-aims-to-safeguard-youth-and-workforce/</loc>
           <news:news>
             <news:publication>
@@ -14,20 +42,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/politics/2024/10/18/facing-a-budget-deficit-challenge-johnson-aims-to-safeguard-youth-and-workforce.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/10/18/exclusive-chauncey-parker-talks-new-role-as-nyc-deputy-mayor-for-public-safety/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-18T23:31:41.000Z</news:publication_date>
-            <news:title>Exclusive: Chauncey Parker talks new role as NYC deputy mayor for public safety</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/18/exclusive-chauncey-parker-talks-new-role-as-nyc-deputy-mayor-for-public-safety.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,17 +59,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/18/judge-unseals-heavily-redacted-trove-of-evidence-in-trumps-2020-election-interference-case/</loc>
+          <loc>https://majordigest.com/politics/2024/10/18/home-stretch-harris-trump-dueling-events-rallies-crucial-battleground-state/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T22:19:29.000Z</news:publication_date>
-            <news:title>Judge unseals heavily redacted trove of evidence in Trump's 2020 election interference case</news:title>
+            <news:publication_date>2024-10-18T22:46:57.000Z</news:publication_date>
+            <news:title>Home stretch: Harris, Trump hold dueling events, rallies in crucial battleground state</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/18/judge-unseals-heavily-redacted-trove-of-evidence-in-trumps-2020-election-interference-case.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/home-stretch-harris-trump-dueling-events-rallies-crucial-battleground-state.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/10/18/trump-earned-money-from-government-sources-through-washington-hotel-democrats-find/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-18T20:25:24.000Z</news:publication_date>
+            <news:title>Trump earned money from government sources through Washington hotel, Democrats find</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/trump-earned-money-from-government-sources-through-washington-hotel-democrats-find.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/10/18/cruz-roy-texas-tren-de-aragua-venezuelan-gang-members/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-18T19:25:37.000Z</news:publication_date>
+            <news:title>Texas Republicans demand answers about Venezuelan gang members</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/cruz-roy-texas-tren-de-aragua-venezuelan-gang-members.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/10/18/trump-hotel-attracted-would-be-judges-ambassadors-pardon-seekers-house-democrats-say/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-18T19:21:23.000Z</news:publication_date>
+            <news:title>Trump hotel attracted would-be judges, ambassadors, pardon-seekers, House Democrats say</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/trump-hotel-attracted-would-be-judges-ambassadors-pardon-seekers-house-democrats-say.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,73 +129,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/18/trump-couldnt-pronounce-assyrians-the-community-is-happy-to-be-in-the-spotlight/</loc>
+          <loc>https://majordigest.com/politics/2024/10/18/judge-unseals-heavily-redacted-trove-of-evidence-in-trumps-2020-election-interference-case/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T17:28:48.000Z</news:publication_date>
-            <news:title>Trump couldn't pronounce 'Assyrians.' The community is happy to be in the spotlight</news:title>
+            <news:publication_date>2024-10-18T17:40:19.000Z</news:publication_date>
+            <news:title>Judge unseals heavily redacted trove of evidence in Trump's 2020 election interference case</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/18/trump-couldnt-pronounce-assyrians-the-community-is-happy-to-be-in-the-spotlight.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/judge-unseals-heavily-redacted-trove-of-evidence-in-trumps-2020-election-interference-case.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/18/north-carolina-early-voters-still-recovering-from-helene-top-turnout-in-2020/</loc>
+          <loc>https://majordigest.com/politics/2024/10/18/trump-campaign-slams-witch-hunt-jack-smith-court-docs-released-less-3-weeks-before-election/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T17:06:14.000Z</news:publication_date>
-            <news:title>North Carolina early voters, still recovering from Helene, exceed 2020 voter turnout</news:title>
+            <news:publication_date>2024-10-18T15:57:40.000Z</news:publication_date>
+            <news:title>Trump campaign slams 'witch hunt' after Jack Smith court docs released less than 3 weeks before election</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/18/north-carolina-early-voters-still-recovering-from-helene-top-turnout-in-2020.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/10/18/house-dems-sue-fec-accusing-gop-exploiting-campaign-loophole/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-18T16:41:05.000Z</news:publication_date>
-            <news:title>House Dems sue FEC accusing GOP of exploiting campaign loophole</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/18/house-dems-sue-fec-accusing-gop-exploiting-campaign-loophole.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/10/18/trump-expresses-frustration-about-calls-to-deploy-haley/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-18T16:19:20.000Z</news:publication_date>
-            <news:title>Trump expresses frustration about calls to deploy Haley</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/18/trump-expresses-frustration-about-calls-to-deploy-haley.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/10/18/submit-your-questions-for-the-jd-vance-town-hall-on-newsnation/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-18T15:31:24.000Z</news:publication_date>
-            <news:title>Submit your questions for the JD Vance town hall on NewsNation</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/18/submit-your-questions-for-the-jd-vance-town-hall-on-newsnation.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/trump-campaign-slams-witch-hunt-jack-smith-court-docs-released-less-3-weeks-before-election.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -157,6 +171,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/politics/2024/10/18/senate-republicans-raise-questions-after-funds-for-disaster-loans-exhausted/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-18T11:02:05.000Z</news:publication_date>
+            <news:title>Senate Republicans raise questions after funds for disaster loans&#160;exhausted</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/senate-republicans-raise-questions-after-funds-for-disaster-loans-exhausted.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/10/18/npr-ai-images-hurricanes-disasters-propaganda/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-18T10:42:00.000Z</news:publication_date>
+            <news:title>AI-generated images have become a new form of propaganda this election season</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/npr-ai-images-hurricanes-disasters-propaganda.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/politics/2024/10/18/democrats-look-to-quash-threat-from-green-partys-jill-stein/</loc>
           <news:news>
             <news:publication>
@@ -168,6 +210,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/politics/2024/10/18/democrats-look-to-quash-threat-from-green-partys-jill-stein.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/10/18/bret-baier-says-he-made-a-mistake-with-trump-clip-during-harris-interview-on-fox-news/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-18T09:59:29.000Z</news:publication_date>
+            <news:title>Bret Baier says he made 'a mistake' with Trump clip during Harris interview on Fox News</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/bret-baier-says-he-made-a-mistake-with-trump-clip-during-harris-interview-on-fox-news.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -185,59 +241,101 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/18/early-voting-begins-louisiana-hawaii-washington/</loc>
+          <loc>https://majordigest.com/politics/2024/10/18/us-senate-candidates-brown-rosen-spar-in-las-vegas-debate/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T09:00:17.000Z</news:publication_date>
-            <news:title>Early voting begins in Louisiana, Hawaii, Washington</news:title>
+            <news:publication_date>2024-10-18T07:57:06.000Z</news:publication_date>
+            <news:title>US Senate candidates Brown, Rosen spar in Las Vegas debate</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/18/early-voting-begins-louisiana-hawaii-washington.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/us-senate-candidates-brown-rosen-spar-in-las-vegas-debate.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/18/harris-trump-has-no-idea-about-womens-health-care/</loc>
+          <loc>https://majordigest.com/politics/2024/10/18/harris-and-trump-target-michigan-as-both-parties-try-to-shore-up-blue-wall-votes/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T04:47:56.000Z</news:publication_date>
-            <news:title>Harris: Trump 'has no idea' about women's health care</news:title>
+            <news:publication_date>2024-10-18T04:15:51.000Z</news:publication_date>
+            <news:title>Harris and Trump seek Arab American votes in Michigan in effort to shore up battleground states</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/18/harris-trump-has-no-idea-about-womens-health-care.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/harris-and-trump-target-michigan-as-both-parties-try-to-shore-up-blue-wall-votes.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/17/watch-nevada-us-senate-debate-jacky-rosen-and-sam-brown/</loc>
+          <loc>https://majordigest.com/politics/2024/10/18/at-wisconsin-stops-harris-campaign-features-less-talk-of-joy-and-more-headon-digs-at-trump/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-17T18:44:35.000Z</news:publication_date>
-            <news:title>WATCH: Nevada US Senate Debate: Jacky Rosen and Sam Brown</news:title>
+            <news:publication_date>2024-10-18T00:24:56.000Z</news:publication_date>
+            <news:title>At Wisconsin stops, Harris campaign features less talk of joy and more attacks on Trump</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/17/watch-nevada-us-senate-debate-jacky-rosen-and-sam-brown.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/18/at-wisconsin-stops-harris-campaign-features-less-talk-of-joy-and-more-headon-digs-at-trump.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/17/mitch-mcconnell-biography/</loc>
+          <loc>https://majordigest.com/politics/2024/10/17/sba-administrator-visits-tampa-bay-as-disaster-loan-program-runs-dry/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-17T16:21:42.000Z</news:publication_date>
-            <news:title>McConnell privately slammed Trump as &#8216;stupid&#8217; and &#8216;despicable&#8217; after 2020 election</news:title>
+            <news:publication_date>2024-10-17T23:39:37.000Z</news:publication_date>
+            <news:title>SBA administrator visits Tampa Bay as disaster loan program runs dry</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/17/mitch-mcconnell-biography.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/17/sba-administrator-visits-tampa-bay-as-disaster-loan-program-runs-dry.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/10/17/lydia-dominguez-talks-leadership-safety-and-accountability-in-school-board-run-for-district-b/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T23:27:49.000Z</news:publication_date>
+            <news:title>Lydia Dominguez talks leadership, safety, and accountability in school board run for District B</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/17/lydia-dominguez-talks-leadership-safety-and-accountability-in-school-board-run-for-district-b.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/10/17/almost-23-of-people-say-politics-influences-where-they-live-poll/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T22:42:19.000Z</news:publication_date>
+            <news:title>Almost 23% of people say politics influences where they live: Poll</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/17/almost-23-of-people-say-politics-influences-where-they-live-poll.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/10/17/oklahoma-paddling-students/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T17:47:22.000Z</news:publication_date>
+            <news:title>Oklahoma politicians debate ethics of 'paddling' students</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/17/oklahoma-paddling-students.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -255,6 +353,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/politics/2024/10/17/5-takeaways-from-the-last-full-fundraising-quarter-before-election-day/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T16:03:06.000Z</news:publication_date>
+            <news:title>5 takeaways from the last full fundraising quarter before Election Day</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/17/5-takeaways-from-the-last-full-fundraising-quarter-before-election-day.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/politics/2024/10/17/harris-bret-baier-spar-over-immigration-at-outset-of-fox-news-interview/</loc>
           <news:news>
             <news:publication>
@@ -269,142 +381,72 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/17/npr-jd-vance-donald-trump-2020-election-loss-answer-no/</loc>
+          <loc>https://majordigest.com/politics/2024/10/17/harris-fox-interview/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-17T02:59:23.000Z</news:publication_date>
-            <news:title>JD Vance says 'no,' he does not think Trump lost in 2020</news:title>
+            <news:publication_date>2024-10-17T03:03:29.000Z</news:publication_date>
+            <news:title>Harris Fox News interview draws sharp reactions on both sides</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/17/npr-jd-vance-donald-trump-2020-election-loss-answer-no.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/17/harris-fox-interview.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/16/jimmy-carter-at-age-100-casts-his-2024-ballot-by-mail/</loc>
+          <loc>https://majordigest.com/politics/2024/10/16/mayor-johnsons-chief-of-staff-says-school-ceo-and-board-kept-5th-floor-in-the-dark/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T19:44:11.000Z</news:publication_date>
-            <news:title>Jimmy Carter, at age 100, casts his 2024 ballot by mail</news:title>
+            <news:publication_date>2024-10-16T23:08:51.000Z</news:publication_date>
+            <news:title>Mayor Johnson's chief of staff says school CEO and board kept 5th Floor in the dark</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/16/jimmy-carter-at-age-100-casts-his-2024-ballot-by-mail.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/16/mayor-johnsons-chief-of-staff-says-school-ceo-and-board-kept-5th-floor-in-the-dark.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/16/kamala-harris-campaign-univision-town-hall/</loc>
+          <loc>https://majordigest.com/politics/2024/10/16/trump-spends-big-anti-trans-ads/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T18:37:28.000Z</news:publication_date>
-            <news:title>Harris campaign hosts separated families ahead of Trump's Univision town hall</news:title>
+            <news:publication_date>2024-10-16T21:24:12.000Z</news:publication_date>
+            <news:title>Trump spends big on anti-trans ads for 2024 election</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/16/kamala-harris-campaign-univision-town-hall.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/16/trump-spends-big-anti-trans-ads.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/16/nebraska-court-allows-voter-registrations-from-people-with-felony-convictions/</loc>
+          <loc>https://majordigest.com/politics/2024/10/16/nevada-political-parties-seek-to-sway-gen-z-amid-inflation-and-recovery-from-an-on-campus-mass-shooting/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T17:03:49.000Z</news:publication_date>
-            <news:title>Nebraska court allows voter registrations from people with felony convictions</news:title>
+            <news:publication_date>2024-10-16T17:52:50.000Z</news:publication_date>
+            <news:title>Nevada political parties seek to sway &#8216;Gen Z&#8217; amid inflation and recovery from an on-campus mass shooting</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/16/nebraska-court-allows-voter-registrations-from-people-with-felony-convictions.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/16/nevada-political-parties-seek-to-sway-gen-z-amid-inflation-and-recovery-from-an-on-campus-mass-shooting.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/10/16/npr-small-business-disaster-loan-program-is-out-of-money/</loc>
+          <loc>https://majordigest.com/politics/2024/10/15/hennepin-county-achieves-functional-zero-status-in-ending-veteran-homelessness/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T08:56:01.000Z</news:publication_date>
-            <news:title>Small business disaster loan program is out of money until new funds are approved</news:title>
+            <news:publication_date>2024-10-15T23:20:00.000Z</news:publication_date>
+            <news:title>Hennepin County achieves 'functional zero' status in ending veteran homelessness</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/16/npr-small-business-disaster-loan-program-is-out-of-money.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/10/16/npr-kamala-harris-charlamagne-tha-god-black-voters/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-16T01:08:20.000Z</news:publication_date>
-            <news:title>Harris is pressed on the concerns of Black voters in Charlamagne tha God town hall</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/16/npr-kamala-harris-charlamagne-tha-god-black-voters.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/10/15/a-panhandle-town-says-goodbye-to-its-newspaper/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T10:00:00.000Z</news:publication_date>
-            <news:title>A Panhandle town says goodbye to its newspaper</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/15/a-panhandle-town-says-goodbye-to-its-newspaper.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/10/15/nevada-dmv-fast-tracks-credentials-for-potential-voters/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T06:13:39.000Z</news:publication_date>
-            <news:title>Nevada DMV fast-tracks credentials for potential voters</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/15/nevada-dmv-fast-tracks-credentials-for-potential-voters.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/10/14/3-voter-related-lawsuits-dropped-in-nevada-ahead-of-election-day/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-14T19:43:57.000Z</news:publication_date>
-            <news:title>3 voter-related lawsuits dropped in Nevada ahead of Election Day</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/14/3-voter-related-lawsuits-dropped-in-nevada-ahead-of-election-day.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/10/13/harris-goes-to-north-carolina-plans-to-hold-sunday-campaign-event-in-state-hit-hard-by-hurricane/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-13T01:14:14.000Z</news:publication_date>
-            <news:title>Harris helps pack aid boxes for North Carolina hurricane victims ahead of Sunday campaign push</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/politics/2024/10/13/harris-goes-to-north-carolina-plans-to-hold-sunday-campaign-event-in-state-hit-hard-by-hurricane.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/politics/2024/10/15/hennepin-county-achieves-functional-zero-status-in-ending-veteran-homelessness.webp</image:loc>
           </image:image>
         </url></urlset>
