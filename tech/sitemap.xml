@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/20/over-600-million-cyberattacks-target-windows-users-every-day/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-20T14:00:49.000Z</news:publication_date>
-            <news:title>Over 600M cyberattacks target Windows users every day</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/20/over-600-million-cyberattacks-target-windows-users-every-day.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/10/20/recycling-artificial-intelligence-cameras-privacy/</loc>
           <news:news>
             <news:publication>
@@ -31,17 +17,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/20/data-centers-could-be-used-as-residual-power-generators-as-researchers-generate-500mwh-in-a-year-from-a-single-dc-by-recycling-wasted-wind/</loc>
+          <loc>https://majordigest.com/tech/2024/10/19/stanford-researchers-map-white-only-properties-using-ai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-20T04:27:00.000Z</news:publication_date>
-            <news:title>Data centers could be used as residual power generators as researchers generate 500MWh in a year from a single DC by recycling wasted wind</news:title>
+            <news:publication_date>2024-10-19T23:10:17.000Z</news:publication_date>
+            <news:title>Stanford researchers map &#8216;White-Only&#8217; properties using AI</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/20/data-centers-could-be-used-as-residual-power-generators-as-researchers-generate-500mwh-in-a-year-from-a-single-dc-by-recycling-wasted-wind.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/19/stanford-researchers-map-white-only-properties-using-ai.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/19/tabliss-browser-tab-extension/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-19T17:00:00.000Z</news:publication_date>
+            <news:title>This 10-second tweak will bring new life to any browser</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/19/tabliss-browser-tab-extension.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/19/ai-newsletter-van-halen-unreleased-music/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-19T12:30:14.000Z</news:publication_date>
+            <news:title>Fox News AI Newsletter: Van Halen's unreleased music</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/19/ai-newsletter-van-halen-unreleased-music.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -51,11 +65,39 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-19T10:47:14.000Z</news:publication_date>
+            <news:publication_date>2024-10-19T11:18:43.000Z</news:publication_date>
             <news:title>October is Cybersecurity Awareness Month. Here's how to stay safe from scams</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/19/october-is-cybersecurity-awareness-month-heres-how-to-stay-safe-from-scams.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/19/donald-trump-is-losing-on-tiktok/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-19T00:17:02.000Z</news:publication_date>
+            <news:title>Donald Trump is losing on TikTok</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/19/donald-trump-is-losing-on-tiktok.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-18T22:06:09.000Z</news:publication_date>
+            <news:title>US to probe Tesla's 'Full Self-Driving' system after pedestrian killed in low visibility conditions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,87 +115,115 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/18/how-ai-can-help-federal-agencies-make-the-most-of-limited-budgets/</loc>
+          <loc>https://majordigest.com/tech/2024/10/18/virginia-congressional-candidates-debated-ai-chatbot/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T20:35:29.000Z</news:publication_date>
-            <news:title>How AI can help federal agencies make the most of limited budgets</news:title>
+            <news:publication_date>2024-10-18T21:39:23.000Z</news:publication_date>
+            <news:title>Two Virginia congressional candidates debated an AI chatbot. It was shockingly rational</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/18/how-ai-can-help-federal-agencies-make-the-most-of-limited-budgets.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/virginia-congressional-candidates-debated-ai-chatbot.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/18/right-wing-influencers-russia/</loc>
+          <loc>https://majordigest.com/tech/2024/10/18/helping-the-public-aboard-the-ai-bandwagon/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T17:38:13.000Z</news:publication_date>
-            <news:title>Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media</news:title>
+            <news:publication_date>2024-10-18T18:36:03.000Z</news:publication_date>
+            <news:title>Helping the public aboard the AI bandwagon</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/18/right-wing-influencers-russia.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/helping-the-public-aboard-the-ai-bandwagon.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/18/data-center-provider-fakes-tier-4-data-center-certificate-to-bag-11m-sec-deal/</loc>
+          <loc>https://majordigest.com/tech/2024/10/18/food-recalls/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T12:59:16.000Z</news:publication_date>
-            <news:title>Data center provider fakes Tier 4 data center certificate to bag $11M SEC deal</news:title>
+            <news:publication_date>2024-10-18T18:16:43.000Z</news:publication_date>
+            <news:title>Recent recalls raise concerns about food safety, but experts credit better regulation and technology</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/18/data-center-provider-fakes-tier-4-data-center-certificate-to-bag-11m-sec-deal.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/food-recalls.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/18/ai-stagnation-the-gap-between-ai-investment-and-ai-adoption/</loc>
+          <loc>https://majordigest.com/tech/2024/10/18/trump-family-will-get-75-of-crypto-token-revenue/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T12:27:56.000Z</news:publication_date>
-            <news:title>The gap between AI investment and AI adoption</news:title>
+            <news:publication_date>2024-10-18T13:00:26.000Z</news:publication_date>
+            <news:title>Trump family will get 75% of crypto token revenue</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/18/ai-stagnation-the-gap-between-ai-investment-and-ai-adoption.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/trump-family-will-get-75-of-crypto-token-revenue.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/18/california-ride-hailing-drivers-could-get-back-pay/</loc>
+          <loc>https://majordigest.com/tech/2024/10/18/cios-under-pressure-to-deliver-ai-outcomes-faster/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T11:55:57.000Z</news:publication_date>
-            <news:title>California Uber and Lyft drivers could get back pay</news:title>
+            <news:publication_date>2024-10-18T10:01:00.000Z</news:publication_date>
+            <news:title>Generative AI: A Double-Edged Sword for CIOs</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/18/california-ride-hailing-drivers-could-get-back-pay.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/cios-under-pressure-to-deliver-ai-outcomes-faster.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/18/the-menendez-brothers-house-is-all-over-tiktok-following-the-hit-netflix-drama/</loc>
+          <loc>https://majordigest.com/tech/2024/10/18/gigayacht-has-glass-bottom-pool-stunning-underwater-lounge/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T00:44:33.000Z</news:publication_date>
-            <news:title>The Menendez brothers&#8217; house is all over TikTok following the hit Netflix drama</news:title>
+            <news:publication_date>2024-10-18T10:00:21.000Z</news:publication_date>
+            <news:title>This gigayacht has a glass-bottom pool and stunning underwater lounge</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/18/the-menendez-brothers-house-is-all-over-tiktok-following-the-hit-netflix-drama.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/gigayacht-has-glass-bottom-pool-stunning-underwater-lounge.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/18/apple-pay-made-wallets-digital-and-its-only-the-beginning/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-18T09:57:00.000Z</news:publication_date>
+            <news:title>Apple Pay made wallets digital, and it&#8217;s only the beginning</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/apple-pay-made-wallets-digital-and-its-only-the-beginning.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/18/el-desarrollo-de-software-nativo-de-ia-podria-estar-mas-cerca-de-lo-que-parece/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-18T07:28:06.000Z</news:publication_date>
+            <news:title>El desarrollo de &#8216;software&#8217; nativo de IA podr&#237;a estar m&#225;s cerca de lo que parece</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/el-desarrollo-de-software-nativo-de-ia-podria-estar-mas-cerca-de-lo-que-parece.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -171,31 +241,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/17/treasury-kept-4b-away-from-fraudsters-this-year-it-plans-to-triple-that-by-2029/</loc>
+          <loc>https://majordigest.com/tech/2024/10/17/netflixs-subscriber-growth-slows-as-gains-from-password-sharing-crackdown-subside/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-17T21:57:27.000Z</news:publication_date>
-            <news:title>Treasury kept $4B away from fraudsters this year. It plans to triple that by 2029</news:title>
+            <news:publication_date>2024-10-17T20:35:57.000Z</news:publication_date>
+            <news:title>Netflix's subscriber growth is slowing, but its profit and stock price are still surging</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/17/treasury-kept-4b-away-from-fraudsters-this-year-it-plans-to-triple-that-by-2029.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/netflixs-subscriber-growth-slows-as-gains-from-password-sharing-crackdown-subside.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/17/one-direction-were-the-internets-first-boy-band-and-liam-payne-its-grounding-force/</loc>
+          <loc>https://majordigest.com/tech/2024/10/17/scientists-show-how-sperm-and-egg-come-together-like-a-key-in-a-lock-at-the-beginning-of-life/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-17T21:11:33.000Z</news:publication_date>
-            <news:title>One Direction was the internet's first boy band, and Liam Payne its grounding force</news:title>
+            <news:publication_date>2024-10-17T20:32:30.000Z</news:publication_date>
+            <news:title>Scientists show how sperm and egg come together like a key in a lock</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/17/one-direction-were-the-internets-first-boy-band-and-liam-payne-its-grounding-force.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/scientists-show-how-sperm-and-egg-come-together-like-a-key-in-a-lock-at-the-beginning-of-life.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/17/airbnb-cohost-marketplace/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T20:20:27.000Z</news:publication_date>
+            <news:title>Airbnb launches co-host marketplace to boost listing supply</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/airbnb-cohost-marketplace.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/17/tiktok-let-through-disinformation-in-political-ads-despite-its-own-ban-global-witness-finds/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T19:22:16.000Z</news:publication_date>
+            <news:title>TikTok let through disinformation in political ads despite its own ban, Global Witness finds</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/tiktok-let-through-disinformation-in-political-ads-despite-its-own-ban-global-witness-finds.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -213,6 +311,104 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/10/17/sec-x-account-hack-arrest/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T18:07:05.000Z</news:publication_date>
+            <news:title>Alabama man arrested for hacking Securities and Exchange Commission X account</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/sec-x-account-hack-arrest.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/17/hit-the-lights-mets-outfit-citi-field-for-electric-light-shows/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T16:27:42.000Z</news:publication_date>
+            <news:title>Hit the lights: Mets outfit Citi Field for electric light shows</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/hit-the-lights-mets-outfit-citi-field-for-electric-light-shows.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/17/airbus-job-cuts-defense-space/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T14:39:11.000Z</news:publication_date>
+            <news:title>Boeing competitor Airbus to cut up to 2,500 jobs in space, defense sector</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/airbus-job-cuts-defense-space.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/17/navy-logistics-modernization-effort-ready-to-take-next-step/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T14:34:01.000Z</news:publication_date>
+            <news:title>Navy logistics modernization effort ready to take next step</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/navy-logistics-modernization-effort-ready-to-take-next-step.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/17/rashida-tlaib-kroger-facial-recognition/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T13:01:07.000Z</news:publication_date>
+            <news:title>Rep. Tlaib calls out Kroger for facial recognition practices</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/rashida-tlaib-kroger-facial-recognition.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/17/easy-ways-make-calls-when-vision-challenge/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T13:00:39.000Z</news:publication_date>
+            <news:title>Easy ways to make calls when vision is a challenge</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/easy-ways-make-calls-when-vision-challenge.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/17/instagram-rolls-out-new-features-to-prevent-sextortion-scams-targeting-teens/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-17T11:00:00.000Z</news:publication_date>
+            <news:title>Instagram rolls out new features to prevent sextortion scams targeting teens</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/instagram-rolls-out-new-features-to-prevent-sextortion-scams-targeting-teens.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/10/17/office-365-a-guide-to-the-updates/</loc>
           <news:news>
             <news:publication>
@@ -227,17 +423,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/16/tech-tip-save-your-memories-before-its-too-late/</loc>
+          <loc>https://majordigest.com/tech/2024/10/17/us-agency-adopts-rule-to-make-it-easier-for-consumers-to-cancel-unwanted-subscriptions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T19:49:39.000Z</news:publication_date>
-            <news:title>Tech tip: Save your memories before it&#8217;s too late</news:title>
+            <news:publication_date>2024-10-17T02:11:07.000Z</news:publication_date>
+            <news:title>US agency adopts rule to make it easier for consumers to cancel unwanted subscriptions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/16/tech-tip-save-your-memories-before-its-too-late.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/17/us-agency-adopts-rule-to-make-it-easier-for-consumers-to-cancel-unwanted-subscriptions.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/16/feds-seeks-more-guidance-on-post-quantum-cryptography-transition/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-16T22:00:09.000Z</news:publication_date>
+            <news:title>Feds seeks more guidance on post-quantum cryptography transition</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/16/feds-seeks-more-guidance-on-post-quantum-cryptography-transition.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -255,86 +465,72 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/16/a10-networks-tackles-ai-threats-with-platform-updates/</loc>
+          <loc>https://majordigest.com/tech/2024/10/16/end-user-empowerment-shifting-the-cybersecurity-responsibility/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T16:35:44.000Z</news:publication_date>
-            <news:title>A10 Networks tackles AI threats with platform updates</news:title>
+            <news:publication_date>2024-10-16T15:54:34.000Z</news:publication_date>
+            <news:title>End user empowerment: Shifting the cybersecurity responsibility</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/16/a10-networks-tackles-ai-threats-with-platform-updates.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/16/end-user-empowerment-shifting-the-cybersecurity-responsibility.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/16/android-15-features-google-pixel-phone/</loc>
+          <loc>https://majordigest.com/tech/2024/10/16/trump-launches-cryptocurrency-tokens/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T16:00:00.000Z</news:publication_date>
-            <news:title>15 new Android 15 features to find on your Google Pixel phone</news:title>
+            <news:publication_date>2024-10-16T14:03:11.000Z</news:publication_date>
+            <news:title>Trump promotes family&#8217;s cryptocurrency tokens</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/16/android-15-features-google-pixel-phone.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/16/trump-launches-cryptocurrency-tokens.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/16/cisco-latest-news-and-insights/</loc>
+          <loc>https://majordigest.com/tech/2024/10/16/hacked-robot-vacuums-ecovacs-deebot/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T15:11:38.000Z</news:publication_date>
-            <news:title>Cisco: Latest news and insights</news:title>
+            <news:publication_date>2024-10-16T03:41:22.000Z</news:publication_date>
+            <news:title>Hacked robo-vacuums chase owners, yell slurs</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/16/cisco-latest-news-and-insights.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/16/hacked-robot-vacuums-ecovacs-deebot.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/16/how-microsoft-became-a-big-tech-choir-boy/</loc>
+          <loc>https://majordigest.com/tech/2024/10/15/mexico-says-foreign-firms-have-pledged-20-billion-in-investments-but-many-are-old-or-uncertain/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T06:00:00.000Z</news:publication_date>
-            <news:title>FTC Targets Big Tech: Microsoft's Unique Approach to Avoiding Antitrust Suits</news:title>
+            <news:publication_date>2024-10-15T20:40:19.000Z</news:publication_date>
+            <news:title>Mexico says foreign firms have pledged $20 billion in investments, but many are old or uncertain</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/16/how-microsoft-became-a-big-tech-choir-boy.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/15/mexico-says-foreign-firms-have-pledged-20-billion-in-investments-but-many-are-old-or-uncertain.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/15/countries-that-have-cashed-in-on-their-top-level-domain-names/</loc>
+          <loc>https://majordigest.com/tech/2024/10/15/netskope-extends-data-security-with-dasera-acquisition/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-15T16:31:21.000Z</news:publication_date>
-            <news:title>Countries that have cashed in on their top-level domain names</news:title>
+            <news:publication_date>2024-10-15T19:35:24.000Z</news:publication_date>
+            <news:title>Netskope extends data security with Dasera acquisition</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/15/countries-that-have-cashed-in-on-their-top-level-domain-names.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/15/suse-edge-upgrade-targets-kubernetes-and-linux-at-the-edge/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-15T13:22:13.000Z</news:publication_date>
-            <news:title>SUSE Edge upgrade targets Kubernetes and Linux at the edge</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/15/suse-edge-upgrade-targets-kubernetes-and-linux-at-the-edge.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/15/netskope-extends-data-security-with-dasera-acquisition.webp</image:loc>
           </image:image>
         </url></urlset>
