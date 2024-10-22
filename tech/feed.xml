@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Tue, 22 Oct 2024 02:57:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 03:51:25 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,26 +19,15 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Meta&#8217;s new AI model can check other models&#8217; work</title>
-          <description><![CDATA[Facebook owner Meta said on Friday it was releasing a batch of new AI models from its research division, including a “Self-Taught Evaluator” that may offer a path toward less human involvement in the AI development process.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/22/meta-ai-model-self-taught-evaluator/</guid>
-          <link>https://majordigest.com/tech/2024/10/22/meta-ai-model-self-taught-evaluator/</link>
-          <pubDate>Tue, 22 Oct 2024 03:30:00 GMT</pubDate>
+          <title>JDK 24: The new features in Java 24</title>
+          <description><![CDATA[In the wake of Java Development Kit (JDK) 23, which arrived September 17, work has begun on JDK 24, with five features so far proposed for the release: stream gatherers, a vector API, a class-file API, warnings to prepare developers for future restrictions on the use of JNI (Java Native Interface), ]]></description>
+          <guid>https://majordigest.com/tech/2024/10/21/jdk-24-the-new-features-in-java-24/</guid>
+          <link>https://majordigest.com/tech/2024/10/21/jdk-24-the-new-features-in-java-24/</link>
+          <pubDate>Mon, 21 Oct 2024 23:22:27 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/22/meta-ai-model-self-taught-evaluator.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/22/meta-ai-model-self-taught-evaluator.webp"/>
-          <dc:creator>Reuters, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>Federal Rule Bans Fake Online Reviews: FTC Cracks Down on Marketplace Manipulation</title>
-          <description><![CDATA[FTC rule prohibits fake online reviews, testimonials; civil penalties for businesses that engage in marketplace manipulation]]></description>
-          <guid>https://majordigest.com/tech/2024/10/21/ftcs-rule-banning-fake-online-reviews-goes-into-effect/</guid>
-          <link>https://majordigest.com/tech/2024/10/21/ftcs-rule-banning-fake-online-reviews-goes-into-effect/</link>
-          <pubDate>Mon, 21 Oct 2024 23:45:08 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/ftcs-rule-banning-fake-online-reviews-goes-into-effect.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/ftcs-rule-banning-fake-online-reviews-goes-into-effect.webp"/>
-          <dc:creator>Associated Press, KGET 17, NBC</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/jdk-24-the-new-features-in-java-24.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/jdk-24-the-new-features-in-java-24.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
           <title>NYC Department of Education builds the pipeline for future cybersecurity professionals</title>
@@ -52,26 +41,16 @@
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Rust 1.82 brings Cargo info subcommand</title>
-          <description><![CDATA[Rust 1.82, the newest version of the popular memory-safe programming language, fulfills a longstanding request for displaying information in the Cargo package manager registry. Also with Rust 1.82, Apple macOS on 64-bit Arm now offers Rust’s highest guarantee of functionality.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/21/rust-1-82-brings-cargo-info-subcommand/</guid>
-          <link>https://majordigest.com/tech/2024/10/21/rust-1-82-brings-cargo-info-subcommand/</link>
-          <pubDate>Mon, 21 Oct 2024 20:09:55 GMT</pubDate>
+          <title>State Department making sure change is more than just a name</title>
+          <description><![CDATA[Kelly Fletcher, the State Department’s CIO, said the newly named Bureau of Diplomatic Technology is aligning cybersecurity and customer experience.
+The post State Department making sure change is more than just a name first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/21/state-department-making-sure-change-is-more-than-just-a-name/</guid>
+          <link>https://majordigest.com/tech/2024/10/21/state-department-making-sure-change-is-more-than-just-a-name/</link>
+          <pubDate>Mon, 21 Oct 2024 21:45:23 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/rust-1-82-brings-cargo-info-subcommand.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/rust-1-82-brings-cargo-info-subcommand.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Did Qualcomm just kill the ring light? Future Android phones could let you add a virtual, moveable light source to video calls</title>
-          <description><![CDATA[Qualcomm has debuted an AI-powered, real-time lighting tool in the Snapdragon 8 Elite at Snapdragon Summit 2024.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/21/did-qualcomm-just-kill-the-ring-light-future-android-phones-could-let-you-add-a-virtual-moveable-light-source-to-video-calls/</guid>
-          <link>https://majordigest.com/tech/2024/10/21/did-qualcomm-just-kill-the-ring-light-future-android-phones-could-let-you-add-a-virtual-moveable-light-source-to-video-calls/</link>
-          <pubDate>Mon, 21 Oct 2024 19:45:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/did-qualcomm-just-kill-the-ring-light-future-android-phones-could-let-you-add-a-virtual-moveable-light-source-to-video-calls.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/did-qualcomm-just-kill-the-ring-light-future-android-phones-could-let-you-add-a-virtual-moveable-light-source-to-video-calls.webp"/>
-          <dc:creator>axel.metz@futurenet.com (Axel Metz), TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/state-department-making-sure-change-is-more-than-just-a-name.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/state-department-making-sure-change-is-more-than-just-a-name.webp"/>
+          <dc:creator>Jason Miller, Federal News Network</dc:creator>
         </item>
         <item>
           <title>Voicemeeter app sets off Blue Screen of Death woes &#8212; here&#8217;s what you need to know</title>
@@ -85,37 +64,15 @@
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>Cuban says Harris campaign rejected live X interview with Musk</title>
-          <description><![CDATA[Billionaire investor Mark Cuban said Monday that Vice President Harris’s campaign rejected a live interview on the social platform X with billionaire Elon Musk, who owns the platform.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/21/vice-president-harris-musk-interview/</guid>
-          <link>https://majordigest.com/tech/2024/10/21/vice-president-harris-musk-interview/</link>
-          <pubDate>Mon, 21 Oct 2024 18:39:42 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/vice-president-harris-musk-interview.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/vice-president-harris-musk-interview.webp"/>
-          <dc:creator>Julia Shapero, The Hill</dc:creator>
-        </item>
-        <item>
           <title>Biden administration to provide $325 million for new Michigan semiconductor factory</title>
-          <description><![CDATA[The federal government plans to provide up to $325 million to Hemlock Semiconductor to produce a key material for computer chips, an announcement Monday with possible political significance as the new factory would be in the swing state of Michigan.]]></description>
+          <description><![CDATA[WASHINGTON (AP) — The Biden administration said Monday that it would provide up to $325 million to Hemlock Semiconductor for a new factory, a move that could help give Democrats a political edge in the swing state of Michigan ahead of election day.]]></description>
           <guid>https://majordigest.com/tech/2024/10/21/biden-administration-to-provide-325-million-for-new-michigan-semiconductor-factory/</guid>
           <link>https://majordigest.com/tech/2024/10/21/biden-administration-to-provide-325-million-for-new-michigan-semiconductor-factory/</link>
-          <pubDate>Mon, 21 Oct 2024 16:00:16 GMT</pubDate>
+          <pubDate>Mon, 21 Oct 2024 17:16:56 GMT</pubDate>
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/biden-administration-to-provide-325-million-for-new-michigan-semiconductor-factory.webp"/>
           <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/biden-administration-to-provide-325-million-for-new-michigan-semiconductor-factory.webp"/>
-          <dc:creator>Josh Boak, Associated Press, KPRC 2</dc:creator>
-        </item>
-        <item>
-          <title>TradeZella Revolutionizes Day Trading with Advanced Software</title>
-          <description><![CDATA[Discover how TradeZella's innovative software helps day traders plan, track, and evaluate their trades like never before]]></description>
-          <guid>https://majordigest.com/tech/2024/10/21/built-by-one-of-their-own-tradezella-lets-day-traders-track-and-plan-transactions/</guid>
-          <link>https://majordigest.com/tech/2024/10/21/built-by-one-of-their-own-tradezella-lets-day-traders-track-and-plan-transactions/</link>
-          <pubDate>Mon, 21 Oct 2024 16:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/built-by-one-of-their-own-tradezella-lets-day-traders-track-and-plan-transactions.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/built-by-one-of-their-own-tradezella-lets-day-traders-track-and-plan-transactions.webp"/>
-          <dc:creator>Steven Melendez, Fast Company</dc:creator>
+          <dc:creator>JOSH BOAK, Associated Press, Fox 5</dc:creator>
         </item>
         <item>
           <title>Slack researcher discusses the fear, loathing and excitement surrounding AI in the workplace</title>
@@ -126,53 +83,18 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/slack-researcher-discusses-the-fear-loathing-and-excitement-surrounding-ai-in-the-workplace.webp"/>
           <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/slack-researcher-discusses-the-fear-loathing-and-excitement-surrounding-ai-in-the-workplace.webp"/>
-          <dc:creator>MICHAEL LIEDTKE, Associated Press, KGET 17, NBC</dc:creator>
+          <dc:creator>MICHAEL LIEDTKE, Associated Press, KLAS, CBS News</dc:creator>
         </item>
         <item>
-          <title>Top considerations for narrowing the federal cybersecurity skills gap</title>
-          <description><![CDATA[Addressing the federal cybersecurity skills gap requires a multifaceted approach in coordination with the private sector.
-The post Top considerations for narrowing the federal cybersecurity skills gap first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/21/top-considerations-for-narrowing-the-federal-cybersecurity-skills-gap/</guid>
-          <link>https://majordigest.com/tech/2024/10/21/top-considerations-for-narrowing-the-federal-cybersecurity-skills-gap/</link>
-          <pubDate>Mon, 21 Oct 2024 15:44:04 GMT</pubDate>
+          <title>Fox News AI Newsletter: Van Halen's unreleased music</title>
+          <description><![CDATA[Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/19/ai-newsletter-van-halen-unreleased-music/</guid>
+          <link>https://majordigest.com/tech/2024/10/19/ai-newsletter-van-halen-unreleased-music/</link>
+          <pubDate>Sat, 19 Oct 2024 12:30:14 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/top-considerations-for-narrowing-the-federal-cybersecurity-skills-gap.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/top-considerations-for-narrowing-the-federal-cybersecurity-skills-gap.webp"/>
-          <dc:creator>commentators, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Buyer&#8217;s guide: How to choose between Microsoft 365 and Office 2024</title>
-          <description><![CDATA[Microsoft Office — best known for its Word, Excel, PowerPoint, and Outlook productivity applications — is how billions of people around the world work and study, whether they do it from home, an office, a classroom, or a combination of those.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/21/office-2021-vs-microsoft-365-office-365-how-to-choose/</guid>
-          <link>https://majordigest.com/tech/2024/10/21/office-2021-vs-microsoft-365-office-365-how-to-choose/</link>
-          <pubDate>Mon, 21 Oct 2024 10:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/office-2021-vs-microsoft-365-office-365-how-to-choose.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/office-2021-vs-microsoft-365-office-365-how-to-choose.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Stopping the rot in AI spending</title>
-          <description><![CDATA[They say that half the money spent on advertising is wasted, but the problem is figuring out which half. If that’s true, the problem is arguably worse for AI.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/21/stopping-the-rot-in-ai-spending/</guid>
-          <link>https://majordigest.com/tech/2024/10/21/stopping-the-rot-in-ai-spending/</link>
-          <pubDate>Mon, 21 Oct 2024 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/21/stopping-the-rot-in-ai-spending.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/21/stopping-the-rot-in-ai-spending.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>This 10-second tweak will bring new life to any browser</title>
-          <description><![CDATA[When it comes to most home screens—on your phone, your computer, you name it—you’ve got endless-seeming options for customizing and taking control.
-The one canvas you can’t easily paint, curiously enough, is your browser’s New Tab page.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/19/tabliss-browser-tab-extension/</guid>
-          <link>https://majordigest.com/tech/2024/10/19/tabliss-browser-tab-extension/</link>
-          <pubDate>Sat, 19 Oct 2024 17:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/19/tabliss-browser-tab-extension.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/19/tabliss-browser-tab-extension.webp"/>
-          <dc:creator>Chris Hoffman, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/19/ai-newsletter-van-halen-unreleased-music.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/19/ai-newsletter-van-halen-unreleased-music.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
           <title>October is Cybersecurity Awareness Month. Here's how to stay safe from scams</title>
@@ -183,29 +105,73 @@ The one canvas you can’t easily paint, curiously enough, is your browser’s N
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/19/october-is-cybersecurity-awareness-month-heres-how-to-stay-safe-from-scams.webp"/>
           <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/19/october-is-cybersecurity-awareness-month-heres-how-to-stay-safe-from-scams.webp"/>
-          <dc:creator>ADRIANA MORGA, Associated Press, PIX 11</dc:creator>
+          <dc:creator>ADRIANA MORGA, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
-          <title>US to probe Tesla's 'Full Self-Driving' system after pedestrian killed in low visibility conditions</title>
-          <description><![CDATA[DETROIT (AP) — The U.S. government's road safety agency is investigating Tesla's “Full Self-Driving” system after getting reports of crashes in low-visibility conditions, including one that killed a pedestrian.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions/</guid>
-          <link>https://majordigest.com/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions/</link>
-          <pubDate>Fri, 18 Oct 2024 22:06:09 GMT</pubDate>
+          <title>Donald Trump is losing on TikTok</title>
+          <description><![CDATA[TikTok’s influence has become undeniable in the 2024 presidential election, with both camps leaning full force into the idea that if you can’t beat ’em, join ’em. But that plan hasn’t worked out so well for Republican nominee Donald Trump.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/19/donald-trump-is-losing-on-tiktok/</guid>
+          <link>https://majordigest.com/tech/2024/10/19/donald-trump-is-losing-on-tiktok/</link>
+          <pubDate>Sat, 19 Oct 2024 00:17:02 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions.webp"/>
-          <dc:creator>TOM KRISHER, Associated Press, KLAS, CBS News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/19/donald-trump-is-losing-on-tiktok.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/19/donald-trump-is-losing-on-tiktok.webp"/>
+          <dc:creator>Eve Upton-Clark, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Treasury Department uses AI to recover $1 billion in fraud</title>
-          <description><![CDATA[The Treasury Department is taking advantage of artificial intelligence (AI) to prevent or recover check fraud and stopped more than $1 billion in fraudulent payments over the past year, the agency announced Thursday.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/17/treasury-department-ai-fraud-prevention/</guid>
-          <link>https://majordigest.com/tech/2024/10/17/treasury-department-ai-fraud-prevention/</link>
-          <pubDate>Thu, 17 Oct 2024 19:32:10 GMT</pubDate>
+          <title>Judge delays order in antitrust case requiring Google to open up its app store</title>
+          <description><![CDATA[SAN FRANCISCO (AP) — A federal judge on Friday delayed an order requiring Google to open up its Android app store to more competition until an appeals court decides whether to block the shake-up because of legal questions surrounding a jury's verdict that branded Google as an illegal monopolist.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/18/judge-delays-order-in-antitrust-case-requiring-google-to-open-up-its-app-store/</guid>
+          <link>https://majordigest.com/tech/2024/10/18/judge-delays-order-in-antitrust-case-requiring-google-to-open-up-its-app-store/</link>
+          <pubDate>Fri, 18 Oct 2024 21:44:41 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/treasury-department-ai-fraud-prevention.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/treasury-department-ai-fraud-prevention.webp"/>
-          <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/18/judge-delays-order-in-antitrust-case-requiring-google-to-open-up-its-app-store.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/18/judge-delays-order-in-antitrust-case-requiring-google-to-open-up-its-app-store.webp"/>
+          <dc:creator>MICHAEL LIEDTKE, Associated Press, Fox 5</dc:creator>
+        </item>
+        <item>
+          <title>TikTok approved election misinformation ads despite its own ban, says watchdog</title>
+          <description><![CDATA[Just weeks before the U.S. presidential election, TikTok approved advertisements that contained election disinformation even though it has a ban on political ads, according to a report published Thursday by the nonprofit Global Witness.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/18/tiktok-approved-election-misinformation-ads-despite-own-ban-says-watchdog/</guid>
+          <link>https://majordigest.com/tech/2024/10/18/tiktok-approved-election-misinformation-ads-despite-own-ban-says-watchdog/</link>
+          <pubDate>Fri, 18 Oct 2024 20:28:05 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/18/tiktok-approved-election-misinformation-ads-despite-own-ban-says-watchdog.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/18/tiktok-approved-election-misinformation-ads-despite-own-ban-says-watchdog.webp"/>
+          <dc:creator>Associated Press, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>7 Android 15 features you can bring to any phone today</title>
+          <description><![CDATA[No Android 15? No problem. You can still enjoy some of the fancy new features from Google’s latest Android version — no matter who made your current device or how old it might be.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/18/android-15-features-any-phone/</guid>
+          <link>https://majordigest.com/tech/2024/10/18/android-15-features-any-phone/</link>
+          <pubDate>Fri, 18 Oct 2024 09:45:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/18/android-15-features-any-phone.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/18/android-15-features-any-phone.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Alabama man arrested in SEC social media account hack that led the price of bitcoin to spike</title>
+          <description><![CDATA[WASHINGTON (AP) — An Alabama man was arrested Thursday for his alleged role in the January hack of a U.S. Securities and Exchange Commission social media account that led the price of bitcoin to spike, the Justice Department said. Eric Council Jr.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/alabama-man-arrested-in-sec-social-media-account-hack-that-led-the-price-of-bitcoin-to-spike/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/alabama-man-arrested-in-sec-social-media-account-hack-that-led-the-price-of-bitcoin-to-spike/</link>
+          <pubDate>Thu, 17 Oct 2024 22:10:47 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/alabama-man-arrested-in-sec-social-media-account-hack-that-led-the-price-of-bitcoin-to-spike.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/alabama-man-arrested-in-sec-social-media-account-hack-that-led-the-price-of-bitcoin-to-spike.webp"/>
+          <dc:creator>ALANNA DURKIN RICHER, Associated Press, ABC 4</dc:creator>
+        </item>
+        <item>
+          <title>One Direction was the internet's first boy band, and Liam Payne its grounding force</title>
+          <description><![CDATA[One Direction member Liam Payne was found dead this week after falling from a hotel balcony in Buenos Aires, Argentina, at just 31.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/one-direction-were-the-internets-first-boy-band-and-liam-payne-its-grounding-force/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/one-direction-were-the-internets-first-boy-band-and-liam-payne-its-grounding-force/</link>
+          <pubDate>Thu, 17 Oct 2024 21:11:33 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/one-direction-were-the-internets-first-boy-band-and-liam-payne-its-grounding-force.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/one-direction-were-the-internets-first-boy-band-and-liam-payne-its-grounding-force.webp"/>
+          <dc:creator>Maria Sherman, Associated Press, Local 4</dc:creator>
         </item>
         <item>
           <title>Network jobs watch: Hiring, skills and certification trends</title>
@@ -219,124 +185,139 @@ The one canvas you can’t easily paint, curiously enough, is your browser’s N
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Alabama man arrested for hacking Securities and Exchange Commission X account</title>
-          <description><![CDATA[Following the unauthorized announcement made during the hack, the DOJ said the price of bitcoin increased by more than $1,000 per bitcoin.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/17/sec-x-account-hack-arrest/</guid>
-          <link>https://majordigest.com/tech/2024/10/17/sec-x-account-hack-arrest/</link>
-          <pubDate>Thu, 17 Oct 2024 18:07:05 GMT</pubDate>
+          <title>Hit the lights: Mets outfit Citi Field for electric light shows</title>
+          <description><![CDATA[NEW YORK (AP) — The Mets are lighting up Citi Field, even before their batters step up to the plate. About 70 front-office staffers scattered around the ballpark for over five hours to install 3,500 strips of LED lights on each railing ahead of New York's first home postseason game.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/hit-the-lights-mets-outfit-citi-field-for-electric-light-shows/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/hit-the-lights-mets-outfit-citi-field-for-electric-light-shows/</link>
+          <pubDate>Thu, 17 Oct 2024 16:27:42 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/sec-x-account-hack-arrest.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/sec-x-account-hack-arrest.webp"/>
-          <dc:creator>Logan Sparkman, NewsNation</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/hit-the-lights-mets-outfit-citi-field-for-electric-light-shows.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/hit-the-lights-mets-outfit-citi-field-for-electric-light-shows.webp"/>
+          <dc:creator>RONALD BLUM, Associated Press, KREX 5</dc:creator>
         </item>
         <item>
-          <title>Instagram rolls out new features to prevent sextortion scams targeting teens</title>
-          <description><![CDATA[Instagram has introduced a series of new safety features to prevent sextortion schemes, marking the platform's latest effort to protect users, especially teenagers, from online harm.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/17/instagram-rolls-out-new-features-to-prevent-sextortion-scams-targeting-teens/</guid>
-          <link>https://majordigest.com/tech/2024/10/17/instagram-rolls-out-new-features-to-prevent-sextortion-scams-targeting-teens/</link>
-          <pubDate>Thu, 17 Oct 2024 11:00:00 GMT</pubDate>
+          <title>Navy logistics modernization effort ready to take next step</title>
+          <description><![CDATA[Jeff Baur, the product director for logistics IT for the Navy’s PEO-MLB, said ensuring the new platform meets the users’ needs is a top priority.
+The post Navy logistics modernization effort ready to take next step first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/navy-logistics-modernization-effort-ready-to-take-next-step/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/navy-logistics-modernization-effort-ready-to-take-next-step/</link>
+          <pubDate>Thu, 17 Oct 2024 14:34:01 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/instagram-rolls-out-new-features-to-prevent-sextortion-scams-targeting-teens.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/instagram-rolls-out-new-features-to-prevent-sextortion-scams-targeting-teens.webp"/>
-          <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/navy-logistics-modernization-effort-ready-to-take-next-step.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/navy-logistics-modernization-effort-ready-to-take-next-step.webp"/>
+          <dc:creator>Jason Miller, Federal News Network</dc:creator>
         </item>
         <item>
-          <title>Here&#8217;s how Cleary Gottlieb law firm uses genAI for pre-trial discovery and more</title>
-          <description><![CDATA[Corporate law is nothing like you see on television. To prepare for a case, 150 attorneys might be tasked to travel to remote warehouses to comb through tens of millions of documents gathering dust or track down amorphous electronic communications. It’s a process known as discovery.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/17/heres-how-cleary-gottlieb-law-firm-uses-genai-for-pre-trial-discovery-and-more/</guid>
-          <link>https://majordigest.com/tech/2024/10/17/heres-how-cleary-gottlieb-law-firm-uses-genai-for-pre-trial-discovery-and-more/</link>
-          <pubDate>Thu, 17 Oct 2024 10:00:00 GMT</pubDate>
+          <title>Easy ways to make calls when vision is a challenge</title>
+          <description><![CDATA[For those with visual challenges, there are a number of voice-dialing apps and features to help make phone calls without having to see numbers.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/easy-ways-make-calls-when-vision-challenge/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/easy-ways-make-calls-when-vision-challenge/</link>
+          <pubDate>Thu, 17 Oct 2024 13:00:39 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/heres-how-cleary-gottlieb-law-firm-uses-genai-for-pre-trial-discovery-and-more.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/heres-how-cleary-gottlieb-law-firm-uses-genai-for-pre-trial-discovery-and-more.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/easy-ways-make-calls-when-vision-challenge.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/easy-ways-make-calls-when-vision-challenge.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Breaking down government hacks: The rise of the modern kill chain</title>
+          <description><![CDATA[This year, expect to see a record number of cyberattacks on government agencies as hackers ramp up their efforts ahead of the 2024 U.S. presidential election.
+The post Breaking down government hacks: The rise of the modern kill chain first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/breaking-down-government-hacks-the-rise-of-the-modern-kill-chain/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/breaking-down-government-hacks-the-rise-of-the-modern-kill-chain/</link>
+          <pubDate>Thu, 17 Oct 2024 12:05:46 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/breaking-down-government-hacks-the-rise-of-the-modern-kill-chain.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/breaking-down-government-hacks-the-rise-of-the-modern-kill-chain.webp"/>
+          <dc:creator>commentators, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Windows 10 Insider Previews: A guide to the builds</title>
+          <description><![CDATA[Microsoft never sleeps. In addition to its steady releases of major and minor updates to the current version of Windows 10, the company frequently rolls out public preview builds to members of its Windows Insider Program, allowing them to test out — and even help shape — upcoming features.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/windows-10-insider-previews-a-guide-to-the-builds/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/windows-10-insider-previews-a-guide-to-the-builds/</link>
+          <pubDate>Thu, 17 Oct 2024 09:06:38 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/windows-10-insider-previews-a-guide-to-the-builds.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/windows-10-insider-previews-a-guide-to-the-builds.webp"/>
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>US agency adopts rule to make it easier for consumers to cancel unwanted subscriptions</title>
-          <description><![CDATA[The Federal Trade Commission adopted a final rule Wednesday that will require businesses to make it easy for consumers to cancel unwanted subscriptions and memberships.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/17/us-agency-adopts-rule-to-make-it-easier-for-consumers-to-cancel-unwanted-subscriptions/</guid>
-          <link>https://majordigest.com/tech/2024/10/17/us-agency-adopts-rule-to-make-it-easier-for-consumers-to-cancel-unwanted-subscriptions/</link>
-          <pubDate>Thu, 17 Oct 2024 02:11:07 GMT</pubDate>
+          <title>How to use Task.WhenEach in .NET 9</title>
+          <description><![CDATA[The upcoming release of .NET 9 introduces the Task.WhenEach method, which enables developers to handle asynchronous tasks more elegantly. The Task.WhenEach method allows us to iterate through tasks as they complete, without having to call Task.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/17/how-to-use-task-wheneach-in-net-9/</guid>
+          <link>https://majordigest.com/tech/2024/10/17/how-to-use-task-wheneach-in-net-9/</link>
+          <pubDate>Thu, 17 Oct 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/us-agency-adopts-rule-to-make-it-easier-for-consumers-to-cancel-unwanted-subscriptions.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/us-agency-adopts-rule-to-make-it-easier-for-consumers-to-cancel-unwanted-subscriptions.webp"/>
-          <dc:creator>HALELUYA HADERO, Associated Press, ABC 4</dc:creator>
-        </item>
-        <item>
-          <title>Feds seeks more guidance on post-quantum cryptography transition</title>
-          <description><![CDATA[Federal cyber experts say they need more formal guidance and a range of other tools for a post-quantum cryptography effort that's expected to cost billions.
-The post Feds seeks more guidance on post-quantum cryptography transition first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/16/feds-seeks-more-guidance-on-post-quantum-cryptography-transition/</guid>
-          <link>https://majordigest.com/tech/2024/10/16/feds-seeks-more-guidance-on-post-quantum-cryptography-transition/</link>
-          <pubDate>Wed, 16 Oct 2024 22:00:09 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/feds-seeks-more-guidance-on-post-quantum-cryptography-transition.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/feds-seeks-more-guidance-on-post-quantum-cryptography-transition.webp"/>
-          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>WasmGC and the future of front-end Java development</title>
-          <description><![CDATA[JavaScript is the clear choice for front-end development today, but there is a longstanding push to be able to use Java on the front end. Among other things, Java brings a vast ecosystem of libraries, frameworks, and application code, which can be exposed via its APIs.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/16/wasmgc-and-the-future-of-front-end-java-development/</guid>
-          <link>https://majordigest.com/tech/2024/10/16/wasmgc-and-the-future-of-front-end-java-development/</link>
-          <pubDate>Wed, 16 Oct 2024 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/wasmgc-and-the-future-of-front-end-java-development.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/wasmgc-and-the-future-of-front-end-java-development.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/17/how-to-use-task-wheneach-in-net-9.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/17/how-to-use-task-wheneach-in-net-9.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Adobe starts roll-out of AI video tools, challenging OpenAI and Meta</title>
-          <description><![CDATA[Facing much larger rivals, Adobe has staked its future on building models trained on data that it has rights to use, ensuring the output can be legally used in commercial work.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/16/adobe-starts-roll-out-of-ai-video-tools-challenging-openai-and-meta/</guid>
-          <link>https://majordigest.com/tech/2024/10/16/adobe-starts-roll-out-of-ai-video-tools-challenging-openai-and-meta/</link>
-          <pubDate>Wed, 16 Oct 2024 04:46:00 GMT</pubDate>
+          <title>A10 Networks tackles AI threats with platform updates</title>
+          <description><![CDATA[A10 Networks is updating its platforms in a bid to help enterprises deal with increasing risks, including those that might come from AI-driven attacks.
+The improvements to the network security vendor’s technology span multiple products.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/16/a10-networks-tackles-ai-threats-with-platform-updates/</guid>
+          <link>https://majordigest.com/tech/2024/10/16/a10-networks-tackles-ai-threats-with-platform-updates/</link>
+          <pubDate>Wed, 16 Oct 2024 16:35:44 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/adobe-starts-roll-out-of-ai-video-tools-challenging-openai-and-meta.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/adobe-starts-roll-out-of-ai-video-tools-challenging-openai-and-meta.webp"/>
-          <dc:creator>Reuters, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Microsoft settles video gamers' lawsuit over Activision takeover</title>
-          <description><![CDATA[SAN FRANCISCO (AP) — Microsoft Corp. has settled a lawsuit from a group of gamers who sued to try to stop the company from buying video game publisher Activision Blizzard for $69 billion last year. Terms of the settlement were not disclosed.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/15/microsoft-settles-video-gamers-lawsuit-over-activision-takeover/</guid>
-          <link>https://majordigest.com/tech/2024/10/15/microsoft-settles-video-gamers-lawsuit-over-activision-takeover/</link>
-          <pubDate>Tue, 15 Oct 2024 20:55:51 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/15/microsoft-settles-video-gamers-lawsuit-over-activision-takeover.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/15/microsoft-settles-video-gamers-lawsuit-over-activision-takeover.webp"/>
-          <dc:creator>Associated Press, ABC 4</dc:creator>
-        </item>
-        <item>
-          <title>Nvidia: Latest news and insights</title>
-          <description><![CDATA[When it comes to innovation and the technology to drive it, few companies today rival Nvidia. The company has leveraged its GPU expertise to become a dominant player in the AI market. Nvidia’s GPU pedigree dates back decades to high-powered processors originally built for gaming systems.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/15/nvidia-latest-news-and-insights/</guid>
-          <link>https://majordigest.com/tech/2024/10/15/nvidia-latest-news-and-insights/</link>
-          <pubDate>Tue, 15 Oct 2024 17:32:57 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/15/nvidia-latest-news-and-insights.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/15/nvidia-latest-news-and-insights.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/a10-networks-tackles-ai-threats-with-platform-updates.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/a10-networks-tackles-ai-threats-with-platform-updates.webp"/>
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Nvidia contributes Blackwell rack design to Open Compute Project</title>
-          <description><![CDATA[In the competitive world of enterprise IT vendors, it may be a surprise that some companies are freely sharing their designs, but that’s exactly what the 50-plus voting members and more than 300 community members and startups, including the major hyperscalers and chipmakers, of the Open Compute Proj]]></description>
-          <guid>https://majordigest.com/tech/2024/10/15/nvidia-contributes-blackwell-rack-design-to-open-compute-project/</guid>
-          <link>https://majordigest.com/tech/2024/10/15/nvidia-contributes-blackwell-rack-design-to-open-compute-project/</link>
-          <pubDate>Tue, 15 Oct 2024 17:32:00 GMT</pubDate>
+          <title>AI isn&#8217;t really that smart yet, Apple researchers warn</title>
+          <description><![CDATA[While we wait for the Age Of Apple Intelligence, it may be worth considering a recent Apple research study that exposes critical weaknesses in existing artificial intelligence models.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/16/ai-isnt-really-that-smart-yet-apple-researchers-warn/</guid>
+          <link>https://majordigest.com/tech/2024/10/16/ai-isnt-really-that-smart-yet-apple-researchers-warn/</link>
+          <pubDate>Wed, 16 Oct 2024 16:07:17 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/15/nvidia-contributes-blackwell-rack-design-to-open-compute-project.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/15/nvidia-contributes-blackwell-rack-design-to-open-compute-project.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/ai-isnt-really-that-smart-yet-apple-researchers-warn.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/ai-isnt-really-that-smart-yet-apple-researchers-warn.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Cisco: Latest news and insights</title>
+          <description><![CDATA[Cisco is the dominant vendor in enterprise networking, and under CEO Chuck Robbins, it continues to shake things up.
+Its most recent mega-acquisition is its $28 billion purchase of Splunk, a bold move that adds revenue opportunities in observability, data analytics, AIOps, and genAI.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/16/cisco-latest-news-and-insights/</guid>
+          <link>https://majordigest.com/tech/2024/10/16/cisco-latest-news-and-insights/</link>
+          <pubDate>Wed, 16 Oct 2024 15:11:38 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/cisco-latest-news-and-insights.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/cisco-latest-news-and-insights.webp"/>
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Countries that have cashed in on their top-level domain names</title>
-          <description><![CDATA[LONDON (AP) — Anguilla is raking in extra revenue from registration fees for its .ai web domain thanks to the artificial intelligence boom, but it's not the only place cashing in on demand for websites with distinctive address endings.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/15/countries-that-have-cashed-in-on-their-top-level-domain-names/</guid>
-          <link>https://majordigest.com/tech/2024/10/15/countries-that-have-cashed-in-on-their-top-level-domain-names/</link>
-          <pubDate>Tue, 15 Oct 2024 16:31:21 GMT</pubDate>
+          <title>AI-powered scam targets 2.5 billion Gmail users in sophisticated phishing attacks</title>
+          <description><![CDATA[Tech expert Kurt “CyberGuy&quot; Knutsson talks about a new AI-powered scam that targets Gmail users and is harder to detect unless you&apos;re very cautious.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/16/ai-powered-scam-targets-2-5-billion-gmail-users-sophisticated-phishing-attacks/</guid>
+          <link>https://majordigest.com/tech/2024/10/16/ai-powered-scam-targets-2-5-billion-gmail-users-sophisticated-phishing-attacks/</link>
+          <pubDate>Wed, 16 Oct 2024 13:00:33 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/15/countries-that-have-cashed-in-on-their-top-level-domain-names.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/15/countries-that-have-cashed-in-on-their-top-level-domain-names.webp"/>
-          <dc:creator>KELVIN CHAN, Associated Press, Fox 5</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/ai-powered-scam-targets-2-5-billion-gmail-users-sophisticated-phishing-attacks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/ai-powered-scam-targets-2-5-billion-gmail-users-sophisticated-phishing-attacks.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Hacked robo-vacuums chase owners, yell slurs</title>
+          <description><![CDATA[Some customers report the tiny tech tools chased them around their homes and barraged them with profanities.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/16/hacked-robot-vacuums-ecovacs-deebot/</guid>
+          <link>https://majordigest.com/tech/2024/10/16/hacked-robot-vacuums-ecovacs-deebot/</link>
+          <pubDate>Wed, 16 Oct 2024 03:41:22 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/16/hacked-robot-vacuums-ecovacs-deebot.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/16/hacked-robot-vacuums-ecovacs-deebot.webp"/>
+          <dc:creator>Anna Kutz, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>At the mercy of social media</title>
+          <description><![CDATA[I like Instagram as much as the next guy. I check in daily on my carefully curated feed of folks I follow and then work hard not to doomscroll the day away.
+One of my favorite follows is an adorable Corgi (aren’t they all adorable?) named Parsnip.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/15/at-the-mercy-of-social-media/</guid>
+          <link>https://majordigest.com/tech/2024/10/15/at-the-mercy-of-social-media/</link>
+          <pubDate>Tue, 15 Oct 2024 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/15/at-the-mercy-of-social-media.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/15/at-the-mercy-of-social-media.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item></channel></rss>
