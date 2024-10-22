@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/21/rejection-therapy-is-all-the-rage-on-tiktok-dont-bank-on-it-working/</loc>
+          <loc>https://majordigest.com/tech/2024/10/22/flying-air-taxis-move-closer-to-us-takeoff-with-issuing-of-faa-rule/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-21T22:12:43.000Z</news:publication_date>
-            <news:title>TikTok Trend Seeks Out Rejection with "Rejection Therapy" - A Journalistic Analysis</news:title>
+            <news:publication_date>2024-10-22T18:19:30.000Z</news:publication_date>
+            <news:title>Federal Regulators Give Boost to Electric-Powered Air Taxis</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/21/rejection-therapy-is-all-the-rage-on-tiktok-dont-bank-on-it-working.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/22/flying-air-taxis-move-closer-to-us-takeoff-with-issuing-of-faa-rule.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/21/philanthropy-gofundme-meta/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-21T19:58:59.000Z</news:publication_date>
+            <news:title>New GoFundMe Tools to Streamline Donations and Connect with Younger Generations</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/21/philanthropy-gofundme-meta.webp</image:loc>
           </image:image>
         </url></urlset>
