@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/21/one-of-the-worlds-largest-book-publishers-adds-ai-warnings-to-its-books/</loc>
+          <loc>https://majordigest.com/tech/2024/10/22/meta-ai-model-self-taught-evaluator/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-21T17:51:29.000Z</news:publication_date>
-            <news:title>Penguin Random House's AI Warning: A New Chapter in Copyright Concerns</news:title>
+            <news:publication_date>2024-10-22T03:30:00.000Z</news:publication_date>
+            <news:title>Meta Releases AI Models with Self-Taught Evaluator for Autonomous Learning</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/21/one-of-the-worlds-largest-book-publishers-adds-ai-warnings-to-its-books.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/22/meta-ai-model-self-taught-evaluator.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/21/arkansas-19-million-tons-lithium-battery-power/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-21T23:22:48.000Z</news:publication_date>
+            <news:title>Arkansas Lithium Discovery: A Game-Changer for the Energy Transition?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/21/arkansas-19-million-tons-lithium-battery-power.webp</image:loc>
           </image:image>
         </url></urlset>
