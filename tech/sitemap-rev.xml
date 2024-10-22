@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/16/survey-71-of-women-in-it-work-long-hours-to-climb-ladder/</loc>
+          <loc>https://majordigest.com/tech/2024/10/21/ftcs-rule-banning-fake-online-reviews-goes-into-effect/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-16T19:25:05.000Z</news:publication_date>
-            <news:title>The Dark Side of Tech: Women in IT Struggle with Gender Bias and Discrimination</news:title>
+            <news:publication_date>2024-10-21T23:45:08.000Z</news:publication_date>
+            <news:title>Federal Rule Bans Fake Online Reviews: FTC Cracks Down on Marketplace Manipulation</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/16/survey-71-of-women-in-it-work-long-hours-to-climb-ladder.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/21/ftcs-rule-banning-fake-online-reviews-goes-into-effect.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/21/built-by-one-of-their-own-tradezella-lets-day-traders-track-and-plan-transactions/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-21T16:00:00.000Z</news:publication_date>
+            <news:title>TradeZella Revolutionizes Day Trading with Advanced Software</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/21/built-by-one-of-their-own-tradezella-lets-day-traders-track-and-plan-transactions.webp</image:loc>
           </image:image>
         </url></urlset>
