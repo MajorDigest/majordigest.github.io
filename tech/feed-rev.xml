@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 23 Oct 2024 21:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 21:51:00 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,24 +19,13 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>US Banks Face New Open Banking Rule: A Boost to Competition and Consumer Power</title>
-          <description><![CDATA[The Consumer Financial Protection Bureau finalizes a rule that will give consumers access to their financial data, aiming to fuel competition and improve services for loans and credit cards.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/23/open-banking-era-consumer-data-sharing/</guid>
-          <link>https://majordigest.com/tech/2024/10/23/open-banking-era-consumer-data-sharing/</link>
-          <pubDate>Wed, 23 Oct 2024 17:42:42 GMT</pubDate>
+          <title>The Shift to API-First Thinking: 2024 State of the API Report Reveals Key Trends</title>
+          <description><![CDATA[API-first thinking becomes mainstream as developers prioritize API design, integration, and efficiency.]]></description>
+          <guid>https://majordigest.com/tech/2024/10/23/developers-embracing-api-first-development-survey-says/</guid>
+          <link>https://majordigest.com/tech/2024/10/23/developers-embracing-api-first-development-survey-says/</link>
+          <pubDate>Wed, 23 Oct 2024 00:26:48 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/23/open-banking-era-consumer-data-sharing.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/23/open-banking-era-consumer-data-sharing.webp"/>
-          <dc:creator>Major Digest</dc:creator>
-        </item>
-        <item>
-          <title>xAI Unveils API Service for Grok Models: A New Path in Generative AI</title>
-          <description><![CDATA[xAI, a generative AI venture backed by Elon Musk, has launched an API service for its Grok models. This move is aimed at competing with OpenAI and providing developers with access to large language models.]]></description>
-          <guid>https://majordigest.com/tech/2024/10/22/musks-xai-unveils-a-new-api-service-for-grok-models/</guid>
-          <link>https://majordigest.com/tech/2024/10/22/musks-xai-unveils-a-new-api-service-for-grok-models/</link>
-          <pubDate>Tue, 22 Oct 2024 09:16:06 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/22/musks-xai-unveils-a-new-api-service-for-grok-models.webp"/>
-          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/22/musks-xai-unveils-a-new-api-service-for-grok-models.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static10/tech/2024/10/23/developers-embracing-api-first-development-survey-says.webp"/>
+          <media:thumbnail url="https://majordigest.com/static10/tech/2024/10/23/developers-embracing-api-first-development-survey-says.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
