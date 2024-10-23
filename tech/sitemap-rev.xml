@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/23/samsung-health-just-got-one-of-myfitnesspals-best-features/</loc>
+          <loc>https://majordigest.com/tech/2024/10/23/shadow-ai-isnt-going-anywhere-so-businesses-should-just-give-in/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-23T09:47:32.000Z</news:publication_date>
-            <news:title>Samsung Enhances Health App with New Features for Users</news:title>
+            <news:publication_date>2024-10-23T11:01:00.000Z</news:publication_date>
+            <news:title>Shadow AI: Employees Admit to Using Unsanctioned AI Tools Despite Security Risks</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/23/samsung-health-just-got-one-of-myfitnesspals-best-features.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/23/shadow-ai-isnt-going-anywhere-so-businesses-should-just-give-in.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/22/meta-zuckerberg-trump-musk-bezos-kim-kardashian-taylor-swift-jet-tracking-accounts/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-22T21:13:40.000Z</news:publication_date>
+            <news:title>The Meta Dilemma: Tracking the Movements of the Rich and Famous</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/22/meta-zuckerberg-trump-musk-bezos-kim-kardashian-taylor-swift-jet-tracking-accounts.webp</image:loc>
           </image:image>
         </url></urlset>
