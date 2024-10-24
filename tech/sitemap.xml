@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/10/24/cisa-jen-easterly-election-balancing-act/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-24T17:00:00.000Z</news:publication_date>
+            <news:title>This agency is tasked with protecting elections from cyber attacks. If Trump wins, it could be in danger</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/24/cisa-jen-easterly-election-balancing-act.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/10/24/ios-18-1-will-fix-a-bug-that-made-it-harder-to-free-up-iphone-storage/</loc>
           <news:news>
             <news:publication>
@@ -10,38 +24,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-10-24T16:11:00.000Z</news:publication_date>
-            <news:title>iOS 18.1 will fix a bug that made it harder to free up iPhone storage</news:title>
+            <news:title>iPhone Storage Management: Apple Restores Vital Video Review Feature</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/24/ios-18-1-will-fix-a-bug-that-made-it-harder-to-free-up-iphone-storage.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/24/ai-is-now-a-crucial-tool-in-trumps-image-management-arsenal/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-24T16:00:00.000Z</news:publication_date>
-            <news:title>AI is now a crucial tool in Trump&#8217;s image-management arsenal</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/24/ai-is-now-a-crucial-tool-in-trumps-image-management-arsenal.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/24/5-lesser-known-ios-18-2-tricks-that-are-coming-to-your-iphone-and-how-try-them/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-24T10:26:36.000Z</news:publication_date>
-            <news:title>5 lesser-known iOS 18.2 tricks that are coming to your iPhone &#8211; and how try them</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/24/5-lesser-known-ios-18-2-tricks-that-are-coming-to-your-iphone-and-how-try-them.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -59,115 +45,171 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/24/many-uk-workers-still-arent-using-ai-at-work/</loc>
+          <loc>https://majordigest.com/tech/2024/10/24/how-the-eu-is-getting-the-most-out-of-emerging-tech/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-24T10:02:00.000Z</news:publication_date>
-            <news:title>Many UK workers still aren't using AI at work</news:title>
+            <news:publication_date>2024-10-24T10:00:00.000Z</news:publication_date>
+            <news:title>How the EU is getting the most out of emerging tech</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/24/many-uk-workers-still-arent-using-ai-at-work.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/24/how-the-eu-is-getting-the-most-out-of-emerging-tech.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/24/how-check-your-heartbeat-ekg-app-your-apple-watch/</loc>
+          <loc>https://majordigest.com/tech/2024/10/24/biden-administration-urges-us-agencies-to-harness-ai-systems-for-national-security/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-24T10:00:19.000Z</news:publication_date>
-            <news:title>How to check your heartbeat with ECG app on your Apple Watch</news:title>
+            <news:publication_date>2024-10-24T10:00:00.000Z</news:publication_date>
+            <news:title>Biden administration urges US agencies to &#8216;harness&#8217; AI systems for national security</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/24/how-check-your-heartbeat-ekg-app-your-apple-watch.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/24/biden-administration-urges-us-agencies-to-harness-ai-systems-for-national-security.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/24/georgia-candidates-target-of-cyberattacks/</loc>
+          <loc>https://majordigest.com/tech/2024/10/24/2025-the-year-of-the-ai-pc/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-24T01:32:30.000Z</news:publication_date>
-            <news:title>Georgia's Website Survives Cyberattack: Sustained Foreign Efforts to Undermine US Elections</news:title>
+            <news:publication_date>2024-10-24T10:00:00.000Z</news:publication_date>
+            <news:title>2025: The year of the AI PC</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/24/georgia-candidates-target-of-cyberattacks.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/24/2025-the-year-of-the-ai-pc.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/23/gartner-13-ai-insights-for-enterprise-it/</loc>
+          <loc>https://majordigest.com/tech/2024/10/24/nvidia-to-power-indias-ai-factories-with-tens-of-thousands-of-ai-chips/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-23T19:38:00.000Z</news:publication_date>
-            <news:title>Gartner IT Symposium/Xpo 2024: Top Takeaways on Artificial Intelligence</news:title>
+            <news:publication_date>2024-10-24T08:00:26.000Z</news:publication_date>
+            <news:title>Nvidia's AI Push in India: A New Era for Domestic Tech and IT Services Sector</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/23/gartner-13-ai-insights-for-enterprise-it.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/24/nvidia-to-power-indias-ai-factories-with-tens-of-thousands-of-ai-chips.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/23/set-up-your-smart-speaker-emergencies/</loc>
+          <loc>https://majordigest.com/tech/2024/10/23/meta-oversight-board-seriously-concerned-facebooks-overenforcement-harris-walz-nipple-post/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-23T18:18:57.000Z</news:publication_date>
-            <news:title>Set up your smart speaker for emergencies</news:title>
+            <news:publication_date>2024-10-23T19:54:52.000Z</news:publication_date>
+            <news:title>Meta Oversight Board seriously concerned about Facebook&#8217;s &#8216;overenforcement&#8217; of Harris-Walz nipple post</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/23/set-up-your-smart-speaker-emergencies.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/23/meta-oversight-board-seriously-concerned-facebooks-overenforcement-harris-walz-nipple-post.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/23/why-enterprises-should-care-more-about-net-neutrality/</loc>
+          <loc>https://majordigest.com/tech/2024/10/23/two-new-hhs-programs-to-help-with-complicated-health-challenges/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-23T17:01:23.000Z</news:publication_date>
-            <news:title>Why enterprises should care more about net neutrality</news:title>
+            <news:publication_date>2024-10-23T19:40:09.000Z</news:publication_date>
+            <news:title>Two new HHS programs to help with complicated health challenges</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/23/why-enterprises-should-care-more-about-net-neutrality.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/23/two-new-hhs-programs-to-help-with-complicated-health-challenges.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/23/the-power-of-prime-numbers-in-computing/</loc>
+          <loc>https://majordigest.com/tech/2024/10/23/syncfusion-open-sources-ui-controls-for-net-maui/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-23T09:00:00.000Z</news:publication_date>
-            <news:title>The power of prime numbers in computing</news:title>
+            <news:publication_date>2024-10-23T18:57:16.000Z</news:publication_date>
+            <news:title>Syncfusion open-sources UI controls for .NET MAUI</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/23/the-power-of-prime-numbers-in-computing.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/23/syncfusion-open-sources-ui-controls-for-net-maui.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/22/abba-radiohead-and-the-cure-musicians-sign-ai-protest-letter-against-unlicensed-use-of-works/</loc>
+          <loc>https://majordigest.com/tech/2024/10/23/one-tech-tip-how-to-prepare-your-online-accounts-in-case-you-die/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-22T21:05:14.000Z</news:publication_date>
-            <news:title>ABBA, Radiohead and The Cure musicians sign AI protest letter against 'unlicensed use' of works</news:title>
+            <news:publication_date>2024-10-23T16:49:18.000Z</news:publication_date>
+            <news:title>One Tech Tip: How to prepare your online accounts in case you die</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/22/abba-radiohead-and-the-cure-musicians-sign-ai-protest-letter-against-unlicensed-use-of-works.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/23/one-tech-tip-how-to-prepare-your-online-accounts-in-case-you-die.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/23/deception-democracy-beware-most-common-types-election-related-scams/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-23T14:00:44.000Z</news:publication_date>
+            <news:title>Deception in democracy: Beware the most common types of election-related scams</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/23/deception-democracy-beware-most-common-types-election-related-scams.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/23/as-coal-plants-shut-in-romania-some-miners-transition-to-green-energy-while-others-are-reluctant/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-23T13:58:02.000Z</news:publication_date>
+            <news:title>As coal plants shut in Romania, some miners transition to green energy while others are reluctant</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/23/as-coal-plants-shut-in-romania-some-miners-transition-to-green-energy-while-others-are-reluctant.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/23/capacities-app-notion-alternative-note-taking/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-23T11:30:00.000Z</news:publication_date>
+            <news:title>Meet Capacities, the do-it-all productivity app taking on Notion</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/23/capacities-app-notion-alternative-note-taking.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/22/jdk-24-the-new-features-in-java-24/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-22T21:28:42.000Z</news:publication_date>
+            <news:title>JDK 24: The new features in Java 24</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/22/jdk-24-the-new-features-in-java-24.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -199,6 +241,48 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/10/22/ibm-launches-platform-to-protect-data-from-ai-and-quantum-risks/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-22T19:32:14.000Z</news:publication_date>
+            <news:title>IBM launches platform to protect data from AI and quantum risks</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/22/ibm-launches-platform-to-protect-data-from-ai-and-quantum-risks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/22/asana-launches-ai-studio-a-no-code-tool-for-building-ai-agents/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-22T19:12:47.000Z</news:publication_date>
+            <news:title>Asana launches AI Studio, a no-code tool for building AI agents</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/22/asana-launches-ai-studio-a-no-code-tool-for-building-ai-agents.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/22/openai-hires-first-chief-economist/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-22T18:36:18.000Z</news:publication_date>
+            <news:title>OpenAI hires first chief economist</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/22/openai-hires-first-chief-economist.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/10/22/the-ipad-mini-is-still-the-best-small-tablet-around/</loc>
           <news:news>
             <news:publication>
@@ -213,59 +297,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/22/intel-amd-forge-x86-alliance/</loc>
+          <loc>https://majordigest.com/tech/2024/10/22/elon-musk-says-hell-fix-the-government-under-trump-his-track-record-paints-a-different-picture/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-22T14:01:35.000Z</news:publication_date>
-            <news:title>Intel, AMD forge x86 alliance</news:title>
+            <news:publication_date>2024-10-22T14:38:16.000Z</news:publication_date>
+            <news:title>Elon Musk says he&#8217;ll fix the government under Trump. His track record paints a different picture</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/22/intel-amd-forge-x86-alliance.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/22/elon-musk-says-hell-fix-the-government-under-trump-his-track-record-paints-a-different-picture.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/22/vertiv-and-nvidia-define-liquid-cooling-reference-architecture/</loc>
+          <loc>https://majordigest.com/tech/2024/10/22/news-corp-wall-street-journal-ny-post-perplexity-lawsuit/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-22T13:41:41.000Z</news:publication_date>
-            <news:title>Vertiv and Nvidia define liquid cooling reference architecture</news:title>
+            <news:publication_date>2024-10-22T13:37:41.000Z</news:publication_date>
+            <news:title>Wall Street Journal, New York Post sue AI startup</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/22/vertiv-and-nvidia-define-liquid-cooling-reference-architecture.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/22/news-corp-wall-street-journal-ny-post-perplexity-lawsuit.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/21/biden-administration-to-provide-325-million-for-new-michigan-semiconductor-factory/</loc>
+          <loc>https://majordigest.com/tech/2024/10/21/ftcs-rule-banning-fake-online-reviews-goes-into-effect/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-21T17:16:56.000Z</news:publication_date>
-            <news:title>Biden administration to provide $325 million for new Michigan semiconductor factory</news:title>
+            <news:publication_date>2024-10-21T23:45:08.000Z</news:publication_date>
+            <news:title>FTC's rule banning fake online reviews goes into effect</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/21/biden-administration-to-provide-325-million-for-new-michigan-semiconductor-factory.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/21/gofundme-bets-social-media-can-unlock-gen-z-giving-a-meta-partnership-and-new-tools-will-test-that/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-21T13:01:14.000Z</news:publication_date>
-            <news:title>GoFundMe bets social media can unlock Gen Z giving. Meta partnership, new tools will test that</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/21/gofundme-bets-social-media-can-unlock-gen-z-giving-a-meta-partnership-and-new-tools-will-test-that.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/21/ftcs-rule-banning-fake-online-reviews-goes-into-effect.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -283,17 +353,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/10/18/ai-stagnation-the-gap-between-ai-investment-and-ai-adoption/</loc>
+          <loc>https://majordigest.com/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-18T09:00:00.000Z</news:publication_date>
-            <news:title>AI stagnation: The gap between AI investment and AI adoption</news:title>
+            <news:publication_date>2024-10-18T22:06:09.000Z</news:publication_date>
+            <news:title>US to probe Tesla's 'Full Self-Driving' system after pedestrian killed in low visibility conditions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/18/ai-stagnation-the-gap-between-ai-investment-and-ai-adoption.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/us-to-probe-teslas-full-self-driving-system-after-pedestrian-killed-in-low-visibility-conditions.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/18/dod-fine-tunes-final-cmmc-program-rule-industry-turns-attention-to-implementation/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-18T20:59:39.000Z</news:publication_date>
+            <news:title>DoD &#8216;fine tunes&#8217; final CMMC program rule, industry turns attention to implementation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/dod-fine-tunes-final-cmmc-program-rule-industry-turns-attention-to-implementation.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/18/trump-family-will-get-75-of-crypto-token-revenue/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-18T13:00:26.000Z</news:publication_date>
+            <news:title>Trump family will get 75% of crypto token revenue</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/18/trump-family-will-get-75-of-crypto-token-revenue.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -308,33 +406,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static10/tech/2024/10/17/alabama-man-arrested-in-sec-social-media-account-hack-that-led-the-price-of-bitcoin-to-spike.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/17/hpe-dell-launch-another-round-of-ai-servers/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-17T19:14:29.000Z</news:publication_date>
-            <news:title>HPE, Dell launch another round of AI servers</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/17/hpe-dell-launch-another-round-of-ai-servers.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/10/17/rashida-tlaib-kroger-facial-recognition/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-10-17T13:01:07.000Z</news:publication_date>
-            <news:title>Rep. Tlaib calls out Kroger for facial recognition practices</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/17/rashida-tlaib-kroger-facial-recognition.webp</image:loc>
           </image:image>
         </url></urlset>
