@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/10/22/vertiv-and-nvidia-define-liquid-cooling-reference-architecture/</loc>
+          <loc>https://majordigest.com/tech/2024/10/24/georgia-candidates-target-of-cyberattacks/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-10-22T13:41:41.000Z</news:publication_date>
-            <news:title>Nvidia Partners with Vertiv to Revolutionize Data Center Cooling</news:title>
+            <news:publication_date>2024-10-24T01:32:30.000Z</news:publication_date>
+            <news:title>Georgia's Website Survives Cyberattack: Sustained Foreign Efforts to Undermine US Elections</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static10/tech/2024/10/22/vertiv-and-nvidia-define-liquid-cooling-reference-architecture.webp</image:loc>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/24/georgia-candidates-target-of-cyberattacks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/10/23/gartner-13-ai-insights-for-enterprise-it/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-10-23T19:38:00.000Z</news:publication_date>
+            <news:title>Gartner IT Symposium/Xpo 2024: Top Takeaways on Artificial Intelligence</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static10/tech/2024/10/23/gartner-13-ai-insights-for-enterprise-it.webp</image:loc>
           </image:image>
         </url></urlset>
