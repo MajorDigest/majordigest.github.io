@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Mon, 18 Nov 2024 11:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 13:18:32 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,126 +19,116 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>The dirty little secret of open source contributions</title>
-          <description><![CDATA[“Nobody cares if you contribute.” That’s what a Postgres friend said to me during lunch at KubeCon when I suggested that hiring Postgres contributors could be a selling point for customers.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/18/the-dirty-little-secret-of-open-source-contributions/</guid>
-          <link>https://majordigest.com/tech/2024/11/18/the-dirty-little-secret-of-open-source-contributions/</link>
+          <title>How does Elon Musk define &#8216;efficiency&#8217;? We asked his former employees</title>
+          <description><![CDATA[Elon Musk has big plans for his new Department of Government Efficiency (DOGE) once Donald Trump takes the White House in January. Prior to the election, the Tesla CEO said he would help cut $2 trillion from the federal budget.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/18/how-does-elon-musk-define-efficiency-we-asked-his-former-employees/</guid>
+          <link>https://majordigest.com/tech/2024/11/18/how-does-elon-musk-define-efficiency-we-asked-his-former-employees/</link>
+          <pubDate>Mon, 18 Nov 2024 19:07:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/18/how-does-elon-musk-define-efficiency-we-asked-his-former-employees.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/18/how-does-elon-musk-define-efficiency-we-asked-his-former-employees.webp"/>
+          <dc:creator>Chris Stokel-Walker, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Spin 3.0 supports polyglot development using Wasm components</title>
+          <description><![CDATA[Fermyon has released Spin 3.0, a major update to its open source developer tool for building serverless WebAssembly applications. The new release introduces  polyglot programming to ease development.
+The update to Fermyon’s Spin framework was introduced November 11.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/18/spin-3-0-supports-polyglot-development-using-wasm-components/</guid>
+          <link>https://majordigest.com/tech/2024/11/18/spin-3-0-supports-polyglot-development-using-wasm-components/</link>
           <pubDate>Mon, 18 Nov 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/18/the-dirty-little-secret-of-open-source-contributions.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/18/the-dirty-little-secret-of-open-source-contributions.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/18/spin-3-0-supports-polyglot-development-using-wasm-components.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/18/spin-3-0-supports-polyglot-development-using-wasm-components.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>After iPhone and iMac, Apple may be courting Foxconn to build AI servers based on its M-series CPU to accelerate Apple Intelligence potential</title>
-          <description><![CDATA[Apple "courting" Foxconn to build AI servers based on its M-series CPU to accelerate Apple Intelligence potential.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/17/after-iphone-and-imac-apple-may-be-courting-foxconn-to-build-ai-servers-based-on-its-m-series-cpu-to-accelerate-apple-intelligence-potential/</guid>
-          <link>https://majordigest.com/tech/2024/11/17/after-iphone-and-imac-apple-may-be-courting-foxconn-to-build-ai-servers-based-on-its-m-series-cpu-to-accelerate-apple-intelligence-potential/</link>
-          <pubDate>Sun, 17 Nov 2024 18:31:00 GMT</pubDate>
+          <title>Designing the APIs that accidentally power businesses</title>
+          <description><![CDATA[In the last decade, every web application developer has become an API designer. But most organizations do not think of developers as API designers, nor do they think about APIs as a product of design — to the detriment of their developers’ productivity.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/18/designing-the-apis-that-accidentally-power-businesses/</guid>
+          <link>https://majordigest.com/tech/2024/11/18/designing-the-apis-that-accidentally-power-businesses/</link>
+          <pubDate>Mon, 18 Nov 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/17/after-iphone-and-imac-apple-may-be-courting-foxconn-to-build-ai-servers-based-on-its-m-series-cpu-to-accelerate-apple-intelligence-potential.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/17/after-iphone-and-imac-apple-may-be-courting-foxconn-to-build-ai-servers-based-on-its-m-series-cpu-to-accelerate-apple-intelligence-potential.webp"/>
-          <dc:creator>waynewilliams@onmail.com (Wayne Williams), TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/18/designing-the-apis-that-accidentally-power-businesses.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/18/designing-the-apis-that-accidentally-power-businesses.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>New Chinese humanoid robot shows off its strength by lifting 35 pounds per hand</title>
-          <description><![CDATA[China&apos;s Shanghai Kepler Robotics has developed a new humanoid robot that can carry up to 35 pounds per hand for commercial applications across various industries]]></description>
-          <guid>https://majordigest.com/tech/2024/11/17/new-chinese-humanoid-robot-shows-off-its-strength-lifting-35-pounds-per-hand/</guid>
-          <link>https://majordigest.com/tech/2024/11/17/new-chinese-humanoid-robot-shows-off-its-strength-lifting-35-pounds-per-hand/</link>
-          <pubDate>Sun, 17 Nov 2024 11:00:42 GMT</pubDate>
+          <title>Democrats are missing the point on Joe Rogan</title>
+          <description><![CDATA[The weeks after an election are open season for pet political theories. An electorate as massive and sprawling as America’s will never swing on just one thing. But that’s no fun to admit. So why not share your one thing—you can be as right as anyone else.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/17/democrats-are-missing-the-point-on-joe-rogan/</guid>
+          <link>https://majordigest.com/tech/2024/11/17/democrats-are-missing-the-point-on-joe-rogan/</link>
+          <pubDate>Sun, 17 Nov 2024 18:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/17/new-chinese-humanoid-robot-shows-off-its-strength-lifting-35-pounds-per-hand.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/17/new-chinese-humanoid-robot-shows-off-its-strength-lifting-35-pounds-per-hand.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/17/democrats-are-missing-the-point-on-joe-rogan.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/17/democrats-are-missing-the-point-on-joe-rogan.webp"/>
+          <dc:creator>Joseph Bien-Kahn, Fast Company</dc:creator>
         </item>
         <item>
-          <title>The Onion CEO explains Infowars purchase amid Alex Jones's claims about auction</title>
-          <description><![CDATA[The Onion CEO Ben Collins confirmed that the publication purchased Alex Jones’s Infowars outlet in a Saturday series of posts on the social media platform Bluesky amid Jones's claims of wrongdoing and illegal activity.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/17/the-onion-ceo-explains-infowars-purchase-amid-alex-joness-claims-about-auction/</guid>
-          <link>https://majordigest.com/tech/2024/11/17/the-onion-ceo-explains-infowars-purchase-amid-alex-joness-claims-about-auction/</link>
-          <pubDate>Sun, 17 Nov 2024 03:40:20 GMT</pubDate>
+          <title>New framework aims to keep AI safe in US critical infrastructure</title>
+          <description><![CDATA[Analyst reaction to Thursday’s release by the US Department of Homeland Security (DHS) of a framework designed to ensure safe and secure deployment of AI in critical infrastructure is decidedly mixed.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/16/new-framework-aims-to-keep-ai-safe-in-us-critical-infrastructure/</guid>
+          <link>https://majordigest.com/tech/2024/11/16/new-framework-aims-to-keep-ai-safe-in-us-critical-infrastructure/</link>
+          <pubDate>Sat, 16 Nov 2024 06:16:31 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/17/the-onion-ceo-explains-infowars-purchase-amid-alex-joness-claims-about-auction.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/17/the-onion-ceo-explains-infowars-purchase-amid-alex-joness-claims-about-auction.webp"/>
-          <dc:creator>Ashleigh Fields, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/16/new-framework-aims-to-keep-ai-safe-in-us-critical-infrastructure.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/16/new-framework-aims-to-keep-ai-safe-in-us-critical-infrastructure.webp"/>
+          <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>EU fines Meta over $840 million for &#8216;abusive practices&#8217; favoring Facebook Marketplace</title>
-          <description><![CDATA[Meta received a fine of over $840 million on Wednesday for breaching the European Union’s antitrust rules as it relates to market domination after three years of legal proceedings.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/16/eu-fines-meta-840-million/</guid>
-          <link>https://majordigest.com/tech/2024/11/16/eu-fines-meta-840-million/</link>
-          <pubDate>Sat, 16 Nov 2024 21:08:41 GMT</pubDate>
+          <title>T-Mobile hacked in massive Chinese cyber-espionage: Wall St. Journal</title>
+          <description><![CDATA[It was part of a campaign to spy on the phones of high-value intelligence targets, the Journal reports.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/16/t-mobile-hacked-chinese-cyber-espionage/</guid>
+          <link>https://majordigest.com/tech/2024/11/16/t-mobile-hacked-chinese-cyber-espionage/</link>
+          <pubDate>Sat, 16 Nov 2024 01:34:32 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/16/eu-fines-meta-840-million.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/16/eu-fines-meta-840-million.webp"/>
-          <dc:creator>Ashleigh Fields, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/16/t-mobile-hacked-chinese-cyber-espionage.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/16/t-mobile-hacked-chinese-cyber-espionage.webp"/>
+          <dc:creator>NewsNation</dc:creator>
         </item>
         <item>
-          <title>Apple&#8217;s AirPods Pro 2 makes hearing tests as easy as a few taps</title>
-          <description><![CDATA[Checking your hearing has gotten easier with the new hearing test feature in AirPods Pro 2. You can take reliable hearing tests using your iPhone or iPad.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/16/apples-airpods-pro-2-makes-hearing-tests-easy-few-taps/</guid>
-          <link>https://majordigest.com/tech/2024/11/16/apples-airpods-pro-2-makes-hearing-tests-easy-few-taps/</link>
-          <pubDate>Sat, 16 Nov 2024 15:00:00 GMT</pubDate>
+          <title>AI, cybersecurity drive IT investments and lead skill shortages for 2025</title>
+          <description><![CDATA[AI and cybersecurity are driving enterprise tech investments and at the same time exposing the talent gaps that IT teams face.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/15/ai-cybersecurity-drive-it-investments-and-lead-skill-shortages-for-2025/</guid>
+          <link>https://majordigest.com/tech/2024/11/15/ai-cybersecurity-drive-it-investments-and-lead-skill-shortages-for-2025/</link>
+          <pubDate>Fri, 15 Nov 2024 20:47:11 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/16/apples-airpods-pro-2-makes-hearing-tests-easy-few-taps.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/16/apples-airpods-pro-2-makes-hearing-tests-easy-few-taps.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/15/ai-cybersecurity-drive-it-investments-and-lead-skill-shortages-for-2025.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/15/ai-cybersecurity-drive-it-investments-and-lead-skill-shortages-for-2025.webp"/>
+          <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>How to make your VPN faster</title>
-          <description><![CDATA[Kurt &quot;CyberGuy&quot; Knutsson explains how a VPN — virtual private network — works and how running it can slow down the operation of your device.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/16/how-make-your-vpn-faster/</guid>
-          <link>https://majordigest.com/tech/2024/11/16/how-make-your-vpn-faster/</link>
-          <pubDate>Sat, 16 Nov 2024 11:00:52 GMT</pubDate>
+          <title>Strategies to navigate the pitfalls of cloud costs</title>
+          <description><![CDATA[In my line of work, I often hear CIOs and CFOs say, “Cloud providers are bleeding us dry.” As ever-increasing cloud bills roll in, they’re demanding answers about what they’re paying for and why they’re paying so much.
+Public cloud providers are eager to oppose this line of questioning.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/15/strategies-to-navigate-the-pitfalls-of-cloud-costs/</guid>
+          <link>https://majordigest.com/tech/2024/11/15/strategies-to-navigate-the-pitfalls-of-cloud-costs/</link>
+          <pubDate>Fri, 15 Nov 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/16/how-make-your-vpn-faster.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/16/how-make-your-vpn-faster.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/15/strategies-to-navigate-the-pitfalls-of-cloud-costs.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/15/strategies-to-navigate-the-pitfalls-of-cloud-costs.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Democratic senators call for federal probe into Musk's contact with Russia</title>
-          <description><![CDATA[A pair of Democratic senators called for a federal investigation into Elon Musk’s involvement in SpaceX’s federal contracts following reports the tech billionaire has been in regular contact with Russian President Vladimir Putin.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/15/musk-federal-contracts-russia-reed-shaheen-probe/</guid>
-          <link>https://majordigest.com/tech/2024/11/15/musk-federal-contracts-russia-reed-shaheen-probe/</link>
-          <pubDate>Fri, 15 Nov 2024 21:26:30 GMT</pubDate>
+          <title>Man who stole and laundered roughly $1B in bitcoin is sentenced to 5 years in prison</title>
+          <description><![CDATA[A computer expert who stole bitcoin worth billions of dollars at current prices — and then spent years laundering some of the hacked cryptocurrency with help from his wife — has been sentenced to five years in prison.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/14/man-who-stole-and-laundered-roughly-1b-in-bitcoin-is-sentenced-to-5-years-in-prison/</guid>
+          <link>https://majordigest.com/tech/2024/11/14/man-who-stole-and-laundered-roughly-1b-in-bitcoin-is-sentenced-to-5-years-in-prison/</link>
+          <pubDate>Thu, 14 Nov 2024 21:57:53 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/15/musk-federal-contracts-russia-reed-shaheen-probe.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/15/musk-federal-contracts-russia-reed-shaheen-probe.webp"/>
-          <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/14/man-who-stole-and-laundered-roughly-1b-in-bitcoin-is-sentenced-to-5-years-in-prison.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/14/man-who-stole-and-laundered-roughly-1b-in-bitcoin-is-sentenced-to-5-years-in-prison.webp"/>
+          <dc:creator>Michael Kunzelman, Associated Press, KPRC 2</dc:creator>
         </item>
         <item>
-          <title>For truly intelligent AI, we need to mimic the brain&#8217;s sensorimotor principles</title>
-          <description><![CDATA[In a recent essay by Sam Altman, titled “The Intelligence Age,” he paints a picture for the future of AI. He states that with AI, “fixing the climate, establishing a space colony, and the discovery of all of physics—will eventually become commonplace.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/15/for-truly-intelligent-ai-we-need-to-mimic-the-brains-sensorimotor-principles/</guid>
-          <link>https://majordigest.com/tech/2024/11/15/for-truly-intelligent-ai-we-need-to-mimic-the-brains-sensorimotor-principles/</link>
-          <pubDate>Fri, 15 Nov 2024 18:09:00 GMT</pubDate>
+          <title>Rust Foundation moves forward on C++ and Rust interoperability</title>
+          <description><![CDATA[The Rust Foundation, which stewards development of the Rust language, has released a statement addressing challenges and opportunities for interoperability between Rust and C++, with the intent of making cross-language development more accessible and approachable.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/14/rust-foundation-moves-forward-on-c-and-rust-interoperability/</guid>
+          <link>https://majordigest.com/tech/2024/11/14/rust-foundation-moves-forward-on-c-and-rust-interoperability/</link>
+          <pubDate>Thu, 14 Nov 2024 21:18:30 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/15/for-truly-intelligent-ai-we-need-to-mimic-the-brains-sensorimotor-principles.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/15/for-truly-intelligent-ai-we-need-to-mimic-the-brains-sensorimotor-principles.webp"/>
-          <dc:creator>Jeff Hawkins, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>China hacked U.S. telecommunications networks, FBI and CISA say</title>
-          <description><![CDATA[A federal investigation into Chinese government efforts to hack into U.S. telecommunications networks has revealed a “broad and significant” cyberespionage campaign aimed at stealing information from Americans who work in government and politics, the FBI said Wednesday.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/15/china-hacked-us-telecommunications-networks-spying-fbi-cisa/</guid>
-          <link>https://majordigest.com/tech/2024/11/15/china-hacked-us-telecommunications-networks-spying-fbi-cisa/</link>
-          <pubDate>Fri, 15 Nov 2024 04:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/15/china-hacked-us-telecommunications-networks-spying-fbi-cisa.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/15/china-hacked-us-telecommunications-networks-spying-fbi-cisa.webp"/>
-          <dc:creator>Associated Press, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>Bluesky goes down as users continue to flee Elon Musk&#8217;s X for the Twitter-like alternative</title>
-          <description><![CDATA[Bluesky, the popular X alternative, appeared to be down or lagging for thousands of users on Thursday morning, according to outage-tracking website Downdetector.
-More than 2,000 users reported issues with the site just before 9 a.m. PST.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/15/bluesky-down-users-flee-elon-musk-x-outage-downdetector/</guid>
-          <link>https://majordigest.com/tech/2024/11/15/bluesky-down-users-flee-elon-musk-x-outage-downdetector/</link>
-          <pubDate>Fri, 15 Nov 2024 02:47:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/15/bluesky-down-users-flee-elon-musk-x-outage-downdetector.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/15/bluesky-down-users-flee-elon-musk-x-outage-downdetector.webp"/>
-          <dc:creator>Jessica Bursztynsky, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/14/rust-foundation-moves-forward-on-c-and-rust-interoperability.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/14/rust-foundation-moves-forward-on-c-and-rust-interoperability.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
           <title>Polymarket at center of political storm after reported FBI raid</title>
@@ -152,59 +142,26 @@ More than 2,000 users reported issues with the site just before 9 a.m. PST.]]></
           <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
         </item>
         <item>
-          <title>Cisco amps up Splunk observability platform</title>
-          <description><![CDATA[As promised, Cisco is making changes to its observability product portfolio to help customers better manage applications across on-premises, hybrid, and multi-cloud environments.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/14/cisco-amps-up-splunk-observability-platform/</guid>
-          <link>https://majordigest.com/tech/2024/11/14/cisco-amps-up-splunk-observability-platform/</link>
-          <pubDate>Thu, 14 Nov 2024 18:22:08 GMT</pubDate>
+          <title>Why that Google Meet error might be a sneaky hacker trick</title>
+          <description><![CDATA[ClickFix, a new scam targeting computer users, is on the rise in the U.S. The scam prompts its targets to click on a link to fix a problem.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/14/why-google-meet-error-might-sneaky-hacker-trick/</guid>
+          <link>https://majordigest.com/tech/2024/11/14/why-google-meet-error-might-sneaky-hacker-trick/</link>
+          <pubDate>Thu, 14 Nov 2024 15:00:32 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/14/cisco-amps-up-splunk-observability-platform.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/14/cisco-amps-up-splunk-observability-platform.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>Apple&#8217;s iPhone partners make plans for US manufacturing</title>
-          <description><![CDATA[In a sign of the times, Apple’s key manufacturing partners are ready to ramp up production in the US should the incoming Trump administration keep its promise to levy painful surcharges on Chinese imports.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/14/apples-iphone-partners-make-plans-for-us-manufacturing/</guid>
-          <link>https://majordigest.com/tech/2024/11/14/apples-iphone-partners-make-plans-for-us-manufacturing/</link>
-          <pubDate>Thu, 14 Nov 2024 18:07:24 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/14/apples-iphone-partners-make-plans-for-us-manufacturing.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/14/apples-iphone-partners-make-plans-for-us-manufacturing.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Homeland Security Department releases framework for using AI in critical infrastructure</title>
-          <description><![CDATA[The Biden administration has released guidelines for using artificial intelligence in the power grid, water system, air travel network and other pieces of critical infrastructure.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/14/homeland-security-department-releases-framework-for-using-ai-in-critical-infrastructure/</guid>
-          <link>https://majordigest.com/tech/2024/11/14/homeland-security-department-releases-framework-for-using-ai-in-critical-infrastructure/</link>
-          <pubDate>Thu, 14 Nov 2024 17:14:58 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/14/homeland-security-department-releases-framework-for-using-ai-in-critical-infrastructure.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/14/homeland-security-department-releases-framework-for-using-ai-in-critical-infrastructure.webp"/>
-          <dc:creator>Josh Boak, Associated Press, KPRC 2</dc:creator>
-        </item>
-        <item>
-          <title>Only 8 monkeys remain free after more than a week outside a South Carolina compound</title>
-          <description><![CDATA[Authorities say Just eight monkeys remain free from the group who broke out of a South Carolina compound that breeds the primates for medical research.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/14/only-8-monkeys-remain-free-after-more-than-a-week-outside-a-south-carolina-compound/</guid>
-          <link>https://majordigest.com/tech/2024/11/14/only-8-monkeys-remain-free-after-more-than-a-week-outside-a-south-carolina-compound/</link>
-          <pubDate>Thu, 14 Nov 2024 14:52:56 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/14/only-8-monkeys-remain-free-after-more-than-a-week-outside-a-south-carolina-compound.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/14/only-8-monkeys-remain-free-after-more-than-a-week-outside-a-south-carolina-compound.webp"/>
-          <dc:creator>Associated Press, Local 4</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/14/why-google-meet-error-might-sneaky-hacker-trick.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/14/why-google-meet-error-might-sneaky-hacker-trick.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
           <title>In Cyprus, Ukrainians learn how to dispose of landmines that kill and maim hundreds</title>
-          <description><![CDATA[NICOSIA, Cyprus (AP) — In a Cypriot National Guard camp, Ukrainians are being trained on how to identify, locate and dispose of landmines and other unexploded munitions that litter huge swaths of their country, killing and maiming hundreds of people, including children.]]></description>
+          <description><![CDATA[In a Cypriot National Guard camp, Ukrainians are being trained on how to identify, locate and dispose of landmines and other unexploded munitions that litter huge swaths of their country, killing and maiming hundreds of people, including children.]]></description>
           <guid>https://majordigest.com/tech/2024/11/14/in-cyprus-ukrainians-learn-how-to-dispose-of-landmines-that-kill-and-maim-hundreds/</guid>
           <link>https://majordigest.com/tech/2024/11/14/in-cyprus-ukrainians-learn-how-to-dispose-of-landmines-that-kill-and-maim-hundreds/</link>
-          <pubDate>Thu, 14 Nov 2024 14:21:08 GMT</pubDate>
+          <pubDate>Thu, 14 Nov 2024 14:21:07 GMT</pubDate>
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/14/in-cyprus-ukrainians-learn-how-to-dispose-of-landmines-that-kill-and-maim-hundreds.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/14/in-cyprus-ukrainians-learn-how-to-dispose-of-landmines-that-kill-and-maim-hundreds.webp"/>
-          <dc:creator>MENELAOS HADJICOSTIS, Associated Press, Fox 5</dc:creator>
+          <dc:creator>Menelaos Hadjicostis, Associated Press, Local 4</dc:creator>
         </item>
         <item>
           <title>One Tech Tip: Replacing passwords with passkeys for an easier login experience</title>
@@ -215,62 +172,40 @@ More than 2,000 users reported issues with the site just before 9 a.m. PST.]]></
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/14/one-tech-tip-replacing-passwords-with-passkeys-for-an-easier-login-experience.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/14/one-tech-tip-replacing-passwords-with-passkeys-for-an-easier-login-experience.webp"/>
-          <dc:creator>KELVIN CHAN, Associated Press, Fox 5</dc:creator>
+          <dc:creator>KELVIN CHAN, Associated Press, KRON4</dc:creator>
         </item>
         <item>
-          <title>Understanding Hyperlight, Microsoft&#8217;s minimal VM manager</title>
-          <description><![CDATA[Virtualization seemed to be one of those technologies that was done. With Hyper-V, VMware, and KVM all offering similar features and performance, all that was left to do was to support new chipset instructions and fix bugs.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/14/understanding-hyperlight-microsofts-minimal-vm-manager/</guid>
-          <link>https://majordigest.com/tech/2024/11/14/understanding-hyperlight-microsofts-minimal-vm-manager/</link>
-          <pubDate>Thu, 14 Nov 2024 09:00:00 GMT</pubDate>
+          <title>Solar-powered aircraft achieves groundbreaking 22-hour autonomous flight</title>
+          <description><![CDATA[Skydweller is the world&apos;s largest unmanned solar-powered aircraft that can stay airborne for weeks, and even months, without refueling.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/14/solar-powered-aircraft-achieves-groundbreaking-22-hour-autonomous-flight/</guid>
+          <link>https://majordigest.com/tech/2024/11/14/solar-powered-aircraft-achieves-groundbreaking-22-hour-autonomous-flight/</link>
+          <pubDate>Thu, 14 Nov 2024 11:00:25 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/14/understanding-hyperlight-microsofts-minimal-vm-manager.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/14/understanding-hyperlight-microsofts-minimal-vm-manager.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/14/solar-powered-aircraft-achieves-groundbreaking-22-hour-autonomous-flight.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/14/solar-powered-aircraft-achieves-groundbreaking-22-hour-autonomous-flight.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>Supreme Court weighs Nvidia challenge to securities fraud claims</title>
-          <description><![CDATA[The Supreme Court on Wednesday weighed a bid from chipmaker Nvidia as it attempts to avoid a suit alleging its executives misled investors about the extent its sales depended on volatile cryptocurrency miners.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/13/nvidia-supreme-court-securities-fraud/</guid>
-          <link>https://majordigest.com/tech/2024/11/13/nvidia-supreme-court-securities-fraud/</link>
-          <pubDate>Wed, 13 Nov 2024 20:25:44 GMT</pubDate>
+          <title>Elon Musk says he and Trump have 'mandate to delete' regulations. Ethics laws could limit Musk role</title>
+          <description><![CDATA[In picking billionaire Elon Musk to be “our cost cutter” for the U.S. government, President-elect Donald Trump won't be the first American president to empower a business tycoon to look for ways to dramatically cut federal regulations. President Ronald Reagan tapped J.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/13/elon-musk-says-he-and-trump-have-mandate-to-delete-regulations-ethics-laws-could-limit-musk-role/</guid>
+          <link>https://majordigest.com/tech/2024/11/13/elon-musk-says-he-and-trump-have-mandate-to-delete-regulations-ethics-laws-could-limit-musk-role/</link>
+          <pubDate>Wed, 13 Nov 2024 22:23:56 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/13/nvidia-supreme-court-securities-fraud.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/13/nvidia-supreme-court-securities-fraud.webp"/>
-          <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/13/elon-musk-says-he-and-trump-have-mandate-to-delete-regulations-ethics-laws-could-limit-musk-role.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/13/elon-musk-says-he-and-trump-have-mandate-to-delete-regulations-ethics-laws-could-limit-musk-role.webp"/>
+          <dc:creator>MATT O'BRIEN and TOM KRISHER, Associated Press, KREX 5</dc:creator>
         </item>
         <item>
-          <title>VMware makes Workstation and Fusion free for everyone</title>
-          <description><![CDATA[VMware this week announced that the virtualization company’s hypervisor products, VMware Workstation and Fusion, will be completely free for both personal and commercial users, as well as for educational purposes.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/13/vmware-makes-workstation-and-fusion-free-for-everyone/</guid>
-          <link>https://majordigest.com/tech/2024/11/13/vmware-makes-workstation-and-fusion-free-for-everyone/</link>
-          <pubDate>Wed, 13 Nov 2024 17:16:18 GMT</pubDate>
+          <title>4 ways to use your phone as a webcam on Windows</title>
+          <description><![CDATA[Let’s be honest: Many Windows PCs don’t have great webcams. The webcam is often an afterthought where manufacturers cut costs when putting together laptops. And, if you have a desktop PC, you might not even have a webcam at all unless you go out and buy one.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/13/use-phone-as-webcam-windows/</guid>
+          <link>https://majordigest.com/tech/2024/11/13/use-phone-as-webcam-windows/</link>
+          <pubDate>Wed, 13 Nov 2024 11:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/13/vmware-makes-workstation-and-fusion-free-for-everyone.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/13/vmware-makes-workstation-and-fusion-free-for-everyone.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/13/use-phone-as-webcam-windows.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/13/use-phone-as-webcam-windows.webp"/>
           <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Visual Studio 17.12 brings C++, Copilot enhancements</title>
-          <description><![CDATA[Visual Studio 2022 17.12, the latest version of Microsoft’s signature integrated development environment (IDE), is now generally available, with improvements ranging from productivity enhancements for C++ developers to integrated AI variable inspection in the GitHub Copilot AI-powered programming as]]></description>
-          <guid>https://majordigest.com/tech/2024/11/13/visual-studio-17-12-brings-c-copilot-enhancements/</guid>
-          <link>https://majordigest.com/tech/2024/11/13/visual-studio-17-12-brings-c-copilot-enhancements/</link>
-          <pubDate>Wed, 13 Nov 2024 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/13/visual-studio-17-12-brings-c-copilot-enhancements.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/13/visual-studio-17-12-brings-c-copilot-enhancements.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Chinese hackers target Tibetan websites in malware attack, cybersecurity group says</title>
-          <description><![CDATA[BANGKOK (AP) — A hacking group that is believed to be Chinese state-sponsored has compromised two websites with ties to the Tibetan community in an attack meant to install malware on users' computers, according to findings released Wednesday by a private cybersecurity firm.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/13/chinese-hackers-target-tibetan-websites-in-malware-attack-cybersecurity-group-says/</guid>
-          <link>https://majordigest.com/tech/2024/11/13/chinese-hackers-target-tibetan-websites-in-malware-attack-cybersecurity-group-says/</link>
-          <pubDate>Wed, 13 Nov 2024 03:30:20 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/13/chinese-hackers-target-tibetan-websites-in-malware-attack-cybersecurity-group-says.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/13/chinese-hackers-target-tibetan-websites-in-malware-attack-cybersecurity-group-says.webp"/>
-          <dc:creator>DAVID RISING, Associated Press, ABC 4</dc:creator>
         </item>
         <item>
           <title>Bitcoin neared $90,000 in a new record high. What to know about crypto's post-election rally</title>
@@ -281,7 +216,7 @@ More than 2,000 users reported issues with the site just before 9 a.m. PST.]]></
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/12/bitcoin-has-topped-87000-for-a-new-record-high-what-to-know-about-cryptos-post-election-rally.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/12/bitcoin-has-topped-87000-for-a-new-record-high-what-to-know-about-cryptos-post-election-rally.webp"/>
-          <dc:creator>WYATTE GRANTHAM-PHILIPS, Associated Press, KRON4</dc:creator>
+          <dc:creator>WYATTE GRANTHAM-PHILIPS, Associated Press, KLAS, CBS News</dc:creator>
         </item>
         <item>
           <title>Microsoft&#8217;s .NET 9 arrives, with performance, cloud, and AI boosts</title>
@@ -296,13 +231,36 @@ Released November 12, .]]></description>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Japan's SoftBank returns to profit after gains at Vision Fund and other investments</title>
-          <description><![CDATA[TOKYO (AP) — Japanese technology group SoftBank swung back to profitability in the July-September quarter, boosted by positive results in its Vision Fund investments. Tokyo-based SoftBank Group Corp.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/12/japans-softbank-returns-to-profit-after-gains-at-vision-fund-and-other-investments/</guid>
-          <link>https://majordigest.com/tech/2024/11/12/japans-softbank-returns-to-profit-after-gains-at-vision-fund-and-other-investments/</link>
-          <pubDate>Tue, 12 Nov 2024 10:19:00 GMT</pubDate>
+          <title>At CBP, automated software testing is integral to the mission</title>
+          <description><![CDATA[Some parts of the system are more difficult to automate, including operations like biometric fingerprinting.
+The post At CBP, automated software testing is integral to the mission first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/12/at-cbp-automated-software-testing-is-integral-to-the-mission/</guid>
+          <link>https://majordigest.com/tech/2024/11/12/at-cbp-automated-software-testing-is-integral-to-the-mission/</link>
+          <pubDate>Tue, 12 Nov 2024 20:18:29 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/12/japans-softbank-returns-to-profit-after-gains-at-vision-fund-and-other-investments.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/12/japans-softbank-returns-to-profit-after-gains-at-vision-fund-and-other-investments.webp"/>
-          <dc:creator>YURI KAGEYAMA, Associated Press, KREX 5</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/12/at-cbp-automated-software-testing-is-integral-to-the-mission.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/12/at-cbp-automated-software-testing-is-integral-to-the-mission.webp"/>
+          <dc:creator>Michele Sandiford, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Facebook and Instagram users in Europe can opt for less personalized ads</title>
+          <description><![CDATA[LONDON (AP) — Facebook and Instagram users in Europe will get the option to see less personalized ads if they don't want to pay for an ad-free subscription, social media company Meta said Tuesday, bowing to pressure from Brussels over privacy and digital competition concerns.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/12/facebook-and-instagram-users-in-europe-can-opt-for-less-personalized-ads/</guid>
+          <link>https://majordigest.com/tech/2024/11/12/facebook-and-instagram-users-in-europe-can-opt-for-less-personalized-ads/</link>
+          <pubDate>Tue, 12 Nov 2024 15:29:16 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/12/facebook-and-instagram-users-in-europe-can-opt-for-less-personalized-ads.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/12/facebook-and-instagram-users-in-europe-can-opt-for-less-personalized-ads.webp"/>
+          <dc:creator>KELVIN CHAN, Associated Press, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>Top scams targeting our military heroes and how to avoid them</title>
+          <description><![CDATA[Shameless scammers trick veterans into giving personal info or cash. Tech expert Kurt “CyberGuy&quot; Knutsson explores five common scams.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/11/top-scams-targeting-our-military-heroes-how-avoid-them/</guid>
+          <link>https://majordigest.com/tech/2024/11/11/top-scams-targeting-our-military-heroes-how-avoid-them/</link>
+          <pubDate>Mon, 11 Nov 2024 15:00:57 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/11/top-scams-targeting-our-military-heroes-how-avoid-them.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/11/top-scams-targeting-our-military-heroes-how-avoid-them.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item></channel></rss>
