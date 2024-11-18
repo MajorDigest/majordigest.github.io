@@ -3,13 +3,27 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/world/2024/11/18/45-pro-democracy-activists-face-sentencing-in-hong-kong-heres-who-some-of-them-are/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-18T03:48:02.000Z</news:publication_date>
+            <news:title>45 pro-democracy activists face sentencing in Hong Kong. Here's who some of them are</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/18/45-pro-democracy-activists-face-sentencing-in-hong-kong-heres-who-some-of-them-are.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/11/18/north-korean-leader-calls-for-expanding-his-nuclear-forces-in-the-face-of-alleged-us-threats/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-18T02:48:45.000Z</news:publication_date>
+            <news:publication_date>2024-11-18T03:21:52.000Z</news:publication_date>
             <news:title>North Korean leader calls for expanding his nuclear forces in the face of alleged US threats</news:title>
           </news:news>
           <image:image>
@@ -17,45 +31,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/17/temporary-immigration-programs-trump-mass-deportation-plan/</loc>
+          <loc>https://majordigest.com/world/2024/11/18/biden-will-become-the-first-sitting-us-president-to-visit-the-amazon-rainforest/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-17T22:00:00.000Z</news:publication_date>
-            <news:title>Bevy of immigration programs at risk under Trump mass deportation plan</news:title>
+            <news:publication_date>2024-11-18T01:55:44.000Z</news:publication_date>
+            <news:title>From the Amazon rainforest, Biden declares nobody can reverse US progress on clean energy</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/17/temporary-immigration-programs-trump-mass-deportation-plan.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/18/biden-will-become-the-first-sitting-us-president-to-visit-the-amazon-rainforest.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/17/senegal-votes-in-election-that-will-decide-if-president-can-carry-out-the-reforms-he-promised/</loc>
+          <loc>https://majordigest.com/world/2024/11/18/biden-authorized-ukraine-long-range-missiles-russia/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-17T21:16:13.000Z</news:publication_date>
-            <news:title>Senegal votes in election that will decide if president can carry out the reforms he promised</news:title>
+            <news:publication_date>2024-11-18T01:41:47.000Z</news:publication_date>
+            <news:title>Biden has authorized Ukraine to use long-range missiles inside Russia: Reports</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/17/senegal-votes-in-election-that-will-decide-if-president-can-carry-out-the-reforms-he-promised.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/11/17/trump-appoints-pro-israel-team/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-17T21:00:00.000Z</news:publication_date>
-            <news:title>Trump compiles his pro-Israel team: Here are the key players</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/17/trump-appoints-pro-israel-team.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/18/biden-authorized-ukraine-long-range-missiles-russia.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -70,6 +70,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/world/2024/11/17/british-prime-minister-says-he-has-no-plans-to-talk-with-putin-as-he-reaffirms-support-for-ukraine.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/11/17/russia-grinds-deeper-into-ukraine-after-1000-days-of-grueling-war/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-17T18:24:57.000Z</news:publication_date>
+            <news:title>Russia grinds deeper into Ukraine after 1,000 days of grueling war</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/17/russia-grinds-deeper-into-ukraine-after-1000-days-of-grueling-war.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,6 +115,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/world/2024/11/17/russia-launches-one-of-its-fiercest-missile-and-drone-attacks-at-ukraines-infrastructure/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-17T16:38:59.000Z</news:publication_date>
+            <news:title>Russia launches one of its fiercest missile and drone attacks at Ukraine's infrastructure</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/17/russia-launches-one-of-its-fiercest-missile-and-drone-attacks-at-ukraines-infrastructure.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/11/17/uss-edsall-world-war-ii-warship-found/</loc>
           <news:news>
             <news:publication>
@@ -112,20 +140,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/world/2024/11/17/uss-edsall-world-war-ii-warship-found.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/11/17/latest-typhoon-batters-the-philippines-causing-tidal-surges-and-displacing-about-400000-people/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-17T15:29:47.000Z</news:publication_date>
-            <news:title>Latest typhoon lashes the Philippines, causing tidal surges and displacing massive numbers of people</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/17/latest-typhoon-batters-the-philippines-causing-tidal-surges-and-displacing-about-400000-people.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,45 +157,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/17/putin-critics-lead-a-march-in-berlin-calling-for-democracy-in-russia-and-an-end-to-war-in-ukraine/</loc>
+          <loc>https://majordigest.com/world/2024/11/17/mexican-president-might-changing-view-us-trump-win-sends-warning-ruling-socialists/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-17T14:14:14.000Z</news:publication_date>
-            <news:title>Putin critics lead a march in Berlin calling for democracy in Russia and an end to war in Ukraine</news:title>
+            <news:publication_date>2024-11-17T09:00:50.000Z</news:publication_date>
+            <news:title>Mexican president might be changing view on US as Trump win sends warning to ruling socialists</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/17/putin-critics-lead-a-march-in-berlin-calling-for-democracy-in-russia-and-an-end-to-war-in-ukraine.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/11/17/zelenskyy-says-russia-has-launched-120-missiles-and-90-drones-targeting-ukraines-infrastructure/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-17T08:31:02.000Z</news:publication_date>
-            <news:title>Russia launches one of its fiercest missile and drone attacks at Ukraine's infrastructure</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/17/zelenskyy-says-russia-has-launched-120-missiles-and-90-drones-targeting-ukraines-infrastructure.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/11/17/the-super-year-of-elections-has-been-super-bad-for-incumbents-as-voters-punish-them-in-droves/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-17T05:07:35.000Z</news:publication_date>
-            <news:title>The 'super year' of elections has been super bad for incumbents as voters punish them in droves</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/17/the-super-year-of-elections-has-been-super-bad-for-incumbents-as-voters-punish-them-in-droves.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/17/mexican-president-might-changing-view-us-trump-win-sends-warning-ruling-socialists.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -199,48 +185,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/16/us-health-officials-report-1st-case-of-new-form-of-mpox-in-a-traveler/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-16T19:08:22.000Z</news:publication_date>
-            <news:title>US health officials report 1st case of new form of mpox in a traveler</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/16/us-health-officials-report-1st-case-of-new-form-of-mpox-in-a-traveler.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/11/16/fire-engulfs-hospital-ward-in-northern-india-killing-10-newborn-babies/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-16T17:50:05.000Z</news:publication_date>
-            <news:title>Fire engulfs hospital ward in northern India, killing 10 newborn babies</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/16/fire-engulfs-hospital-ward-in-northern-india-killing-10-newborn-babies.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/11/16/japans-minister-visits-ukraine-to-stress-mutual-concern-over-north-korean-troops/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-16T16:55:31.000Z</news:publication_date>
-            <news:title>Japan's minister visits Ukraine to stress mutual concern over North Korean troops</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/16/japans-minister-visits-ukraine-to-stress-mutual-concern-over-north-korean-troops.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2024/11/16/2000-year-old-roman-road-discovered-archaeologists-london/</loc>
           <news:news>
             <news:publication>
@@ -255,17 +199,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/15/montana-tucker-israel-oct-7-film/</loc>
+          <loc>https://majordigest.com/world/2024/11/16/some-exult-others-worry-reactions-to-trumps-victory-are-mixed-on-natos-eastern-flank/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-15T23:44:15.000Z</news:publication_date>
-            <news:title>Montana Tucker's Oct. 7 film showcases young victims' strength</news:title>
+            <news:publication_date>2024-11-16T11:38:01.000Z</news:publication_date>
+            <news:title>Some exult, others worry: Reactions to Trump's victory are mixed on NATO's eastern flank</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/15/montana-tucker-israel-oct-7-film.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/16/some-exult-others-worry-reactions-to-trumps-victory-are-mixed-on-natos-eastern-flank.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/11/16/trump-looms-large-biden-set-meet-chinas-xi-during-latin-america-summits/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-16T11:00:02.000Z</news:publication_date>
+            <news:title>Trump looms large as Biden set to meet China's Xi during Latin America summits</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/16/trump-looms-large-biden-set-meet-chinas-xi-during-latin-america-summits.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/11/15/dutch-coalition-parties-gather-in-crisis-talks-after-last-weeks-soccer-violence/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-15T23:06:05.000Z</news:publication_date>
+            <news:title>Dutch coalition survives crisis over top official resignation decrying offensive comments</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/15/dutch-coalition-parties-gather-in-crisis-talks-after-last-weeks-soccer-violence.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -283,17 +255,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/15/iran-told-biden-administration-wont-try-assassinate-president-elect-trump-report/</loc>
+          <loc>https://majordigest.com/world/2024/11/15/fire-kills-least-10-people-spanish-retirement-home/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-15T20:56:23.000Z</news:publication_date>
-            <news:title>Iran told Biden administration it won't try to assassinate President-elect Trump: report</news:title>
+            <news:publication_date>2024-11-15T21:34:39.000Z</news:publication_date>
+            <news:title>Fire kills at least 10 people in Spanish retirement home</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/15/iran-told-biden-administration-wont-try-assassinate-president-elect-trump-report.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/15/fire-kills-least-10-people-spanish-retirement-home.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -311,73 +283,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/15/austria-says-russias-gazprom-will-cut-off-natural-gas-supply-this-weekend/</loc>
+          <loc>https://majordigest.com/world/2024/11/15/virgin-mary-statue-a-symbol-of-resilience-returns-to-notre-dame-cathedral-5-years-after-fire/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-15T20:42:54.000Z</news:publication_date>
-            <news:title>Austria says Russia's Gazprom will cut off natural gas supply this weekend</news:title>
+            <news:publication_date>2024-11-15T20:26:19.000Z</news:publication_date>
+            <news:title>Virgin Mary statue, a symbol of resilience, returns to Notre Dame Cathedral 5 years after fire</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/15/austria-says-russias-gazprom-will-cut-off-natural-gas-supply-this-weekend.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/15/virgin-mary-statue-a-symbol-of-resilience-returns-to-notre-dame-cathedral-5-years-after-fire.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/15/scientists-argentina-unearth-oldest-tadpole-fossil-ever-discovered/</loc>
+          <loc>https://majordigest.com/world/2024/11/14/moo-deng-thailands-baby-pygmy-hippo-gets-official-song-in-4-languages/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-15T17:34:20.000Z</news:publication_date>
-            <news:title>Scientists in Argentina unearth oldest tadpole fossil ever discovered</news:title>
+            <news:publication_date>2024-11-14T14:58:26.000Z</news:publication_date>
+            <news:title>Moo Deng, Thailand's baby pygmy hippo, gets official song in 4 languages</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/15/scientists-argentina-unearth-oldest-tadpole-fossil-ever-discovered.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/14/moo-deng-thailands-baby-pygmy-hippo-gets-official-song-in-4-languages.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/14/human-rights-watch-israel-hamas-war-crimes-gaza/</loc>
+          <loc>https://majordigest.com/world/2024/11/14/us-federal-worker-charged-in-classified-documents-leak-about-israels-earlier-plans-to-strike-iran/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-14T19:43:20.000Z</news:publication_date>
-            <news:title>Human Rights Watch accuses Israel of war crimes in Gaza Strip</news:title>
+            <news:publication_date>2024-11-14T02:53:55.000Z</news:publication_date>
+            <news:title>US government worker charged with leaking classified documents on Israel's plans to strike Iran</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/14/human-rights-watch-israel-hamas-war-crimes-gaza.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/14/us-federal-worker-charged-in-classified-documents-leak-about-israels-earlier-plans-to-strike-iran.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/14/iran-military-heads-vow-crushing-response-israel-un-atomic-chief-says-nuke-sites-shouldnt-attacked/</loc>
+          <loc>https://majordigest.com/world/2024/11/13/tourists-stranded-bali-days-after-indonesias-volcanic-eruption-grounds-international-flights/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-14T17:14:10.000Z</news:publication_date>
-            <news:title>Iran military heads vow 'crushing' response to Israel as UN atomic chief says nuke sites shouldn't be attacked</news:title>
+            <news:publication_date>2024-11-13T19:17:04.000Z</news:publication_date>
+            <news:title>Tourists stranded in Bali for days after Indonesia's volcanic eruption grounds international flights</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/14/iran-military-heads-vow-crushing-response-israel-un-atomic-chief-says-nuke-sites-shouldnt-attacked.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/11/14/un-watchdog-warns-time-maneuver-irans-nuclear-program-shrinking-report/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-14T09:00:40.000Z</news:publication_date>
-            <news:title>UN watchdog warns time to 'maneuver' on Iran's nuclear program is shrinking: report</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/14/un-watchdog-warns-time-maneuver-irans-nuclear-program-shrinking-report.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/13/tourists-stranded-bali-days-after-indonesias-volcanic-eruption-grounds-international-flights.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -395,44 +353,30 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/12/aid-groups-say-israel-misses-us-deadline-to-boost-humanitarian-help-for-gaza/</loc>
+          <loc>https://majordigest.com/world/2024/11/13/a-driver-who-struck-a-crowd-in-a-chinese-city-causing-multiple-injuries-has-been-detained/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-12T22:33:36.000Z</news:publication_date>
-            <news:title>US says it will not limit Israel arms transfers after some improvements in flow of aid to Gaza</news:title>
+            <news:publication_date>2024-11-13T03:09:47.000Z</news:publication_date>
+            <news:title>Driver rams his car into crowd in China, killing 35. Police say he was upset about his divorce</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/12/aid-groups-say-israel-misses-us-deadline-to-boost-humanitarian-help-for-gaza.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/13/a-driver-who-struck-a-crowd-in-a-chinese-city-causing-multiple-injuries-has-been-detained.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/12/biden-israel-president-isaac-herzog/</loc>
+          <loc>https://majordigest.com/world/2024/11/12/church-of-england-head-justin-welby-resigns-over-handling-of-sex-abuse-scandal/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-12T21:27:13.000Z</news:publication_date>
-            <news:title>President Joe Biden meets with Israel's Isaac Herzog</news:title>
+            <news:publication_date>2024-11-12T22:17:53.000Z</news:publication_date>
+            <news:title>Church of England head Justin Welby resigns over handling of sex abuse scandal</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/12/biden-israel-president-isaac-herzog.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/11/12/airlines-pausing-flights-to-haiti-after-planes-hit-by-gunfire/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-12T16:36:08.000Z</news:publication_date>
-            <news:title>Airlines pausing flights to Haiti after planes hit by gunfire</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/12/airlines-pausing-flights-to-haiti-after-planes-hit-by-gunfire.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/12/church-of-england-head-justin-welby-resigns-over-handling-of-sex-abuse-scandal.webp</image:loc>
           </image:image>
         </url></urlset>
