@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/11/19/trump-administration-second-term-antitrust-cases-deals/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-19T02:30:00.000Z</news:publication_date>
-            <news:title>Antitrust cases against Big Tech and megamergers could end in deals under Trump, experts say</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/19/trump-administration-second-term-antitrust-cases-deals.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/19/everything-you-need-to-know-about-trump-fcc-pick-brendan-carr/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-19T02:10:19.000Z</news:publication_date>
-            <news:title>Everything you need to know about Trump FCC pick Brendan Carr</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/19/everything-you-need-to-know-about-trump-fcc-pick-brendan-carr.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/11/18/how-ato-as-code-can-reduce-this-compliance-burden/</loc>
           <news:news>
             <news:publication>
@@ -38,24 +10,108 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-11-18T22:34:44.000Z</news:publication_date>
-            <news:title>How ATO as Code Can Reduce Compliance Burden</news:title>
+            <news:title>How ATO as code can reduce this compliance burden</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/18/how-ato-as-code-can-reduce-this-compliance-burden.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/18/nvidia-blackwell-chips-face-serious-heating-issues/</loc>
+          <loc>https://majordigest.com/tech/2024/11/18/akka-distributed-computing-platform-adds-java-sdk/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-18T20:21:13.000Z</news:publication_date>
-            <news:title>Nvidia Blackwell chips face serious heating issues</news:title>
+            <news:publication_date>2024-11-18T22:30:46.000Z</news:publication_date>
+            <news:title>Akka distributed computing platform adds Java SDK</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/18/nvidia-blackwell-chips-face-serious-heating-issues.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/akka-distributed-computing-platform-adds-java-sdk.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/18/aggie-uses-ai-to-manage-small-business-social-media/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-18T22:00:00.000Z</news:publication_date>
+            <news:title>Data-driven startup Aggie uses AI to manage small business social media</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/aggie-uses-ai-to-manage-small-business-social-media.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/18/trumps-pick-fcc-chairman-brendan-carr/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-18T21:07:37.000Z</news:publication_date>
+            <news:title>Trump&#8217;s pick for FCC chairman is Brendan Carr</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/trumps-pick-fcc-chairman-brendan-carr.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/18/energy-departments-etac-cyber-threat-center-goes-operational/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-18T20:56:16.000Z</news:publication_date>
+            <news:title>Energy Department's ETAC Cyber Threat Center Goes Operational</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/energy-departments-etac-cyber-threat-center-goes-operational.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/18/company-affiliated-with-alex-jones-seeks-to-disqualify-the-onions-auction-bid-on-infowars/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-18T20:15:23.000Z</news:publication_date>
+            <news:title>Company affiliated with Alex Jones seeks to disqualify The Onion's auction bid on Infowars</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/company-affiliated-with-alex-jones-seeks-to-disqualify-the-onions-auction-bid-on-infowars.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/18/beyond-the-checkbox-building-confidence-in-your-dr-strategy/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-18T19:25:11.000Z</news:publication_date>
+            <news:title>Beyond the checkbox: Building confidence in your DR strategy</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/beyond-the-checkbox-building-confidence-in-your-dr-strategy.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/18/vaio-releases-999g-14-inch-laptop-with-up-to-64gb-of-ram-5g-sim-and-even-a-physical-gigabit-ethernet-port/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-18T18:33:00.000Z</news:publication_date>
+            <news:title>Vaio SX14-R: A Lightweight Business Laptop with Advanced Connectivity Options</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/vaio-releases-999g-14-inch-laptop-with-up-to-64gb-of-ram-5g-sim-and-even-a-physical-gigabit-ethernet-port.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,143 +129,185 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/18/ai-platforms-driving-business-transformation-in-the-uae-insights-from-industry-experts/</loc>
+          <loc>https://majordigest.com/tech/2024/11/18/el-capitan-bumps-frontier-to-claim-worlds-fastest-supercomputer-title/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-18T11:22:35.000Z</news:publication_date>
-            <news:title>AI platforms driving business transformation in the UAE: insights from industry experts</news:title>
+            <news:publication_date>2024-11-18T18:02:46.000Z</news:publication_date>
+            <news:title>El Capitan bumps Frontier to claim world&#8217;s fastest supercomputer title</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/18/ai-platforms-driving-business-transformation-in-the-uae-insights-from-industry-experts.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/el-capitan-bumps-frontier-to-claim-worlds-fastest-supercomputer-title.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/18/windows-10-insider-previews-a-guide-to-the-builds/</loc>
+          <loc>https://majordigest.com/tech/2024/11/18/en-el-camino-hacia-la-eficiencia-digital-los-bancos-apuestan-por-la-ia/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-18T09:39:43.000Z</news:publication_date>
-            <news:title>Windows 10 Insider Previews: A guide to the builds</news:title>
+            <news:publication_date>2024-11-18T15:44:29.000Z</news:publication_date>
+            <news:title>En el camino hacia la eficiencia digital los bancos apuestan por la IA</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/18/windows-10-insider-previews-a-guide-to-the-builds.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/en-el-camino-hacia-la-eficiencia-digital-los-bancos-apuestan-por-la-ia.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/18/banks-bet-on-ai-to-deliver-digital-efficiencies/</loc>
+          <loc>https://majordigest.com/tech/2024/11/18/t-mobile-hacked-chinese-cyber-espionage-major-attack-us-telecoms/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-18T09:30:00.000Z</news:publication_date>
-            <news:title>Banking on AI: How Financial Institutions are Leveraging Technology for Customer Experience Transformation</news:title>
+            <news:publication_date>2024-11-18T15:00:52.000Z</news:publication_date>
+            <news:title>T-Mobile hacked by Chinese cyber espionage in major attack on US telecoms</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/18/banks-bet-on-ai-to-deliver-digital-efficiencies.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/t-mobile-hacked-chinese-cyber-espionage-major-attack-us-telecoms.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/18/14-preprocessors-for-programmers-who-love-to-code/</loc>
+          <loc>https://majordigest.com/tech/2024/11/18/ibm-announces-50-fold-quantum-speed-improvement/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-18T14:13:38.000Z</news:publication_date>
+            <news:title>IBM announces 50-fold quantum speed improvement</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/ibm-announces-50-fold-quantum-speed-improvement.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/18/prosegur-se-apoya-en-la-ia-para-optimizar-y-agilizar-los-procesos-de-seleccion/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-18T10:12:15.000Z</news:publication_date>
+            <news:title>Prosegur se apoya en la IA para optimizar y agilizar los procesos de selecci&#243;n</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/prosegur-se-apoya-en-la-ia-para-optimizar-y-agilizar-los-procesos-de-seleccion.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/18/the-dirty-little-secret-of-open-source-contributions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-11-18T09:00:00.000Z</news:publication_date>
-            <news:title>14 great preprocessors for developers who love to code</news:title>
+            <news:title>The dirty little secret of open source contributions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/18/14-preprocessors-for-programmers-who-love-to-code.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/the-dirty-little-secret-of-open-source-contributions.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/18/cio-middle-east-and-idc-hosts-the-inaugural-cio100-awards-celebrating-the-regions-top-100-tech-leaders/</loc>
+          <loc>https://majordigest.com/tech/2024/11/15/biden-semiconductor-investment-arizona/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-18T06:01:33.000Z</news:publication_date>
-            <news:title>Middle East's Tech Sector Gets Boost with CIO100 Awards Launch</news:title>
+            <news:publication_date>2024-11-15T13:58:18.000Z</news:publication_date>
+            <news:title>The White House Finalizes $6.6 Billion Grant Agreement with TSMC for Arizona Facilities</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/18/cio-middle-east-and-idc-hosts-the-inaugural-cio100-awards-celebrating-the-regions-top-100-tech-leaders.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/15/biden-semiconductor-investment-arizona.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/18/mobile-ai-opens-new-horizons-for-sustainable-business-growth-in-the-digital-age/</loc>
+          <loc>https://majordigest.com/tech/2024/11/15/ai-is-dumber-than-you-think/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-18T05:44:55.000Z</news:publication_date>
-            <news:title>Mobile AI opens new horizons for sustainable business growth in the digital age</news:title>
+            <news:publication_date>2024-11-15T11:00:00.000Z</news:publication_date>
+            <news:title>AI is dumber than you think</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/18/mobile-ai-opens-new-horizons-for-sustainable-business-growth-in-the-digital-age.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/15/ai-is-dumber-than-you-think.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/16/elon-musk-lawsuit-dogecoin-dropped/</loc>
+          <loc>https://majordigest.com/tech/2024/11/15/first-combined-ai-ran-network-from-nvidia-and-softbank-supports-inferencing-claims-return-of-5-for-every-1-invested/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-16T05:00:00.000Z</news:publication_date>
-            <news:title>Lawsuit alleging Elon Musk rigged Dogecoin is dropped</news:title>
+            <news:publication_date>2024-11-15T03:27:06.000Z</news:publication_date>
+            <news:title>First combined AI-RAN network from Nvidia and SoftBank supports inferencing, claims return of $5 for every $1 invested</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/16/elon-musk-lawsuit-dogecoin-dropped.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/15/first-combined-ai-ran-network-from-nvidia-and-softbank-supports-inferencing-claims-return-of-5-for-every-1-invested.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/15/musk-federal-contracts-russia-reed-shaheen-probe/</loc>
+          <loc>https://majordigest.com/tech/2024/11/14/polymarket-fbi-raid-police-betting/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-15T21:26:30.000Z</news:publication_date>
-            <news:title>Democratic senators call for federal probe into Musk's contact with Russia</news:title>
+            <news:publication_date>2024-11-14T20:51:25.000Z</news:publication_date>
+            <news:title>Polymarket at center of political storm after reported FBI raid</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/15/musk-federal-contracts-russia-reed-shaheen-probe.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/14/polymarket-fbi-raid-police-betting.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/15/for-november-patch-tuesday-includes-three-windows-zero-day-fixes/</loc>
+          <loc>https://majordigest.com/tech/2024/11/14/solidigm-unveils-122tb-data-center-ssd-for-ai-workloads/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-15T19:48:17.000Z</news:publication_date>
-            <news:title>For November, Patch Tuesday includes three Windows zero-day fixes</news:title>
+            <news:publication_date>2024-11-14T16:05:23.000Z</news:publication_date>
+            <news:title>Solidigm unveils 122TB data center SSD for AI workloads</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/15/for-november-patch-tuesday-includes-three-windows-zero-day-fixes.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/14/solidigm-unveils-122tb-data-center-ssd-for-ai-workloads.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/15/psaki-blames-disinformation-vp-harris-loss/</loc>
+          <loc>https://majordigest.com/tech/2024/11/14/in-cyprus-ukrainians-learn-how-to-dispose-of-landmines-that-kill-and-maim-hundreds/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-15T19:30:38.000Z</news:publication_date>
-            <news:title>Psaki: 'Disinformation space' on social media a 'core' issue behind Harris defeat</news:title>
+            <news:publication_date>2024-11-14T14:21:08.000Z</news:publication_date>
+            <news:title>In Cyprus, Ukrainians learn how to dispose of landmines that kill and maim hundreds</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/15/psaki-blames-disinformation-vp-harris-loss.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/14/in-cyprus-ukrainians-learn-how-to-dispose-of-landmines-that-kill-and-maim-hundreds.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/14/cloud-creates-network-blind-spots-complicates-problem-resolution/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-14T12:58:59.000Z</news:publication_date>
+            <news:title>Cloud creates network blind spots, complicates problem resolution</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/14/cloud-creates-network-blind-spots-complicates-problem-resolution.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,86 +325,16 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/13/apple-tracking-lost-luggage/</loc>
+          <loc>https://majordigest.com/tech/2024/11/12/all-agencies-to-give-grant-funding-opportunities-a-facelift/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-13T18:33:21.000Z</news:publication_date>
-            <news:title>Apple announces new feature to help airlines track your lost luggage</news:title>
+            <news:publication_date>2024-11-12T16:32:16.000Z</news:publication_date>
+            <news:title>All agencies to give grant funding opportunities a facelift</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/13/apple-tracking-lost-luggage.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/13/what-the-trump-election-means-for-microsofts-ai-dreams/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-13T11:00:00.000Z</news:publication_date>
-            <news:title>What the Trump election means for Microsoft&#8217;s AI dreams</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/13/what-the-trump-election-means-for-microsofts-ai-dreams.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/13/chinese-hackers-target-tibetan-websites-in-malware-attack-cybersecurity-group-says/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-13T03:30:20.000Z</news:publication_date>
-            <news:title>Chinese hackers target Tibetan websites in malware attack, cybersecurity group says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/13/chinese-hackers-target-tibetan-websites-in-malware-attack-cybersecurity-group-says.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/12/bitcoin-has-topped-87000-for-a-new-record-high-what-to-know-about-cryptos-post-election-rally/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-12T22:47:28.000Z</news:publication_date>
-            <news:title>Bitcoin neared $90,000 in a new record high. What to know about crypto's post-election rally</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/12/bitcoin-has-topped-87000-for-a-new-record-high-what-to-know-about-cryptos-post-election-rally.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/12/facebook-and-instagram-users-in-europe-can-opt-for-less-personalized-ads/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-12T15:29:16.000Z</news:publication_date>
-            <news:title>Facebook and Instagram users in Europe can opt for less personalized ads</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/12/facebook-and-instagram-users-in-europe-can-opt-for-less-personalized-ads.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/12/alarming-rise-fake-legal-requests-what-means-your-privacy/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-12T15:00:26.000Z</news:publication_date>
-            <news:title>Alarming rise of fake legal requests: What it means for your privacy</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/12/alarming-rise-fake-legal-requests-what-means-your-privacy.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/12/all-agencies-to-give-grant-funding-opportunities-a-facelift.webp</image:loc>
           </image:image>
         </url></urlset>
