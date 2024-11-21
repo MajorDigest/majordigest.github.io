@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/11/21/us-regulators-seek-to-break-up-google-forcing-chrome-sale-as-part-of-monopoly-punishment/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-21T04:00:53.000Z</news:publication_date>
+            <news:title>US regulators seek to break up Google, forcing Chrome sale as part of monopoly punishment</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/21/us-regulators-seek-to-break-up-google-forcing-chrome-sale-as-part-of-monopoly-punishment.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/11/21/class-action-lawsuit-on-ai-related-discrimination-reaches-final-settlement/</loc>
           <news:news>
             <news:publication>
@@ -10,7 +24,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-11-21T02:07:37.000Z</news:publication_date>
-            <news:title>Class action lawsuit on AI-related discrimination reaches final settlement</news:title>
+            <news:title>Algorithm-Driven Discrimination: Massachusetts Resident Wins Landmark Settlement</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/21/class-action-lawsuit-on-ai-related-discrimination-reaches-final-settlement.webp</image:loc>
@@ -31,20 +45,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/21/rhel-ai-jboss-eap-8-coming-to-azure-cloud/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-21T01:32:42.000Z</news:publication_date>
-            <news:title>RHEL AI, JBoss EAP 8 coming to Azure cloud</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/21/rhel-ai-jboss-eap-8-coming-to-azure-cloud.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/11/21/comcast-to-spin-off-cable-networks-once-star-performers-at-the-entertainment-giant/</loc>
           <news:news>
             <news:publication>
@@ -52,7 +52,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-11-21T01:26:41.000Z</news:publication_date>
-            <news:title>Comcast to spin off cable networks that were once the entertainment giant's star performers</news:title>
+            <news:title>Cable TV Shift: Comcast Spins Off Networks Amid Streaming Dominance</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/21/comcast-to-spin-off-cable-networks-once-star-performers-at-the-entertainment-giant.webp</image:loc>
@@ -70,6 +70,48 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/21/us-gathers-allies-to-talk-ai-safety-trumps-vow-to-undo-bidens-ai-policy-overshadows-their-work.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/20/uber-announces-xxl-rides-what-know-about-new-service/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-20T22:51:37.000Z</news:publication_date>
+            <news:title>Uber Launches XXL Rides and Enhanced Features to Boost Demand Amid Thanksgiving Travel Surge</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/uber-announces-xxl-rides-what-know-about-new-service.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-20T22:26:47.000Z</news:publication_date>
+            <news:title>Azure Container Apps launches Python, JavaScript interpreters</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/20/nvidia-beats-earnings-expectations-as-investors-eye-demand-for-blackwell-ai-chips/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-20T22:11:20.000Z</news:publication_date>
+            <news:title>Nvidia beats earnings expectations as investors eye demand for Blackwell AI chips</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/nvidia-beats-earnings-expectations-as-investors-eye-demand-for-blackwell-ai-chips.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,129 +143,143 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/20/fox-news-ai-newsletter-chatbot-disturbing-message/</loc>
+          <loc>https://majordigest.com/tech/2024/11/20/cisco-pressure-to-deploy-ai-is-up-but-only-13-feel-ready/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-20T17:21:18.000Z</news:publication_date>
-            <news:title>Fox News AI Newsletter: Chatbot's disturbing message</news:title>
+            <news:publication_date>2024-11-20T19:03:26.000Z</news:publication_date>
+            <news:title>Cisco: Pressure to deploy AI is up, but only 13% feel ready</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/fox-news-ai-newsletter-chatbot-disturbing-message.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/cisco-pressure-to-deploy-ai-is-up-but-only-13-feel-ready.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/20/network-connectivity-an-urgent-matter-of-national-security/</loc>
+          <loc>https://majordigest.com/tech/2024/11/20/opentelemetry-certification-launches/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-20T17:14:54.000Z</news:publication_date>
-            <news:title>Network connectivity: An urgent matter of national security</news:title>
+            <news:publication_date>2024-11-20T14:45:58.000Z</news:publication_date>
+            <news:title>OpenTelemetry certification launches</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/network-connectivity-an-urgent-matter-of-national-security.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/opentelemetry-certification-launches.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/20/eu-industry-group-has-its-eye-on-microsofts-cloud-business/</loc>
+          <loc>https://majordigest.com/tech/2024/11/20/microsoft-and-industry-partners-showcase-specialized-small-language-models/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-20T14:39:31.000Z</news:publication_date>
-            <news:title>EU industry group has its eye on Microsoft&#8217;s cloud business</news:title>
+            <news:publication_date>2024-11-20T10:00:00.000Z</news:publication_date>
+            <news:title>Microsoft partners with industry leaders to offer vertical SLMs</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/eu-industry-group-has-its-eye-on-microsofts-cloud-business.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/microsoft-and-industry-partners-showcase-specialized-small-language-models.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/20/siete-formas-de-implementar-su-propio-llm/</loc>
+          <loc>https://majordigest.com/tech/2024/11/20/azure-ai-foundry-tools-for-changes-in-ai-applications/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-20T12:15:32.000Z</news:publication_date>
-            <news:title>La magia detrás de los LLM: Ajuste fino y opciones de personalización</news:title>
+            <news:publication_date>2024-11-20T09:00:00.000Z</news:publication_date>
+            <news:title>Azure AI Foundry: A Revolutionary Platform for Next-Generation AI Applications</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/siete-formas-de-implementar-su-propio-llm.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/azure-ai-foundry-tools-for-changes-in-ai-applications.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/20/australia-wont-force-social-media-users-to-share-their-personal-details-when-child-ban-takes-effect/</loc>
+          <loc>https://majordigest.com/tech/2024/11/20/kotlin-for-java-developers-classes-and-coroutines/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-20T11:18:07.000Z</news:publication_date>
-            <news:title>Australia won't force social media users to share their personal details when child ban takes effect</news:title>
+            <news:publication_date>2024-11-20T09:00:00.000Z</news:publication_date>
+            <news:title>Kotlin for Java developers: Classes and coroutines</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/australia-wont-force-social-media-users-to-share-their-personal-details-when-child-ban-takes-effect.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/kotlin-for-java-developers-classes-and-coroutines.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/20/meta-creates-business-ai-group-led-by-ex-salesforce-ai-ceo-clara-shih/</loc>
+          <loc>https://majordigest.com/tech/2024/11/20/why-the-crypto-community-loves-howard-lutnick-trumps-pick-for-commerce-secretary/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-20T09:52:09.000Z</news:publication_date>
-            <news:title>Meta creates &#8216;Business AI&#8217; group led by ex-Salesforce AI CEO Clara Shih</news:title>
+            <news:publication_date>2024-11-20T07:08:09.000Z</news:publication_date>
+            <news:title>Why the crypto community loves Howard Lutnick, Trump&#8217;s pick for Commerce secretary</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/meta-creates-business-ai-group-led-by-ex-salesforce-ai-ceo-clara-shih.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/why-the-crypto-community-loves-howard-lutnick-trumps-pick-for-commerce-secretary.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/20/cio100-2024-the-top-transformational-tech-leaders-and-teams-in-southeast-asia-and-hong-kong/</loc>
+          <loc>https://majordigest.com/tech/2024/11/19/trump-musk-spacex-launches-starship/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-20T08:59:29.000Z</news:publication_date>
-            <news:title>CIO100 2024: The top transformational tech leaders and teams in Southeast Asia and Hong Kong</news:title>
+            <news:publication_date>2024-11-19T22:29:18.000Z</news:publication_date>
+            <news:title>Trump watches as Musk's SpaceX launches Starship rocket</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/cio100-2024-the-top-transformational-tech-leaders-and-teams-in-southeast-asia-and-hong-kong.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/trump-musk-spacex-launches-starship.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/20/elon-musk-doge-reportedly-considering-creating-mobile-tax-app/</loc>
+          <loc>https://majordigest.com/tech/2024/11/19/cma-gives-googles-2b-anthropic-investment-the-green-light/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-20T05:30:00.000Z</news:publication_date>
-            <news:title>Elon Musk&#8217;s DOGE agency may launch a mobile app to file your taxes</news:title>
+            <news:publication_date>2024-11-19T21:03:28.000Z</news:publication_date>
+            <news:title>CMA gives Google&#8217;s $2B Anthropic investment the green light</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/elon-musk-doge-reportedly-considering-creating-mobile-tax-app.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/cma-gives-googles-2b-anthropic-investment-the-green-light.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/19/microsoft-pitches-ai-agents-that-can-perform-tasks-on-their-own-at-ignite-2024/</loc>
+          <loc>https://majordigest.com/tech/2024/11/19/sweeping-va-reform-bill-with-pay-flexibility-for-health-care-workers-passes-house/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-19T19:04:37.000Z</news:publication_date>
-            <news:title>Microsoft pitches AI 'agents' that can perform tasks on their own at Ignite 2024</news:title>
+            <news:publication_date>2024-11-19T18:44:01.000Z</news:publication_date>
+            <news:title>Sweeping VA reform bill with pay flexibility for health care workers passes House</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/19/microsoft-pitches-ai-agents-that-can-perform-tasks-on-their-own-at-ignite-2024.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/sweeping-va-reform-bill-with-pay-flexibility-for-health-care-workers-passes-house.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/19/forget-driverless-cars-one-company-wants-autonomous-helicopters-to-spray-crops-and-fight-fires/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-19T15:30:26.000Z</news:publication_date>
+            <news:title>Forget driverless cars. One company wants autonomous helicopters to spray crops and fight fires</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/forget-driverless-cars-one-company-wants-autonomous-helicopters-to-spray-crops-and-fight-fires.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -234,38 +290,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-11-19T15:05:47.000Z</news:publication_date>
-            <news:title>Instagram rolls out option to reset recommendations</news:title>
+            <news:title>Instagram Rolls Out Feature to Reset Content Recommendations</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/19/instagram-testing-content-recommendations.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/19/a-beautiful-machine-one-week-with-an-m4-pro-macbook-pro/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-19T14:46:41.000Z</news:publication_date>
-            <news:title>A beautiful machine: one week with an M4 Pro MacBook Pro</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/19/a-beautiful-machine-one-week-with-an-m4-pro-macbook-pro.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/19/microsoft-and-atom-computing-claim-breakthrough-in-reliable-quantum-computing/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-19T13:30:00.000Z</news:publication_date>
-            <news:title>Microsoft and Atom Computing claim breakthrough in reliable quantum computing</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/19/microsoft-and-atom-computing-claim-breakthrough-in-reliable-quantum-computing.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -280,6 +308,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/19/german-police-break-up-an-environmental-activists-camp-near-tesla-plant-outside-berlin.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/19/how-to-transform-your-architecture-review-board/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-19T09:00:00.000Z</news:publication_date>
+            <news:title>How to transform your architecture review board</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/how-to-transform-your-architecture-review-board.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -311,58 +353,30 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/18/the-dirty-little-secret-of-open-source-contributions/</loc>
+          <loc>https://majordigest.com/tech/2024/11/18/how-trumps-appointment-of-brendan-carr-as-fcc-chairman-will-affect-enterprises/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-18T09:00:00.000Z</news:publication_date>
-            <news:title>The dirty little secret of open source contributions</news:title>
+            <news:publication_date>2024-11-18T18:27:49.000Z</news:publication_date>
+            <news:title>How Trump&#8217;s appointment of Brendan Carr as FCC chairman will affect enterprises</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/18/the-dirty-little-secret-of-open-source-contributions.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/how-trumps-appointment-of-brendan-carr-as-fcc-chairman-will-affect-enterprises.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/17/how-wrong-google-search-can-compromise-your-data-bring-law-enforcement-calling/</loc>
+          <loc>https://majordigest.com/tech/2024/11/18/el-capitan-bumps-frontier-to-claim-worlds-fastest-supercomputer-title/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-17T15:00:14.000Z</news:publication_date>
-            <news:title>How a wrong Google search can compromise your data and bring law enforcement calling</news:title>
+            <news:publication_date>2024-11-18T18:02:46.000Z</news:publication_date>
+            <news:title>El Capitan bumps Frontier to claim world&#8217;s fastest supercomputer title</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/17/how-wrong-google-search-can-compromise-your-data-bring-law-enforcement-calling.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/15/a-challenge-to-recreate-how-the-international-space-station-was-built/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-15T21:41:05.000Z</news:publication_date>
-            <news:title>A challenge to recreate how the International Space Station was built</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/15/a-challenge-to-recreate-how-the-international-space-station-was-built.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/14/why-google-meet-error-might-sneaky-hacker-trick/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-14T15:00:32.000Z</news:publication_date>
-            <news:title>Why that Google Meet error might be a sneaky hacker trick</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/14/why-google-meet-error-might-sneaky-hacker-trick.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/el-capitan-bumps-frontier-to-claim-worlds-fastest-supercomputer-title.webp</image:loc>
           </image:image>
         </url></urlset>
