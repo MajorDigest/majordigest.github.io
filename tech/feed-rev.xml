@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 21 Nov 2024 15:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 16:33:18 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,24 +19,46 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>OneOdio Focus A5 Pro Headphones Review: Affordable Noise Cancellation and Hi-Res Audio</title>
-          <description><![CDATA[OneOdio's new Focus A5 Pro headphones offer impressive specs at an affordable price, with hybrid ANC, LDAC streaming, and 75 hours of battery life.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/21/these-stylish-cheap-headphones-feature-hi-res-wireless-support-long-battery-life-and-ai-based-noise-cancellation/</guid>
-          <link>https://majordigest.com/tech/2024/11/21/these-stylish-cheap-headphones-feature-hi-res-wireless-support-long-battery-life-and-ai-based-noise-cancellation/</link>
-          <pubDate>Thu, 21 Nov 2024 13:47:56 GMT</pubDate>
+          <title>Opting Out of Airport Facial Recognition: Your Rights and How to Exercise Them</title>
+          <description><![CDATA[Learn how to opt out of airport facial recognition technology in the US, including your rights and what to do if TSA officers push back.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/21/how-to-opt-out-of-airport-facial-recognition-during-thanksgiving-travel/</guid>
+          <link>https://majordigest.com/tech/2024/11/21/how-to-opt-out-of-airport-facial-recognition-during-thanksgiving-travel/</link>
+          <pubDate>Thu, 21 Nov 2024 18:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/21/these-stylish-cheap-headphones-feature-hi-res-wireless-support-long-battery-life-and-ai-based-noise-cancellation.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/21/these-stylish-cheap-headphones-feature-hi-res-wireless-support-long-battery-life-and-ai-based-noise-cancellation.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/21/how-to-opt-out-of-airport-facial-recognition-during-thanksgiving-travel.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/21/how-to-opt-out-of-airport-facial-recognition-during-thanksgiving-travel.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item>
         <item>
-          <title>The Future of AI: Red Hat Partners with Microsoft for Cloud Deployment</title>
-          <description><![CDATA[Red Hat and Microsoft collaborate to make RHEL AI and JBoss EAP 8 available on Azure cloud platform, revolutionizing AI development and application modernization.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/21/rhel-ai-jboss-eap-8-coming-to-azure-cloud/</guid>
-          <link>https://majordigest.com/tech/2024/11/21/rhel-ai-jboss-eap-8-coming-to-azure-cloud/</link>
-          <pubDate>Thu, 21 Nov 2024 01:32:42 GMT</pubDate>
+          <title>Government Efficiency Panel Plans: A New Era for Bureaucratic Reforms</title>
+          <description><![CDATA[Elon Musk and Vivek Ramaswamy propose a government efficiency panel to identify regulations for President-elect Trump, aiming to reduce headcounts across the government.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/20/elon-musk-vivek-ramaswamy-government-efficiency/</guid>
+          <link>https://majordigest.com/tech/2024/11/20/elon-musk-vivek-ramaswamy-government-efficiency/</link>
+          <pubDate>Wed, 20 Nov 2024 19:27:35 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/21/rhel-ai-jboss-eap-8-coming-to-azure-cloud.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/21/rhel-ai-jboss-eap-8-coming-to-azure-cloud.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/20/elon-musk-vivek-ramaswamy-government-efficiency.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/20/elon-musk-vivek-ramaswamy-government-efficiency.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Kotlin's Features: Enhancing Java Programming</title>
+          <description><![CDATA[Discover how Kotlin enhances Java programming with its unique features, including data classes, extension functions, properties, singletons, concurrency, and coroutines.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/20/kotlin-for-java-developers-classes-and-coroutines/</guid>
+          <link>https://majordigest.com/tech/2024/11/20/kotlin-for-java-developers-classes-and-coroutines/</link>
+          <pubDate>Wed, 20 Nov 2024 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/20/kotlin-for-java-developers-classes-and-coroutines.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/20/kotlin-for-java-developers-classes-and-coroutines.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Microsoft Bolsters Security Features in Windows Subsystem for Linux and WinGet</title>
+          <description><![CDATA[Microsoft announces new security features for Windows Subsystem for Linux (WSL) and the Windows Package Manager (WinGet), including integration with Microsoft Entra ID.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/19/microsoft-extends-entra-id-to-wsl-winget/</guid>
+          <link>https://majordigest.com/tech/2024/11/19/microsoft-extends-entra-id-to-wsl-winget/</link>
+          <pubDate>Tue, 19 Nov 2024 21:37:33 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/19/microsoft-extends-entra-id-to-wsl-winget.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/19/microsoft-extends-entra-id-to-wsl-winget.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
