@@ -4,17 +4,17 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Advanced programming with Java generics - Major Digest</title>
-  <meta name="description" content="Generics in Java enhance the type safety of your code and make it easier to read. In my last article, I introduced the general concepts of generics and showed examples from the Java Collections Framework. You also learned how to use generics to avoid runtime errors like the ClassCastException.">
+  <title>Mastering Advanced Java Generics: A Comprehensive Guide - Major Digest</title>
+  <meta name="description" content="Learn about bounded type parameters, wildcards, type erasure, generic methods, multiple bounds, lower bounds, and upper bounds in advanced Java generics.">
   <link rel="canonical" href="https://majordigest.com/tech/2024/11/21/advanced-programming-with-java-generics/">
 
-  <meta itemprop="name" content="Advanced programming with Java generics - Major Digest">
-  <meta itemprop="description" content="Generics in Java enhance the type safety of your code and make it easier to read. In my last article, I introduced the general concepts of generics and showed examples from the Java Collections Framework. You also learned how to use generics to avoid runtime errors like the ClassCastException.">
+  <meta itemprop="name" content="Mastering Advanced Java Generics: A Comprehensive Guide - Major Digest">
+  <meta itemprop="description" content="Learn about bounded type parameters, wildcards, type erasure, generic methods, multiple bounds, lower bounds, and upper bounds in advanced Java generics.">
   <link itemprop="url" href="https://majordigest.com/tech/2024/11/21/advanced-programming-with-java-generics/">
   <meta itemprop="image" content="https://majordigest.com/static11/tech/2024/11/21/advanced-programming-with-java-generics.webp">
 
-  <meta property="og:title" content="Advanced programming with Java generics - Major Digest">
-  <meta property="og:description" content="Generics in Java enhance the type safety of your code and make it easier to read. In my last article, I introduced the general concepts of generics and showed examples from the Java Collections Framework. You also learned how to use generics to avoid runtime errors like the ClassCastException.">
+  <meta property="og:title" content="Mastering Advanced Java Generics: A Comprehensive Guide - Major Digest">
+  <meta property="og:description" content="Learn about bounded type parameters, wildcards, type erasure, generic methods, multiple bounds, lower bounds, and upper bounds in advanced Java generics.">
   <meta property="og:url" content="https://majordigest.com/tech/2024/11/21/advanced-programming-with-java-generics/">
   <meta property="og:image" content="https://majordigest.com/static11/tech/2024/11/21/advanced-programming-with-java-generics.webp">
   <meta property="og:type" content="website">
@@ -23,11 +23,11 @@
   <meta property="fb:pages" content="113570554924596">
   <!-- <meta property="fb:app_id" content="490025408049997"> -->
 
-  <meta name="twitter:title" content="Advanced programming with Java generics - Major Digest">
-  <meta name="twitter:description" content="Generics in Java enhance the type safety of your code and make it easier to read. In my last article, I introduced the general concepts of generics and showed examples from the Java Collections Framework. You also learned how to use generics to avoid runtime errors like the ClassCastException.">
+  <meta name="twitter:title" content="Mastering Advanced Java Generics: A Comprehensive Guide - Major Digest">
+  <meta name="twitter:description" content="Learn about bounded type parameters, wildcards, type erasure, generic methods, multiple bounds, lower bounds, and upper bounds in advanced Java generics.">
   <meta name="twitter:url" content="https://majordigest.com/tech/2024/11/21/advanced-programming-with-java-generics/">
   <meta name="twitter:image" content="https://majordigest.com/static11/tech/2024/11/21/advanced-programming-with-java-generics.webp">
-  <meta name="twitter:image:alt" content="Advanced programming with Java generics - Major Digest">
+  <meta name="twitter:image:alt" content="Mastering Advanced Java Generics: A Comprehensive Guide - Major Digest">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@major_digest">
   <meta name="twitter:creator" content="@vpodk">
@@ -59,12 +59,12 @@
   <a href="#main" class="skip-nav">Skip to Main Content</a>
   <header>
     <span>
-      <time datetime="2024-11-21T10:01:40.487Z" itemprop="datePublished">Thursday, November 21, 2024</time> &nbsp;
+      <time datetime="2024-11-21T18:00:41.223Z" itemprop="datePublished">Thursday, November 21, 2024</time> &nbsp;
     </span>
     <h1>
       <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
           height="50"></a>
-      <span>Advanced programming with Java generics - Major Digest</span>
+      <span>Mastering Advanced Java Generics: A Comprehensive Guide - Major Digest</span>
     </h1>
   </header>
   <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
@@ -86,683 +86,73 @@
     "@type": "ListItem", "position": 2, "name": "tech",
     "item": "https://majordigest.com/tech/"
   }, {
-    "@type": "ListItem", "position": 3, "name": "Advanced programming with Java generics - Major Digest"
+    "@type": "ListItem", "position": 3, "name": "Mastering Advanced Java Generics: A Comprehensive Guide - Major Digest"
   }]
 }
 </script>
 <div itemscope itemtype="https://schema.org/NewsArticle" class="article">
   <meta itemprop="dateModified" content="Thu, 21 Nov 2024 09:00:00 GMT">
   <meta itemprop="url" content="/tech/2024/11/21/advanced-programming-with-java-generics/">
-  <h2 itemprop="headline">Advanced programming with Java generics</h2>
+  <h2 itemprop="headline">Mastering Advanced Java Generics: A Comprehensive Guide</h2>
   <div itemprop="articleBody">
-    <img src="/static11/tech/2024/11/21/advanced-programming-with-java-generics.webp" alt="Advanced programming with Java generics" align="left" itemprop="image" width="400" height="225">
-    <div id="remove_no_follow">
-		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
-					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
-						<div class="article-column__content">
-<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
-
-
-
-<p>Generics in Java enhance the type safety of your code and make it easier to read. In my last article, I introduced the general concepts of generics and showed examples from the Java Collections Framework. You also learned how to use generics to avoid runtime errors like the <code>ClassCastException</code>.</p>
-
-
-
-<p>This article goes into more advanced concepts. I introduce sophisticated type constraints and operations that enhance type safety and flexibility, along with key concepts such as bounded type parameters, which restrict the types used with generics and wildcards and allow method parameters to accept varying types. You’ll also see examples of how to use type erasure for backward compatibility and enable generic methods for type inference.</p>
-
-
-
-<h3 class="wp-block-heading" id="generic-type-inference">Generic type inference</h3>
-
-
-
-<p><em>Type inference</em>, introduced in Java 7, allows the Java compiler to automatically determine or infer the types of parameters and return types based on method arguments and the target type. This feature simplifies your code by reducing the verbosity of generics usage.</p>
-
-
-
-<p>When you use generics, you often specify the type inside angle brackets. For example, when creating a list of strings, you would specify the type as follows:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-List<String> myList = new ArrayList<String>();
-</code>
-</pre>
-
-
-
-
-<p>However, with type inference, the Java compiler can infer the type of collection from the variable to which it is assigned. This allows you to write the above code more succinctly:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-List<String> myList = new ArrayList<>();
-</code>
-</pre>
-
-
-
-
-<p>With type inference, you don’t need to repeat <code>String</code> in the constructor of <code>ArrayList</code>. The compiler understands that since <code>myList</code> is a <code>List<String></code>, the <code>ArrayList<>()</code> must also be a <code>String</code> type.</p>
-
-
-
-<p>Type inference helps make your code cleaner and easier to read. It also reduces the chance of errors from specifying generic types, which makes working with generics easier. Type inference is particularly useful in complex operations involving generics nested within generics.</p>
-
-
-
-<p>Type inference became increasingly useful in Java 8 and later, where it extended to lambda expressions and method arguments. This allows for even more concise and readable code without losing the safety and benefits of generics.</p>
-
-
-
-<h3 class="wp-block-heading" id="bounded-and-unbounded-type-parameters">Bounded and unbounded type parameters</h3>
-
-
-
-<p>In Java, you can use <em>bounds</em> to limit the types that a type parameter can accept. While <em>bounded type parameters</em> restrict the types that can be used with a generic class or method to those that fulfill certain conditions, <em>unbounded type parameters</em> offer broader flexibility by allowing any type to be used. Both are beneficial.</p>
-
-
-
-<h3 class="wp-block-heading" id="unbounded-type-parameters">Unbounded type parameters</h3>
-
-
-
-<p>An <em>unbounded type parameter</em> has no explicit constraints placed on the type of object it can accept. It is simply declared with a type parameter, usually represented by single uppercase letters like E, T, K, or V. An unbounded type parameter can represent any <em>non-primitive </em>type (since Java generics do not support primitive types directly).</p>
-
-
-
-<p>Consider the generic <code>Set<E></code> interface from the Java Collections Framework:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-Set<String> stringSet = new HashSet<>();
-Set<Employee> employeeSet = new HashSet<>();
-Set<Customer> customerSet = new HashSet<>();
-</code>
-</pre>
-
-
-
-
-<p>Here, E represents an unbounded type parameter within the context of a <code>Set</code>. This means any class type can substitute E. Moreover, the specific type of E is determined at the time of instantiation, as seen in the examples where <code>String</code>, <code>Employee</code>, and <code>Customer</code> replace E.</p>
-
-
-
-<h3 class="wp-block-heading" id="characteristics-and-implications-of-unbounded-type-parameters">Characteristics and implications of unbounded type parameters</h3>
-
-
-
-<ol class="wp-block-list">
-<li><strong>Maximum flexibility</strong>: Unbounded generics are completely type-agnostic, meaning they can hold any type of object. They are ideal for collections or utilities that do not require specific operations dependent on the type, such as adding, removing, and accessing elements in a list or set.</li>
-</ol>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Type safety</strong>: Although an unbounded generic can hold any type, it still provides type safety compared to raw types like a plain <code>List</code> or <code>Set</code> without generics. For example, once you declare a <code>Set<String></code>, you can only add strings to this set, which prevents runtime type errors.</li>
+    <img src="/static11/tech/2024/11/21/advanced-programming-with-java-generics.webp" alt="Mastering Advanced Java Generics: A Comprehensive Guide" align="left" itemprop="image" width="400" height="225">
+    <h3>Bounded Type Parameters: Enhancing Type Safety and Functionality</h3>
+
+<p>Bounded type parameters are a powerful feature in Java generics that allow developers to limit the allowable types in generics to specific subclasses or interfaces. This enhances type safety and functionality by restricting the types that can be used with a particular generic method.</p>
+<ul>
+  <li>Bounded type parameters provide compile-time checks, reducing the risk of runtime errors.</li>
+  <li>They are particularly useful when working with legacy code or libraries that do not support generics.</li>
 </ul>
 
+<h3>Wildcards: Adding Flexibility and Managing Covariance and Contravariance</h3>
 
-
-<ul class="wp-block-list">
-<li><strong>Errors</strong>: Because the type of the elements is not guaranteed, operations that depend on specific methods of the elements are not possible without casting, which can lead to errors if not handled carefully.</li>
+<p>Wildcards are a versatile feature in Java generics that allow developers to create generic methods that handle parameters of varying types. This adds flexibility while managing covariance and contravariance.</p>
+<ul>
+  <li>The two types of wildcards are `? extends T` (upper bound) and `? super T` (lower bound).</li>
+  <li>Upper bounds allow for read-only operations, ensuring that the retrieved items are at least of type T.</li>
+  <li>Lower bounds enable write operations, allowing additions of objects of type T or its subclasses.</li>
 </ul>
 
+<h3>Type Erasure: Ensuring Backward Compatibility</h3>
 
-
-<h3 class="wp-block-heading" id="bounded-type-parameters">Bounded type parameters</h3>
-
-
-
-<p>A <em>bounded type parameter</em> is a generic type parameter that specifies a boundary for the types it can accept. This is done using the extends keyword for classes and interfaces. This keyword effectively says that the type parameter must be a subtype of a specified class or interface.</p>
-
-
-
-<p>The following example demonstrates an effective use of a bounded type parameter:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-public class NumericOperations {
-    // Generic method to calculate the square of a number
-    public static <T extends Number> double square(T number) {
-        return number.doubleValue() * number.doubleValue();
-    }
-
-    public static void main(String[] args) {
-        System.out.println("Square of 5: " + square(5));
-        System.out.println("Square of 7.5: " + square(7.5));
-    }
-}
-</code>
-</pre>
-
-
-
-
-<p>Consider the elements in this code:</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Class definition</strong>: <code>NumericOperations</code> is a simple Java class containing a static method square.</li>
-
-
-
-<li><strong>Generic method</strong>: <code>square</code> is a static method defined with a generic type T that is bounded by the <code>Number</code> class. This means T can be any class that extends <code>Number</code> (like <code>Integer</code>, <code>Double</code>, <code>Float</code>, and so on).</li>
-
-
-
-<li><strong>Method operation</strong>: The method calculates the square of the given number by converting it to a double (using <code>doubleValue()</code>) and then multiplying it by itself.</li>
-
-
-
-<li><strong>Usage in main method</strong>: The <code>square</code> method is called with different types of numeric values (<code>int</code> and <code>double</code>) that are autoboxed to <code>Integer</code> and <code>Double</code>, demonstrating its flexibility.</li>
+<p>Type erasure is a process that removes generic type information at runtime in Java generics. This leads to backward compatibility and ensures that older code can still run without issues.</p>
+<ul>
+  <li>Type erasure means that generic details are not maintained post-compilation, but rather removed for legacy code support.</li>
+  <li>Developers can use type casts to ensure correct data types when working with erased generics.</li>
 </ul>
 
+<h3>Generic Methods and Type Inference: Simplifying Code with Reduced Verbosity</h3>
 
-
-<h3 class="wp-block-heading" id="when-to-use-bounded-type-parameters">When to use bounded type parameters</h3>
-
-
-
-<p>Bounded-type parameters are particularly useful in several scenarios:</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Enhancing type safety</strong>: By restricting the types that can be used as arguments, you ensure the methods or classes only operate on types guaranteed to support the necessary operations or methods, thus preventing runtime errors.</li>
-
-
-
-<li><strong>Writing reusable code</strong>: Bounded type parameters allow you to write more generalized yet safe code that can operate on a family of types. You can write a single method or class that works on any type that meets the bound condition.</li>
-
-
-
-<li><strong>Implementing algorithms</strong>: For algorithms that only make sense for certain types (like numerical operations and comparison operations), bounded generics ensure the algorithm is not misused with incompatible types.</li>
+<p>Generic methods are a powerful feature in Java that allows developers to create reusable code. When combined with type inference, they reduce verbosity in your code by allowing the compiler to deduce types from context.</p>
+<ul>
+  <li>Type inference is available from Java 7 onwards and provides significant benefits for generic method development.</li>
+  <li>It simplifies code and reduces the need for explicit type parameters, making it easier to write robust components and APIs.</li>
 </ul>
 
+<h3>Multiple Bounds: Enforcing Multiple Type Conditions</h3>
 
-
-<h3 class="wp-block-heading" id="a-generic-method-with-multiple-bounds">A generic method with multiple bounds</h3>
-
-
-
-<p>You’ve learned about bounded and unbounded type parameters, so now let’s look at an example. The following generic method requires its parameter to be both a certain type of animal and capable of performing specific actions.</p>
-
-
-
-<p>In the example below, we want to ensure that any type passed to our generic method is a subclass of <code>Animal</code> and implements the <code>Walker</code> interface.</p>
-
-
-
-<pre class="prettyprint">
-<code>
-class Animal {
-    void eat() {
-        System.out.println("Eating...");
-    }
-}
-
-interface Walker {
-    void walk();
-}
-
-class Dog extends Animal implements Walker {
-    @Override
-    public void walk() {
-        System.out.println("Dog walking...");
-    }
-}
-
-class Environment {
-    public static <T extends Animal & Walker> void simulate(T creature) {
-        creature.eat();
-        creature.walk();
-    }
-    
-    public static void main(String[] args) {
-        Dog myDog = new Dog();
-        simulate(myDog);
-    }
-}
-</code>
-</pre>
-
-
-
-
-<p>Consider the elements in this code:</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Animal class</strong>: This is the <em>class bound</em>: The type parameter must be a subclass of <code>Animal</code>.</li>
-
-
-
-<li><strong>Walker interface</strong>: This is the <em>interface bound</em>: The type parameter must also implement the <code>Walker</code> interface.</li>
-
-
-
-<li><strong>Dog class</strong>: This class qualifies as it extends <code>Animal</code> and implements <code>Walker</code>.</li>
-
-
-
-<li><strong>Simulate method</strong>: This generic method in the <code>Environment</code> class accepts a generic parameter, T, that extends <code>Animal</code> and implements <code>Walker</code>.</li>
+<p>Multiple bounds are a feature in Java generics that allow developers to enforce multiple type conditions for a generic parameter. This promotes functional and type safety by ensuring that parameters meet all specified requirements.</p>
+<ul>
+  <li>Multiple bounds can be used with various combinations of inheritance or interface constraints.</li>
+  <li>They require more detailed planning but offer robustness and maintainability in complex systems.</li>
 </ul>
 
+<h3>Lower and Upper Bounds: Managing Write and Read Operations</h3>
 
-
-<p>Using multiple bounds (T extends <code>Animal</code> and <code>Walker</code>) ensures the simulated method can work with any animal that walks. In this example, we see how bounded generic types leverage polymorphism and ensure type safety.</p>
-
-
-
-<h3 class="wp-block-heading" id="wildcards-in-generics">Wildcards in generics </h3>
-
-
-
-<p>In Java, a wildcard generic type is represented with the question mark (<code>?</code>) symbol and used to denote an unknown type. Wildcards are particularly useful when writing methods that operate on objects of generic classes. Still, you don’t need to specify or care about the exact object type.</p>
-
-
-
-<h3 class="wp-block-heading" id="when-to-use-wildcards-in-java">When to use wildcards in Java</h3>
-
-
-
-<p>Wildcards are used when the exact type of the collection elements is unknown or when the method needs to be generalized to handle multiple object types. Wildcards add flexibility to method parameters, allowing a method to operate on collections of various types.</p>
-
-
-
-<p>Wildcards are particularly useful for creating methods that are more adaptable and reusable across different types of collections. A wildcard allows a method to accept collections of any type, reducing the need for multiple method implementations or excessive method overloading based on different collection types.</p>
-
-
-
-<p>As an example, consider a simple method, <code>displayList</code>, designed to print elements from any type of <code>List</code>:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-import java.util.List;
-
-public class Demo {
-    public static void main(String[] args) {
-        List<String> colors = List.of("Red", "Blue", "Green", "Yellow");
-        List<Integer> numbers = List.of(10, 20, 30);
-
-        displayList(colors);
-        displayList(numbers);
-    }
-
-     static void displayList(List<?> list) {
-        for (Object item : list) {
-            System.out.print(item + " "); // Print each item on the same line separated by a space
-        }
-        System.out.println(); // Print a newline after each list
-    }
-}
-</code>
-</pre>
-
-
-
-
-<p>The output from this method would be:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-Red Blue Green Yellow 
-10 20 30 
-</code>
-</pre>
-
-
-
-
-<p>Consider the elements of this code:</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>List creation</strong>: Lists are created using <code>List.of()</code>, which provides a concise and immutable way to initialize the list with predefined elements.</li>
-
-
-
-<li><strong>displayList method</strong>: This method accepts a list with elements of any type (<code>List<?></code>). Using a wildcard (<code>?</code>) allows the method to handle lists containing objects of any type.</li>
+<p>Lower and upper bounds are essential concepts in Java generics that support write operations (lower bounds) and read-only operations (upper bounds).</p>
+<ul>
+  <li>Lower bounds enable the addition of objects of type T or its subclasses, allowing for dynamic modification.</li>
+  <li>Upper bounds ensure that all retrieved items are at least of type T, providing a robust data retrieval mechanism.</li>
 </ul>
 
+<h3>Conclusion: Mastering Advanced Java Generics for Robust Components and APIs</h3>
 
-
-<p>This output confirms that the <code>displayList</code> method effectively prints elements from both string and integer lists, showcasing the versatility of wildcards.</p>
-
-
-
-<h3 class="wp-block-heading" id="lower-bound-wildcards">Lower-bound wildcards</h3>
-
-
-
-<p>To declare a lower-bound wildcard, you use the <code>? <em>super T</em></code> syntax, where <code>T</code> is the type that serves as the lower bound. This means that the generic type can accept <code>T</code> or any of its superclasses (including <code>Object</code>, the superclass of all classes).</p>
-
-
-
-<p>Let’s consider a method that processes a list by adding elements. The method should accept lists of a given type or any of its superclasses. Here’s how you might define such a method:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-public void addElements(List<? super Integer> list) {
-    list.add(10);  // This is valid because the list is typed to Integer or a superclass of Integer
-}
-</code>
-</pre>
-
-
-
-
-<p>In this example, <code>List<? super Integer></code> can accept a <code>List<Integer></code>, a <code>List<Number></code>, or a <code>List<Object></code> because both <code>Number</code> and <code>Object</code> are superclasses of <code>Integer</code>.</p>
-
-
-
-<h3 class="wp-block-heading" id="benefits-of-lower-bound-wildcards">Benefits of lower-bound wildcards</h3>
-
-
-
-<p>Flexibility and compatibility are the main benefits of using lower-bound wildcards:</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Flexibility</strong>: A lower-bound wildcard allows methods to work with arguments of different types while still enforcing type safety. This is particularly useful for operations that put elements into a collection.</li>
-
-
-
-<li><strong>Compatibility</strong>: Functions that use lower-bound wildcards can operate on a broader range of data types, enhancing API flexibility.</li>
+<p>This comprehensive guide has walked you through advanced concepts in Java generics, including bounded type parameters, wildcards, type erasure, generic methods, multiple bounds, lower bounds, and upper bounds. By mastering these features, developers can create robust components and APIs that are both efficient and maintainable.</p>
+<ul>
+  <li>Practice is key to fully understanding and applying advanced Java generics concepts.</li>
+  <li>Examples and code snippets provided throughout this guide demonstrate the practical application of each concept.</li>
 </ul>
-
-
-
-<p>Lower-bound wildcards are particularly useful in scenarios where data is being added to a collection rather than read from it. For example, consider a function designed to add a fixed set of elements to any kind of numeric list:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-public void addToNumericList(List<? super Number> list) {
-    list.add(Integer.valueOf(5));
-    list.add(Double.valueOf(5.5));
-}
-</code>
-</pre>
-
-
-
-
-<p>This method can accept a <code>List<Number></code>, <code>List<Object></code>, or any other list where <code>Number</code> is a superclass of the list’s element type.</p>
-
-
-
-<p>So, why not use <code>List<Object></code> instead of a wildcard? The reason is flexibility: If we have the <code>displayList</code> method configured to receive a <code>List<Object></code>, we will <em>only</em> be able to pass a <code>List<Object></code>. For example, if we tried passing a <code>List<String></code>, considering the <code>String</code> type is an <code>Object</code>, we would receive a compilation error:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-List<String> stringList = Arrays.asList("hello", "world");
-displayList(stringList); // Compilation error here because displayList expects List<Object>
-
-public void displayList(List<Object> list) {
-    System.out.println(list);
-}
-</code>
-</pre>
-
-
-
-
-<p>If we want to make a collection flexible enough to receive any type, we must use a wildcard or a type parameter.</p>
-
-
-
-<h3 class="wp-block-heading" id="key-differences-between-type-parameters-and-wildcards">Key differences between type parameters and wildcards</h3>
-
-
-
-<p>You’ve learned about both type parameters and wildcards, two advanced elements in Java generics. Understanding how these elements are different will help you know when to use each of them:</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Flexibility vs. specificity</strong>: Wildcards offer more flexibility for methods that operate on various objects without specifying a particular type. Type parameters demand specific types and enforce consistency within the use of the class or method where they are defined.</li>
-
-
-
-<li><strong>Read vs. write</strong>: Typically, you use <code>? extends Type</code> when you only need to read from a structure because the items will all be instances of <code>Type</code> or its subtypes. <code>? super Type</code> is used when you need to write to a structure, ensuring that the structure can hold items of type <code>Type</code> or any type that is a superclass of <code>Type</code>. Type parameters <code>T</code> are used when both operations are required or when operations depend on each other.
-</li>
-
-
-
-<li><strong>Scope</strong>: Wildcards are generally used for broader operations in a limited scope (like a single method), while type parameters define a type that can be used throughout a class or a method, providing more extensive code reuse.</li>
-</ul>
-
-
-
-<h3 class="wp-block-heading" id="key-differences-between-upper-and-lower-bounds">Key differences between upper and lower bounds</h3>
-
-
-
-<p>Now that we know more about type parameters and wildcards, let’s explore the differences between upper bounds and lower bounds.</p>
-
-
-
-<p><code>List<? super Animal></code> is an example of a lower-bound list. It is a <em>lower-bound</em> because <code>Animal</code> is the lowest or <em>least specific</em> class you can use. You can use <code>Animal</code> or any type that is a superclass of <code>Animal</code> (such as <code>Object</code>) to effectively go upward in the class hierarchy to more general types.</p>
-
-
-
-<ul class="wp-block-list">
-<li>Conceptually, lower bounds set a floor, or a minimum level of generality. You can’t go any lower in generality than this limit.</li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li>The purpose of the lower bound in this example is to allow the list to accept assignments of <code>Animal</code> and any of its subtypes. A lower bound is used when you want to add objects into a list.</li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li>A lower-bound list is often used when you are writing to the list because you can safely add an <code>Animal</code> or any subtype of <code>Animal</code> (e.g., Dog or Cat) to the list, knowing that whatever the actual list type is, it can hold items of type <code>Animal</code> or more generic types (like <code>Object</code>).</li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li>When you retrieve an item from such a list, all you know is that it is at least an <code>Object</code> (the most general type in Java), because the specific type parameter could be any superclass of <code>Animal</code>. As such, you must explicitly cast it if you need to treat it as an <code>Animal</code> or any other specific type.</li>
-</ul>
-
-
-
-<p>Now let’s look at an upper-bound list: <code>List<? extends Animal></code>. In this case, <code>Animal</code> is the highest or most specific class in the hierarchy that you can use. You can use <code>Animal</code> itself or any class that is a subtype of <code>Animal</code> (like <code>Dog</code> or <code>Cat</code>), but you cannot use anything more general than <code>Animal</code>.</p>
-
-
-
-<ul class="wp-block-list">
-<li>Think of upper bounds as setting a ceiling on how specific the types in your collection can be. You can’t go higher than this limit.</li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li>The purpose of the upper-bound limit is to allow the list to accept assignments of <code>Animal</code> or any superclass of <code>Animal</code>, but you can only retrieve items from it as <code>Animal</code> or its subtypes.</li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li>This type of list is primarily used when you are reading from the list and not modifying it. You can safely read from it knowing that everything you retrieve can be treated as an <code>Animal</code> or more specific types (<code>Dog</code> or <code>Cat</code>); still, you cannot know the exact subtype.</li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li>You cannot add items to an upper-bound list (except for null, which matches any reference type) because you do not know what specific subtype of <code>Animal</code> the list is meant to hold. Adding an <code>Animal</code> could violate the list’s type integrity if, for example, the list was <code>List<Cat></code>.</li>
-</ul>
-
-
-
-<h3 class="wp-block-heading" id="writing-bounded-lists">Writing bounded lists</h3>
-
-
-
-<p>When writing lower- and upper-bound lists, remember this:</p>
-
-
-
-<ul class="wp-block-list">
-<li><code>List<? super Animal></code> (lower bound) can add <code>Animal</code> and its subtypes.</li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li><code>List<? extends Animal></code> (upper bound) cannot add <code>Animal</code> or any subtype (except null).</li>
-</ul>
-
-
-
-<h3 class="wp-block-heading" id="reading-bounded-lists">Reading bounded lists</h3>
-
-
-
-<p>When reading lower- and upper-bound lists, remember this:</p>
-
-
-
-<ul class="wp-block-list">
-<li><code>List<? super Animal></code>: Items retrieved from a lower-bound list are of an indeterminate type up to <code>Object</code>. Casting is required for this item to be used as <code>Animal</code>.</li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li><code>List<? extends Animal></code>: Items retrieved are known to be at least <code>Animal</code>, so no casting is needed to treat them as <code>Animal</code>.</li>
-</ul>
-
-
-
-<h3 class="wp-block-heading" id="an-example-of-upper-and-lower-bound-lists">An example of upper- and lower-bound lists</h3>
-
-
-
-<p>Imagine you have a method to add an <code>Animal</code> to a list and another method to process animals from a list:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-void addAnimal(List<? super Animal> animals, Animal animal) {
-    animals.add(animal); // This is valid.
-}
-
-Animal getAnimal(List<? extends Animal> animals, int index) {
-    return animals.get(index); // No casting needed, returns Animal type.
-}
-</code>
-</pre>
-
-
-
-
-<p>In this setup:</p>
-
-
-
-<ul class="wp-block-list">
-<li><code>addAnimal</code> can accept a <code>List<Animal></code>, <code>List<Object></code>, etc., because they can all hold an <code>Animal</code>.</li>
-
-
-
-<li><code>getAnimal</code> can work with <code>List<Animal></code>, <code>List<Dog></code>, etc., safely returning <code>Animal</code> or any subtype without risking a <code>ClassCastException</code>.</li>
-</ul>
-
-
-
-<p>This shows how Java generics use the <code>extends</code> and <code>super</code> keywords to control what operations are safe regarding reading and writing, aligning with the intended operations of your code.</p>
-
-
-
-<h3 class="wp-block-heading" id="conclusion">Conclusion</h3>
-
-
-
-<p>Knowing how to apply advanced concepts of generics will help you create robust components and Java APIs. Let’s recap the most important points of this article.</p>
-
-
-
-<h3 class="wp-block-heading" id="bounded-type-parameters">Bounded type parameters</h3>
-
-
-
-<p>You learned that bounded type parameters limit the allowable types in generics to specific subclasses or interfaces, enhancing type safety and functionality.</p>
-
-
-
-<h3 class="wp-block-heading" id="wildcards">Wildcards</h3>
-
-
-
-<p>Use wildcards (<code>? extends</code> and <code>? super</code>) to allow generic methods to handle parameters of varying types, adding flexibility while managing covariance and contravariance. In generics, wildcards enable methods to work with collections of unknown types. This feature is crucial for handling variance in method parameters.</p>
-
-
-
-<h3 class="wp-block-heading" id="type-erasure">Type erasure</h3>
-
-
-
-<p>This advanced feature enables backward compatibility by removing generic type information at runtime, which leads to generic details not being maintained post-compilation.</p>
-
-
-
-<h3 class="wp-block-heading" id="generic-methods-and-type-inference">Generic methods and type inference</h3>
-
-
-
-<p>Type inference reduces verbosity in your code, allowing the compiler to deduce types from context and simplify code, especially from Java 7 onwards.</p>
-
-
-
-<h3 class="wp-block-heading" id="multiple-bounds-in-java-generics">Multiple bounds in Java generics</h3>
-
-
-
-<p>Use multiple bounds to enforce multiple type conditions (e.g., <code><T extends Animal & Walker></code>). Ensuring parameters meet all the specified requirements promotes functional and type safety.</p>
-
-
-
-<h3 class="wp-block-heading" id="lower-bounds">Lower bounds</h3>
-
-
-
-<p>These support write operations by allowing additions of (in our example) <code>Animal </code>and its subtypes. Retrieves items recognized as <code>Object</code>, requiring casting for specific uses due to the general nature of lower bounds.</p>
-
-
-
-<h3 class="wp-block-heading" id="upper-bounds">Upper bounds</h3>
-
-
-
-<p>These facilitate read operations, ensuring all retrieved items are at least (in our example) <code>Animal</code>, eliminating the need for casting. Restricts additions (except for null) to maintain type integrity, highlighting the restrictive nature of upper bounds.</p>
-</div></div></div></div>
+<!-- Rev: 2.1  -->
   </div>
   <p>
     Source:
