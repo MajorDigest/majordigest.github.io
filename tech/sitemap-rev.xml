@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/11/20/microsoft-ignite-2024-get-the-latest-news-and-insights/</loc>
+          <loc>https://majordigest.com/tech/2024/11/22/los-cio-consideran-que-la-gestion-de-costes-puede-acabar-con-el-valor-de-la-ia/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-20T15:52:06.000Z</news:publication_date>
-            <news:title>Microsoft Ignite Conference: AI Capabilities and Partnerships</news:title>
+            <news:publication_date>2024-11-22T07:25:23.000Z</news:publication_date>
+            <news:title>Implementación efectiva de Inteligencia Artificial (IA) en empresas</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/microsoft-ignite-2024-get-the-latest-news-and-insights.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/22/los-cio-consideran-que-la-gestion-de-costes-puede-acabar-con-el-valor-de-la-ia.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/19/linux-command-line-for-beginners-12-essential-commands/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-19T18:10:03.000Z</news:publication_date>
+            <news:title>Essential Linux Commands for Beginners</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/linux-command-line-for-beginners-12-essential-commands.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/16/amazon-developing-driver-eyeglasses-to-shave-seconds-off-deliveries/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-16T23:28:47.000Z</news:publication_date>
+            <news:title>Amazon Develops Smart Eyeglasses for Delivery Drivers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/16/amazon-developing-driver-eyeglasses-to-shave-seconds-off-deliveries.webp</image:loc>
           </image:image>
         </url></urlset>
