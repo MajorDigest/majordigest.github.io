@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 22 Nov 2024 19:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 20:33:24 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,24 +19,46 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>OpenAI Plans to Develop Its Own Browser: A Challenge to Google's Dominance?</title>
-          <description><![CDATA[OpenAI reportedly developing its own browser with built-in support for Chat GPT and Search GPT, challenging Google's dominance in the market.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/22/openai-is-thinking-about-building-its-own-browser/</guid>
-          <link>https://majordigest.com/tech/2024/11/22/openai-is-thinking-about-building-its-own-browser/</link>
-          <pubDate>Fri, 22 Nov 2024 17:06:48 GMT</pubDate>
+          <title>JDK 24 Release Proposals: Key Features and Implications</title>
+          <description><![CDATA[Discover the latest proposals for JDK 24, including vector API, class-file API, and late barrier expansion.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/22/jdk-24-the-new-features-in-java-24/</guid>
+          <link>https://majordigest.com/tech/2024/11/22/jdk-24-the-new-features-in-java-24/</link>
+          <pubDate>Fri, 22 Nov 2024 19:08:21 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/openai-is-thinking-about-building-its-own-browser.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/openai-is-thinking-about-building-its-own-browser.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/jdk-24-the-new-features-in-java-24.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/jdk-24-the-new-features-in-java-24.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item>
         <item>
-          <title>US Consumer Watchdog to Supervise Major Tech Firms</title>
-          <description><![CDATA[U.S. consumer watchdog CFPB sets new rules for digital wallets and payment apps]]></description>
-          <guid>https://majordigest.com/tech/2024/11/21/apple-pay-tech-firms-cfpb-oversight/</guid>
-          <link>https://majordigest.com/tech/2024/11/21/apple-pay-tech-firms-cfpb-oversight/</link>
-          <pubDate>Thu, 21 Nov 2024 18:57:27 GMT</pubDate>
+          <title>Hypersonic Travel on the Horizon: Venus Aerospace's Stargazer Aims to Revolutionize Long-Distance Travel</title>
+          <description><![CDATA[Texas-based company, Venus Aerospace, is developing a hypersonic jet called the Stargazer that could potentially fly from New York City to London in under an hour.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/22/hypersonic-jet-promises-nyc-london-under-hour/</guid>
+          <link>https://majordigest.com/tech/2024/11/22/hypersonic-jet-promises-nyc-london-under-hour/</link>
+          <pubDate>Fri, 22 Nov 2024 11:00:12 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/21/apple-pay-tech-firms-cfpb-oversight.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/21/apple-pay-tech-firms-cfpb-oversight.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/hypersonic-jet-promises-nyc-london-under-hour.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/hypersonic-jet-promises-nyc-london-under-hour.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Azure Container Apps Offers Python and JavaScript Code Interpreter Sessions - General Availability and Public Preview</title>
+          <description><![CDATA[Microsoft's Azure Container Apps now offers general availability of Python code interpreter sessions, as well as a public preview for custom dynamic sessions with JavaScript code interpreter capabilities.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters/</guid>
+          <link>https://majordigest.com/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters/</link>
+          <pubDate>Wed, 20 Nov 2024 22:26:47 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>The Easy-Way Electric Stroller Kit: Revolutionizing Parenting with Innovation</title>
+          <description><![CDATA[Discover the innovative Easy-Way electric stroller kit that transforms any standard stroller into an electric one, making walks with little ones easier and more enjoyable.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/19/tool-made-laziest-parent-ever-easy-way-electric-stroller-kit/</guid>
+          <link>https://majordigest.com/tech/2024/11/19/tool-made-laziest-parent-ever-easy-way-electric-stroller-kit/</link>
+          <pubDate>Tue, 19 Nov 2024 11:00:56 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/19/tool-made-laziest-parent-ever-easy-way-electric-stroller-kit.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/19/tool-made-laziest-parent-ever-easy-way-electric-stroller-kit.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
