@@ -3,30 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/11/22/what-is-a-data-architect-its-data-framework-visionary/</loc>
+          <loc>https://majordigest.com/tech/2024/11/23/people-are-using-strava-to-create-amazing-street-art/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-22T10:00:00.000Z</news:publication_date>
-            <news:title>Data Architects: Key Responsibilities, Skills, and Salary Ranges</news:title>
+            <news:publication_date>2024-11-23T02:23:31.000Z</news:publication_date>
+            <news:title>Toronto Runner Creates Intricate Strava Map of His Route</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/22/what-is-a-data-architect-its-data-framework-visionary.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/23/people-are-using-strava-to-create-amazing-street-art.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/19/overhaul-of-security-clearance-and-personnel-vetting-process-enters-new-phase/</loc>
+          <loc>https://majordigest.com/tech/2024/11/22/dell-shares-its-vision-of-the-ai-factory-powered-by-nvidia/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-19T21:52:22.000Z</news:publication_date>
-            <news:title>White House Initiative Enters New Phase, Government Efficiency Plans Unveiled</news:title>
+            <news:publication_date>2024-11-22T03:45:59.000Z</news:publication_date>
+            <news:title>AI Factories: Revolutionizing Business with AI-Optimized Infrastructure and Services</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/19/overhaul-of-security-clearance-and-personnel-vetting-process-enters-new-phase.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/22/dell-shares-its-vision-of-the-ai-factory-powered-by-nvidia.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/21/red-hat-linux-to-be-official-wsl-distro/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-21T19:39:41.000Z</news:publication_date>
+            <news:title>Red Hat RHEL Becomes Official Linux Distribution for Windows Subsystem for Linux (WSL)</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/21/red-hat-linux-to-be-official-wsl-distro.webp</image:loc>
           </image:image>
         </url></urlset>
