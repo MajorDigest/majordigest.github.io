@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/11/22/2025-will-be-the-year-of-the-cio-and-cmo-collaboration/</loc>
+          <loc>https://majordigest.com/tech/2024/11/23/the-best-cozy-games-during-a-stressful-thanksgiving-season/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-22T01:18:05.000Z</news:publication_date>
-            <news:title>CIOs and CMOs: Breaking Down Silos for Better Customer Experiences in 2025</news:title>
+            <news:publication_date>2024-11-23T18:00:00.000Z</news:publication_date>
+            <news:title>Cozy Gaming: A Refuge from Turbulent Times</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/22/2025-will-be-the-year-of-the-cio-and-cmo-collaboration.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/23/the-best-cozy-games-during-a-stressful-thanksgiving-season.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/20/apple-admins-update-your-hardware-now/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-20T16:46:48.000Z</news:publication_date>
+            <news:title>Apple Responds to Zero-Day Attacks with Patches - Update Now!</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/apple-admins-update-your-hardware-now.webp</image:loc>
           </image:image>
         </url></urlset>
