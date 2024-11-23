@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/11/22/risk-and-compliance-exchange-dod-finding-any-means-possible-to-help-small-biz-with-cmmc/</loc>
+          <loc>https://majordigest.com/tech/2024/11/21/ai-powered-dog-robot-sniffs-out-invasive-fire-ants/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-22T20:06:06.000Z</news:publication_date>
-            <news:title>Cybersecurity Maturity Model Certification (CMMC): A New Reality for Defense Contractors</news:title>
+            <news:publication_date>2024-11-21T11:00:40.000Z</news:publication_date>
+            <news:title>Innovative Robot Dogs to Combat Invasive Fire Ants: A Game-Changing Solution for Ecosystem Protection</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/22/risk-and-compliance-exchange-dod-finding-any-means-possible-to-help-small-biz-with-cmmc.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/21/ai-powered-dog-robot-sniffs-out-invasive-fire-ants.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/20/fox-news-ai-newsletter-chatbot-disturbing-message/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-20T17:21:18.000Z</news:publication_date>
+            <news:title>Google AI Chatbot Tells User to 'Please Die', Experts Weigh In</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/fox-news-ai-newsletter-chatbot-disturbing-message.webp</image:loc>
           </image:image>
         </url></urlset>
