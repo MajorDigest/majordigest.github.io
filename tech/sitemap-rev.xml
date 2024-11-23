@@ -3,16 +3,58 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/11/23/icymi-the-weeks-7-biggest-tech-stories-from-casios-smart-ring-watch-to-youtubes-spotify-wrapped/</loc>
+          <loc>https://majordigest.com/tech/2024/11/23/how-to-use-bluesky/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-23T08:00:00.000Z</news:publication_date>
-            <news:title>Latest Tech News: AR Glasses, AI Updates, and Movie Speculation</news:title>
+            <news:publication_date>2024-11-23T14:00:56.000Z</news:publication_date>
+            <news:title>Bluesky: A New Social Media Platform Rises Amid Chaos on X and Mastodon</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/23/icymi-the-weeks-7-biggest-tech-stories-from-casios-smart-ring-watch-to-youtubes-spotify-wrapped.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/23/how-to-use-bluesky.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/22/robinhood-ceo-sec-chair/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-22T20:16:33.000Z</news:publication_date>
+            <news:title>Robinhood's Dan Gallagher Declines SEC Chair Position</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/22/robinhood-ceo-sec-chair.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/22/android-16-notification-cooldown/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-22T10:45:00.000Z</news:publication_date>
+            <news:title>Custom Notification Cooldown Setup on Android with Buzzkill</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/22/android-16-notification-cooldown.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/22/angular-19-bolsters-server-side-rendering-with-incremental-hydration/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-22T00:45:57.000Z</news:publication_date>
+            <news:title>Angular 19 Brings Enhanced Server-Side Rendering and Event Replay to Developers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/22/angular-19-bolsters-server-side-rendering-with-incremental-hydration.webp</image:loc>
           </image:image>
         </url></urlset>

@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 23 Nov 2024 15:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 16:33:51 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,46 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Latest Tech News: AR Glasses, AI Updates, and Movie Speculation</title>
-          <description><![CDATA[Catch up on the latest tech news from TechRadar, including updates on Snap's Spectacles, ChatGPT, Spider-Man movies, and YouTube Music recaps.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/23/icymi-the-weeks-7-biggest-tech-stories-from-casios-smart-ring-watch-to-youtubes-spotify-wrapped/</guid>
-          <link>https://majordigest.com/tech/2024/11/23/icymi-the-weeks-7-biggest-tech-stories-from-casios-smart-ring-watch-to-youtubes-spotify-wrapped/</link>
-          <pubDate>Sat, 23 Nov 2024 08:00:00 GMT</pubDate>
+          <title>Bluesky: A New Social Media Platform Rises Amid Chaos on X and Mastodon</title>
+          <description><![CDATA[A growing rival to Elon Musk's X, Bluesky is emerging as a welcoming space with fewer trolls, offering users algorithmic choice and decentralization ethos.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/23/how-to-use-bluesky/</guid>
+          <link>https://majordigest.com/tech/2024/11/23/how-to-use-bluesky/</link>
+          <pubDate>Sat, 23 Nov 2024 14:00:56 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/23/icymi-the-weeks-7-biggest-tech-stories-from-casios-smart-ring-watch-to-youtubes-spotify-wrapped.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/23/icymi-the-weeks-7-biggest-tech-stories-from-casios-smart-ring-watch-to-youtubes-spotify-wrapped.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/23/how-to-use-bluesky.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/23/how-to-use-bluesky.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Robinhood's Dan Gallagher Declines SEC Chair Position</title>
+          <description><![CDATA[Dan Gallagher, chief legal officer at Robinhood, declines to chair the Securities and Exchange Commission (SEC) under President-elect Trump's second administration.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/22/robinhood-ceo-sec-chair/</guid>
+          <link>https://majordigest.com/tech/2024/11/22/robinhood-ceo-sec-chair/</link>
+          <pubDate>Fri, 22 Nov 2024 20:16:33 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/robinhood-ceo-sec-chair.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/robinhood-ceo-sec-chair.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Custom Notification Cooldown Setup on Android with Buzzkill</title>
+          <description><![CDATA[Learn how to set up a custom 'Notification Cooldown' feature on your Android device using the Buzzkill app, silencing back-to-back notifications from specific apps or conversations.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/22/android-16-notification-cooldown/</guid>
+          <link>https://majordigest.com/tech/2024/11/22/android-16-notification-cooldown/</link>
+          <pubDate>Fri, 22 Nov 2024 10:45:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/android-16-notification-cooldown.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/android-16-notification-cooldown.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Angular 19 Brings Enhanced Server-Side Rendering and Event Replay to Developers</title>
+          <description><![CDATA[The latest version of Google's TypeScript-based web development framework introduces incremental hydration, route-level render mode, and enables event replay by default.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/22/angular-19-bolsters-server-side-rendering-with-incremental-hydration/</guid>
+          <link>https://majordigest.com/tech/2024/11/22/angular-19-bolsters-server-side-rendering-with-incremental-hydration/</link>
+          <pubDate>Fri, 22 Nov 2024 00:45:57 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/angular-19-bolsters-server-side-rendering-with-incremental-hydration.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/angular-19-bolsters-server-side-rendering-with-incremental-hydration.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
