@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.comnull</loc>
+          <loc>https://majordigest.com/tech/2024/11/24/ai-voice-clone-scams/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-23T01:33:00.000Z</news:publication_date>
-            <news:title>Nvidia: Growth Prospects Remain Strong Amid Cooling Challenges</news:title>
+            <news:publication_date>2024-11-24T12:00:00.000Z</news:publication_date>
+            <news:title>The Rise of AI Voice Cloning Scams: How They Work and How to Stay Safe</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/23/nvidia-blackwell-quarterly-report.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/24/ai-voice-clone-scams.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/23/elon-musk-donald-trump-alliance-democrats-x-bluesky/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-23T17:00:00.000Z</news:publication_date>
+            <news:title>Bluesky's Surge: A New Social Media Player Rises Amid X Exodus</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/23/elon-musk-donald-trump-alliance-democrats-x-bluesky.webp</image:loc>
           </image:image>
         </url></urlset>
