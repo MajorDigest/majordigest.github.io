@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/11/23/bezos-musk-trump-second-term/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-23T11:00:00.000Z</news:publication_date>
-            <news:title>Bezos, Musk rivalry heats up ahead of Trump&#8217;s second term</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/23/bezos-musk-trump-second-term.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/23/nvidia-blackwell-quarterly-report/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-23T01:33:00.000Z</news:publication_date>
-            <news:title>The lingering questions around Nvidia&#8217;s strong quarterly report</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/23/nvidia-blackwell-quarterly-report.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/11/22/bitcoin-is-at-the-doorstep-of-100000-as-post-election-rally-rolls-on/</loc>
           <news:news>
             <news:publication>
@@ -45,31 +17,45 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/11/22/risk-and-compliance-exchange-dod-finding-any-means-possible-to-help-small-biz-with-cmmc/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-22T20:06:06.000Z</news:publication_date>
+            <news:title>Risk and Compliance Exchange 2024: DoD&#8217; Stacy Bostjanick, DCMA&#8217;s Jennifer Henderson on finding &#8216;any means possible&#8217; to help small biz with CMMC</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/22/risk-and-compliance-exchange-dod-finding-any-means-possible-to-help-small-biz-with-cmmc.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/22/supreme-court-facebook-cambridge-analytica/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-22T15:30:03.000Z</news:publication_date>
+            <news:title>Supreme Court drops&#160;Facebook&#8217;s appeal of investor suit in Cambridge Analytica scandal</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/22/supreme-court-facebook-cambridge-analytica.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/11/22/supreme-court-allows-multibillion-dollar-class-action-to-proceed-against-meta/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-22T18:06:52.000Z</news:publication_date>
+            <news:publication_date>2024-11-22T15:29:22.000Z</news:publication_date>
             <news:title>Supreme Court allows multibillion-dollar class action to proceed against Meta</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/22/supreme-court-allows-multibillion-dollar-class-action-to-proceed-against-meta.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/22/the-future-according-to-google-deepmind-demis-hassabis-ai-agi-alphafold/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-22T18:00:00.000Z</news:publication_date>
-            <news:title>The future according to Google DeepMind CEO Demis Hassabis</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/22/the-future-according-to-google-deepmind-demis-hassabis-ai-agi-alphafold.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -87,6 +73,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/11/22/windows-11-will-soon-be-available-on-meta-quest-3-headsets/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-22T14:53:39.000Z</news:publication_date>
+            <news:title>Windows 11 will soon be available on Meta Quest 3 headsets</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/22/windows-11-will-soon-be-available-on-meta-quest-3-headsets.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/11/22/what-is-a-data-architect-its-data-framework-visionary/</loc>
           <news:news>
             <news:publication>
@@ -101,45 +101,87 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/22/dell-shares-its-vision-of-the-ai-factory-powered-by-nvidia/</loc>
+          <loc>https://majordigest.com/tech/2024/11/22/gary-gensler-said-hell-step-down-as-sec-chair-bitcoin-is-soaring/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-22T03:45:59.000Z</news:publication_date>
-            <news:title>Dell shares its vision of the AI factory powered by NVIDIA</news:title>
+            <news:publication_date>2024-11-22T03:53:04.000Z</news:publication_date>
+            <news:title>Gary Gensler said he&#8217;ll step down as SEC chair. Bitcoin is soaring</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/22/dell-shares-its-vision-of-the-ai-factory-powered-by-nvidia.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/22/gary-gensler-said-hell-step-down-as-sec-chair-bitcoin-is-soaring.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/21/new-windows-11-tool-can-fix-devices-that-wont-boot-remotely/</loc>
+          <loc>https://majordigest.com/tech/2024/11/21/ai-networking-a-focus-of-hpes-juniper-deal-as-justice-department-concerns-swirl/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-21T19:20:45.000Z</news:publication_date>
-            <news:title>New Windows 11 tool can fix devices that won&#8217;t boot remotely</news:title>
+            <news:publication_date>2024-11-21T18:04:04.000Z</news:publication_date>
+            <news:title>AI networking a focus of HPE&#8217;s Juniper deal as Justice Department concerns swirl</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/21/new-windows-11-tool-can-fix-devices-that-wont-boot-remotely.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/21/ai-networking-a-focus-of-hpes-juniper-deal-as-justice-department-concerns-swirl.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/21/how-protect-your-deliveries-from-getting-stolen-porch-pirates/</loc>
+          <loc>https://majordigest.com/tech/2024/11/21/jeff-bezos-elon-musk-donald-trump-election/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-21T15:00:11.000Z</news:publication_date>
-            <news:title>How to protect your deliveries from getting stolen by porch pirates</news:title>
+            <news:publication_date>2024-11-21T15:49:07.000Z</news:publication_date>
+            <news:title>Bezos pushes back on Musk claim he said Trump would lose</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/21/how-protect-your-deliveries-from-getting-stolen-porch-pirates.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/21/jeff-bezos-elon-musk-donald-trump-election.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/21/doj-asks-judge-to-order-google-to-sell-chrome/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-21T14:22:22.000Z</news:publication_date>
+            <news:title>DOJ asks judge to order Google to sell Chrome</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/21/doj-asks-judge-to-order-google-to-sell-chrome.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/21/sonic-pioneer-aviz-networks-raises-17m-for-ai-network-management-push/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-21T13:49:59.000Z</news:publication_date>
+            <news:title>SONiC pioneer Aviz Networks raises $17M for AI network management push</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/21/sonic-pioneer-aviz-networks-raises-17m-for-ai-network-management-push.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/21/thai-court-dismisses-activists-suit-against-israeli-spyware-producer-over-lack-of-evidence/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-21T11:51:35.000Z</news:publication_date>
+            <news:title>Thai court dismisses activist's suit against Israeli spyware producer over lack of evidence</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/21/thai-court-dismisses-activists-suit-against-israeli-spyware-producer-over-lack-of-evidence.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -157,73 +199,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/20/cisco-pressure-to-deploy-ai-is-up-but-only-13-feel-ready/</loc>
+          <loc>https://majordigest.com/tech/2024/11/21/comcast-to-spin-off-cable-networks-once-star-performers-at-the-entertainment-giant/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-20T19:03:26.000Z</news:publication_date>
-            <news:title>Cisco: Pressure to deploy AI is up, but only 13% feel ready</news:title>
+            <news:publication_date>2024-11-21T01:26:41.000Z</news:publication_date>
+            <news:title>Comcast to spin off cable networks that were once the entertainment giant's star performers</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/cisco-pressure-to-deploy-ai-is-up-but-only-13-feel-ready.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/20/netops-startup-selector-ai-wants-to-solve-the-network-noise-problem/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-20T13:51:04.000Z</news:publication_date>
-            <news:title>NetOps startup Selector AI wants to solve the network noise problem</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/netops-startup-selector-ai-wants-to-solve-the-network-noise-problem.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/20/australia-wont-force-social-media-users-to-share-their-personal-details-when-child-ban-takes-effect/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-20T11:18:07.000Z</news:publication_date>
-            <news:title>Australia won't force social media users to share their personal details when child ban takes effect</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/20/australia-wont-force-social-media-users-to-share-their-personal-details-when-child-ban-takes-effect.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/19/2024-global-network-outage-report-and-internet-health-check/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-19T18:26:47.000Z</news:publication_date>
-            <news:title>2024 global network outage report and internet health check</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/19/2024-global-network-outage-report-and-internet-health-check.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/19/cato-networks-adds-tls-inspection-capabilities-to-sase-platform/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-19T18:18:24.000Z</news:publication_date>
-            <news:title>Cato Networks adds Safe TLS inspection capabilities to SASE platform</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/19/cato-networks-adds-tls-inspection-capabilities-to-sase-platform.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/21/comcast-to-spin-off-cable-networks-once-star-performers-at-the-entertainment-giant.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -241,31 +227,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/19/microsoft-rebrands-azure-ai-studio-to-azure-ai-foundry/</loc>
+          <loc>https://majordigest.com/tech/2024/11/19/microsoft-and-atom-computing-claim-breakthrough-in-reliable-quantum-computing/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-11-19T13:30:00.000Z</news:publication_date>
-            <news:title>Microsoft rebrands Azure AI Studio to Azure AI Foundry</news:title>
+            <news:title>Microsoft and Atom Computing claim breakthrough in reliable quantum computing</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/19/microsoft-rebrands-azure-ai-studio-to-azure-ai-foundry.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/microsoft-and-atom-computing-claim-breakthrough-in-reliable-quantum-computing.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/18/akka-distributed-computing-platform-adds-java-sdk/</loc>
+          <loc>https://majordigest.com/tech/2024/11/19/german-police-break-up-an-environmental-activists-camp-near-tesla-plant-outside-berlin/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-18T22:30:46.000Z</news:publication_date>
-            <news:title>Akka distributed computing platform adds Java SDK</news:title>
+            <news:publication_date>2024-11-19T10:52:02.000Z</news:publication_date>
+            <news:title>German police break up an environmental activists' camp near Tesla plant outside Berlin</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/18/akka-distributed-computing-platform-adds-java-sdk.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/german-police-break-up-an-environmental-activists-camp-near-tesla-plant-outside-berlin.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/19/succeeding-with-observability-in-the-cloud/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-19T09:00:00.000Z</news:publication_date>
+            <news:title>Succeeding with observability in the cloud</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/succeeding-with-observability-in-the-cloud.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -283,16 +283,30 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/17/library-of-congress-says-an-adversary-hacked-some-emails/</loc>
+          <loc>https://majordigest.com/tech/2024/11/18/judge-tosses-huckabee-lawsuit-against-meta-over-ads-suggesting-he-endorsed-marijuana-gummies/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-17T19:29:29.000Z</news:publication_date>
-            <news:title>Library of Congress says an adversary hacked some emails</news:title>
+            <news:publication_date>2024-11-18T19:06:22.000Z</news:publication_date>
+            <news:title>Judge tosses Huckabee lawsuit against Meta over ads suggesting he endorsed marijuana gummies</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/17/library-of-congress-says-an-adversary-hacked-some-emails.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/judge-tosses-huckabee-lawsuit-against-meta-over-ads-suggesting-he-endorsed-marijuana-gummies.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/18/helpful-hack-customize-your-home-screen-adding-widgets-your-iphone/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-18T11:00:19.000Z</news:publication_date>
+            <news:title>Helpful hack: Customize your home screen by adding widgets on your iPhone</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/18/helpful-hack-customize-your-home-screen-adding-widgets-your-iphone.webp</image:loc>
           </image:image>
         </url></urlset>
