@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/11/25/elon-musk-buying-msnbc/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-25T19:14:11.000Z</news:publication_date>
+            <news:title>Elon Musk entertains idea of buying MSNBC</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/elon-musk-buying-msnbc.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/25/trace3-names-jason-peoples-as-outlier-award-winner-for-2024/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-25T16:00:00.000Z</news:publication_date>
+            <news:title>Trace3 names Jason Peoples as Outlier Award winner for 2024</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/trace3-names-jason-peoples-as-outlier-award-winner-for-2024.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/11/25/viajes-aereos-100-digitales-seguros-y-personalizados-gracias-a-la-biometria/</loc>
           <news:news>
             <news:publication>
@@ -14,6 +42,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/25/viajes-aereos-100-digitales-seguros-y-personalizados-gracias-a-la-biometria.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/25/judge-to-hear-arguments-on-whether-googles-advertising-tech-constitutes-a-monopoly/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-25T10:30:57.000Z</news:publication_date>
+            <news:title>Judge hears closing arguments on whether Google's advertising tech constitutes a monopoly</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/judge-to-hear-arguments-on-whether-googles-advertising-tech-constitutes-a-monopoly.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -31,48 +73,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/25/erp-modernization-still-a-make-or-break-project-for-cios/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-25T10:01:00.000Z</news:publication_date>
-            <news:title>ERP modernization: Still a make-or-break project for CIOs</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/25/erp-modernization-still-a-make-or-break-project-for-cios.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/25/judge-in-alex-jones-bankruptcy-to-hear-arguments-on-the-onions-bid-for-infowars/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-25T05:06:40.000Z</news:publication_date>
-            <news:title>Judge in Alex Jones' bankruptcy case to hear arguments on The Onion's bid for Infowars</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/25/judge-in-alex-jones-bankruptcy-to-hear-arguments-on-the-onions-bid-for-infowars.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/24/free-email-services-costing-you-more-than-you-think/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-24T11:00:17.000Z</news:publication_date>
-            <news:title>Free email services are costing you more than you think</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/24/free-email-services-costing-you-more-than-you-think.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/11/22/jdk-24-the-new-features-in-java-24/</loc>
           <news:news>
             <news:publication>
@@ -87,45 +87,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/22/supreme-court-allows-multibillion-dollar-class-action-to-proceed-against-meta/</loc>
+          <loc>https://majordigest.com/tech/2024/11/22/hyundai-recall-electric-vehicles/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-22T18:06:52.000Z</news:publication_date>
-            <news:title>Supreme Court allows multibillion-dollar class action to proceed against Meta</news:title>
+            <news:publication_date>2024-11-22T18:20:38.000Z</news:publication_date>
+            <news:title>Hyundai, Kia recall over 208,000 electric vehicles to fix problem that can cause loss of power</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/22/supreme-court-allows-multibillion-dollar-class-action-to-proceed-against-meta.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/22/openai-is-thinking-about-building-its-own-browser/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-22T17:06:48.000Z</news:publication_date>
-            <news:title>OpenAI is thinking about building its own browser</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/22/openai-is-thinking-about-building-its-own-browser.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/22/pentagon-rolls-out-new-strategy-for-private-5g/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-22T12:39:01.000Z</news:publication_date>
-            <news:title>Pentagon rolls out new strategy for private 5G</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/22/pentagon-rolls-out-new-strategy-for-private-5g.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/22/hyundai-recall-electric-vehicles.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,59 +115,101 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/21/backup-software-vs-backup-as-a-service-baas-the-key-differences/</loc>
+          <loc>https://majordigest.com/tech/2024/11/21/ai-powered-dog-robot-sniffs-out-invasive-fire-ants/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-21T21:55:59.000Z</news:publication_date>
-            <news:title>Backup Software vs. Backup as a Service (BaaS): The Key Differences</news:title>
+            <news:publication_date>2024-11-21T11:00:40.000Z</news:publication_date>
+            <news:title>AI-powered dog robot sniffs out invasive fire ants</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/21/backup-software-vs-backup-as-a-service-baas-the-key-differences.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/21/ai-powered-dog-robot-sniffs-out-invasive-fire-ants.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/21/consumer-watchdog-to-oversee-digital-wallets-payment-apps/</loc>
+          <loc>https://majordigest.com/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-21T21:25:59.000Z</news:publication_date>
-            <news:title>Consumer watchdog to oversee digital wallets, payment apps</news:title>
+            <news:publication_date>2024-11-20T22:26:47.000Z</news:publication_date>
+            <news:title>Azure Container Apps launches Python, JavaScript interpreters</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/21/consumer-watchdog-to-oversee-digital-wallets-payment-apps.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/21/how-protect-your-deliveries-from-getting-stolen-porch-pirates/</loc>
+          <loc>https://majordigest.com/tech/2024/11/20/house-lawmaker-wants-to-do-away-with-pentagons-cmmc-program/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-21T15:00:11.000Z</news:publication_date>
-            <news:title>How to protect your deliveries from getting stolen by porch pirates</news:title>
+            <news:publication_date>2024-11-20T21:30:57.000Z</news:publication_date>
+            <news:title>House lawmaker wants to do away with Pentagon&#8217;s CMMC program</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/21/how-protect-your-deliveries-from-getting-stolen-porch-pirates.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/house-lawmaker-wants-to-do-away-with-pentagons-cmmc-program.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/21/nvidia-is-wall-streets-most-valuable-company-how-it-got-there-by-the-numbers/</loc>
+          <loc>https://majordigest.com/tech/2024/11/20/top-5-fastest-growing-cities-for-data-centers/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-21T01:40:47.000Z</news:publication_date>
-            <news:title>Nvidia is Wall Street's most valuable company. How it got there, by the numbers</news:title>
+            <news:publication_date>2024-11-20T20:58:55.000Z</news:publication_date>
+            <news:title>Top 5 fastest-growing cities for data centers</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/21/nvidia-is-wall-streets-most-valuable-company-how-it-got-there-by-the-numbers.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/top-5-fastest-growing-cities-for-data-centers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/20/apple-admins-update-your-hardware-now/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-20T16:46:48.000Z</news:publication_date>
+            <news:title>Apple admins: Update your hardware now</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/apple-admins-update-your-hardware-now.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/20/australia-wont-force-social-media-users-to-share-their-personal-details-when-child-ban-takes-effect/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-20T11:18:07.000Z</news:publication_date>
+            <news:title>Australia won't force social media users to share their personal details when child ban takes effect</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/20/australia-wont-force-social-media-users-to-share-their-personal-details-when-child-ban-takes-effect.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/19/microsoft-extends-entra-id-to-wsl-winget/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-19T21:37:33.000Z</news:publication_date>
+            <news:title>Microsoft extends Entra ID to WSL, WinGet</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/microsoft-extends-entra-id-to-wsl-winget.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -210,6 +224,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/19/microsoft-pitches-ai-agents-that-can-perform-tasks-on-their-own-at-ignite-2024.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/19/cato-networks-adds-tls-inspection-capabilities-to-sase-platform/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-19T18:18:24.000Z</news:publication_date>
+            <news:title>Cato Networks adds Safe TLS inspection capabilities to SASE platform</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/cato-networks-adds-tls-inspection-capabilities-to-sase-platform.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -241,6 +269,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/11/19/tool-made-laziest-parent-ever-easy-way-electric-stroller-kit/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-19T11:00:56.000Z</news:publication_date>
+            <news:title>This tool is made for the laziest parent ever</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/tool-made-laziest-parent-ever-easy-way-electric-stroller-kit.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/11/19/german-police-break-up-an-environmental-activists-camp-near-tesla-plant-outside-berlin/</loc>
           <news:news>
             <news:publication>
@@ -252,5 +294,33 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/19/german-police-break-up-an-environmental-activists-camp-near-tesla-plant-outside-berlin.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/19/how-to-transform-your-architecture-review-board/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-19T09:00:00.000Z</news:publication_date>
+            <news:title>How to transform your architecture review board</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/how-to-transform-your-architecture-review-board.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/19/a-grc-framework-for-securing-generative-ai/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-19T09:00:00.000Z</news:publication_date>
+            <news:title>A GRC framework for securing generative AI</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/19/a-grc-framework-for-securing-generative-ai.webp</image:loc>
           </image:image>
         </url></urlset>
