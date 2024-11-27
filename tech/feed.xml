@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 27 Nov 2024 03:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 04:26:00 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -23,11 +23,22 @@
           <description><![CDATA[MELBOURNE, Australia (AP) — Australia’s House of Representatives on Wednesday passed a bill that would ban children younger than 16 years old from social media, leaving it to the Senate to finalize the world-first law.]]></description>
           <guid>https://majordigest.com/tech/2024/11/27/australias-house-of-representatives-passes-bill-that-would-ban-young-children-from-social-media/</guid>
           <link>https://majordigest.com/tech/2024/11/27/australias-house-of-representatives-passes-bill-that-would-ban-young-children-from-social-media/</link>
-          <pubDate>Wed, 27 Nov 2024 00:54:55 GMT</pubDate>
+          <pubDate>Wed, 27 Nov 2024 03:10:23 GMT</pubDate>
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/27/australias-house-of-representatives-passes-bill-that-would-ban-young-children-from-social-media.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/27/australias-house-of-representatives-passes-bill-that-would-ban-young-children-from-social-media.webp"/>
           <dc:creator>ROD McGUIRK, Associated Press, KGET 17, NBC</dc:creator>
+        </item>
+        <item>
+          <title>Kotlin to lose scripting features</title>
+          <description><![CDATA[JetBrains plans to drop some scripting-related technologies from the Kotlin language, including REPL functionality, an obsolete API for Java scripting, the KotlinScriptMojo Maven plugin, and the kotlin-scripting-ide-services library for implementing code completion functionality.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/27/kotlin-to-lose-scripting-features/</guid>
+          <link>https://majordigest.com/tech/2024/11/27/kotlin-to-lose-scripting-features/</link>
+          <pubDate>Wed, 27 Nov 2024 02:51:54 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/27/kotlin-to-lose-scripting-features.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/27/kotlin-to-lose-scripting-features.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
           <title>Federal prosecutors seek records from company that deployed AI weapons scanner on NYC subway</title>
@@ -38,74 +49,96 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway.webp"/>
-          <dc:creator>JAKE OFFENHARTZ, Associated Press, KRON4</dc:creator>
+          <dc:creator>JAKE OFFENHARTZ, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
-          <title>OPM tries a shift-left approach to anticipating the costs of new tech projects</title>
-          <description><![CDATA[When thinking of new technology projects, OPM officials are trying to get a handler on potential costs.
-The post OPM tries a shift-left approach to anticipating the costs of new tech projects first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/26/opm-tries-a-shift-left-approach-to-anticipating-the-costs-of-new-tech-projects/</guid>
-          <link>https://majordigest.com/tech/2024/11/26/opm-tries-a-shift-left-approach-to-anticipating-the-costs-of-new-tech-projects/</link>
-          <pubDate>Tue, 26 Nov 2024 17:03:45 GMT</pubDate>
+          <title>Nvidia shows off a new genAI model that can create sound and music</title>
+          <description><![CDATA[Nvidia on Monday showed off a new generative AI (genAI) model that can be used to create all kinds of sounds and music: Fugatto (which stands for Foundational Generative Audio Transformer Opus 1).]]></description>
+          <guid>https://majordigest.com/tech/2024/11/26/nvidia-shows-off-a-new-genai-model-that-can-create-sound-and-music/</guid>
+          <link>https://majordigest.com/tech/2024/11/26/nvidia-shows-off-a-new-genai-model-that-can-create-sound-and-music/</link>
+          <pubDate>Tue, 26 Nov 2024 19:37:56 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/opm-tries-a-shift-left-approach-to-anticipating-the-costs-of-new-tech-projects.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/opm-tries-a-shift-left-approach-to-anticipating-the-costs-of-new-tech-projects.webp"/>
-          <dc:creator>Tom Temin, Federal News Network</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/nvidia-shows-off-a-new-genai-model-that-can-create-sound-and-music.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/nvidia-shows-off-a-new-genai-model-that-can-create-sound-and-music.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Lauren Boebert Cameo page disappears amid House ethics concerns</title>
-          <description><![CDATA[Rep. Lauren Boebert (R-Colo.) briefly offered videos on Cameo, a website on which public figures sell personalized videos to fans, before the page went offline amid questions about whether it would have violated House ethics rules.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/26/boebert-cameo-ethics/</guid>
-          <link>https://majordigest.com/tech/2024/11/26/boebert-cameo-ethics/</link>
-          <pubDate>Tue, 26 Nov 2024 15:45:47 GMT</pubDate>
+          <title>Cisco, NTT Data partner to simplify private 5G connectivity</title>
+          <description><![CDATA[Cisco and NTT Data are extending their partnership to offer customers more streamlined options for deploying private 5G services for enterprise connectivity.
+The partnership ties Cisco’s networking technologies to NTT Data’s Transatel network.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/26/cisco-ntt-partner-to-simplify-private-5g-connectivity/</guid>
+          <link>https://majordigest.com/tech/2024/11/26/cisco-ntt-partner-to-simplify-private-5g-connectivity/</link>
+          <pubDate>Tue, 26 Nov 2024 18:03:19 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/boebert-cameo-ethics.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/boebert-cameo-ethics.webp"/>
-          <dc:creator>Emily Brooks, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/cisco-ntt-partner-to-simplify-private-5g-connectivity.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/cisco-ntt-partner-to-simplify-private-5g-connectivity.webp"/>
+          <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Interpol clamps down on cybercrime and arrests over 1,000 suspects in Africa</title>
-          <description><![CDATA[DAKAR, Senegal (AP) — Interpol arrested 1,006 suspects in Africa during a massive two-month operation, clamping down on cybercrime that left tens of thousands of victims, including some who were trafficked, and produced millions in financial damages, the global police organization said Tuesday.]]></description>
+          <title>Instagram's Threads gets 35 million new users this month</title>
+          <description><![CDATA[Nearly 35 million new users have flocked to Instagram's Threads this month as the Meta platform seeks to capture users leaving X and keep an edge over emerging platform Bluesky.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/26/instagrams-threads-gets-35-million-new-users-this-month/</guid>
+          <link>https://majordigest.com/tech/2024/11/26/instagrams-threads-gets-35-million-new-users-this-month/</link>
+          <pubDate>Tue, 26 Nov 2024 16:46:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/instagrams-threads-gets-35-million-new-users-this-month.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/instagrams-threads-gets-35-million-new-users-this-month.webp"/>
+          <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Interpol Cracks Down on Cybercrime in Africa</title>
+          <description><![CDATA[Massive operation results in 1,006 arrests and significant financial losses]]></description>
           <guid>https://majordigest.com/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa/</guid>
           <link>https://majordigest.com/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa/</link>
           <pubDate>Tue, 26 Nov 2024 14:47:51 GMT</pubDate>
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa.webp"/>
-          <dc:creator>MARK BANCHEREAU, Associated Press, ABC 4</dc:creator>
+          <dc:creator>MARK BANCHEREAU, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
-          <title>Ayesa pisa el acelerador de la transformaci&#243;n digital con su Value Tech Hub</title>
-          <description><![CDATA[Ayesa pisa el acelerador en materia de transformación digital, inteligencia artificial, datos y ciberseguridad.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/26/ayesa-pisa-el-acelerador-de-la-transformacion-digital-con-su-value-tech-hub/</guid>
-          <link>https://majordigest.com/tech/2024/11/26/ayesa-pisa-el-acelerador-de-la-transformacion-digital-con-su-value-tech-hub/</link>
-          <pubDate>Tue, 26 Nov 2024 11:51:02 GMT</pubDate>
+          <title>The biggest IT threat? That seemingly innocuous web browser</title>
+          <description><![CDATA[For decades, enterprises have allowed their workers to use whatever free browser they wanted to access the most sensitive files possible. CIOs believed that security software in the environment — such as endpoint security apps or supposedly secure web gateways — would deliver any needed protections.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/26/the-biggest-it-threat-that-seemingly-innocuous-web-browser/</guid>
+          <link>https://majordigest.com/tech/2024/11/26/the-biggest-it-threat-that-seemingly-innocuous-web-browser/</link>
+          <pubDate>Tue, 26 Nov 2024 11:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/ayesa-pisa-el-acelerador-de-la-transformacion-digital-con-su-value-tech-hub.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/ayesa-pisa-el-acelerador-de-la-transformacion-digital-con-su-value-tech-hub.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/the-biggest-it-threat-that-seemingly-innocuous-web-browser.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/the-biggest-it-threat-that-seemingly-innocuous-web-browser.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Your IT infrastructure may be more outdated than you think</title>
+          <description><![CDATA[CEOs and CIOs appear to have conflicting views of the readiness of their organizations’ IT systems, with a large majority of chief executives worried about them being outdated, according to a report from IT services provider Kyndryl.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/26/your-it-infrastructure-may-be-more-outdated-than-you-think/</guid>
+          <link>https://majordigest.com/tech/2024/11/26/your-it-infrastructure-may-be-more-outdated-than-you-think/</link>
+          <pubDate>Tue, 26 Nov 2024 10:01:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/your-it-infrastructure-may-be-more-outdated-than-you-think.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/your-it-infrastructure-may-be-more-outdated-than-you-think.webp"/>
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>UAE President announces establishment of the AI and Advanced Technology Council</title>
-          <description><![CDATA[This move highlights the UAE’s commitment to embracing technological advancements and promoting innovation. The AIATC will play a crucial role in shaping the future of the country’s digital landscape, paving the way for a more efficient and sustainable future.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/26/uae-president-announces-establishment-of-the-ai-and-advanced-technology-council/</guid>
-          <link>https://majordigest.com/tech/2024/11/26/uae-president-announces-establishment-of-the-ai-and-advanced-technology-council/</link>
-          <pubDate>Tue, 26 Nov 2024 08:00:11 GMT</pubDate>
+          <title>Build generative AI pipelines without the infrastructure headache</title>
+          <description><![CDATA[While creating a basic ChatGPT prototype might take a weekend, developing production-ready generative AI systems that securely handle enterprise data presents significantly greater engineering challenges.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/26/build-generative-ai-pipelines-without-the-infrastructure-headache/</guid>
+          <link>https://majordigest.com/tech/2024/11/26/build-generative-ai-pipelines-without-the-infrastructure-headache/</link>
+          <pubDate>Tue, 26 Nov 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/uae-president-announces-establishment-of-the-ai-and-advanced-technology-council.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/uae-president-announces-establishment-of-the-ai-and-advanced-technology-council.webp"/>
-          <dc:creator>CIO</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/build-generative-ai-pipelines-without-the-infrastructure-headache.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/build-generative-ai-pipelines-without-the-infrastructure-headache.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>The engine of Japan's flagship new small rocket explodes during a test for a second time</title>
-          <description><![CDATA[The engine for a flagship new small Japanese rocket has burst into flames during a combustion test, but there was no injury or damage to the outside, officials said.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/26/the-engine-of-japans-flagship-new-small-rocket-explodes-during-a-test-for-a-second-time/</guid>
-          <link>https://majordigest.com/tech/2024/11/26/the-engine-of-japans-flagship-new-small-rocket-explodes-during-a-test-for-a-second-time/</link>
-          <pubDate>Tue, 26 Nov 2024 03:43:02 GMT</pubDate>
+          <title>Mick Mulvaney Skeptical of New Department of Government Efficiency</title>
+          <description><![CDATA[Former White House chief of staff Mick Mulvaney expresses skepticism about the newly formed Department of Government Efficiency, calling it a 'PR campaign' without statutory authority.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/26/mulvaney-calls-doge-a-pr-campaign-but-respects-musk-ramaswamys-attempt-to-reform-government/</guid>
+          <link>https://majordigest.com/tech/2024/11/26/mulvaney-calls-doge-a-pr-campaign-but-respects-musk-ramaswamys-attempt-to-reform-government/</link>
+          <pubDate>Tue, 26 Nov 2024 03:25:22 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/the-engine-of-japans-flagship-new-small-rocket-explodes-during-a-test-for-a-second-time.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/the-engine-of-japans-flagship-new-small-rocket-explodes-during-a-test-for-a-second-time.webp"/>
-          <dc:creator>Associated Press, KPRC 2</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/mulvaney-calls-doge-a-pr-campaign-but-respects-musk-ramaswamys-attempt-to-reform-government.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/mulvaney-calls-doge-a-pr-campaign-but-respects-musk-ramaswamys-attempt-to-reform-government.webp"/>
+          <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
         </item>
         <item>
           <title>Free travel planner? Use AI for your next trip</title>
@@ -119,59 +152,82 @@ The post OPM tries a shift-left approach to anticipating the costs of new tech p
           <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>Is Outlook down? Thousands of Microsoft 365 users report outage issues</title>
-          <description><![CDATA[NEW YORK (AP) — Thousands of Microsoft 365 customers worldwide reported having issues with services like Outlook and Teams on Monday.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/25/is-outlook-down-thousands-of-microsoft-365-users-report-outage-issues/</guid>
-          <link>https://majordigest.com/tech/2024/11/25/is-outlook-down-thousands-of-microsoft-365-users-report-outage-issues/</link>
-          <pubDate>Mon, 25 Nov 2024 20:32:55 GMT</pubDate>
+          <title>Newsom says California will intervene if Trump kills $7,500 EV tax credit</title>
+          <description><![CDATA[California Gov. Gavin Newsom (D) said Monday the state of California will intervene if President-elect Trump eliminates the electric vehicle tax credit passed under President Biden.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/25/trump-newsom-electric-vehicle-tax-credit/</guid>
+          <link>https://majordigest.com/tech/2024/11/25/trump-newsom-electric-vehicle-tax-credit/</link>
+          <pubDate>Mon, 25 Nov 2024 16:22:07 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/25/is-outlook-down-thousands-of-microsoft-365-users-report-outage-issues.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/25/is-outlook-down-thousands-of-microsoft-365-users-report-outage-issues.webp"/>
-          <dc:creator>Associated Press, KREX 5</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/25/trump-newsom-electric-vehicle-tax-credit.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/25/trump-newsom-electric-vehicle-tax-credit.webp"/>
+          <dc:creator>Joanne Haner, The Hill</dc:creator>
         </item>
         <item>
-          <title>Most young knowledge workers using AI: Poll</title>
-          <description><![CDATA[The vast majority of Generation Z knowledge workers said they are using artificial intelligence (AI) tools in their work, according to a new study, underscoring the increased embrace of the advancing technology.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/25/most-young-knowledge-workers-using-ai-poll/</guid>
-          <link>https://majordigest.com/tech/2024/11/25/most-young-knowledge-workers-using-ai-poll/</link>
-          <pubDate>Mon, 25 Nov 2024 14:50:55 GMT</pubDate>
+          <title>CISA debuts new cybersecurity training platform</title>
+          <description><![CDATA[The new "CISA Learning" system will offer the same training to both internal staff and tens of thousands of external users.
+The post CISA debuts new cybersecurity training platform first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/25/cisa-debuts-new-cybersecurity-training-platform/</guid>
+          <link>https://majordigest.com/tech/2024/11/25/cisa-debuts-new-cybersecurity-training-platform/</link>
+          <pubDate>Mon, 25 Nov 2024 16:09:48 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/25/most-young-knowledge-workers-using-ai-poll.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/25/most-young-knowledge-workers-using-ai-poll.webp"/>
-          <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/25/cisa-debuts-new-cybersecurity-training-platform.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/25/cisa-debuts-new-cybersecurity-training-platform.webp"/>
+          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
         </item>
         <item>
-          <title>Don&#8217;t get caught in the 'Apple ID suspended' phishing scam</title>
-          <description><![CDATA[Even the most tech-savvy computer users have to think twice with some of the clever phishing emails scammers are coming up with these days.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/24/dont-get-caught-apple-id-suspended-phishing-scam/</guid>
-          <link>https://majordigest.com/tech/2024/11/24/dont-get-caught-apple-id-suspended-phishing-scam/</link>
-          <pubDate>Sun, 24 Nov 2024 15:00:17 GMT</pubDate>
+          <title>Intel&#8217;s CHIPS Act grant reduced as production delays and losses mount</title>
+          <description><![CDATA[The US government has scaled back Intel’s preliminary CHIPS Act grant from $8.5 billion to under $8 billion, reflecting concerns over the company’s delayed investments and financial woes, The New York Times reported.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/25/intels-chips-act-grant-reduced-as-production-delays-and-losses-mount/</guid>
+          <link>https://majordigest.com/tech/2024/11/25/intels-chips-act-grant-reduced-as-production-delays-and-losses-mount/</link>
+          <pubDate>Mon, 25 Nov 2024 11:59:13 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/24/dont-get-caught-apple-id-suspended-phishing-scam.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/24/dont-get-caught-apple-id-suspended-phishing-scam.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/25/intels-chips-act-grant-reduced-as-production-delays-and-losses-mount.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/25/intels-chips-act-grant-reduced-as-production-delays-and-losses-mount.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>The best cozy games during a stressful Thanksgiving season</title>
-          <description><![CDATA[For many, video games are loud, violent, and competitive. But for some they are the opposite: quiet, soft, and low-stakes. Welcome to the world of cozy gaming.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/23/the-best-cozy-games-during-a-stressful-thanksgiving-season/</guid>
-          <link>https://majordigest.com/tech/2024/11/23/the-best-cozy-games-during-a-stressful-thanksgiving-season/</link>
-          <pubDate>Sat, 23 Nov 2024 18:00:00 GMT</pubDate>
+          <title>The Speed Factor: Why Enterprises Choose Cloud, Open Source, and AI Over Cost</title>
+          <description><![CDATA[The growing trend of enterprises adopting cloud computing, open source software, and generative AI is driven by the need for speed and agility in today's fast-paced business environment.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/25/speed-is-the-killer-app/</guid>
+          <link>https://majordigest.com/tech/2024/11/25/speed-is-the-killer-app/</link>
+          <pubDate>Mon, 25 Nov 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/23/the-best-cozy-games-during-a-stressful-thanksgiving-season.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/23/the-best-cozy-games-during-a-stressful-thanksgiving-season.webp"/>
-          <dc:creator>Eve Upton-Clark, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/25/speed-is-the-killer-app.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/25/speed-is-the-killer-app.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Fox News AI Newsletter: Mr. Miyagi's dramatic return</title>
-          <description><![CDATA[Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/23/ai-newsletter-mr-miyagis-dramatic-return/</guid>
-          <link>https://majordigest.com/tech/2024/11/23/ai-newsletter-mr-miyagis-dramatic-return/</link>
-          <pubDate>Sat, 23 Nov 2024 14:00:04 GMT</pubDate>
+          <title>GitHub Copilot: Everything you need to know</title>
+          <description><![CDATA[In 2014, Microsoft Research released an experimental Bing Code Search add-on for Visual Studio and the web. It was a code snippet search tool for C# with a natural language interface, using an index of code from Stack Overflow, MSDN, Dotnetperls, and CSharp411, powered by Bing, running on Azure.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/25/github-copilot-everything-you-need-to-know/</guid>
+          <link>https://majordigest.com/tech/2024/11/25/github-copilot-everything-you-need-to-know/</link>
+          <pubDate>Mon, 25 Nov 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/23/ai-newsletter-mr-miyagis-dramatic-return.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/23/ai-newsletter-mr-miyagis-dramatic-return.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/25/github-copilot-everything-you-need-to-know.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/25/github-copilot-everything-you-need-to-know.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>The Onion's bid for Alex Jones' Infowars hangs in the balance as judge orders new hearing</title>
+          <description><![CDATA[A federal judge in Texas has delayed a hearing in conspiracy theorist Alex Jones' effort to stop the satirical news outlet The Onion from buying Infowars and turning it into a parody.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/25/judge-in-alex-jones-bankruptcy-to-hear-arguments-on-the-onions-bid-for-infowars/</guid>
+          <link>https://majordigest.com/tech/2024/11/25/judge-in-alex-jones-bankruptcy-to-hear-arguments-on-the-onions-bid-for-infowars/</link>
+          <pubDate>Mon, 25 Nov 2024 05:06:40 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/25/judge-in-alex-jones-bankruptcy-to-hear-arguments-on-the-onions-bid-for-infowars.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/25/judge-in-alex-jones-bankruptcy-to-hear-arguments-on-the-onions-bid-for-infowars.webp"/>
+          <dc:creator>Dave Collins, Associated Press, Local 4</dc:creator>
+        </item>
+        <item>
+          <title>Roblox gives parents more control over kids' experience</title>
+          <description><![CDATA[Roblox, which has been downloaded millions of times, announced sweeping and restrictive settings for minor safety.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/24/roblox-parental-controls-new-settings/</guid>
+          <link>https://majordigest.com/tech/2024/11/24/roblox-parental-controls-new-settings/</link>
+          <pubDate>Sun, 24 Nov 2024 15:37:09 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/24/roblox-parental-controls-new-settings.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/24/roblox-parental-controls-new-settings.webp"/>
+          <dc:creator>Anna Kutz, NewsNation</dc:creator>
         </item>
         <item>
           <title>Bitcoin ticks closer to $100,000 in extended surge following US elections</title>
@@ -182,7 +238,7 @@ The post OPM tries a shift-left approach to anticipating the costs of new tech p
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/bitcoin-is-at-the-doorstep-of-100000-as-post-election-rally-rolls-on.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/bitcoin-is-at-the-doorstep-of-100000-as-post-election-rally-rolls-on.webp"/>
-          <dc:creator>WYATTE GRANTHAM-PHILIPS, Associated Press, KGET 17, NBC</dc:creator>
+          <dc:creator>WYATTE GRANTHAM-PHILIPS, Associated Press, ABC 4</dc:creator>
         </item>
         <item>
           <title>Supreme Court allows multibillion-dollar class action to proceed against Meta</title>
@@ -193,96 +249,18 @@ The post OPM tries a shift-left approach to anticipating the costs of new tech p
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/supreme-court-allows-multibillion-dollar-class-action-to-proceed-against-meta.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/supreme-court-allows-multibillion-dollar-class-action-to-proceed-against-meta.webp"/>
-          <dc:creator>Associated Press, PIX 11</dc:creator>
+          <dc:creator>Associated Press, KREX 5</dc:creator>
         </item>
         <item>
-          <title>NetBox Labs launches tools to combat network configuration drift</title>
-          <description><![CDATA[NetBox Labs is expanding its network management platform this week with a pair of new products designed to tackle the growing challenges of infrastructure documentation and configuration management.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/22/netbox-labs-launches-tools-to-combat-network-configuration-drift/</guid>
-          <link>https://majordigest.com/tech/2024/11/22/netbox-labs-launches-tools-to-combat-network-configuration-drift/</link>
-          <pubDate>Fri, 22 Nov 2024 13:38:16 GMT</pubDate>
+          <title>AI-powered dog robot sniffs out invasive fire ants</title>
+          <description><![CDATA[Fueled by artificial intelligence, CyberDog the robotic dog is designed specifically locate fire ant nests, which are endangering ecosystems.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/21/ai-powered-dog-robot-sniffs-out-invasive-fire-ants/</guid>
+          <link>https://majordigest.com/tech/2024/11/21/ai-powered-dog-robot-sniffs-out-invasive-fire-ants/</link>
+          <pubDate>Thu, 21 Nov 2024 11:00:40 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/netbox-labs-launches-tools-to-combat-network-configuration-drift.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/netbox-labs-launches-tools-to-combat-network-configuration-drift.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>AWS prepares to command an army of AI agents</title>
-          <description><![CDATA[According to a recent report from SNS Insider, the global AI agents market was valued at $3.7 billion in 2023. The market is expected to grow to $103.6 billion by 2032, with a compound annual growth rate of 44.9% during the forecast period from 2024 to 2032.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/22/aws-prepares-to-command-an-army-of-ai-agents/</guid>
-          <link>https://majordigest.com/tech/2024/11/22/aws-prepares-to-command-an-army-of-ai-agents/</link>
-          <pubDate>Fri, 22 Nov 2024 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/aws-prepares-to-command-an-army-of-ai-agents.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/aws-prepares-to-command-an-army-of-ai-agents.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>In the age of AI, what is a PC? Arm has its answer</title>
-          <description><![CDATA[Amid the uncertainty around what makes a Windows 11 PC a Copilot+ PC, and how that differs from an AI PC, Arm is bringing some clarity — or perhaps a new source of confusion — with its definition of what constitutes an Arm PC.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/22/microsoft-rolls-out-new-features-for-copilot-pcs-after-arm-releases-ai-pc-specs/</guid>
-          <link>https://majordigest.com/tech/2024/11/22/microsoft-rolls-out-new-features-for-copilot-pcs-after-arm-releases-ai-pc-specs/</link>
-          <pubDate>Fri, 22 Nov 2024 08:43:06 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/microsoft-rolls-out-new-features-for-copilot-pcs-after-arm-releases-ai-pc-specs.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/microsoft-rolls-out-new-features-for-copilot-pcs-after-arm-releases-ai-pc-specs.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Thai court dismisses activist's suit against Israeli spyware producer over lack of evidence</title>
-          <description><![CDATA[BANGKOK (AP) — A Thai court on Thursday threw out a lawsuit brought by a pro-democracy activist which alleged spyware produced by an Israeli tech firm had been used to hack his phone.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/22/thai-court-dismisses-activists-suit-against-israeli-spyware-producer-over-lack-of-evidence/</guid>
-          <link>https://majordigest.com/tech/2024/11/22/thai-court-dismisses-activists-suit-against-israeli-spyware-producer-over-lack-of-evidence/</link>
-          <pubDate>Fri, 22 Nov 2024 04:02:20 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/22/thai-court-dismisses-activists-suit-against-israeli-spyware-producer-over-lack-of-evidence.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/22/thai-court-dismisses-activists-suit-against-israeli-spyware-producer-over-lack-of-evidence.webp"/>
-          <dc:creator>JERRY HARMER and DAVID RISING, Associated Press, KREX 5</dc:creator>
-        </item>
-        <item>
-          <title>Red Hat Linux to be official WSL distro</title>
-          <description><![CDATA[Red Hat Enterprise Linux (RHEL) is set to become an official Linux distribution for Microsoft’s Windows Subsystem for Linux (WSL), a Windows feature that allows users to run Linux environments on Windows without a separate virtual machine.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/21/red-hat-linux-to-be-official-wsl-distro/</guid>
-          <link>https://majordigest.com/tech/2024/11/21/red-hat-linux-to-be-official-wsl-distro/</link>
-          <pubDate>Thu, 21 Nov 2024 19:39:41 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/21/red-hat-linux-to-be-official-wsl-distro.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/21/red-hat-linux-to-be-official-wsl-distro.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>New Windows 11 tool can fix devices that won&#8217;t boot remotely</title>
-          <description><![CDATA[Microsoft is working on a new Windows feature, “Quick Machine Recovery,” that will allow IT administrators to use Windows Update with “targeted fixes” to remotely fix systems that can’t boot, according to Bleeping Computer.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/21/new-windows-11-tool-can-fix-devices-that-wont-boot-remotely/</guid>
-          <link>https://majordigest.com/tech/2024/11/21/new-windows-11-tool-can-fix-devices-that-wont-boot-remotely/</link>
-          <pubDate>Thu, 21 Nov 2024 19:20:45 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/21/new-windows-11-tool-can-fix-devices-that-wont-boot-remotely.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/21/new-windows-11-tool-can-fix-devices-that-wont-boot-remotely.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>How to protect your deliveries from getting stolen by porch pirates</title>
-          <description><![CDATA[Porch pirates are on the prowl this holiday season. Tech guru Kurt &quot;CyberGuy&quot; Knutsson has a number of tips to prevent holiday package thefts.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/21/how-protect-your-deliveries-from-getting-stolen-porch-pirates/</guid>
-          <link>https://majordigest.com/tech/2024/11/21/how-protect-your-deliveries-from-getting-stolen-porch-pirates/</link>
-          <pubDate>Thu, 21 Nov 2024 15:00:11 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/21/how-protect-your-deliveries-from-getting-stolen-porch-pirates.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/21/how-protect-your-deliveries-from-getting-stolen-porch-pirates.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/21/ai-powered-dog-robot-sniffs-out-invasive-fire-ants.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/21/ai-powered-dog-robot-sniffs-out-invasive-fire-ants.webp"/>
           <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>AI agents are coming to work &#8212; here&#8217;s what businesses need to  know</title>
-          <description><![CDATA[AI agents will soon be everywhere, automating complex business processes and taking care of mundane tasks for workers — at least that’s the claim of various software vendors that are quickly adding intelligent bots to a wide range of work apps.
-Many companies appear to be listening.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/21/ai-agents-are-coming-to-work-heres-what-businesses-need-to-know/</guid>
-          <link>https://majordigest.com/tech/2024/11/21/ai-agents-are-coming-to-work-heres-what-businesses-need-to-know/</link>
-          <pubDate>Thu, 21 Nov 2024 11:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/21/ai-agents-are-coming-to-work-heres-what-businesses-need-to-know.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/21/ai-agents-are-coming-to-work-heres-what-businesses-need-to-know.webp"/>
-          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
           <title>Nvidia is Wall Street's most valuable company. How it got there, by the numbers</title>
@@ -304,7 +282,7 @@ Many companies appear to be listening.]]></description>
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/21/comcast-to-spin-off-cable-networks-once-star-performers-at-the-entertainment-giant.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/21/comcast-to-spin-off-cable-networks-once-star-performers-at-the-entertainment-giant.webp"/>
-          <dc:creator>MATT OTT and WYATTE GRANTHAM-PHILIPS, Associated Press, ABC 4</dc:creator>
+          <dc:creator>MATT OTT and WYATTE GRANTHAM-PHILIPS, Associated Press, Fox 5</dc:creator>
         </item>
         <item>
           <title>US gathers allies to talk AI safety as Trump's vow to undo Biden's AI policy overshadows their work</title>
@@ -315,29 +293,7 @@ Many companies appear to be listening.]]></description>
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/21/us-gathers-allies-to-talk-ai-safety-trumps-vow-to-undo-bidens-ai-policy-overshadows-their-work.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/21/us-gathers-allies-to-talk-ai-safety-trumps-vow-to-undo-bidens-ai-policy-overshadows-their-work.webp"/>
-          <dc:creator>MATT O'BRIEN and BARBARA ORTUTAY, Associated Press, KRON4</dc:creator>
-        </item>
-        <item>
-          <title>Azure Container Apps launches Python, JavaScript interpreters</title>
-          <description><![CDATA[Python code interpreter sessions are generally available for Microsoft’s Azure Container Apps serverless platform for running applications and microservices.  The service is also offering custom dynamic sessions, with JavaScript code interpreter capabilities in public preview.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters/</guid>
-          <link>https://majordigest.com/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters/</link>
-          <pubDate>Wed, 20 Nov 2024 22:26:47 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/20/azure-container-apps-launches-python-javascript-interpreters.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>How your browser is spying on you: Hidden dangers lurking behind every click</title>
-          <description><![CDATA[Internet browsers are useful, but they can be dangerous. Clicking on malicious links can direct you to dangerous websites that steal information or infect your device.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/20/how-your-browser-spying-you-hidden-dangers-lurking-behind-every-click/</guid>
-          <link>https://majordigest.com/tech/2024/11/20/how-your-browser-spying-you-hidden-dangers-lurking-behind-every-click/</link>
-          <pubDate>Wed, 20 Nov 2024 15:00:14 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/20/how-your-browser-spying-you-hidden-dangers-lurking-behind-every-click.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/20/how-your-browser-spying-you-hidden-dangers-lurking-behind-every-click.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <dc:creator>MATT O'BRIEN and BARBARA ORTUTAY, Associated Press, Fox 5</dc:creator>
         </item>
         <item>
           <title>Australia won't force social media users to share their personal details when child ban takes effect</title>
@@ -348,27 +304,5 @@ Many companies appear to be listening.]]></description>
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/20/australia-wont-force-social-media-users-to-share-their-personal-details-when-child-ban-takes-effect.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/20/australia-wont-force-social-media-users-to-share-their-personal-details-when-child-ban-takes-effect.webp"/>
-          <dc:creator>ROD McGUIRK, Associated Press, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Must-do privacy settings on your iPhone in iOS 18.1</title>
-          <description><![CDATA[Apple&apos;s latest iOS update introduces advanced artificial intelligence capabilities, which may be capturing and analyzing sensitive information.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/20/must-do-privacy-settings-your-iphone-ios-18-1/</guid>
-          <link>https://majordigest.com/tech/2024/11/20/must-do-privacy-settings-your-iphone-ios-18-1/</link>
-          <pubDate>Wed, 20 Nov 2024 11:00:20 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/20/must-do-privacy-settings-your-iphone-ios-18-1.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/20/must-do-privacy-settings-your-iphone-ios-18-1.webp"/>
-          <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>What is Rust? Safe, fast, and easy software development</title>
-          <description><![CDATA[A programming language can be fast, safe, or easy to write. As developers, we get to choose our priorities but we can only pick two. Programming languages that emphasize convenience and safety tend to be slow (like Python).]]></description>
-          <guid>https://majordigest.com/tech/2024/11/20/what-is-rust-safe-fast-and-easy-software-development/</guid>
-          <link>https://majordigest.com/tech/2024/11/20/what-is-rust-safe-fast-and-easy-software-development/</link>
-          <pubDate>Wed, 20 Nov 2024 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/20/what-is-rust-safe-fast-and-easy-software-development.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/20/what-is-rust-safe-fast-and-easy-software-development.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <dc:creator>ROD McGUIRK, Associated Press, KGET 17, NBC</dc:creator>
         </item></channel></rss>
