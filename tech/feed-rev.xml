@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 27 Nov 2024 08:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 09:23:00 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Microsoft Outage Affects Thousands of Users on Monday</title>
-          <description><![CDATA[Microsoft confirms outage affecting Microsoft 365 service, causing issues with Exchange Online and Microsoft Teams calendar.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/25/microsoft-365-outage-investigation/</guid>
-          <link>https://majordigest.com/tech/2024/11/25/microsoft-365-outage-investigation/</link>
-          <pubDate>Mon, 25 Nov 2024 17:01:50 GMT</pubDate>
+          <title>Deepfakes in Schools: A Growing Concern for Students and Lawmakers</title>
+          <description><![CDATA[Understanding deepfakes, state laws, and proactive steps to prevent harm in schools.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/26/explicit-deepfake-images-50-teens-pennsylvania/</guid>
+          <link>https://majordigest.com/tech/2024/11/26/explicit-deepfake-images-50-teens-pennsylvania/</link>
+          <pubDate>Tue, 26 Nov 2024 18:37:38 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/25/microsoft-365-outage-investigation.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/25/microsoft-365-outage-investigation.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/26/explicit-deepfake-images-50-teens-pennsylvania.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/26/explicit-deepfake-images-50-teens-pennsylvania.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Dell Unveils New Hardware and Services for AI-Powered Computing</title>
+          <description><![CDATA[Dell introduces new server products, updates to its Integrated Rack series, and services at Supercomputing 24 and Microsoft Ignite conferences.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/25/dell-updates-supercomputing-server-lineup/</guid>
+          <link>https://majordigest.com/tech/2024/11/25/dell-updates-supercomputing-server-lineup/</link>
+          <pubDate>Mon, 25 Nov 2024 10:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/25/dell-updates-supercomputing-server-lineup.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/25/dell-updates-supercomputing-server-lineup.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
