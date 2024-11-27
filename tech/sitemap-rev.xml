@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/10-tips-and-services-for-new-bluesky-users/</loc>
+          <loc>https://majordigest.com/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T16:47:33.000Z</news:publication_date>
-            <news:title>The Ultimate Guide to Using Bluesky: Features, Tools, and Third-Party Apps</news:title>
+            <news:publication_date>2024-11-26T22:35:07.000Z</news:publication_date>
+            <news:title>New York City's AI-Powered Weapons Scanner Under Scrutiny</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/10-tips-and-services-for-new-bluesky-users.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/26/opm-tries-a-shift-left-approach-to-anticipating-the-costs-of-new-tech-projects/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-26T17:03:45.000Z</news:publication_date>
+            <news:title>OPM Embraces Shift-Left Approach to Technology Project Management</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/opm-tries-a-shift-left-approach-to-anticipating-the-costs-of-new-tech-projects.webp</image:loc>
           </image:image>
         </url></urlset>
