@@ -3,44 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/firefox-and-windows-zero-day-security-bugs-hit-by-russian-hackers-so-be-on-your-guard/</loc>
+          <loc>https://majordigest.com/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T12:37:00.000Z</news:publication_date>
-            <news:title>The Discovery of Zero-Day Vulnerabilities: A Threat to Global Cybersecurity</news:title>
+            <news:publication_date>2024-11-27T09:00:00.000Z</news:publication_date>
+            <news:title>Improving Multithreaded Performance with Cython 3.1</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/firefox-and-windows-zero-day-security-bugs-hit-by-russian-hackers-so-be-on-your-guard.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/la-junta-de-andalucia-potencia-el-desarrollo-de-proyectos-de-digitalizacion-mediante-metodologias-agiles/</loc>
+          <loc>https://majordigest.com/tech/2024/11/25/3-data-engineering-trends-riding-kafka-flink-and-iceberg/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T11:06:32.000Z</news:publication_date>
-            <news:title>Andalusian Society for Telecommunications Development Partners with Indra's Minsait to Boost Digitalization Projects</news:title>
+            <news:publication_date>2024-11-25T09:00:00.000Z</news:publication_date>
+            <news:title>The Future of Data Streaming: Key Trends and Technologies</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/la-junta-de-andalucia-potencia-el-desarrollo-de-proyectos-de-digitalizacion-mediante-metodologias-agiles.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/australias-lower-house-passes-social-media-ban-for-under-16s/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T00:54:03.000Z</news:publication_date>
-            <news:title>Australia Passes Landmark Bill Banning Children Under 16 from Social Media</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/australias-lower-house-passes-social-media-ban-for-under-16s.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/3-data-engineering-trends-riding-kafka-flink-and-iceberg.webp</image:loc>
           </image:image>
         </url></urlset>

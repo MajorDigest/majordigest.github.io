@@ -4,17 +4,17 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Python to C: What&#8217;s new in Cython 3.1 - Major Digest</title>
-  <meta name="description" content="Cython is the most convenient way to bridge C and Python languages and tools in Python programs. Developers use it to write C extensions or wrap C libraries for use in Python. Now, a major new release is on the way.">
+  <title>Improving Multithreaded Performance with Cython 3.1 - Major Digest</title>
+  <meta name="description" content="Multithreading Python with Cython's free-threaded mode, type annotations, and example usage.">
   <link rel="canonical" href="https://majordigest.com/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1/">
 
-  <meta itemprop="name" content="Python to C: What&#8217;s new in Cython 3.1 - Major Digest">
-  <meta itemprop="description" content="Cython is the most convenient way to bridge C and Python languages and tools in Python programs. Developers use it to write C extensions or wrap C libraries for use in Python. Now, a major new release is on the way.">
+  <meta itemprop="name" content="Improving Multithreaded Performance with Cython 3.1 - Major Digest">
+  <meta itemprop="description" content="Multithreading Python with Cython's free-threaded mode, type annotations, and example usage.">
   <link itemprop="url" href="https://majordigest.com/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1/">
   <meta itemprop="image" content="https://majordigest.com/static11/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1.webp">
 
-  <meta property="og:title" content="Python to C: What&#8217;s new in Cython 3.1 - Major Digest">
-  <meta property="og:description" content="Cython is the most convenient way to bridge C and Python languages and tools in Python programs. Developers use it to write C extensions or wrap C libraries for use in Python. Now, a major new release is on the way.">
+  <meta property="og:title" content="Improving Multithreaded Performance with Cython 3.1 - Major Digest">
+  <meta property="og:description" content="Multithreading Python with Cython's free-threaded mode, type annotations, and example usage.">
   <meta property="og:url" content="https://majordigest.com/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1/">
   <meta property="og:image" content="https://majordigest.com/static11/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1.webp">
   <meta property="og:type" content="website">
@@ -23,11 +23,11 @@
   <meta property="fb:pages" content="113570554924596">
   <!-- <meta property="fb:app_id" content="490025408049997"> -->
 
-  <meta name="twitter:title" content="Python to C: What&#8217;s new in Cython 3.1 - Major Digest">
-  <meta name="twitter:description" content="Cython is the most convenient way to bridge C and Python languages and tools in Python programs. Developers use it to write C extensions or wrap C libraries for use in Python. Now, a major new release is on the way.">
+  <meta name="twitter:title" content="Improving Multithreaded Performance with Cython 3.1 - Major Digest">
+  <meta name="twitter:description" content="Multithreading Python with Cython's free-threaded mode, type annotations, and example usage.">
   <meta name="twitter:url" content="https://majordigest.com/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1/">
   <meta name="twitter:image" content="https://majordigest.com/static11/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1.webp">
-  <meta name="twitter:image:alt" content="Python to C: What&#8217;s new in Cython 3.1 - Major Digest">
+  <meta name="twitter:image:alt" content="Improving Multithreaded Performance with Cython 3.1 - Major Digest">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@major_digest">
   <meta name="twitter:creator" content="@vpodk">
@@ -59,12 +59,12 @@
   <a href="#main" class="skip-nav">Skip to Main Content</a>
   <header>
     <span>
-      <time datetime="2024-11-27T11:02:52.007Z" itemprop="datePublished">Wednesday, November 27, 2024</time> &nbsp;
+      <time datetime="2024-11-27T15:00:23.101Z" itemprop="datePublished">Wednesday, November 27, 2024</time> &nbsp;
     </span>
     <h1>
       <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
           height="50"></a>
-      <span>Python to C: What&#8217;s new in Cython 3.1 - Major Digest</span>
+      <span>Improving Multithreaded Performance with Cython 3.1 - Major Digest</span>
     </h1>
   </header>
   <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
@@ -86,161 +86,87 @@
     "@type": "ListItem", "position": 2, "name": "tech",
     "item": "https://majordigest.com/tech/"
   }, {
-    "@type": "ListItem", "position": 3, "name": "Python to C: What&#8217;s new in Cython 3.1 - Major Digest"
+    "@type": "ListItem", "position": 3, "name": "Improving Multithreaded Performance with Cython 3.1 - Major Digest"
   }]
 }
 </script>
 <div itemscope itemtype="https://schema.org/NewsArticle" class="article">
   <meta itemprop="dateModified" content="Wed, 27 Nov 2024 09:00:00 GMT">
   <meta itemprop="url" content="/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1/">
-  <h2 itemprop="headline">Python to C: What&#8217;s new in Cython 3.1</h2>
+  <h2 itemprop="headline">Improving Multithreaded Performance with Cython 3.1</h2>
   <div itemprop="articleBody">
-    <img src="/static11/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1.webp" alt="Python to C: What&#8217;s new in Cython 3.1" align="left" itemprop="image" width="400" height="225">
-    <div id="remove_no_follow">
-		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
-					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
-						<div class="article-column__content">
-<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+    <img src="/static11/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1.webp" alt="Improving Multithreaded Performance with Cython 3.1" align="left" itemprop="image" width="400" height="225">
+    <h3>Cython 3.1 and Python's Free-Threaded Mode</h3>
 
+The latest version of Cython introduces new features that make it easier to write efficient multithreaded programs in Python. With the introduction of a free-threaded mode, you can now take advantage of Python's performance benefits when working with multithreaded applications.
 
+<h3>Thread-Safety in Cython</h3>
 
-<p>Cython is the most convenient way to bridge C and Python languages and tools in Python programs. Developers use it to write C extensions or wrap C libraries for use in Python. Now, a major new release is on the way. While it’s in early stages, Cython 3.1 adds powerful new type annotation features, and it includes compatibility with the free-threaded or “no-GIL” build of Python. It’s worth a spin, especially for developers who like to stay ahead of the curve.</p>
+While Cython has always allowed the creation of thread-safe extensions, ensuring that your code remains safe when accessed concurrently can still be a challenge. In a free-threaded mode, you're responsible for ensuring that any data shared among threads is properly protected from data corruption due to concurrent access.
 
+<h3>Setting Up Free-Threaded Mode</h3>
 
+To utilize Python's free-threaded mode with Cython, follow these steps:
 
-<h3 class="wp-block-heading" id="support-for-free-threaded-python">Support for free-threaded Python</h3>
+<p>
+	<ol>
+		<li><strong>Add the `freethreading_compatible` Directive</strong>: At the top of your Cython module, add the line <code># cython: freethreading_compatible = True</code>. This informs Python that the module is compatible with the free-threaded mode.</li>
+		<li><strong>Use the `Py_GIL_DISABLED` Macro</strong>: In your setup.py file, ensure that you've set the macro <code>Py_GIL_DISABLED</code> to 1 when building your Cython extensions. This allows them to be built with free-threaded compatibility.</li>
+		<li><strong>Check Thread Status with `sys._is_gil_enabled()`</strong>: You can use the <code>sys._is_gil_enabled()</code> method to check if the GIL is enabled or disabled, and act accordingly in your code.</li>
+	</ol>
+</p>
 
+<h3>New Type Annotations</h3>
 
+Cython 3.1 introduces new type annotations that make it easier to work with constants, pointers, and volatile values:
 
-<p>Python 3.13 introduced the first public, if experimental, “free-threaded” or “no-GIL” builds of the language, which we’ll call “3.13t.”</p>
+<p>
+	<ul>
+		<li><strong>`cython.const[T]`</strong>: Declare a constant of type <code>T</code>.</li>
+		<li><strong>`cython.volatile[T]`</strong>: Create a declaration handled by the compiler like something using the `volatile` C keyword.</li>
+		<li><strong>`cython.pointer[T]`</strong>: Define a pointer type, and dereference it with traditional C-style syntax.</li>
+	</ul>
+</p>
 
+These new annotations can help bridge the gap between Cython's older and newer syntaxes, making your code more expressive and precise.
 
+<h3>Summary</h3>
 
-<p>3.13t allows CPU-bound Python threads to run with true parallelism. As a project, it’s still in the early stages of development, so it’s only offered as an opt-in option. You have to specifically install the free-threaded build in order to use it.</p>
+In conclusion, Python's free-threaded mode offers performance benefits when working with multithreaded applications. By following these steps to set up your Cython modules for free-threading, you can write efficient and thread-safe extensions that take advantage of this feature. Additionally, the new type annotations in Cython 3.1 provide a more expressive way to work with constants, pointers, and volatile values, making it easier to create precise and readable code.
 
+<h2>Example Usage:</h2>
 
+Here's an example of how you might use these features in your Cython code:
 
-<p>For a long time, Cython, and C modules for Python generally, were a way to sidestep the GIL, the global interpreter lock. C code that doesn’t call into the CPython runtime isn’t constrained by the GIL. With 3.13t, conventional Python programs can now enjoy the same freedom.</p>
-
-
-
-<p>Cython 3.1 adds basic support for 3.13t. This support is considered experimental, just as free-threading itself is experimental, so you shouldn’t rely on it for production use.</p>
-
-
-
-<p>Cython modules need special build instructions to work with 3.31t. If a free-threaded Python tries to load a non-free-threaded-compatible Cython module, the interpreter will drop back to GIL mode for compatibility.</p>
-
-
-
-<h3 class="wp-block-heading" id="how-to-build-free-threaded-cython-modules">How to build free-threaded Cython modules</h3>
-
-
-
-<p>There are a few steps to building free-threaded Cython modules.</p>
-
-
-
-<h3 class="wp-block-heading" id="1-install-the-pre-release-version-of-cython-on-3-13t">1. Install the pre-release version of Cython on 3.13t</h3>
-
-
-
-<p>As of this writing, Cython 3.1 is not yet available on PyPI, so you’ll have to install it from GitHub. To minimize problems you might have with building Cython itself on 3.13, you may want to install the <em>uncompiled</em> version of Cython.</p>
-
-
-
-<p>First, set the environment variable <code>NO_CYTHON_COMPILE </code>to the string <code>"true"</code>. Then install Cython from GitHub:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-pip install git+https://github.com/cython/cython
-</code>
-</pre>
-
-
-
-
-<h3 class="wp-block-heading" id="2-add-a-compiler-directive-to-cython-modules">2. Add a compiler directive to Cython modules</h3>
-
-
-
-<p>To mark a module as being compatible with free-threading, you will need to add this declaration at the top of the module:</p>
-
-
-
-<pre class="prettyprint">
-<code>
+<p>
+	```python
 # cython: freethreading_compatible = True
-</code>
-</pre>
 
+from libc.math cimport sqrt
 
+cython.const_int = cython.const[cython.int]
 
+def calculate_distance(cython.list[float] points):
+    result = 0.0
+    for point in points:
+        result += sqrt(point[0]**2 + point[1]**2)
+    return result
 
-<p>Note that this declaration doesn’t by itself cause the module to be compiled for free-threading. It’s just a way to inform the Python runtime that it can stay in free-threaded mode when the module is imported.</p>
+cdef int main():
+    <h3> Create a list of points</h3>    cdef cython.list[float] points = [cython.address([3.0, 4.0]), cython.address([5.0, 6.0])]
 
+    <h3> Calculate the distance between points</h3>    cdef float distance = calculate_distance(points)
 
+    return 0
 
-<h3 class="wp-block-heading" id="3-add-the-free-threading-build-macros">3. Add the free-threading build macros</h3>
+```
 
+In this example, we've used the `freethreading_compatible` directive to enable free-threaded mode for our Cython module. We've also demonstrated how to use the new type annotations (`cython.const_int`, `cython.volatile`, and `cython.pointer`) in a practical scenario.
 
+Note that you'll need to adjust this code according to your specific requirements, such as including necessary headers and adjusting compilation settings.
 
-<p>The <code>setup.py</code> file used to build Cython extensions needs to set a C macro to allow your Cython modules to be built with free-threaded compatibility. The macro <code>Py_GIL_DISABLED</code> (note that’s <code>Py</code>, not <code>PY</code>!) should be set to <code>1</code>.</p>
-
-
-
-<p>One convenient way to do this automatically is to use the <code>sys._is_gil_enabled()</code> method to check if the macro needs to be used. A recipe like this might work:</p>
-
-
-
-<pre class="wp-block-code"><code>
-macros = []
-if getattr(sys, "_is_gil_enabled", None) and not sys._is_gil_enabled():
-    macros = [("Py_GIL_DISABLED","1")]
-
-ext_modules = [
-    Extension(
-        "compute",
-        ["compute.pyx"],
-        define_macros=macros
-    )
-]</code></pre>
-
-
-
-<h3 class="wp-block-heading" id="4-ensure-your-code-is-thread-safe">4. Ensure your code is thread safe</h3>
-
-
-
-<p>Thread safety in Cython modules has always been the programmer’s responsibility, at least as far as pure C code goes. If you call into the CPython interpreter using Cython, even in the free-threaded build, the interpreter will handle reference counts for those objects (although it won’t do anything about data races). But any Cython functions that run concurrently must not manipulate the same data.</p>
-
-
-
-<h3 class="wp-block-heading" id="new-type-annotations-for-constants-pointers-and-volatile-values">New type annotations for constants, pointers, and volatile values</h3>
-
-
-
-<p>As Cython has evolved, it has gradually transitioned away from its custom Python-but-not-quite syntax. Modern Cython uses a syntax that is essentially regular Python with Cython-added type hints, context managers, and other constructions.</p>
-
-
-
-<p>That new syntax lacked some of the precision and expressiveness of “classic” Cython, however, so it was necessary to drop back to the older Cython syntax to express certain things. Cython 3.1 adds new type hints to help close that gap:</p>
-
-
-
-<ul class="wp-block-list">
-<li><code>cython.const[T]</code> lets you declare something of a given type as a constant. For instance, <code>x:cython.const[cython.int] = 32</code> would declare <code>x</code> as the constant integer 32. You can also abbreviate many common constant declarations; e.g., <code>cython.const[cython.int]</code> can be simplified to <code>cython.const_int</code>. Note that these declarations are only valid at the <em>module</em> level; they cannot be made within a function.</li>
-
-
-
-<li><code>cython.volatile[T]</code> creates a declaration that is handled by the compiler in the same manner as something that uses the <code>volatile</code> C keyword. <code>volatile</code> is used to indicate that the compiler should not optimize the code in such a way that the value in question can ever be assumed to be any particular thing at any particular time. This is useful for, say, C modules that interface directly with hardware.</li>
-
-
-
-<li><code>cython.pointer[T]</code> lets you define a pointer type. For instance, <code>x: cython.pointer[cython.int] = cython.address(y)</code> would make <code>x</code> into a pointer to <code>y</code>. Dereferencing a pointer in Cython is still done with the old-school C-style syntax, though: <code>z=x[0]</code> would dereference <code>x</code> into <code>z</code> (and thus set <code>z</code> to the value of <code>y</code>).</li>
-</ul>
-</div></div></div></div>
+</p>
+<!-- Rev: 2.1  -->
   </div>
   <p>
     Source:
