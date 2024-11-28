@@ -3,31 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/politics/2024/11/28/what-evacuation-day-forgotten-holiday-predates-thanksgiving/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T09:00:28.000Z</news:publication_date>
-            <news:title>What is Evacuation Day? The forgotten holiday that predates Thanksgiving</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/11/28/what-evacuation-day-forgotten-holiday-predates-thanksgiving.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/politics/2024/11/28/zuckerberg-dines-with-trump-in-mar-a-lago/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T04:08:25.000Z</news:publication_date>
+            <news:publication_date>2024-11-28T04:08:24.000Z</news:publication_date>
             <news:title>Zuckerberg dines with Trump in Mar-a-Lago</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/politics/2024/11/28/zuckerberg-dines-with-trump-in-mar-a-lago.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/11/28/trump-speaks-with-mexicos-president-claims-an-agreement-to-effectively-close-the-border/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-28T01:59:11.000Z</news:publication_date>
+            <news:title>Trump claims a win on immigration after a call with Mexico's president. But she suggests no change</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/28/trump-speaks-with-mexicos-president-claims-an-agreement-to-effectively-close-the-border.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/11/27/feds-cant-destroy-razor-wire-texas-installed-near-eagle-pass-appeals-court-rules/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-27T23:53:38.000Z</news:publication_date>
+            <news:title>Feds can&#8217;t destroy razor wire Texas installed near Eagle Pass, appeals court rules</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/27/feds-cant-destroy-razor-wire-texas-installed-near-eagle-pass-appeals-court-rules.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -42,20 +56,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/politics/2024/11/27/trump-transition-says-cabinet-picks-appointees-were-targeted-by-bomb-threats-swatting-attacks.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/11/27/russia-expels-two-german-journalists-in-tit-for-tat-retaliation-ministry-says/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T17:01:01.000Z</news:publication_date>
-            <news:title>Russia expels two German journalists in tit-for-tat retaliation, ministry says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/11/27/russia-expels-two-german-journalists-in-tit-for-tat-retaliation-ministry-says.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -87,6 +87,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/politics/2024/11/27/democrats-in-pennsylvania-had-a-horrible-2024-election-they-say-its-still-a-swing-state/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-27T05:06:02.000Z</news:publication_date>
+            <news:title>Democrats in Pennsylvania had a horrible 2024 election. They say it's still a swing state</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/27/democrats-in-pennsylvania-had-a-horrible-2024-election-they-say-its-still-a-swing-state.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/politics/2024/11/27/npr-nih-bhattacharya-trump-election-2024/</loc>
           <news:news>
             <news:publication>
@@ -101,115 +115,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/11/26/minnesota-republicans-to-challenge-election-result-in-shakopee-house-race-in-court/</loc>
+          <loc>https://majordigest.com/politics/2024/11/27/surveillance-tech-advances-by-biden-could-aid-in-trumps-promised-crackdown-on-immigration/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T21:35:00.000Z</news:publication_date>
-            <news:title>Minnesota Republicans to challenge election result in Shakopee House race in court</news:title>
+            <news:publication_date>2024-11-27T00:28:25.000Z</news:publication_date>
+            <news:title>Surveillance tech advances by Biden could aid in Trump's promised crackdown on immigration</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/11/26/minnesota-republicans-to-challenge-election-result-in-shakopee-house-race-in-court.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/27/surveillance-tech-advances-by-biden-could-aid-in-trumps-promised-crackdown-on-immigration.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/11/26/npr-trumps-tariffs-china-canada-mexico/</loc>
+          <loc>https://majordigest.com/politics/2024/11/26/walz-agriculture-leaders-celebrate-minnesota-turkey-production-show-concern-over-tariffs/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T21:24:54.000Z</news:publication_date>
-            <news:title>Trump's tariffs may be targeted at others &#8212; but they could impact you too</news:title>
+            <news:publication_date>2024-11-26T22:03:00.000Z</news:publication_date>
+            <news:title>Walz, agriculture leaders celebrate Minnesota turkey production, show concern over tariffs</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/11/26/npr-trumps-tariffs-china-canada-mexico.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/26/walz-agriculture-leaders-celebrate-minnesota-turkey-production-show-concern-over-tariffs.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/11/26/lawmakers-call-for-progress-on-marijuana-law-before-end-of-biden-administration/</loc>
+          <loc>https://majordigest.com/politics/2024/11/26/appeals-court-agrees-to-end-trumps-classified-documents-case/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T19:37:39.000Z</news:publication_date>
-            <news:title>Lawmakers call for progress on marijuana law before end of Biden administration</news:title>
+            <news:publication_date>2024-11-26T21:32:30.000Z</news:publication_date>
+            <news:title>Appeals court agrees to end Trump&#8217;s classified documents case</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/11/26/lawmakers-call-for-progress-on-marijuana-law-before-end-of-biden-administration.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/26/appeals-court-agrees-to-end-trumps-classified-documents-case.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/11/26/trump-threatens-to-impose-sweeping-tariffs-on-mexico-canada-and-china-on-first-day/</loc>
+          <loc>https://majordigest.com/politics/2024/11/25/npr-florida-surgeon-general-ladapo-rfk-fluoride-drinking-water/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T14:23:13.000Z</news:publication_date>
-            <news:title>Trump threatens to impose sweeping tariffs on Mexico, Canada and China on first day</news:title>
+            <news:publication_date>2024-11-25T04:52:00.000Z</news:publication_date>
+            <news:title>Florida health official advises communities to stop adding fluoride to drinking water</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/11/26/trump-threatens-to-impose-sweeping-tariffs-on-mexico-canada-and-china-on-first-day.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/25/npr-florida-surgeon-general-ladapo-rfk-fluoride-drinking-water.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/11/26/rand-paul-denver-mayor-could-be-removed-over-deportation-resistance/</loc>
+          <loc>https://majordigest.com/politics/2024/11/25/battleground-florida-economist-explains-potential-impact-of-trumps-tariffs/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T02:45:17.000Z</news:publication_date>
-            <news:title>Rand Paul: Denver mayor could be removed over deportation resistance</news:title>
+            <news:publication_date>2024-11-25T02:36:25.000Z</news:publication_date>
+            <news:title>Battleground Florida: Economist explains potential impact of Trump's tariffs</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/11/26/rand-paul-denver-mayor-could-be-removed-over-deportation-resistance.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/11/25/manhattan-top-federal-prosecutor-damian-williams-to-resign-in-december/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-25T23:51:51.000Z</news:publication_date>
-            <news:title>Manhattan top federal prosecutor Damian Williams to resign in December</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/11/25/manhattan-top-federal-prosecutor-damian-williams-to-resign-in-december.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/11/25/lawsuit-challenges-minnesota-abortion-access-in-federal-court/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-25T20:10:00.000Z</news:publication_date>
-            <news:title>Lawsuit challenges Minnesota abortion access in federal court</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/11/25/lawsuit-challenges-minnesota-abortion-access-in-federal-court.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/11/25/new-law-forces-landlords-to-notify-tenants-of-bed-bug-infestations-in-ny/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-25T11:50:34.000Z</news:publication_date>
-            <news:title>New law forces landlords to notify tenants of bed bug infestations in NY</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/11/25/new-law-forces-landlords-to-notify-tenants-of-bed-bug-infestations-in-ny.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/25/battleground-florida-economist-explains-potential-impact-of-trumps-tariffs.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,16 +199,58 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/11/21/matt-gaetz-withdraws-from-attorney-general-nomination/</loc>
+          <loc>https://majordigest.com/politics/2024/11/22/florida-officials-discuss-efforts-to-uncover-political-discrimination-at-fema/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-21T17:39:45.000Z</news:publication_date>
-            <news:title>Matt Gaetz withdraws from attorney general nomination</news:title>
+            <news:publication_date>2024-11-22T15:41:07.000Z</news:publication_date>
+            <news:title>Florida officials allege 'pervasive' discrimination against Trump supporters at FEMA</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/11/21/matt-gaetz-withdraws-from-attorney-general-nomination.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/22/florida-officials-discuss-efforts-to-uncover-political-discrimination-at-fema.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/11/22/house-passes-bill-allow-treasury-target-nonprofits-deemed-support-terrorism/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-22T14:03:00.000Z</news:publication_date>
+            <news:title>House passes bill that would allow Treasury to target nonprofits it deems to support terrorism</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/22/house-passes-bill-allow-treasury-target-nonprofits-deemed-support-terrorism.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/11/22/npr-trump-republicans-obamacare-aca-medicaid/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-22T11:47:00.000Z</news:publication_date>
+            <news:title>Here&#8217;s how Trump and the GOP may try to weaken Obamacare</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/22/npr-trump-republicans-obamacare-aca-medicaid.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/11/22/trump-chooses-pam-bondi-for-attorney-general-pick-after-gaetz-withdraws/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-22T01:59:34.000Z</news:publication_date>
+            <news:title>Trump chooses Pam Bondi for attorney general pick after Gaetz withdraws</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/11/22/trump-chooses-pam-bondi-for-attorney-general-pick-after-gaetz-withdraws.webp</image:loc>
           </image:image>
         </url></urlset>
