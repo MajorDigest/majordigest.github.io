@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/windows-11-a-guide-to-the-updates/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/la-inteligencia-artificial-trasciende-al-espacio/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T08:27:00.000Z</news:publication_date>
-            <news:title>Windows Updates: September to October 2023</news:title>
+            <news:publication_date>2024-11-28T12:41:46.000Z</news:publication_date>
+            <news:title>Revolutionizing Space Exploration: How AI and Collaboration are Changing the Game</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/windows-11-a-guide-to-the-updates.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/la-inteligencia-artificial-trasciende-al-espacio.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/28/copilot-studio-agents-get-a-major-upgrade-via-microsoft-365-copilot/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-28T09:00:00.000Z</news:publication_date>
+            <news:title>The Future of Business Process Automation: Agents on the Desktop</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/copilot-studio-agents-get-a-major-upgrade-via-microsoft-365-copilot.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/28/tiktok-will-block-beauty-filters-for-european-teens-following-pushback/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-28T01:50:24.000Z</news:publication_date>
+            <news:title>TikTok to Ban Beauty Filters for Teen Users in Europe Amid Mental Health Concerns</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/tiktok-will-block-beauty-filters-for-european-teens-following-pushback.webp</image:loc>
           </image:image>
         </url></urlset>
