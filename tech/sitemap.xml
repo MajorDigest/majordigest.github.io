@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T18:47:21.000Z</news:publication_date>
+            <news:title>Lawsuit Filed Against OpenAI Over Copyright Breaches in News Content</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/two-years-of-chatgpt-the-conversation-that-never-ends/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T18:33:59.000Z</news:publication_date>
+            <news:title>Two years of ChatGPT: the conversation that never ends</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/two-years-of-chatgpt-the-conversation-that-never-ends.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-6-2-million-eats-the-fruit-in-hong-kong/</loc>
           <news:news>
             <news:publication>
@@ -14,6 +42,48 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-6-2-million-eats-the-fruit-in-hong-kong.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T10:35:32.000Z</news:publication_date>
+            <news:title>Canada sues Google over alleged anticompetitive practices in online advertising</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/stretching-comms-to-the-limit-in-the-wake-of-a-natural-disaster/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T10:00:00.000Z</news:publication_date>
+            <news:title>Stretching comms to the limit in the wake of a natural disaster</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/stretching-comms-to-the-limit-in-the-wake-of-a-natural-disaster.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/safe-certification-guide/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T09:30:00.000Z</news:publication_date>
+            <news:title>SAFe certification: Launch your Scaled Agile Framework career</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/safe-certification-guide.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,17 +115,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/muddy-footprints-suggest-2-species-of-early-humans-were-neighbors-in-kenya-15-million-years-ago/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/joshua-trees-are-in-peril-california-has-a-plan-to-save-them/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T18:01:35.000Z</news:publication_date>
-            <news:title>Muddy footprints suggest 2 species of early humans were neighbors in Kenya 1.5 million years ago</news:title>
+            <news:publication_date>2024-11-28T22:30:54.000Z</news:publication_date>
+            <news:title>Joshua trees are in peril. California has a plan to save them</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/muddy-footprints-suggest-2-species-of-early-humans-were-neighbors-in-kenya-15-million-years-ago.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/joshua-trees-are-in-peril-california-has-a-plan-to-save-them.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/28/spotify-playlists-being-hijacked-promote-pirated-software-scams/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-28T15:00:53.000Z</news:publication_date>
+            <news:title>Spotify playlists are being hijacked to promote pirated software and scams</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/spotify-playlists-being-hijacked-promote-pirated-software-scams.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -66,7 +150,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-11-28T14:22:50.000Z</news:publication_date>
-            <news:title>Holiday Tech Support: Tips for Managing Your Family's Devices</news:title>
+            <news:title>One Tech Tip: Home for the holidays? Show relatives you care with some tech support</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/28/one-tech-tip-home-for-the-holidays-show-relatives-you-care-with-some-tech-support.webp</image:loc>
@@ -84,146 +168,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/28/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T11:00:14.000Z</news:publication_date>
-            <news:title>Amazon&#8217;s VP explains how to protect yourself from holiday impersonation scams</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/intels-7-9b-subsidy-deal-comes-at-a-high-price-for-the-chipmaker/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T09:38:41.000Z</news:publication_date>
-            <news:title>Intel's $7.86 Billion Subsidy Deal Imposes Conditions on Chipmaking Division</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/intels-7-9b-subsidy-deal-comes-at-a-high-price-for-the-chipmaker.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/matt-gaetz-is-dishing-out-career-advice-on-cameo/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T04:24:22.000Z</news:publication_date>
-            <news:title>Matt Gaetz is dishing out career advice on Cameo</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/matt-gaetz-is-dishing-out-career-advice-on-cameo.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/zuckerberg-dines-with-trump-in-mar-a-lago/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T04:08:24.000Z</news:publication_date>
-            <news:title>Zuckerberg dines with Trump in Mar-a-Lago</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/zuckerberg-dines-with-trump-in-mar-a-lago.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/uno-platform-unveils-visual-designer-for-cross-platform-net-development/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T23:06:12.000Z</news:publication_date>
-            <news:title>Uno Platform unveils visual designer for cross-platform .NET development</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/uno-platform-unveils-visual-designer-for-cross-platform-net-development.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/kai-trump-shows-elon-musk-awkwardly-tutoring-trump-in-rocket-science/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T19:27:11.000Z</news:publication_date>
-            <news:title>Kai Trump shows Elon Musk awkwardly tutoring Trump in rocket science</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/kai-trump-shows-elon-musk-awkwardly-tutoring-trump-in-rocket-science.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/heres-your-last-minute-guide-to-holiday-social-media-etiquette/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T18:00:00.000Z</news:publication_date>
-            <news:title>Here&#8217;s your last-minute guide to holiday social media etiquette</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/heres-your-last-minute-guide-to-holiday-social-media-etiquette.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/10-tips-and-services-for-new-bluesky-users/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T16:47:33.000Z</news:publication_date>
-            <news:title>10+ tips and services for new Bluesky users</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/10-tips-and-services-for-new-bluesky-users.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/6-sneaky-gift-card-scams-watch-out-holiday-season/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T15:00:47.000Z</news:publication_date>
-            <news:title>6 sneaky gift card scams to watch out for this holiday season</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/6-sneaky-gift-card-scams-watch-out-holiday-season.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/black-friday-deal-sites/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T13:05:00.000Z</news:publication_date>
-            <news:title>For Black Friday deals, these 3 sites are all you need</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/black-friday-deal-sites.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -248,107 +192,79 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-11-27T09:46:03.000Z</news:publication_date>
-            <news:title>Judge won&#8217;t alter Google antitrust trial dates to accommodate Trump DOJ&#8217;s proposal</news:title>
+            <news:title>US Federal Judge Orders Google Trial to Proceed Amid DOJ Leadership Changes</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/27/judge-wont-alter-google-antitrust-trial-dates-to-accommodate-trump-dojs-proposal.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/kotlin-to-lose-scripting-features/</loc>
+          <loc>https://majordigest.com/tech/2024/11/26/2024-global-network-outage-report-and-internet-health-check/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T02:51:54.000Z</news:publication_date>
-            <news:title>Kotlin to lose scripting features</news:title>
+            <news:publication_date>2024-11-26T18:11:51.000Z</news:publication_date>
+            <news:title>2024 global network outage report and internet health check</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/kotlin-to-lose-scripting-features.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/2024-global-network-outage-report-and-internet-health-check.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/starbucks-retailers-hit-by-ransomware-attack-blue-yonder/</loc>
+          <loc>https://majordigest.com/tech/2024/11/26/dont-chance-it-secure-your-retirement-accounts-vpn-protect-your-future/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T02:15:00.000Z</news:publication_date>
-            <news:title>Starbucks and other retailers hit with ongoing ransomware attack on software provider</news:title>
+            <news:publication_date>2024-11-26T11:00:31.000Z</news:publication_date>
+            <news:title>Don't chance it. Secure your retirement accounts with a VPN and protect your future</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/starbucks-retailers-hit-by-ransomware-attack-blue-yonder.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/dont-chance-it-secure-your-retirement-accounts-vpn-protect-your-future.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/equinix-to-cut-3-of-staff-amidst-the-greatest-demand-for-data-center-infrastructure-ever/</loc>
+          <loc>https://majordigest.com/tech/2024/11/26/uspto-petitioned-to-cancel-oracles-javascript-trademark/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T02:04:10.000Z</news:publication_date>
-            <news:title>Equinix to cut 3% of staff amidst the greatest demand for data center infrastructure ever</news:title>
+            <news:publication_date>2024-11-26T01:41:33.000Z</news:publication_date>
+            <news:title>USPTO petitioned to cancel Oracle&#8217;s JavaScript trademark</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/equinix-to-cut-3-of-staff-amidst-the-greatest-demand-for-data-center-infrastructure-ever.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/uspto-petitioned-to-cancel-oracles-javascript-trademark.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/26/majority-of-social-media-influencers-share-information-without-verifying-its-accuracy/</loc>
+          <loc>https://majordigest.com/tech/2024/11/25/north-korean-hackers-use-disguised-apps-target-macs-hidden-malware/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T23:12:28.000Z</news:publication_date>
-            <news:title>UN Report Exposes Social Media Influencers' Lack of Accuracy</news:title>
+            <news:publication_date>2024-11-25T15:00:28.000Z</news:publication_date>
+            <news:title>North Korean hackers use disguised apps to target Macs with hidden malware</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/majority-of-social-media-influencers-share-information-without-verifying-its-accuracy.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/north-korean-hackers-use-disguised-apps-target-macs-hidden-malware.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway/</loc>
+          <loc>https://majordigest.com/tech/2024/11/25/github-copilot-everything-you-need-to-know/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T22:35:07.000Z</news:publication_date>
-            <news:title>Federal prosecutors seek records from company that deployed AI weapons scanner on NYC subway</news:title>
+            <news:publication_date>2024-11-25T09:00:00.000Z</news:publication_date>
+            <news:title>GitHub Copilot: Everything you need to know</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/25/cisa-debuts-new-cybersecurity-training-platform/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-25T16:09:48.000Z</news:publication_date>
-            <news:title>CISA debuts new cybersecurity training platform</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/25/cisa-debuts-new-cybersecurity-training-platform.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/25/windows-recall-is-now-available-to-test-in-limited-preview/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-25T16:06:21.000Z</news:publication_date>
-            <news:title>Windows Recall is now available to test in limited preview</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/25/windows-recall-is-now-available-to-test-in-limited-preview.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/github-copilot-everything-you-need-to-know.webp</image:loc>
           </image:image>
         </url></urlset>
