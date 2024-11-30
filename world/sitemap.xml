@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/world/2024/11/30/georgian-protesters-and-police-clash-after-prime-minister-suspends-talks-on-joining-the-eu/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-30T00:42:43.000Z</news:publication_date>
+            <news:title>Georgian protesters clash with police for a second night after EU talks are suspended</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/30/georgian-protesters-and-police-clash-after-prime-minister-suspends-talks-on-joining-the-eu.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/11/29/what-to-know-about-shock-offensive-on-syrias-largest-city/</loc>
           <news:news>
             <news:publication>
@@ -14,6 +28,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/world/2024/11/29/what-to-know-about-shock-offensive-on-syrias-largest-city.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/11/29/trump-kellogg-ukraine-war-proposals/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T23:52:36.000Z</news:publication_date>
+            <news:title>What Trump's Russia-Ukraine envoy has said about ending the war</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/trump-kellogg-ukraine-war-proposals.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,73 +73,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/29/georgian-protesters-and-police-clash-after-prime-minister-suspends-talks-on-joining-the-eu/</loc>
+          <loc>https://majordigest.com/world/2024/11/29/ireland-votes-close-run-election-where-incumbents-hope-cling-power/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T22:06:14.000Z</news:publication_date>
-            <news:title>Georgian protesters clash with police for a second night after EU talks are suspended</news:title>
+            <news:publication_date>2024-11-29T20:36:06.000Z</news:publication_date>
+            <news:title>Ireland votes in a close-run election where incumbents hope to cling on to power</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/29/georgian-protesters-and-police-clash-after-prime-minister-suspends-talks-on-joining-the-eu.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/ireland-votes-close-run-election-where-incumbents-hope-cling-power.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/29/syria-insurgents-push-their-advance-toward-2nd-largest-city-aleppo/</loc>
+          <loc>https://majordigest.com/world/2024/11/29/enraged-passenger-unloads-flurry-punches-airport-worker-wild-video-shows/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T21:23:28.000Z</news:publication_date>
-            <news:title>In a shock offensive, insurgents breach Syria's largest city for the first time since 2016</news:title>
+            <news:publication_date>2024-11-29T20:02:49.000Z</news:publication_date>
+            <news:title>Enraged passenger unloads flurry of punches on airport worker, wild video shows</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/29/syria-insurgents-push-their-advance-toward-2nd-largest-city-aleppo.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T19:25:47.000Z</news:publication_date>
-            <news:title>Canadian news publishers sue OpenAI over alleged copyright infringement</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/11/29/middle-east-latest-3-die-in-overcrowding-outside-gaza-bakery-amid-food-shortage/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T19:20:43.000Z</news:publication_date>
-            <news:title>Middle East latest: 2 children and a woman crushed to death outside Gaza bakery amid food shortage</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/29/middle-east-latest-3-die-in-overcrowding-outside-gaza-bakery-amid-food-shortage.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/11/29/hamas-attacker-opens-fire-israeli-bus-west-bank-injuring-least-8-report/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T19:02:47.000Z</news:publication_date>
-            <news:title>Hamas attacker opens fire at Israeli bus in West Bank, injuring at least 8: report</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/29/hamas-attacker-opens-fire-israeli-bus-west-bank-injuring-least-8-report.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/enraged-passenger-unloads-flurry-punches-airport-worker-wild-video-shows.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -129,20 +115,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/29/historic-debate-on-legalizing-assisted-dying-in-england-and-wales-begins/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T18:55:55.000Z</news:publication_date>
-            <news:title>British lawmakers give initial approval to a bill to allow terminally ill adults to end their lives</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/29/historic-debate-on-legalizing-assisted-dying-in-england-and-wales-begins.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2024/11/29/trudeau-says-trump-would-raise-prices-on-americans-if-he-follows-through-on-canada-tariff-threat/</loc>
           <news:news>
             <news:publication>
@@ -157,13 +129,41 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/world/2024/11/29/stowaway-who-boarded-new-york-to-paris-flight-will-be-sent-back-to-us/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T17:47:52.000Z</news:publication_date>
+            <news:title>Stowaway who boarded New York-to-Paris flight will be sent back to US</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/stowaway-who-boarded-new-york-to-paris-flight-will-be-sent-back-to-us.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/11/29/democrats-west-bank-palestinians-trump/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T17:15:00.000Z</news:publication_date>
+            <news:title>Democrats sound alarm on West Bank under Trump administration</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/democrats-west-bank-palestinians-trump.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/11/29/israelis-are-wary-of-returning-to-the-north-because-they-dont-trust-the-ceasefire-with-hezbollah/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T17:12:58.000Z</news:publication_date>
+            <news:publication_date>2024-11-29T17:12:57.000Z</news:publication_date>
             <news:title>Israelis are wary of returning to the north because they don't trust the ceasefire with Hezbollah</news:title>
           </news:news>
           <image:image>
@@ -171,171 +171,199 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/29/uk-cabinet-louise-haigh-resigns-fraud-case/</loc>
+          <loc>https://majordigest.com/world/2024/11/29/putin-trump-praise-intelligent-assassination-threats/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T16:27:15.000Z</news:publication_date>
-            <news:title>UK Cabinet member resigns over past phone fraud case</news:title>
+            <news:publication_date>2024-11-29T15:15:39.000Z</news:publication_date>
+            <news:title>Putin praises 'intelligent' Trump amid assassination threats</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/29/uk-cabinet-louise-haigh-resigns-fraud-case.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/putin-trump-praise-intelligent-assassination-threats.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/29/first-look-notre-dame-cathedrals-restored-interior-five-years-after-devastating-fire/</loc>
+          <loc>https://majordigest.com/world/2024/11/29/iran-to-begin-enriching-uranium-with-thousands-of-advanced-centrifuges-un-watchdog-says/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T15:57:27.000Z</news:publication_date>
-            <news:title>First look at Notre Dame Cathedral's restored interior five years after devastating fire</news:title>
+            <news:publication_date>2024-11-29T13:50:41.000Z</news:publication_date>
+            <news:title>Iran to begin enriching uranium with thousands of advanced centrifuges, UN watchdog says</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/29/first-look-notre-dame-cathedrals-restored-interior-five-years-after-devastating-fire.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/iran-to-begin-enriching-uranium-with-thousands-of-advanced-centrifuges-un-watchdog-says.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/29/trump-threats-optimism-halifax-security-forum/</loc>
+          <loc>https://majordigest.com/world/2024/11/29/ukraine-president-zelenskyy-ordered-missile-strikes-russia-hours-after-trip-front-lines-fox-news/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T11:00:00.000Z</news:publication_date>
-            <news:title>Trump shake-up spurs optimism and anxiety among key US allies</news:title>
+            <news:publication_date>2024-11-29T12:48:00.000Z</news:publication_date>
+            <news:title>Ukraine's Zelenskyy ordered missile strikes into Russia hours after trip to front lines with Fox News</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/29/trump-threats-optimism-halifax-security-forum.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/ukraine-president-zelenskyy-ordered-missile-strikes-russia-hours-after-trip-front-lines-fox-news.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/28/gulf-cartel-unregulated-fishing/</loc>
+          <loc>https://majordigest.com/world/2024/11/29/middle-east-latest-3-die-in-overcrowding-outside-gaza-bakery-amid-food-shortage/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T23:00:49.000Z</news:publication_date>
-            <news:title>Powerful Mexican cartel accused of forced labor, human trafficking</news:title>
+            <news:publication_date>2024-11-29T12:45:59.000Z</news:publication_date>
+            <news:title>Middle East latest: 2 children and a woman crushed to death outside Gaza bakery amid food shortage</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/28/gulf-cartel-unregulated-fishing.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/middle-east-latest-3-die-in-overcrowding-outside-gaza-bakery-amid-food-shortage.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/28/sweden-asks-for-chinas-cooperation-over-baltic-sea-cables-cut-while-a-chinese-ship-was-nearby/</loc>
+          <loc>https://majordigest.com/world/2024/11/29/uk-intelligence-chief-accuses-russia-of-staggeringly-reckless-sabotage-campaign/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T16:14:08.000Z</news:publication_date>
-            <news:title>Sweden asks for China's cooperation over Baltic Sea cables cut while a Chinese ship was nearby</news:title>
+            <news:publication_date>2024-11-29T11:37:17.000Z</news:publication_date>
+            <news:title>UK intelligence chief accuses Russia of 'staggeringly reckless' sabotage campaign</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/28/sweden-asks-for-chinas-cooperation-over-baltic-sea-cables-cut-while-a-chinese-ship-was-nearby.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/uk-intelligence-chief-accuses-russia-of-staggeringly-reckless-sabotage-campaign.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/28/israel-hezbollah-ceasefire-violation-accusations/</loc>
+          <loc>https://majordigest.com/world/2024/11/29/ukrainian-energy-workers-carry-out-repairs-despite-russias-pounding-of-the-countrys-power-grid/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T15:12:57.000Z</news:publication_date>
-            <news:title>Israel, Hezbollah accuse each other of violating ceasefire</news:title>
+            <news:publication_date>2024-11-29T07:09:19.000Z</news:publication_date>
+            <news:title>Ukrainian energy workers carry out repairs despite Russia's pounding of the country's power grid</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/28/israel-hezbollah-ceasefire-violation-accusations.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/ukrainian-energy-workers-carry-out-repairs-despite-russias-pounding-of-the-countrys-power-grid.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/27/us-sanctions-21-more-maduro-allies-accused-post-election-repression-venezuela/</loc>
+          <loc>https://majordigest.com/world/2024/11/29/battered-by-war-and-divisions-lebanon-faces-a-long-list-of-challenges-after-ceasefire-deal/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T17:29:03.000Z</news:publication_date>
-            <news:title>US sanctions 21 more Maduro allies accused of post-election repression in Venezuela</news:title>
+            <news:publication_date>2024-11-29T05:04:07.000Z</news:publication_date>
+            <news:title>Battered by war and divisions, Lebanon faces a long list of challenges after ceasefire deal</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/27/us-sanctions-21-more-maduro-allies-accused-post-election-repression-venezuela.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/29/battered-by-war-and-divisions-lebanon-faces-a-long-list-of-challenges-after-ceasefire-deal.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/27/australian-police-officer-who-used-taser-95-year-old-woman-found-guilty-manslaughter/</loc>
+          <loc>https://majordigest.com/world/2024/11/28/stowaway-found-delta-flight-from-new-york-city-paris/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T17:16:47.000Z</news:publication_date>
-            <news:title>Australian police officer who used Taser on 95-year-old woman found guilty of manslaughter</news:title>
+            <news:publication_date>2024-11-28T21:08:28.000Z</news:publication_date>
+            <news:title>Stowaway found on Delta flight from New York City to Paris</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/27/australian-police-officer-who-used-taser-95-year-old-woman-found-guilty-manslaughter.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/28/stowaway-found-delta-flight-from-new-york-city-paris.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/27/china-releases-3-americans-prisoner-swap/</loc>
+          <loc>https://majordigest.com/world/2024/11/28/lebanon-says-2-hurt-as-israeli-troops-fire-on-people-returning-south-after-truce-with-hezbollah/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T15:04:41.000Z</news:publication_date>
-            <news:title>China releases 3 Americans in prisoner swap</news:title>
+            <news:publication_date>2024-11-28T20:55:57.000Z</news:publication_date>
+            <news:title>Day 2 of the Israel-Hezbollah ceasefire sees Israeli airstrike on Lebanon and scattered attacks</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/27/china-releases-3-americans-prisoner-swap.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/28/lebanon-says-2-hurt-as-israeli-troops-fire-on-people-returning-south-after-truce-with-hezbollah.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/26/russian-migrants-denied-access-asylum/</loc>
+          <loc>https://majordigest.com/world/2024/11/28/romanian-court-orders-a-recount-of-presidential-election-first-round/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T20:54:05.000Z</news:publication_date>
-            <news:title>Russian migrants being denied access to asylum process: attorney</news:title>
+            <news:publication_date>2024-11-28T19:21:27.000Z</news:publication_date>
+            <news:title>Romanian court orders recount of the 1st round of the presidential vote, won by a far-right outsider</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/26/russian-migrants-denied-access-asylum.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/28/romanian-court-orders-a-recount-of-presidential-election-first-round.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/26/israel-bombards-beirut-suburbs-as-its-leadership-prepares-to-vote-on-ceasefire-with-hezbollah/</loc>
+          <loc>https://majordigest.com/world/2024/11/28/space-force-countering-asat-threats/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T13:41:58.000Z</news:publication_date>
-            <news:title>Israel ramps up strikes on Beirut as its leadership prepares to vote on ceasefire with Hezbollah</news:title>
+            <news:publication_date>2024-11-28T11:00:47.000Z</news:publication_date>
+            <news:title>Space Force looks to bulk up against anti-satellite weapons</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/26/israel-bombards-beirut-suburbs-as-its-leadership-prepares-to-vote-on-ceasefire-with-hezbollah.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/28/space-force-countering-asat-threats.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/11/25/bah-humbug-vandal-smashes-ebenezer-scrooges-tombstone-used-in-a-christmas-carol-movie/</loc>
+          <loc>https://majordigest.com/world/2024/11/28/canada-is-already-examining-tariffs-on-certain-us-items-following-trumps-tariff-threat/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-25T19:50:36.000Z</news:publication_date>
-            <news:title>Bah, humbug! Vandal smashes Ebenezer Scrooge's tombstone used in 'A Christmas Carol' movie</news:title>
+            <news:publication_date>2024-11-28T02:23:45.000Z</news:publication_date>
+            <news:title>Canada is already examining tariffs on certain US items following Trump's tariff threat</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/11/25/bah-humbug-vandal-smashes-ebenezer-scrooges-tombstone-used-in-a-christmas-carol-movie.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/11/28/canada-is-already-examining-tariffs-on-certain-us-items-following-trumps-tariff-threat.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/11/27/two-companies-drop-mcgregor-after-civil-jury-ruled-he-must-pay-250k-to-woman-who-says-he-raped-her/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-27T13:29:41.000Z</news:publication_date>
+            <news:title>2 companies cut ties with Conor McGregor</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/27/two-companies-drop-mcgregor-after-civil-jury-ruled-he-must-pay-250k-to-woman-who-says-he-raped-her.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/11/26/eu-top-diplomat-says-israel-has-no-excuses-to-refuse-a-ceasefire-with-hezbollah-in-us-french-deal/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-26T11:15:54.000Z</news:publication_date>
+            <news:title>Top EU diplomat says Israel has 'no excuses' to refuse a ceasefire with Hezbollah</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/26/eu-top-diplomat-says-israel-has-no-excuses-to-refuse-a-ceasefire-with-hezbollah-in-us-french-deal.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -353,6 +381,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/world/2024/11/24/drones-detected-us-bases-england/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-24T20:59:32.000Z</news:publication_date>
+            <news:title>Drones detected near 3 US bases in England last week: Air Force</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/24/drones-detected-us-bases-england.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/11/24/at-least-11-killed-and-dozens-injured-in-israeli-strikes-in-beirut-as-diplomats-push-for-cease-fire/</loc>
           <news:news>
             <news:publication>
@@ -364,5 +406,19 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/world/2024/11/24/at-least-11-killed-and-dozens-injured-in-israeli-strikes-in-beirut-as-diplomats-push-for-cease-fire.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/11/24/the-philippine-vice-president-publicly-threatens-to-have-the-president-assassinated/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-24T02:50:24.000Z</news:publication_date>
+            <news:title>The Philippine vice president publicly threatens to have the president assassinated</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/11/24/the-philippine-vice-president-publicly-threatens-to-have-the-president-assassinated.webp</image:loc>
           </image:image>
         </url></urlset>
