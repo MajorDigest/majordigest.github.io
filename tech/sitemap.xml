@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/11/30/artificial-intelligence-changes-across-us/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-30T00:21:28.000Z</news:publication_date>
+            <news:title>Artificial intelligence changes across the US</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/30/artificial-intelligence-changes-across-us.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement/</loc>
           <news:news>
             <news:publication>
@@ -17,17 +31,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law/</loc>
+          <loc>https://majordigest.com/tech/2024/11/29/how-i-turned-my-blog-into-a-social-media-hub/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T00:04:40.000Z</news:publication_date>
-            <news:title>Australian Parliament bans social media for under-16s with world-first law</news:title>
+            <news:publication_date>2024-11-29T18:00:00.000Z</news:publication_date>
+            <news:title>Syndicating Blog Posts to Social Media with Micro.blog</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/how-i-turned-my-blog-into-a-social-media-hub.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-6-2-million-eats-the-fruit-in-hong-kong/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T13:53:35.000Z</news:publication_date>
+            <news:title>Cryptocurrency entrepreneur who bought banana art for $6.2 million eats the fruit in Hong Kong</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-6-2-million-eats-the-fruit-in-hong-kong.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-62-million-eats-the-fruit-in-hong-kong/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T13:53:34.000Z</news:publication_date>
+            <news:title>Cryptocurrency entrepreneur who bought banana art for $6.2 million eats the fruit in Hong Kong</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-62-million-eats-the-fruit-in-hong-kong.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/safe-certification-guide/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T09:30:00.000Z</news:publication_date>
+            <news:title>SAFe certification: Launch your Scaled Agile Framework career</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/safe-certification-guide.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,87 +101,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/muddy-footprints-suggest-2-species-of-early-humans-were-neighbors-in-kenya-15-million-years-ago/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/10-steps-to-smarter-google-account-security/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T18:01:35.000Z</news:publication_date>
-            <news:title>Muddy footprints suggest 2 species of early humans were neighbors in Kenya 1.5 million years ago</news:title>
+            <news:publication_date>2024-11-28T10:45:00.000Z</news:publication_date>
+            <news:title>10 steps to smarter Google account security</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/muddy-footprints-suggest-2-species-of-early-humans-were-neighbors-in-kenya-15-million-years-ago.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/10-steps-to-smarter-google-account-security.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/maggie-haberman-donald-trump-mark-zuckerberg-mar-a-lago-meeting/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/intels-7-9b-subsidy-deal-comes-at-a-high-price-for-the-chipmaker/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T17:01:09.000Z</news:publication_date>
-            <news:title>Haberman says Zuckerberg's Mar-a-Lago visit a signal industry may be courting Trump</news:title>
+            <news:publication_date>2024-11-28T09:38:41.000Z</news:publication_date>
+            <news:title>Intel&#8217;s $7.9B subsidy deal comes at a high price for the chipmaker</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/maggie-haberman-donald-trump-mark-zuckerberg-mar-a-lago-meeting.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T11:00:14.000Z</news:publication_date>
-            <news:title>Amazon&#8217;s VP explains how to protect yourself from holiday impersonation scams</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/4-prerequisites-for-it-leaders-to-navigate-todays-era-of-disruption/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T10:00:00.000Z</news:publication_date>
-            <news:title>4 prerequisites for IT leaders to navigate today&#8217;s era of disruption</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/4-prerequisites-for-it-leaders-to-navigate-todays-era-of-disruption.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/las-empresas-que-no-se-adapten-a-la-ia-generativa-podrian-poner-en-jaque-su-negocio/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T09:43:33.000Z</news:publication_date>
-            <news:title>Las empresas que no se adapten a la IA generativa podr&#237;an poner en jaque su negocio</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/las-empresas-que-no-se-adapten-a-la-ia-generativa-podrian-poner-en-jaque-su-negocio.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/orange-acuerda-con-openai-el-acceso-a-sus-modelos-de-ia-antes-de-su-lanzamiento/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T08:52:52.000Z</news:publication_date>
-            <news:title>Orange acuerda con OpenAI el acceso a sus modelos de IA antes de su lanzamiento</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/orange-acuerda-con-openai-el-acceso-a-sus-modelos-de-ia-antes-de-su-lanzamiento.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/intels-7-9b-subsidy-deal-comes-at-a-high-price-for-the-chipmaker.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,31 +143,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/uno-platform-unveils-visual-designer-for-cross-platform-net-development/</loc>
+          <loc>https://majordigest.com/tech/2024/11/27/will-cain-podcasters-white-house-joe-rogan/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T23:06:12.000Z</news:publication_date>
-            <news:title>Uno Platform unveils visual designer for cross-platform .NET development</news:title>
+            <news:publication_date>2024-11-27T17:41:58.000Z</news:publication_date>
+            <news:title>Fox host: Podcasters like Rogan have 'earned' seats in White House briefing room</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/uno-platform-unveils-visual-designer-for-cross-platform-net-development.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/kai-trump-shows-elon-musk-awkwardly-tutoring-trump-in-rocket-science/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T19:27:11.000Z</news:publication_date>
-            <news:title>Kai Trump shows Elon Musk awkwardly tutoring Trump in rocket science</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/kai-trump-shows-elon-musk-awkwardly-tutoring-trump-in-rocket-science.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/will-cain-podcasters-white-house-joe-rogan.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -185,17 +171,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/talk-two-languages-apple-watchs-real-time-translation/</loc>
+          <loc>https://majordigest.com/tech/2024/11/27/australias-house-of-representatives-passes-bill-that-would-ban-young-children-from-social-media/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T11:00:17.000Z</news:publication_date>
-            <news:title>Talk in 2 languages with Apple Watch's real-time translation</news:title>
+            <news:publication_date>2024-11-27T11:02:30.000Z</news:publication_date>
+            <news:title>Australia's social media ban for kids is closer to becoming law</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/talk-two-languages-apple-watchs-real-time-translation.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/australias-house-of-representatives-passes-bill-that-would-ban-young-children-from-social-media.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -213,101 +199,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/australias-lower-house-passes-social-media-ban-for-under-16s/</loc>
+          <loc>https://majordigest.com/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T00:54:03.000Z</news:publication_date>
-            <news:title>Australia&#8217;s lower House passes social media ban for under-16s</news:title>
+            <news:publication_date>2024-11-26T22:35:07.000Z</news:publication_date>
+            <news:title>Federal prosecutors seek records from company that deployed AI weapons scanner on NYC subway</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/australias-lower-house-passes-social-media-ban-for-under-16s.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/26/how-kindly-ask-people-not-post-your-kids-social/</loc>
+          <loc>https://majordigest.com/tech/2024/11/26/nvidia-shows-off-a-new-genai-model-that-can-create-sound-and-music/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T21:18:07.000Z</news:publication_date>
-            <news:title>How to (kindly) ask people not to post your kids' photos on social media</news:title>
+            <news:publication_date>2024-11-26T19:37:56.000Z</news:publication_date>
+            <news:title>Nvidia shows off a new genAI model that can create sound and music</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/how-kindly-ask-people-not-post-your-kids-social.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/nvidia-shows-off-a-new-genai-model-that-can-create-sound-and-music.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/26/10-ways-ai-can-make-farmers-jobs-easier/</loc>
+          <loc>https://majordigest.com/tech/2024/11/26/tesla-excluded-from-ev-buyer-credits-in-california-proposal/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T19:00:00.000Z</news:publication_date>
-            <news:title>10 ways AI can make farmers&#8217; jobs easier</news:title>
+            <news:publication_date>2024-11-26T14:45:47.000Z</news:publication_date>
+            <news:title>California Governor Gavin Newsom Proposes EV Rebate Program, Excluding Tesla Models</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/10-ways-ai-can-make-farmers-jobs-easier.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/26/julius-is-a-great-ai-tool-for-analyzing-and-visualizing-datasets/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-26T18:00:00.000Z</news:publication_date>
-            <news:title>Julius is a great AI tool for analyzing and visualizing datasets</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/julius-is-a-great-ai-tool-for-analyzing-and-visualizing-datasets.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/26/revolutionizing-hr-and-payroll-strategies-for-a-modern-workforce/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-26T15:41:49.000Z</news:publication_date>
-            <news:title>Revolutionizing HR and payroll: Strategies for a modern workforce</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/revolutionizing-hr-and-payroll-strategies-for-a-modern-workforce.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-26T14:47:51.000Z</news:publication_date>
-            <news:title>Interpol clamps down on cybercrime and arrests over 1,000 suspects in Africa</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/26/build-generative-ai-pipelines-without-the-infrastructure-headache/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-26T09:00:00.000Z</news:publication_date>
-            <news:title>Build generative AI pipelines without the infrastructure headache</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/build-generative-ai-pipelines-without-the-infrastructure-headache.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/tesla-excluded-from-ev-buyer-credits-in-california-proposal.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -325,30 +255,30 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/25/cisa-debuts-new-cybersecurity-training-platform/</loc>
+          <loc>https://majordigest.com/tech/2024/11/25/how-use-iphones-mic-mode-crystal-clear-noise-free-calls/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-25T16:09:48.000Z</news:publication_date>
-            <news:title>CISA debuts new cybersecurity training platform</news:title>
+            <news:publication_date>2024-11-25T11:00:52.000Z</news:publication_date>
+            <news:title>How to use iPhone's mic mode for crystal-clear, noise-free calls</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/25/cisa-debuts-new-cybersecurity-training-platform.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/how-use-iphones-mic-mode-crystal-clear-noise-free-calls.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/24/roblox-parental-controls-new-settings/</loc>
+          <loc>https://majordigest.com/tech/2024/11/24/free-email-services-costing-you-more-than-you-think/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-24T15:37:09.000Z</news:publication_date>
-            <news:title>Roblox gives parents more control over kids' experience</news:title>
+            <news:publication_date>2024-11-24T11:00:17.000Z</news:publication_date>
+            <news:title>Free email services are costing you more than you think</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/24/roblox-parental-controls-new-settings.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/24/free-email-services-costing-you-more-than-you-think.webp</image:loc>
           </image:image>
         </url></urlset>
