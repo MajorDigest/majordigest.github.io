@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/11/30/artificial-intelligence-changes-across-us/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-30T00:21:28.000Z</news:publication_date>
+            <news:title>Artificial intelligence changes across the US</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/30/artificial-intelligence-changes-across-us.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/11/29/musk-kaine-vindman-treason/</loc>
           <news:news>
             <news:publication>
@@ -17,31 +31,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/29/the-tech-ecosystem-powering-latin-americas-growth/</loc>
+          <loc>https://majordigest.com/tech/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T18:00:00.000Z</news:publication_date>
-            <news:title>The Tech Ecosystem Powering Latin America&#8217;s Growth</news:title>
+            <news:publication_date>2024-11-29T19:25:47.000Z</news:publication_date>
+            <news:title>Canadian news publishers sue OpenAI over alleged copyright infringement</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/the-tech-ecosystem-powering-latin-americas-growth.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/29/krugman-hostility-immigrants-america-tech-sector/</loc>
+          <loc>https://majordigest.com/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-6-2-million-eats-the-fruit-in-hong-kong/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T13:00:48.000Z</news:publication_date>
-            <news:title>The Threat to American Business and Technology Under Trump's Second Presidency</news:title>
+            <news:publication_date>2024-11-29T13:53:35.000Z</news:publication_date>
+            <news:title>Cryptocurrency entrepreneur who bought banana art for $6.2 million eats the fruit in Hong Kong</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/krugman-hostility-immigrants-america-tech-sector.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-6-2-million-eats-the-fruit-in-hong-kong.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/siberias-gateway-hell-crater-fuels-new-fears/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T11:00:36.000Z</news:publication_date>
+            <news:title>Siberia's 'Gateway to Hell' crater fuels new fears</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/siberias-gateway-hell-crater-fuels-new-fears.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/canada-google-antitrust-lawsuit/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T03:05:28.000Z</news:publication_date>
+            <news:title>Canada sues Google claiming &#8216;near-total control&#8217; of online ads</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/canada-google-antitrust-lawsuit.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -52,7 +94,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-11-29T00:04:40.000Z</news:publication_date>
-            <news:title>Australia Passes Landmark Law Banning Children Under 16 from Social Media</news:title>
+            <news:title>Australian Parliament bans social media for under-16s with world-first law</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law.webp</image:loc>
@@ -73,73 +115,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/the-outlook-is-uncertain-for-ai-regulations-as-the-us-government-pivots-to-full-republican-control/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/muddy-footprints-suggest-2-species-of-early-humans-were-neighbors-in-kenya-15-million-years-ago/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T13:06:30.000Z</news:publication_date>
-            <news:title>The outlook is uncertain for AI regulations as the US government pivots to full Republican control</news:title>
+            <news:publication_date>2024-11-28T18:01:35.000Z</news:publication_date>
+            <news:title>Muddy footprints suggest 2 species of early humans were neighbors in Kenya 1.5 million years ago</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/the-outlook-is-uncertain-for-ai-regulations-as-the-us-government-pivots-to-full-republican-control.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/muddy-footprints-suggest-2-species-of-early-humans-were-neighbors-in-kenya-15-million-years-ago.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/la-inteligencia-artificial-trasciende-al-espacio/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/maggie-haberman-donald-trump-mark-zuckerberg-mar-a-lago-meeting/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T12:41:46.000Z</news:publication_date>
-            <news:title>La inteligencia artificial trasciende al espacio</news:title>
+            <news:publication_date>2024-11-28T17:01:09.000Z</news:publication_date>
+            <news:title>Haberman says Zuckerberg's Mar-a-Lago visit a signal industry may be courting Trump</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/la-inteligencia-artificial-trasciende-al-espacio.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/maggie-haberman-donald-trump-mark-zuckerberg-mar-a-lago-meeting.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/paso-adelante-en-el-desarrollo-de-los-modelos-virtuales-de-las-presas-de-la-confederacion-hidrografica-del-guadiana/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/one-tech-tip-home-for-the-holidays-show-relatives-you-care-with-some-tech-support/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T11:25:02.000Z</news:publication_date>
-            <news:title>Paso adelante en el desarrollo de los modelos virtuales de las presas de la Confederaci&#243;n Hidrogr&#225;fica del Guadiana</news:title>
+            <news:publication_date>2024-11-28T14:22:50.000Z</news:publication_date>
+            <news:title>One Tech Tip: Home for the holidays? Show relatives you care with some tech support</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/paso-adelante-en-el-desarrollo-de-los-modelos-virtuales-de-las-presas-de-la-confederacion-hidrografica-del-guadiana.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T11:00:14.000Z</news:publication_date>
-            <news:title>Amazon&#8217;s VP explains how to protect yourself from holiday impersonation scams</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/10-steps-to-smarter-google-account-security/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T10:45:00.000Z</news:publication_date>
-            <news:title>10 steps to smarter Google account security</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/10-steps-to-smarter-google-account-security.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/one-tech-tip-home-for-the-holidays-show-relatives-you-care-with-some-tech-support.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -171,17 +185,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/american-airlines-is-expanding-its-airport-lice-crackdown/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/how-bidens-ai-tech-could-play-role-trumps-immigration-crackdown/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T02:16:33.000Z</news:publication_date>
-            <news:title>American Airlines is expanding its airport &#8216;gate lice&#8217; crackdown</news:title>
+            <news:publication_date>2024-11-28T00:33:44.000Z</news:publication_date>
+            <news:title>How Biden&#8217;s AI tech could play a role in Trump&#8217;s immigration crackdown</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/american-airlines-is-expanding-its-airport-lice-crackdown.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/how-bidens-ai-tech-could-play-role-trumps-immigration-crackdown.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/27/swipe-right-on-data-privacy-what-tech-companies-can-learn-about-consent-from-dating-apps/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-27T18:30:00.000Z</news:publication_date>
+            <news:title>Swipe right on data privacy: What tech companies can learn about consent from dating apps</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/swipe-right-on-data-privacy-what-tech-companies-can-learn-about-consent-from-dating-apps.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -213,6 +241,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/11/27/tiktok-restricts-appearance-effects/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-27T17:00:30.000Z</news:publication_date>
+            <news:title>TikTok rolling out age restrictions on beauty filters amid mental health concerns</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/tiktok-restricts-appearance-effects.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/27/10-tips-and-services-for-new-bluesky-users/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-27T16:47:33.000Z</news:publication_date>
+            <news:title>10+ tips and services for new Bluesky users</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/10-tips-and-services-for-new-bluesky-users.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/11/27/black-friday-deal-sites/</loc>
           <news:news>
             <news:publication>
@@ -241,45 +297,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/microsoft-windows-recall-privacy/</loc>
+          <loc>https://majordigest.com/tech/2024/11/27/kotlin-for-java-developers-concurrency-with-coroutines/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T11:00:00.000Z</news:publication_date>
-            <news:title>Windows Recall: All your privacy questions answered</news:title>
+            <news:publication_date>2024-11-27T09:00:00.000Z</news:publication_date>
+            <news:title>Kotlin for Java developers: Concurrency with coroutines</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/microsoft-windows-recall-privacy.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/judge-wont-alter-google-antitrust-trial-dates-to-accommodate-trump-dojs-proposal/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T09:46:03.000Z</news:publication_date>
-            <news:title>Judge won&#8217;t alter Google antitrust trial dates to accommodate Trump DOJ&#8217;s proposal</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/judge-wont-alter-google-antitrust-trial-dates-to-accommodate-trump-dojs-proposal.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/starbucks-retailers-hit-by-ransomware-attack-blue-yonder/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T02:15:00.000Z</news:publication_date>
-            <news:title>Starbucks and other retailers hit with ongoing ransomware attack on software provider</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/starbucks-retailers-hit-by-ransomware-attack-blue-yonder.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/kotlin-for-java-developers-concurrency-with-coroutines.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -297,58 +325,72 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/26/lost-access-heres-how-reclaim-your-facebook-account/</loc>
+          <loc>https://majordigest.com/tech/2024/11/25/is-outlook-down-thousands-of-microsoft-365-users-report-outage-issues/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T15:00:41.000Z</news:publication_date>
-            <news:title>Lost access? Here&#8217;s how to reclaim your Facebook account</news:title>
+            <news:publication_date>2024-11-25T20:32:55.000Z</news:publication_date>
+            <news:title>Is Outlook down? Thousands of Microsoft 365 users report outage issues</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/lost-access-heres-how-reclaim-your-facebook-account.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/is-outlook-down-thousands-of-microsoft-365-users-report-outage-issues.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/25/php-updates-dom-api/</loc>
+          <loc>https://majordigest.com/tech/2024/11/25/north-korean-hackers-use-disguised-apps-target-macs-hidden-malware/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-25T21:25:26.000Z</news:publication_date>
-            <news:title>PHP updates DOM API</news:title>
+            <news:publication_date>2024-11-25T15:00:28.000Z</news:publication_date>
+            <news:title>North Korean hackers use disguised apps to target Macs with hidden malware</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/25/php-updates-dom-api.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/north-korean-hackers-use-disguised-apps-target-macs-hidden-malware.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/23/cheap-black-friday-deals-cost-your-privacy/</loc>
+          <loc>https://majordigest.com/tech/2024/11/25/speed-is-the-killer-app/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-23T15:00:13.000Z</news:publication_date>
-            <news:title>Cheap Black Friday deals cost to your privacy</news:title>
+            <news:publication_date>2024-11-25T09:00:00.000Z</news:publication_date>
+            <news:title>Speed is the killer app</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/23/cheap-black-friday-deals-cost-your-privacy.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/speed-is-the-killer-app.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/23/how-easily-record-phone-calls-your-android/</loc>
+          <loc>https://majordigest.com/tech/2024/11/25/3-data-engineering-trends-riding-kafka-flink-and-iceberg/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-23T11:00:07.000Z</news:publication_date>
-            <news:title>How to easily record phone calls on your Android</news:title>
+            <news:publication_date>2024-11-25T09:00:00.000Z</news:publication_date>
+            <news:title>3 data engineering trends riding Kafka, Flink, and Iceberg</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/23/how-easily-record-phone-calls-your-android.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/3-data-engineering-trends-riding-kafka-flink-and-iceberg.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/23/ai-newsletter-mr-miyagis-dramatic-return/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-23T14:00:04.000Z</news:publication_date>
+            <news:title>Fox News AI Newsletter: Mr. Miyagi's dramatic return</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/23/ai-newsletter-mr-miyagis-dramatic-return.webp</image:loc>
           </image:image>
         </url></urlset>
