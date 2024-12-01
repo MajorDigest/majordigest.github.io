@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sun, 01 Dec 2024 09:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 11:21:09 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,35 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Australia Bans Social Media for Children Under 16</title>
-          <description><![CDATA[Australia passes law restricting social media use for children under 16, with fines up to $32 million for non-compliance.]]></description>
-          <guid>https://majordigest.com/tech/2024/11/28/australia-social-media-ban-youth/</guid>
-          <link>https://majordigest.com/tech/2024/11/28/australia-social-media-ban-youth/</link>
-          <pubDate>Thu, 28 Nov 2024 18:13:50 GMT</pubDate>
+          <title>Bluesky Expands Moderation Team, Introduces Verification Measures Amid User Growth</title>
+          <description><![CDATA[Bluesky expands moderation team to combat verification and impersonation issues as the platform experiences rapid user growth.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/01/bluesky-is-stepping-up-its-bid-to-dethrone-x-by-getting-serious-about-verification-and-impersonation/</guid>
+          <link>https://majordigest.com/tech/2024/12/01/bluesky-is-stepping-up-its-bid-to-dethrone-x-by-getting-serious-about-verification-and-impersonation/</link>
+          <pubDate>Sun, 01 Dec 2024 10:30:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/28/australia-social-media-ban-youth.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/28/australia-social-media-ban-youth.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/01/bluesky-is-stepping-up-its-bid-to-dethrone-x-by-getting-serious-about-verification-and-impersonation.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/01/bluesky-is-stepping-up-its-bid-to-dethrone-x-by-getting-serious-about-verification-and-impersonation.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Revolutionizing Surgery: Robotic System Trained with AI and Imitation Learning</title>
+          <description><![CDATA[Johns Hopkins University researchers train robotic surgical system to perform complex tasks with human-like precision using artificial intelligence and imitation learning.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/30/robots-perform-like-human-surgeons-just-watching-videos/</guid>
+          <link>https://majordigest.com/tech/2024/11/30/robots-perform-like-human-surgeons-just-watching-videos/</link>
+          <pubDate>Sat, 30 Nov 2024 11:00:56 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/30/robots-perform-like-human-surgeons-just-watching-videos.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/30/robots-perform-like-human-surgeons-just-watching-videos.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Kotlin Drops Scripting-Related Technologies: What It Means for Developers</title>
+          <description><![CDATA[JetBrains announces plans to remove scripting-related technologies from Kotlin language, affecting REPL functionality, Java scripting API, and other components.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/27/kotlin-to-lose-scripting-features/</guid>
+          <link>https://majordigest.com/tech/2024/11/27/kotlin-to-lose-scripting-features/</link>
+          <pubDate>Wed, 27 Nov 2024 02:51:54 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/27/kotlin-to-lose-scripting-features.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/27/kotlin-to-lose-scripting-features.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
