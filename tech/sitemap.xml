@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/11/30/what-is-bluesky-the-up-and-coming-social-platform-seen-as-x-alternative/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-30T20:23:55.000Z</news:publication_date>
-            <news:title>What is Bluesky, the 'up-and-coming' social platform seen as X alternative</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/30/what-is-bluesky-the-up-and-coming-social-platform-seen-as-x-alternative.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/11/30/artificial-intelligence-changes-across-us/</loc>
           <news:news>
             <news:publication>
@@ -28,6 +14,48 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/30/artificial-intelligence-changes-across-us.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/30/australia-bans-social-media-children-under-16/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-30T00:00:00.000Z</news:publication_date>
+            <news:title>Australia bans social media for children under-16</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/30/australia-bans-social-media-children-under-16.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/amazon-strike-workers-5-things/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T19:11:57.000Z</news:publication_date>
+            <news:title>Amazon worker strike: 5 things to know</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/amazon-strike-workers-5-things.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T18:47:21.000Z</news:publication_date>
+            <news:title>Canadian news publishers sue OpenAI over alleged copyright infringement</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,87 +73,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law/</loc>
+          <loc>https://majordigest.com/tech/2024/11/29/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T00:04:40.000Z</news:publication_date>
-            <news:title>Australian Parliament bans social media for under-16s with world-first law</news:title>
+            <news:publication_date>2024-11-29T10:35:32.000Z</news:publication_date>
+            <news:title>Canada sues Google over alleged anticompetitive practices in online advertising</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/joshua-trees-are-in-peril-california-has-a-plan-to-save-them/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/canada-sues-google-over-alleged-anticompetitive-practices-in-online-ads/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T22:30:54.000Z</news:publication_date>
-            <news:title>Joshua trees are in peril. California has a plan to save them</news:title>
+            <news:publication_date>2024-11-28T23:54:33.000Z</news:publication_date>
+            <news:title>Canada sues Google over alleged anticompetitive practices in online ads</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/joshua-trees-are-in-peril-california-has-a-plan-to-save-them.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/canada-sues-google-over-alleged-anticompetitive-practices-in-online-ads.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/la-inteligencia-artificial-trasciende-al-espacio/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T11:00:14.000Z</news:publication_date>
-            <news:title>Amazon&#8217;s VP explains how to protect yourself from holiday impersonation scams</news:title>
+            <news:publication_date>2024-11-28T12:41:46.000Z</news:publication_date>
+            <news:title>La inteligencia artificial trasciende al espacio</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/la-inteligencia-artificial-trasciende-al-espacio.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/copilot-studio-agents-get-a-major-upgrade-via-microsoft-365-copilot/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/australian-senate-debates-social-media-ban-for-under-16s/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T09:00:00.000Z</news:publication_date>
-            <news:title>Copilot Studio Agents get a major upgrade via Microsoft 365 Copilot</news:title>
+            <news:publication_date>2024-11-28T00:30:51.000Z</news:publication_date>
+            <news:title>Australian Senate debates social media ban for under-16s</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/copilot-studio-agents-get-a-major-upgrade-via-microsoft-365-copilot.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/american-airlines-is-expanding-its-airport-lice-crackdown/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T02:16:33.000Z</news:publication_date>
-            <news:title>American Airlines is expanding its airport &#8216;gate lice&#8217; crackdown</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/american-airlines-is-expanding-its-airport-lice-crackdown.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/how-bidens-ai-tech-could-play-role-trumps-immigration-crackdown/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T00:33:44.000Z</news:publication_date>
-            <news:title>How Biden&#8217;s AI tech could play a role in Trump&#8217;s immigration crackdown</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/how-bidens-ai-tech-could-play-role-trumps-immigration-crackdown.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/australian-senate-debates-social-media-ban-for-under-16s.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,87 +143,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/kai-trump-shows-elon-musk-awkwardly-tutoring-trump-in-rocket-science/</loc>
+          <loc>https://majordigest.com/tech/2024/11/27/australias-house-of-representatives-passes-bill-that-would-ban-young-children-from-social-media/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T19:27:11.000Z</news:publication_date>
-            <news:title>Kai Trump shows Elon Musk awkwardly tutoring Trump in rocket science</news:title>
+            <news:publication_date>2024-11-27T11:02:30.000Z</news:publication_date>
+            <news:title>Australia's social media ban for kids is closer to becoming law</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/kai-trump-shows-elon-musk-awkwardly-tutoring-trump-in-rocket-science.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/australias-house-of-representatives-passes-bill-that-would-ban-young-children-from-social-media.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/will-cain-podcasters-white-house-joe-rogan/</loc>
+          <loc>https://majordigest.com/tech/2024/11/26/nvidia-shows-off-a-new-genai-model-that-can-create-sound-and-music/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T17:41:58.000Z</news:publication_date>
-            <news:title>Podcasters in the White House Briefing Room: A New Era?</news:title>
+            <news:publication_date>2024-11-26T19:37:56.000Z</news:publication_date>
+            <news:title>Nvidia shows off a new genAI model that can create sound and music</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/will-cain-podcasters-white-house-joe-rogan.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/tiktok-restricts-appearance-effects/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T17:00:30.000Z</news:publication_date>
-            <news:title>TikTok rolling out age restrictions on beauty filters amid mental health concerns</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/tiktok-restricts-appearance-effects.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/starbucks-retailers-hit-by-ransomware-attack-blue-yonder/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T02:15:00.000Z</news:publication_date>
-            <news:title>Starbucks and other retailers hit with ongoing ransomware attack on software provider</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/starbucks-retailers-hit-by-ransomware-attack-blue-yonder.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/26/majority-of-social-media-influencers-share-information-without-verifying-its-accuracy/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-26T23:12:28.000Z</news:publication_date>
-            <news:title>Majority of social media influencers share information without verifying its accuracy: UN report</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/majority-of-social-media-influencers-share-information-without-verifying-its-accuracy.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/26/ai-pcs-for-federal-the-future-of-edge-computing/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-26T19:51:01.000Z</news:publication_date>
-            <news:title>AI PCs for federal: The future of edge computing</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/ai-pcs-for-federal-the-future-of-edge-computing.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/nvidia-shows-off-a-new-genai-model-that-can-create-sound-and-music.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -241,72 +185,44 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/26/2024-global-network-outage-report-and-internet-health-check/</loc>
+          <loc>https://majordigest.com/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T18:11:51.000Z</news:publication_date>
-            <news:title>2024 global network outage report and internet health check</news:title>
+            <news:publication_date>2024-11-26T14:47:51.000Z</news:publication_date>
+            <news:title>Interpol clamps down on cybercrime and arrests over 1,000 suspects in Africa</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/2024-global-network-outage-report-and-internet-health-check.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/26/the-biggest-it-threat-that-seemingly-innocuous-web-browser/</loc>
+          <loc>https://majordigest.com/tech/2024/11/25/free-travel-planner-use-ai-your-next-trip/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T11:00:00.000Z</news:publication_date>
-            <news:title>The biggest IT threat? That seemingly innocuous web browser</news:title>
+            <news:publication_date>2024-11-25T23:02:15.000Z</news:publication_date>
+            <news:title>Free travel planner? Use AI for your next trip</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/the-biggest-it-threat-that-seemingly-innocuous-web-browser.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/free-travel-planner-use-ai-your-next-trip.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/25/is-outlook-down-thousands-of-microsoft-365-users-report-outage-issues/</loc>
+          <loc>https://majordigest.com/tech/2024/11/25/php-updates-dom-api/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-25T20:32:55.000Z</news:publication_date>
-            <news:title>Is Outlook down? Thousands of Microsoft 365 users report outage issues</news:title>
+            <news:publication_date>2024-11-25T21:25:26.000Z</news:publication_date>
+            <news:title>PHP updates DOM API</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/25/is-outlook-down-thousands-of-microsoft-365-users-report-outage-issues.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/25/cerebras-claims-record-in-molecular-dynamics-simulations-says-its-748x-faster-than-frontier-supercomputer/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-25T10:00:00.000Z</news:publication_date>
-            <news:title>Cerebras claims record in molecular dynamics simulations, says it&#8217;s 748x faster than Frontier supercomputer</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/25/cerebras-claims-record-in-molecular-dynamics-simulations-says-its-748x-faster-than-frontier-supercomputer.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/24/roblox-parental-controls-new-settings/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-24T15:37:09.000Z</news:publication_date>
-            <news:title>Roblox gives parents more control over kids' experience</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/24/roblox-parental-controls-new-settings.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/25/php-updates-dom-api.webp</image:loc>
           </image:image>
         </url></urlset>
