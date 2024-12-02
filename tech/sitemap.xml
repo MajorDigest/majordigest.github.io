@@ -3,6 +3,62 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/12/02/biden-administration-announces-new-restrictions-chinas-chipmakers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T23:52:30.000Z</news:publication_date>
+            <news:title>Biden administration announces these new restrictions on China&#8217;s chipmakers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/biden-administration-announces-new-restrictions-chinas-chipmakers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/red-hat-ansible-service-comes-to-aws-marketplace/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T18:52:39.000Z</news:publication_date>
+            <news:title>Red Hat Ansible service comes to AWS Marketplace</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/red-hat-ansible-service-comes-to-aws-marketplace.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/nvidias-closest-rival-once-again-obliterates-cloud-giants-in-ai-performance/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T18:33:00.000Z</news:publication_date>
+            <news:title>Nvidia's closest rival once again obliterates cloud giants in AI performance; Cerebras Inference is 75x faster than AWS, 32x faster than Google on Llama 3.1 405B</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/nvidias-closest-rival-once-again-obliterates-cloud-giants-in-ai-performance.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/cyber-monday-shoppers-expected-to-set-a-record-on-the-years-biggest-day-for-online-shopping/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T18:28:39.000Z</news:publication_date>
+            <news:title>Cyber Monday shoppers expected to set a record on the year's biggest day for online shopping</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/cyber-monday-shoppers-expected-to-set-a-record-on-the-years-biggest-day-for-online-shopping.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/02/how-to-apply-ai-in-complex-domains/</loc>
           <news:news>
             <news:publication>
@@ -17,17 +73,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/how-ai-is-accelerating-and-devaluing-book-publishing/</loc>
+          <loc>https://majordigest.com/tech/2024/12/02/pentagon-has-a-new-way-to-tackle-disconnect-between-financial-and-acquisition-systems/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T17:00:00.000Z</news:publication_date>
-            <news:title>How AI is accelerating&#8212;and devaluing&#8212;book publishing</news:title>
+            <news:publication_date>2024-12-02T17:22:22.000Z</news:publication_date>
+            <news:title>Pentagon has a new way to tackle disconnect between financial and acquisition systems</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/how-ai-is-accelerating-and-devaluing-book-publishing.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/pentagon-has-a-new-way-to-tackle-disconnect-between-financial-and-acquisition-systems.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -38,10 +94,52 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-12-02T16:45:54.000Z</news:publication_date>
-            <news:title>DJI Flip leak gives us our first glimpse of tiny foldable drone &#8211;and it's a mysterious flying object</news:title>
+            <news:title>New DJI Flip Drone Leak Reveals Tiny, Foldable Design and Lidar-Powered Obstacle Avoidance</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/02/dji-flip-leak-gives-us-our-first-glimpse-of-tiny-foldable-drone-and-its-a-mysterious-flying-object.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/aws-partyrock-updated-with-free-daily-usage-for-developers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T15:42:02.000Z</news:publication_date>
+            <news:title>AWS Updates PartyRock with New App Search Function and Document Processing Capabilities</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/aws-partyrock-updated-with-free-daily-usage-for-developers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/7-surprisingly-practical-ways-to-use-chatgpts-free-voice-wizard/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T13:10:00.000Z</news:publication_date>
+            <news:title>7 surprisingly practical ways to use ChatGPT&#8217;s free voice wizard</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/7-surprisingly-practical-ways-to-use-chatgpts-free-voice-wizard.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/your-friends-phone-number-compromised-heres-what-look/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T11:00:29.000Z</news:publication_date>
+            <news:title>Stay Alert: Recognizing and Preventing Phone Hacking</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/your-friends-phone-number-compromised-heres-what-look.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -59,101 +157,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/how-to-talk-to-your-board-about-tech-debt/</loc>
+          <loc>https://majordigest.com/tech/2024/12/01/donald-trump-2024-election-win-bitcoin/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T10:00:00.000Z</news:publication_date>
-            <news:title>How to talk to your board about tech debt</news:title>
+            <news:publication_date>2024-12-01T11:00:00.000Z</news:publication_date>
+            <news:title>Bitcoin flirts with $100K as crypto industry rallies for Trump</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/how-to-talk-to-your-board-about-tech-debt.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/01/donald-trump-2024-election-win-bitcoin.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/5-ways-ai-will-change-the-software-development-life-cycle/</loc>
+          <loc>https://majordigest.com/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-6-2-million-eats-the-fruit-in-hong-kong/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T09:00:00.000Z</news:publication_date>
-            <news:title>5 ways AI will change the software development life cycle</news:title>
+            <news:publication_date>2024-11-29T13:53:35.000Z</news:publication_date>
+            <news:title>Cryptocurrency entrepreneur who bought banana art for $6.2 million eats the fruit in Hong Kong</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/5-ways-ai-will-change-the-software-development-life-cycle.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/01/no-tennis-partner-no-worries-ai-robot/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-01T11:00:24.000Z</news:publication_date>
-            <news:title>No tennis partner? No worries with this AI robot</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/01/no-tennis-partner-no-worries-ai-robot.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/29/musk-kaine-vindman-treason/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T22:50:34.000Z</news:publication_date>
-            <news:title>Senate Democrat defends Vindman against Musk's 'treason' threat</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/musk-kaine-vindman-treason.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/29/uk-cabinet-louise-haigh-resigns-fraud-case/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T16:27:15.000Z</news:publication_date>
-            <news:title>UK Cabinet member resigns over past phone fraud case</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/uk-cabinet-louise-haigh-resigns-fraud-case.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T00:04:40.000Z</news:publication_date>
-            <news:title>Australian Parliament bans social media for under-16s with world-first law</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/canada-sues-google-over-alleged-anticompetitive-practices-in-online-ads/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T23:54:33.000Z</news:publication_date>
-            <news:title>Canada sues Google over alleged anticompetitive practices in online ads</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/canada-sues-google-over-alleged-anticompetitive-practices-in-online-ads.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-6-2-million-eats-the-fruit-in-hong-kong.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -171,17 +199,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/how-to-use-ref-structs-in-c-13/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/maggie-haberman-donald-trump-elon-musk-relationship-post-election/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T09:00:00.000Z</news:publication_date>
-            <news:title>How to use ref structs in C# 13</news:title>
+            <news:publication_date>2024-11-28T13:06:23.000Z</news:publication_date>
+            <news:title>Haberman suggests Trump-Musk partnership 'could last' despite criticisms</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/how-to-use-ref-structs-in-c-13.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/maggie-haberman-donald-trump-elon-musk-relationship-post-election.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/27/uno-platform-unveils-visual-designer-for-cross-platform-net-development/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-27T23:06:12.000Z</news:publication_date>
+            <news:title>Uno Platform unveils visual designer for cross-platform .NET development</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/uno-platform-unveils-visual-designer-for-cross-platform-net-development.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -199,45 +241,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/talk-two-languages-apple-watchs-real-time-translation/</loc>
+          <loc>https://majordigest.com/tech/2024/11/27/a-software-developer-gives-thanks/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T11:00:17.000Z</news:publication_date>
-            <news:title>Talk in 2 languages with Apple Watch's real-time translation</news:title>
+            <news:publication_date>2024-11-27T09:00:00.000Z</news:publication_date>
+            <news:title>A software developer gives thanks</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/talk-two-languages-apple-watchs-real-time-translation.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/a-software-developer-gives-thanks.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/judge-wont-alter-google-antitrust-trial-dates-to-accommodate-trump-dojs-proposal/</loc>
+          <loc>https://majordigest.com/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T09:46:03.000Z</news:publication_date>
-            <news:title>Judge won&#8217;t alter Google antitrust trial dates to accommodate Trump DOJ&#8217;s proposal</news:title>
+            <news:publication_date>2024-11-26T22:35:07.000Z</news:publication_date>
+            <news:title>Federal prosecutors seek records from company that deployed AI weapons scanner on NYC subway</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/judge-wont-alter-google-antitrust-trial-dates-to-accommodate-trump-dojs-proposal.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/26/shining-a-light-on-shadow-ai-three-ways-to-keep-your-enterprise-safe/</loc>
+          <loc>https://majordigest.com/tech/2024/11/26/explicit-deepfake-images-50-teens-pennsylvania/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T21:23:31.000Z</news:publication_date>
-            <news:title>Shining a light on shadow AI: Three ways to keep your enterprise safe</news:title>
+            <news:publication_date>2024-11-26T18:37:38.000Z</news:publication_date>
+            <news:title>Explicit &#8216;deepfake' images of nearly 50 teens rocks Pennsylvania school</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/shining-a-light-on-shadow-ai-three-ways-to-keep-your-enterprise-safe.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/explicit-deepfake-images-50-teens-pennsylvania.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-26T14:47:51.000Z</news:publication_date>
+            <news:title>Interpol clamps down on cybercrime and arrests over 1,000 suspects in Africa</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/26/automaker-spying-on-drivers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-26T01:51:41.000Z</news:publication_date>
+            <news:title>Automaker spying on drivers, reporting data to insurance companies</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/automaker-spying-on-drivers.webp</image:loc>
           </image:image>
         </url>
         <url>
