@@ -3,16 +3,16 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/01/no-tennis-partner-no-worries-ai-robot/</loc>
+          <loc>https://majordigest.com/tech/2024/11/27/kotlin-for-java-developers-concurrency-with-coroutines/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-01T11:00:24.000Z</news:publication_date>
-            <news:title>Tennis Revolution: Introducing PongBot, the AI-Powered Tennis Robot</news:title>
+            <news:publication_date>2024-11-27T09:00:00.000Z</news:publication_date>
+            <news:title>Kotlin Concurrency Model Tutorial: Mastering Coroutines, Channels, and Flows</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/01/no-tennis-partner-no-worries-ai-robot.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/kotlin-for-java-developers-concurrency-with-coroutines.webp</image:loc>
           </image:image>
         </url></urlset>

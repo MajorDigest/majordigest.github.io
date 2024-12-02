@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Mon, 02 Dec 2024 04:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 05:12:26 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,13 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Tennis Revolution: Introducing PongBot, the AI-Powered Tennis Robot</title>
-          <description><![CDATA[PongBot is a cutting-edge tennis robot that utilizes artificial intelligence and smart sensors to provide personalized training experiences for players of all skill levels.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/01/no-tennis-partner-no-worries-ai-robot/</guid>
-          <link>https://majordigest.com/tech/2024/12/01/no-tennis-partner-no-worries-ai-robot/</link>
-          <pubDate>Sun, 01 Dec 2024 11:00:24 GMT</pubDate>
+          <title>Kotlin Concurrency Model Tutorial: Mastering Coroutines, Channels, and Flows</title>
+          <description><![CDATA[Learn how to use Kotlin's concurrency model with coroutines, channels, and flows for cooperative cancellation, data sharing, and reactive programming.]]></description>
+          <guid>https://majordigest.com/tech/2024/11/27/kotlin-for-java-developers-concurrency-with-coroutines/</guid>
+          <link>https://majordigest.com/tech/2024/11/27/kotlin-for-java-developers-concurrency-with-coroutines/</link>
+          <pubDate>Wed, 27 Nov 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/01/no-tennis-partner-no-worries-ai-robot.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/01/no-tennis-partner-no-worries-ai-robot.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/11/27/kotlin-for-java-developers-concurrency-with-coroutines.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/11/27/kotlin-for-java-developers-concurrency-with-coroutines.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
