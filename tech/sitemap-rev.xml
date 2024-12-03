@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/data-centers-go-nuclear-for-power-hungry-ai-workloads/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/how-amazon-influencer-sydney-nicole-giffords-lawsuit-could-change-the-industry/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T10:00:00.000Z</news:publication_date>
-            <news:title>Small Modular Reactors: A Viable Solution for Data Center Energy Needs?</news:title>
+            <news:publication_date>2024-12-03T03:35:23.000Z</news:publication_date>
+            <news:title>TikTok Influencer Sues Peer for Copyright Infringement Over Aesthetic</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/data-centers-go-nuclear-for-power-hungry-ai-workloads.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/how-amazon-influencer-sydney-nicole-giffords-lawsuit-could-change-the-industry.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/refactoring-ai-code-the-good-the-bad-and-the-weird/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T09:00:00.000Z</news:publication_date>
+            <news:title>Generative AI in Software Development: A Balanced Approach</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/refactoring-ai-code-the-good-the-bad-and-the-weird.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/30/why-5g-is-both-flexible-and-secure/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-30T22:49:30.000Z</news:publication_date>
+            <news:title>Unlocking the Power of 5G: A New Era in Wireless Technology</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/30/why-5g-is-both-flexible-and-secure.webp</image:loc>
           </image:image>
         </url></urlset>
