@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/12/03/noam-shazeer-back-at-google-agi/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T13:00:00.000Z</news:publication_date>
+            <news:title>Noam Shazeer is back at Google, and this time he&#8217;s aiming for AGI</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/noam-shazeer-back-at-google-agi.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/03/il-data-act-e-la-data-driven-company-quali-compiti-per-il-cio/</loc>
           <news:news>
             <news:publication>
@@ -14,6 +28,48 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/03/il-data-act-e-la-data-driven-company-quali-compiti-per-il-cio.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/rust-1-83-expands-const-capabilities/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T01:46:04.000Z</news:publication_date>
+            <news:title>Rust 1.83 Update: Expanded Capabilities for Code Running in Const Contexts and New Features in Rust 2024 Edition</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/rust-1-83-expands-const-capabilities.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/ocasio-cortez-hits-one-million-followers-bluesky/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T01:41:58.000Z</news:publication_date>
+            <news:title>Ocasio-Cortez first person to hit a million followers on Bluesky</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/ocasio-cortez-hits-one-million-followers-bluesky.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/sify-technologies-indias-end-to-end-digital-transformation-partner/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T01:21:59.000Z</news:publication_date>
+            <news:title>Sify Technologies: India&#8217;s end-to-end digital transformation partner</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/sify-technologies-indias-end-to-end-digital-transformation-partner.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -31,87 +87,59 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/12/02/delaware-judge-reaffirms-ruling-that-invalidated-massive-tesla-pay-package-for-elon-musk/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T22:39:48.000Z</news:publication_date>
+            <news:title>Delaware judge reaffirms ruling that invalidated massive Tesla pay package for Elon Musk</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/delaware-judge-reaffirms-ruling-that-invalidated-massive-tesla-pay-package-for-elon-musk.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/linux-fundamentals-viewing-files-commands-processes-and-systems/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T20:42:02.000Z</news:publication_date>
+            <news:title>Linux fundamentals: Viewing files, commands, processes and systems</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/linux-fundamentals-viewing-files-commands-processes-and-systems.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/02/ftc-opens-microsoft-antitrust-investigation-that-trump-administration-must-carry-on-or-drop/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T21:37:24.000Z</news:publication_date>
-            <news:title>FTC Launches Investigation into Microsoft's Business Practices</news:title>
+            <news:publication_date>2024-12-02T20:34:57.000Z</news:publication_date>
+            <news:title>FTC opens Microsoft antitrust investigation that Trump administration must carry on or drop</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/02/ftc-opens-microsoft-antitrust-investigation-that-trump-administration-must-carry-on-or-drop.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/nvidias-closest-rival-once-again-obliterates-cloud-giants-in-ai-performance/</loc>
+          <loc>https://majordigest.com/tech/2024/12/01/donald-trump-2024-election-win-bitcoin/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T18:33:00.000Z</news:publication_date>
-            <news:title>Nvidia's closest rival once again obliterates cloud giants in AI performance; Cerebras Inference is 75x faster than AWS, 32x faster than Google on Llama 3.1 405B</news:title>
+            <news:publication_date>2024-12-01T11:00:00.000Z</news:publication_date>
+            <news:title>Bitcoin flirts with $100K as crypto industry rallies for Trump</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/nvidias-closest-rival-once-again-obliterates-cloud-giants-in-ai-performance.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/02/intel-ceo-gelsinger-retires-zinsner-and-johnston-holthaus-named-interim-co-ceos/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-02T15:53:37.000Z</news:publication_date>
-            <news:title>Intel CEO Pat Gelsinger retires; 2 named as interim co-CEOs</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/intel-ceo-gelsinger-retires-zinsner-and-johnston-holthaus-named-interim-co-ceos.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/02/las-15-tecnologias-mas-infravaloradas-en-el-ecosistema-de-ti/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-02T14:33:19.000Z</news:publication_date>
-            <news:title>Las 15 tecnolog&#237;as m&#225;s infravaloradas en el ecosistema de TI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/las-15-tecnologias-mas-infravaloradas-en-el-ecosistema-de-ti.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/02/aws-brings-rag-evaluation-and-llm-as-a-judge-feature-to-amazon-bedrock/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-02T12:57:15.000Z</news:publication_date>
-            <news:title>AWS brings RAG evaluation and LLM-as-a-judge feature to Amazon Bedrock</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/aws-brings-rag-evaluation-and-llm-as-a-judge-feature-to-amazon-bedrock.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/02/cyber-monday-shoppers-expected-to-set-a-record-on-the-years-biggest-day-for-online-shopping/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-02T10:27:19.000Z</news:publication_date>
-            <news:title>Cyber Monday shoppers expected to set a record on the year's biggest day for online shopping</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/cyber-monday-shoppers-expected-to-set-a-record-on-the-years-biggest-day-for-online-shopping.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/01/donald-trump-2024-election-win-bitcoin.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -126,76 +154,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/30/why-5g-is-both-flexible-and-secure.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/30/what-is-bluesky-the-up-and-coming-social-platform-seen-as-x-alternative/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-30T20:23:55.000Z</news:publication_date>
-            <news:title>What is Bluesky, the 'up-and-coming' social platform seen as X alternative</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/30/what-is-bluesky-the-up-and-coming-social-platform-seen-as-x-alternative.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/30/apple-television-fix-tv-app-intelligence-ai-jobs/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-30T18:00:00.000Z</news:publication_date>
-            <news:title>Before Apple releases a television, it needs to fix its TV app, and more</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/30/apple-television-fix-tv-app-intelligence-ai-jobs.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/30/helpful-hack-siris-new-tricks-photo-magic-writing-help-ios-18-1s-new-ai-features/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-30T15:00:02.000Z</news:publication_date>
-            <news:title>Helpful Hack: Siri's new tricks, photo magic and writing help with iOS 18.1's new AI features</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/30/helpful-hack-siris-new-tricks-photo-magic-writing-help-ios-18-1s-new-ai-features.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/30/robots-perform-like-human-surgeons-just-watching-videos/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-30T11:00:56.000Z</news:publication_date>
-            <news:title>Robots perform like human surgeons by just watching videos</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/30/robots-perform-like-human-surgeons-just-watching-videos.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/29/musk-kaine-vindman-treason/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T22:50:34.000Z</news:publication_date>
-            <news:title>Senate Democrat defends Vindman against Musk's 'treason' threat</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/musk-kaine-vindman-treason.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,31 +185,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/29/amazon-strike-workers-5-things/</loc>
+          <loc>https://majordigest.com/tech/2024/11/29/two-years-of-chatgpt-the-conversation-that-never-ends/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T19:11:57.000Z</news:publication_date>
-            <news:title>Amazon worker strike: 5 things to know</news:title>
+            <news:publication_date>2024-11-29T18:33:59.000Z</news:publication_date>
+            <news:title>Two years of ChatGPT: the conversation that never ends</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/amazon-strike-workers-5-things.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/29/the-tech-ecosystem-powering-latin-americas-growth/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T18:00:00.000Z</news:publication_date>
-            <news:title>The Tech Ecosystem Powering Latin America&#8217;s Growth</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/the-tech-ecosystem-powering-latin-americas-growth.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/two-years-of-chatgpt-the-conversation-that-never-ends.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -269,45 +213,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/29/krugman-hostility-immigrants-america-tech-sector/</loc>
+          <loc>https://majordigest.com/tech/2024/11/29/siberias-gateway-hell-crater-fuels-new-fears/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T13:00:48.000Z</news:publication_date>
-            <news:title>Krugman: Hostility to immigrants will hurt America&#8217;s tech sector</news:title>
+            <news:publication_date>2024-11-29T11:00:36.000Z</news:publication_date>
+            <news:title>Siberia's 'Gateway to Hell' crater fuels new fears</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/krugman-hostility-immigrants-america-tech-sector.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/siberias-gateway-hell-crater-fuels-new-fears.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/29/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising/</loc>
+          <loc>https://majordigest.com/tech/2024/11/29/python-3-14-is-a-rational-constant/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T10:35:32.000Z</news:publication_date>
-            <news:title>Canada sues Google over alleged anticompetitive practices in online advertising</news:title>
+            <news:publication_date>2024-11-29T09:00:00.000Z</news:publication_date>
+            <news:title>Python 3.14 is a rational constant</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/29/canada-google-antitrust-lawsuit/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T03:05:28.000Z</news:publication_date>
-            <news:title>Canada sues Google claiming &#8216;near-total control&#8217; of online ads</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/canada-google-antitrust-lawsuit.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/python-3-14-is-a-rational-constant.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -353,30 +283,114 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/equinix-to-cut-3-of-staff-amidst-the-greatest-demand-for-data-center-infrastructure-ever/</loc>
+          <loc>https://majordigest.com/tech/2024/11/28/american-airlines-is-expanding-its-airport-lice-crackdown/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T02:04:10.000Z</news:publication_date>
-            <news:title>Equinix to cut 3% of staff amidst the greatest demand for data center infrastructure ever</news:title>
+            <news:publication_date>2024-11-28T02:16:33.000Z</news:publication_date>
+            <news:title>American Airlines is expanding its airport &#8216;gate lice&#8217; crackdown</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/equinix-to-cut-3-of-staff-amidst-the-greatest-demand-for-data-center-infrastructure-ever.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/american-airlines-is-expanding-its-airport-lice-crackdown.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/26/pentagon-drafts-large-scale-government-ai-contract/</loc>
+          <loc>https://majordigest.com/tech/2024/11/27/uno-platform-unveils-visual-designer-for-cross-platform-net-development/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-26T20:43:02.000Z</news:publication_date>
-            <news:title>Pentagon drafts large-scale government AI contract</news:title>
+            <news:publication_date>2024-11-27T23:06:12.000Z</news:publication_date>
+            <news:title>Uno Platform unveils visual designer for cross-platform .NET development</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/26/pentagon-drafts-large-scale-government-ai-contract.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/uno-platform-unveils-visual-designer-for-cross-platform-net-development.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/27/judge-wont-alter-google-antitrust-trial-dates-to-accommodate-trump-dojs-proposal/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-27T09:46:03.000Z</news:publication_date>
+            <news:title>Judge won&#8217;t alter Google antitrust trial dates to accommodate Trump DOJ&#8217;s proposal</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/judge-wont-alter-google-antitrust-trial-dates-to-accommodate-trump-dojs-proposal.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-27T09:00:00.000Z</news:publication_date>
+            <news:title>Python to C: What&#8217;s new in Cython 3.1</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/python-to-c-whats-new-in-cython-3-1.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/27/windows-11-a-guide-to-the-updates/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-27T08:27:00.000Z</news:publication_date>
+            <news:title>Windows 11: A guide to the updates</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/windows-11-a-guide-to-the-updates.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-26T22:35:07.000Z</news:publication_date>
+            <news:title>Federal prosecutors seek records from company that deployed AI weapons scanner on NYC subway</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/federal-prosecutors-seek-records-from-company-that-deployed-ai-weapons-scanner-on-nyc-subway.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/26/linux-command-line-for-beginners-12-essential-commands/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-26T18:31:21.000Z</news:publication_date>
+            <news:title>Linux command line for beginners: 25 essential commands</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/linux-command-line-for-beginners-12-essential-commands.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-26T14:47:51.000Z</news:publication_date>
+            <news:title>Interpol clamps down on cybercrime and arrests over 1,000 suspects in Africa</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/26/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa.webp</image:loc>
           </image:image>
         </url></urlset>
