@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/aws-database-migration-service-gets-gen-ai-powered-schema-conversion/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/enter-the-next-phase-of-industry-4-0-with-edge-ai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T10:05:26.000Z</news:publication_date>
-            <news:title>AWS Ups Database Migration Service with AI-Powered Schema Conversion</news:title>
+            <news:publication_date>2024-12-03T13:38:24.000Z</news:publication_date>
+            <news:title>Adapting to Change: The Importance of Modernising Applications in Today's Business World</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/aws-database-migration-service-gets-gen-ai-powered-schema-conversion.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/enter-the-next-phase-of-industry-4-0-with-edge-ai.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/how-ai-is-accelerating-and-devaluing-book-publishing/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T17:00:00.000Z</news:publication_date>
+            <news:title>The Rise of AI-Powered Publishing: A Threat or Opportunity for Traditional Book Publishers?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/how-ai-is-accelerating-and-devaluing-book-publishing.webp</image:loc>
           </image:image>
         </url></urlset>
