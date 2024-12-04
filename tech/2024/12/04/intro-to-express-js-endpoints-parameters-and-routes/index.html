@@ -4,23 +4,17 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Intro to Express.js: Endpoints, parameters, and routes - Major Digest</title>
-  <meta name="description" content="Express.js is the most-used HTTP server and middleware platform for Node.js. Let’s take a hands-on look at what it brings to the table.
-Request handling with Express.js
-Handling requests over the Internet is one of the most frequent and common tasks in software development.">
+  <title>Mastering Express.js: A Guide to Building Web Applications - Major Digest</title>
+  <meta name="description" content="Learn how to build web applications using Express.js, a popular JavaScript framework for handling HTTP requests and responses.">
   <link rel="canonical" href="https://majordigest.com/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes/">
 
-  <meta itemprop="name" content="Intro to Express.js: Endpoints, parameters, and routes - Major Digest">
-  <meta itemprop="description" content="Express.js is the most-used HTTP server and middleware platform for Node.js. Let’s take a hands-on look at what it brings to the table.
-Request handling with Express.js
-Handling requests over the Internet is one of the most frequent and common tasks in software development.">
+  <meta itemprop="name" content="Mastering Express.js: A Guide to Building Web Applications - Major Digest">
+  <meta itemprop="description" content="Learn how to build web applications using Express.js, a popular JavaScript framework for handling HTTP requests and responses.">
   <link itemprop="url" href="https://majordigest.com/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes/">
   <meta itemprop="image" content="https://majordigest.com/static11/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes.webp">
 
-  <meta property="og:title" content="Intro to Express.js: Endpoints, parameters, and routes - Major Digest">
-  <meta property="og:description" content="Express.js is the most-used HTTP server and middleware platform for Node.js. Let’s take a hands-on look at what it brings to the table.
-Request handling with Express.js
-Handling requests over the Internet is one of the most frequent and common tasks in software development.">
+  <meta property="og:title" content="Mastering Express.js: A Guide to Building Web Applications - Major Digest">
+  <meta property="og:description" content="Learn how to build web applications using Express.js, a popular JavaScript framework for handling HTTP requests and responses.">
   <meta property="og:url" content="https://majordigest.com/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes/">
   <meta property="og:image" content="https://majordigest.com/static11/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes.webp">
   <meta property="og:type" content="website">
@@ -29,13 +23,11 @@ Handling requests over the Internet is one of the most frequent and common tasks
   <meta property="fb:pages" content="113570554924596">
   <!-- <meta property="fb:app_id" content="490025408049997"> -->
 
-  <meta name="twitter:title" content="Intro to Express.js: Endpoints, parameters, and routes - Major Digest">
-  <meta name="twitter:description" content="Express.js is the most-used HTTP server and middleware platform for Node.js. Let’s take a hands-on look at what it brings to the table.
-Request handling with Express.js
-Handling requests over the Internet is one of the most frequent and common tasks in software development.">
+  <meta name="twitter:title" content="Mastering Express.js: A Guide to Building Web Applications - Major Digest">
+  <meta name="twitter:description" content="Learn how to build web applications using Express.js, a popular JavaScript framework for handling HTTP requests and responses.">
   <meta name="twitter:url" content="https://majordigest.com/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes/">
   <meta name="twitter:image" content="https://majordigest.com/static11/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes.webp">
-  <meta name="twitter:image:alt" content="Intro to Express.js: Endpoints, parameters, and routes - Major Digest">
+  <meta name="twitter:image:alt" content="Mastering Express.js: A Guide to Building Web Applications - Major Digest">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@major_digest">
   <meta name="twitter:creator" content="@vpodk">
@@ -67,12 +59,12 @@ Handling requests over the Internet is one of the most frequent and common tasks
   <a href="#main" class="skip-nav">Skip to Main Content</a>
   <header>
     <span>
-      <time datetime="2024-12-04T10:00:20.510Z" itemprop="datePublished">Wednesday, December 4, 2024</time> &nbsp;
+      <time datetime="2024-12-04T11:00:14.666Z" itemprop="datePublished">Wednesday, December 4, 2024</time> &nbsp;
     </span>
     <h1>
       <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
           height="50"></a>
-      <span>Intro to Express.js: Endpoints, parameters, and routes - Major Digest</span>
+      <span>Mastering Express.js: A Guide to Building Web Applications - Major Digest</span>
     </h1>
   </header>
   <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
@@ -94,378 +86,85 @@ Handling requests over the Internet is one of the most frequent and common tasks
     "@type": "ListItem", "position": 2, "name": "tech",
     "item": "https://majordigest.com/tech/"
   }, {
-    "@type": "ListItem", "position": 3, "name": "Intro to Express.js: Endpoints, parameters, and routes - Major Digest"
+    "@type": "ListItem", "position": 3, "name": "Mastering Express.js: A Guide to Building Web Applications - Major Digest"
   }]
 }
 </script>
 <div itemscope itemtype="https://schema.org/NewsArticle" class="article">
   <meta itemprop="dateModified" content="Wed, 04 Dec 2024 09:00:00 GMT">
   <meta itemprop="url" content="/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes/">
-  <h2 itemprop="headline">Intro to Express.js: Endpoints, parameters, and routes</h2>
+  <h2 itemprop="headline">Mastering Express.js: A Guide to Building Web Applications</h2>
   <div itemprop="articleBody">
-    <img src="/static11/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes.webp" alt="Intro to Express.js: Endpoints, parameters, and routes" align="left" itemprop="image" width="400" height="225">
-    <div id="remove_no_follow">
-		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
-					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
-						<div class="article-column__content">
-<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
-
-
-
-<p>Express.js is the most-used HTTP server and middleware platform for Node.js. Let’s take a hands-on look at what it brings to the table.</p>
-
-
-
-<h3 class="wp-block-heading" id="request-handling-with-express-js">Request handling with Express.js</h3>
-
-
-
-<p>Handling requests over the Internet is one of the most frequent and common tasks in software development. An HTTP server like Express.js lets you define where requests come in, how they are parsed, and how a response is formulated. Its enormous and lasting popularity is a testament to how effectively Express.js handles these tasks. </p>
-
-
-
-<p>When you start up an HTTP server on a machine (say, a virtual machine in the cloud), the first thing it needs to know is what port it will “listen” on. Ports are a part of the Transmission Control Protocol (TCP) that runs beneath HTTP. Ports allow many different services to run on the same machine, each one binding to its own unique number.</p>
-
-
-
-<p>As an example, to listen on port 3000 using Express, we would do the following:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-const express = require('express');
-const app = express();
-
-app.listen(3000, () => {
-  console.log(`Server listening on port ${port}`);
-});
-</code>
-</pre>
-
-
-
-
-<p>By itself, this call doesn’t do much. It requires the Express module, which it uses to create an <code>app</code> object. It then uses the <code>app.listen()</code> function to listen on port 3000 and log a message when done.</p>
-
-
-
-<p>We also need an endpoint, which is a specific place where requests are handled. For that, we need to add a handler, like so:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-const express = require('express');
-const app = express();
-
-app.get('/', (req, res) => {
-  res.send('Hello, InfoWorld!');
-});
-
-app.listen(3000, () => {
-  console.log(`Server listening on port 3000`);
-});
-</code>
-</pre>
-
-
-
-
-<p>The <code>app.get()</code> function corresponds to the <code>HTTP GET</code> method. Whenever a <code>GET</code> request arrives at the defined path—in this case, the root path at <code>/</code>—the defined callback function is executed.</p>
-
-
-
-<p>Within the callback function, we receive two objects, <code>req</code> and <code>res</code>, representing the application’s request and response. (Using these names for the arguments is conventional but not required.) These give us everything we need to understand what the request contains and formulate a response to send back.</p>
-
-
-
-<p>In this case, we use <code>res.send()</code> to fire off a simple string response.</p>
-
-
-
-<p>To run this simple server, we’ll need Node and NPM installed. (If you don’t already have these packages, you can install them using the NVM tool.) Once Node is installed, we can create a new file called <code>server.js</code>, put the above file listing in it, install Express.js, and run it like so:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-$ npm add express
-added 65 packages, and audited 66 packages in 2s
-
-13 packages are looking for funding
-  run `npm fund` for details
-
-found 0 vulnerabilities
-$ node server.js 
-Server listening on port 3000
-</code>
-</pre>
-
-
-
-
-<p>Now, if you visit <code>localhost:3000</code> in your browser, you’ll see a greeting.</p>
-
-
-
-<h3 class="wp-block-heading" id="express-as-middleware">Express as middleware</h3>
-
-
-
-<p>Although endpoints give us everything we need to field requests, there are also many occasions when we need to run logic on them. We can do this in a blanket fashion, running the same logic on all the requests, or only on a portion of them. A perennial example is security, which requires filtering many requests.</p>
-
-
-
-<p>If we wanted to log all the requests coming into our server, we’d do this:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-const express = require('express');
-const app = express();
-
-function logger(req, res, next) {
-  console.error(`Incoming request: ${req.method} ${req.url}`);
-  next();
-}
-
-app.use(logger);
-
-app.get('/', (req, res) => {
-  res.send('Hello, InfoWorld!');
-});
-
-
-app.listen(3000, () => {
-  console.log(`Server listening on port 3000`);
-});
-</code>
-</pre>
-
-
-
-
-<p>This sample is the same as before, except we’ve added a new function called <code>logger</code> and passed it to the server engine with <code>app.use()</code>. Just like an endpoint, the middleware function receives a request and response object, but it also accepts a third parameter we’ve named <code>next</code>. Calling the <code>next</code> function tells the server to continue on with the middleware chain, and then on to any endpoints for the request.</p>
-
-
-
-<h3 class="wp-block-heading" id="express-endpoints-with-parameters">Express endpoints with parameters</h3>
-
-
-
-<p>Something else every server needs to do is handle parameters in requests. There are a couple kinds of parameters. One is a <em>path parameter</em>, seen here in a simple echo endpoint:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-app.get('/echo/:msg', (req, res) => {
-    const message = req.params.msg;
-    res.send(`Echoing ${message}`);
-});
-</code>
-</pre>
-
-
-
-
-<p>If you visit this route at <code>localhost:3000/echo/test123</code>, you’ll get your message echoed back to you. The path parameter called <code>:msg</code> is identified with the colon variable and then recovered from the <code>req.params.msg</code> field.</p>
-
-
-
-<p>Another kind of parameter is a query (also known as search) parameter, which is defined in the path after a question mark (?) character. We handle queries like so:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-app.get('/search', (req, res) => {
-  const query = req.query.q;
-  console.log("Searching for: " + query);
-})
-</code>
-</pre>
-
-
-
-
-<p>This URL <code>localhost:3000/search?q=search term</code> will cause the endpoint to be activated. The string “search term” will then be logged to the console.</p>
-
-
-
-<p>Query parameters are broken up into key/value pairs. In our example, we use the <code>q</code> key, which is short for “query.”</p>
-
-
-
-<h3 class="wp-block-heading" id="serving-static-files-and-forms-with-express">Serving static files and forms with Express</h3>
-
-
-
-<p>Express also makes it easy to extract the body from a request. This is sent by a form submission in the browser. To set up a form, we can use Express’s support for serving static files. Just add the following line to <code>server.js</code>, just after the imports:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-app.use(express.static('public'));
-</code>
-</pre>
-
-
-
-
-<p>Now you can create a <code>/public</code> directory and add a <code>form.html</code> file:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-
-
-<head>
-    <title>Simple Form</title>
-</head>
-<body>
-    <h3>Simple Form</h3>
-    <form action="/submit" method="post">
-        <label for="name">Name:</label>
-        <br><br>
-        <label for="email">Email:</label>
-        <br><br>
-        
-    </form>
-</body>
-
-</code>
-</pre>
-
-
-
-
-<p>We can also add a new endpoint in <code>server.js</code> to handle the form submits:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-app.post('/submit', (req, res) => {
-    const formData = req.body;
-    console.log(formData); 
-    res.send('Form submitted successfully!');
-})
-</code>
-</pre>
-
-
-
-
-<p>Now, if a request comes into <code>/submit</code>, it’ll be handled by this function, which grabs the form using <code>req.body()</code> and logs it to the console. We can use the form with the submit button or mock it with a CURL request, like so:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-curl -X POST -d "name=John+Doe&email=johndoe@example.com" http://localhost:3000/submit
-</code>
-</pre>
-
-
-
-
-<p>Then the server will log it:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-{
-  name: 'John Doe',
-  email: 'johndoe@example.com'
-}
-</code>
-</pre>
-
-
-
-
-<p>This gives you everything to handle form submits, or even AJAX requests that look like them.</p>
-
-
-
-<h3 class="wp-block-heading" id="express-modules">Express modules</h3>
-
-
-
-<p>Using endpoints and middleware, you can cover a wide range of the needs that arise in building web applications. It doesn’t take long before even a modest application can grow unwieldy and require some kind of organization. One step you can take is to use JavaScript modules to extract your routes and middleware into their own related files.</p>
-
-
-
-<p>In Express, we use the <code>Router</code> object to define endpoints in secondary files, then we import those into the main file. For example, if we wanted to move our echo endpoints out of  <code>server.js</code> and into their own module, we could define them in their own <code>echo.js</code> file:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-// echo.js
-const express = require('express');
-
-const router = express.Router();
-
-router.get('/echo/:msg', (req, res) => {
-    const message = req.params.msg;
-    res.send(`Module is echoing ${message}`);
-});
-
-module.exports = router;
-</code>
-</pre>
-
-
-
-
-<p>This file exposes the same echo endpoint as before, but uses the <code>express.Router()</code> object to do it in a reusable fashion. We define the endpoint on the router object, then return that as the export from the JavaScript module with <code>module.exports = router;</code>.</p>
-
-
-
-<p>When another file imports that, it can add it to its own routes, like back in our server file:</p>
-
-
-
-<pre class="prettyprint">
-<code>
-// server.js
-// ... The rest is the same
-app.use(logger);
-
-const echoRouter = require('./echo');
-app.use(echoRouter);
-//... The rest is the same
-</code>
-</pre>
-
-
-
-
-<p>Here, we import and make use of the echo router with <code>app.use()</code>. In this way, our externally defined routes are used like a custom middleware plugin. This makes for a highly extensible platform, and it’s nice that the same concept and syntax is used for our own routes and extensions as well as third-party plugins.</p>
-
-
-
-<h3 class="wp-block-heading" id="conclusion">Conclusion</h3>
-
-
-
-<p>Express.js is a popular option for developers in need of an HTTP server, and it’s easy to see why. It’s incredibly handy. Express’s low overhead and flexibility shine on smaller jobs and for quick tasks. As an application grows larger, Express expects the developer to do more of the work of keeping all the parts organized. Other, more structured frameworks, like Next.js, do more of the default organizing for you.</p>
-
-
-
-<p>Express.js also runs on Node, which poses a challenge for true concurrency, but you need significant traffic to truly feel its performance limitations. All in all, Express.js is a highly capable and mature platform that can handle almost any requirements you throw at it. </p>
-
-
-
-<p>We’ll continue exploring Express.js in my next article, with a look at more advanced features like view templating.</p>
-</div></div></div></div>
+    <img src="/static11/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes.webp" alt="Mastering Express.js: A Guide to Building Web Applications" align="left" itemprop="image" width="400" height="225">
+    <h3>Introduction to Express.js</h3>
+<p>The world of web development has given birth to numerous frameworks that simplify the process of building web applications. Among these, Express.js stands out as a popular choice among developers in need of an HTTP server. One of its greatest strengths is its flexibility and low overhead, making it an ideal platform for creating scalable and efficient web applications.</p>
+
+<h3>Endpoints and Middleware</h3>
+<p>In the realm of Express.js, endpoints (routes) play a crucial role in handling requests and responses. These endpoints can be defined using middleware functions, which are essential components that interact with incoming HTTP requests. By leveraging middleware functions, developers can create simple yet effective endpoints that return static text or JSON data.</p>
+
+<ul>
+  <li>For example, consider an endpoint that returns a simple "Hello World" message:</li>
+  <li>app.get('/', (req, res) => {</li>
+  <li>&nbsp;&nbsp;res.send('Hello World!');</li>
+  <li>});</li>
+</ul>
+
+<p>This code snippet demonstrates how to define a basic endpoint using Express.js. The app.get() method is used to specify the route for handling GET requests, and the callback function sends a response back to the client.</p>
+
+<h3>Using Router Objects</h3>
+<p>Rather than defining multiple endpoints in a single file, developers can utilize Router objects in Express.js to create related routes in separate files. This approach makes it easier to organize code and reuse functionality across multiple endpoints, leading to more maintainable and scalable projects.</p>
+
+<ul>
+  <li>For instance, consider a scenario where you need to handle both GET and POST requests for the same route:</li>
+  <li>const router = express.Router();</li>
+  <li>router.get('/', (req, res) => {</li>
+  <li>&nbsp;&nbsp;res.send('Welcome page');</li>
+  <li>});</li>
+  <li>router.post('/submit', (req, res) => {</li>
+  <li>&nbsp;&nbsp;console.log(req.body);</li>
+  <li>});</li>
+  <li>app.use('/', router);</li>
+</ul>
+
+<p>This code snippet showcases how to define a Router object and attach multiple routes to it. The router.get() method is used to specify the route for handling GET requests, while the router.post() method handles POST requests.</p>
+
+<h3>Handling Form Submits</h3>
+<p>When dealing with form submits in Express.js, developers need to extract form data from request bodies. This involves utilizing middleware functions that parse and store form data for later use. By doing so, you can effectively handle form submissions and integrate them into your web application.</p>
+
+<ul>
+  <li>For example, consider a scenario where you need to extract form data from a POST request:</li>
+  <li>app.post('/submit', (req, res) => {</li>
+  <li>&nbsp;&nbsp;const formData = req.body;</li>
+  <li>&nbsp;&nbsp;console.log(formData);</li>
+  <li>});</li>
+</ul>
+
+<p>This code snippet demonstrates how to extract form data from a request body using Express.js. The app.post() method is used to specify the route for handling POST requests, and the req.body property stores the extracted form data.</p>
+
+<h3>Express Modules</h3>
+<p>In complex web applications, developers often struggle with maintaining large files that contain numerous functions and variables. To alleviate this issue, Express.js encourages the use of JavaScript modules to break down large files into smaller, reusable pieces. By organizing code in this manner, you can improve maintainability, scalability, and performance.</p>
+
+<ul>
+  <li>For example, consider a scenario where you need to create multiple endpoints that share common functionality:</li>
+  <li>const express = require('express');</li>
+  <li>const app = express();</li>
+  <li>app.get('/endpoint1', (req, res) => {</li>
+  <li>&nbsp;&nbsp;handleEndpoint(req, res);</li>
+  <li>});</li>
+  <li>app.post('/endpoint2', (req, res) => {</li>
+  <li>&nbsp;&nbsp;handleEndpoint(req, res);</li>
+  <li>});</li>
+  <li>// Function to handle shared endpoint logic</li>
+  <li>function handleEndpoint(req, res) {</li>
+  <li>&nbsp;&nbsp;res.send('Shared response');</li>
+  <li>}</li>
+</ul>
+
+<p>This code snippet showcases how to create a reusable function using JavaScript modules. The shared endpoint logic is encapsulated within the handleEndpoint() function, making it accessible across multiple endpoints.</p>
+
+<h3>Conclusion</h3>
+<p>In conclusion, Express.js stands out as a highly capable and mature platform for building web applications. By mastering its features and best practices, developers can create scalable, efficient, and maintainable projects that meet the demands of modern web development. Although it may require more effort to organize and manage larger projects, the benefits far outweigh the costs.</p>
+<!-- Rev: 2.1  -->
   </div>
   <p>
     Source:
