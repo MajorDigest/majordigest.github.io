@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/amd-announces-ces-2025-launch-event-on-january-6-2025-and-drops-a-heavy-hint-that-new-rdna-4-gpus-will-be-revealed/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/ai2-ceo-ali-farhadi-believes-open-source-is-the-future/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T10:43:07.000Z</news:publication_date>
-            <news:title>AMD Set to Unveil RDNA 4 Graphics Cards and More at CES 2025</news:title>
+            <news:publication_date>2024-12-04T19:00:00.000Z</news:publication_date>
+            <news:title>Why AI2 CEO Ali Farhadi believes the future of AI has to be open source</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/amd-announces-ces-2025-launch-event-on-january-6-2025-and-drops-a-heavy-hint-that-new-rdna-4-gpus-will-be-revealed.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/ai2-ceo-ali-farhadi-believes-open-source-is-the-future.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/ai-2024-elections-politics/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T17:00:00.000Z</news:publication_date>
+            <news:title>The Rise of AI in Politics: Challenges, Opportunities, and Takeaways</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/ai-2024-elections-politics.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -24,24 +38,38 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-12-04T10:00:00.000Z</news:publication_date>
-            <news:title>Attracting and Retaining Top Talent in High-Tech Industry</news:title>
+            <news:title>4 ways to build a team equipped with emerging skills</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/04/4-ways-to-build-a-team-equipped-with-emerging-skills.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/the-uaes-digital-transformation-a-visionary-leap-into-the-future/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T09:00:00.000Z</news:publication_date>
-            <news:title>Mastering Express.js: A Guide to Building Web Applications</news:title>
+            <news:publication_date>2024-12-04T09:16:34.000Z</news:publication_date>
+            <news:title>Dubai's Digital Transformation: A Hub for Innovation and AI Adoption</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/the-uaes-digital-transformation-a-visionary-leap-into-the-future.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/tencent-cloud-named-a-major-player-in-idc-marketscape-for-edge-delivery/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T09:01:29.000Z</news:publication_date>
+            <news:title>Tencent Cloud named a major player in IDC MarketScape for edge delivery</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/tencent-cloud-named-a-major-player-in-idc-marketscape-for-edge-delivery.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -66,24 +94,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-12-04T04:52:59.000Z</news:publication_date>
-            <news:title>The Future Enterprise: How AI is Shaping Business Leaders' Strategies</news:title>
+            <news:title>AI Driving the future of UAE enterprises: 59% of business leaders plan to increase investment in advanced technologies</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/04/ai-driving-the-future-of-uae-enterprises-59-of-business-leaders-plan-to-increase-investment-in-advanced-technologies.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/04/donald-trump-crypto-enthusiast-paul-atkins-sec/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-04T03:54:10.000Z</news:publication_date>
-            <news:title>Donald Trump is reportedly set to pick the crypto enthusiast Paul Atkins to lead the SEC</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/donald-trump-crypto-enthusiast-paul-atkins-sec.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,87 +115,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/china-responds-u-s-chip-sanctions-ban-these-key-materials/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/kotlin-previews-guard-conditions-in-when-expressions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T22:32:27.000Z</news:publication_date>
-            <news:title>China responds to U.S chip sanctions with a ban on these key materials</news:title>
+            <news:publication_date>2024-12-03T21:34:17.000Z</news:publication_date>
+            <news:title>Kotlin previews guard conditions in when expressions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/china-responds-u-s-chip-sanctions-ban-these-key-materials.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/kotlin-previews-guard-conditions-in-when-expressions.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/securing-the-ai-data-pipeline-with-confidential-ai/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/rahm-emanuel-democrats-department-government-efficiency/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T21:21:42.000Z</news:publication_date>
-            <news:title>Securing the AI data pipeline with confidential AI</news:title>
+            <news:publication_date>2024-12-03T19:50:11.000Z</news:publication_date>
+            <news:title>Rahm Emanuel: Democrats should 'welcome' Musk's DOGE commission</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/securing-the-ai-data-pipeline-with-confidential-ai.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/rahm-emanuel-democrats-department-government-efficiency.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/fbi-tells-telecom-firms-to-boost-security-following-wide-ranging-chinese-hacking-campaign/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/california-teen-suspected-of-being-a-member-of-scattered-spider-hacking-gang/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T20:34:27.000Z</news:publication_date>
-            <news:title>FBI tells telecom firms to boost security following wide-ranging Chinese hacking campaign</news:title>
+            <news:publication_date>2024-12-03T18:59:18.000Z</news:publication_date>
+            <news:title>California teen suspected of being a member of&#160;Scattered Spider hacking gang</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/fbi-tells-telecom-firms-to-boost-security-following-wide-ranging-chinese-hacking-campaign.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/california-teen-suspected-of-being-a-member-of-scattered-spider-hacking-gang.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/mehmet-oz-influencer-marketing-violation-consumer-watchdog/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/elon-musk-neuralink/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T19:25:20.000Z</news:publication_date>
-            <news:title>Consumer watchdog wants FTC to investigate Oz for influencer marketing violations</news:title>
+            <news:publication_date>2024-12-03T16:41:43.000Z</news:publication_date>
+            <news:title>Elon Musk's Neuralink expands offices in Austin area</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/mehmet-oz-influencer-marketing-violation-consumer-watchdog.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/elon-musk-neuralink.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/2024-global-network-outage-report-and-internet-health-check/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/aoc-bluesky/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T18:40:16.000Z</news:publication_date>
-            <news:title>2024 global network outage report and internet health check</news:title>
+            <news:publication_date>2024-12-03T16:22:38.000Z</news:publication_date>
+            <news:title>Ocasio-Cortez first person to hit a million followers on Bluesky</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/2024-global-network-outage-report-and-internet-health-check.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/03/china-responds-to-us-chip-sanctions-banning-exports-of-key-minerals/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-03T15:52:37.000Z</news:publication_date>
-            <news:title>China responds to US chip sanctions, banning exports of key minerals</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/china-responds-to-us-chip-sanctions-banning-exports-of-key-minerals.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/aoc-bluesky.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -199,58 +199,226 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/at-eyes-more-than-40b-in-anticipated-shareholder-returns/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/att-sees-earnings-growth-over-next-3-years-eyes-more-than-40b-in-anticipated-shareholder-returns/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T14:25:31.000Z</news:publication_date>
+            <news:publication_date>2024-12-03T14:25:30.000Z</news:publication_date>
             <news:title>AT&#38;T sees earnings growth over next 3 years; eyes more than $40B in anticipated shareholder returns</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/at-eyes-more-than-40b-in-anticipated-shareholder-returns.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/att-sees-earnings-growth-over-next-3-years-eyes-more-than-40b-in-anticipated-shareholder-returns.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/noam-shazeer-back-at-google-agi/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/jury-selection-begins-in-2019-tech-entrepreneur-kidnapping-homicide/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T13:00:00.000Z</news:publication_date>
-            <news:title>Noam Shazeer is back at Google, and this time he&#8217;s aiming for AGI</news:title>
+            <news:publication_date>2024-12-03T14:08:02.000Z</news:publication_date>
+            <news:title>Jury selection begins in 2019 Santa Cruz tech entrepreneur kidnapping, homicide</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/noam-shazeer-back-at-google-agi.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/jury-selection-begins-in-2019-tech-entrepreneur-kidnapping-homicide.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/28/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/china-bans-exports-of-gallium-and-other-key-high-tech-materials-hitting-back-at-us-chip-sanctions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-28T11:27:55.000Z</news:publication_date>
-            <news:title>FTC opens antitrust investigation into Microsoft&#8217;s cloud, AI, and cybersecurity practices</news:title>
+            <news:publication_date>2024-12-03T12:12:22.000Z</news:publication_date>
+            <news:title>China bans exports to US of gallium, germanium, antimony in response to chip sanctions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/china-bans-exports-of-gallium-and-other-key-high-tech-materials-hitting-back-at-us-chip-sanctions.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/10-tips-and-services-for-new-bluesky-users/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/robotic-shorts-give-your-legs-boost-walk-farther-tire-less/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-27T16:47:33.000Z</news:publication_date>
-            <news:title>10+ tips and services for new Bluesky users</news:title>
+            <news:publication_date>2024-12-03T11:00:51.000Z</news:publication_date>
+            <news:title>Robotic shorts give your legs a boost to walk farther and tire less</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/10-tips-and-services-for-new-bluesky-users.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/robotic-shorts-give-your-legs-boost-walk-farther-tire-less.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/us-expands-list-of-chinese-technology-companies-under-export-controls/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T05:56:44.000Z</news:publication_date>
+            <news:title>US Expands Export Controls on Chinese Tech Companies</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/us-expands-list-of-chinese-technology-companies-under-export-controls.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/how-amazon-influencer-sydney-nicole-giffords-lawsuit-could-change-the-industry/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T03:35:23.000Z</news:publication_date>
+            <news:title>How Amazon influencer Sydney Nicole Gifford&#8217;s lawsuit could change the industry</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/how-amazon-influencer-sydney-nicole-giffords-lawsuit-could-change-the-industry.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/ocasio-cortez-hits-one-million-followers-bluesky/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T01:41:58.000Z</news:publication_date>
+            <news:title>Ocasio-Cortez first person to hit a million followers on Bluesky</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/ocasio-cortez-hits-one-million-followers-bluesky.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/biden-administration-announces-new-restrictions-chinas-chipmakers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T23:52:30.000Z</news:publication_date>
+            <news:title>Biden administration announces these new restrictions on China&#8217;s chipmakers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/biden-administration-announces-new-restrictions-chinas-chipmakers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/cyber-monday-shoppers-expected-to-set-a-record-on-the-years-biggest-day-for-online-shopping/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T23:31:13.000Z</news:publication_date>
+            <news:title>Cyber Monday shoppers expected to set a record on the year's biggest day for online shopping</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/cyber-monday-shoppers-expected-to-set-a-record-on-the-years-biggest-day-for-online-shopping.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/ftc-opens-microsoft-antitrust-investigation-that-trump-administration-must-carry-on-or-drop/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T21:37:24.000Z</news:publication_date>
+            <news:title>FTC opens Microsoft antitrust investigation that Trump administration must carry on or drop</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/ftc-opens-microsoft-antitrust-investigation-that-trump-administration-must-carry-on-or-drop.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/linux-fundamentals-viewing-files-commands-processes-and-systems/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T20:42:02.000Z</news:publication_date>
+            <news:title>Linux fundamentals: Viewing files, commands, processes and systems</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/linux-fundamentals-viewing-files-commands-processes-and-systems.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/panasonic-revives-its-late-founder-as-ai/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T16:59:05.000Z</news:publication_date>
+            <news:title>Panasonic revives its late founder as AI</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/panasonic-revives-its-late-founder-as-ai.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T00:04:40.000Z</news:publication_date>
+            <news:title>Australian Parliament bans social media for under-16s with world-first law</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/28/canada-sues-google-over-alleged-anticompetitive-practices-in-online-ads/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-28T23:54:33.000Z</news:publication_date>
+            <news:title>Canada sues Google over alleged anticompetitive practices in online ads</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/canada-sues-google-over-alleged-anticompetitive-practices-in-online-ads.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/28/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-28T11:00:14.000Z</news:publication_date>
+            <news:title>Amazon&#8217;s VP explains how to protect yourself from holiday impersonation scams</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/28/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/27/6-sneaky-gift-card-scams-watch-out-holiday-season/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-27T15:00:47.000Z</news:publication_date>
+            <news:title>6 sneaky gift card scams to watch out for this holiday season</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/27/6-sneaky-gift-card-scams-watch-out-holiday-season.webp</image:loc>
           </image:image>
         </url></urlset>
