@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/arista-adds-intelligent-switch-stacking-management-for-campus-networks/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/fox-news-ai-newsletter-ai-catches-cancer-mammogram-missed/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T18:24:33.000Z</news:publication_date>
-            <news:title>Arista Networks Enhances Campus Networking Portfolio with Switch Aggregation Features</news:title>
+            <news:publication_date>2024-12-04T16:57:22.000Z</news:publication_date>
+            <news:title>SEO Experts Weigh in on Effective Content Creation</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/arista-adds-intelligent-switch-stacking-management-for-campus-networks.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/fox-news-ai-newsletter-ai-catches-cancer-mammogram-missed.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/the-fbi-now-says-encryption-is-good-for-you/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T14:43:04.000Z</news:publication_date>
+            <news:title>FBI Warns of Encryption Risks: A Shift in Stance on Apple Backdoors?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/the-fbi-now-says-encryption-is-good-for-you.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/5-ways-ai-will-change-the-software-development-life-cycle/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T09:00:00.000Z</news:publication_date>
+            <news:title>AI Revolutionizes Software Development Life Cycle</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/5-ways-ai-will-change-the-software-development-life-cycle.webp</image:loc>
           </image:image>
         </url></urlset>
