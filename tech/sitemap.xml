@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/12/04/a-major-space-sector-trade-group-is-getting-a-brand-refresh/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T13:19:00.000Z</news:publication_date>
+            <news:title>A major space sector trade group is getting a brand refresh</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/a-major-space-sector-trade-group-is-getting-a-brand-refresh.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T09:00:00.000Z</news:publication_date>
+            <news:title>Intro to Express.js: Endpoints, parameters, and routes</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/04/amazon-announces-a-set-of-nova-ai-models/</loc>
           <news:news>
             <news:publication>
@@ -10,10 +38,24 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-12-04T04:03:36.000Z</news:publication_date>
-            <news:title>Amazon announces a set of Nova AI models</news:title>
+            <news:title>Amazon Unveils Nova Family of Foundation Models for Generative AI</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/04/amazon-announces-a-set-of-nova-ai-models.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/heroku-paas-adds-net-support/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T01:21:04.000Z</news:publication_date>
+            <news:title>Heroku PaaS adds .NET support</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/heroku-paas-adds-net-support.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,45 +87,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/third-party-support-a-cure-for-convoluted-database-costs/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/former-apple-employees-charged-with-defrauding-charity-program/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T18:43:17.000Z</news:publication_date>
-            <news:title>Breaking Down the Complexity of Database Costs: A Guide for IT Leaders</news:title>
+            <news:publication_date>2024-12-03T19:11:20.000Z</news:publication_date>
+            <news:title>Former Apple employees charged with defrauding charity program</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/third-party-support-a-cure-for-convoluted-database-costs.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/03/arista-adds-intelligent-switch-stacking-management-for-campus-networks/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-03T18:24:33.000Z</news:publication_date>
-            <news:title>Arista adds intelligent switch stacking, management for campus networks</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/arista-adds-intelligent-switch-stacking-management-for-campus-networks.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/03/navigating-data-governance-and-classification-in-generative-ai-with-netapp/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-03T17:11:52.000Z</news:publication_date>
-            <news:title>Navigating data governance and classification in generative AI with NetApp</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/navigating-data-governance-and-classification-in-generative-ai-with-netapp.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/former-apple-employees-charged-with-defrauding-charity-program.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,6 +115,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/12/03/marin-natives-online-talk-show-interviews-ai-chatbots/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T15:01:35.000Z</news:publication_date>
+            <news:title>Bay Area native&#8217;s online talk show interviews AI chatbots</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/marin-natives-online-talk-show-interviews-ai-chatbots.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/tiktok-defends-handling-of-romania-election-content-in-grilling-by-eu-lawmakers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T14:34:46.000Z</news:publication_date>
+            <news:title>TikTok defends handling of Romania election content in grilling by EU lawmakers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/tiktok-defends-handling-of-romania-election-content-in-grilling-by-eu-lawmakers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/03/at-eyes-more-than-40b-in-anticipated-shareholder-returns/</loc>
           <news:news>
             <news:publication>
@@ -115,199 +157,129 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/att-sees-earnings-growth-over-next-3-years-eyes-more-than-40b-in-anticipated-shareholder-returns/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/china-bans-exports-of-gallium-and-other-key-high-tech-materials-hitting-back-at-us-chip-sanctions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T14:25:30.000Z</news:publication_date>
-            <news:title>AT&#38;T sees earnings growth over next 3 years; eyes more than $40B in anticipated shareholder returns</news:title>
+            <news:publication_date>2024-12-03T12:12:22.000Z</news:publication_date>
+            <news:title>China bans exports to US of gallium, germanium, antimony in response to chip sanctions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/att-sees-earnings-growth-over-next-3-years-eyes-more-than-40b-in-anticipated-shareholder-returns.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/china-bans-exports-of-gallium-and-other-key-high-tech-materials-hitting-back-at-us-chip-sanctions.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/tiktok-defends-handling-of-romania-election-content-in-grilling-by-eu-lawmakers/</loc>
+          <loc>https://majordigest.com/tech/2024/12/03/how-ai-agents-will-transform-the-future-of-work/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T13:41:48.000Z</news:publication_date>
-            <news:title>TikTok defends handling of Romania election content in grilling by EU lawmakers</news:title>
+            <news:publication_date>2024-12-03T09:00:00.000Z</news:publication_date>
+            <news:title>How AI agents will transform the future of work</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/tiktok-defends-handling-of-romania-election-content-in-grilling-by-eu-lawmakers.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/how-ai-agents-will-transform-the-future-of-work.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/aws-database-migration-service-gets-gen-ai-powered-schema-conversion/</loc>
+          <loc>https://majordigest.com/tech/2024/12/02/intel-ceo-pat-gelsinger-resigns/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T10:05:26.000Z</news:publication_date>
-            <news:title>AWS Database Migration Service gets gen AI-powered schema conversion</news:title>
+            <news:publication_date>2024-12-02T15:48:31.000Z</news:publication_date>
+            <news:title>Intel CEO steps down as chipmaker falters, lays off staff</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/aws-database-migration-service-gets-gen-ai-powered-schema-conversion.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/intel-ceo-pat-gelsinger-resigns.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/aws-tries-to-lure-users-to-its-cloud-via-storage-ease-of-use/</loc>
+          <loc>https://majordigest.com/tech/2024/12/02/refactoring-ai-code-the-good-the-bad-and-the-weird/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T03:54:19.000Z</news:publication_date>
-            <news:title>AWS tries to lure users to its cloud via storage ease of use</news:title>
+            <news:publication_date>2024-12-02T09:00:00.000Z</news:publication_date>
+            <news:title>Refactoring AI code: The good, the bad, and the weird</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/aws-tries-to-lure-users-to-its-cloud-via-storage-ease-of-use.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/refactoring-ai-code-the-good-the-bad-and-the-weird.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/ftc-opens-microsoft-antitrust-investigation-that-trump-administration-must-carry-on-or-drop/</loc>
+          <loc>https://majordigest.com/tech/2024/11/30/what-is-bluesky-the-up-and-coming-social-platform-seen-as-x-alternative/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T21:37:24.000Z</news:publication_date>
-            <news:title>FTC opens Microsoft antitrust investigation that Trump administration must carry on or drop</news:title>
+            <news:publication_date>2024-11-30T20:23:55.000Z</news:publication_date>
+            <news:title>What is Bluesky, the 'up-and-coming' social platform seen as X alternative</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/ftc-opens-microsoft-antitrust-investigation-that-trump-administration-must-carry-on-or-drop.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/30/what-is-bluesky-the-up-and-coming-social-platform-seen-as-x-alternative.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/crime-shot-up-400-how-protect-yourself/</loc>
+          <loc>https://majordigest.com/tech/2024/11/30/robots-perform-like-human-surgeons-just-watching-videos/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T20:31:25.000Z</news:publication_date>
-            <news:title>This crime shot up 400% &#8212; how to protect yourself</news:title>
+            <news:publication_date>2024-11-30T11:00:56.000Z</news:publication_date>
+            <news:title>Robots perform like human surgeons by just watching videos</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/crime-shot-up-400-how-protect-yourself.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/30/robots-perform-like-human-surgeons-just-watching-videos.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/heres-how-two-european-search-upstarts-aim-to-go-after-google-from-the-index-up/</loc>
+          <loc>https://majordigest.com/tech/2024/11/30/artificial-intelligence-changes-across-us/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T20:11:00.000Z</news:publication_date>
-            <news:title>Here&#8217;s how 2 European search upstarts aim to go after Google&#8212;from the index up</news:title>
+            <news:publication_date>2024-11-30T00:21:28.000Z</news:publication_date>
+            <news:title>Artificial intelligence changes across the US</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/heres-how-two-european-search-upstarts-aim-to-go-after-google-from-the-index-up.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/30/artificial-intelligence-changes-across-us.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/how-ai-is-accelerating-and-devaluing-book-publishing/</loc>
+          <loc>https://majordigest.com/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-6-2-million-eats-the-fruit-in-hong-kong/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T17:00:00.000Z</news:publication_date>
-            <news:title>How AI is accelerating&#8212;and devaluing&#8212;book publishing</news:title>
+            <news:publication_date>2024-11-29T13:53:35.000Z</news:publication_date>
+            <news:title>Cryptocurrency entrepreneur who bought banana art for $6.2 million eats the fruit in Hong Kong</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/how-ai-is-accelerating-and-devaluing-book-publishing.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/cryptocurrency-entrepreneur-who-bought-banana-art-for-6-2-million-eats-the-fruit-in-hong-kong.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/data-centers-go-nuclear-for-power-hungry-ai-workloads/</loc>
+          <loc>https://majordigest.com/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T10:00:00.000Z</news:publication_date>
-            <news:title>Data centers go nuclear for power-hungry AI workloads</news:title>
+            <news:publication_date>2024-11-29T00:04:40.000Z</news:publication_date>
+            <news:title>Australian Parliament bans social media for under-16s with world-first law</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/data-centers-go-nuclear-for-power-hungry-ai-workloads.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/30/home-entertainment-holiday-gift-ideas/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-30T14:10:59.000Z</news:publication_date>
-            <news:title>Home entertainment holiday gift ideas at a discount</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/30/home-entertainment-holiday-gift-ideas.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T19:25:47.000Z</news:publication_date>
-            <news:title>Canadian news publishers sue OpenAI over alleged copyright infringement</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/29/google-chromeos-chromebook-surprise/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-29T10:45:00.000Z</news:publication_date>
-            <news:title>My spur-of-the-moment Chromebook surprise</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/google-chromeos-chromebook-surprise.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/canada-sues-google-over-alleged-anticompetitive-practices-in-online-ads/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T23:54:33.000Z</news:publication_date>
-            <news:title>Canada sues Google over alleged anticompetitive practices in online ads</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/canada-sues-google-over-alleged-anticompetitive-practices-in-online-ads.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T11:27:55.000Z</news:publication_date>
-            <news:title>FTC opens antitrust investigation into Microsoft&#8217;s cloud, AI, and cybersecurity practices</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -325,34 +297,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/coast-guard-adds-new-cyber-requirements-for-ship-to-shore-cranes/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T22:49:48.000Z</news:publication_date>
-            <news:title>Coast Guard adds new cyber requirements for ship-to-shore cranes</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/coast-guard-adds-new-cyber-requirements-for-ship-to-shore-cranes.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/fox-news-ai-newsletter-amazons-4b-bet-ai-startup/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T17:14:37.000Z</news:publication_date>
-            <news:title>Fox News AI Newsletter: Amazon's $4B bet on an AI startup</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/fox-news-ai-newsletter-amazons-4b-bet-ai-startup.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/11/27/australias-house-of-representatives-passes-bill-that-would-ban-young-children-from-social-media/</loc>
           <news:news>
             <news:publication>
@@ -367,20 +311,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/27/talk-two-languages-apple-watchs-real-time-translation/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T11:00:17.000Z</news:publication_date>
-            <news:title>Talk in 2 languages with Apple Watch's real-time translation</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/talk-two-languages-apple-watchs-real-time-translation.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/11/27/microsoft-windows-recall-privacy/</loc>
           <news:news>
             <news:publication>
@@ -392,19 +322,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/27/microsoft-windows-recall-privacy.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/27/judge-wont-alter-google-antitrust-trial-dates-to-accommodate-trump-dojs-proposal/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-27T09:46:03.000Z</news:publication_date>
-            <news:title>Judge won&#8217;t alter Google antitrust trial dates to accommodate Trump DOJ&#8217;s proposal</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/27/judge-wont-alter-google-antitrust-trial-dates-to-accommodate-trump-dojs-proposal.webp</image:loc>
           </image:image>
         </url></urlset>
