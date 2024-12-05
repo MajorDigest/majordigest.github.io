@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/donald-trump-jared-isaacman-nasa-administrator/</loc>
+          <loc>https://majordigest.com/tech/2024/12/05/finally-windows-11s-microsoft-store-will-soon-let-you-update-non-microsoft-apps/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T17:00:08.000Z</news:publication_date>
-            <news:title>President-elect Trump Appoints Jared Isaacman as Head of Truth Social</news:title>
+            <news:publication_date>2024-12-05T11:51:44.000Z</news:publication_date>
+            <news:title>Microsoft Store Update: Third-Party Apps to Get Automatic Updates</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/donald-trump-jared-isaacman-nasa-administrator.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/05/finally-windows-11s-microsoft-store-will-soon-let-you-update-non-microsoft-apps.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/05/le-15-tecnologie-piu-sottovalutate-nel-settore-it/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T05:00:00.000Z</news:publication_date>
+            <news:title>Trasformazione Digitale: 5 Tecnologie Fondamentali Spesso Sottovalutate</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/05/le-15-tecnologie-piu-sottovalutate-nel-settore-it.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/white-house-says-at-least-8-us-telecom-firms-dozens-of-nations-impacted-by-china-hacking-campaign/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T22:05:19.000Z</news:publication_date>
+            <news:title>China-Linked Hack Affects U.S. Telecom Firms and Dozens of Nations</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/white-house-says-at-least-8-us-telecom-firms-dozens-of-nations-impacted-by-china-hacking-campaign.webp</image:loc>
           </image:image>
         </url></urlset>
