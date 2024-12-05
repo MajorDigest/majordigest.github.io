@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/05/data-and-people-driven-transformation-how-the-port-of-auckland-is-navigating-the-future/</loc>
+          <loc>https://majordigest.com/tech/2024/12/05/burnout-an-it-epidemic-in-the-making/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-05T12:23:00.000Z</news:publication_date>
-            <news:title>The Future of Artificial Intelligence: Responsible Use and Inclusivity</news:title>
+            <news:publication_date>2024-12-05T09:30:00.000Z</news:publication_date>
+            <news:title>The Rise of Burnout Among IT Workers: Can AI Be the Solution?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/05/data-and-people-driven-transformation-how-the-port-of-auckland-is-navigating-the-future.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/05/burnout-an-it-epidemic-in-the-making.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/comptia-courts-it-newcomers-with-on-ramp-network-security-courses/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T21:54:40.000Z</news:publication_date>
+            <news:title>CompTIA Launches New Courses to Accelerate IT Careers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/comptia-courts-it-newcomers-with-on-ramp-network-security-courses.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/cython-tutorial-how-to-speed-up-python-2/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T09:00:00.000Z</news:publication_date>
+            <news:title>Unlocking High-Performance Code with Cython: A Comprehensive Guide</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/cython-tutorial-how-to-speed-up-python-2.webp</image:loc>
           </image:image>
         </url></urlset>

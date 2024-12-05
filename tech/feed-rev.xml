@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 05 Dec 2024 16:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 17:31:09 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,35 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>The Future of Artificial Intelligence: Responsible Use and Inclusivity</title>
-          <description><![CDATA[Discover the latest trends in artificial intelligence, including responsible use and creating a more inclusive industry.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/05/data-and-people-driven-transformation-how-the-port-of-auckland-is-navigating-the-future/</guid>
-          <link>https://majordigest.com/tech/2024/12/05/data-and-people-driven-transformation-how-the-port-of-auckland-is-navigating-the-future/</link>
-          <pubDate>Thu, 05 Dec 2024 12:23:00 GMT</pubDate>
+          <title>The Rise of Burnout Among IT Workers: Can AI Be the Solution?</title>
+          <description><![CDATA[Learn how AI can help alleviate workloads and prevent burnout among IT workers, as well as the consequences of burnout on productivity and employee satisfaction.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/05/burnout-an-it-epidemic-in-the-making/</guid>
+          <link>https://majordigest.com/tech/2024/12/05/burnout-an-it-epidemic-in-the-making/</link>
+          <pubDate>Thu, 05 Dec 2024 09:30:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/05/data-and-people-driven-transformation-how-the-port-of-auckland-is-navigating-the-future.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/05/data-and-people-driven-transformation-how-the-port-of-auckland-is-navigating-the-future.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/05/burnout-an-it-epidemic-in-the-making.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/05/burnout-an-it-epidemic-in-the-making.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>CompTIA Launches New Courses to Accelerate IT Careers</title>
+          <description><![CDATA[CompTIA introduces new learning resources to help entry-level professionals advance their careers in networking and cybersecurity roles.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/04/comptia-courts-it-newcomers-with-on-ramp-network-security-courses/</guid>
+          <link>https://majordigest.com/tech/2024/12/04/comptia-courts-it-newcomers-with-on-ramp-network-security-courses/</link>
+          <pubDate>Wed, 04 Dec 2024 21:54:40 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/04/comptia-courts-it-newcomers-with-on-ramp-network-security-courses.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/04/comptia-courts-it-newcomers-with-on-ramp-network-security-courses.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Unlocking High-Performance Code with Cython: A Comprehensive Guide</title>
+          <description><![CDATA[Learn how to use Cython to convert Python code into C code, improving performance and efficiency in your projects.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/04/cython-tutorial-how-to-speed-up-python-2/</guid>
+          <link>https://majordigest.com/tech/2024/12/04/cython-tutorial-how-to-speed-up-python-2/</link>
+          <pubDate>Wed, 04 Dec 2024 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/04/cython-tutorial-how-to-speed-up-python-2.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/04/cython-tutorial-how-to-speed-up-python-2.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
