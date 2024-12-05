@@ -3,14 +3,42 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/12/05/threads-is-going-all-in-on-the-fediverse-and-users-have-some-questions/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T05:07:25.000Z</news:publication_date>
+            <news:title>Threads is going all-in on the fediverse, and users have some questions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/05/threads-is-going-all-in-on-the-fediverse-and-users-have-some-questions.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/05/openai-ceo-sam-altman-elon-musk-trump-administration/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T03:15:00.000Z</news:publication_date>
+            <news:title>OpenAI CEO Sam Altman is &#8216;not that worried&#8217; about Musk&#8217;s influence in the Trump administration</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/05/openai-ceo-sam-altman-elon-musk-trump-administration.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/04/meta-to-build-10-billion-ai-data-center-in-louisiana-as-elon-musk-expands-his-tennessee-ai-facility/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T22:55:07.000Z</news:publication_date>
-            <news:title>Meta to build $10 billion AI data center in Louisiana as Elon Musk expands his Tennessee AI facility</news:title>
+            <news:publication_date>2024-12-04T23:32:57.000Z</news:publication_date>
+            <news:title>Meta's $10 Billion Louisiana Data Center Brings Economic Hopes, Environmental Concerns</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/04/meta-to-build-10-billion-ai-data-center-in-louisiana-as-elon-musk-expands-his-tennessee-ai-facility.webp</image:loc>
@@ -59,31 +87,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/ai2-ceo-ali-farhadi-believes-open-source-is-the-future/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/sam-altman-brushes-off-musks-influence-in-trump-administration-amid-tension/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T19:00:00.000Z</news:publication_date>
-            <news:title>Why AI2 CEO Ali Farhadi believes the future of AI has to be open source</news:title>
+            <news:publication_date>2024-12-04T19:47:50.000Z</news:publication_date>
+            <news:title>Sam Altman brushes off Musk's influence in Trump administration amid tension</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/ai2-ceo-ali-farhadi-believes-open-source-is-the-future.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/04/trump-fbi-kash-patel-iran-cyberattack/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-04T18:38:46.000Z</news:publication_date>
-            <news:title>Trump's FBI pick Kash Patel targeted in Iranian cyberattack</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/trump-fbi-kash-patel-iran-cyberattack.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/sam-altman-brushes-off-musks-influence-in-trump-administration-amid-tension.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,129 +115,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/oecd-genai-is-affecting-jobs-previously-thought-safe-from-automation/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/how-bulk-delete-spam-old-text-messages-iphone/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T17:08:36.000Z</news:publication_date>
-            <news:title>Generative AI Set to Disrupt Highly Skilled Workforces</news:title>
+            <news:publication_date>2024-12-04T11:00:08.000Z</news:publication_date>
+            <news:title>How to bulk delete spam and old text messages on iPhone</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/oecd-genai-is-affecting-jobs-previously-thought-safe-from-automation.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/how-bulk-delete-spam-old-text-messages-iphone.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/ai-2024-elections-politics/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/ai-driving-the-future-of-uae-enterprises-59-of-business-leaders-plan-to-increase-investment-in-advanced-technologies/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T17:00:00.000Z</news:publication_date>
-            <news:title>The first &#8216;AI elections&#8217; weren&#8217;t as disastrous as predicted. Here&#8217;s why</news:title>
+            <news:publication_date>2024-12-04T04:52:59.000Z</news:publication_date>
+            <news:title>AI Driving the future of UAE enterprises: 59% of business leaders plan to increase investment in advanced technologies</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/ai-2024-elections-politics.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/ai-driving-the-future-of-uae-enterprises-59-of-business-leaders-plan-to-increase-investment-in-advanced-technologies.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/report-ai-expands-the-it-workforce-as-tech-jobs-return-to-offices/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/defense-makes-closing-argument-in-murder-trial-of-cash-app-founder-bob-lee/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T16:18:50.000Z</news:publication_date>
-            <news:title>Report: AI expands the IT workforce as tech jobs return to offices</news:title>
+            <news:publication_date>2024-12-04T01:36:42.000Z</news:publication_date>
+            <news:title>Murder trial of tech consultant in stabbing death of Cash App founder Bob Lee to go to jurors</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/report-ai-expands-the-it-workforce-as-tech-jobs-return-to-offices.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/04/bitcoin-jesus-lawyers-say-his-tax-case-violates-constitution/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-04T15:25:51.000Z</news:publication_date>
-            <news:title>Crypto Mogul Roger Ver Faces US Tax Evasion Charges Amid Spanish Extradition Proceedings</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/bitcoin-jesus-lawyers-say-his-tax-case-violates-constitution.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/04/the-fbi-now-says-encryption-is-good-for-you/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-04T14:43:04.000Z</news:publication_date>
-            <news:title>The FBI now says encryption is good for you</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/the-fbi-now-says-encryption-is-good-for-you.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/04/the-uaes-digital-transformation-a-visionary-leap-into-the-future/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-04T09:16:34.000Z</news:publication_date>
-            <news:title>The UAE&#8217;s digital transformation: A visionary leap into the future</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/the-uaes-digital-transformation-a-visionary-leap-into-the-future.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-04T09:00:00.000Z</news:publication_date>
-            <news:title>Intro to Express.js: Endpoints, parameters, and routes</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/intro-to-express-js-endpoints-parameters-and-routes.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/04/amazon-aws-supercomputer-ai-chips-nvidia-amd/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-04T06:45:00.000Z</news:publication_date>
-            <news:title>Amazon&#8217;s AWS unveils new supercomputer with its AI chips in a challenge to Nvidia</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/amazon-aws-supercomputer-ai-chips-nvidia-amd.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/04/heroku-paas-adds-net-support/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-04T01:21:04.000Z</news:publication_date>
-            <news:title>Heroku PaaS adds .NET support</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/heroku-paas-adds-net-support.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/defense-makes-closing-argument-in-murder-trial-of-cash-app-founder-bob-lee.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -233,11 +163,109 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T23:22:44.000Z</news:publication_date>
+            <news:publication_date>2024-12-03T22:44:54.000Z</news:publication_date>
             <news:title>Founder of failed crypto lending platform Celsius Network pleads guilty to fraud charges</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/03/founder-of-failed-crypto-lending-platform-celsius-network-pleads-guilty-to-fraud-charges.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/arista-adds-intelligent-switch-stacking-management-for-campus-networks/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T18:24:33.000Z</news:publication_date>
+            <news:title>Arista adds intelligent switch stacking, management for campus networks</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/arista-adds-intelligent-switch-stacking-management-for-campus-networks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/dec-federal-executive-forum-profiles-in-excellence-in-government-cio-achievements-2024/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T15:10:54.000Z</news:publication_date>
+            <news:title>Federal Executive Forum Profiles in Excellence in Government: CIO Achievements 2024</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/dec-federal-executive-forum-profiles-in-excellence-in-government-cio-achievements-2024.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/marin-natives-online-talk-show-interviews-ai-chatbots/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T15:01:35.000Z</news:publication_date>
+            <news:title>Bay Area native&#8217;s online talk show interviews AI chatbots</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/marin-natives-online-talk-show-interviews-ai-chatbots.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/windows-7-2024-hidden-dangers-clinging-past/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T15:00:40.000Z</news:publication_date>
+            <news:title>Windows 7 in 2024: The hidden dangers of clinging to the past</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/windows-7-2024-hidden-dangers-clinging-past.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/tiktok-defends-handling-of-romania-election-content-in-grilling-by-eu-lawmakers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T14:34:46.000Z</news:publication_date>
+            <news:title>TikTok defends handling of Romania election content in grilling by EU lawmakers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/tiktok-defends-handling-of-romania-election-content-in-grilling-by-eu-lawmakers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/consumer-watchdog-crackdown-personal-data-sales/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T11:00:00.000Z</news:publication_date>
+            <news:title>CFPB Cracks Down on Data Brokers with New Proposal</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/consumer-watchdog-crackdown-personal-data-sales.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/understanding-unstructured-data-in-the-context-of-ai/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T09:00:00.000Z</news:publication_date>
+            <news:title>Understanding unstructured data in the context of AI</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/understanding-unstructured-data-in-the-context-of-ai.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -255,45 +283,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/aws-brings-rag-evaluation-and-llm-as-a-judge-feature-to-amazon-bedrock/</loc>
+          <loc>https://majordigest.com/tech/2024/12/02/ftc-opens-microsoft-antitrust-investigation-that-trump-administration-must-carry-on-or-drop/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T12:57:15.000Z</news:publication_date>
-            <news:title>AWS brings RAG evaluation and LLM-as-a-judge feature to Amazon Bedrock</news:title>
+            <news:publication_date>2024-12-02T21:37:24.000Z</news:publication_date>
+            <news:title>FTC opens Microsoft antitrust investigation that Trump administration must carry on or drop</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/aws-brings-rag-evaluation-and-llm-as-a-judge-feature-to-amazon-bedrock.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/ftc-opens-microsoft-antitrust-investigation-that-trump-administration-must-carry-on-or-drop.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/30/helpful-hack-siris-new-tricks-photo-magic-writing-help-ios-18-1s-new-ai-features/</loc>
+          <loc>https://majordigest.com/tech/2024/12/02/crime-shot-up-400-how-protect-yourself/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-30T15:00:02.000Z</news:publication_date>
-            <news:title>Helpful Hack: Siri's new tricks, photo magic and writing help with iOS 18.1's new AI features</news:title>
+            <news:publication_date>2024-12-02T20:31:25.000Z</news:publication_date>
+            <news:title>This crime shot up 400% &#8212; how to protect yourself</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/30/helpful-hack-siris-new-tricks-photo-magic-writing-help-ios-18-1s-new-ai-features.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/crime-shot-up-400-how-protect-yourself.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/30/artificial-intelligence-changes-across-us/</loc>
+          <loc>https://majordigest.com/tech/2024/12/02/aws-amazon-connect-service-gets-new-gen-ai-updates/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-30T00:21:28.000Z</news:publication_date>
-            <news:title>Artificial intelligence changes across the US</news:title>
+            <news:publication_date>2024-12-02T11:17:46.000Z</news:publication_date>
+            <news:title>AWS&#8217; Amazon Connect service gets new-gen AI updates</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/30/artificial-intelligence-changes-across-us.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/aws-amazon-connect-service-gets-new-gen-ai-updates.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/your-friends-phone-number-compromised-heres-what-look/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T11:00:29.000Z</news:publication_date>
+            <news:title>Is your friend's phone number compromised? Here's what to look for</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/your-friends-phone-number-compromised-heres-what-look.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/11/29/two-years-of-chatgpt-the-conversation-that-never-ends/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-11-29T18:33:59.000Z</news:publication_date>
+            <news:title>Two years of ChatGPT: the conversation that never ends</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/11/29/two-years-of-chatgpt-the-conversation-that-never-ends.webp</image:loc>
           </image:image>
         </url>
         <url>
