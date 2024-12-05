@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/05/threads-is-going-all-in-on-the-fediverse-and-users-have-some-questions/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-05T05:07:25.000Z</news:publication_date>
-            <news:title>Threads is going all-in on the fediverse, and users have some questions</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/05/threads-is-going-all-in-on-the-fediverse-and-users-have-some-questions.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/05/bitcoin-tops-100000-as-big-rally-sparked-by-trump-election-win-rolls-on/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-05T03:15:55.000Z</news:publication_date>
-            <news:title>Bitcoin Soars Past $100,000 as Trump's Crypto-Friendly Approach Takes Hold</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/05/bitcoin-tops-100000-as-big-rally-sparked-by-trump-election-win-rolls-on.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/12/05/openai-ceo-sam-altman-elon-musk-trump-administration/</loc>
           <news:news>
             <news:publication>
@@ -38,94 +10,136 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-12-05T03:15:00.000Z</news:publication_date>
-            <news:title>OpenAI CEO Sam Altman is &#8216;not that worried&#8217; about Musk&#8217;s influence in the Trump administration</news:title>
+            <news:title>The AI Rivalry: OpenAI CEO Sam Altman on Musk's Influence and Business Competition</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/05/openai-ceo-sam-altman-elon-musk-trump-administration.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/05/jeff-bezos-says-he-is-optimistic-about-a-new-trump-term-and-can-help-with-cutting-regulations/</loc>
+          <loc>https://majordigest.com/tech/2024/12/05/location-sharing-is-the-latest-way-to-hard-launch-a-relationship/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-05T00:09:53.000Z</news:publication_date>
-            <news:title>Jeff Bezos says he is 'optimistic' about a new Trump term and can help with cutting regulations</news:title>
+            <news:publication_date>2024-12-05T01:00:00.000Z</news:publication_date>
+            <news:title>Location Sharing in Relationships: Convenience vs. Control</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/05/jeff-bezos-says-he-is-optimistic-about-a-new-trump-term-and-can-help-with-cutting-regulations.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/05/location-sharing-is-the-latest-way-to-hard-launch-a-relationship.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/ai2-ceo-ali-farhadi-believes-open-source-is-the-future/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/meta-to-build-10-billion-ai-data-center-in-louisiana-as-elon-musk-expands-his-tennessee-ai-facility/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T19:00:00.000Z</news:publication_date>
-            <news:title>Why AI2 CEO Ali Farhadi believes the future of AI has to be open source</news:title>
+            <news:publication_date>2024-12-04T22:55:06.000Z</news:publication_date>
+            <news:title>Meta to build $10 billion AI data center in Louisiana as Elon Musk expands his Tennessee AI facility</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/ai2-ceo-ali-farhadi-believes-open-source-is-the-future.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/meta-to-build-10-billion-ai-data-center-in-louisiana-as-elon-musk-expands-his-tennessee-ai-facility.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/openai-sam-altman-not-that-worried-about-rival-elon-musks-influence-in-the-trump-administration/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/australias-social-media-ban-young-kids-raises-questions-enforcement/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T18:30:13.000Z</news:publication_date>
-            <news:title>OpenAI's Sam Altman 'not that worried' about rival Elon Musk's influence in the Trump administration</news:title>
+            <news:publication_date>2024-12-04T22:13:39.000Z</news:publication_date>
+            <news:title>Australia&#8217;s social media ban for young kids raises questions about enforcement</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/openai-sam-altman-not-that-worried-about-rival-elon-musks-influence-in-the-trump-administration.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/australias-social-media-ban-young-kids-raises-questions-enforcement.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/aws-upgrades-its-10p10u-network-to-handle-massive-ai-clusters/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/fbi-urging-telecom-firms-boost-network-security-following-chinas-cyberespionage/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T15:49:06.000Z</news:publication_date>
-            <news:title>AWS upgrades its 10p10u network to handle massive AI clusters</news:title>
+            <news:publication_date>2024-12-04T22:02:01.000Z</news:publication_date>
+            <news:title>FBI Urges Telecom Companies to Boost Security Amid Chinese Hacking Campaign</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/aws-upgrades-its-10p10u-network-to-handle-massive-ai-clusters.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/fbi-urging-telecom-firms-boost-network-security-following-chinas-cyberespionage.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/10-benefits-that-developers-want-in-2025/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/comptia-courts-it-newcomers-with-on-ramp-network-security-courses/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T12:01:00.000Z</news:publication_date>
-            <news:title>10 benefits that developers want in 2025</news:title>
+            <news:publication_date>2024-12-04T21:54:40.000Z</news:publication_date>
+            <news:title>CompTIA courts IT newcomers with &#8216;on-ramp&#8217; network, security courses</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/10-benefits-that-developers-want-in-2025.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/comptia-courts-it-newcomers-with-on-ramp-network-security-courses.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/04/how-bulk-delete-spam-old-text-messages-iphone/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/secure-shadow-data-in-the-cloud-with-new-innovations-on-zscaler-dspm/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T11:00:08.000Z</news:publication_date>
-            <news:title>How to bulk delete spam and old text messages on iPhone</news:title>
+            <news:publication_date>2024-12-04T21:35:53.000Z</news:publication_date>
+            <news:title>Secure shadow data in the cloud with new innovations on Zscaler DSPM</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/04/how-bulk-delete-spam-old-text-messages-iphone.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/secure-shadow-data-in-the-cloud-with-new-innovations-on-zscaler-dspm.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/microsoft-hit-with-more-litigation-accusing-it-of-predatory-pricing/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T21:14:43.000Z</news:publication_date>
+            <news:title>Microsoft hit with more litigation accusing it of predatory pricing</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/microsoft-hit-with-more-litigation-accusing-it-of-predatory-pricing.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/this-ceo-sells-low-cost-drugs-and-he-says-big-pharma-might-not-be-the-true-adversary/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T21:11:00.000Z</news:publication_date>
+            <news:title>Disrupting the Pharmaceutical Industry: An Exclusive Interview with Cost Plus Drugs Founder</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/this-ceo-sells-low-cost-drugs-and-he-says-big-pharma-might-not-be-the-true-adversary.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/white-house-says-at-least-8-us-telecom-firms-dozens-of-nations-impacted-by-china-hacking-campaign/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T20:55:21.000Z</news:publication_date>
+            <news:title>White House says at least 8 US telecom firms, dozens of nations impacted by China hacking campaign</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/white-house-says-at-least-8-us-telecom-firms-dozens-of-nations-impacted-by-china-hacking-campaign.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -135,7 +149,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-04T01:32:23.000Z</news:publication_date>
+            <news:publication_date>2024-12-04T20:29:16.000Z</news:publication_date>
             <news:title>District of Columbia says Amazon secretly stopped fast deliveries to 2 predominantly Black ZIP codes</news:title>
           </news:news>
           <image:image>
@@ -143,101 +157,325 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/founder-of-failed-crypto-lending-platform-celsius-network-pleads-guilty-to-fraud-charges/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/trump-names-slater-antitrust-division-leader/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T23:22:44.000Z</news:publication_date>
-            <news:title>Founder of failed crypto lending platform Celsius Network pleads guilty to fraud charges</news:title>
+            <news:publication_date>2024-12-04T20:13:15.000Z</news:publication_date>
+            <news:title>Trump taps Gail Slater to lead DOJ antitrust division</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/founder-of-failed-crypto-lending-platform-celsius-network-pleads-guilty-to-fraud-charges.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/trump-names-slater-antitrust-division-leader.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/microsoft-hit-with-more-litigation-accusing-it-of-predatory-pricing/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/oecd-genai-is-affecting-jobs-previously-thought-safe-from-automation/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T22:01:32.000Z</news:publication_date>
-            <news:title>Microsoft hit with more litigation accusing it of predatory pricing</news:title>
+            <news:publication_date>2024-12-04T17:08:36.000Z</news:publication_date>
+            <news:title>OECD: GenAI is affecting jobs previously thought safe from automation</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/microsoft-hit-with-more-litigation-accusing-it-of-predatory-pricing.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/oecd-genai-is-affecting-jobs-previously-thought-safe-from-automation.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/celebrity-video-site-cameo-is-now-open-to-all-creators/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/bitcoin-jesus-lawyers-say-his-tax-case-violates-constitution/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T21:00:00.000Z</news:publication_date>
-            <news:title>Celebrity video site Cameo is now open to all creators</news:title>
+            <news:publication_date>2024-12-04T15:25:51.000Z</news:publication_date>
+            <news:title>Lawyers for Silicon Valley&#8217;s &#8216;Bitcoin Jesus&#8217; say his tax case violates constitution</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/celebrity-video-site-cameo-is-now-open-to-all-creators.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/bitcoin-jesus-lawyers-say-his-tax-case-violates-constitution.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/03/rahm-emanuel-democrats-department-government-efficiency/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/emirates-global-aluminiums-digital-transformation-an-interview-with-carlo-nizam-chief-digital-officer/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T19:50:11.000Z</news:publication_date>
-            <news:title>Rahm Emanuel: Democrats should 'welcome' Musk's DOGE commission</news:title>
+            <news:publication_date>2024-12-04T14:05:20.000Z</news:publication_date>
+            <news:title>Emirates Global Aluminium&#8217;s digital transformation: An interview with Carlo Nizam, Chief Digital Officer</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/03/rahm-emanuel-democrats-department-government-efficiency.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/emirates-global-aluminiums-digital-transformation-an-interview-with-carlo-nizam-chief-digital-officer.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/30/artificial-intelligence-changes-across-us/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/meta-quietly-leans-on-rival-gpt-4-despite-zuckerbergs-bold-llama-claims/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-30T00:21:28.000Z</news:publication_date>
-            <news:title>Artificial intelligence changes across the US</news:title>
+            <news:publication_date>2024-12-04T11:51:18.000Z</news:publication_date>
+            <news:title>Meta quietly leans on rival GPT-4 despite Zuckerberg&#8217;s bold Llama claims</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/30/artificial-intelligence-changes-across-us.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/meta-quietly-leans-on-rival-gpt-4-despite-zuckerbergs-bold-llama-claims.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/jpmorgan-chase-builds-ambitious-ai-foundation-on-aws/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T19:25:47.000Z</news:publication_date>
-            <news:title>Canadian news publishers sue OpenAI over alleged copyright infringement</news:title>
+            <news:publication_date>2024-12-04T09:45:00.000Z</news:publication_date>
+            <news:title>JPMorgan Chase builds ambitious AI foundation on AWS</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/canadian-news-publishers-sue-openai-over-alleged-copyright-infringement.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/jpmorgan-chase-builds-ambitious-ai-foundation-on-aws.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/11/29/two-years-of-chatgpt-the-conversation-that-never-ends/</loc>
+          <loc>https://majordigest.com/tech/2024/12/04/just-say-no-to-javascript/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-11-29T18:33:59.000Z</news:publication_date>
-            <news:title>Two Years of ChatGPT: The Unstoppable Conversation</news:title>
+            <news:publication_date>2024-12-04T09:00:00.000Z</news:publication_date>
+            <news:title>Just say no to JavaScript</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/29/two-years-of-chatgpt-the-conversation-that-never-ends.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/just-say-no-to-javascript.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/cython-tutorial-how-to-speed-up-python-2/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T09:00:00.000Z</news:publication_date>
+            <news:title>Cython tutorial: How to speed up Python</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/cython-tutorial-how-to-speed-up-python-2.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/donald-trump-crypto-enthusiast-paul-atkins-sec/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T03:54:10.000Z</news:publication_date>
+            <news:title>Donald Trump is reportedly set to pick the crypto enthusiast Paul Atkins to lead the SEC</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/donald-trump-crypto-enthusiast-paul-atkins-sec.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/heroku-paas-adds-net-support/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T01:21:04.000Z</news:publication_date>
+            <news:title>Heroku PaaS adds .NET support</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/heroku-paas-adds-net-support.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/agencies-still-struggling-to-meet-digital-accessibility-standards/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T22:33:57.000Z</news:publication_date>
+            <news:title>Agencies still struggling to meet digital accessibility standards</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/agencies-still-struggling-to-meet-digital-accessibility-standards.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/fbi-tells-telecom-firms-to-boost-security-following-wide-ranging-chinese-hacking-campaign/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T20:34:27.000Z</news:publication_date>
+            <news:title>FBI tells telecom firms to boost security following wide-ranging Chinese hacking campaign</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/fbi-tells-telecom-firms-to-boost-security-following-wide-ranging-chinese-hacking-campaign.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/what-to-make-of-pat-gelsingers-abrupt-exit/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T14:45:07.000Z</news:publication_date>
+            <news:title>What to make of Pat Gelsinger&#8217;s abrupt exit</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/what-to-make-of-pat-gelsingers-abrupt-exit.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/tiktok-defends-handling-of-romania-election-content-in-grilling-by-eu-lawmakers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T14:34:46.000Z</news:publication_date>
+            <news:title>TikTok defends handling of Romania election content in grilling by EU lawmakers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/tiktok-defends-handling-of-romania-election-content-in-grilling-by-eu-lawmakers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/china-bans-exports-of-gallium-and-other-key-high-tech-materials-hitting-back-at-us-chip-sanctions/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T12:12:22.000Z</news:publication_date>
+            <news:title>China bans exports to US of gallium, germanium, antimony in response to chip sanctions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/china-bans-exports-of-gallium-and-other-key-high-tech-materials-hitting-back-at-us-chip-sanctions.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/03/rust-1-83-expands-const-capabilities/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T01:46:04.000Z</news:publication_date>
+            <news:title>Rust 1.83 expands const capabilities</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/03/rust-1-83-expands-const-capabilities.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/ftc-opens-microsoft-antitrust-investigation-that-trump-administration-must-carry-on-or-drop/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T21:37:24.000Z</news:publication_date>
+            <news:title>FTC opens Microsoft antitrust investigation that Trump administration must carry on or drop</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/ftc-opens-microsoft-antitrust-investigation-that-trump-administration-must-carry-on-or-drop.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/crime-shot-up-400-how-protect-yourself/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T20:31:25.000Z</news:publication_date>
+            <news:title>This crime shot up 400% &#8212; how to protect yourself</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/crime-shot-up-400-how-protect-yourself.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/pentagon-has-a-new-way-to-tackle-disconnect-between-financial-and-acquisition-systems/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T17:22:22.000Z</news:publication_date>
+            <news:title>Pentagon has a new way to tackle disconnect between financial and acquisition systems</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/pentagon-has-a-new-way-to-tackle-disconnect-between-financial-and-acquisition-systems.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/intel-ceo-pat-gelsinger-retires/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T14:32:55.000Z</news:publication_date>
+            <news:title>Intel CEO Pat Gelsinger retires</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/intel-ceo-pat-gelsinger-retires.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/aws-brings-rag-evaluation-and-llm-as-a-judge-feature-to-amazon-bedrock/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T12:57:15.000Z</news:publication_date>
+            <news:title>AWS brings RAG evaluation and LLM-as-a-judge feature to Amazon Bedrock</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/aws-brings-rag-evaluation-and-llm-as-a-judge-feature-to-amazon-bedrock.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/aws-amazon-connect-service-gets-new-gen-ai-updates/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T11:17:46.000Z</news:publication_date>
+            <news:title>AWS&#8217; Amazon Connect service gets new-gen AI updates</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/aws-amazon-connect-service-gets-new-gen-ai-updates.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/02/2025-will-be-a-bad-year-for-remote-work/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T11:00:00.000Z</news:publication_date>
+            <news:title>2025 will be a bad year for remote work</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/02/2025-will-be-a-bad-year-for-remote-work.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -252,19 +490,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/11/29/australian-senate-passes-a-social-media-ban-for-young-children-that-will-soon-be-a-world-first-law.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/11/28/canada-sues-google-over-alleged-anticompetitive-practices-in-online-ads/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-11-28T23:54:33.000Z</news:publication_date>
-            <news:title>Canada sues Google over alleged anticompetitive practices in online ads</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/11/28/canada-sues-google-over-alleged-anticompetitive-practices-in-online-ads.webp</image:loc>
           </image:image>
         </url></urlset>
