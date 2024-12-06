@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/02/red-hat-ansible-service-comes-to-aws-marketplace/</loc>
+          <loc>https://majordigest.com/tech/2024/12/06/openai-releases-o1-llm-unveils-chatgpt-pro/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-02T18:52:39.000Z</news:publication_date>
-            <news:title>Red Hat Ansible Automation Platform Service Now Available on AWS Marketplace</news:title>
+            <news:publication_date>2024-12-06T21:47:56.000Z</news:publication_date>
+            <news:title>The Future of AI: OpenAI Unveils o1 Large Language Model</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/02/red-hat-ansible-service-comes-to-aws-marketplace.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/06/openai-releases-o1-llm-unveils-chatgpt-pro.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/06/trump-names-david-sacks-as-ai-crypto-czar/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-06T02:43:24.000Z</news:publication_date>
+            <news:title>Trump's Crypto Policy Announcement: What It Means for David Sacks</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/06/trump-names-david-sacks-as-ai-crypto-czar.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/06/why-the-one-ai-model-to-rule-them-all-myth-needs-to-die/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-06T01:00:00.000Z</news:publication_date>
+            <news:title>Amazon Debuts Nova Models: Emphasizing Choice in AI</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/06/why-the-one-ai-model-to-rule-them-all-myth-needs-to-die.webp</image:loc>
           </image:image>
         </url></urlset>
