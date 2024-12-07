@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/06/ally-financial-finds-gen-ai-success-with-3-guiding-principles/</loc>
+          <loc>https://majordigest.com/tech/2024/12/06/nearly-25-of-sap-ecc-customers-unsure-about-their-future/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-06T10:00:00.000Z</news:publication_date>
-            <news:title>Ally's Journey with Generative AI: Lessons Learned</news:title>
+            <news:publication_date>2024-12-06T09:30:00.000Z</news:publication_date>
+            <news:title>The Future of SAP Architectures: A Hazy Outlook for Many Organizations</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/06/ally-financial-finds-gen-ai-success-with-3-guiding-principles.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/06/nearly-25-of-sap-ecc-customers-unsure-about-their-future.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/06/michigan-democrats-move-to-protect-reproductive-health-data-before-gop-takes-control-of-house/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-06T05:03:09.000Z</news:publication_date>
+            <news:title>Michigan Democrats Push for Reproductive Health Legislation Amid Republican Takeover</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/06/michigan-democrats-move-to-protect-reproductive-health-data-before-gop-takes-control-of-house.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/05/berkeley-changes-zoning-to-encourage-growth-in-innovation-sector/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T20:00:11.000Z</news:publication_date>
+            <news:title>BERKELEY APPROVES ZONING CHANGES TO ATTRACT RESEARCH AND DEVELOPMENT COMPANIES</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/05/berkeley-changes-zoning-to-encourage-growth-in-innovation-sector.webp</image:loc>
           </image:image>
         </url></urlset>
