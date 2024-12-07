@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/05/elon-musk-john-thune-capitol/</loc>
+          <loc>https://majordigest.com/tech/2024/12/05/8-phishing-email-scams-watch-out-holiday-season/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-05T17:07:00.000Z</news:publication_date>
-            <news:title>Elon Musk and President-elect Trump: Separating Fact from Fiction</news:title>
+            <news:publication_date>2024-12-05T15:00:50.000Z</news:publication_date>
+            <news:title>Stay Safe Online: Tips to Avoid Phishing Scams During the Holiday Season</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/05/elon-musk-john-thune-capitol.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/05/8-phishing-email-scams-watch-out-holiday-season.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/04/aws-amplifies-developer-tools-with-new-gen-ai-features/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T12:33:42.000Z</news:publication_date>
+            <news:title>AWS Unveils Generative AI Tools at re:Invent Conference</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/04/aws-amplifies-developer-tools-with-new-gen-ai-features.webp</image:loc>
           </image:image>
         </url></urlset>
