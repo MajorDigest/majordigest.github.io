@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/politics/2024/12/08/incoming-missouri-state-lawmaker-introduces-bill-give-1k-anyone-who-turns-illegal-migrants/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-08T10:33:51.000Z</news:publication_date>
-            <news:title>Incoming Missouri state lawmaker introduces bill to give $1K to anyone who turns in illegal migrants</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/08/incoming-missouri-state-lawmaker-introduces-bill-give-1k-anyone-who-turns-illegal-migrants.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/politics/2024/12/08/lori-tahan-massachusetts-bomb-threat/</loc>
           <news:news>
             <news:publication>
@@ -28,6 +14,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/politics/2024/12/08/lori-tahan-massachusetts-bomb-threat.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/07/us-announces-nearly-1-billion-more-in-longer-term-weapons-support-for-ukraine/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-07T21:35:48.000Z</news:publication_date>
+            <news:title>US announces nearly $1 billion more in longer-term weapons support for Ukraine</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/07/us-announces-nearly-1-billion-more-in-longer-term-weapons-support-for-ukraine.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -59,6 +59,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/politics/2024/12/07/election-day-has-long-passed-in-some-states-legislatures-are-working-to-undermine-the-results/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-07T05:04:49.000Z</news:publication_date>
+            <news:title>Election Day has long passed. In some states, legislatures are working to undermine the results</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/07/election-day-has-long-passed-in-some-states-legislatures-are-working-to-undermine-the-results.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/politics/2024/12/07/the-dnc-chair-candidates-discuss-joe-biden-kamala-harris-and-winning-latino-voters/</loc>
           <news:news>
             <news:publication>
@@ -87,31 +101,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/07/mayoral-hopeful-michael-blake-discusses-vision-for-nyc/</loc>
+          <loc>https://majordigest.com/politics/2024/12/07/walz-says-he-was-a-little-surprised-by-election-loss/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-07T01:48:49.000Z</news:publication_date>
-            <news:title>Mayoral hopeful Michael Blake discusses vision for NYC</news:title>
+            <news:publication_date>2024-12-07T02:37:46.000Z</news:publication_date>
+            <news:title>Walz says he was 'a little surprised' by election loss</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/07/mayoral-hopeful-michael-blake-discusses-vision-for-nyc.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/07/walz-says-he-was-a-little-surprised-by-election-loss.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/07/congressman-torres-blasts-crime-in-nyc/</loc>
+          <loc>https://majordigest.com/politics/2024/12/07/nyc-mayor-will-not-completely-rule-out-switch-to-republican-party/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-07T01:43:11.000Z</news:publication_date>
-            <news:title>Congressman Torres blasts crime in NYC</news:title>
+            <news:publication_date>2024-12-07T01:17:45.000Z</news:publication_date>
+            <news:title>NYC mayor will not completely rule out switch to Republican Party</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/07/congressman-torres-blasts-crime-in-nyc.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/07/nyc-mayor-will-not-completely-rule-out-switch-to-republican-party.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/07/minneapolis-mayor-frey-poised-to-block-council-again-as-his-veto-use-continues-to-climb/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-07T00:26:00.000Z</news:publication_date>
+            <news:title>Minneapolis Mayor Frey poised to block council again as his veto use continues to climb</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/07/minneapolis-mayor-frey-poised-to-block-council-again-as-his-veto-use-continues-to-climb.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -129,20 +157,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/06/trump-taps-forceful-ally-of-hard-line-immigration-policies-to-head-customs-and-border-protection/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T23:52:01.000Z</news:publication_date>
-            <news:title>Trump taps forceful ally of hard-line immigration policies to head Customs and Border Protection</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/trump-taps-forceful-ally-of-hard-line-immigration-policies-to-head-customs-and-border-protection.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/politics/2024/12/06/military-leaders-are-rattled-by-a-list-of-woke-officers-that-a-group-urges-hegseth-to-fire/</loc>
           <news:news>
             <news:publication>
@@ -154,20 +168,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/politics/2024/12/06/military-leaders-are-rattled-by-a-list-of-woke-officers-that-a-group-urges-hegseth-to-fire.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/top-midwestern-university-becomes-latest-college-roll-back-dei-initiatives-trend-goes-national/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T21:50:26.000Z</news:publication_date>
-            <news:title>Top Midwestern university becomes latest college to roll back DEI initiatives as trend goes national</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/top-midwestern-university-becomes-latest-college-roll-back-dei-initiatives-trend-goes-national.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -185,118 +185,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/06/biden-is-considering-preemptive-pardons-for-officials-and-allies-before-trump-takes-office/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T20:42:52.000Z</news:publication_date>
-            <news:title>Biden is considering preemptive pardons for officials and allies before Trump takes office</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/biden-is-considering-preemptive-pardons-for-officials-and-allies-before-trump-takes-office.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/here-are-the-billionaires-stocking-trumps-next-administration/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T19:23:17.000Z</news:publication_date>
-            <news:title>Here are the billionaires stocking Trump&#8217;s next administration</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/here-are-the-billionaires-stocking-trumps-next-administration.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/the-first-rioter-tried-on-jan-6-charges-gets-reduced-prison-sentence-after-supreme-court-decision/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T17:53:14.000Z</news:publication_date>
-            <news:title>The first rioter tried on Jan. 6 charges gets reduced prison sentence after Supreme Court decision</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/the-first-rioter-tried-on-jan-6-charges-gets-reduced-prison-sentence-after-supreme-court-decision.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/ocasio-cortez-seeks-to-lead-democrats-on-oversight-panel/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T17:51:36.000Z</news:publication_date>
-            <news:title>Ocasio-Cortez seeks to lead Democrats on Oversight panel</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/ocasio-cortez-seeks-to-lead-democrats-on-oversight-panel.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/former-national-security-officials-urge-caution-on-gabbard/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T17:51:07.000Z</news:publication_date>
-            <news:title>Former national security officials urge caution on Gabbard</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/former-national-security-officials-urge-caution-on-gabbard.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/former-national-security-official-urge-caution-on-gabbard/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T17:02:56.000Z</news:publication_date>
-            <news:title>Former national security officials urge caution on Gabbard</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/former-national-security-official-urge-caution-on-gabbard.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/trump-is-set-to-receive-the-patriot-of-the-year-award-at-fox-nation-event/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T17:02:49.000Z</news:publication_date>
-            <news:title>Trump talks up his transition and election victory as he receives Fox Nation award</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/trump-is-set-to-receive-the-patriot-of-the-year-award-at-fox-nation-event.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/biden-lights-national-christmas-tree-for-last-time-as-president/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T15:57:55.000Z</news:publication_date>
-            <news:title>Biden lights National Christmas tree for last time as president</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/biden-lights-national-christmas-tree-for-last-time-as-president.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/politics/2024/12/06/npr-court-upholds-us-ban-on-tiktok/</loc>
           <news:news>
             <news:publication>
@@ -311,73 +199,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/06/melania-trump-says-heading-to-the-white-house-for-the-second-term-is-much-different-than-the-first/</loc>
+          <loc>https://majordigest.com/politics/2024/12/06/npr-rfk-vaccines-anti-vaccine-infectious-disease/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-06T15:43:54.000Z</news:publication_date>
-            <news:title>Melania Trump says heading to the White House for the second term is much different than the first</news:title>
+            <news:publication_date>2024-12-06T14:01:00.000Z</news:publication_date>
+            <news:title>How measles, whooping cough and worse could roar back on RFK Jr.&#8217;s watch</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/melania-trump-says-heading-to-the-white-house-for-the-second-term-is-much-different-than-the-first.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/elon-musk-funded-super-pac-comparing-trumps-position-abortion-ruth-bader-ginsburgs/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T15:20:00.000Z</news:publication_date>
-            <news:title>Elon Musk funded a super PAC comparing Trump&#8217;s position on abortion to Ruth Bader Ginsburg&#8217;s</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/elon-musk-funded-super-pac-comparing-trumps-position-abortion-ruth-bader-ginsburgs.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/minnesota-us-attorney-andy-luger-to-step-down-ahead-of-trump-transition/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T10:00:00.000Z</news:publication_date>
-            <news:title>Minnesota U.S. Attorney Andy Luger to step down ahead of Trump transition</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/minnesota-us-attorney-andy-luger-to-step-down-ahead-of-trump-transition.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/trump-picks-anthony-salisbury-as-deputy-homeland-security-advisor/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T06:33:41.000Z</news:publication_date>
-            <news:title>Trump picks Anthony Salisbury as deputy Homeland Security advisor</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/trump-picks-anthony-salisbury-as-deputy-homeland-security-advisor.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/06/trump-nominates-brandon-judd-as-ambassador-to-chile/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-06T06:27:14.000Z</news:publication_date>
-            <news:title>Trump nominates Brandon Judd as ambassador to Chile</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/06/trump-nominates-brandon-judd-as-ambassador-to-chile.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/06/npr-rfk-vaccines-anti-vaccine-infectious-disease.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -395,17 +227,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/05/hegseth-faces-senators-concerns-on-behavior-views-women-in-combat/</loc>
+          <loc>https://majordigest.com/politics/2024/12/05/nyc-plan-would-abolish-income-tax-for-certain-residents-see-if-you-qualify/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-05T19:35:00.000Z</news:publication_date>
-            <news:title>Hegseth faces senators' concerns not only about his behavior but also his views on women in combat</news:title>
+            <news:publication_date>2024-12-05T19:45:35.000Z</news:publication_date>
+            <news:title>NYC plan would abolish income tax for certain residents: See if you qualify</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/05/hegseth-faces-senators-concerns-on-behavior-views-women-in-combat.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/05/nyc-plan-would-abolish-income-tax-for-certain-residents-see-if-you-qualify.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -423,16 +255,170 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/03/ocasio-cortez-first-person-to-hit-a-million-followers-on-bluesky/</loc>
+          <loc>https://majordigest.com/politics/2024/12/05/missouris-abortion-ban-judge/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-03T14:33:11.000Z</news:publication_date>
-            <news:title>Ocasio-Cortez first person to hit a million followers on Bluesky</news:title>
+            <news:publication_date>2024-12-05T18:49:32.000Z</news:publication_date>
+            <news:title>Missouri abortion ban slated to lift Friday if judge allows</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/03/ocasio-cortez-first-person-to-hit-a-million-followers-on-bluesky.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/05/missouris-abortion-ban-judge.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/05/democratic-rep-boyle-biden-blanket-pardon/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T18:07:48.000Z</news:publication_date>
+            <news:title>Democratic rep pushes Biden to issue blanket pardon to those Patel could target</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/05/democratic-rep-boyle-biden-blanket-pardon.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/05/bidens-pardon-of-son-sparks-calls-for-granting-more-clemencies/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T12:56:08.000Z</news:publication_date>
+            <news:title>Biden&#8217;s pardon of son sparks calls for granting more clemencies</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/05/bidens-pardon-of-son-sparks-calls-for-granting-more-clemencies.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/05/supreme-court-leans-toward-upholding-tennessees-restrictions-on-gender-affirming-care/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T06:47:45.000Z</news:publication_date>
+            <news:title>Supreme Court leans toward upholding Tennessee's restrictions on gender-affirming care</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/05/supreme-court-leans-toward-upholding-tennessees-restrictions-on-gender-affirming-care.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/05/kevin-mccarthy-gaetz-lied-to-trump-before-ag-nomination/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T03:47:28.000Z</news:publication_date>
+            <news:title>Kevin McCarthy: Gaetz lied to Trump before AG nomination</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/05/kevin-mccarthy-gaetz-lied-to-trump-before-ag-nomination.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/05/bitcoin-tops-100000-on-optimism-over-trump-crypto-plans/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T03:06:54.000Z</news:publication_date>
+            <news:title>Bitcoin tops $100K on optimism over Trump crypto plans</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/05/bitcoin-tops-100000-on-optimism-over-trump-crypto-plans.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/05/steven-horsford-to-hand-off-role-as-chair-of-congressional-black-caucus/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T01:14:59.000Z</news:publication_date>
+            <news:title>Steven Horsford to hand off role as chair of Congressional Black Caucus</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/05/steven-horsford-to-hand-off-role-as-chair-of-congressional-black-caucus.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/04/minnesota-economic-forecast-will-set-fiscal-tone-at-newly-configured-state-capitol/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T10:00:00.000Z</news:publication_date>
+            <news:title>Minnesota budget update shows $1.1B less than prior forecast</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/04/minnesota-economic-forecast-will-set-fiscal-tone-at-newly-configured-state-capitol.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/04/leadership-teams-committee-assignments-set-for-2025-nevada-legislature/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-04T02:29:55.000Z</news:publication_date>
+            <news:title>Leadership teams, committee assignments set for 2025 Nevada Legislature</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/04/leadership-teams-committee-assignments-set-for-2025-nevada-legislature.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/03/senate-democrats-stick-with-schumer-as-leader/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T20:37:26.000Z</news:publication_date>
+            <news:title>Senate Democrats stick with Schumer as leader</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/03/senate-democrats-stick-with-schumer-as-leader.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/03/trump-appointments-set-off-special-elections-to-fill-house-seats-what-to-know/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-03T11:00:34.000Z</news:publication_date>
+            <news:title>Trump appointments set off special elections to fill House seats: What to know</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/03/trump-appointments-set-off-special-elections-to-fill-house-seats-what-to-know.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/02/npr-supreme-court-vaping/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-02T22:10:35.000Z</news:publication_date>
+            <news:title>At Supreme Court, vaping may be frowned upon, but that could change with Trump</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/02/npr-supreme-court-vaping.webp</image:loc>
           </image:image>
         </url></urlset>
