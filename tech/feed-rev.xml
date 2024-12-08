@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sun, 08 Dec 2024 07:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 08:13:13 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,24 +19,13 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Maximize Your Google Calendar Experience: Tips and Tricks</title>
-          <description><![CDATA[Discover how to unlock your Google Calendar app on Android devices with these expert tips and tricks.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/04/google-calendar-android-tips/</guid>
-          <link>https://majordigest.com/tech/2024/12/04/google-calendar-android-tips/</link>
-          <pubDate>Wed, 04 Dec 2024 10:45:00 GMT</pubDate>
+          <title>Java Development Kit (JDK) 24 Updates: Key Features and Proposals</title>
+          <description><![CDATA[Learn about the upcoming features in JDK 24, including Stream Gatherers, Vector API, Class-file API, and Late Barrier Expansion. Discover the latest proposals for Java development.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/06/jdk-24-the-new-features-in-java-24/</guid>
+          <link>https://majordigest.com/tech/2024/12/06/jdk-24-the-new-features-in-java-24/</link>
+          <pubDate>Fri, 06 Dec 2024 00:13:29 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/04/google-calendar-android-tips.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/04/google-calendar-android-tips.webp"/>
-          <dc:creator>Major Digest</dc:creator>
-        </item>
-        <item>
-          <title>Kotlin 2.1.0 Released: Guard Conditions, Compiler Updates, and More</title>
-          <description><![CDATA[JetBrains releases Kotlin 2.1.0 with guard conditions, compiler updates, and other improvements to the programming language.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/03/kotlin-previews-guard-conditions-in-when-expressions/</guid>
-          <link>https://majordigest.com/tech/2024/12/03/kotlin-previews-guard-conditions-in-when-expressions/</link>
-          <pubDate>Tue, 03 Dec 2024 21:34:17 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/03/kotlin-previews-guard-conditions-in-when-expressions.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/03/kotlin-previews-guard-conditions-in-when-expressions.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/06/jdk-24-the-new-features-in-java-24.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/06/jdk-24-the-new-features-in-java-24.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
