@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/08/North-Korean-hackers-target-South-Korea-with-internet-Explorer-vulnerabilities-to-deploy-RokRAT-malware/</loc>
+          <loc>https://majordigest.com/tech/2024/12/07/openai-announces-chatgpt-pro-priced-at-200-per-month/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-08T22:12:00.000Z</news:publication_date>
-            <news:title>North Korean Hackers Use Toast Pop-Up Ads to Deliver Zero-Click Malware</news:title>
+            <news:publication_date>2024-12-07T02:31:12.000Z</news:publication_date>
+            <news:title>OpenAI's $200 Monthly Pricing for ChatGPT Pro Raises Eyebrows</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/08/North-Korean-hackers-target-South-Korea-with-internet-Explorer-vulnerabilities-to-deploy-RokRAT-malware.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/07/openai-announces-chatgpt-pro-priced-at-200-per-month.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/06/you-com-founder-richard-sochers-plan-to-win-the-ai-search-wars/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-06T19:00:00.000Z</news:publication_date>
+            <news:title>Exclusive Interview: Richard Socher on Building the Next Big Search Engine</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/06/you-com-founder-richard-sochers-plan-to-win-the-ai-search-wars.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/05/google-ai-outperforms-weather-forecast/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T16:48:13.000Z</news:publication_date>
+            <news:title>Google's AI Agent Outperforms World's Best Weather Predictions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/05/google-ai-outperforms-weather-forecast.webp</image:loc>
           </image:image>
         </url></urlset>
