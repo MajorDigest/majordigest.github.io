@@ -3,16 +3,58 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/05/tmf-award-to-help-opm-modernize-cobol-code-via-ai/</loc>
+          <loc>https://majordigest.com/tech/2024/12/09/voltron-data-harnesses-ai-friendly-chips-for-big-data-crunching/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-05T19:12:01.000Z</news:publication_date>
-            <news:title>OPM to Modernize COBOL Code with the Help of Artificial Intelligence</news:title>
+            <news:publication_date>2024-12-09T17:00:00.000Z</news:publication_date>
+            <news:title>Revolutionizing Data Analytics with AI-Powered GPUs</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/05/tmf-award-to-help-opm-modernize-cobol-code-via-ai.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/09/voltron-data-harnesses-ai-friendly-chips-for-big-data-crunching.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/09/why-ai-is-best-for-experienced-developers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-09T09:00:00.000Z</news:publication_date>
+            <news:title>The Double-Edged Sword of Generative AI in Software Development: Balancing Productivity and Maintainability</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/09/why-ai-is-best-for-experienced-developers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/09/salesforce-opens-new-office-in-dubai-strengthening-ai-innovation-and-support-for-uae-growth/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-09T05:58:45.000Z</news:publication_date>
+            <news:title>Salesforce Expands into Dubai: A Strategic Move for MENA Region Growth</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/09/salesforce-opens-new-office-in-dubai-strengthening-ai-innovation-and-support-for-uae-growth.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/07/killing-of-unitedhealthcare-ceo-uncorks-anger-at-insurance-industry/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-07T01:37:29.000Z</news:publication_date>
+            <news:title>CEO of UnitedHealthcare Killed: Unpacking the Tensions Roiling American Life</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/07/killing-of-unitedhealthcare-ceo-uncorks-anger-at-insurance-industry.webp</image:loc>
           </image:image>
         </url></urlset>
