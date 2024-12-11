@@ -3,16 +3,58 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/09/apples-iphone-se-4-will-matter-very-much-indeed/</loc>
+          <loc>https://majordigest.com/tech/2024/12/11/flock-safety-license-plate-cameras-policing-surveillance/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-09T19:14:10.000Z</news:publication_date>
-            <news:title>The Upcoming iPhone SE 4: A Game-Changer for Apple?</news:title>
+            <news:publication_date>2024-12-11T18:00:00.000Z</news:publication_date>
+            <news:title>License Plate Recognition Technology: Benefits and Drawbacks for Law Enforcement</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/09/apples-iphone-se-4-will-matter-very-much-indeed.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/flock-safety-license-plate-cameras-policing-surveillance.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/11/browser-tab-tricks-windows/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-11T11:00:00.000Z</news:publication_date>
+            <news:title>Tips and Tricks for Mastering Browser Tabs</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/browser-tab-tricks-windows.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/11/finding-purpose-at-the-intersection-of-tech-and-transport/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-11T10:00:00.000Z</news:publication_date>
+            <news:title>Transport Department Executive Shares Vision for Technology-Driven Innovation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/finding-purpose-at-the-intersection-of-tech-and-transport.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/10/not-so-wicked-after-all-find-authenticity-in-the-era-of-ai/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-10T22:43:20.000Z</news:publication_date>
+            <news:title>Unlocking Human Creativity: The Wizard of Oz and the Power of AI</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/10/not-so-wicked-after-all-find-authenticity-in-the-era-of-ai.webp</image:loc>
           </image:image>
         </url></urlset>
