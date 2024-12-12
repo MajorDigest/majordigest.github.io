@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/aws-adds-graviton-savings-dashboard-to-help-enterprises-optimize-infra-costs/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/the-huawei-mate-x6-looks-like-a-huge-step-forward-for-foldable-phone-photography-and-im-annoyed-that-i-probably-wont-be-able-to-get-one/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T09:52:58.000Z</news:publication_date>
-            <news:title>AWS Launches Dashboard for Optimizing Graviton CPU Usage and Savings</news:title>
+            <news:publication_date>2024-12-12T17:27:01.000Z</news:publication_date>
+            <news:title>The Huawei Mate X6 Folding Phone: A Photography Powerhouse with Limited Availability</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/aws-adds-graviton-savings-dashboard-to-help-enterprises-optimize-infra-costs.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/the-huawei-mate-x6-looks-like-a-huge-step-forward-for-foldable-phone-photography-and-im-annoyed-that-i-probably-wont-be-able-to-get-one.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/11/about-best-places-to-work-in-it/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-11T05:51:41.000Z</news:publication_date>
+            <news:title>Best Places to Work in IT Program Details</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/about-best-places-to-work-in-it.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/10/cato-networks-brings-iot-ot-support-to-sase-platform/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-10T13:30:00.000Z</news:publication_date>
+            <news:title>Enterprise Organizations Embrace New Capabilities in Cato SASE Cloud Platform for Secure Internet of Things (IoT) and Operational Technology (OT)</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/10/cato-networks-brings-iot-ot-support-to-sase-platform.webp</image:loc>
           </image:image>
         </url></urlset>
