@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/politics/2024/12/12/house-passes-nearly-1-trillion-defense-spending-bill-adding-us-debt-36-trillion/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T02:58:58.000Z</news:publication_date>
+            <news:title>House passes nearly $1 trillion defense spending bill, adding to US debt of $36 trillion</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/12/house-passes-nearly-1-trillion-defense-spending-bill-adding-us-debt-36-trillion.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/politics/2024/12/11/person-accused-of-accosting-rep-nancy-mace-at-capitol-pleads-not-guilty-to-assault-charge/</loc>
           <news:news>
             <news:publication>
@@ -17,45 +31,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/11/house-voting-on-895b-defense-bill-with-military-pay-raise-ban-on-transgender-care-for-minors/</loc>
+          <loc>https://majordigest.com/politics/2024/12/11/garland-wray-integrity-skill-after-resignation-announcement/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T22:57:32.000Z</news:publication_date>
-            <news:title>House approves $895B defense bill with military pay raise, ban on transgender care for minors</news:title>
+            <news:publication_date>2024-12-11T23:39:15.000Z</news:publication_date>
+            <news:title>Garland lauds 'principled' Wray for 'integrity and skill' after resignation announcement</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/11/house-voting-on-895b-defense-bill-with-military-pay-raise-ban-on-transgender-care-for-minors.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/11/garland-wray-integrity-skill-after-resignation-announcement.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/11/marine-critic-afghan-withdrawal-enlistees-senate-visits-promoting-hegseth/</loc>
+          <loc>https://majordigest.com/politics/2024/12/11/lawmakers-edge-closer-to-deal-on-government-funding/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T22:43:20.000Z</news:publication_date>
-            <news:title>Marine critic of Afghan withdrawal to lead rank-and-file enlistees in Senate visits promoting Hegseth</news:title>
+            <news:publication_date>2024-12-11T23:22:49.000Z</news:publication_date>
+            <news:title>Lawmakers edge closer to deal on government funding</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/11/marine-critic-afghan-withdrawal-enlistees-senate-visits-promoting-hegseth.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/11/lawmakers-edge-closer-to-deal-on-government-funding.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/11/democratic-senators-urge-biden-to-act-on-temporary-protections-for-migrants/</loc>
+          <loc>https://majordigest.com/politics/2024/12/11/fox-news-politics-12-11-draft/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T22:42:36.000Z</news:publication_date>
-            <news:title>Democratic senators urge Biden to act on temporary protections for migrants</news:title>
+            <news:publication_date>2024-12-11T23:13:59.000Z</news:publication_date>
+            <news:title>Fox News Politics: Wray To Go</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/11/democratic-senators-urge-biden-to-act-on-temporary-protections-for-migrants.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/11/fox-news-politics-12-11-draft.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/11/mace-activist-dispute-handshake-that-resulted-in-arrest/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-11T22:25:38.000Z</news:publication_date>
+            <news:title>Mace, activist dispute handshake that resulted in arrest</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/11/mace-activist-dispute-handshake-that-resulted-in-arrest.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,31 +101,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/11/manchin-sinema-prevent-democrats-from-locking-in-majority-on-labor-board-through-2026/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T22:24:56.000Z</news:publication_date>
-            <news:title>Manchin, Sinema prevent Democrats from locking in majority on labor board through 2026</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/11/manchin-sinema-prevent-democrats-from-locking-in-majority-on-labor-board-through-2026.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/politics/2024/12/11/hegseth-meets-with-moderate-sen-collins-as-he-lobbies-for-key-votes-in-the-senate/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T21:12:22.000Z</news:publication_date>
+            <news:publication_date>2024-12-11T22:17:20.000Z</news:publication_date>
             <news:title>Hegseth meets with moderate Sen. Collins as he lobbies for key votes in the Senate</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/politics/2024/12/11/hegseth-meets-with-moderate-sen-collins-as-he-lobbies-for-key-votes-in-the-senate.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/11/new-poll-reveals-americans-think-trump-transition/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-11T22:03:47.000Z</news:publication_date>
+            <news:title>New poll reveals what Americans think of Trump's transition decisions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/11/new-poll-reveals-americans-think-trump-transition.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -112,6 +140,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/politics/2024/12/11/newsom-sets-special-election-dates-for-vacant-32nd-district-assembly-seat.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/11/new-trump-aligned-committee-chair-pledges-colonoscopy-state-department-spending/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-11T20:38:13.000Z</news:publication_date>
+            <news:title>New Trump-aligned committee chair pledges 'colonoscopy' of State Department spending</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/11/new-trump-aligned-committee-chair-pledges-colonoscopy-state-department-spending.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,101 +185,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/11/hakeem-jeffries-says-hes-prepared-find-common-ground-trump-next-year/</loc>
+          <loc>https://majordigest.com/politics/2024/12/11/us-inflation-likely-edged-up-last-month-though-not-enough-to-deter-another-fed-rate-cut/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T19:38:36.000Z</news:publication_date>
-            <news:title>Hakeem Jeffries says he's 'prepared to find common ground' with Trump next year</news:title>
+            <news:publication_date>2024-12-11T19:02:24.000Z</news:publication_date>
+            <news:title>US inflation ticked up last month as some price pressures remain persistent</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/11/hakeem-jeffries-says-hes-prepared-find-common-ground-trump-next-year.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/11/us-inflation-likely-edged-up-last-month-though-not-enough-to-deter-another-fed-rate-cut.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/11/anthony-fauci-trust-medical-information-survey/</loc>
+          <loc>https://majordigest.com/politics/2024/12/11/trump-justin-trudeau-canada/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T18:31:21.000Z</news:publication_date>
-            <news:title>Trump, team trail Fauci on trust as medical information source: Survey</news:title>
+            <news:publication_date>2024-12-11T18:00:13.000Z</news:publication_date>
+            <news:title>Trump trolls Trudeau as 'governor' of Canada</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/11/anthony-fauci-trust-medical-information-survey.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/11/trump-justin-trudeau-canada.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/11/cornyn-warns-hegseth-faces-unpleasant-confirmation-hearing/</loc>
+          <loc>https://majordigest.com/politics/2024/12/10/making-a-1b-investment-in-the-us-trump-pledges-expedited-permits-but-there-are-hurdles/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T17:43:50.000Z</news:publication_date>
-            <news:title>Cornyn warns Hegseth faces 'unpleasant' confirmation hearing</news:title>
+            <news:publication_date>2024-12-10T23:35:51.000Z</news:publication_date>
+            <news:title>Making a $1B investment in the US? Trump pledges expedited permits &#8212; but there are hurdles</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/11/cornyn-warns-hegseth-faces-unpleasant-confirmation-hearing.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/11/secretary-of-state-blinken-is-returning-to-the-mideast-in-his-latest-diplomatic-foray/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T13:18:04.000Z</news:publication_date>
-            <news:title>Secretary of State Blinken is returning to the Mideast in his latest diplomatic foray</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/11/secretary-of-state-blinken-is-returning-to-the-mideast-in-his-latest-diplomatic-foray.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/11/biden-approves-national-security-memo-aimed-at-helping-trump-on-china-iran-north-korea-and-russia/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T12:53:06.000Z</news:publication_date>
-            <news:title>Biden approves national security memo on China, Iran, North Korea and Russia ahead of Trump's return</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/11/biden-approves-national-security-memo-aimed-at-helping-trump-on-china-iran-north-korea-and-russia.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/11/gop-senators-say-they-wont-fight-trump-on-jan-6-pardons/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T12:07:09.000Z</news:publication_date>
-            <news:title>GOP senators say they won&#8217;t fight Trump on Jan. 6 pardons</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/11/gop-senators-say-they-wont-fight-trump-on-jan-6-pardons.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2024/12/10/florida-state-lawmaker-files-measure-eliminating-tuition-aid-for-undocumented-immigrants/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-10T23:13:48.000Z</news:publication_date>
-            <news:title>Florida state lawmaker files measure eliminating tuition aid for undocumented immigrants</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/10/florida-state-lawmaker-files-measure-eliminating-tuition-aid-for-undocumented-immigrants.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/10/making-a-1b-investment-in-the-us-trump-pledges-expedited-permits-but-there-are-hurdles.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -255,58 +241,184 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/10/mcconnell-receives-medical-attention-after-falling/</loc>
+          <loc>https://majordigest.com/politics/2024/12/10/james-comer-biden-pardon-brother-jim/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-10T20:06:17.000Z</news:publication_date>
-            <news:title>McConnell receives medical attention after falling</news:title>
+            <news:publication_date>2024-12-10T19:51:13.000Z</news:publication_date>
+            <news:title>James Comer predicts Biden will pardon his brother Jim</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/10/mcconnell-receives-medical-attention-after-falling.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/10/james-comer-biden-pardon-brother-jim.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/10/new-yorkers-could-receive-inflation-refund-payment-from-state-heres-how-much/</loc>
+          <loc>https://majordigest.com/politics/2024/12/10/pete-hegseth-tulsi-gabbard-capitol-hill-senate-support/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-10T19:19:22.000Z</news:publication_date>
-            <news:title>New Yorkers could receive 'inflation refund' check from state: Here's how much</news:title>
+            <news:publication_date>2024-12-10T13:23:15.000Z</news:publication_date>
+            <news:title>Pete Hegseth, Tulsi Gabbard on Capitol Hill to get Senate support</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/10/new-yorkers-could-receive-inflation-refund-payment-from-state-heres-how-much.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/10/pete-hegseth-tulsi-gabbard-capitol-hill-senate-support.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/10/florida-state-rep-susan-valdes-representing-parts-of-hillsborough-county-switches-political-parties/</loc>
+          <loc>https://majordigest.com/politics/2024/12/09/florida-state-rep-susan-valdes-representing-parts-of-hillsborough-county-switches-political-parties/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-10T15:33:16.000Z</news:publication_date>
+            <news:publication_date>2024-12-09T21:40:25.000Z</news:publication_date>
             <news:title>Florida State Rep. Susan Valdes, representing parts of Hillsborough County, switches political parties</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/10/florida-state-rep-susan-valdes-representing-parts-of-hillsborough-county-switches-political-parties.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/09/florida-state-rep-susan-valdes-representing-parts-of-hillsborough-county-switches-political-parties.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2024/12/10/heres-how-the-us-is-countering-the-islamic-state-group-during-syrias-upheaval/</loc>
+          <loc>https://majordigest.com/politics/2024/12/09/npr-alex-jones-infowars-auction-onion-bankruptcy/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-10T05:05:16.000Z</news:publication_date>
-            <news:title>Here's how the US is countering the Islamic State group during Syria's upheaval</news:title>
+            <news:publication_date>2024-12-09T19:31:20.000Z</news:publication_date>
+            <news:title>Bidders are back in court battling over the auction of Alex Jones' Infowars</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/politics/2024/12/10/heres-how-the-us-is-countering-the-islamic-state-group-during-syrias-upheaval.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/09/npr-alex-jones-infowars-auction-onion-bankruptcy.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/09/npr-supreme-court-boston-admissions/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-09T18:48:35.000Z</news:publication_date>
+            <news:title>Supreme Court rejects challenge to Boston's school admissions policy</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/09/npr-supreme-court-boston-admissions.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/09/social-security-beneficiaries-at-risk-of-delays-amid-gop-funding-fight/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-09T14:24:51.000Z</news:publication_date>
+            <news:title>Social Security beneficiaries at risk of delays amid GOP funding fight</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/09/social-security-beneficiaries-at-risk-of-delays-amid-gop-funding-fight.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/07/congressman-torres-blasts-crime-in-nyc/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-07T01:43:11.000Z</news:publication_date>
+            <news:title>Congressman Torres blasts crime in NYC</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/07/congressman-torres-blasts-crime-in-nyc.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/06/minneapolis-city-councils-budget-committee-reduces-proposed-property-tax-levy-for-2025/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-06T23:21:00.000Z</news:publication_date>
+            <news:title>Minneapolis City Council&#8217;s budget committee reduces proposed property tax levy for 2025</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/06/minneapolis-city-councils-budget-committee-reduces-proposed-property-tax-levy-for-2025.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/06/walz-says-he-was-a-little-surprised-by-election-loss/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-06T18:06:03.000Z</news:publication_date>
+            <news:title>Walz says he was 'a little surprised' by election loss</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/06/walz-says-he-was-a-little-surprised-by-election-loss.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/06/former-national-security-official-urge-caution-on-gabbard/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-06T17:01:16.000Z</news:publication_date>
+            <news:title>Former national security officials urge caution on Gabbard</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/06/former-national-security-official-urge-caution-on-gabbard.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/06/npr-trump-nominates-2-officials-immigration-enforcement-agencies/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-06T11:22:00.000Z</news:publication_date>
+            <news:title>Trump nominates Rodney Scott to lead Customs and Border Protection</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/06/npr-trump-nominates-2-officials-immigration-enforcement-agencies.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/05/talking-sense-coming-together-to-solve-tough-problems/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T16:09:00.000Z</news:publication_date>
+            <news:title>Talking Sense: Coming together to solve tough problems</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/05/talking-sense-coming-together-to-solve-tough-problems.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2024/12/05/npr-musk-ramaswamy-doge-congress/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-05T11:00:00.000Z</news:publication_date>
+            <news:title>Elon Musk and Vivek Ramaswamy are bringing Trump&#8217;s DOGE to Capitol Hill</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/politics/2024/12/05/npr-musk-ramaswamy-doge-congress.webp</image:loc>
           </image:image>
         </url></urlset>
