@@ -3,115 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/this-devious-new-malware-technique-looks-to-hijack-windows-itself-to-avoid-detection/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/nearly-half-of-us-teens-are-online-constantly-pew-report-finds/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T15:14:00.000Z</news:publication_date>
-            <news:title>This devious new malware technique looks to hijack Windows itself to avoid detection</news:title>
+            <news:publication_date>2024-12-12T17:48:25.000Z</news:publication_date>
+            <news:title>Nearly half of US teens are online 'constantly,' Pew report finds</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/this-devious-new-malware-technique-looks-to-hijack-windows-itself-to-avoid-detection.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/nearly-half-of-us-teens-are-online-constantly-pew-report-finds.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/amd-data-center-chips-vulnerable-to-revealing-data-through-badram-attack/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/aws-adds-graviton-savings-dashboard-to-help-enterprises-optimize-infra-costs/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T13:24:54.000Z</news:publication_date>
-            <news:title>AMD data center chips vulnerable to revealing data through &#8216;BadRAM&#8217; attack</news:title>
+            <news:publication_date>2024-12-12T09:52:58.000Z</news:publication_date>
+            <news:title>AWS Launches Dashboard for Optimizing Graviton CPU Usage and Savings</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/amd-data-center-chips-vulnerable-to-revealing-data-through-badram-attack.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/12/by-2028-30-of-fortune-500-companies-could-use-ai-only-service-channels/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-12T12:25:25.000Z</news:publication_date>
-            <news:title>AI-Driven Customer Service Revolutionizes Fortune 500 Industry by 2028</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/by-2028-30-of-fortune-500-companies-could-use-ai-only-service-channels.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/12/smart-cities-in-action-kazakhstans-carpet-cctv-project-sets-a-new-standard/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-12T12:02:16.000Z</news:publication_date>
-            <news:title>Smart cities in action: Kazakhstan&#8217;s Carpet CCTV project sets a new standard</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/smart-cities-in-action-kazakhstans-carpet-cctv-project-sets-a-new-standard.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/12/googles-ai-coding-entry-with-jules-signals-tougher-competition-in-coding-tools/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-12T10:32:59.000Z</news:publication_date>
-            <news:title>Google&#8217;s AI coding entry with Jules signals tougher competition in coding tools</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/googles-ai-coding-entry-with-jules-signals-tougher-competition-in-coding-tools.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/12/influencers-are-tagging-the-unitedhealthcare-ceo-murder-suspect-luigi-mangione-for-clout/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-12T05:53:01.000Z</news:publication_date>
-            <news:title>Influencers are tagging the UnitedHealthcare CEO murder suspect Luigi Mangione for clout</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/influencers-are-tagging-the-unitedhealthcare-ceo-murder-suspect-luigi-mangione-for-clout.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/11/meta-shareholders-seeking-sanctions-former-coo-sheryl-sandberg/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T00:09:40.000Z</news:publication_date>
-            <news:title>Why Meta shareholders are seeking sanctions for former COO Sheryl Sandberg</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/meta-shareholders-seeking-sanctions-former-coo-sheryl-sandberg.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/10/fortnite-players-tricked-into-unwanted-purchases-are-starting-to-get-refunds-heres-how-to-apply/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-10T23:30:54.000Z</news:publication_date>
-            <news:title>Fortnite players 'tricked' into unwanted purchases are starting to get refunds. Here's how to apply</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/10/fortnite-players-tricked-into-unwanted-purchases-are-starting-to-get-refunds-heres-how-to-apply.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/aws-adds-graviton-savings-dashboard-to-help-enterprises-optimize-infra-costs.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -129,6 +45,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/12/10/china-launches-anti-monopoly-probe-into-nvidia-amid-rising-us-china-chip-tensions/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-10T06:36:38.000Z</news:publication_date>
+            <news:title>China launches anti-monopoly probe into Nvidia amid rising US-China chip tensions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/10/china-launches-anti-monopoly-probe-into-nvidia-amid-rising-us-china-chip-tensions.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/10/nvidia-slides-after-china-says-its-probing-the-ai-chip-company-for-violating-anti-monopoly-laws/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-10T03:55:02.000Z</news:publication_date>
+            <news:title>Nvidia's stock dips after China opens probe of the AI chip company for violating anti-monopoly laws</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/10/nvidia-slides-after-china-says-its-probing-the-ai-chip-company-for-violating-anti-monopoly-laws.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/09/california-to-consider-requiring-mental-health-warnings-on-social-media-sites/</loc>
           <news:news>
             <news:publication>
@@ -140,20 +84,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/09/california-to-consider-requiring-mental-health-warnings-on-social-media-sites.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/07/iran-says-it-conducted-a-successful-space-launch-in-program-long-criticized-by-west/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-07T04:26:59.000Z</news:publication_date>
-            <news:title>IAEA chief: Iran is poised to 'quite dramatically' increase stockpile of near weapons-grade uranium</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/07/iran-says-it-conducted-a-successful-space-launch-in-program-long-criticized-by-west.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -171,17 +101,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/06/dont-scam-yourself-tricks-hackers-dont-want-me-share/</loc>
+          <loc>https://majordigest.com/tech/2024/12/06/two-senators-look-to-reign-in-big-techs-influence-in-defense-ai-cloud-contracts/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-06T20:07:30.000Z</news:publication_date>
-            <news:title>Don&#8217;t scam yourself with the tricks hackers don&#8217;t want me to share</news:title>
+            <news:publication_date>2024-12-06T22:20:02.000Z</news:publication_date>
+            <news:title>Two senators look to reign in big tech&#8217;s influence in defense AI, cloud contracts</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/06/dont-scam-yourself-tricks-hackers-dont-want-me-share.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/06/two-senators-look-to-reign-in-big-techs-influence-in-defense-ai-cloud-contracts.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -210,19 +140,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/05/ai-glasses-dementia-patients.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/05/from-outsider-to-the-oval-office-bitcoin-surges-as-a-new-administration-embraces-crypto/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-05T17:53:38.000Z</news:publication_date>
-            <news:title>From outsider to the Oval Office, bitcoin surges as a new administration embraces crypto</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/05/from-outsider-to-the-oval-office-bitcoin-surges-as-a-new-administration-embraces-crypto.webp</image:loc>
           </image:image>
         </url></urlset>
