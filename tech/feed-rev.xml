@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 12 Dec 2024 15:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 16:21:23 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Data Center Innovation: Microsoft Unveils Zero-Water-Evaporated Design for AI Workloads</title>
-          <description><![CDATA[Microsoft introduces a new design for data centers that optimizes artificial intelligence workloads and consumes zero water, aiming to reduce strain on local resources.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/11/microsoft-to-launch-zero-water-consumption-cooling-for-future-data-centers/</guid>
-          <link>https://majordigest.com/tech/2024/12/11/microsoft-to-launch-zero-water-consumption-cooling-for-future-data-centers/</link>
-          <pubDate>Wed, 11 Dec 2024 02:30:55 GMT</pubDate>
+          <title>The Gap Between Business Expectations and IT Reality: A Data Readiness Issue</title>
+          <description><![CDATA[A survey by Capital One highlights the disparity between business leader confidence and IT practitioner experiences in AI adoption due to data readiness issues.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/12/ai-data-readiness-c-suite-fantasy-big-it-problem/</guid>
+          <link>https://majordigest.com/tech/2024/12/12/ai-data-readiness-c-suite-fantasy-big-it-problem/</link>
+          <pubDate>Thu, 12 Dec 2024 10:01:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/11/microsoft-to-launch-zero-water-consumption-cooling-for-future-data-centers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/11/microsoft-to-launch-zero-water-consumption-cooling-for-future-data-centers.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/12/ai-data-readiness-c-suite-fantasy-big-it-problem.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/12/ai-data-readiness-c-suite-fantasy-big-it-problem.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Google-Backed Character.AI Faces Federal Lawsuit Over Alleged Harm to Minors</title>
+          <description><![CDATA[Google-backed Character.AI faces federal lawsuit over alleged harm to minors, including suicide, self-mutilation, and depression.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/12/character-ai-is-being-sued-for-encouraging-kids-to-self-harm/</guid>
+          <link>https://majordigest.com/tech/2024/12/12/character-ai-is-being-sued-for-encouraging-kids-to-self-harm/</link>
+          <pubDate>Thu, 12 Dec 2024 05:01:59 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/12/character-ai-is-being-sued-for-encouraging-kids-to-self-harm.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/12/character-ai-is-being-sued-for-encouraging-kids-to-self-harm.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>

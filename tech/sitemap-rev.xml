@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/11/microsoft-to-launch-zero-water-consumption-cooling-for-future-data-centers/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/ai-data-readiness-c-suite-fantasy-big-it-problem/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T02:30:55.000Z</news:publication_date>
-            <news:title>Data Center Innovation: Microsoft Unveils Zero-Water-Evaporated Design for AI Workloads</news:title>
+            <news:publication_date>2024-12-12T10:01:00.000Z</news:publication_date>
+            <news:title>The Gap Between Business Expectations and IT Reality: A Data Readiness Issue</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/microsoft-to-launch-zero-water-consumption-cooling-for-future-data-centers.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/ai-data-readiness-c-suite-fantasy-big-it-problem.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/character-ai-is-being-sued-for-encouraging-kids-to-self-harm/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T05:01:59.000Z</news:publication_date>
+            <news:title>Google-Backed Character.AI Faces Federal Lawsuit Over Alleged Harm to Minors</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/character-ai-is-being-sued-for-encouraging-kids-to-self-harm.webp</image:loc>
           </image:image>
         </url></urlset>
