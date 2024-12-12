@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 12 Dec 2024 20:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 21:22:58 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,35 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>DoorDash Cracks Down on Unauthorized Account Sharing</title>
-          <description><![CDATA[Delivery giant DoorDash takes steps to ensure its drivers operate legally, implementing real-time identity checks and advanced machine learning system to flag suspicious activity.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/12/doordash-steps-up-driver-id-checks-after-traffic-safety-complaints/</guid>
-          <link>https://majordigest.com/tech/2024/12/12/doordash-steps-up-driver-id-checks-after-traffic-safety-complaints/</link>
-          <pubDate>Thu, 12 Dec 2024 13:01:23 GMT</pubDate>
+          <title>Researchers Bypass AMD's Secure Encrypted Virtualization (SEV) with $10 Test Rig</title>
+          <description><![CDATA[AMD SEV bypassed using a cheap test rig and rogue memory module]]></description>
+          <guid>https://majordigest.com/tech/2024/12/12/amd-data-center-chips-vulnerable-to-revealing-data-through-badram-attack/</guid>
+          <link>https://majordigest.com/tech/2024/12/12/amd-data-center-chips-vulnerable-to-revealing-data-through-badram-attack/</link>
+          <pubDate>Thu, 12 Dec 2024 13:24:54 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/12/doordash-steps-up-driver-id-checks-after-traffic-safety-complaints.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/12/doordash-steps-up-driver-id-checks-after-traffic-safety-complaints.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/12/amd-data-center-chips-vulnerable-to-revealing-data-through-badram-attack.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/12/amd-data-center-chips-vulnerable-to-revealing-data-through-badram-attack.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Google Unveils Gemini 2.0: A New AI Model for the Agentic Era</title>
+          <description><![CDATA[Google introduces Gemini 2.0, a more capable AI model that enables the development of universal assistants, with advances in multimodality and native tool use.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/11/google-unveils-gemini-2-0-ai-model-for-agentic-era/</guid>
+          <link>https://majordigest.com/tech/2024/12/11/google-unveils-gemini-2-0-ai-model-for-agentic-era/</link>
+          <pubDate>Wed, 11 Dec 2024 20:27:33 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/11/google-unveils-gemini-2-0-ai-model-for-agentic-era.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/11/google-unveils-gemini-2-0-ai-model-for-agentic-era.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Holiday Shopping Hacks: 7 Tools to Save You Time and Money</title>
+          <description><![CDATA[Discover the top 7 holiday shopping hacks to save you time and money, from cash-back apps to discount tools, and more.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/11/7-must-have-apps-save-big-holiday-season/</guid>
+          <link>https://majordigest.com/tech/2024/12/11/7-must-have-apps-save-big-holiday-season/</link>
+          <pubDate>Wed, 11 Dec 2024 15:00:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/11/7-must-have-apps-save-big-holiday-season.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/11/7-must-have-apps-save-big-holiday-season.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
