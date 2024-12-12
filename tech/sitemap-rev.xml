@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/11/you-can-now-buy-a-new-car-on-amazon-as-long-as-its-a-hyundai/</loc>
+          <loc>https://majordigest.com/tech/2024/12/11/google-claims-quantum-leap-with-new-willow-chip/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T19:00:00.000Z</news:publication_date>
-            <news:title>Amazon Autos Launches in 48 US Cities, Revolutionizing Car Buying Experience</news:title>
+            <news:publication_date>2024-12-11T18:23:17.000Z</news:publication_date>
+            <news:title>Quantum Computing Breakthrough: Google's Willow Achieves Exponential Error Reduction and Computational Power</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/you-can-now-buy-a-new-car-on-amazon-as-long-as-its-a-hyundai.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/google-claims-quantum-leap-with-new-willow-chip.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/09/ibm-optical-chip-prototype-aims-to-speed-ai-computing-and-slash-data-center-energy-demands/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-09T19:38:24.000Z</news:publication_date>
+            <news:title>IBM Develops Optical Chips to Boost Data Center Performance</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/09/ibm-optical-chip-prototype-aims-to-speed-ai-computing-and-slash-data-center-energy-demands.webp</image:loc>
           </image:image>
         </url></urlset>

@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 12 Dec 2024 02:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 03:15:12 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Amazon Autos Launches in 48 US Cities, Revolutionizing Car Buying Experience</title>
-          <description><![CDATA[Amazon's new online platform allows customers to browse, purchase, and trade-in vehicles, making car buying more transparent and convenient.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/11/you-can-now-buy-a-new-car-on-amazon-as-long-as-its-a-hyundai/</guid>
-          <link>https://majordigest.com/tech/2024/12/11/you-can-now-buy-a-new-car-on-amazon-as-long-as-its-a-hyundai/</link>
-          <pubDate>Wed, 11 Dec 2024 19:00:00 GMT</pubDate>
+          <title>Quantum Computing Breakthrough: Google's Willow Achieves Exponential Error Reduction and Computational Power</title>
+          <description><![CDATA[Google's Quantum AI Lab achieves two crucial improvements with its new quantum chip, Willow, overcoming error correction challenges and demonstrating computational power for practical applications.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/11/google-claims-quantum-leap-with-new-willow-chip/</guid>
+          <link>https://majordigest.com/tech/2024/12/11/google-claims-quantum-leap-with-new-willow-chip/</link>
+          <pubDate>Wed, 11 Dec 2024 18:23:17 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/11/you-can-now-buy-a-new-car-on-amazon-as-long-as-its-a-hyundai.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/11/you-can-now-buy-a-new-car-on-amazon-as-long-as-its-a-hyundai.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/11/google-claims-quantum-leap-with-new-willow-chip.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/11/google-claims-quantum-leap-with-new-willow-chip.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>IBM Develops Optical Chips to Boost Data Center Performance</title>
+          <description><![CDATA[IBM researchers are working on co-packaged optics (CPO) technology to enhance data center performance, enabling better AI applications and lower energy costs.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/09/ibm-optical-chip-prototype-aims-to-speed-ai-computing-and-slash-data-center-energy-demands/</guid>
+          <link>https://majordigest.com/tech/2024/12/09/ibm-optical-chip-prototype-aims-to-speed-ai-computing-and-slash-data-center-energy-demands/</link>
+          <pubDate>Mon, 09 Dec 2024 19:38:24 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/09/ibm-optical-chip-prototype-aims-to-speed-ai-computing-and-slash-data-center-energy-demands.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/09/ibm-optical-chip-prototype-aims-to-speed-ai-computing-and-slash-data-center-energy-demands.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
