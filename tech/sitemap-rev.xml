@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/10/kylie-kelce-joe-rogan-podcasts-2024/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/google-says-its-next-data-centers-will-be-built-alongside-wind-and-solar-farms/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-10T19:10:00.000Z</news:publication_date>
-            <news:title>Kylie Kelce Podcast Tops Apple Music and Spotify Charts</news:title>
+            <news:publication_date>2024-12-12T05:04:10.000Z</news:publication_date>
+            <news:title>Google Powers Future Data Centers with Renewable Energy</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/10/kylie-kelce-joe-rogan-podcasts-2024.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/google-says-its-next-data-centers-will-be-built-alongside-wind-and-solar-farms.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/10/openai-expands-multi-modal-capabilities-with-updated-text-to-video-model/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-10T07:52:16.000Z</news:publication_date>
+            <news:title>Sora Turbo: OpenAI Expands Multimodal AI Reach with Faster Video Generation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/10/openai-expands-multi-modal-capabilities-with-updated-text-to-video-model.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/10/china-launches-anti-monopoly-probe-into-nvidia-amid-rising-us-china-chip-tensions/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-10T06:36:38.000Z</news:publication_date>
+            <news:title>Nvidia Faces Anti-Monopoly Probe in China Amid Tech and Trade Tensions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/10/china-launches-anti-monopoly-probe-into-nvidia-amid-rising-us-china-chip-tensions.webp</image:loc>
           </image:image>
         </url></urlset>
