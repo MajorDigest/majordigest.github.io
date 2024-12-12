@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/10/5g-never-delivered-for-cloud-computing/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/infoworlds-2024-technology-of-the-year-award-winners/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-10T09:00:00.000Z</news:publication_date>
-            <news:title>5G Fails to Deliver: The Overhyped Technology that's Holding Back Cloud Computing</news:title>
+            <news:publication_date>2024-12-12T09:00:00.000Z</news:publication_date>
+            <news:title>Judges Announced for InfoWorld Technology of the Year Awards</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/10/5g-never-delivered-for-cloud-computing.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/infoworlds-2024-technology-of-the-year-award-winners.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/11/rose-wang-says-bluesky-is-so-much-more-than-an-x-clone/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-11T17:00:00.000Z</news:publication_date>
+            <news:title>Bluesky's Vision for Social Media: A Subscription-Based Model and Community-Driven Approach</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/rose-wang-says-bluesky-is-so-much-more-than-an-x-clone.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/11/supreme-court-allows-investors-class-action-to-proceed-against-microchip-company-nvidia/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-11T15:23:30.000Z</news:publication_date>
+            <news:title>Nvidia Faces Class-Action Lawsuit Over Cryptocurrency Misrepresentation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/supreme-court-allows-investors-class-action-to-proceed-against-microchip-company-nvidia.webp</image:loc>
           </image:image>
         </url></urlset>
