@@ -3,13 +3,111 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/12/13/why-openai-sora-has-so-much-trouble-depicting-gymnasts/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-13T01:00:00.000Z</news:publication_date>
+            <news:title>Why OpenAI&#8217;s Sora has so much trouble depicting gymnasts</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/13/why-openai-sora-has-so-much-trouble-depicting-gymnasts.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/Cybercriminals-are-using-virtual-hard-drives-to-drop-RATs-in-phishing-attacks/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T20:14:00.000Z</news:publication_date>
+            <news:title>Virtual Hard Drives Abused in Phishing Campaigns: Experts Warn</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/Cybercriminals-are-using-virtual-hard-drives-to-drop-RATs-in-phishing-attacks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/sweden-gets-one-of-the-eus-seven-ai-factories/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T19:34:03.000Z</news:publication_date>
+            <news:title>The EU's AI Factory Initiative Takes Shape: Mimer Becomes One of Seven Selected Swedish AI Factories</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/sweden-gets-one-of-the-eus-seven-ai-factories.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/struggle-to-find-where-to-live-stream-your-favorite-sports-team-on-max-espn-plus-peacock-and-more-this-new-service-will-help/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T17:42:40.000Z</news:publication_date>
+            <news:title>Struggle to find where to live stream your favorite sports team on Max, ESPN Plus, Peacock and more? This new service will help</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/struggle-to-find-where-to-live-stream-your-favorite-sports-team-on-max-espn-plus-peacock-and-more-this-new-service-will-help.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/tiktok-doj-appeals-ban-law/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T15:20:00.000Z</news:publication_date>
+            <news:title>TikTok's Bid to Block US Ban Rejected by DOJ: What's Next?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/tiktok-doj-appeals-ban-law.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/meta-donates-1m-trump-inaugural-fund/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T14:53:08.000Z</news:publication_date>
+            <news:title>Meta donated $1M to Trump inaugural fund after Zuckerberg met with president-elect</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/meta-donates-1m-trump-inaugural-fund.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/meta-donates-1-million-to-trumps-inauguration-fund/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T14:47:59.000Z</news:publication_date>
+            <news:title>Meta Donates $1 Million to President-elect Trump's Inauguration Fund</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/meta-donates-1-million-to-trumps-inauguration-fund.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/12/doordash-steps-up-driver-id-checks-after-traffic-safety-complaints/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T21:05:36.000Z</news:publication_date>
+            <news:publication_date>2024-12-12T13:01:23.000Z</news:publication_date>
             <news:title>DoorDash steps up driver ID checks after traffic safety complaints</news:title>
           </news:news>
           <image:image>
@@ -17,31 +115,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/ancient-genes-pinpoint-when-humans-and-neanderthals-mixed-and-mingled/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/4-key-ai-risks-to-address-when-contracting-services-or-products/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T19:09:03.000Z</news:publication_date>
-            <news:title>Fossil Record Reveals 45,000-Year-Old Mating Between Neanderthals and Humans</news:title>
+            <news:publication_date>2024-12-12T12:00:00.000Z</news:publication_date>
+            <news:title>4 key AI risks to address when contracting services or products</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/ancient-genes-pinpoint-when-humans-and-neanderthals-mixed-and-mingled.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/4-key-ai-risks-to-address-when-contracting-services-or-products.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/nearly-half-of-us-teens-are-online-constantly-pew-report-finds/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/from-surveillance-to-safety-how-kazakhstans-carpet-cctv-is-reshaping-security/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T17:48:25.000Z</news:publication_date>
-            <news:title>Nearly half of US teens are online 'constantly,' Pew report finds</news:title>
+            <news:publication_date>2024-12-12T11:57:16.000Z</news:publication_date>
+            <news:title>From surveillance to safety: How Kazakhstan&#8217;s Carpet CCTV is reshaping security</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/nearly-half-of-us-teens-are-online-constantly-pew-report-finds.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/from-surveillance-to-safety-how-kazakhstans-carpet-cctv-is-reshaping-security.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -59,17 +157,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/influencers-are-tagging-the-unitedhealthcare-ceo-murder-suspect-luigi-mangione-for-clout/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/googles-ai-coding-entry-with-jules-signals-tougher-competition-in-coding-tools/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T05:53:01.000Z</news:publication_date>
-            <news:title>Murder Case Sparks National Conversation</news:title>
+            <news:publication_date>2024-12-12T10:32:59.000Z</news:publication_date>
+            <news:title>Google&#8217;s AI coding entry with Jules signals tougher competition in coding tools</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/influencers-are-tagging-the-unitedhealthcare-ceo-murder-suspect-luigi-mangione-for-clout.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/googles-ai-coding-entry-with-jules-signals-tougher-competition-in-coding-tools.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/el-talento-tecnologico-despunta-en-los-cio-100-awards-spain-2024/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T10:13:12.000Z</news:publication_date>
+            <news:title>El talento tecnol&#243;gico despunta en los CIO 100 Awards Spain 2024</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/el-talento-tecnologico-despunta-en-los-cio-100-awards-spain-2024.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/cio-mark-settle-on-what-makes-a-winning-it-battle-plan/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T09:30:00.000Z</news:publication_date>
+            <news:title>CIO Mark Settle on what makes a winning IT battle plan</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/cio-mark-settle-on-what-makes-a-winning-it-battle-plan.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/azure-hardware-innovations-and-the-serverless-cloud-future/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T09:00:00.000Z</news:publication_date>
+            <news:title>Azure hardware innovations and the serverless cloud future</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/azure-hardware-innovations-and-the-serverless-cloud-future.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/us-hikes-tariffs-on-imports-of-chinese-solar-wafers-polysilicon-and-tungsten-products/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T04:39:20.000Z</news:publication_date>
+            <news:title>US hikes tariffs on imports of Chinese solar wafers, polysilicon and tungsten products</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/us-hikes-tariffs-on-imports-of-chinese-solar-wafers-polysilicon-and-tungsten-products.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -87,45 +241,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/11/tiktoks-canada-unit-wants-court-review-of-shut-down-order/</loc>
+          <loc>https://majordigest.com/tech/2024/12/11/federal-judge-slaps-down-automattic-granting-temporary-injunction-to-wp-engine-in-ongoing-wordpress-squabble/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T22:54:07.000Z</news:publication_date>
-            <news:title>TikTok&#8217;s Canada unit wants court review of shut-down order</news:title>
+            <news:publication_date>2024-12-11T21:21:33.000Z</news:publication_date>
+            <news:title>Federal judge slaps down Automattic, granting temporary injunction to WP Engine in ongoing WordPress squabble</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/tiktoks-canada-unit-wants-court-review-of-shut-down-order.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/federal-judge-slaps-down-automattic-granting-temporary-injunction-to-wp-engine-in-ongoing-wordpress-squabble.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/11/dozens-of-lawmakers-victims-of-sexually-explicit-deepfakes-report/</loc>
+          <loc>https://majordigest.com/tech/2024/12/11/mozilla-is-removing-firefoxs-anti-tracking-function/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T20:46:32.000Z</news:publication_date>
-            <news:title>Female Lawmakers Targeted in Alarming Rate by Deepfake Pornography: Report Reveals 26 Lawmakers Affected</news:title>
+            <news:publication_date>2024-12-11T19:53:25.000Z</news:publication_date>
+            <news:title>Mozilla is removing Firefox&#8217;s anti-tracking function</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/dozens-of-lawmakers-victims-of-sexually-explicit-deepfakes-report.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/mozilla-is-removing-firefoxs-anti-tracking-function.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/11/google-claims-breakthrough-with-willow-quantum-computing-chip-but-no-real-world-use-yet/</loc>
+          <loc>https://majordigest.com/tech/2024/12/11/artificial-intelligence-military/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T18:56:01.000Z</news:publication_date>
-            <news:title>Google claims breakthrough with Willow quantum computing chip but no real-world use yet</news:title>
+            <news:publication_date>2024-12-11T18:23:32.000Z</news:publication_date>
+            <news:title>Pentagon announces new AI office as it looks to deploy autonomous weapons</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/google-claims-breakthrough-with-willow-quantum-computing-chip-but-no-real-world-use-yet.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/artificial-intelligence-military.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,31 +297,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/11/judge-rejects-infowars-sale-onion/</loc>
+          <loc>https://majordigest.com/tech/2024/12/11/ai-in-the-workplace-is-forcing-younger-tech-workers-to-rethink-their-career-paths/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T15:37:22.000Z</news:publication_date>
-            <news:title>Federal bankruptcy judge rules against sale of Alex Jones Infowars to The Onion</news:title>
+            <news:publication_date>2024-12-11T11:00:00.000Z</news:publication_date>
+            <news:title>AI in the workplace is forcing younger tech workers to rethink their career paths</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/judge-rejects-infowars-sale-onion.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/ai-in-the-workplace-is-forcing-younger-tech-workers-to-rethink-their-career-paths.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/11/microsoft-to-launch-zero-water-consumption-cooling-for-future-data-centers/</loc>
+          <loc>https://majordigest.com/tech/2024/12/11/opensilver-3-1-brings-xaml-designer-for-vs-code/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T02:30:55.000Z</news:publication_date>
-            <news:title>Microsoft to launch zero water consumption cooling for future data centers</news:title>
+            <news:publication_date>2024-12-11T09:00:00.000Z</news:publication_date>
+            <news:title>OpenSilver 3.1 brings XAML designer for VS Code</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/microsoft-to-launch-zero-water-consumption-cooling-for-future-data-centers.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/opensilver-3-1-brings-xaml-designer-for-vs-code.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -185,45 +339,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/10/how-delete-multiple-emails-once-iphone/</loc>
+          <loc>https://majordigest.com/tech/2024/12/10/california-to-consider-requiring-mental-health-warnings-on-social-media-sites-2/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-10T11:00:23.000Z</news:publication_date>
-            <news:title>How to delete multiple emails at once on iPhone</news:title>
+            <news:publication_date>2024-12-10T19:15:40.000Z</news:publication_date>
+            <news:title>Bay Area lawmaker introduces bill requiring mental health warnings on social media sites</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/10/how-delete-multiple-emails-once-iphone.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/10/california-to-consider-requiring-mental-health-warnings-on-social-media-sites-2.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/10/total-quality-logistics-building-talent-destination-through-employee-engagement/</loc>
+          <loc>https://majordigest.com/tech/2024/12/10/boosting-cyprus-defense-is-key-so-close-to-the-war-wracked-mideast-defense-minister-says/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-10T11:00:00.000Z</news:publication_date>
-            <news:title>Total Quality Logistics: Building a &#8216;talent destination&#8217; through employee engagement</news:title>
+            <news:publication_date>2024-12-10T16:52:44.000Z</news:publication_date>
+            <news:title>Boosting Cyprus' defense is key so close to the war-wracked Mideast, defense minister says</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/10/total-quality-logistics-building-talent-destination-through-employee-engagement.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/10/boosting-cyprus-defense-is-key-so-close-to-the-war-wracked-mideast-defense-minister-says.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/10/how-to-build-better-ai-chatbots/</loc>
+          <loc>https://majordigest.com/tech/2024/12/10/att-to-eliminate-landlines-by-2029/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-10T09:00:00.000Z</news:publication_date>
-            <news:title>How to build better AI chatbots</news:title>
+            <news:publication_date>2024-12-10T14:13:22.000Z</news:publication_date>
+            <news:title>AT&#38;T to eliminate landlines by 2029</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/10/how-to-build-better-ai-chatbots.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/10/att-to-eliminate-landlines-by-2029.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -269,17 +423,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/07/iran-says-it-conducted-a-successful-space-launch-in-program-long-criticized-by-west/</loc>
+          <loc>https://majordigest.com/tech/2024/12/07/struggling-hear-tv-dialogue-try-simple-fixes/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-07T04:26:59.000Z</news:publication_date>
-            <news:title>IAEA chief: Iran is poised to 'quite dramatically' increase stockpile of near weapons-grade uranium</news:title>
+            <news:publication_date>2024-12-07T15:00:36.000Z</news:publication_date>
+            <news:title>Struggling to hear TV dialogue? Try these simple fixes</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/07/iran-says-it-conducted-a-successful-space-launch-in-program-long-criticized-by-west.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/07/struggling-hear-tv-dialogue-try-simple-fixes.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/07/federal-appeals-court-upholds-law-requiring-sale-or-ban-of-tiktok-in-the-u-s/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-07T01:06:01.000Z</news:publication_date>
+            <news:title>Federal appeals court upholds law requiring sale or ban of TikTok in the US</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/07/federal-appeals-court-upholds-law-requiring-sale-or-ban-of-tiktok-in-the-u-s.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -308,19 +476,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/06/chinas-ban-on-key-high-tech-materials-could-have-broad-impact-on-industries-economy.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/05/telework-it-modernization-emerge-as-early-doge-targets/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-05T23:43:47.000Z</news:publication_date>
-            <news:title>Telework, IT modernization emerge as early DOGE targets</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/05/telework-it-modernization-emerge-as-early-doge-targets.webp</image:loc>
           </image:image>
         </url></urlset>
