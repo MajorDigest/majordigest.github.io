@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/12/13/pew-teens-social-media/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-13T19:00:51.000Z</news:publication_date>
+            <news:title>Teenagers' Online Habits: A Look at Social Media Use and Mental Health Concerns</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/13/pew-teens-social-media.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/13/gpt-is-far-likelier-than-other-ai-models-to-surface-questionable-quotes-by-public-figures-our-data-analysis-shows/</loc>
           <news:news>
             <news:publication>
@@ -31,17 +45,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/13/feds-propose-protection-for-giant-salamanders-devastated-by-hurricane-helene/</loc>
+          <loc>https://majordigest.com/tech/2024/12/13/googles-agentspace-will-put-ai-agents-in-the-hands-of-workers/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T17:26:36.000Z</news:publication_date>
-            <news:title>Feds propose protection for giant salamanders devastated by Hurricane Helene</news:title>
+            <news:publication_date>2024-12-13T15:30:00.000Z</news:publication_date>
+            <news:title>Google&#8217;s Agentspace will put AI agents in the hands of workers</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/feds-propose-protection-for-giant-salamanders-devastated-by-hurricane-helene.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/13/googles-agentspace-will-put-ai-agents-in-the-hands-of-workers.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -52,122 +66,80 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-12-13T15:28:50.000Z</news:publication_date>
-            <news:title>Data and AI Talent: A National Security Imperative</news:title>
+            <news:title>The race for data and AI expertise in government</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/13/the-race-for-data-and-ai-expertise-in-government.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/13/heading-north-for-the-winter-prepare-your-ev-with-these-tips/</loc>
+          <loc>https://majordigest.com/tech/2024/12/13/elon-musk-sec-probe-twitter/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T12:18:33.000Z</news:publication_date>
-            <news:title>Heading north for the winter? Prepare your EV with these tips</news:title>
+            <news:publication_date>2024-12-13T15:10:41.000Z</news:publication_date>
+            <news:title>Musk knocks SEC over settlement offer in probe</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/heading-north-for-the-winter-prepare-your-ev-with-these-tips.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/13/elon-musk-sec-probe-twitter.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/13/microsoft-introduces-phi-4-an-ai-model-for-advanced-reasoning-tasks/</loc>
+          <loc>https://majordigest.com/tech/2024/12/13/us-updates-a-science-and-technology-pact-with-china-to-reflect-growing-rivalry-and-security-threats/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T10:26:40.000Z</news:publication_date>
-            <news:title>Microsoft introduces Phi-4, an AI model for advanced reasoning tasks</news:title>
+            <news:publication_date>2024-12-13T13:01:44.000Z</news:publication_date>
+            <news:title>US-China Science Agreement Updated Amid Rivalry</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/microsoft-introduces-phi-4-an-ai-model-for-advanced-reasoning-tasks.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/13/us-updates-a-science-and-technology-pact-with-china-to-reflect-growing-rivalry-and-security-threats.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/13/what-is-data-science-a-method-for-turning-data-into-value/</loc>
+          <loc>https://majordigest.com/tech/2024/12/13/new-zealand-scientists-suspect-specimen-of-worlds-rarest-whale-died-from-head-injuries/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T10:00:00.000Z</news:publication_date>
-            <news:title>What is data science? Transforming data into value</news:title>
+            <news:publication_date>2024-12-13T07:43:41.000Z</news:publication_date>
+            <news:title>New Zealand scientists suspect specimen of world's rarest whale died from head injuries</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/what-is-data-science-a-method-for-turning-data-into-value.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/13/new-zealand-scientists-suspect-specimen-of-worlds-rarest-whale-died-from-head-injuries.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/13/the-python-ai-library-hack-that-didnt-hack-python/</loc>
+          <loc>https://majordigest.com/tech/2024/12/13/apple-ipo-44-anniversary-invested-1000-shares-worth-today/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T09:00:00.000Z</news:publication_date>
-            <news:title>Python: The Fastest-Growing and Most Popular Language of 2024</news:title>
+            <news:publication_date>2024-12-13T05:00:00.000Z</news:publication_date>
+            <news:title>If you invested in Apple&#8217;s IPO 44 years ago, here&#8217;s what your shares would be worth today</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/the-python-ai-library-hack-that-didnt-hack-python.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/13/apple-ipo-44-anniversary-invested-1000-shares-worth-today.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/13/microsoft-net-community-toolkit-backs-partial-properties/</loc>
+          <loc>https://majordigest.com/tech/2024/12/13/trump-backs-dockworkers-union-preparing-to-strike-over-automation/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T09:00:00.000Z</news:publication_date>
-            <news:title>Microsoft .NET Community Toolkit backs partial properties</news:title>
+            <news:publication_date>2024-12-13T03:15:36.000Z</news:publication_date>
+            <news:title>Trump backs dockworkers' union preparing to strike over automation</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/microsoft-net-community-toolkit-backs-partial-properties.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/13/addressing-tech-skills-shortages-through-australias-correctional-facilities/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-13T03:44:53.000Z</news:publication_date>
-            <news:title>Addressing tech skills shortages through Australia&#8217;s correctional facilities</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/addressing-tech-skills-shortages-through-australias-correctional-facilities.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/13/san-jose-sjsu-announce-collaboration-with-nvidia-to-further-workforce-development-ai-innovation/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-13T00:21:44.000Z</news:publication_date>
-            <news:title>San Jose, SJSU announce collaboration with NVIDIA to further workforce development, AI innovation</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/san-jose-sjsu-announce-collaboration-with-nvidia-to-further-workforce-development-ai-innovation.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/12/dockworkers-union-automated-systems/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-12T23:57:27.000Z</news:publication_date>
-            <news:title>Trump offers support for dockworkers union by saying ports shouldn&#8217;t install more automated systems</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/dockworkers-union-automated-systems.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/13/trump-backs-dockworkers-union-preparing-to-strike-over-automation.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -185,157 +157,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/donald-trump-jeff-bezos-meeting/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/sweden-gets-one-of-the-eus-seven-ai-factories/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T15:25:31.000Z</news:publication_date>
-            <news:title>Trump says he's meeting with Bezos next week</news:title>
+            <news:publication_date>2024-12-12T19:34:03.000Z</news:publication_date>
+            <news:title>Sweden gets one of the EU&#8217;s seven AI factories</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/donald-trump-jeff-bezos-meeting.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/sweden-gets-one-of-the-eus-seven-ai-factories.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/how-keep-your-holiday-shopping-secret-amazon/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/gsa-closes-in-on-enterprisewide-software-deal-with-microsoft/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T15:00:16.000Z</news:publication_date>
-            <news:title>How to keep your holiday shopping a secret on Amazon</news:title>
+            <news:publication_date>2024-12-12T14:29:12.000Z</news:publication_date>
+            <news:title>GSA closes in on enterprisewide software deal with Microsoft</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/how-keep-your-holiday-shopping-secret-amazon.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/gsa-closes-in-on-enterprisewide-software-deal-with-microsoft.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/meta-donates-1m-trump-inaugural-fund/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/character-ai-is-being-sued-for-encouraging-kids-to-self-harm/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T14:53:08.000Z</news:publication_date>
-            <news:title>Meta donated $1M to Trump inaugural fund after Zuckerberg met with president-elect</news:title>
+            <news:publication_date>2024-12-12T05:01:59.000Z</news:publication_date>
+            <news:title>Character.AI is being sued for encouraging kids to self-harm</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/meta-donates-1m-trump-inaugural-fund.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/character-ai-is-being-sued-for-encouraging-kids-to-self-harm.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/raja-krishnamoorthi-drone-sightings-military-bases-china/</loc>
+          <loc>https://majordigest.com/tech/2024/12/11/browser-tab-tricks-windows/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T13:13:35.000Z</news:publication_date>
-            <news:title>Democratic rep sees &#8216;nontrivial chance&#8217; China using drones in US</news:title>
+            <news:publication_date>2024-12-11T11:00:00.000Z</news:publication_date>
+            <news:title>8 brilliant browser tab tricks for Windows power users</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/raja-krishnamoorthi-drone-sightings-military-bases-china.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/12/googles-ai-coding-entry-with-jules-signals-tougher-competition-in-coding-tools/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-12T10:32:59.000Z</news:publication_date>
-            <news:title>Google&#8217;s AI coding entry with Jules signals tougher competition in coding tools</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/googles-ai-coding-entry-with-jules-signals-tougher-competition-in-coding-tools.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/12/infoworlds-2024-technology-of-the-year-award-winners/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-12T09:00:00.000Z</news:publication_date>
-            <news:title>InfoWorld&#8217;s 2024 Technology of the Year Award winners</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/infoworlds-2024-technology-of-the-year-award-winners.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/12/luigi-mangione-unitedhealthcare-social-media-clues/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-12T03:40:00.000Z</news:publication_date>
-            <news:title>How social media unspooled Luigi Mangione&#8217;s life after UnitedHealthcare CEO&#8217;s murder</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/luigi-mangione-unitedhealthcare-social-media-clues.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/11/google-launches-gemini-2-0-ai-models-and-showcases-their-powers-in-new-agents/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T23:54:14.000Z</news:publication_date>
-            <news:title>Google Unveils Second Generation of Gemini Frontier Models</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/google-launches-gemini-2-0-ai-models-and-showcases-their-powers-in-new-agents.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/11/dozens-of-lawmakers-victims-of-sexually-explicit-deepfakes-report/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T20:46:32.000Z</news:publication_date>
-            <news:title>Dozens of lawmakers victims of sexually explicit deepfakes: Report</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/dozens-of-lawmakers-victims-of-sexually-explicit-deepfakes-report.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/11/apple-intelligence-arrives-for-the-uk-australia-canada-new-zealand-with-ios-18-2/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T17:05:11.000Z</news:publication_date>
-            <news:title>Apple Intelligence arrives for the UK, Australia, Canada, New Zealand with iOS 18.2</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/apple-intelligence-arrives-for-the-uk-australia-canada-new-zealand-with-ios-18-2.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/11/office-365-a-guide-to-the-updates/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T08:43:00.000Z</news:publication_date>
-            <news:title>Microsoft 365: A guide to the updates</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/office-365-a-guide-to-the-updates.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/browser-tab-tricks-windows.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -353,62 +227,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/11/about-best-places-to-work-in-it/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T05:51:41.000Z</news:publication_date>
-            <news:title>About the Best Places to Work in IT</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/about-best-places-to-work-in-it.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/11/go-eclipses-node-js-in-web-api-requests-cloudflare-reports/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T02:41:20.000Z</news:publication_date>
-            <news:title>Go eclipses Node.js in web API requests, Cloudflare reports</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/go-eclipses-node-js-in-web-api-requests-cloudflare-reports.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/10/fortnite-players-tricked-into-unwanted-purchases-are-starting-to-get-refunds-heres-how-to-apply/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-10T23:30:54.000Z</news:publication_date>
-            <news:title>Fortnite players 'tricked' into unwanted purchases are starting to get refunds. Here's how to apply</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/10/fortnite-players-tricked-into-unwanted-purchases-are-starting-to-get-refunds-heres-how-to-apply.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/10/setapp-survey-reveals-what-mac-developers-are-thinking-about-right-now/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-10T17:05:00.000Z</news:publication_date>
-            <news:title>Setapp survey reveals what Mac developers are thinking about right now</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/10/setapp-survey-reveals-what-mac-developers-are-thinking-about-right-now.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/12/10/cato-networks-brings-iot-ot-support-to-sase-platform/</loc>
           <news:news>
             <news:publication>
@@ -420,20 +238,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/10/cato-networks-brings-iot-ot-support-to-sase-platform.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/10/china-launches-anti-monopoly-probe-into-nvidia-amid-rising-us-china-chip-tensions/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-10T06:36:38.000Z</news:publication_date>
-            <news:title>China launches anti-monopoly probe into Nvidia amid rising US-China chip tensions</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/10/china-launches-anti-monopoly-probe-into-nvidia-amid-rising-us-china-chip-tensions.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -451,16 +255,16 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/09/extreme-looks-to-tame-complexity-with-ai-powered-platform-for-network-and-security-management/</loc>
+          <loc>https://majordigest.com/tech/2024/12/06/dont-scam-yourself-tricks-hackers-dont-want-me-share/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-09T22:02:59.000Z</news:publication_date>
-            <news:title>Extreme looks to tame complexity with AI-powered platform for network and security management</news:title>
+            <news:publication_date>2024-12-06T20:07:30.000Z</news:publication_date>
+            <news:title>Don&#8217;t scam yourself with the tricks hackers don&#8217;t want me to share</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/09/extreme-looks-to-tame-complexity-with-ai-powered-platform-for-network-and-security-management.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/06/dont-scam-yourself-tricks-hackers-dont-want-me-share.webp</image:loc>
           </image:image>
         </url></urlset>
