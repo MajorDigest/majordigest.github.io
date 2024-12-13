@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/13/metaphor-refantazio-dragon-age-astro-bot-and-an-indie-wave-lead-the-top-ap-video-games-of-2024/</loc>
+          <loc>https://majordigest.com/tech/2024/12/13/microsoft-net-community-toolkit-backs-partial-properties/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T16:08:26.000Z</news:publication_date>
-            <news:title>The Top 10 Games of 2024: A Year of Revival and Innovation</news:title>
+            <news:publication_date>2024-12-13T09:00:00.000Z</news:publication_date>
+            <news:title>.NET Community Toolkit 8.4: Unlocking New Features and Improvements</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/metaphor-refantazio-dragon-age-astro-bot-and-an-indie-wave-lead-the-top-ap-video-games-of-2024.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/13/microsoft-net-community-toolkit-backs-partial-properties.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/11/federal-judge-slaps-down-automattic-granting-temporary-injunction-to-wp-engine-in-ongoing-wordpress-squabble/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-11T21:21:33.000Z</news:publication_date>
+            <news:title>WP Engine Wins Preliminary Injunction Against Automattic, But Open Source Community Loses</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/federal-judge-slaps-down-automattic-granting-temporary-injunction-to-wp-engine-in-ongoing-wordpress-squabble.webp</image:loc>
           </image:image>
         </url></urlset>
