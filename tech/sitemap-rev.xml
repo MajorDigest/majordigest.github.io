@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/14/meta-wants-threads-to-be-more-like-bluesky-again/</loc>
+          <loc>https://majordigest.com/tech/2024/12/16/as-schools-cut-back-on-bus-service-parents-are-turning-to-rideshare-apps/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-14T00:03:55.000Z</news:publication_date>
-            <news:title>The Copycat Conundrum: How Threads is Mimicking Bluesky's Success</news:title>
+            <news:publication_date>2024-12-16T05:11:00.000Z</news:publication_date>
+            <news:title>A New Way to Carpool: Filling the Void Left by Waning School Bus Service</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/14/meta-wants-threads-to-be-more-like-bluesky-again.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/as-schools-cut-back-on-bus-service-parents-are-turning-to-rideshare-apps.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/14/lawmakers-tell-apple-google-to-prepare-for-tiktok-ban/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-14T13:56:50.000Z</news:publication_date>
+            <news:title>TikTok Ban Looms: Apple and Google Told to Remove App</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/14/lawmakers-tell-apple-google-to-prepare-for-tiktok-ban.webp</image:loc>
           </image:image>
         </url></urlset>
