@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/sports/2024/12/17/byu-excited-to-face-heisman-winner-travis-hunter/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-17T02:05:00.000Z</news:publication_date>
+            <news:title>BYU excited to face Heisman winner Travis Hunter</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/sports/2024/12/17/byu-excited-to-face-heisman-winner-travis-hunter.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/sports/2024/12/17/norfolk-state-interviews-michael-vick-to-be-its-football-coach-according-to-report/</loc>
           <news:news>
             <news:publication>
@@ -14,48 +28,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/sports/2024/12/17/norfolk-state-interviews-michael-vick-to-be-its-football-coach-according-to-report.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/sports/2024/12/16/wake-forests-dave-clawson-steps-down-as-football-coach-after-11-seasons/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-16T23:27:05.000Z</news:publication_date>
-            <news:title>Wake Forest's Dave Clawson steps down as football coach after 11 seasons</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/16/wake-forests-dave-clawson-steps-down-as-football-coach-after-11-seasons.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/sports/2024/12/16/white-sox-offseason-roadmap-how-the-club-could-return-to-being-average/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-16T23:10:41.000Z</news:publication_date>
-            <news:title>White Sox offseason roadmap: How the club could return to being average</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/16/white-sox-offseason-roadmap-how-the-club-could-return-to-being-average.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/sports/2024/12/16/the-bucks-thunder-nba-cup-final-will-have-a-lot-of-money-at-stake/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-16T22:53:56.000Z</news:publication_date>
-            <news:title>The Bucks-Thunder NBA Cup final will have a lot of money at stake</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/16/the-bucks-thunder-nba-cup-final-will-have-a-lot-of-money-at-stake.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,101 +45,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/sports/2024/12/16/detroit-lions-lose-montgomery-mcneill-dorsey-for-the-season-as-injuries-sap-super-bowl-hopes/</loc>
+          <loc>https://majordigest.com/sports/2024/12/16/notre-dame-jumps-to-3rd-in-ap-top-25-womens-poll-after-win-over-uconn-ucla-south-carolina-1-2/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T21:15:56.000Z</news:publication_date>
-            <news:title>Detroit Lions lose Montgomery, McNeill, Dorsey for the season as injuries sap Super Bowl hopes</news:title>
+            <news:publication_date>2024-12-16T22:27:52.000Z</news:publication_date>
+            <news:title>Cal women back in AP Top 25 for first time since 2019</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/16/detroit-lions-lose-montgomery-mcneill-dorsey-for-the-season-as-injuries-sap-super-bowl-hopes.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/sports/2024/12/16/notre-dame-jumps-to-3rd-in-ap-top-25-womens-poll-after-win-over-uconn-ucla-south-carolina-1-2.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/sports/2024/12/16/bears-at-vikings-preview-injury-updates-a-look-into-recent-matchups-and-more/</loc>
+          <loc>https://majordigest.com/sports/2024/12/16/sharks-looking-to-improve-portfolio-in-nhl-stock-market-as-league-leading-jets-travel-to-san-jose/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T18:35:51.000Z</news:publication_date>
-            <news:title>Bears at Vikings preview: Injury updates, a look into recent matchups, and more</news:title>
+            <news:publication_date>2024-12-16T22:22:15.000Z</news:publication_date>
+            <news:title>Sharks look to improve portfolio in NHL &#8216;stock market&#8217; as league-leading Jets visit San Jose</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/16/bears-at-vikings-preview-injury-updates-a-look-into-recent-matchups-and-more.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/sports/2024/12/16/sharks-looking-to-improve-portfolio-in-nhl-stock-market-as-league-leading-jets-travel-to-san-jose.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/sports/2024/12/16/lakers-announce-that-lebron-james-is-available-against-grizzlies-after-2-game-absence/</loc>
+          <loc>https://majordigest.com/sports/2024/12/16/franklin-lobbies-for-transfer-portal-changes-as-penn-state-loses-pribula-during-playoff-run/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T16:09:53.000Z</news:publication_date>
-            <news:title>LeBron James returns to score 18 in Lakers' win vs Grizzlies after missing 2 games with foot injury</news:title>
+            <news:publication_date>2024-12-16T22:15:47.000Z</news:publication_date>
+            <news:title>Franklin lobbies for transfer portal changes as Penn State loses Pribula during playoff run</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/16/lakers-announce-that-lebron-james-is-available-against-grizzlies-after-2-game-absence.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/sports/2024/12/16/franklin-lobbies-for-transfer-portal-changes-as-penn-state-loses-pribula-during-playoff-run.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/sports/2024/12/16/fsu-coach-mike-norvell-agrees-to-restructured-contract-that-gives-45m-to-a-fundraising-campaign/</loc>
+          <loc>https://majordigest.com/sports/2024/12/16/dolphins-grant-dubose-has-movement-in-extremities-after-scary-hit-to-the-head-vs-texans/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T15:17:05.000Z</news:publication_date>
-            <news:title>Florida State's Norvell agrees to restructured contract that gives $4.5M to fundraising campaign</news:title>
+            <news:publication_date>2024-12-16T16:03:06.000Z</news:publication_date>
+            <news:title>Dolphins' Grant DuBose has movement in extremities after scary hit to the head vs. Texans</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/16/fsu-coach-mike-norvell-agrees-to-restructured-contract-that-gives-45m-to-a-fundraising-campaign.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/sports/2024/12/16/dolphins-grant-dubose-has-movement-in-extremities-after-scary-hit-to-the-head-vs-texans.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/sports/2024/12/16/texans-calen-bullock-talks-scary-play-left-dolphins-grant-dubose-hospitalized/</loc>
+          <loc>https://majordigest.com/sports/2024/12/15/josh-frost-world-champion-bull-rider/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T14:46:33.000Z</news:publication_date>
-            <news:title>Texans' Calen Bullock talks scary play that left Dolphins' Grant DuBose hospitalized</news:title>
+            <news:publication_date>2024-12-15T18:13:43.000Z</news:publication_date>
+            <news:title>3 Utah cowboys earn world champion titles at 2024 National Finals Rodeo</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/16/texans-calen-bullock-talks-scary-play-left-dolphins-grant-dubose-hospitalized.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/sports/2024/12/16/caitlin-clarks-brother-seemingly-responds-mystics-owners-slight-sisters-time-cover/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-16T12:13:09.000Z</news:publication_date>
-            <news:title>Caitlin Clark's brother seemingly responds to Mystics owner's slight of sister's Time cover</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/16/caitlin-clarks-brother-seemingly-responds-mystics-owners-slight-sisters-time-cover.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/sports/2024/12/15/mara-gets-another-aerial-message-to-thrash-the-giants-before-game-against-the-ravens/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-15T23:50:15.000Z</news:publication_date>
-            <news:title>Giants owner John Mara gets another aerial message trashing his team before loss to Ravens</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/15/mara-gets-another-aerial-message-to-thrash-the-giants-before-game-against-the-ravens.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/sports/2024/12/15/josh-frost-world-champion-bull-rider.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -185,72 +129,72 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/sports/2024/12/13/dick-vitale-says-hes-cancer-free-after-4-bouts-with-disease-in-just-over-3-years/</loc>
+          <loc>https://majordigest.com/sports/2024/12/14/chicago-blackhawks-recall-top-prospect-frank-nazar-from-the-minors/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T11:44:11.000Z</news:publication_date>
-            <news:title>Dick Vitale says he's cancer-free after 4 bouts with disease in just over 3 years</news:title>
+            <news:publication_date>2024-12-14T13:35:35.000Z</news:publication_date>
+            <news:title>Chicago Blackhawks recall top prospect Frank Nazar from the minors</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/13/dick-vitale-says-hes-cancer-free-after-4-bouts-with-disease-in-just-over-3-years.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/sports/2024/12/14/chicago-blackhawks-recall-top-prospect-frank-nazar-from-the-minors.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/sports/2024/12/12/pro-athletes-burglaries-epidemic-security-expert/</loc>
+          <loc>https://majordigest.com/sports/2024/12/13/game-worn-wilt-chamberlain-lakers-jersey-sells-for-333k-at-auction/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T18:51:55.000Z</news:publication_date>
-            <news:title>Burglaries targeting professional athletes 'epidemic': Security expert</news:title>
+            <news:publication_date>2024-12-13T21:37:41.000Z</news:publication_date>
+            <news:title>Game-worn Wilt Chamberlain Lakers jersey sells for $333K at auction</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/12/pro-athletes-burglaries-epidemic-security-expert.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/sports/2024/12/13/game-worn-wilt-chamberlain-lakers-jersey-sells-for-333k-at-auction.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/sports/2024/12/11/utah-hc-loses-to-minnesota-in-shootout-5-4/</loc>
+          <loc>https://majordigest.com/sports/2024/12/13/tampa-bay-rays-and-catcher-danny-jansen-finalize-8-5-million-1-year-contract/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-11T05:12:00.000Z</news:publication_date>
-            <news:title>Utah HC loses to Minnesota in shootout, 5-4</news:title>
+            <news:publication_date>2024-12-13T20:20:39.000Z</news:publication_date>
+            <news:title>Tampa Bay Rays and catcher Danny Jansen finalize $8.5 million, 1-year contract</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/11/utah-hc-loses-to-minnesota-in-shootout-5-4.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/sports/2024/12/13/tampa-bay-rays-and-catcher-danny-jansen-finalize-8-5-million-1-year-contract.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/sports/2024/12/10/robbie-gould-announced-as-head-football-coach-at-saint-viator-hs/</loc>
+          <loc>https://majordigest.com/sports/2024/12/13/utah-shuts-down-colorado-for-fifth-straight-road-victory/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-10T22:59:08.000Z</news:publication_date>
-            <news:title>Robbie Gould announced as head football coach at Saint Viator High School</news:title>
+            <news:publication_date>2024-12-13T04:51:57.000Z</news:publication_date>
+            <news:title>Utah shuts down Colorado for fifth straight road victory</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/10/robbie-gould-announced-as-head-football-coach-at-saint-viator-hs.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/sports/2024/12/13/utah-shuts-down-colorado-for-fifth-straight-road-victory.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/sports/2024/12/10/miamis-ward-oregons-gabriel-colorados-hunter-boise-states-jeanty-are-named-heisman-finalists/</loc>
+          <loc>https://majordigest.com/sports/2024/12/13/san-diego-fc-completes-2024-mls-expansion-draft-here-is-who-they-selected/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-10T12:27:45.000Z</news:publication_date>
-            <news:title>Miami's Ward, Oregon's Gabriel, Colorado's Hunter, Boise State&#8217;s Jeanty, are named Heisman finalists</news:title>
+            <news:publication_date>2024-12-13T01:32:56.000Z</news:publication_date>
+            <news:title>San Diego FC completes 2024 MLS Expansion Draft. Here is who they selected</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/sports/2024/12/10/miamis-ward-oregons-gabriel-colorados-hunter-boise-states-jeanty-are-named-heisman-finalists.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/sports/2024/12/13/san-diego-fc-completes-2024-mls-expansion-draft-here-is-who-they-selected.webp</image:loc>
           </image:image>
         </url></urlset>
