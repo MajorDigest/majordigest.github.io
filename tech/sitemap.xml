@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/tiktok-asks-supreme-court-block-u-s-ban/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-17T21:47:00.000Z</news:publication_date>
-            <news:title>TikTok Seeks Supreme Court Intervention in US Ban Dispute - Emergency Appeal Filed</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/tiktok-asks-supreme-court-block-u-s-ban.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/12/17/japanese-tech-giant-softbank-investing-over-100-billion-u-s-heres-why/</loc>
           <news:news>
             <news:publication>
@@ -24,24 +10,94 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-12-17T21:19:54.000Z</news:publication_date>
-            <news:title>SoftBank Invests $100 Billion in US Projects Under Trump Presidency</news:title>
+            <news:title>Japanese tech giant SoftBank is investing over $100 billion in the U.S. Here&#8217;s why</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/17/japanese-tech-giant-softbank-investing-over-100-billion-u-s-heres-why.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/uh-oh-zotac-just-leaked-nvidias-next-gen-launch-line-up-including-rtx-5090-gpu-with-32gb-of-vram/</loc>
+          <loc>https://majordigest.com/tech/2024/12/17/6-ways-ai-can-designers-work-better-and-faster/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T15:00:51.000Z</news:publication_date>
-            <news:title>Uh oh... Zotac just leaked Nvidia&#8217;s next-gen launch line-up, including RTX 5090 GPU with 32GB of VRAM</news:title>
+            <news:publication_date>2024-12-17T19:00:00.000Z</news:publication_date>
+            <news:title>6 Ways AI Can Help You Be a Better UX Designer</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/uh-oh-zotac-just-leaked-nvidias-next-gen-launch-line-up-including-rtx-5090-gpu-with-32gb-of-vram.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/6-ways-ai-can-designers-work-better-and-faster.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/17/its-the-end-of-the-internet-as-we-know-it-and-i-feel-fine/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-17T18:00:00.000Z</news:publication_date>
+            <news:title>It&#8217;s the end of the internet as we know it&#8212;and I feel fine</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/its-the-end-of-the-internet-as-we-know-it-and-i-feel-fine.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/17/want-to-ditch-microsoft-teams-skype-is-still-here-and-just-made-a-significant-change/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-17T16:00:00.000Z</news:publication_date>
+            <news:title>Microsoft Axes Skype Credit and Phone Number Sales to Push Subscriptions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/want-to-ditch-microsoft-teams-skype-is-still-here-and-just-made-a-significant-change.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/17/schneider-electric-shares-energy-efficient-data-center-designs/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-17T15:45:23.000Z</news:publication_date>
+            <news:title>Schneider Electric shares energy-efficient data center designs</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/schneider-electric-shares-energy-efficient-data-center-designs.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/17/steps-protect-yourself-while-shopping-your-phone-holiday-season/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-17T15:00:14.000Z</news:publication_date>
+            <news:title>Holiday Shopping Scams: Protect Yourself from Mobile Fraud</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/steps-protect-yourself-while-shopping-your-phone-holiday-season.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/17/next-era-to-build-phillips-66-solar-project/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-17T14:50:02.000Z</news:publication_date>
+            <news:title>Phillips 66 to build 88-acre solar project on Contra Costa County site</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/next-era-to-build-phillips-66-solar-project.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -52,7 +108,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-12-17T13:14:35.000Z</news:publication_date>
-            <news:title>TikTok Under EU Scrutiny Over Election Interference</news:title>
+            <news:title>EU investigates TikTok over Romanian presidential election safeguards</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/17/tiktok-being-investigated-after-suspected-meddling-in-romanias-presidential-election.webp</image:loc>
@@ -87,101 +143,101 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/the-point-and-shoot-is-back-panasonic-launches-new-lumix-out-of-the-blue-with-iphone-trouncing-30x-optical-zoom/</loc>
+          <loc>https://majordigest.com/tech/2024/12/17/rtx-5060-rumor-suggests-itll-have-8gb-vram-and-im-starting-to-wonder-if-nvidia-has-lost-the-plot-with-next-gen-gpus/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T11:08:58.000Z</news:publication_date>
-            <news:title>The point-and-shoot is back: Panasonic launches new Lumix out of the blue, with iPhone-trouncing 30x optical zoom</news:title>
+            <news:publication_date>2024-12-17T11:00:14.000Z</news:publication_date>
+            <news:title>RTX 5060 rumor suggests it&#8217;ll have 8GB VRAM and I&#8217;m starting to wonder if Nvidia has lost the plot with next-gen GPUs</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/the-point-and-shoot-is-back-panasonic-launches-new-lumix-out-of-the-blue-with-iphone-trouncing-30x-optical-zoom.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/rtx-5060-rumor-suggests-itll-have-8gb-vram-and-im-starting-to-wonder-if-nvidia-has-lost-the-plot-with-next-gen-gpus.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/10-steps-to-turn-a-failed-project-into-an-opportunity/</loc>
+          <loc>https://majordigest.com/tech/2024/12/16/artificial-intelligence-danger-eric-schmidt/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T10:00:00.000Z</news:publication_date>
-            <news:title>10 steps to turn a failed project into an opportunity</news:title>
+            <news:publication_date>2024-12-16T16:11:41.000Z</news:publication_date>
+            <news:title>Former Google CEO: A time will come to consider 'unplugging' AI system</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/10-steps-to-turn-a-failed-project-into-an-opportunity.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/artificial-intelligence-danger-eric-schmidt.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/smarter-devops-how-to-avoid-deployment-horrors/</loc>
+          <loc>https://majordigest.com/tech/2024/12/16/6-sneaky-scams-could-ruin-your-holiday-season/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T09:00:00.000Z</news:publication_date>
-            <news:title>Smarter devops: How to avoid deployment horrors</news:title>
+            <news:publication_date>2024-12-16T15:00:37.000Z</news:publication_date>
+            <news:title>6 sneaky scams that could ruin your holiday season</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/smarter-devops-how-to-avoid-deployment-horrors.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/6-sneaky-scams-could-ruin-your-holiday-season.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/16/elon-musk-x-democrats-2024/</loc>
+          <loc>https://majordigest.com/tech/2024/12/16/comptia-introduces-foundational-tech-certification/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T15:52:40.000Z</news:publication_date>
-            <news:title>Harris campaign aide accuses Musk of throttling content before election</news:title>
+            <news:publication_date>2024-12-16T14:26:10.000Z</news:publication_date>
+            <news:title>CompTIA introduces foundational tech certification</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/16/elon-musk-x-democrats-2024.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/comptia-introduces-foundational-tech-certification.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/16/how-to-upgrade-to-the-hyte-y70-pc-case/</loc>
+          <loc>https://majordigest.com/tech/2024/12/16/google-microsoft-could-turn-gatekeepers-for-advanced-ai-chips/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T13:00:12.000Z</news:publication_date>
-            <news:title>How to upgrade to the Hyte Y70 PC case to give your parts more breathing room</news:title>
+            <news:publication_date>2024-12-16T11:14:12.000Z</news:publication_date>
+            <news:title>Google, Microsoft could turn gatekeepers for advanced AI chips</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/16/how-to-upgrade-to-the-hyte-y70-pc-case.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/google-microsoft-could-turn-gatekeepers-for-advanced-ai-chips.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/16/what-tech-teams-need-to-know-about-webassembly/</loc>
+          <loc>https://majordigest.com/tech/2024/12/16/10-quantum-computing-milestones-of-2024/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-16T11:00:00.000Z</news:publication_date>
+            <news:title>10 quantum computing milestones of 2024</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/10-quantum-computing-milestones-of-2024.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/16/weaponizing-genai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-12-16T09:00:00.000Z</news:publication_date>
-            <news:title>What tech teams need to know about WebAssembly</news:title>
+            <news:title>Weaponizing generative AI</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/16/what-tech-teams-need-to-know-about-webassembly.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/15/why-thrive-capitals-vince-hankes-is-betting-big-on-openai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-15T19:00:00.000Z</news:publication_date>
-            <news:title>Why Thrive Capital&#8217;s Vince Hankes is betting big on OpenAI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/15/why-thrive-capitals-vince-hankes-is-betting-big-on-openai.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/weaponizing-genai.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -213,45 +269,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/14/how-to-use-chatgpt-iphone-ipad-mac-apple-intelligence-siri-productivity/</loc>
+          <loc>https://majordigest.com/tech/2024/12/14/if-congress-wont-regulate-ai-scott-wiener-believes-california-must/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-14T18:00:00.000Z</news:publication_date>
-            <news:title>Apple just brought ChatGPT to iPhones, iPads, and Macs. Here&#8217;s how to make the most of it</news:title>
+            <news:publication_date>2024-12-14T19:00:00.000Z</news:publication_date>
+            <news:title>If Congress won&#8217;t regulate AI, Scott Wiener believes California must</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/14/how-to-use-chatgpt-iphone-ipad-mac-apple-intelligence-siri-productivity.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/14/if-congress-wont-regulate-ai-scott-wiener-believes-california-must.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/14/your-phone-got-hacked-now-someones-got-control-it-what-do-immediately/</loc>
+          <loc>https://majordigest.com/tech/2024/12/14/chinese-phone-hack-victims-report/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-14T11:00:24.000Z</news:publication_date>
-            <news:title>Your phone got hacked and now someone's got control of it. What to do immediately</news:title>
+            <news:publication_date>2024-12-14T04:49:03.000Z</news:publication_date>
+            <news:title>Chinese phone hack victims haven't been notified: Report</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/14/your-phone-got-hacked-now-someones-got-control-it-what-do-immediately.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/14/chinese-phone-hack-victims-report.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/14/court-blocks-tiktok-ban-delay/</loc>
+          <loc>https://majordigest.com/tech/2024/12/14/trump-hosts-apple-ceo-at-mar-a-lago-as-big-tech-leaders-continue-outreach-to-president-elect/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-14T02:54:07.000Z</news:publication_date>
-            <news:title>Federal appeals court blocks push to delay January TikTok ban</news:title>
+            <news:publication_date>2024-12-14T01:57:26.000Z</news:publication_date>
+            <news:title>Trump hosts Apple CEO at Mar-a-Lago as big tech leaders continue outreach to president-elect</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/14/court-blocks-tiktok-ban-delay.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/14/trump-hosts-apple-ceo-at-mar-a-lago-as-big-tech-leaders-continue-outreach-to-president-elect.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -269,45 +325,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/13/warning-paypal-scam-everywhere-right-now/</loc>
+          <loc>https://majordigest.com/tech/2024/12/13/groups-urge-trump-to-reinforce-national-cyber-director-role/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T20:05:25.000Z</news:publication_date>
-            <news:title>Warning: This fake PayPal email scam is everywhere right now</news:title>
+            <news:publication_date>2024-12-13T22:01:15.000Z</news:publication_date>
+            <news:title>Groups urge Trump to reinforce National Cyber Director role</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/warning-paypal-scam-everywhere-right-now.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/13/groups-urge-trump-to-reinforce-national-cyber-director-role.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/13/notebooklm-plus-is-now-available-to-google-workspace-customers/</loc>
+          <loc>https://majordigest.com/tech/2024/12/13/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T18:16:00.000Z</news:publication_date>
-            <news:title>New Google NotebookLM AI Assistant Now Available to Workspace Customers</news:title>
+            <news:publication_date>2024-12-13T21:01:08.000Z</news:publication_date>
+            <news:title>Microsoft&#8217;s Patch Tuesday updates: Keeping up with the latest fixes</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/notebooklm-plus-is-now-available-to-google-workspace-customers.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/13/sophia-a-famous-robot-and-global-icon-of-ai-wins-hearts-at-zimbabwes-innovation-fair/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-13T17:37:52.000Z</news:publication_date>
-            <news:title>Sophia, a famous robot and global icon of AI, wins hearts at Zimbabwe's innovation fair</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/sophia-a-famous-robot-and-global-icon-of-ai-wins-hearts-at-zimbabwes-innovation-fair.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/13/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -325,76 +367,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/doordash-steps-up-driver-id-checks-after-traffic-safety-complaints/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-12T21:05:36.000Z</news:publication_date>
-            <news:title>DoorDash steps up driver ID checks after traffic safety complaints</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/doordash-steps-up-driver-id-checks-after-traffic-safety-complaints.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/12/amd-data-center-chips-vulnerable-to-revealing-data-through-badram-attack/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-12T13:24:54.000Z</news:publication_date>
-            <news:title>AMD data center chips vulnerable to revealing data through &#8216;BadRAM&#8217; attack</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/amd-data-center-chips-vulnerable-to-revealing-data-through-badram-attack.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/12/from-surveillance-to-safety-how-kazakhstans-carpet-cctv-is-reshaping-security/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-12T11:57:16.000Z</news:publication_date>
-            <news:title>From surveillance to safety: How Kazakhstan&#8217;s Carpet CCTV is reshaping security</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/from-surveillance-to-safety-how-kazakhstans-carpet-cctv-is-reshaping-security.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/11/google-claims-breakthrough-with-willow-quantum-computing-chip-but-no-real-world-use-yet/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-11T18:56:01.000Z</news:publication_date>
-            <news:title>Google claims breakthrough with Willow quantum computing chip but no real-world use yet</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/11/google-claims-breakthrough-with-willow-quantum-computing-chip-but-no-real-world-use-yet.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/10/a-hardwired-tsa-looks-to-the-future-with-5g-implementation/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-10T21:09:22.000Z</news:publication_date>
-            <news:title>A hardwired TSA looks to the future with 5G implementation</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/10/a-hardwired-tsa-looks-to-the-future-with-5g-implementation.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/12/10/nokia-expands-data-center-sonic-support/</loc>
           <news:news>
             <news:publication>
@@ -406,19 +378,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/10/nokia-expands-data-center-sonic-support.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/10/boosting-cyprus-defense-is-key-so-close-to-the-war-wracked-mideast-defense-minister-says/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-10T16:52:44.000Z</news:publication_date>
-            <news:title>Boosting Cyprus' defense is key so close to the war-wracked Mideast, defense minister says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/10/boosting-cyprus-defense-is-key-so-close-to-the-war-wracked-mideast-defense-minister-says.webp</image:loc>
           </image:image>
         </url></urlset>
