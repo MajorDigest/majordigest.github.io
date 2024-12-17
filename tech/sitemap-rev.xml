@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/its-the-end-of-the-internet-as-we-know-it-and-i-feel-fine/</loc>
+          <loc>https://majordigest.com/tech/2024/12/17/gen-z-tiktok-users-have-taken-holiday-wish-lists-to-a-new-level/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T18:00:00.000Z</news:publication_date>
-            <news:title>The Internet is Falling Apart: A Dystopian Future Looms</news:title>
+            <news:publication_date>2024-12-17T13:14:00.000Z</news:publication_date>
+            <news:title>The Evolution of Holiday Wish Lists</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/its-the-end-of-the-internet-as-we-know-it-and-i-feel-fine.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/gen-z-tiktok-users-have-taken-holiday-wish-lists-to-a-new-level.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/17/rtx-5060-rumor-suggests-itll-have-8gb-vram-and-im-starting-to-wonder-if-nvidia-has-lost-the-plot-with-next-gen-gpus/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-17T11:00:14.000Z</news:publication_date>
+            <news:title>Nvidia's Next-Gen Desktop Graphics Cards Leaked: RTX 5060 Models Incoming?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/rtx-5060-rumor-suggests-itll-have-8gb-vram-and-im-starting-to-wonder-if-nvidia-has-lost-the-plot-with-next-gen-gpus.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/16/the-rise-of-the-it-generalist/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-16T15:13:02.000Z</news:publication_date>
+            <news:title>The Rise of the IT Generalist: How Automation is Changing the Face of IT Teams</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/the-rise-of-the-it-generalist.webp</image:loc>
           </image:image>
         </url></urlset>
