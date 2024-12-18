@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/cisco-grabs-snapattack-for-threat-detection/</loc>
+          <loc>https://majordigest.com/tech/2024/12/18/indiana-jones-and-the-great-circle-update-2-fixes-a-bunch-of-frustrating-bugs-and-improves-global-illumination-on-xbox/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T19:21:19.000Z</news:publication_date>
-            <news:title>Cisco Acquires SnapAttack to Enhance Security Portfolio</news:title>
+            <news:publication_date>2024-12-18T10:50:22.000Z</news:publication_date>
+            <news:title>Indiana Jones and the Great Circle Update 2 Patch Notes Released</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/cisco-grabs-snapattack-for-threat-detection.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/indiana-jones-and-the-great-circle-update-2-fixes-a-bunch-of-frustrating-bugs-and-improves-global-illumination-on-xbox.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/18/musk-and-trump-are-viewed-roughly-the-same-by-americans-an-ap-norc-poll-finds/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-18T05:02:44.000Z</news:publication_date>
+            <news:title>Musk's Alliance with Trump Sparks Debate Over Benefits and Risks</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/musk-and-trump-are-viewed-roughly-the-same-by-americans-an-ap-norc-poll-finds.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/16/google-microsoft-could-turn-gatekeepers-for-advanced-ai-chips/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-16T11:14:12.000Z</news:publication_date>
+            <news:title>Rising Trade Tensions: US to Designate Cloud Providers as Global Gatekeepers for Advanced AI Chips</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/google-microsoft-could-turn-gatekeepers-for-advanced-ai-chips.webp</image:loc>
           </image:image>
         </url></urlset>
