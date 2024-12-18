@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/16/tiktok-ceo-meets-with-trump-at-mar-a-lago/</loc>
+          <loc>https://majordigest.com/tech/2024/12/17/elon-musk-elizabeth-warren-donald-trump/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T23:43:26.000Z</news:publication_date>
-            <news:title>TikTok CEO Meets with President-elect Trump Amid Uncertainty Over Platform's Future</news:title>
+            <news:publication_date>2024-12-17T16:18:50.000Z</news:publication_date>
+            <news:title>Sen. Elizabeth Warren Calls Out Apparent Conflicts of Interest with Elon Musk</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/16/tiktok-ceo-meets-with-trump-at-mar-a-lago.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/elon-musk-elizabeth-warren-donald-trump.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/17/openai-continues-to-get-pushback-but-only-stands-to-gain-from-going-for-profit/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-17T03:36:45.000Z</news:publication_date>
+            <news:title>The OpenAI Conundrum: A Conflict of Interest?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/openai-continues-to-get-pushback-but-only-stands-to-gain-from-going-for-profit.webp</image:loc>
           </image:image>
         </url></urlset>
