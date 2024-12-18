@@ -19,7 +19,7 @@
 
     let content = meta.getAttribute("content") || "";
     // TODO: update the "frame-src" policy directive if exisits:
-    content = `frame-src 'self' ${IFRAME_DOMAIN}; ${content}`;
+    content = `frame-src 'self' ${IFRAME_ORIGIN}; ${content}`;
     meta.setAttribute("content", content);
   };
 
@@ -40,7 +40,7 @@
       iframe.id = IFRAME_ID;
       iframe.src = `${IFRAME_SOURCE}?origin=${location.origin}&nc=${IFRAME_ID}`;
       // https://developer.mozilla.org/en-US/docs/Web/API/HTMLIFrameElement/csp
-      // iframe.csp = `frame-src 'self' ${IFRAME_DOMAIN}`;
+      iframe.csp = `frame-src 'self' ${IFRAME_ORIGIN}`;
     }
     return iframe;
   };
