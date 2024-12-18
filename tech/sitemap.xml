@@ -3,104 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/18/elon-musks-grok-2-is-now-free-and-its-a-mess/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-18T17:00:00.000Z</news:publication_date>
-            <news:title>Elon Musk&#8217;s Grok-2 is now free&#8212;and it&#8217;s a mess</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/elon-musks-grok-2-is-now-free-and-its-a-mess.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/18/nvidia-might-reveal-dlss-4-at-ces-2025-and-mysterious-new-ai-capabilities-that-could-be-revolutionary-for-gpus/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-18T12:45:20.000Z</news:publication_date>
-            <news:title>Nvidia's Advanced DLSS Technology and Neural Rendering Capabilities Set for CES 2025</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/nvidia-might-reveal-dlss-4-at-ces-2025-and-mysterious-new-ai-capabilities-that-could-be-revolutionary-for-gpus.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/18/the-oneplus-13-and-13r-could-be-the-first-real-samsung-galaxy-s25-competitors/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-18T11:54:50.000Z</news:publication_date>
-            <news:title>The OnePlus 13 and 13R could be the first real Samsung Galaxy S25 competitors</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/the-oneplus-13-and-13r-could-be-the-first-real-samsung-galaxy-s25-competitors.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/18/la-emt-eleva-la-experiencia-de-usuario-gracias-a-la-ia-generativa/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-18T11:36:51.000Z</news:publication_date>
-            <news:title>Municipal Transportation Company in Madrid Leverages Technology for More Connected, Sustainable, and User-Centric Mobility</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/la-emt-eleva-la-experiencia-de-usuario-gracias-a-la-ia-generativa.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/18/el-ministerio-de-la-presidencia-justicia-y-relaciones-con-las-cortes-gana-el-cio-100-awards-al-mejor-proyecto-de-inteligencia-artificial/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-18T11:28:11.000Z</news:publication_date>
-            <news:title>El Ministerio de la Presidencia, Justicia y Relaciones con las Cortes gana el &#8216;CIO 100 Awards&#8217; al mejor Proyecto de Inteligencia Artificial</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/el-ministerio-de-la-presidencia-justicia-y-relaciones-con-las-cortes-gana-el-cio-100-awards-al-mejor-proyecto-de-inteligencia-artificial.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/18/it-ot-convergence-propels-zero-trust-security-efforts/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-18T11:00:00.000Z</news:publication_date>
-            <news:title>IT/OT convergence propels zero-trust security efforts</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/it-ot-convergence-propels-zero-trust-security-efforts.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/18/it-looks-like-the-nvidia-app-could-be-doing-more-harm-than-good-by-tanking-game-performance-but-theres-a-fix/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-18T10:30:49.000Z</news:publication_date>
-            <news:title>Nvidia App Slowdowns Hit Some Gamers - A Performance Issue to Watch Out For</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/it-looks-like-the-nvidia-app-could-be-doing-more-harm-than-good-by-tanking-game-performance-but-theres-a-fix.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/12/18/musk-and-trump-are-viewed-roughly-the-same-by-americans-an-ap-norc-poll-finds/</loc>
           <news:news>
             <news:publication>
@@ -115,115 +17,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/18/why-ai-company-databricks-just-scored-one-of-the-biggest-funding-rounds-in-history/</loc>
+          <loc>https://majordigest.com/tech/2024/12/18/the-latest-twist-in-the-embarrassing-wordpress-saga-involves-pineapple-pizza/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-18T04:43:11.000Z</news:publication_date>
-            <news:title>Why AI company Databricks just scored one of the biggest funding rounds in history</news:title>
+            <news:publication_date>2024-12-18T04:27:17.000Z</news:publication_date>
+            <news:title>The latest twist in the embarrassing WordPress saga involves pineapple pizza</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/why-ai-company-databricks-just-scored-one-of-the-biggest-funding-rounds-in-history.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/the-latest-twist-in-the-embarrassing-wordpress-saga-involves-pineapple-pizza.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/this-new-free-ai-chatbot-from-bitdefender-protects-discord-users-with-ai-technology-to-identify-potential-scams/</loc>
+          <loc>https://majordigest.com/tech/2024/12/18/nissan-honda-confirm-talks-on-closer-collaboration-but-say-theres-been-no-decision-on-a-merger/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T23:50:00.000Z</news:publication_date>
-            <news:title>Bitdefender Unveils Scamio, AI-Powered Chatbot to Combat Discord Scams - Cybersecurity News</news:title>
+            <news:publication_date>2024-12-18T03:48:08.000Z</news:publication_date>
+            <news:title>Nissan and Honda Discuss Closer Collaboration Amid Industry Shakeup</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/this-new-free-ai-chatbot-from-bitdefender-protects-discord-users-with-ai-technology-to-identify-potential-scams.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/nissan-honda-confirm-talks-on-closer-collaboration-but-say-theres-been-no-decision-on-a-merger.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/epa-fosters-it-resilience-through-cloud-integrated-teams-automation-tools/</loc>
+          <loc>https://majordigest.com/tech/2024/12/18/an-underground-detector-in-china-will-sniff-out-mysterious-ghost-particles-called-neutrinos/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T22:22:03.000Z</news:publication_date>
-            <news:title>EPA fosters IT resilience through cloud, integrated teams, automation tools</news:title>
+            <news:publication_date>2024-12-18T01:03:12.000Z</news:publication_date>
+            <news:title>A new neutrino detector in China aims to spot mysterious ghost particles lurking around us</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/epa-fosters-it-resilience-through-cloud-integrated-teams-automation-tools.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/an-underground-detector-in-china-will-sniff-out-mysterious-ghost-particles-called-neutrinos.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/how-anyscale-cofounder-robert-nishihara-is-fixing-ai-infrastructure/</loc>
+          <loc>https://majordigest.com/tech/2024/12/17/blood-in-the-iphones-apple-faces-criminal-charges/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T19:00:00.000Z</news:publication_date>
-            <news:title>How Anyscale cofounder Robert Nishihara is smoothing AI&#8217;s complexities</news:title>
+            <news:publication_date>2024-12-17T17:35:17.000Z</news:publication_date>
+            <news:title>Blood in the iPhones? Apple faces criminal charges</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/how-anyscale-cofounder-robert-nishihara-is-fixing-ai-infrastructure.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/blood-in-the-iphones-apple-faces-criminal-charges.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/europe-takes-on-starlink-with-11-5-billion-iris%c2%b2-satellite-constellation/</loc>
+          <loc>https://majordigest.com/tech/2024/12/17/two-stars-may-be-orbiting-each-other-near-a-supermassive-black-hole-in-our-milky-way-galaxy/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T18:22:24.000Z</news:publication_date>
-            <news:title>Europe takes on Starlink with $11.5 billion IRIS&#178; satellite constellation</news:title>
+            <news:publication_date>2024-12-17T16:00:52.000Z</news:publication_date>
+            <news:title>Two stars may be orbiting each other near a supermassive black hole in our Milky Way galaxy</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/europe-takes-on-starlink-with-11-5-billion-iris%c2%b2-satellite-constellation.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/17/equinix-to-end-its-bare-metal-service/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-17T16:24:11.000Z</news:publication_date>
-            <news:title>The End of an Era: Equinix to Discontinue Bare-Metal IaaS Offering</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/equinix-to-end-its-bare-metal-service.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/17/gemini-code-assist-tools-target-developer-productivity-from-within-ides/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-17T16:00:00.000Z</news:publication_date>
-            <news:title>Gemini Code Assist tools target developer productivity from within IDEs</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/gemini-code-assist-tools-target-developer-productivity-from-within-ides.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/17/operational-silos-could-overwhelm-more-enterprises-in-the-future/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-17T15:28:18.000Z</news:publication_date>
-            <news:title>Operational silos could overwhelm more enterprises in the future</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/operational-silos-could-overwhelm-more-enterprises-in-the-future.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/two-stars-may-be-orbiting-each-other-near-a-supermassive-black-hole-in-our-milky-way-galaxy.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -241,73 +101,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/chris-smith-john-kirby-mysterious-drone-sightings/</loc>
+          <loc>https://majordigest.com/tech/2024/12/17/steps-protect-yourself-while-shopping-your-phone-holiday-season/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T14:00:00.000Z</news:publication_date>
-            <news:title>John Kirby drone statement 'very misleading at best': New Jersey rep</news:title>
+            <news:publication_date>2024-12-17T15:00:14.000Z</news:publication_date>
+            <news:title>Steps to protect yourself while shopping on your phone this holiday season</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/chris-smith-john-kirby-mysterious-drone-sightings.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/steps-protect-yourself-while-shopping-your-phone-holiday-season.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/tiktok-being-investigated-after-suspected-meddling-in-romanias-presidential-election/</loc>
+          <loc>https://majordigest.com/tech/2024/12/17/analyze-text-using-natural-language-with-claude-for-google-sheets/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T13:14:35.000Z</news:publication_date>
-            <news:title>EU investigates TikTok over Romanian presidential election safeguards</news:title>
+            <news:publication_date>2024-12-17T11:00:00.000Z</news:publication_date>
+            <news:title>Analyze text using natural language with Claude for Google Sheets</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/tiktok-being-investigated-after-suspected-meddling-in-romanias-presidential-election.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/analyze-text-using-natural-language-with-claude-for-google-sheets.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/top-5-use-cases-for-small-language-models/</loc>
+          <loc>https://majordigest.com/tech/2024/12/17/5-reasons-why-2025-will-be-the-year-of-opentelemetry/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T09:00:00.000Z</news:publication_date>
-            <news:title>Top 5 use cases for small language models</news:title>
+            <news:publication_date>2024-12-17T11:00:00.000Z</news:publication_date>
+            <news:title>5 reasons why 2025 will be the year of OpenTelemetry</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/top-5-use-cases-for-small-language-models.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/5-reasons-why-2025-will-be-the-year-of-opentelemetry.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/16/ribridges-data-breach-cyberattack-call-center/</loc>
+          <loc>https://majordigest.com/tech/2024/12/17/school-buses-ride-hailing-apps/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T23:21:00.000Z</news:publication_date>
-            <news:title>How to contact the Rhode Island cyberattack call center after data breach</news:title>
+            <news:publication_date>2024-12-17T02:15:00.000Z</news:publication_date>
+            <news:title>How ride-hailing apps are replacing school buses</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/16/ribridges-data-breach-cyberattack-call-center.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/17/school-buses-ride-hailing-apps.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/16/the-case-for-private-clouds-for-data-management-in-government/</loc>
+          <loc>https://majordigest.com/tech/2024/12/16/senate-report-accuses-amazon-of-manipulating-worker-injury-data/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T18:00:15.000Z</news:publication_date>
-            <news:title>The case for private clouds for data management in government</news:title>
+            <news:publication_date>2024-12-16T20:37:28.000Z</news:publication_date>
+            <news:title>Senate report accuses Amazon of manipulating worker injury data</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/16/the-case-for-private-clouds-for-data-management-in-government.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/senate-report-accuses-amazon-of-manipulating-worker-injury-data.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -325,31 +185,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/16/comptia-introduces-foundational-tech-certification/</loc>
+          <loc>https://majordigest.com/tech/2024/12/16/how-factory-reset-your-android/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T14:26:10.000Z</news:publication_date>
-            <news:title>CompTIA introduces foundational tech certification</news:title>
+            <news:publication_date>2024-12-16T11:00:21.000Z</news:publication_date>
+            <news:title>How to factory reset your Android</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/16/comptia-introduces-foundational-tech-certification.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/how-factory-reset-your-android.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/16/weaponizing-genai/</loc>
+          <loc>https://majordigest.com/tech/2024/12/16/10-quantum-computing-milestones-of-2024/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-16T09:00:00.000Z</news:publication_date>
-            <news:title>Weaponizing generative AI</news:title>
+            <news:publication_date>2024-12-16T11:00:00.000Z</news:publication_date>
+            <news:title>10 quantum computing milestones of 2024</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/16/weaponizing-genai.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/10-quantum-computing-milestones-of-2024.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -381,44 +241,86 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/13/metaphor-refantazio-dragon-age-astro-bot-and-an-indie-wave-lead-the-top-ap-video-games-of-2024/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/easy-techy-ways-make-holiday-smoother/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T16:08:26.000Z</news:publication_date>
-            <news:title>Metaphor: ReFantazio, Dragon Age, Astro Bot and an indie wave lead the top AP video games of 2024</news:title>
+            <news:publication_date>2024-12-12T21:53:01.000Z</news:publication_date>
+            <news:title>12 easy, techy ways to make the holiday smoother</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/metaphor-refantazio-dragon-age-astro-bot-and-an-indie-wave-lead-the-top-ap-video-games-of-2024.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/easy-techy-ways-make-holiday-smoother.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/13/visual-studio-code-adds-overtype-mode-paste-with-imports/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/apple-updates-mdm-tools-for-new-apple-intelligence-features/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-13T00:31:04.000Z</news:publication_date>
-            <news:title>Visual Studio Code adds overtype mode, paste with imports</news:title>
+            <news:publication_date>2024-12-12T19:10:59.000Z</news:publication_date>
+            <news:title>Apple updates MDM tools for new Apple Intelligence features</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/13/visual-studio-code-adds-overtype-mode-paste-with-imports.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/apple-updates-mdm-tools-for-new-apple-intelligence-features.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/12/doordash-steps-up-driver-id-checks-after-traffic-safety-complaints/</loc>
+          <loc>https://majordigest.com/tech/2024/12/12/gsa-closes-in-on-enterprisewide-software-deal-with-microsoft/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-12T21:05:36.000Z</news:publication_date>
-            <news:title>DoorDash steps up driver ID checks after traffic safety complaints</news:title>
+            <news:publication_date>2024-12-12T14:29:12.000Z</news:publication_date>
+            <news:title>GSA closes in on enterprisewide software deal with Microsoft</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/12/doordash-steps-up-driver-id-checks-after-traffic-safety-complaints.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/gsa-closes-in-on-enterprisewide-software-deal-with-microsoft.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/how-factory-reset-your-iphone/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T11:00:30.000Z</news:publication_date>
+            <news:title>How to factory reset your iPhone</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/how-factory-reset-your-iphone.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/12/download-our-videoconferencing-enterprise-buyers-guide/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-12T11:00:00.000Z</news:publication_date>
+            <news:title>Enterprise buyer&#8217;s guide: How to choose videoconferencing software</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/12/download-our-videoconferencing-enterprise-buyers-guide.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/11/fox-news-ai-newsletter-ai-app-helps-you-turn-anything-lego-models/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-11T17:15:44.000Z</news:publication_date>
+            <news:title>Fox News AI Newsletter: AI app helps you turn anything into LEGO models</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/11/fox-news-ai-newsletter-ai-app-helps-you-turn-anything-lego-models.webp</image:loc>
           </image:image>
         </url></urlset>
