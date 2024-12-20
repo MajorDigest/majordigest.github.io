@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/18/openai-rolls-out-upgrade-to-reasoning-model-new-dev-tools/</loc>
+          <loc>https://majordigest.com/tech/2024/12/19/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-18T21:34:03.000Z</news:publication_date>
-            <news:title>OpenAI Releases o1 Reasoning Model in API with New Tools for Developers</news:title>
+            <news:publication_date>2024-12-19T21:55:56.000Z</news:publication_date>
+            <news:title>Amazon Workers Strike at Seven Delivery Hubs Ahead of Christmas</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/openai-rolls-out-upgrade-to-reasoning-model-new-dev-tools.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/19/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/19/australian-who-falsely-claimed-to-have-invented-bitcoin-is-found-in-contempt-of-uk-court/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-19T15:16:38.000Z</news:publication_date>
+            <news:title>Bitcoin Founder Contempt Case: Craig Wright Sentenced to 12 Months</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/19/australian-who-falsely-claimed-to-have-invented-bitcoin-is-found-in-contempt-of-uk-court.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/19/musk-trump-stopgap-deal/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-19T11:00:00.000Z</news:publication_date>
+            <news:title>Elon Musk's Push Against Stopgap Measure Receives Mixed Reactions from House Republicans</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/19/musk-trump-stopgap-deal.webp</image:loc>
           </image:image>
         </url></urlset>
