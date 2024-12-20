@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/20/smart-policing-revolution-how-kazakhstan-is-setting-a-global-benchmark/</loc>
+          <loc>https://majordigest.com/tech/2024/12/19/elon-musk-considers-funding-nigel-farages-populist-party-a-move-that-could-shake-up-uk-politics/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-20T04:08:20.000Z</news:publication_date>
-            <news:title>The Digital Policeman Initiative: Redefining Public Safety in Kazakhstan</news:title>
+            <news:publication_date>2024-12-19T16:08:20.000Z</news:publication_date>
+            <news:title>Elon Musk's Potential Donation to UK Politics Sparks Concerns Over Foreign Influence</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/20/smart-policing-revolution-how-kazakhstan-is-setting-a-global-benchmark.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/19/elon-musk-considers-funding-nigel-farages-populist-party-a-move-that-could-shake-up-uk-politics.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/18/you-have-a-license-to-code/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-18T09:00:00.000Z</news:publication_date>
+            <news:title>The Freedom of Software Development: Why You Don't Need Permission</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/you-have-a-license-to-code.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/16/chuck-schumer-drone-detection-tech/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-16T00:19:10.000Z</news:publication_date>
+            <news:title>Senators Push for Answers Amid Mysterious Drone Sightings</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/16/chuck-schumer-drone-detection-tech.webp</image:loc>
           </image:image>
         </url></urlset>
