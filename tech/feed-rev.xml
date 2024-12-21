@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 21 Dec 2024 15:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 16:43:45 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.5</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Data-Driven Deliveries: Walmart's Catchment Area Model Revolutionizes Holiday Shopping</title>
-          <description><![CDATA[Walmart's innovative data science approach enables delivery to 12 million more households this holiday season, leveraging a new catchment area model that adapts to customer demand and needs.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/20/walmart-is-turning-to-data-science-to-improve-its-delivery-game/</guid>
-          <link>https://majordigest.com/tech/2024/12/20/walmart-is-turning-to-data-science-to-improve-its-delivery-game/</link>
-          <pubDate>Fri, 20 Dec 2024 01:00:00 GMT</pubDate>
+          <title>The Uncertainty of AI Risks: A GAO Report Raises Concerns</title>
+          <description><![CDATA[A new report from the US Government Accountability Office (GAO) highlights concerns about the lack of understanding of AI risks to critical infrastructure.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/20/gao-report-says-dhs-other-agencies-need-to-up-their-game-in-ai-risk-assessment/</guid>
+          <link>https://majordigest.com/tech/2024/12/20/gao-report-says-dhs-other-agencies-need-to-up-their-game-in-ai-risk-assessment/</link>
+          <pubDate>Fri, 20 Dec 2024 22:47:30 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/20/walmart-is-turning-to-data-science-to-improve-its-delivery-game.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/20/walmart-is-turning-to-data-science-to-improve-its-delivery-game.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/20/gao-report-says-dhs-other-agencies-need-to-up-their-game-in-ai-risk-assessment.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/20/gao-report-says-dhs-other-agencies-need-to-up-their-game-in-ai-risk-assessment.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>The Future of AI: OpenAI's New Approach to Intelligence Gains</title>
+          <description><![CDATA[OpenAI researcher Jerry Tworek explains how their new approach to scaling models could be the key to achieving artificial general intelligence (AGI).]]></description>
+          <guid>https://majordigest.com/tech/2024/12/19/openai-researcher-jerry-tworek-human-brain-o1-models/</guid>
+          <link>https://majordigest.com/tech/2024/12/19/openai-researcher-jerry-tworek-human-brain-o1-models/</link>
+          <pubDate>Thu, 19 Dec 2024 19:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/19/openai-researcher-jerry-tworek-human-brain-o1-models.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/19/openai-researcher-jerry-tworek-human-brain-o1-models.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
