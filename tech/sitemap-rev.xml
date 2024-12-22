@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/22/albania-to-shut-down-tiktok-for-a-year-over-violence-bullying/</loc>
+          <loc>https://majordigest.com/tech/2024/12/21/we-may-have-to-wait-longer-for-the-oneplus-open-2-than-we-thought/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-22T03:45:26.000Z</news:publication_date>
-            <news:title>TikTok Shut Down in Albania: A One-Year Ban Amid Concerns Over Violence and Bullying</news:title>
+            <news:publication_date>2024-12-21T18:30:00.000Z</news:publication_date>
+            <news:title>Folding Phone Fans Face Longer Wait for OnePlus Open 2</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/22/albania-to-shut-down-tiktok-for-a-year-over-violence-bullying.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/we-may-have-to-wait-longer-for-the-oneplus-open-2-than-we-thought.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/19/go-1-24-brings-full-support-for-generic-type-aliases/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-19T09:00:00.000Z</news:publication_date>
+            <news:title>Google's Go Programming Language Reaches Release Candidate Stage</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/19/go-1-24-brings-full-support-for-generic-type-aliases.webp</image:loc>
           </image:image>
         </url></urlset>
