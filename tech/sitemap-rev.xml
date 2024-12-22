@@ -3,16 +3,58 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/20/la-zoo-hatches-first-ever-perentie-lizards-one-of-largest-lizard-species-in-the-world/</loc>
+          <loc>https://majordigest.com/tech/2024/12/22/house-republicans-elon-musk-primary-threat/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-20T00:01:44.000Z</news:publication_date>
-            <news:title>New Baby Lizards Hatched at LA Zoo - A Rare Achievement</news:title>
+            <news:publication_date>2024-12-22T11:00:00.000Z</news:publication_date>
+            <news:title>House Republicans Brush Off Elon Musk's Threats</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/20/la-zoo-hatches-first-ever-perentie-lizards-one-of-largest-lizard-species-in-the-world.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/22/house-republicans-elon-musk-primary-threat.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/22/AI-driven-dynamic-pricing-strategies-are-allowing-businesses-to-adjust-prices-rapidly-based-on-real-time-data-analysis/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-22T08:07:10.000Z</news:publication_date>
+            <news:title>Dynamic Pricing in Ecommerce: Good for Business, Bad for Consumers?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/22/AI-driven-dynamic-pricing-strategies-are-allowing-businesses-to-adjust-prices-rapidly-based-on-real-time-data-analysis.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/21/amazon-and-starbucks-workers-are-on-strike-trump-might-have-something-to-do-with-it/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-21T20:42:56.000Z</news:publication_date>
+            <news:title>Ambitious Labor Strikes Sweep Major US Companies</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/amazon-and-starbucks-workers-are-on-strike-trump-might-have-something-to-do-with-it.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/21/ex-openai-engineer-who-raised-legal-concerns-about-the-technology-he-helped-build-has-died/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-21T19:35:02.000Z</news:publication_date>
+            <news:title>Former OpenAI Engineer, Whistleblower Found Dead at 26</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/ex-openai-engineer-who-raised-legal-concerns-about-the-technology-he-helped-build-has-died.webp</image:loc>
           </image:image>
         </url></urlset>
