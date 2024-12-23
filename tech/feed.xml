@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Mon, 23 Dec 2024 14:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 15:44:34 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,20 +19,8 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>I tried out 3 media outlets&#8217; AI chatbots. Here&#8217;s what happened</title>
-          <description><![CDATA[How fitting for Time to debut an AI chatbot last week with its annual Person of the Year package. AI was almost certainly Thing of the Year, after all, even if there’s no official award for that.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/23/i-experimented-with-ai-chatbots-from-3-legacy-media-outlets-heres-what-happened/</guid>
-          <link>https://majordigest.com/tech/2024/12/23/i-experimented-with-ai-chatbots-from-3-legacy-media-outlets-heres-what-happened/</link>
-          <pubDate>Mon, 23 Dec 2024 19:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/23/i-experimented-with-ai-chatbots-from-3-legacy-media-outlets-heres-what-happened.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/23/i-experimented-with-ai-chatbots-from-3-legacy-media-outlets-heres-what-happened.webp"/>
-          <dc:creator>Joe Berkowitz, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>Looking for small&#160;drones? Listen for the right radio signals</title>
-          <description><![CDATA[The recent spate of unidentified drone sightings in the U.S., including some near sensitive locations such as airports and military installations, has caused significant public concern.
-Some of this recent increase in activity may be related to a September 2023 change in U.S.]]></description>
+          <title>Unidentified Drones: Understanding the Challenge and Finding Solutions</title>
+          <description><![CDATA[Recent drone sightings in the U.S. have sparked public concern, but most are likely airplanes or helicopters rather than drones. Experts discuss the challenges of detecting and identifying drones using radio frequency sensors.]]></description>
           <guid>https://majordigest.com/tech/2024/12/23/drones-detection-radio-signal-frequencies/</guid>
           <link>https://majordigest.com/tech/2024/12/23/drones-detection-radio-signal-frequencies/</link>
           <pubDate>Mon, 23 Dec 2024 17:00:00 GMT</pubDate>
@@ -42,15 +30,26 @@ Some of this recent increase in activity may be related to a September 2023 chan
           <dc:creator>The Conversation, Fast Company</dc:creator>
         </item>
         <item>
-          <title>SAP customers still slow to deploy AI broadly</title>
-          <description><![CDATA[A new survey of SAP customer organizations shows that, despite AI experimentation, few have implemented AI and generative AI technologies across their enterprises.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/23/sap-customers-still-slow-to-deploy-ai-broadly/</guid>
-          <link>https://majordigest.com/tech/2024/12/23/sap-customers-still-slow-to-deploy-ai-broadly/</link>
-          <pubDate>Mon, 23 Dec 2024 09:30:00 GMT</pubDate>
+          <title>How generative AI could aid Kubernetes operations</title>
+          <description><![CDATA[Enterprises often encounter friction using Kubernetes (K8s for short) at scale to orchestrate large swaths of containers, not to mention an escalating number of clusters. And due to its complexity, diagnosing issues within Kubernetes isn’t all that easy.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/23/how-generative-ai-could-aid-kubernetes-operations/</guid>
+          <link>https://majordigest.com/tech/2024/12/23/how-generative-ai-could-aid-kubernetes-operations/</link>
+          <pubDate>Mon, 23 Dec 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/23/sap-customers-still-slow-to-deploy-ai-broadly.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/23/sap-customers-still-slow-to-deploy-ai-broadly.webp"/>
-          <dc:creator>CIO</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/23/how-generative-ai-could-aid-kubernetes-operations.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/23/how-generative-ai-could-aid-kubernetes-operations.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Overcoming modern observability challenges</title>
+          <description><![CDATA[Observability, at its core, is about collecting and analyzing data generated from applications, cloud computing resources, and edge devices to ensure software and services are run smoothly, user experiences are optimized, and resources are managed cost-effectively.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/23/overcoming-modern-observability-challenges/</guid>
+          <link>https://majordigest.com/tech/2024/12/23/overcoming-modern-observability-challenges/</link>
+          <pubDate>Mon, 23 Dec 2024 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/23/overcoming-modern-observability-challenges.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/23/overcoming-modern-observability-challenges.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
           <title>Nissan and Honda to attempt a merger that would create the world's No. 3 automaker</title>
@@ -61,7 +60,18 @@ Some of this recent increase in activity may be related to a September 2023 chan
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/23/nissan-honda-expected-to-announce-plans-to-merge-creating-worlds-no-3-automaker.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/23/nissan-honda-expected-to-announce-plans-to-merge-creating-worlds-no-3-automaker.webp"/>
-          <dc:creator>Mari Yamaguchi And Elaine Kurtenbach, Associated Press, KPRC 2</dc:creator>
+          <dc:creator>Mari Yamaguchi And Elaine Kurtenbach, Associated Press, Local 4</dc:creator>
+        </item>
+        <item>
+          <title>El papel del CIO en 2024: una retrospectiva del a&#241;o en clave TI</title>
+          <description><![CDATA[2024 ha sido un año agitado en lo tecnológico. La inteligencia artificial generativa, junto con su hermana más tradicional, han vivido una época de efervescencia.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/23/el-papel-del-cio-en-2024-una-retrospectiva-del-ano-en-clave-ti/</guid>
+          <link>https://majordigest.com/tech/2024/12/23/el-papel-del-cio-en-2024-una-retrospectiva-del-ano-en-clave-ti/</link>
+          <pubDate>Mon, 23 Dec 2024 06:30:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/23/el-papel-del-cio-en-2024-una-retrospectiva-del-ano-en-clave-ti.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/23/el-papel-del-cio-en-2024-una-retrospectiva-del-ano-en-clave-ti.webp"/>
+          <dc:creator>CIO</dc:creator>
         </item>
         <item>
           <title>Chris Christie predicts Elon Musk's influence over Trump will end</title>
@@ -75,17 +85,6 @@ Some of this recent increase in activity may be related to a September 2023 chan
           <dc:creator>Tara Suter, The Hill</dc:creator>
         </item>
         <item>
-          <title>Google TV users are getting even more free channels in time for the holidays</title>
-          <description><![CDATA[If you're in the US, you now have a total of 171 channels to watch through the Google TV Freeplay app.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/22/google-tv-users-are-getting-even-more-free-channels-in-time-for-the-holidays/</guid>
-          <link>https://majordigest.com/tech/2024/12/22/google-tv-users-are-getting-even-more-free-channels-in-time-for-the-holidays/</link>
-          <pubDate>Sun, 22 Dec 2024 16:30:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/22/google-tv-users-are-getting-even-more-free-channels-in-time-for-the-holidays.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/22/google-tv-users-are-getting-even-more-free-channels-in-time-for-the-holidays.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
           <title>NASA's Parker Solar Probe aims to fly closer to the sun like never before</title>
           <description><![CDATA[NEW YORK (AP) — A NASA spacecraft aims to fly closer to the sun than any object sent before. The Parker Solar Probe was launched in 2018 to get a close-up look at the sun. Since then, it has flown straight through the sun's corona: the outer atmosphere visible during a total solar eclipse.]]></description>
           <guid>https://majordigest.com/tech/2024/12/22/nasas-parker-solar-probe-aims-to-fly-closer-to-the-sun-like-never-before/</guid>
@@ -94,22 +93,22 @@ Some of this recent increase in activity may be related to a September 2023 chan
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/22/nasas-parker-solar-probe-aims-to-fly-closer-to-the-sun-like-never-before.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/22/nasas-parker-solar-probe-aims-to-fly-closer-to-the-sun-like-never-before.webp"/>
-          <dc:creator>ADITHI RAMAKRISHNAN, Associated Press, NewsNation</dc:creator>
+          <dc:creator>ADITHI RAMAKRISHNAN, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
-          <title>Bluesky finds with growth comes growing pains &#8212; and bots</title>
-          <description><![CDATA[Bluesky has seen its user base soar since the U.S. presidential election, boosted by people seeking refuge from Elon Musk’s X, or wanting an alternative to Meta’s Threads and its algorithms.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/22/bluesky-finds-with-growth-comes-growing-pains-and-bots/</guid>
-          <link>https://majordigest.com/tech/2024/12/22/bluesky-finds-with-growth-comes-growing-pains-and-bots/</link>
-          <pubDate>Sun, 22 Dec 2024 12:35:37 GMT</pubDate>
+          <title>New leak says if your iPhone can run iOS 18, it should be able to run iOS 19 too</title>
+          <description><![CDATA[We have some hints about which iPhones and iPads are going to be able to run the software Apple unveils next year.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/22/new-leak-says-if-your-iphone-can-run-ios-18-it-should-be-able-to-run-ios-19-too/</guid>
+          <link>https://majordigest.com/tech/2024/12/22/new-leak-says-if-your-iphone-can-run-ios-18-it-should-be-able-to-run-ios-19-too/</link>
+          <pubDate>Sun, 22 Dec 2024 12:30:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/22/bluesky-finds-with-growth-comes-growing-pains-and-bots.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/22/bluesky-finds-with-growth-comes-growing-pains-and-bots.webp"/>
-          <dc:creator>Ali Swenson And Barara Ortutay, Associated Press, KPRC 2</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/22/new-leak-says-if-your-iphone-can-run-ios-18-it-should-be-able-to-run-ios-19-too.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/22/new-leak-says-if-your-iphone-can-run-ios-18-it-should-be-able-to-run-ios-19-too.webp"/>
+          <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>Google Whisk: A New AI Tool for Visual Concept Creation</title>
-          <description><![CDATA[Google's new AI tool, Whisk, uses images as inputs instead of text-based prompts to create and remix visual concepts. Learn how to try it out and what you can expect from this experimental tool.]]></description>
+          <title>Google Whisk is a new way to create AI visuals using image prompts &#8211;here's how to try it</title>
+          <description><![CDATA[Google's new AI tool uses images as inputs instead of text-based prompts –here's how to take it for a spin.]]></description>
           <guid>https://majordigest.com/tech/2024/12/22/google-whisk-is-a-new-way-to-create-ai-visuals-using-image-prompts-heres-how-to-try-it/</guid>
           <link>https://majordigest.com/tech/2024/12/22/google-whisk-is-a-new-way-to-create-ai-visuals-using-image-prompts-heres-how-to-try-it/</link>
           <pubDate>Sun, 22 Dec 2024 09:00:00 GMT</pubDate>
@@ -119,15 +118,15 @@ Some of this recent increase in activity may be related to a September 2023 chan
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>These are the companies using AI-driven dynamic pricing the most - and the top users probably won't surprise you</title>
-          <description><![CDATA[Amazon leads dynamic pricing with 12.6 daily changes, but Best Buy changes its price only 2.6 times per day.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/22/AI-driven-dynamic-pricing-strategies-are-allowing-businesses-to-adjust-prices-rapidly-based-on-real-time-data-analysis/</guid>
-          <link>https://majordigest.com/tech/2024/12/22/AI-driven-dynamic-pricing-strategies-are-allowing-businesses-to-adjust-prices-rapidly-based-on-real-time-data-analysis/</link>
-          <pubDate>Sun, 22 Dec 2024 08:07:10 GMT</pubDate>
+          <title>Albania to shut down TikTok for a year over violence, bullying</title>
+          <description><![CDATA[Prime Minister Edi Rama, speaking at a meeting with teachers and parents, said TikTok "would be fully closed for all.  There will be no TikTok in the Republic of Albania." Rama said the shutdown would begin sometime next year.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/22/albania-to-shut-down-tiktok-for-a-year-over-violence-bullying/</guid>
+          <link>https://majordigest.com/tech/2024/12/22/albania-to-shut-down-tiktok-for-a-year-over-violence-bullying/</link>
+          <pubDate>Sun, 22 Dec 2024 03:45:26 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/22/AI-driven-dynamic-pricing-strategies-are-allowing-businesses-to-adjust-prices-rapidly-based-on-real-time-data-analysis.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/22/AI-driven-dynamic-pricing-strategies-are-allowing-businesses-to-adjust-prices-rapidly-based-on-real-time-data-analysis.webp"/>
-          <dc:creator>udinmwenefosa@gmail.com (Efosa Udinmwen), TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/22/albania-to-shut-down-tiktok-for-a-year-over-violence-bullying.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/22/albania-to-shut-down-tiktok-for-a-year-over-violence-bullying.webp"/>
+          <dc:creator>The Associated Press, The Mercury News</dc:creator>
         </item>
         <item>
           <title>Amazon and Starbucks workers are on strike. Trump might have something to do with it</title>
@@ -138,7 +137,40 @@ Some of this recent increase in activity may be related to a September 2023 chan
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/21/amazon-and-starbucks-workers-are-on-strike-trump-might-have-something-to-do-with-it.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/21/amazon-and-starbucks-workers-are-on-strike-trump-might-have-something-to-do-with-it.webp"/>
-          <dc:creator>Haleluya Hadero, Associated Press, KPRC 2</dc:creator>
+          <dc:creator>Haleluya Hadero, Associated Press, Local 4</dc:creator>
+        </item>
+        <item>
+          <title>Ex-OpenAI engineer who raised legal concerns about the technology he helped build has died</title>
+          <description><![CDATA[Suchir Balaji, a former OpenAI engineer and whistleblower who helped train the artificial intelligence systems behind ChatGPT and later said he believed those practices violated copyright law, has died, according to his parents and San Francisco officials.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/21/ex-openai-engineer-who-raised-legal-concerns-about-the-technology-he-helped-build-has-died/</guid>
+          <link>https://majordigest.com/tech/2024/12/21/ex-openai-engineer-who-raised-legal-concerns-about-the-technology-he-helped-build-has-died/</link>
+          <pubDate>Sat, 21 Dec 2024 19:35:02 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/21/ex-openai-engineer-who-raised-legal-concerns-about-the-technology-he-helped-build-has-died.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/21/ex-openai-engineer-who-raised-legal-concerns-about-the-technology-he-helped-build-has-died.webp"/>
+          <dc:creator>Matt O'Brien, Associated Press, KPRC 2</dc:creator>
+        </item>
+        <item>
+          <title>We may have to wait longer for the OnePlus Open 2 than we thought</title>
+          <description><![CDATA[Previous reports suggested that the OnePlus Open 2 could be launched as early as January, February, or March.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/21/we-may-have-to-wait-longer-for-the-oneplus-open-2-than-we-thought/</guid>
+          <link>https://majordigest.com/tech/2024/12/21/we-may-have-to-wait-longer-for-the-oneplus-open-2-than-we-thought/</link>
+          <pubDate>Sat, 21 Dec 2024 18:30:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/21/we-may-have-to-wait-longer-for-the-oneplus-open-2-than-we-thought.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/21/we-may-have-to-wait-longer-for-the-oneplus-open-2-than-we-thought.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Yellowjackets season 3: release date, cast, trailer and more news and rumors about the hit Paramount Plus show</title>
+          <description><![CDATA[Here's everything we know about Yellowjackets season 3, including its February 2025 release date, the expected cast, and plot speculation.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/21/yellowjackets-season-3/</guid>
+          <link>https://majordigest.com/tech/2024/12/21/yellowjackets-season-3/</link>
+          <pubDate>Sat, 21 Dec 2024 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/21/yellowjackets-season-3.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/21/yellowjackets-season-3.webp"/>
+          <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
           <title>Arm&#8217;s high-stakes licensing suit against Qualcomm ends in mistrial, but Qualcomm prevails in key areas</title>
@@ -152,60 +184,26 @@ Some of this recent increase in activity may be related to a September 2023 chan
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Amazon workers are striking at multiple facilities. Here's what you should know</title>
-          <description><![CDATA[Amazon workers affiliated with the Teamsters union continued a strike Friday at seven of the company's delivery hubs just days before Christmas. At midnight on Saturday, workers at a prominent unionized warehouse in New York will also join, the Teamsters said.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/20/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know/</guid>
-          <link>https://majordigest.com/tech/2024/12/20/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know/</link>
-          <pubDate>Fri, 20 Dec 2024 22:51:34 GMT</pubDate>
+          <title>Democrat accuses Musk of tanking spending bill over China restrictions</title>
+          <description><![CDATA[The top Democrat on the House Appropriations Committee accused Elon Musk of tanking a bipartisan spending bill because it included a provision that could limit his businesses' ability to operate in China. In a Friday letter to congressional leaders, Rep. Rosa DeLauro (D-Conn.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/20/musk-delauro-spending-bill-china/</guid>
+          <link>https://majordigest.com/tech/2024/12/20/musk-delauro-spending-bill-china/</link>
+          <pubDate>Fri, 20 Dec 2024 23:20:15 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/20/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/20/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know.webp"/>
-          <dc:creator>HALELUYA HADERO, Associated Press, Fox 5</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/20/musk-delauro-spending-bill-china.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/20/musk-delauro-spending-bill-china.webp"/>
+          <dc:creator>Sylvan Lane, The Hill</dc:creator>
         </item>
         <item>
-          <title>Arm awaits verdict in high-stakes licensing suit against Qualcomm</title>
-          <description><![CDATA[Arm is waiting to see if it has won a battle over licensing of its microprocessor designs to Qualcomm that has cast doubt over the immediate future of some of the chip maker’s products.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/20/arm-awaits-verdict-in-high-stakes-licensing-suit-against-qualcomm/</guid>
-          <link>https://majordigest.com/tech/2024/12/20/arm-awaits-verdict-in-high-stakes-licensing-suit-against-qualcomm/</link>
-          <pubDate>Fri, 20 Dec 2024 18:18:29 GMT</pubDate>
+          <title>Google&#8217;s contractors told to evaluate Gemini responses outside their expertise</title>
+          <description><![CDATA[Behind the responses from genAI models are testers who evaluate those answers for accuracy, but a report released this week casts doubt on the process.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/20/googles-contractors-told-to-evaluate-gemini-responses-outside-their-expertise/</guid>
+          <link>https://majordigest.com/tech/2024/12/20/googles-contractors-told-to-evaluate-gemini-responses-outside-their-expertise/</link>
+          <pubDate>Fri, 20 Dec 2024 14:24:40 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/20/arm-awaits-verdict-in-high-stakes-licensing-suit-against-qualcomm.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/20/arm-awaits-verdict-in-high-stakes-licensing-suit-against-qualcomm.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/20/googles-contractors-told-to-evaluate-gemini-responses-outside-their-expertise.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/20/googles-contractors-told-to-evaluate-gemini-responses-outside-their-expertise.webp"/>
           <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Mainframe modernization that meets you where you are</title>
-          <description><![CDATA[Every business is unique in its approach to technology modernization. Likewise, the reasons behind initiating a modernization strategy will vary from business to business. However, a few key drivers have emerged as a common thread between businesses.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/20/mainframe-modernization-that-meets-you-where-you-are/</guid>
-          <link>https://majordigest.com/tech/2024/12/20/mainframe-modernization-that-meets-you-where-you-are/</link>
-          <pubDate>Fri, 20 Dec 2024 17:47:30 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/20/mainframe-modernization-that-meets-you-where-you-are.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/20/mainframe-modernization-that-meets-you-where-you-are.webp"/>
-          <dc:creator>CIO</dc:creator>
-        </item>
-        <item>
-          <title>VA EHR to resume rollout in mid-2026, after clinicians see fewer crashes</title>
-          <description><![CDATA[The VA says clinicians are seeing fewer interruptions from the new EHR, and that the average user now sees “near zero interruptions,” such as freezes or lags.
-The post VA EHR to resume rollout in mid-2026, after clinicians see fewer crashes first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/20/va-ehr-to-resume-rollout-in-mid-2026-after-clinicians-see-fewer-crashes/</guid>
-          <link>https://majordigest.com/tech/2024/12/20/va-ehr-to-resume-rollout-in-mid-2026-after-clinicians-see-fewer-crashes/</link>
-          <pubDate>Fri, 20 Dec 2024 16:36:57 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/20/va-ehr-to-resume-rollout-in-mid-2026-after-clinicians-see-fewer-crashes.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/20/va-ehr-to-resume-rollout-in-mid-2026-after-clinicians-see-fewer-crashes.webp"/>
-          <dc:creator>Jory Heckman, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Transparency, efficiency, innovation: The digital transformation of policing in Kazakhstan</title>
-          <description><![CDATA[In the era of digital transformation, public safety stands at a critical crossroads. Law enforcement agencies globally are under increasing scrutiny to enhance transparency, efficiency, and trust within their communities.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/20/transparency-efficiency-innovation-the-digital-transformation-of-policing-in-kazakhstan/</guid>
-          <link>https://majordigest.com/tech/2024/12/20/transparency-efficiency-innovation-the-digital-transformation-of-policing-in-kazakhstan/</link>
-          <pubDate>Fri, 20 Dec 2024 04:25:03 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/20/transparency-efficiency-innovation-the-digital-transformation-of-policing-in-kazakhstan.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/20/transparency-efficiency-innovation-the-digital-transformation-of-policing-in-kazakhstan.webp"/>
-          <dc:creator>Network World</dc:creator>
         </item>
         <item>
           <title>Amazon workers strike at multiple facilities as Teamsters seek labor contract</title>
@@ -216,40 +214,18 @@ The post VA EHR to resume rollout in mid-2026, after clinicians see fewer crashe
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/19/teamsters-say-amazon-workers-will-strike-at-multiple-facilities-as-union-seeks-labor-contract.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/19/teamsters-say-amazon-workers-will-strike-at-multiple-facilities-as-union-seeks-labor-contract.webp"/>
-          <dc:creator>HALELUYA HADERO, Associated Press, PIX 11</dc:creator>
+          <dc:creator>HALELUYA HADERO, Associated Press, KRON4</dc:creator>
         </item>
         <item>
-          <title>Giant sloths and mastodons lived with humans for millennia in the Americas, new discoveries suggest</title>
-          <description><![CDATA[New discoveries from several archaeological sites in North and South America suggest that ancient people first arrived in the New World much earlier than scientists once thought.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/19/giant-sloths-and-mastodons-coexisted-with-humans-for-millennia-in-americas-new-discoveries-suggest/</guid>
-          <link>https://majordigest.com/tech/2024/12/19/giant-sloths-and-mastodons-coexisted-with-humans-for-millennia-in-americas-new-discoveries-suggest/</link>
-          <pubDate>Thu, 19 Dec 2024 21:28:37 GMT</pubDate>
+          <title>2024 obituaries: Notable Bay Area residents who died</title>
+          <description><![CDATA[SF Giants stars Willie Mays and Orlando Cepeda, tech pioneer Susan Wojcicki and music legend Phil Lesh are among those who left a mark on the Bay Area in their lifetimes.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/19/obituaries-2024-san-francisco-bay-area-willie-mays-phil-lesh-susan-wojcicki-carl-weathers/</guid>
+          <link>https://majordigest.com/tech/2024/12/19/obituaries-2024-san-francisco-bay-area-willie-mays-phil-lesh-susan-wojcicki-carl-weathers/</link>
+          <pubDate>Thu, 19 Dec 2024 14:30:29 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/19/giant-sloths-and-mastodons-coexisted-with-humans-for-millennia-in-americas-new-discoveries-suggest.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/19/giant-sloths-and-mastodons-coexisted-with-humans-for-millennia-in-americas-new-discoveries-suggest.webp"/>
-          <dc:creator>Christina Larson, Associated Press, KPRC 2</dc:creator>
-        </item>
-        <item>
-          <title>Australian who falsely claimed to have invented bitcoin is found in contempt of UK court</title>
-          <description><![CDATA[LONDON (AP) — An Australian computer scientist who falsely claimed to be the founder of the bitcoin cryptocurrency was found Thursday to be in contempt of an order of London's High Court and was sentenced to 12 months in prison, suspended for two years.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/19/australian-who-falsely-claimed-to-have-invented-bitcoin-is-found-in-contempt-of-uk-court/</guid>
-          <link>https://majordigest.com/tech/2024/12/19/australian-who-falsely-claimed-to-have-invented-bitcoin-is-found-in-contempt-of-uk-court/</link>
-          <pubDate>Thu, 19 Dec 2024 16:22:06 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/19/australian-who-falsely-claimed-to-have-invented-bitcoin-is-found-in-contempt-of-uk-court.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/19/australian-who-falsely-claimed-to-have-invented-bitcoin-is-found-in-contempt-of-uk-court.webp"/>
-          <dc:creator>PAN PYLAS, Associated Press, KLAS, CBS News</dc:creator>
-        </item>
-        <item>
-          <title>Massive data breach at federal credit union exposes 240,000 members</title>
-          <description><![CDATA[A credit union with over 240,000 members recently revealed it was targeted by cybercriminals, resulting in a data breach that was part of a two-month attack by hackers.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/19/massive-data-breach-federal-credit-union-exposes-240000-members/</guid>
-          <link>https://majordigest.com/tech/2024/12/19/massive-data-breach-federal-credit-union-exposes-240000-members/</link>
-          <pubDate>Thu, 19 Dec 2024 15:00:16 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/19/massive-data-breach-federal-credit-union-exposes-240000-members.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/19/massive-data-breach-federal-credit-union-exposes-240000-members.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/19/obituaries-2024-san-francisco-bay-area-willie-mays-phil-lesh-susan-wojcicki-carl-weathers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/19/obituaries-2024-san-francisco-bay-area-willie-mays-phil-lesh-susan-wojcicki-carl-weathers.webp"/>
+          <dc:creator>Bay Area News Group, The Mercury News</dc:creator>
         </item>
         <item>
           <title>Apple complains Meta requests risk privacy in spat over EU efforts to widen access to iPhone tech</title>
@@ -260,53 +236,73 @@ The post VA EHR to resume rollout in mid-2026, after clinicians see fewer crashe
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/19/apple-complains-meta-requests-risk-privacy-in-spat-over-eu-efforts-to-widen-access-to-iphone-tech.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/19/apple-complains-meta-requests-risk-privacy-in-spat-over-eu-efforts-to-widen-access-to-iphone-tech.webp"/>
-          <dc:creator>KELVIN CHAN, Associated Press, Fox 5</dc:creator>
+          <dc:creator>KELVIN CHAN, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
-          <title>YouTube&#8217;s top trends for 2024 include Bay Area creators</title>
-          <description><![CDATA[Online video giant YouTube has published its year-end top trends lists for 2024 and in includes Bay Area content creators.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/18/youtubes-top-trends-for-2024-include-bay-area-creators/</guid>
-          <link>https://majordigest.com/tech/2024/12/18/youtubes-top-trends-for-2024-include-bay-area-creators/</link>
-          <pubDate>Wed, 18 Dec 2024 21:41:14 GMT</pubDate>
+          <title>Create searchable Bluesky bookmarks with R</title>
+          <description><![CDATA[The Bluesky social network is seeping into the mainstream, thanks in part to people unhappy with changes at X (formerly Twitter). “It’s not some untouched paradise, but it’s got a spark of something refreshing,” Jan Beger, global head of AI Advocacy at GE HealthCare, posted on LinkedIn last month.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r/</guid>
+          <link>https://majordigest.com/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r/</link>
+          <pubDate>Thu, 19 Dec 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/youtubes-top-trends-for-2024-include-bay-area-creators.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/youtubes-top-trends-for-2024-include-bay-area-creators.webp"/>
-          <dc:creator>Pueng Vongs, The Mercury News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Flexibility or security? Trick question: It&#8217;s a false choice. Here&#8217;s what to do instead</title>
-          <description><![CDATA[Remember when 'work' was a place? Federal agencies rethink BYOD to balance security and usability.
-The post Flexibility or security? Trick question: It’s a false choice. Here’s what to do instead first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/18/flexibility-or-security-trick-question-its-a-false-choice-heres-what-to-do-instead/</guid>
-          <link>https://majordigest.com/tech/2024/12/18/flexibility-or-security-trick-question-its-a-false-choice-heres-what-to-do-instead/</link>
-          <pubDate>Wed, 18 Dec 2024 20:53:27 GMT</pubDate>
+          <title>Getting started with Azure Managed Redis</title>
+          <description><![CDATA[Microsoft has made a lot of big bets in its preferred cloud-native infrastructure. You only need to look at .]]></description>
+          <guid>https://majordigest.com/tech/2024/12/19/getting-started-with-azure-managed-redis/</guid>
+          <link>https://majordigest.com/tech/2024/12/19/getting-started-with-azure-managed-redis/</link>
+          <pubDate>Thu, 19 Dec 2024 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/flexibility-or-security-trick-question-its-a-false-choice-heres-what-to-do-instead.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/flexibility-or-security-trick-question-its-a-false-choice-heres-what-to-do-instead.webp"/>
-          <dc:creator>wfedstaff, Federal News Network</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/19/getting-started-with-azure-managed-redis.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/19/getting-started-with-azure-managed-redis.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>How the Trump administration is likely to deal with artificial intelligence</title>
-          <description><![CDATA[The National Defense Authorization Act for 2025 has extensive language on ensuring competition in AI. What can we expect from the Trump administration?
-The post How the Trump administration is likely to deal with artificial intelligence first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/18/how-the-trump-administration-is-likely-to-deal-with-artificial-intelligence/</guid>
-          <link>https://majordigest.com/tech/2024/12/18/how-the-trump-administration-is-likely-to-deal-with-artificial-intelligence/</link>
-          <pubDate>Wed, 18 Dec 2024 19:02:01 GMT</pubDate>
+          <title>Supreme Court takes up challenge to TikTok ban</title>
+          <description><![CDATA[The Supreme Court announced it will take up whether a law that could ban TikTok nationwide violates the First Amendment, setting the stage for a fast-paced, high-stakes battle over free speech.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/18/supreme-court-takes-up-challenge-to-tiktok-ban/</guid>
+          <link>https://majordigest.com/tech/2024/12/18/supreme-court-takes-up-challenge-to-tiktok-ban/</link>
+          <pubDate>Wed, 18 Dec 2024 17:29:26 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/how-the-trump-administration-is-likely-to-deal-with-artificial-intelligence.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/how-the-trump-administration-is-likely-to-deal-with-artificial-intelligence.webp"/>
-          <dc:creator>Tom Temin, Federal News Network</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/supreme-court-takes-up-challenge-to-tiktok-ban.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/supreme-court-takes-up-challenge-to-tiktok-ban.webp"/>
+          <dc:creator>Julia Shapero, NewsNation</dc:creator>
         </item>
         <item>
-          <title>CompTIA launches expert-level cybersecurity certification</title>
-          <description><![CDATA[CompTIA this week made available its CompTIA SecurityX certification program, which is an updated version of the CompTIA Advanced Security Practitioner (CASP+) cert and part of CompTIA’s Xpert Series of certifications.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/18/comptia-launches-expert-level-cybersecurity-certification/</guid>
-          <link>https://majordigest.com/tech/2024/12/18/comptia-launches-expert-level-cybersecurity-certification/</link>
-          <pubDate>Wed, 18 Dec 2024 16:54:26 GMT</pubDate>
+          <title>Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds</title>
+          <description><![CDATA[WASHINGTON (AP) — Elon Musk, clad in tuxedo and black tie, took the stage at President-elect Donald Trump's Mar-a-Lago resort shortly after the election with all the swagger of the winning candidate himself. “The public has given us a mandate that could not be more clear, the clearest mandate.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/18/musk-and-trump-are-viewed-roughly-the-same-by-americans-an-ap-norc-poll-finds/</guid>
+          <link>https://majordigest.com/tech/2024/12/18/musk-and-trump-are-viewed-roughly-the-same-by-americans-an-ap-norc-poll-finds/</link>
+          <pubDate>Wed, 18 Dec 2024 17:09:22 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/comptia-launches-expert-level-cybersecurity-certification.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/comptia-launches-expert-level-cybersecurity-certification.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/musk-and-trump-are-viewed-roughly-the-same-by-americans-an-ap-norc-poll-finds.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/musk-and-trump-are-viewed-roughly-the-same-by-americans-an-ap-norc-poll-finds.webp"/>
+          <dc:creator>THOMAS BEAUMONT, SARAH PARVINI and AMELIA THOMSON-DEVEAUX, Associated Press, Fox 5</dc:creator>
+        </item>
+        <item>
+          <title>OpenAI Responds to Elon Musk Lawsuit, Trump Inaugural Fund Donation</title>
+          <description><![CDATA[OpenAI hits back at Elon Musk lawsuit, CEO donates $1 million to Trump's inaugural fund]]></description>
+          <guid>https://majordigest.com/tech/2024/12/18/fox-news-ai-newsletter-openai-responds-elon-musks-lawsuit/</guid>
+          <link>https://majordigest.com/tech/2024/12/18/fox-news-ai-newsletter-openai-responds-elon-musks-lawsuit/</link>
+          <pubDate>Wed, 18 Dec 2024 16:59:32 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/fox-news-ai-newsletter-openai-responds-elon-musks-lawsuit.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/fox-news-ai-newsletter-openai-responds-elon-musks-lawsuit.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>On Arm PC return rates and CEO posturing</title>
+          <description><![CDATA[With her claim that retailers are seeing high returns of Arm PCs, Intel interim CEO Michelle Johnston Holthaus appears to be trying to scare buyers off the rival processor architecture. But enterprise buyers who look before they leap have little to fear.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/18/on-arm-pc-return-rates-and-ceo-posturing/</guid>
+          <link>https://majordigest.com/tech/2024/12/18/on-arm-pc-return-rates-and-ceo-posturing/</link>
+          <pubDate>Wed, 18 Dec 2024 14:12:34 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/on-arm-pc-return-rates-and-ceo-posturing.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/on-arm-pc-return-rates-and-ceo-posturing.webp"/>
+          <dc:creator>CIO</dc:creator>
         </item>
         <item>
           <title>Barcelona subway recycles energy from braking into power to charge electric cars</title>
@@ -317,39 +313,27 @@ The post How the Trump administration is likely to deal with artificial intellig
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/barcelona-subway-recycles-energy-from-braking-into-power-to-charge-electric-cars.webp"/>
           <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/barcelona-subway-recycles-energy-from-braking-into-power-to-charge-electric-cars.webp"/>
-          <dc:creator>JOSEPH WILSON, Associated Press, ABC 4</dc:creator>
+          <dc:creator>JOSEPH WILSON, Associated Press, KLAS, CBS News</dc:creator>
         </item>
         <item>
-          <title>You have a license to code</title>
-          <description><![CDATA[One of the coolest things about software development is that you don’t need anyone’s permission to do it. If you need an application for your business or personal use, there isn’t a single thing stopping you from learning to code and writing it yourself.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/18/you-have-a-license-to-code/</guid>
-          <link>https://majordigest.com/tech/2024/12/18/you-have-a-license-to-code/</link>
-          <pubDate>Wed, 18 Dec 2024 09:00:00 GMT</pubDate>
+          <title>Half a million patients' personal info stolen in massive health care data breach</title>
+          <description><![CDATA[Hackers recently leaked personal information of about 500,000 Americans and stole patient medical records that included lab results and insurance details.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/18/half-million-patients-personal-info-stolen-massive-healthcare-data-breach/</guid>
+          <link>https://majordigest.com/tech/2024/12/18/half-million-patients-personal-info-stolen-massive-healthcare-data-breach/</link>
+          <pubDate>Wed, 18 Dec 2024 11:00:31 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/you-have-a-license-to-code.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/you-have-a-license-to-code.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/half-million-patients-personal-info-stolen-massive-healthcare-data-breach.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/half-million-patients-personal-info-stolen-massive-healthcare-data-breach.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>The push to upskill the technology workforce in federal agencies</title>
-          <description><![CDATA[The federal government is facing a massive tech talent shortage, particularly as the development and use of AI continues to gain traction.
-The post The push to upskill the technology workforce in federal agencies first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/17/the-push-to-upskill-the-technology-workforce-in-federal-agencies/</guid>
-          <link>https://majordigest.com/tech/2024/12/17/the-push-to-upskill-the-technology-workforce-in-federal-agencies/</link>
-          <pubDate>Tue, 17 Dec 2024 23:25:35 GMT</pubDate>
+          <title>5 wizardly ways to integrate web apps with Windows</title>
+          <description><![CDATA[While Windows is a powerful operating system for productivity, so much of what we do with work these days revolves around the web.]]></description>
+          <guid>https://majordigest.com/tech/2024/12/18/windows-web-apps/</guid>
+          <link>https://majordigest.com/tech/2024/12/18/windows-web-apps/</link>
+          <pubDate>Wed, 18 Dec 2024 11:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/17/the-push-to-upskill-the-technology-workforce-in-federal-agencies.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/17/the-push-to-upskill-the-technology-workforce-in-federal-agencies.webp"/>
-          <dc:creator>commentators, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Senate report alleges Amazon rejected warehouse safety recommendations due to productivity concerns</title>
-          <description><![CDATA[At least two internal Amazon studies found a link between how quickly the online retailer's warehouse workers perform tasks and workplace injuries, but the company rejected many safety recommendations out of concern the proposed changes might reduce productivity, according to a U.S.]]></description>
-          <guid>https://majordigest.com/tech/2024/12/16/senate-report-alleges-amazon-rejected-warehouse-safety-recommendations-due-to-productivity-concerns/</guid>
-          <link>https://majordigest.com/tech/2024/12/16/senate-report-alleges-amazon-rejected-warehouse-safety-recommendations-due-to-productivity-concerns/</link>
-          <pubDate>Mon, 16 Dec 2024 17:59:15 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/16/senate-report-alleges-amazon-rejected-warehouse-safety-recommendations-due-to-productivity-concerns.webp"/>
-          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/16/senate-report-alleges-amazon-rejected-warehouse-safety-recommendations-due-to-productivity-concerns.webp"/>
-          <dc:creator>HALELUYA HADERO, Associated Press, Fox 5</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static11/tech/2024/12/18/windows-web-apps.webp"/>
+          <media:thumbnail url="https://majordigest.com/static11/tech/2024/12/18/windows-web-apps.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item></channel></rss>

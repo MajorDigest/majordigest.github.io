@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/22/google-whisk-is-a-new-way-to-create-ai-visuals-using-image-prompts-heres-how-to-try-it/</loc>
+          <loc>https://majordigest.com/tech/2024/12/23/drones-detection-radio-signal-frequencies/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-22T09:00:00.000Z</news:publication_date>
-            <news:title>Google Whisk: A New AI Tool for Visual Concept Creation</news:title>
+            <news:publication_date>2024-12-23T17:00:00.000Z</news:publication_date>
+            <news:title>Unidentified Drones: Understanding the Challenge and Finding Solutions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/22/google-whisk-is-a-new-way-to-create-ai-visuals-using-image-prompts-heres-how-to-try-it.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/23/drones-detection-radio-signal-frequencies.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/18/fox-news-ai-newsletter-openai-responds-elon-musks-lawsuit/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-18T16:59:32.000Z</news:publication_date>
+            <news:title>OpenAI Responds to Elon Musk Lawsuit, Trump Inaugural Fund Donation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/fox-news-ai-newsletter-openai-responds-elon-musks-lawsuit.webp</image:loc>
           </image:image>
         </url></urlset>

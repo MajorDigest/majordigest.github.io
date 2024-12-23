@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/23/i-experimented-with-ai-chatbots-from-3-legacy-media-outlets-heres-what-happened/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-23T19:00:00.000Z</news:publication_date>
-            <news:title>I tried out 3 media outlets&#8217; AI chatbots. Here&#8217;s what happened</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/23/i-experimented-with-ai-chatbots-from-3-legacy-media-outlets-heres-what-happened.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/12/23/drones-detection-radio-signal-frequencies/</loc>
           <news:news>
             <news:publication>
@@ -24,24 +10,38 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-12-23T17:00:00.000Z</news:publication_date>
-            <news:title>Looking for small&#160;drones? Listen for the right radio signals</news:title>
+            <news:title>Unidentified Drones: Understanding the Challenge and Finding Solutions</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/23/drones-detection-radio-signal-frequencies.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/23/sap-customers-still-slow-to-deploy-ai-broadly/</loc>
+          <loc>https://majordigest.com/tech/2024/12/23/how-generative-ai-could-aid-kubernetes-operations/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-23T09:30:00.000Z</news:publication_date>
-            <news:title>SAP customers still slow to deploy AI broadly</news:title>
+            <news:publication_date>2024-12-23T09:00:00.000Z</news:publication_date>
+            <news:title>How generative AI could aid Kubernetes operations</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/23/sap-customers-still-slow-to-deploy-ai-broadly.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/23/how-generative-ai-could-aid-kubernetes-operations.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/23/overcoming-modern-observability-challenges/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-23T09:00:00.000Z</news:publication_date>
+            <news:title>Overcoming modern observability challenges</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/23/overcoming-modern-observability-challenges.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -59,6 +59,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/12/23/el-papel-del-cio-en-2024-una-retrospectiva-del-ano-en-clave-ti/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-23T06:30:00.000Z</news:publication_date>
+            <news:title>El papel del CIO en 2024: una retrospectiva del a&#241;o en clave TI</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/23/el-papel-del-cio-en-2024-una-retrospectiva-del-ano-en-clave-ti.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/22/chris-christie-elon-musk-trump/</loc>
           <news:news>
             <news:publication>
@@ -70,20 +84,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/22/chris-christie-elon-musk-trump.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/22/google-tv-users-are-getting-even-more-free-channels-in-time-for-the-holidays/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-22T16:30:00.000Z</news:publication_date>
-            <news:title>Google TV users are getting even more free channels in time for the holidays</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/22/google-tv-users-are-getting-even-more-free-channels-in-time-for-the-holidays.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,17 +101,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/22/bluesky-finds-with-growth-comes-growing-pains-and-bots/</loc>
+          <loc>https://majordigest.com/tech/2024/12/22/new-leak-says-if-your-iphone-can-run-ios-18-it-should-be-able-to-run-ios-19-too/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-22T12:35:37.000Z</news:publication_date>
-            <news:title>Bluesky finds with growth comes growing pains &#8212; and bots</news:title>
+            <news:publication_date>2024-12-22T12:30:00.000Z</news:publication_date>
+            <news:title>New leak says if your iPhone can run iOS 18, it should be able to run iOS 19 too</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/22/bluesky-finds-with-growth-comes-growing-pains-and-bots.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/22/new-leak-says-if-your-iphone-can-run-ios-18-it-should-be-able-to-run-ios-19-too.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -122,24 +122,24 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2024-12-22T09:00:00.000Z</news:publication_date>
-            <news:title>Google Whisk: A New AI Tool for Visual Concept Creation</news:title>
+            <news:title>Google Whisk is a new way to create AI visuals using image prompts &#8211;here's how to try it</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/22/google-whisk-is-a-new-way-to-create-ai-visuals-using-image-prompts-heres-how-to-try-it.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/22/AI-driven-dynamic-pricing-strategies-are-allowing-businesses-to-adjust-prices-rapidly-based-on-real-time-data-analysis/</loc>
+          <loc>https://majordigest.com/tech/2024/12/22/albania-to-shut-down-tiktok-for-a-year-over-violence-bullying/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-22T08:07:10.000Z</news:publication_date>
-            <news:title>These are the companies using AI-driven dynamic pricing the most - and the top users probably won't surprise you</news:title>
+            <news:publication_date>2024-12-22T03:45:26.000Z</news:publication_date>
+            <news:title>Albania to shut down TikTok for a year over violence, bullying</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/22/AI-driven-dynamic-pricing-strategies-are-allowing-businesses-to-adjust-prices-rapidly-based-on-real-time-data-analysis.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/22/albania-to-shut-down-tiktok-for-a-year-over-violence-bullying.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -157,6 +157,48 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/12/21/ex-openai-engineer-who-raised-legal-concerns-about-the-technology-he-helped-build-has-died/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-21T19:35:02.000Z</news:publication_date>
+            <news:title>Ex-OpenAI engineer who raised legal concerns about the technology he helped build has died</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/ex-openai-engineer-who-raised-legal-concerns-about-the-technology-he-helped-build-has-died.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/21/we-may-have-to-wait-longer-for-the-oneplus-open-2-than-we-thought/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-21T18:30:00.000Z</news:publication_date>
+            <news:title>We may have to wait longer for the OnePlus Open 2 than we thought</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/we-may-have-to-wait-longer-for-the-oneplus-open-2-than-we-thought.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/21/yellowjackets-season-3/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-21T09:00:00.000Z</news:publication_date>
+            <news:title>Yellowjackets season 3: release date, cast, trailer and more news and rumors about the hit Paramount Plus show</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/yellowjackets-season-3.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/21/arms-high-stakes-licensing-suit-against-qualcomm-ends-in-mistrial-but-qualcomm-prevails-in-key-areas/</loc>
           <news:news>
             <news:publication>
@@ -171,73 +213,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/20/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know/</loc>
+          <loc>https://majordigest.com/tech/2024/12/20/musk-delauro-spending-bill-china/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-20T22:51:34.000Z</news:publication_date>
-            <news:title>Amazon workers are striking at multiple facilities. Here's what you should know</news:title>
+            <news:publication_date>2024-12-20T23:20:15.000Z</news:publication_date>
+            <news:title>Democrat accuses Musk of tanking spending bill over China restrictions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/20/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/20/musk-delauro-spending-bill-china.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/20/arm-awaits-verdict-in-high-stakes-licensing-suit-against-qualcomm/</loc>
+          <loc>https://majordigest.com/tech/2024/12/20/googles-contractors-told-to-evaluate-gemini-responses-outside-their-expertise/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-20T18:18:29.000Z</news:publication_date>
-            <news:title>Arm awaits verdict in high-stakes licensing suit against Qualcomm</news:title>
+            <news:publication_date>2024-12-20T14:24:40.000Z</news:publication_date>
+            <news:title>Google&#8217;s contractors told to evaluate Gemini responses outside their expertise</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/20/arm-awaits-verdict-in-high-stakes-licensing-suit-against-qualcomm.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/20/mainframe-modernization-that-meets-you-where-you-are/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-20T17:47:30.000Z</news:publication_date>
-            <news:title>Mainframe modernization that meets you where you are</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/20/mainframe-modernization-that-meets-you-where-you-are.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/20/va-ehr-to-resume-rollout-in-mid-2026-after-clinicians-see-fewer-crashes/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-20T16:36:57.000Z</news:publication_date>
-            <news:title>VA EHR to resume rollout in mid-2026, after clinicians see fewer crashes</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/20/va-ehr-to-resume-rollout-in-mid-2026-after-clinicians-see-fewer-crashes.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/20/transparency-efficiency-innovation-the-digital-transformation-of-policing-in-kazakhstan/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-20T04:25:03.000Z</news:publication_date>
-            <news:title>Transparency, efficiency, innovation: The digital transformation of policing in Kazakhstan</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/20/transparency-efficiency-innovation-the-digital-transformation-of-policing-in-kazakhstan.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/20/googles-contractors-told-to-evaluate-gemini-responses-outside-their-expertise.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -255,45 +255,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/19/giant-sloths-and-mastodons-coexisted-with-humans-for-millennia-in-americas-new-discoveries-suggest/</loc>
+          <loc>https://majordigest.com/tech/2024/12/19/obituaries-2024-san-francisco-bay-area-willie-mays-phil-lesh-susan-wojcicki-carl-weathers/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-19T21:28:37.000Z</news:publication_date>
-            <news:title>Giant sloths and mastodons lived with humans for millennia in the Americas, new discoveries suggest</news:title>
+            <news:publication_date>2024-12-19T14:30:29.000Z</news:publication_date>
+            <news:title>2024 obituaries: Notable Bay Area residents who died</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/19/giant-sloths-and-mastodons-coexisted-with-humans-for-millennia-in-americas-new-discoveries-suggest.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/19/australian-who-falsely-claimed-to-have-invented-bitcoin-is-found-in-contempt-of-uk-court/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-19T16:22:06.000Z</news:publication_date>
-            <news:title>Australian who falsely claimed to have invented bitcoin is found in contempt of UK court</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/19/australian-who-falsely-claimed-to-have-invented-bitcoin-is-found-in-contempt-of-uk-court.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/19/massive-data-breach-federal-credit-union-exposes-240000-members/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-19T15:00:16.000Z</news:publication_date>
-            <news:title>Massive data breach at federal credit union exposes 240,000 members</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/19/massive-data-breach-federal-credit-union-exposes-240000-members.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/19/obituaries-2024-san-francisco-bay-area-willie-mays-phil-lesh-susan-wojcicki-carl-weathers.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -311,59 +283,87 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/18/youtubes-top-trends-for-2024-include-bay-area-creators/</loc>
+          <loc>https://majordigest.com/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-18T21:41:14.000Z</news:publication_date>
-            <news:title>YouTube&#8217;s top trends for 2024 include Bay Area creators</news:title>
+            <news:publication_date>2024-12-19T09:00:00.000Z</news:publication_date>
+            <news:title>Create searchable Bluesky bookmarks with R</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/youtubes-top-trends-for-2024-include-bay-area-creators.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/18/flexibility-or-security-trick-question-its-a-false-choice-heres-what-to-do-instead/</loc>
+          <loc>https://majordigest.com/tech/2024/12/19/getting-started-with-azure-managed-redis/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-18T20:53:27.000Z</news:publication_date>
-            <news:title>Flexibility or security? Trick question: It&#8217;s a false choice. Here&#8217;s what to do instead</news:title>
+            <news:publication_date>2024-12-19T09:00:00.000Z</news:publication_date>
+            <news:title>Getting started with Azure Managed Redis</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/flexibility-or-security-trick-question-its-a-false-choice-heres-what-to-do-instead.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/19/getting-started-with-azure-managed-redis.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/18/how-the-trump-administration-is-likely-to-deal-with-artificial-intelligence/</loc>
+          <loc>https://majordigest.com/tech/2024/12/18/supreme-court-takes-up-challenge-to-tiktok-ban/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-18T19:02:01.000Z</news:publication_date>
-            <news:title>How the Trump administration is likely to deal with artificial intelligence</news:title>
+            <news:publication_date>2024-12-18T17:29:26.000Z</news:publication_date>
+            <news:title>Supreme Court takes up challenge to TikTok ban</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/how-the-trump-administration-is-likely-to-deal-with-artificial-intelligence.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/supreme-court-takes-up-challenge-to-tiktok-ban.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/18/comptia-launches-expert-level-cybersecurity-certification/</loc>
+          <loc>https://majordigest.com/tech/2024/12/18/musk-and-trump-are-viewed-roughly-the-same-by-americans-an-ap-norc-poll-finds/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-18T16:54:26.000Z</news:publication_date>
-            <news:title>CompTIA launches expert-level cybersecurity certification</news:title>
+            <news:publication_date>2024-12-18T17:09:22.000Z</news:publication_date>
+            <news:title>Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/comptia-launches-expert-level-cybersecurity-certification.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/musk-and-trump-are-viewed-roughly-the-same-by-americans-an-ap-norc-poll-finds.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/18/fox-news-ai-newsletter-openai-responds-elon-musks-lawsuit/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-18T16:59:32.000Z</news:publication_date>
+            <news:title>OpenAI Responds to Elon Musk Lawsuit, Trump Inaugural Fund Donation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/fox-news-ai-newsletter-openai-responds-elon-musks-lawsuit.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/18/on-arm-pc-return-rates-and-ceo-posturing/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-18T14:12:34.000Z</news:publication_date>
+            <news:title>On Arm PC return rates and CEO posturing</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/on-arm-pc-return-rates-and-ceo-posturing.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -381,44 +381,30 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/18/you-have-a-license-to-code/</loc>
+          <loc>https://majordigest.com/tech/2024/12/18/half-million-patients-personal-info-stolen-massive-healthcare-data-breach/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-18T09:00:00.000Z</news:publication_date>
-            <news:title>You have a license to code</news:title>
+            <news:publication_date>2024-12-18T11:00:31.000Z</news:publication_date>
+            <news:title>Half a million patients' personal info stolen in massive health care data breach</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/you-have-a-license-to-code.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/half-million-patients-personal-info-stolen-massive-healthcare-data-breach.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/the-push-to-upskill-the-technology-workforce-in-federal-agencies/</loc>
+          <loc>https://majordigest.com/tech/2024/12/18/windows-web-apps/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T23:25:35.000Z</news:publication_date>
-            <news:title>The push to upskill the technology workforce in federal agencies</news:title>
+            <news:publication_date>2024-12-18T11:00:00.000Z</news:publication_date>
+            <news:title>5 wizardly ways to integrate web apps with Windows</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/the-push-to-upskill-the-technology-workforce-in-federal-agencies.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/16/senate-report-alleges-amazon-rejected-warehouse-safety-recommendations-due-to-productivity-concerns/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-16T17:59:15.000Z</news:publication_date>
-            <news:title>Senate report alleges Amazon rejected warehouse safety recommendations due to productivity concerns</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/16/senate-report-alleges-amazon-rejected-warehouse-safety-recommendations-due-to-productivity-concerns.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/windows-web-apps.webp</image:loc>
           </image:image>
         </url></urlset>
