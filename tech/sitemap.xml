@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2024/12/24/45-years-ago-the-walkman-changed-how-we-listen-to-music/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-24T21:00:00.000Z</news:publication_date>
+            <news:title>45 years ago, the Walkman changed how we listen to music</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/24/45-years-ago-the-walkman-changed-how-we-listen-to-music.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/24/opinion-artificial-intelligence-national-security-secrecy/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-24T13:30:22.000Z</news:publication_date>
+            <news:title>Biden's AI Plan Threatens Secrecy and Unaccountability</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/24/opinion-artificial-intelligence-national-security-secrecy.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/24/waytools-textblade-pocket-keyboard/</loc>
           <news:news>
             <news:publication>
@@ -17,17 +45,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/24/xerox-buys-lexmark-for-usd1-5-billion-to-build-us-printer-giant-capable-of-rivaling-hp/</loc>
+          <loc>https://majordigest.com/tech/2024/12/24/after-two-decades-gimp-3-0-is-set-for-release-with-high-resolution-compatibility-and-extensive-improvements/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-24T11:31:10.000Z</news:publication_date>
-            <news:title>Xerox Acquires Lexmark for $1.5 Billion, Strengthening Position in Enterprise Market</news:title>
+            <news:publication_date>2024-12-24T12:14:00.000Z</news:publication_date>
+            <news:title>After two decades, GIMP 3.0 has arrived with high-resolution compatibility and extensive improvements</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/24/xerox-buys-lexmark-for-usd1-5-billion-to-build-us-printer-giant-capable-of-rivaling-hp.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/24/after-two-decades-gimp-3-0-is-set-for-release-with-high-resolution-compatibility-and-extensive-improvements.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,6 +73,48 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2024/12/24/los-clientes-de-sap-estan-tardando-en-implantar-la-ia-de-forma-generalizada/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-24T10:02:22.000Z</news:publication_date>
+            <news:title>Los clientes de SAP est&#225;n tardando en implantar la IA de forma generalizada</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/24/los-clientes-de-sap-estan-tardando-en-implantar-la-ia-de-forma-generalizada.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/24/8-major-it-disasters-of-2024/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-24T10:01:00.000Z</news:publication_date>
+            <news:title>8 major IT disasters of 2024</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/24/8-major-it-disasters-of-2024.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/24/cuatro-pasos-para-optimizar-el-gasto-empresarial-en-la-nube/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-24T08:00:00.000Z</news:publication_date>
+            <news:title>Cuatro pasos para optimizar el gasto empresarial en la nube</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/24/cuatro-pasos-para-optimizar-el-gasto-empresarial-en-la-nube.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2024/12/24/russian-hosting-firm-ruvds-takes-server-tech-to-the-south-pole-for-high-speed-data-tests-in-extreme-conditions/</loc>
           <news:news>
             <news:publication>
@@ -59,59 +129,171 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/23/drones-detection-radio-signal-frequencies/</loc>
+          <loc>https://majordigest.com/tech/2024/12/24/fake-ai-generated-reviews-internet-research/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-23T17:00:00.000Z</news:publication_date>
-            <news:title>Looking for small&#160;drones? Listen for the right radio signals</news:title>
+            <news:publication_date>2024-12-24T03:45:00.000Z</news:publication_date>
+            <news:title>Fake AI-generated reviews are all over the internet, research shows</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/23/drones-detection-radio-signal-frequencies.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/24/fake-ai-generated-reviews-internet-research.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/23/trump-taps-sriram-krishnan-for-ai-advisor-role-amid-strategic-shift-in-tech-policy/</loc>
+          <loc>https://majordigest.com/tech/2024/12/24/how-digital-transformation-is-reshaping-energy-systems/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-23T12:01:32.000Z</news:publication_date>
-            <news:title>Trump taps Sriram Krishnan for AI advisor role amid strategic shift in tech policy</news:title>
+            <news:publication_date>2024-12-24T00:58:55.000Z</news:publication_date>
+            <news:title>How digital transformation is reshaping energy systems</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/23/trump-taps-sriram-krishnan-for-ai-advisor-role-amid-strategic-shift-in-tech-policy.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/24/how-digital-transformation-is-reshaping-energy-systems.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/22/trump-inaugural-fund-tech-donations/</loc>
+          <loc>https://majordigest.com/tech/2024/12/23/many-creatives-are-actually-optimistic-about-the-effects-of-ai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-22T22:23:11.000Z</news:publication_date>
-            <news:title>Why Big Tech is funding Trump's inauguration</news:title>
+            <news:publication_date>2024-12-23T10:19:51.000Z</news:publication_date>
+            <news:title>Many creatives are actually optimistic about the effects of AI</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/22/trump-inaugural-fund-tech-donations.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/23/many-creatives-are-actually-optimistic-about-the-effects-of-ai.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/22/nasas-parker-solar-probe-aims-to-fly-closer-to-the-sun-like-never-before/</loc>
+          <loc>https://majordigest.com/tech/2024/12/21/amazon-and-starbucks-workers-are-on-strike-trump-might-have-something-to-do-with-it/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-22T14:00:06.000Z</news:publication_date>
-            <news:title>NASA's Parker Solar Probe aims to fly closer to the sun like never before</news:title>
+            <news:publication_date>2024-12-21T20:42:56.000Z</news:publication_date>
+            <news:title>Amazon and Starbucks workers are on strike. Trump might have something to do with it</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/22/nasas-parker-solar-probe-aims-to-fly-closer-to-the-sun-like-never-before.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/amazon-and-starbucks-workers-are-on-strike-trump-might-have-something-to-do-with-it.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/21/ex-openai-engineer-who-raised-legal-concerns-about-the-technology-he-helped-build-has-died/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-21T19:35:02.000Z</news:publication_date>
+            <news:title>Ex-OpenAI engineer who raised legal concerns about the technology he helped build has died</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/ex-openai-engineer-who-raised-legal-concerns-about-the-technology-he-helped-build-has-died.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/21/albania-to-close-tiktok-for-a-year-blaming-it-for-promoting-violence-among-children/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-21T19:16:45.000Z</news:publication_date>
+            <news:title>Albania to close TikTok for a year blaming it for promoting violence among children</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/albania-to-close-tiktok-for-a-year-blaming-it-for-promoting-violence-among-children.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/21/andrew-ng-is-betting-big-on-agentic-ai/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-21T19:00:00.000Z</news:publication_date>
+            <news:title>Andrew Ng is betting big on agentic AI</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/andrew-ng-is-betting-big-on-agentic-ai.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/21/do-you-need-vpn-home-here-10-reasons-you-do/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-21T15:00:19.000Z</news:publication_date>
+            <news:title>Do you need a VPN at home? Here are 10 reasons you do</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/do-you-need-vpn-home-here-10-reasons-you-do.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/21/mastering-azure-management-a-comparative-analysis-of-leading-cloud-platforms/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-21T00:09:32.000Z</news:publication_date>
+            <news:title>Mastering Azure management: A comparative analysis of leading cloud platforms</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/21/mastering-azure-management-a-comparative-analysis-of-leading-cloud-platforms.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/20/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-20T22:51:34.000Z</news:publication_date>
+            <news:title>Amazon workers are striking at multiple facilities. Here's what you should know</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/20/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/20/why-ombs-human-centered-policy-design-effort-is-paying-off/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-20T21:59:27.000Z</news:publication_date>
+            <news:title>Why OMB&#8217;s human-centered policy design effort is paying off</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/20/why-ombs-human-centered-policy-design-effort-is-paying-off.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/20/federal-news-networks-industry-exchange-cyber-2025/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-20T21:16:35.000Z</news:publication_date>
+            <news:title>Federal News Network&#8217;s Industry Exchange Cyber 2025</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/20/federal-news-networks-industry-exchange-cyber-2025.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -129,62 +311,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/20/how-to-perform-clean-install-windows-10-windows-11/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-20T11:00:00.000Z</news:publication_date>
-            <news:title>How to perform a clean install in Windows 10 and 11</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/20/how-to-perform-clean-install-windows-10-windows-11.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/20/google-android-app-tricks-2024/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-20T10:45:00.000Z</news:publication_date>
-            <news:title>12 eye-opening Google Android app tricks from 2024</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/20/google-android-app-tricks-2024.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/19/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-19T21:55:55.000Z</news:publication_date>
-            <news:title>Amazon workers are striking at multiple facilities. Here's what you should know</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/19/amazon-workers-are-striking-at-multiple-delivery-hubs-heres-what-you-should-know.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/19/irelands-ai-data-centers-are-sucking-up-too-much-of-the-countrys-energy/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-19T19:30:26.000Z</news:publication_date>
-            <news:title>Ireland&#8217;s AI data centers are sucking up too much of the country&#8217;s energy</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/19/irelands-ai-data-centers-are-sucking-up-too-much-of-the-countrys-energy.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2024/12/19/apple-complains-meta-requests-risk-privacy-in-spat-over-eu-efforts-to-widen-access-to-iphone-tech/</loc>
           <news:news>
             <news:publication>
@@ -196,20 +322,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2024/12/19/apple-complains-meta-requests-risk-privacy-in-spat-over-eu-efforts-to-widen-access-to-iphone-tech.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-19T09:00:00.000Z</news:publication_date>
-            <news:title>Create searchable Bluesky bookmarks with R</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,44 +339,44 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/19/new-jersey-drones-fbi-warning-lasers/</loc>
+          <loc>https://majordigest.com/tech/2024/12/18/from-captcha-catastrophe-how-fake-verification-pages-spreading-malware/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-19T02:57:04.000Z</news:publication_date>
-            <news:title>FBI warning: Don't point lasers at mysterious drones</news:title>
+            <news:publication_date>2024-12-18T15:00:53.000Z</news:publication_date>
+            <news:title>From CAPTCHA to catastrophe: How fake verification pages are spreading malware</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/19/new-jersey-drones-fbi-warning-lasers.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/from-captcha-catastrophe-how-fake-verification-pages-spreading-malware.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/18/musk-and-trump-are-viewed-roughly-the-same-by-americans-an-ap-norc-poll-finds/</loc>
+          <loc>https://majordigest.com/tech/2024/12/18/barcelona-subway-recycles-energy-from-braking-into-power-to-charge-electric-cars/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-18T17:09:22.000Z</news:publication_date>
-            <news:title>Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds</news:title>
+            <news:publication_date>2024-12-18T11:42:39.000Z</news:publication_date>
+            <news:title>Barcelona subway recycles energy from braking into power to charge electric cars</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/18/musk-and-trump-are-viewed-roughly-the-same-by-americans-an-ap-norc-poll-finds.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/barcelona-subway-recycles-energy-from-braking-into-power-to-charge-electric-cars.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/17/tiktok-being-investigated-after-suspected-meddling-in-romanias-presidential-election/</loc>
+          <loc>https://majordigest.com/tech/2024/12/18/from-surveillance-to-safety-how-kazakhstans-carpet-cctv-is-reshaping-security/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-17T13:14:35.000Z</news:publication_date>
-            <news:title>EU investigates TikTok over Romanian presidential election safeguards</news:title>
+            <news:publication_date>2024-12-18T09:30:14.000Z</news:publication_date>
+            <news:title>From surveillance to safety: How Kazakhstan&#8217;s Carpet CCTV is reshaping security</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/17/tiktok-being-investigated-after-suspected-meddling-in-romanias-presidential-election.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/18/from-surveillance-to-safety-how-kazakhstans-carpet-cctv-is-reshaping-security.webp</image:loc>
           </image:image>
         </url></urlset>
