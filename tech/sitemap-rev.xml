@@ -3,16 +3,16 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/24/nasa-probe-attempts-historic-christmas-eve-approach-to-the-sun/</loc>
+          <loc>https://majordigest.com/tech/2024/12/23/the-exciting-new-world-of-redis/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-24T20:59:59.000Z</news:publication_date>
-            <news:title>NASA's Parker Solar Probe Makes Historic Attempt to Circle the Sun</news:title>
+            <news:publication_date>2024-12-23T09:00:00.000Z</news:publication_date>
+            <news:title>The Future of Redis: Innovation Over Ideology</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/24/nasa-probe-attempts-historic-christmas-eve-approach-to-the-sun.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/23/the-exciting-new-world-of-redis.webp</image:loc>
           </image:image>
         </url></urlset>
