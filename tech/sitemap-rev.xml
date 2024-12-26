@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/26/japan-airlines-hit-by-cyberattack-delaying-flights-during-year-end-holiday-season/</loc>
+          <loc>https://majordigest.com/tech/2024/12/26/chinese-competitor-to-amd-and-intel-claims-that-its-32-core-processor-is-as-powerful-as-a-2021-intel-xeon-32-core-ice-lake-cpu-a-64-core-version-is-expected-to-be-launched-in-2025/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-26T06:42:01.000Z</news:publication_date>
-            <news:title>Cyberattack Hits Japan Airlines, Delays Domestic Flights</news:title>
+            <news:publication_date>2024-12-26T16:03:00.000Z</news:publication_date>
+            <news:title>Loongson 3C6000 Processors: A New Era in High-Performance Computing?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/26/japan-airlines-hit-by-cyberattack-delaying-flights-during-year-end-holiday-season.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/26/chinese-competitor-to-amd-and-intel-claims-that-its-32-core-processor-is-as-powerful-as-a-2021-intel-xeon-32-core-ice-lake-cpu-a-64-core-version-is-expected-to-be-launched-in-2025.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/25/fluid-as-a-service-no-its-not-what-you-think-f1-stalwart-quietly-innovating-to-bring-its-expertise-in-cooling-to-data-centers-and-beyond/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-25T18:33:00.000Z</news:publication_date>
+            <news:title>Castrol Embracing Fluid-as-a-Service Model, Immersion Cooling for Sustainable Data Centers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/25/fluid-as-a-service-no-its-not-what-you-think-f1-stalwart-quietly-innovating-to-bring-its-expertise-in-cooling-to-data-centers-and-beyond.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/25/dhschat-internal-ai-chatbot/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-25T02:39:04.000Z</news:publication_date>
+            <news:title>DHS Unveils Artificial Intelligence Chatbot for Internal Operations</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/25/dhschat-internal-ai-chatbot.webp</image:loc>
           </image:image>
         </url></urlset>
