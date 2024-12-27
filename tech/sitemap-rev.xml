@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/23/ai-will-eavesdrop-on-worlds-wildest-places-to-track-and-help-protect-endangered-wildlife/</loc>
+          <loc>https://majordigest.com/tech/2024/12/27/japan-airlines-cyberattack-flights-delay-holiday-travel/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-23T15:50:19.000Z</news:publication_date>
-            <news:title>The Future of Wildlife Surveillance: AI-Powered Acoustic Monitoring for Conservation</news:title>
+            <news:publication_date>2024-12-27T00:15:00.000Z</news:publication_date>
+            <news:title>Japan Airlines Hit by Cyberattack, Delays Flights During Holiday Season</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/23/ai-will-eavesdrop-on-worlds-wildest-places-to-track-and-help-protect-endangered-wildlife.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/27/japan-airlines-cyberattack-flights-delay-holiday-travel.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/26/samsung-pulls-curtains-on-classified-security-operation-called-projet-infinity-where-three-teams-compete-relentlessly-to-improve-security-on-billions-of-galaxy-phones/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-26T21:05:00.000Z</news:publication_date>
+            <news:title>Samsung's Secretive Security Initiative: Unveiling Project Infinity and Mobile Security Rewards Program</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/26/samsung-pulls-curtains-on-classified-security-operation-called-projet-infinity-where-three-teams-compete-relentlessly-to-improve-security-on-billions-of-galaxy-phones.webp</image:loc>
           </image:image>
         </url></urlset>
