@@ -3,17 +3,73 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2024/12/28/auchincloss-trump-tiktok-ban/</loc>
+          <loc>https://majordigest.com/tech/2024/12/28/microsoft-backed-a-tiny-hardware-startup-that-just-launched-its-first-ai-processor-that-does-inference-without-gpu-or-expensive-hbm-memory-and-a-key-nvidia-partner-is-collaborating-with-it/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-28T15:30:43.000Z</news:publication_date>
-            <news:title>Massachusetts Democrat suggests Trump&#8217;s TikTok support stems from his popularity on the app</news:title>
+            <news:publication_date>2024-12-28T13:28:00.000Z</news:publication_date>
+            <news:title>Corsair Revolutionizes AI Inference with GPU-Free Performance - A Game-Changer for Generative AI?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/28/auchincloss-trump-tiktok-ban.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/28/microsoft-backed-a-tiny-hardware-startup-that-just-launched-its-first-ai-processor-that-does-inference-without-gpu-or-expensive-hbm-memory-and-a-key-nvidia-partner-is-collaborating-with-it.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/27/trump-asks-supreme-court-to-delay-tiktok-ban-so-he-can-weigh-in-after-he-takes-office/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-27T22:43:57.000Z</news:publication_date>
+            <news:title>Trump asks Supreme Court to delay TikTok ban so he can weigh in after he takes office</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/27/trump-asks-supreme-court-to-delay-tiktok-ban-so-he-can-weigh-in-after-he-takes-office.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/27/scammers-targeting-teens-nasty-tricks/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-27T21:03:33.000Z</news:publication_date>
+            <news:title>Scammers are targeting teens with these nasty tricks</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/27/scammers-targeting-teens-nasty-tricks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/27/new-york-state-government-to-monitor-its-use-of-ai-under-a-new-law/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-27T20:33:39.000Z</news:publication_date>
+            <news:title>New York state government to monitor its use of AI under a new law</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/27/new-york-state-government-to-monitor-its-use-of-ai-under-a-new-law.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/27/an-online-debate-over-foreign-workers-in-tech-shows-tensions-in-trumps-political-coalition/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-27T18:42:20.000Z</news:publication_date>
+            <news:title>An online debate over foreign workers in tech shows tensions in Trump's political coalition</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/27/an-online-debate-over-foreign-workers-in-tech-shows-tensions-in-trumps-political-coalition.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -23,7 +79,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-27T15:56:57.000Z</news:publication_date>
+            <news:publication_date>2024-12-27T15:56:58.000Z</news:publication_date>
             <news:title>Mexico tests cellphone app allowing migrants to send alert if they are about to be detained in US</news:title>
           </news:news>
           <image:image>
@@ -31,101 +87,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/27/musk-stirs-pot-on-x-over-shortage-of-talented-american-engineers/</loc>
+          <loc>https://majordigest.com/tech/2024/12/27/pedal-ahead-founder-is-out-as-state-e-bike-program-operator-but-questions-and-reporting-discrepancies-persist/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-27T14:45:06.000Z</news:publication_date>
-            <news:title>Musk stirs pot on X over 'shortage' of talented American engineers</news:title>
+            <news:publication_date>2024-12-27T13:08:08.000Z</news:publication_date>
+            <news:title>Pedal Ahead founder is out as California e-bike program operator, but questions and reporting discrepancies persist</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/27/musk-stirs-pot-on-x-over-shortage-of-talented-american-engineers.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/27/pedal-ahead-founder-is-out-as-state-e-bike-program-operator-but-questions-and-reporting-discrepancies-persist.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/27/14-new-laws-to-watch-for-in-2025/</loc>
+          <loc>https://majordigest.com/tech/2024/12/27/an-ex-openai-exec-and-futurist-talks-about-ai-in-2025-and-beyond/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-27T14:00:31.000Z</news:publication_date>
-            <news:title>14 new California laws to watch for in 2025</news:title>
+            <news:publication_date>2024-12-27T01:00:00.000Z</news:publication_date>
+            <news:title>An ex-OpenAI exec and futurist talks about AI in 2025 and beyond</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/27/14-new-laws-to-watch-for-in-2025.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/27/an-ex-openai-exec-and-futurist-talks-about-ai-in-2025-and-beyond.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/27/i-just-got-a-sneak-peek-of-severance-season-2-and-lumons-newest-employees-raise-a-lot-of-questions/</loc>
+          <loc>https://majordigest.com/tech/2024/12/26/nvidia-in-2024-year-in-review/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-27T12:51:30.000Z</news:publication_date>
-            <news:title>I just saw a sneak peek of Severance season 2 and Lumon's newest employees raise a lot of questions</news:title>
+            <news:publication_date>2024-12-26T10:00:00.000Z</news:publication_date>
+            <news:title>Nvidia in 2024: year in review</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/27/i-just-got-a-sneak-peek-of-severance-season-2-and-lumons-newest-employees-raise-a-lot-of-questions.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/27/the-samsung-galaxy-s25-series-just-leaked-again-here-are-the-top-4-rumored-details/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-27T11:37:20.000Z</news:publication_date>
-            <news:title>The Samsung Galaxy S25 series just leaked again &#8211; here are the top 4 rumored details</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/27/the-samsung-galaxy-s25-series-just-leaked-again-here-are-the-top-4-rumored-details.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/27/i-tried-using-smart-home-devices-to-help-fix-my-irregular-routine-and-it-changed-my-life/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-27T10:56:14.000Z</news:publication_date>
-            <news:title>I tried using Alexa and smart home devices to help fix my irregular routine &#8211; and it changed my life</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/27/i-tried-using-smart-home-devices-to-help-fix-my-irregular-routine-and-it-changed-my-life.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/26/crypto-industry-2024-election-legislation/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-26T22:14:50.000Z</news:publication_date>
-            <news:title>Crypto readies its wish list for Trump</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/26/crypto-industry-2024-election-legislation.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/26/japan-airlines-hit-by-cyberattack-delaying-flights-during-year-end-holiday-season/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-26T06:42:01.000Z</news:publication_date>
-            <news:title>Japan Airlines was hit by a cyberattack, delaying flights during the year-end holiday season</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/26/japan-airlines-hit-by-cyberattack-delaying-flights-during-year-end-holiday-season.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/26/nvidia-in-2024-year-in-review.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,17 +143,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/25/snowy-owl-rescued-from-car-grille-by-minnesota-woman-who-saved-another-bird-hours-earlier/</loc>
+          <loc>https://majordigest.com/tech/2024/12/25/free-tv-streaming-services/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-25T17:58:52.000Z</news:publication_date>
-            <news:title>Snowy owl rescued from car grille by Minnesota woman who saved another bird hours earlier</news:title>
+            <news:publication_date>2024-12-25T13:30:00.000Z</news:publication_date>
+            <news:title>YouTube TV price hike got you down? 5 free alternatives</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/25/snowy-owl-rescued-from-car-grille-by-minnesota-woman-who-saved-another-bird-hours-earlier.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/25/free-tv-streaming-services.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -171,31 +171,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/24/45-years-ago-the-walkman-changed-how-we-listen-to-music/</loc>
+          <loc>https://majordigest.com/tech/2024/12/25/silicon-valley-tech-leaders-trump/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-24T21:00:00.000Z</news:publication_date>
-            <news:title>45 years ago, the Walkman changed how we listen to music</news:title>
+            <news:publication_date>2024-12-25T11:05:47.000Z</news:publication_date>
+            <news:title>Trump brings Silicon Valley to Washington</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/24/45-years-ago-the-walkman-changed-how-we-listen-to-music.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/25/silicon-valley-tech-leaders-trump.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/24/fake-ai-generated-reviews-internet-research/</loc>
+          <loc>https://majordigest.com/tech/2024/12/25/python-in-2024-faster-more-powerful-and-more-popular-than-ever/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-24T03:45:00.000Z</news:publication_date>
-            <news:title>Fake AI-generated reviews are all over the internet, research shows</news:title>
+            <news:publication_date>2024-12-25T09:00:00.000Z</news:publication_date>
+            <news:title>Python in 2024: Faster, more powerful, and more popular than ever</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/24/fake-ai-generated-reviews-internet-research.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/25/python-in-2024-faster-more-powerful-and-more-popular-than-ever.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/24/timeshare-terror-leaves-retired-couple-50k-hole-after-being-scammed/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-24T15:00:30.000Z</news:publication_date>
+            <news:title>Timeshare terror leaves retired couple $50K in the hole after being scammed</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/24/timeshare-terror-leaves-retired-couple-50k-hole-after-being-scammed.webp</image:loc>
           </image:image>
         </url>
         <url>
