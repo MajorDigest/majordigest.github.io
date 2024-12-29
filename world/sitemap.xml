@@ -3,17 +3,17 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/world/2024/12/29/south-korean-media-report-28-people-dead-after-a-plane-catches-fire-at-an-airport/</loc>
+          <loc>https://majordigest.com/world/2024/12/29/a-palestinian-was-shot-dead-in-her-west-bank-home-her-family-blames-palestinian-security-forces/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-29T06:10:20.000Z</news:publication_date>
-            <news:title>Plane burst into flames after skidding off runway at an airport in South Korea, killing at least 120</news:title>
+            <news:publication_date>2024-12-29T07:18:16.000Z</news:publication_date>
+            <news:title>A Palestinian was shot dead in her West Bank home. Her family blames Palestinian security forces</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/29/south-korean-media-report-28-people-dead-after-a-plane-catches-fire-at-an-airport.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/29/a-palestinian-was-shot-dead-in-her-west-bank-home-her-family-blames-palestinian-security-forces.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -23,7 +23,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-29T05:06:26.000Z</news:publication_date>
+            <news:publication_date>2024-12-29T05:06:25.000Z</news:publication_date>
             <news:title>2024 was a year of triumphs and setbacks for Russian leader Vladimir Putin. Here's how it unfolded</news:title>
           </news:news>
           <image:image>
@@ -45,31 +45,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/28/trump-appears-to-side-with-musk-tech-allies-in-debate-over-foreign-workers-roiling-his-supporters/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-28T20:27:09.000Z</news:publication_date>
-            <news:title>Trump appears to side with Musk, tech allies in debate over foreign workers roiling his supporters</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/28/trump-appears-to-side-with-musk-tech-allies-in-debate-over-foreign-workers-roiling-his-supporters.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2024/12/28/putin-apologizes-to-azerbaijani-leader-for-tragic-incident-involving-crashed-azerbaijani-plane/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-28T13:09:39.000Z</news:publication_date>
+            <news:publication_date>2024-12-28T22:02:18.000Z</news:publication_date>
             <news:title>Putin apologizes for 'tragic incident' but stops short of saying Azerbaijani plane was shot down</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/world/2024/12/28/putin-apologizes-to-azerbaijani-leader-for-tragic-incident-involving-crashed-azerbaijani-plane.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/28/white-house-russia-north-korea-ukraine/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-28T17:37:31.000Z</news:publication_date>
+            <news:title>White House: Russia, North Korea treating troops as 'expendable' in conflict with Ukraine</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/28/white-house-russia-north-korea-ukraine.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/28/drought-fires-and-deforestation-battered-amazon-rainforest-in-2024/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-28T14:33:57.000Z</news:publication_date>
+            <news:title>Drought, fires and deforestation battered Amazon rainforest in 2024</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/28/drought-fires-and-deforestation-battered-amazon-rainforest-in-2024.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/28/china-sanctions-7-companies-over-us-military-assistance-to-taiwan/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-28T13:14:59.000Z</news:publication_date>
+            <news:title>China sanctions 7 companies over US military assistance to Taiwan</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/28/china-sanctions-7-companies-over-us-military-assistance-to-taiwan.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/28/kazakhstan-plane-crash-survivors-say-heard-bangs-before-aircraft-went-down/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-28T12:58:26.000Z</news:publication_date>
+            <news:title>Kazakhstan plane crash survivors say they heard bangs before aircraft went down, Putin issues statement</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/28/kazakhstan-plane-crash-survivors-say-heard-bangs-before-aircraft-went-down.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,31 +143,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/28/leon-panetta-azerbaijan-airlines-russia/</loc>
+          <loc>https://majordigest.com/world/2024/12/28/israeli-airstrikes-hit-a-yemen-airport-as-a-jet-with-hundreds-onboard-was-landing-un-official-says/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-28T01:01:30.000Z</news:publication_date>
-            <news:title>Leon Panetta suggests it's 'pretty clear' Russia 'responsible' for Azerbaijan Airlines plane crash</news:title>
+            <news:publication_date>2024-12-28T00:46:02.000Z</news:publication_date>
+            <news:title>Israeli airstrikes hit a Yemen airport as a jet with hundreds onboard was landing, UN official says</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/28/leon-panetta-azerbaijan-airlines-russia.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/28/israeli-airstrikes-hit-a-yemen-airport-as-a-jet-with-hundreds-onboard-was-landing-un-official-says.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/28/man-vacation-family-goes-overboard-norwegian-cruise-ship-bahamas/</loc>
+          <loc>https://majordigest.com/world/2024/12/27/azerbaijans-flag-carrier-suspends-flights-to-more-russian-cities-following-crash-that-killed-38/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-28T00:20:52.000Z</news:publication_date>
-            <news:title>Man on vacation with family goes overboard on Norwegian cruise ship in Bahamas</news:title>
+            <news:publication_date>2024-12-27T22:47:30.000Z</news:publication_date>
+            <news:title>Azerbaijani and U.S. officials suggest plane that crashed may have been hit by weapons fire</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/28/man-vacation-family-goes-overboard-norwegian-cruise-ship-bahamas.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/27/azerbaijans-flag-carrier-suspends-flights-to-more-russian-cities-following-crash-that-killed-38.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,87 +185,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/27/see-it-china-stuns-maiden-flight-sixth-generation-aircraft/</loc>
+          <loc>https://majordigest.com/world/2024/12/27/russia-kazakhstan-plane-crash/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-27T20:13:44.000Z</news:publication_date>
-            <news:title>SEE IT: China stuns with maiden flight of sixth-generation aircraft</news:title>
+            <news:publication_date>2024-12-27T17:21:50.000Z</news:publication_date>
+            <news:title>White House says &#8216;early indications&#8217; suggest Russian air defenses downed Azerbaijan flight</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/27/see-it-china-stuns-maiden-flight-sixth-generation-aircraft.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/27/south-koreas-opposition-controlled-national-assembly-votes-to-impeach-acting-leader-han/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-27T19:17:25.000Z</news:publication_date>
-            <news:title>South Korea's opposition-controlled National Assembly votes to impeach acting President Han</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/27/south-koreas-opposition-controlled-national-assembly-votes-to-impeach-acting-leader-han.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/27/a-9th-telecoms-firm-has-been-hit-by-a-massive-chinese-espionage-campaign-the-white-house-says/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-27T18:00:14.000Z</news:publication_date>
-            <news:title>A 9th telecoms firm has been hit by a massive Chinese espionage campaign, the White House says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/27/a-9th-telecoms-firm-has-been-hit-by-a-massive-chinese-espionage-campaign-the-white-house-says.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/27/us-teacher-jailed-in-russia-is-formally-designated-as-wrongfully-detained/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-27T17:16:29.000Z</news:publication_date>
-            <news:title>US teacher jailed in Russia is formally designated as wrongfully detained</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/27/us-teacher-jailed-in-russia-is-formally-designated-as-wrongfully-detained.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/27/azerbaijan-airlines-blames-deadly-plane-crash-external-interference-russia-speculation-grows/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-27T16:09:22.000Z</news:publication_date>
-            <news:title>Azerbaijan Airlines blames deadly plane crash on 'external interference' as Russia speculation grows</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/27/azerbaijan-airlines-blames-deadly-plane-crash-external-interference-russia-speculation-grows.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/27/south-koreas-opposition-controlled-national-assembly-votes-impeach-acting-president-han/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-27T12:29:03.000Z</news:publication_date>
-            <news:title>South Korea's opposition-controlled National Assembly votes to impeach acting President Han</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/27/south-koreas-opposition-controlled-national-assembly-votes-impeach-acting-president-han.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/27/russia-kazakhstan-plane-crash.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -269,31 +241,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/27/azerbaijan-observes-day-of-mourning-for-air-crash-victims-as-speculation-mount-about-its-cause/</loc>
+          <loc>https://majordigest.com/world/2024/12/27/croatias-outspoken-president-is-seeking-reelection-he-faces-several-contenders-in-sundays-vote/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-27T02:51:59.000Z</news:publication_date>
-            <news:title>Aviation experts say Russia's air defense fire likely caused Azerbaijan plane crash as nation mourns</news:title>
+            <news:publication_date>2024-12-27T05:08:43.000Z</news:publication_date>
+            <news:title>Croatia's outspoken president is seeking reelection. He faces several contenders in Sunday's vote</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/27/azerbaijan-observes-day-of-mourning-for-air-crash-victims-as-speculation-mount-about-its-cause.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/27/ukraines-military-intelligence-says-north-korean-troops-suffer-heavy-battlefield-losses/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-27T02:09:50.000Z</news:publication_date>
-            <news:title>Ukraine's military intelligence says North Korean troops are suffering heavy battlefield losses</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/27/ukraines-military-intelligence-says-north-korean-troops-suffer-heavy-battlefield-losses.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/27/croatias-outspoken-president-is-seeking-reelection-he-faces-several-contenders-in-sundays-vote.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -311,100 +269,72 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/26/middle-east-latest-5-palestinian-journalists-killed-by-israeli-strike-gaza-health-ministry-says/</loc>
+          <loc>https://majordigest.com/world/2024/12/26/russia-cautions-against-hypotheses-in-azerbaijan-airlines-crash/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-26T23:11:41.000Z</news:publication_date>
-            <news:title>Middle East latest: WHO chief says he was at Yemen airport as Israeli bombs fell nearby</news:title>
+            <news:publication_date>2024-12-26T20:29:59.000Z</news:publication_date>
+            <news:title>Russia cautions against 'hypotheses' in Azerbaijan Airlines crash</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/26/middle-east-latest-5-palestinian-journalists-killed-by-israeli-strike-gaza-health-ministry-says.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/26/russia-cautions-against-hypotheses-in-azerbaijan-airlines-crash.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/26/finland-russia-undersea-cable-cut/</loc>
+          <loc>https://majordigest.com/world/2024/12/26/nato-azerbaijan-airlines-crash/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-26T20:11:18.000Z</news:publication_date>
-            <news:title>Finland seizes ship carrying Russian oil after undersea cable cut</news:title>
+            <news:publication_date>2024-12-26T19:03:13.000Z</news:publication_date>
+            <news:title>NATO calls for investigation into Azerbaijan Airlines crash</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/26/finland-russia-undersea-cable-cut.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/26/nato-azerbaijan-airlines-crash.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/26/us-officials-russia-behind-azerbaijan-plane-crash-us-officials-say/</loc>
+          <loc>https://majordigest.com/world/2024/12/26/an-azerbaijani-airliner-has-crashed-in-the-kazakhstani-city-of-aktau/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-26T19:02:25.000Z</news:publication_date>
-            <news:title>Russia suspected in Azerbaijan Airlines crash; black boxes recovered</news:title>
+            <news:publication_date>2024-12-26T03:31:12.000Z</news:publication_date>
+            <news:title>Azerbaijani airliner crashes in Kazakhstan, killing 38 with 29 survivors, officials say</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/26/us-officials-russia-behind-azerbaijan-plane-crash-us-officials-say.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/26/an-azerbaijani-airliner-has-crashed-in-the-kazakhstani-city-of-aktau.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/25/russia-being-blamed-azerbaijan-airlines-plane-crashed-hundreds-miles-off-course-killing-dozens/</loc>
+          <loc>https://majordigest.com/world/2024/12/26/biden-russia-attack-ukraine/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-25T14:22:55.000Z</news:publication_date>
-            <news:title>Russia being blamed for Azerbaijan Airlines plane that crashed hundreds of miles off course, killing dozens</news:title>
+            <news:publication_date>2024-12-26T02:22:19.000Z</news:publication_date>
+            <news:title>Biden condemns Russia's 'outrageous' Christmas attack on Ukraine</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/25/russia-being-blamed-azerbaijan-airlines-plane-crashed-hundreds-miles-off-course-killing-dozens.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/26/biden-russia-attack-ukraine.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/25/russia-targets-ukrainian-energy-infrastructure-on-christmas-day/</loc>
+          <loc>https://majordigest.com/world/2024/12/23/nato-leaders-predict-era-2-defense-spending-probably-history-trump-reportedly-floats-higher-target/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-25T12:09:28.000Z</news:publication_date>
-            <news:title>Russia targets Ukrainian energy infrastructure on Christmas Day</news:title>
+            <news:publication_date>2024-12-23T22:19:44.000Z</news:publication_date>
+            <news:title>NATO leaders predict era of 2% defense spending 'probably history' as Trump reportedly floats higher target</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/25/russia-targets-ukrainian-energy-infrastructure-on-christmas-day.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/24/police-officer-dressed-grinch-steals-christmas-spirit-drug-bust/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-24T01:49:10.000Z</news:publication_date>
-            <news:title>Police officer dressed as the 'Grinch' steals Christmas spirit during drug bust</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/24/police-officer-dressed-grinch-steals-christmas-spirit-drug-bust.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/23/two-us-navy-pilots-shot-down-over-red-sea-in-apparent-friendly-fire-incident-us-military-says/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-23T02:11:37.000Z</news:publication_date>
-            <news:title>2 US Navy pilots shot down over Red Sea in apparent 'friendly fire' incident, US military says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/23/two-us-navy-pilots-shot-down-over-red-sea-in-apparent-friendly-fire-incident-us-military-says.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/23/nato-leaders-predict-era-2-defense-spending-probably-history-trump-reportedly-floats-higher-target.webp</image:loc>
           </image:image>
         </url></urlset>
