@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/world/2025/01/01/israeli-strikes-kill-9-in-gaza-as-war-grinds-into-the-new-year-with-no-end-in-sight/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-01T14:30:42.000Z</news:publication_date>
-            <news:title>Israeli strikes kill 12 in Gaza including children as war grinds into the new year</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2025/01/01/israeli-strikes-kill-9-in-gaza-as-war-grinds-into-the-new-year-with-no-end-in-sight.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2025/01/01/ukraine-halts-russia-europe-gas-transit/</loc>
           <news:news>
             <news:publication>
@@ -31,13 +17,27 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/world/2025/01/01/israeli-strikes-kill-9-in-gaza-as-war-grinds-into-the-new-year-with-no-end-in-sight/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-01T09:35:18.000Z</news:publication_date>
+            <news:title>Israeli strikes kill 12 in Gaza as war grinds into the new year</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2025/01/01/israeli-strikes-kill-9-in-gaza-as-war-grinds-into-the-new-year-with-no-end-in-sight.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2025/01/01/cities-across-the-globe-prepare-to-welcome-the-new-year-in-celebrations-tinged-with-local-traditions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-01T13:17:11.000Z</news:publication_date>
+            <news:publication_date>2025-01-01T09:28:05.000Z</news:publication_date>
             <news:title>The world welcomes 2025 with light shows, embraces and ice plunges</news:title>
           </news:news>
           <image:image>
@@ -45,17 +45,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/01/01/grieving-families-of-victims-of-south-korean-plane-crash-visit-site-for-a-memorial-service/</loc>
+          <loc>https://majordigest.com/world/2025/01/01/nearly-all-of-puerto-rico-is-without-power-on-new-years-eve/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-01T06:50:45.000Z</news:publication_date>
-            <news:title>South Korea air crash investigators extract black box data as grieving families mourn the victims</news:title>
+            <news:publication_date>2025-01-01T03:22:23.000Z</news:publication_date>
+            <news:title>Nearly all of Puerto Rico is without power on New Year's Eve</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2025/01/01/grieving-families-of-victims-of-south-korean-plane-crash-visit-site-for-a-memorial-service.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2025/01/01/nearly-all-of-puerto-rico-is-without-power-on-new-years-eve.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,6 +73,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/world/2024/12/31/migrants-accused-killing-mexican-border-agent-after-asked-them-id-officials/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T21:31:43.000Z</news:publication_date>
+            <news:title>Migrants accused of killing Mexican border agent after he asked for their IDs: officials</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/migrants-accused-killing-mexican-border-agent-after-asked-them-id-officials.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/least-66-people-die-truck-plunges-river-southern-ethiopia/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T19:29:08.000Z</news:publication_date>
+            <news:title>At least 66 people die after a truck plunges into a river in southern Ethiopia</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/least-66-people-die-truck-plunges-river-southern-ethiopia.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2024/12/31/airline-says-pre-flight-inspection-south-korea-plane-showed-no-issues-report/</loc>
           <news:news>
             <news:publication>
@@ -84,6 +112,34 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/world/2024/12/31/airline-says-pre-flight-inspection-south-korea-plane-showed-no-issues-report.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/german-chancellor-musk-influence/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T18:47:18.000Z</news:publication_date>
+            <news:title>Germany's Scholz takes veiled swipe at Musk in New Year's address</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/german-chancellor-musk-influence.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/middle-east-latest-45-patients-and-wounded-people-evacuated-from-gaza-for-treatment-officials-say/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T18:18:23.000Z</news:publication_date>
+            <news:title>Middle East latest: Dozens of patients and wounded evacuated from Gaza for treatment</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/middle-east-latest-45-patients-and-wounded-people-evacuated-from-gaza-for-treatment-officials-say.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,31 +157,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/31/with-marathon-a-day-throughout-2024-this-belgian-runner-has-guinness-world-record-within-her-grasp/</loc>
+          <loc>https://majordigest.com/world/2024/12/31/berlin-police-say-they-have-detained-a-man-who-attacked-and-injured-several-people/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-31T15:56:39.000Z</news:publication_date>
-            <news:title>Running a marathon a day in 2024, she has a world record within her grasp</news:title>
+            <news:publication_date>2024-12-31T17:13:19.000Z</news:publication_date>
+            <news:title>Berlin police say they have detained a man who attacked 2 people with a knife</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/31/with-marathon-a-day-throughout-2024-this-belgian-runner-has-guinness-world-record-within-her-grasp.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/berlin-police-say-they-have-detained-a-man-who-attacked-and-injured-several-people.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/31/netanyahu-goes-against-doctors-orders-appears-israeli-parliament-after-surgery/</loc>
+          <loc>https://majordigest.com/world/2024/12/31/us-levels-sanctions-on-entities-in-iran-russia-over-attempted-election-interference/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-31T15:47:42.000Z</news:publication_date>
-            <news:title>Netanyahu goes against doctor&#8217;s orders, appears in Israeli parliament after surgery</news:title>
+            <news:publication_date>2024-12-31T17:12:51.000Z</news:publication_date>
+            <news:title>US levels sanctions on entities in Iran, Russia over attempted election interference</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/31/netanyahu-goes-against-doctors-orders-appears-israeli-parliament-after-surgery.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/us-levels-sanctions-on-entities-in-iran-russia-over-attempted-election-interference.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -140,6 +196,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/world/2024/12/31/australia-new-zealand-first-to-welcome-2025-with-fireworks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/montenegro-extradites-cryptocurrency-mogul-do-kwon-to-the-united-states/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T15:11:19.000Z</news:publication_date>
+            <news:title>Montenegro extradites cryptocurrency mogul Do Kwon to the United States</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/montenegro-extradites-cryptocurrency-mogul-do-kwon-to-the-united-states.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -171,20 +241,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/31/initial-results-of-imprecise-census-in-myanmar-show-a-slight-population-drop/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-31T13:49:43.000Z</news:publication_date>
-            <news:title>Initial results of imprecise census in Myanmar show a slight population drop</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/31/initial-results-of-imprecise-census-in-myanmar-show-a-slight-population-drop.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2024/12/31/south-korea-struggles-to-determine-cause-of-plane-crash-that-killed-179-people/</loc>
           <news:news>
             <news:publication>
@@ -196,6 +252,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/world/2024/12/31/south-korea-struggles-to-determine-cause-of-plane-crash-that-killed-179-people.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/south-korean-court-issues-warrant-to-detain-impeached-president-yoon/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T10:59:38.000Z</news:publication_date>
+            <news:title>South Korean court issues warrants to detain impeached President Yoon and search his office</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/south-korean-court-issues-warrant-to-detain-impeached-president-yoon.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -213,31 +283,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/31/middle-east-latest-ukraines-foreign-chief-pledges-support-for-a-new-syria-on-a-trip-to-damascus/</loc>
+          <loc>https://majordigest.com/world/2024/12/30/hundreds-of-soldiers-freed-in-the-latest-prisoner-exchange-between-russia-and-ukraine/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-31T02:20:06.000Z</news:publication_date>
-            <news:title>Middle East latest: Israel intercepts Houthi missile fired from Yemen</news:title>
+            <news:publication_date>2024-12-30T20:03:17.000Z</news:publication_date>
+            <news:title>Hundreds of soldiers freed in the latest prisoner exchange between Russia and Ukraine</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/31/middle-east-latest-ukraines-foreign-chief-pledges-support-for-a-new-syria-on-a-trip-to-damascus.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/30/putin-offers-pay-off-debts-recruitment-tool-war-against-ukraine/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-30T23:07:03.000Z</news:publication_date>
-            <news:title>Putin offers to pay off debts as recruitment tool in war against Ukraine</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/30/putin-offers-pay-off-debts-recruitment-tool-war-against-ukraine.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/30/hundreds-of-soldiers-freed-in-the-latest-prisoner-exchange-between-russia-and-ukraine.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -255,17 +311,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/30/uncovering-atrocities-assad-regime-its-death-factory-hill/</loc>
+          <loc>https://majordigest.com/world/2024/12/30/israeli-spy-network-uncovers-hezbollah-commanders-plans-marry-off-his-4-mistresses/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-30T15:36:01.000Z</news:publication_date>
-            <news:title>Uncovering the atrocities of the Assad regime at its 'death factory' on the hill</news:title>
+            <news:publication_date>2024-12-30T16:31:19.000Z</news:publication_date>
+            <news:title>Israeli spy network uncovers Hezbollah commander's plans to marry his 4 mistresses</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/30/uncovering-atrocities-assad-regime-its-death-factory-hill.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/30/israeli-spy-network-uncovers-hezbollah-commanders-plans-marry-off-his-4-mistresses.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/30/us-panama-canal-reclamation/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-30T16:22:52.000Z</news:publication_date>
+            <news:title>Taking back Panama Canal would require war: Former ambassador</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/30/us-panama-canal-reclamation.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -283,45 +353,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/30/south-korea-deadly-plane-crash-us-sends-investigators-country-still-reeling-from-disaster-killed-179/</loc>
+          <loc>https://majordigest.com/world/2024/12/29/israeli-pm-benjamin-netanyahu-completes-prostate-surgery-uti-diagnosis/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-30T12:49:11.000Z</news:publication_date>
-            <news:title>South Korea deadly plane crash: US sends investigators to country still reeling from disaster that killed 179</news:title>
+            <news:publication_date>2024-12-29T21:51:11.000Z</news:publication_date>
+            <news:title>Israeli PM Benjamin Netanyahu completes prostate surgery after UTI diagnosis</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/30/south-korea-deadly-plane-crash-us-sends-investigators-country-still-reeling-from-disaster-killed-179.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/30/kavelashvili-is-inaugurated-as-georgias-president-complicating-its-path-toward-eu/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-30T10:07:22.000Z</news:publication_date>
-            <news:title>Kavelashvili is inaugurated as Georgia's president, complicating its path toward EU</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/30/kavelashvili-is-inaugurated-as-georgias-president-complicating-its-path-toward-eu.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/30/in-gazas-crowded-tent-camps-women-wrestle-with-a-life-stripped-of-privacy/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-30T05:06:12.000Z</news:publication_date>
-            <news:title>In Gaza's crowded tent camps, women wrestle with a life stripped of privacy</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/30/in-gazas-crowded-tent-camps-women-wrestle-with-a-life-stripped-of-privacy.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/29/israeli-pm-benjamin-netanyahu-completes-prostate-surgery-uti-diagnosis.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -353,44 +395,58 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/29/north-korea-vows-toughest-us-policy-vague-announcement/</loc>
+          <loc>https://majordigest.com/world/2024/12/29/china-directs-largest-military-build-up-since-1930s-nazi-germany-expert-warns-citing-pentagon-report/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-29T13:44:31.000Z</news:publication_date>
-            <news:title>North Korea vows 'toughest' US policy in vague announcement</news:title>
+            <news:publication_date>2024-12-29T14:44:06.000Z</news:publication_date>
+            <news:title>China directs largest military build-up since 1930s Nazi Germany, expert warns, citing Pentagon report</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/29/north-korea-vows-toughest-us-policy-vague-announcement.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/29/china-directs-largest-military-build-up-since-1930s-nazi-germany-expert-warns-citing-pentagon-report.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/29/plane-skids-off-runway-in-south-korea-killing-at-least-177/</loc>
+          <loc>https://majordigest.com/world/2024/12/28/china-sanctions-7-companies-over-us-military-assistance-to-taiwan/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-29T11:34:53.000Z</news:publication_date>
-            <news:title>Plane skids off runway in South Korea, killing at least 177</news:title>
+            <news:publication_date>2024-12-28T13:14:59.000Z</news:publication_date>
+            <news:title>China sanctions 7 companies over US military assistance to Taiwan</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/29/plane-skids-off-runway-in-south-korea-killing-at-least-177.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/28/china-sanctions-7-companies-over-us-military-assistance-to-taiwan.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/26/us-officials-russia-behind-azerbaijan-plane-crash-us-officials-say/</loc>
+          <loc>https://majordigest.com/world/2024/12/27/mexico-tests-app-for-migrants-to-send-alert-if-theyre-about-to-be-detained-in-us/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-26T19:02:25.000Z</news:publication_date>
-            <news:title>Russia suspected in Azerbaijan Airlines crash; black boxes recovered</news:title>
+            <news:publication_date>2024-12-27T18:09:01.000Z</news:publication_date>
+            <news:title>Mexico tests app for migrants to send alert if they're about to be detained in US</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/26/us-officials-russia-behind-azerbaijan-plane-crash-us-officials-say.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/27/mexico-tests-app-for-migrants-to-send-alert-if-theyre-about-to-be-detained-in-us.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/27/chinese-man-sentenced-to-death-for-killing-35-people-by-driving-into-a-crowd/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-27T15:48:27.000Z</news:publication_date>
+            <news:title>Chinese man sentenced to death for killing 35 people after driving into a crowd</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/27/chinese-man-sentenced-to-death-for-killing-35-people-by-driving-into-a-crowd.webp</image:loc>
           </image:image>
         </url></urlset>
