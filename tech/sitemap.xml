@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/02/microsoft-claims-edge-had-a-great-year-with-soaring-user-numbers/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-02T17:00:00.000Z</news:publication_date>
-            <news:title>Microsoft claims Edge had a great year, boasts soaring browser user numbers</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2025/01/02/microsoft-claims-edge-had-a-great-year-with-soaring-user-numbers.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/01/02/ai-power-availability-and-intels-future/</loc>
           <news:news>
             <news:publication>
@@ -24,164 +10,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-01-02T16:42:26.000Z</news:publication_date>
-            <news:title>AI, power availability and Intel&#8217;s future</news:title>
+            <news:title>Data Center Predictions for 2025</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/tech/2025/01/02/ai-power-availability-and-intels-future.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/02/elon-musk-defends-demonetize/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-02T15:22:57.000Z</news:publication_date>
-            <news:title>Musk defends demonetizing critics' content on X</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2025/01/02/elon-musk-defends-demonetize.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/02/donald-trump-joe-biden-open-borders-new-orleans-las-vegas-attacks/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-02T15:16:16.000Z</news:publication_date>
-            <news:title>Trump blames &#8216;open borders&#8217; for New Orleans, Las Vegas attacks</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2025/01/02/donald-trump-joe-biden-open-borders-new-orleans-las-vegas-attacks.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/01/apple-could-launch-the-iphone-se-4-as-the-iphone-16e-according-to-rumors/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-01T10:50:23.000Z</news:publication_date>
-            <news:title>Apple could launch the iPhone SE 4 as the iPhone 16E, according to rumors</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2025/01/01/apple-could-launch-the-iphone-se-4-as-the-iphone-16e-according-to-rumors.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/01/4-keys-for-writing-cross-platform-apps/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-01T09:00:00.000Z</news:publication_date>
-            <news:title>4 keys for writing cross-platform apps</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2025/01/01/4-keys-for-writing-cross-platform-apps.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/31/generative-ai-google-sheets-help-me-organize/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-31T11:00:00.000Z</news:publication_date>
-            <news:title>How to use Gemini AI to make templates in Google Sheets</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/31/generative-ai-google-sheets-help-me-organize.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/31/honey-browser-extension-scam-youtube/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-31T04:14:31.000Z</news:publication_date>
-            <news:title>Honey browser extension accused of scamming influencers, users</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/31/honey-browser-extension-scam-youtube.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/31/fords-x-account-israel-terrorist-stateapparent-hack-incident/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-31T03:21:45.000Z</news:publication_date>
-            <news:title>Ford&#8217;s X account calls Israel a &#8216;terrorist state&#8217; in apparent hack incident</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/31/fords-x-account-israel-terrorist-stateapparent-hack-incident.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/31/venezuelas-top-court-issues-a-10-million-fine-for-tiktok-over-allegedly-deadly-video-challenges/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-31T00:11:50.000Z</news:publication_date>
-            <news:title>Venezuela's top court issues a $10 million fine for TikTok over allegedly deadly video challenges</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/31/venezuelas-top-court-issues-a-10-million-fine-for-tiktok-over-allegedly-deadly-video-challenges.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/30/rhode-islanders-data-was-leaked-from-a-cyberattack-on-state-health-benefits-website/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-30T20:16:17.000Z</news:publication_date>
-            <news:title>Rhode Islanders' data was leaked from a cyberattack on state health benefits website</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/30/rhode-islanders-data-was-leaked-from-a-cyberattack-on-state-health-benefits-website.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/30/small-businesses-brace-themselves-for-potentially-disruptive-tiktok-ban/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-30T18:34:59.000Z</news:publication_date>
-            <news:title>Small businesses brace themselves for potentially disruptive TikTok ban</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/30/small-businesses-brace-themselves-for-potentially-disruptive-tiktok-ban.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2024/12/30/in-2024-artificial-intelligence-was-all-about-putting-ai-tools-to-work/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-30T13:29:29.000Z</news:publication_date>
-            <news:title>In 2024, artificial intelligence was all about putting AI tools to work</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/30/in-2024-artificial-intelligence-was-all-about-putting-ai-tools-to-work.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -199,58 +31,100 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/28/apple-computer-for-christmas-apps-games-new-mac-prince-of-persia-pixelmator-timestor-prim-werecleaner-cleanmymac/</loc>
+          <loc>https://majordigest.com/tech/2024/12/29/ai-tech-glasses-closed-captions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-28T18:00:00.000Z</news:publication_date>
-            <news:title>Got an Apple computer for Christmas? Here are 6 apps and games to try with that new Mac</news:title>
+            <news:publication_date>2024-12-29T21:03:12.000Z</news:publication_date>
+            <news:title>These glasses let you 'see' conversations in real time</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/28/apple-computer-for-christmas-apps-games-new-mac-prince-of-persia-pixelmator-timestor-prim-werecleaner-cleanmymac.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/29/ai-tech-glasses-closed-captions.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/27/new-york-state-government-to-monitor-its-use-of-ai-under-a-new-law/</loc>
+          <loc>https://majordigest.com/tech/2024/12/29/2024-global-network-outage-report-and-internet-health-check/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-27T20:33:40.000Z</news:publication_date>
-            <news:title>New York state government to monitor its use of AI under a new law</news:title>
+            <news:publication_date>2024-12-29T20:51:07.000Z</news:publication_date>
+            <news:title>2024 global network outage report and internet health check</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/27/new-york-state-government-to-monitor-its-use-of-ai-under-a-new-law.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/29/2024-global-network-outage-report-and-internet-health-check.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/27/lincoln-returns-to-port-after-proving-out-game-changing-connectivity/</loc>
+          <loc>https://majordigest.com/tech/2024/12/28/trump-weighs-in-on-h-1b-debate-backs-immigration-visas/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-27T17:31:58.000Z</news:publication_date>
-            <news:title>Lincoln returns to port after proving out &#8216;game changing&#8217; connectivity</news:title>
+            <news:publication_date>2024-12-28T22:35:40.000Z</news:publication_date>
+            <news:title>Trump weighs in on H-1B debate, backs immigration visas</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/27/lincoln-returns-to-port-after-proving-out-game-changing-connectivity.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/28/trump-weighs-in-on-h-1b-debate-backs-immigration-visas.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2024/12/27/mexico-tests-cellphone-app-allowing-migrants-to-send-alert-if-they-are-about-to-be-detained-in-us/</loc>
+          <loc>https://majordigest.com/tech/2024/12/28/how-h1-b-visa-causing-strife-within-trumps-coalition/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-27T15:56:58.000Z</news:publication_date>
-            <news:title>Mexico tests cellphone app allowing migrants to send alert if they are about to be detained in US</news:title>
+            <news:publication_date>2024-12-28T03:28:08.000Z</news:publication_date>
+            <news:title>How the H1-B visa is causing strife within Trump&#8217;s coalition</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/tech/2024/12/27/mexico-tests-cellphone-app-allowing-migrants-to-send-alert-if-they-are-about-to-be-detained-in-us.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/28/how-h1-b-visa-causing-strife-within-trumps-coalition.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/27/scammers-targeting-teens-nasty-tricks/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-27T21:03:33.000Z</news:publication_date>
+            <news:title>Scammers are targeting teens with these nasty tricks</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/27/scammers-targeting-teens-nasty-tricks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/27/ai-powered-robot-sinks-seemingly-impossible-basketball-hoops/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-27T13:00:01.000Z</news:publication_date>
+            <news:title>AI-powered robot sinks seemingly impossible basketball hoops</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/27/ai-powered-robot-sinks-seemingly-impossible-basketball-hoops.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2024/12/26/2024-review-typhoons-bookend-busy-year-in-cyber/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-26T22:59:31.000Z</news:publication_date>
+            <news:title>2024 review: &#8216;Typhoons&#8217; bookend busy year in cyber</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/tech/2024/12/26/2024-review-typhoons-bookend-busy-year-in-cyber.webp</image:loc>
           </image:image>
         </url></urlset>
