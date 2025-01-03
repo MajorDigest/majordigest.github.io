@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/world/2025/01/02/middle-east-latest-israeli-airstrike-kills-10-in-gaza-including-3-children-officials-say/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-02T22:09:32.000Z</news:publication_date>
-            <news:title>Middle East latest: Israeli strikes across Gaza kill at least 40, including several kids</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2025/01/02/middle-east-latest-israeli-airstrike-kills-10-in-gaza-including-3-children-officials-say.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2025/01/02/new-israeli-airstrikes-in-gaza-humanitarian-zone-and-elsewhere-kill-at-least-26/</loc>
           <news:news>
             <news:publication>
@@ -28,6 +14,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static11/world/2025/01/02/new-israeli-airstrikes-in-gaza-humanitarian-zone-and-elsewhere-kill-at-least-26.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/01/02/elon-musk-uk-free-tommy-robinson-criticizes-starmer/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-02T16:10:00.000Z</news:publication_date>
+            <news:title>Musk urges release of far-right UK figure; blasts PM Starmer</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2025/01/02/elon-musk-uk-free-tommy-robinson-criticizes-starmer.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -59,6 +59,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/world/2025/01/02/british-rapper-stormzy-banned-from-driving-for-using-phone-behind-wheel-of-his-rolls-royce/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-02T12:20:06.000Z</news:publication_date>
+            <news:title>British rapper Stormzy banned from driving for using phone behind wheel of his Rolls-Royce</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2025/01/02/british-rapper-stormzy-banned-from-driving-for-using-phone-behind-wheel-of-his-rolls-royce.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2025/01/02/impeached-south-korean-president-issues-defiant-message-as-authorities-mull-his-detention/</loc>
           <news:news>
             <news:publication>
@@ -87,45 +101,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/01/01/protesters-in-syria-demand-justice-for-disappeared-activists-and-accountability-from-all-factions/</loc>
+          <loc>https://majordigest.com/world/2025/01/01/an-armed-man-kills-at-least-10-people-including-2-children-in-a-shooting-rampage-in-montenegro/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-01T21:42:05.000Z</news:publication_date>
-            <news:title>Protesters in Syria demand justice for disappeared activists and accountability from all factions</news:title>
+            <news:publication_date>2025-01-01T22:10:18.000Z</news:publication_date>
+            <news:title>An armed man kills at least 10 people, including 2 children, in a shooting rampage in Montenegro</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2025/01/01/protesters-in-syria-demand-justice-for-disappeared-activists-and-accountability-from-all-factions.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/01/01/israeli-strikes-kill-9-in-gaza-as-war-grinds-into-the-new-year-with-no-end-in-sight/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-01T21:08:42.000Z</news:publication_date>
-            <news:title>Israeli strikes kill 12 in Gaza, including children, as war grinds into the new year</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2025/01/01/israeli-strikes-kill-9-in-gaza-as-war-grinds-into-the-new-year-with-no-end-in-sight.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/01/01/power-is-restored-to-nearly-all-of-puerto-rico-after-a-major-blackout/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-01T20:40:09.000Z</news:publication_date>
-            <news:title>Power is restored to nearly all of Puerto Rico after a major blackout</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2025/01/01/power-is-restored-to-nearly-all-of-puerto-rico-after-a-major-blackout.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2025/01/01/an-armed-man-kills-at-least-10-people-including-2-children-in-a-shooting-rampage-in-montenegro.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,17 +129,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/31/the-year-in-review-influential-people-who-died-in-2024/</loc>
+          <loc>https://majordigest.com/world/2025/01/01/ukraine-halts-russia-europe-gas-transit/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-31T20:51:04.000Z</news:publication_date>
-            <news:title>The year in review: Influential people who died in 2024</news:title>
+            <news:publication_date>2025-01-01T14:11:19.000Z</news:publication_date>
+            <news:title>Ukraine stops transport of Russian gas to Europe</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/31/the-year-in-review-influential-people-who-died-in-2024.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2025/01/01/ukraine-halts-russia-europe-gas-transit.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/01/01/israeli-strikes-kill-9-in-gaza-as-war-grinds-into-the-new-year-with-no-end-in-sight/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-01T09:35:18.000Z</news:publication_date>
+            <news:title>Israeli strikes kill 12 in Gaza as war grinds into the new year</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2025/01/01/israeli-strikes-kill-9-in-gaza-as-war-grinds-into-the-new-year-with-no-end-in-sight.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/trump-putin-ukraine-conflict/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T20:23:48.000Z</news:publication_date>
+            <news:title>Trump, Putin advisers trade barbs heading into new year</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/trump-putin-ukraine-conflict.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -171,31 +185,171 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/31/ukraine-how-war-shifted-2024/</loc>
+          <loc>https://majordigest.com/world/2024/12/31/german-chancellor-musk-influence/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-31T11:00:46.000Z</news:publication_date>
-            <news:title>Ukraine: How the war shifted in 2024</news:title>
+            <news:publication_date>2024-12-31T18:47:18.000Z</news:publication_date>
+            <news:title>Germany's Scholz takes veiled swipe at Musk in New Year's address</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/31/ukraine-how-war-shifted-2024.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/german-chancellor-musk-influence.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/31/politician-among-protesters-arrested-in-kenya-while-calling-for-an-end-to-alleged-abductions/</loc>
+          <loc>https://majordigest.com/world/2024/12/31/middle-east-latest-45-patients-and-wounded-people-evacuated-from-gaza-for-treatment-officials-say/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-31T04:27:56.000Z</news:publication_date>
-            <news:title>Politician among protesters arrested in Kenya while calling for an end to alleged abductions</news:title>
+            <news:publication_date>2024-12-31T18:18:23.000Z</news:publication_date>
+            <news:title>Middle East latest: Dozens of patients and wounded evacuated from Gaza for treatment</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/31/politician-among-protesters-arrested-in-kenya-while-calling-for-an-end-to-alleged-abductions.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/middle-east-latest-45-patients-and-wounded-people-evacuated-from-gaza-for-treatment-officials-say.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/berlin-police-say-they-have-detained-a-man-who-attacked-and-injured-several-people/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T17:13:19.000Z</news:publication_date>
+            <news:title>Berlin police say they have detained a man who attacked 2 people with a knife</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/berlin-police-say-they-have-detained-a-man-who-attacked-and-injured-several-people.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/don-lemon-h-1b-visa-gop-clash/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T17:00:00.000Z</news:publication_date>
+            <news:title>Lemon calls Trump supporters 'f&#8209;&#8209;&#8209;ing idiots' amid H-1B visa infighting</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/don-lemon-h-1b-visa-gop-clash.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/palestine-official-predicts-trump-destroy-iran-resulting-breakdown-remaining-hamas-cells-report/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T16:35:12.000Z</news:publication_date>
+            <news:title>Palestinian official predicts Trump will 'destroy' Iran, leading to breakdown of remaining Hamas cells: report</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/palestine-official-predicts-trump-destroy-iran-resulting-breakdown-remaining-hamas-cells-report.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/netanyahu-goes-against-doctors-orders-appears-israeli-parliament-after-surgery/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T15:47:42.000Z</news:publication_date>
+            <news:title>Netanyahu goes against doctor&#8217;s orders, appears in Israeli parliament after surgery</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/netanyahu-goes-against-doctors-orders-appears-israeli-parliament-after-surgery.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/australia-new-zealand-first-to-welcome-2025-with-fireworks/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T15:24:24.000Z</news:publication_date>
+            <news:title>Australia, New Zealand first to welcome 2025 with fireworks</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/australia-new-zealand-first-to-welcome-2025-with-fireworks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/guantanamo-bay-detainee-returned-tunisia/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T14:56:30.000Z</news:publication_date>
+            <news:title>Longest-held Guant&#225;namo Bay detainee sent back to Tunisia</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/guantanamo-bay-detainee-returned-tunisia.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/arrest-warrant-issued-impeached-south-korean-president-political-crisis-deepens/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T14:07:50.000Z</news:publication_date>
+            <news:title>Arrest warrant issued for impeached South Korean president as political crisis deepens</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/arrest-warrant-issued-impeached-south-korean-president-political-crisis-deepens.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/initial-results-of-imprecise-census-in-myanmar-show-a-slight-population-drop/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T13:49:43.000Z</news:publication_date>
+            <news:title>Initial results of imprecise census in Myanmar show a slight population drop</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/initial-results-of-imprecise-census-in-myanmar-show-a-slight-population-drop.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/south-korean-court-issues-warrant-to-detain-impeached-president-yoon/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T10:59:38.000Z</news:publication_date>
+            <news:title>South Korean court issues warrants to detain impeached President Yoon and search his office</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/south-korean-court-issues-warrant-to-detain-impeached-president-yoon.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2024/12/31/middle-east-latest-ukraines-foreign-chief-pledges-support-for-a-new-syria-on-a-trip-to-damascus/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2024-12-31T02:20:06.000Z</news:publication_date>
+            <news:title>Middle East latest: Israel intercepts Houthi missile fired from Yemen</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static11/world/2024/12/31/middle-east-latest-ukraines-foreign-chief-pledges-support-for-a-new-syria-on-a-trip-to-damascus.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,76 +381,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/30/hundreds-of-soldiers-freed-in-the-latest-prisoner-exchange-between-russia-and-ukraine/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-30T20:03:17.000Z</news:publication_date>
-            <news:title>Hundreds of soldiers freed in the latest prisoner exchange between Russia and Ukraine</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/30/hundreds-of-soldiers-freed-in-the-latest-prisoner-exchange-between-russia-and-ukraine.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/30/israeli-spy-network-uncovers-hezbollah-commanders-plans-marry-off-his-4-mistresses/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-30T16:31:19.000Z</news:publication_date>
-            <news:title>Israeli spy network uncovers Hezbollah commander's plans to marry his 4 mistresses</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/30/israeli-spy-network-uncovers-hezbollah-commanders-plans-marry-off-his-4-mistresses.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/30/us-sends-ukraine-final-biden-approved-weapons-financial-package/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-30T15:34:04.000Z</news:publication_date>
-            <news:title>US sends Ukraine final Biden-approved weapons, financial package</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/30/us-sends-ukraine-final-biden-approved-weapons-financial-package.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/29/israeli-pm-benjamin-netanyahu-completes-prostate-surgery-uti-diagnosis/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-29T21:51:11.000Z</news:publication_date>
-            <news:title>Israeli PM Benjamin Netanyahu completes prostate surgery after UTI diagnosis</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/29/israeli-pm-benjamin-netanyahu-completes-prostate-surgery-uti-diagnosis.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/29/south-korea-planes-final-moments-captured-video-before-hitting-concrete-barrier-triggering-explosion/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-29T18:40:50.000Z</news:publication_date>
-            <news:title>South Korea plane's final moments captured on video before hitting concrete barrier, triggering explosion</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/29/south-korea-planes-final-moments-captured-video-before-hitting-concrete-barrier-triggering-explosion.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2024/12/29/china-directs-largest-military-build-up-since-1930s-nazi-germany-expert-warns-citing-pentagon-report/</loc>
           <news:news>
             <news:publication>
@@ -325,58 +409,30 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/28/putin-apologizes-to-azerbaijani-leader-for-tragic-incident-involving-crashed-azerbaijani-plane/</loc>
+          <loc>https://majordigest.com/world/2024/12/27/chinese-man-sentenced-to-death-for-killing-35-people-by-driving-into-a-crowd/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-28T22:02:18.000Z</news:publication_date>
-            <news:title>Putin apologizes for 'tragic incident' but stops short of saying Azerbaijani plane was shot down</news:title>
+            <news:publication_date>2024-12-27T15:48:27.000Z</news:publication_date>
+            <news:title>Chinese man sentenced to death for killing 35 people after driving into a crowd</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/28/putin-apologizes-to-azerbaijani-leader-for-tragic-incident-involving-crashed-azerbaijani-plane.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/27/chinese-man-sentenced-to-death-for-killing-35-people-by-driving-into-a-crowd.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2024/12/28/us-teacher-jailed-in-russia-is-formally-designated-as-wrongfully-detained/</loc>
+          <loc>https://majordigest.com/world/2024/12/27/europe-retail-gig-work/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2024-12-28T01:10:43.000Z</news:publication_date>
-            <news:title>US teacher jailed in Russia is formally designated as wrongfully detained</news:title>
+            <news:publication_date>2024-12-27T04:03:22.000Z</news:publication_date>
+            <news:title>New European retail gig work app trend may influence US market</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/28/us-teacher-jailed-in-russia-is-formally-designated-as-wrongfully-detained.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/27/china-sanctions-7-companies-over-us-military-assistance-to-taiwan/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-27T18:14:36.000Z</news:publication_date>
-            <news:title>China sanctions 7 companies over US military assistance to Taiwan</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/27/china-sanctions-7-companies-over-us-military-assistance-to-taiwan.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2024/12/27/mexico-tests-app-for-migrants-to-send-alert-if-theyre-about-to-be-detained-in-us/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-12-27T18:09:01.000Z</news:publication_date>
-            <news:title>Mexico tests app for migrants to send alert if they're about to be detained in US</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static11/world/2024/12/27/mexico-tests-app-for-migrants-to-send-alert-if-theyre-about-to-be-detained-in-us.webp</image:loc>
+            <image:loc>https://majordigest.com/static11/world/2024/12/27/europe-retail-gig-work.webp</image:loc>
           </image:image>
         </url></urlset>
