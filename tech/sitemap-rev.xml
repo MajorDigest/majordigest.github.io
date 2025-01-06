@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/06/lg-confirms-the-lg-c5-and-b5-oled-tvs-are-coming-but-theres-good-news-and-bad-news/</loc>
+          <loc>https://majordigest.com/tech/2025/01/06/operational-resilience-delivered-bmc-helix-helps-financial-institutions-meet-compliance/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-06T17:29:41.000Z</news:publication_date>
-            <news:title>CES 2025: LG's OLED TV Lineup Expands with C5 and B5 Models</news:title>
+            <news:publication_date>2025-01-06T19:34:57.000Z</news:publication_date>
+            <news:title>Operational Resilience in Financial Services: Meeting Regulatory Demands</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/06/lg-confirms-the-lg-c5-and-b5-oled-tvs-are-coming-but-theres-good-news-and-bad-news.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/06/operational-resilience-delivered-bmc-helix-helps-financial-institutions-meet-compliance.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/06/artificial-intelligence-spots-a-wildfire-in-an-oc-canyon-and-promptly-alerts-firefighters/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-06T13:22:48.000Z</news:publication_date>
+            <news:title>AI Camera Spots Wildfire in Remote Canyon, First Alert Without Human Call</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/06/artificial-intelligence-spots-a-wildfire-in-an-oc-canyon-and-promptly-alerts-firefighters.webp</image:loc>
           </image:image>
         </url></urlset>
