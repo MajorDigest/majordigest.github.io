@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/07/with-o3-having-reached-agi-openai-turns-its-sights-toward-superintelligence/</loc>
+          <loc>https://majordigest.com/tech/2025/01/07/bbva-migra-su-plataforma-de-datos-a-la-nube-de-aws-en-el-viejo-continente/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-07T03:46:20.000Z</news:publication_date>
-            <news:title>OpenAI CEO Claims Company's Latest Model Has Reached Artificial General Intelligence Milestone</news:title>
+            <news:publication_date>2025-01-07T08:41:30.000Z</news:publication_date>
+            <news:title>BBVA Achieves Full Migration to AWS-Based Platform ADA, Expands Plans for Global Expansion in 2025</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/07/with-o3-having-reached-agi-openai-turns-its-sights-toward-superintelligence.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/07/bbva-migra-su-plataforma-de-datos-a-la-nube-de-aws-en-el-viejo-continente.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/06/mark-zuckerberg-doomsday-bunker-update/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-06T19:13:18.000Z</news:publication_date>
+            <news:title>Zuckerberg Denies Doomsday Bunker Claims: 'Just a Basement'</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/06/mark-zuckerberg-doomsday-bunker-update.webp</image:loc>
           </image:image>
         </url></urlset>
