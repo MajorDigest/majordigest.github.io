@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/08/oracle-offers-price-performance-boost-with-exadata-x11m-update/</loc>
+          <loc>https://majordigest.com/tech/2025/01/08/in-the-social-media-wars-bluesky-is-destroying-truth-social/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-08T13:55:00.000Z</news:publication_date>
-            <news:title>New Oracle Exadata Platform Version Released</news:title>
+            <news:publication_date>2025-01-08T17:13:00.000Z</news:publication_date>
+            <news:title>Bluesky Surpasses Truth Social in User Share</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/oracle-offers-price-performance-boost-with-exadata-x11m-update.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/08/in-the-social-media-wars-bluesky-is-destroying-truth-social.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/08/trump-unveils-usd20-billion-plan-to-build-more-us-data-centers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-08T17:00:00.000Z</news:publication_date>
+            <news:title>DAMAC Founder to Invest $20 Billion in US Data Center Infrastructure | News Article</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/08/trump-unveils-usd20-billion-plan-to-build-more-us-data-centers.webp</image:loc>
           </image:image>
         </url></urlset>
