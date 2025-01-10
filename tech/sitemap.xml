@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2025/01/10/la-wildfires-social-media-spin-room/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-10T18:30:00.000Z</news:publication_date>
+            <news:title>The L.A. wildfires show how social media has become just another spin room</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/10/la-wildfires-social-media-spin-room.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/10/supreme-court-tiktok-ban/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-10T13:53:21.000Z</news:publication_date>
+            <news:title>Live: Supreme Court hears arguments on fate of TikTok</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/10/supreme-court-tiktok-ban.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/01/10/apple-seems-to-be-hitting-snooze-on-this-year-long-iphone-alarm-issue/</loc>
           <news:news>
             <news:publication>
@@ -10,7 +38,7 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-01-10T13:01:52.000Z</news:publication_date>
-            <news:title>iPhone Alarm Issues Persist Despite iOS Updates</news:title>
+            <news:title>Apple seems to be hitting snooze on this year-long iPhone alarm issue</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/01/10/apple-seems-to-be-hitting-snooze-on-this-year-long-iphone-alarm-issue.webp</image:loc>
@@ -24,52 +52,24 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-01-10T13:00:00.000Z</news:publication_date>
-            <news:title>Amazon is selling its ad tools to other ecommerce sites</news:title>
+            <news:title>Amazon Unveils In-House Ad Tech for Ecommerce Sites | Online Retailers Gain Control Over Ads</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/01/10/amazon-is-selling-its-ad-tools-to-other-ecommerce-sites.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/10/las-empresas-dispuestas-a-gastar-hasta-250-millones-en-ia-generativa-a-pesar-de-las-dificultades-para-alcanzar-el-roi/</loc>
+          <loc>https://majordigest.com/tech/2025/01/10/linux-foundation-brings-together-top-browser-makers/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-10T11:45:29.000Z</news:publication_date>
-            <news:title>Las empresas, dispuestas a gastar hasta 250 millones en IA generativa a pesar de las dificultades para alcanzar el ROI</news:title>
+            <news:publication_date>2025-01-10T12:00:00.000Z</news:publication_date>
+            <news:title>Linux Foundation brings together top browser makers for more "open" approach</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/10/las-empresas-dispuestas-a-gastar-hasta-250-millones-en-ia-generativa-a-pesar-de-las-dificultades-para-alcanzar-el-roi.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/10/cohere-goes-north-with-agentic-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-10T08:37:05.000Z</news:publication_date>
-            <news:title>Cohere goes &#8216;North&#8217; with agentic AI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/10/cohere-goes-north-with-agentic-ai.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/10/6-years-ago-elon-musk-offered-help-during-wildfires-this-time-he-blamed-dei/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-10T06:45:00.000Z</news:publication_date>
-            <news:title>6 years ago, Elon Musk offered help during wildfires. This time he blamed DEI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/10/6-years-ago-elon-musk-offered-help-during-wildfires-this-time-he-blamed-dei.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/10/linux-foundation-brings-together-top-browser-makers.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -87,45 +87,129 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/10/ai-at-ces-a-look-at-the-wild-pcs-smart-glasses-and-body-scanning-mirrors-turning-heads-at-the-conference/</loc>
+          <loc>https://majordigest.com/tech/2025/01/10/more-than-4-pc-shipment-growth-predicted-for-2025-but-not-for-what-you-expect-says-idc/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-10T01:00:00.000Z</news:publication_date>
-            <news:title>AI at CES: a look at the wild PCs, smart glasses, and body-scanning mirrors turning heads at the conference</news:title>
+            <news:publication_date>2025-01-10T02:25:39.000Z</news:publication_date>
+            <news:title>More than 4% PC shipment growth predicted for 2025, but not for what you expect, says IDC</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/10/ai-at-ces-a-look-at-the-wild-pcs-smart-glasses-and-body-scanning-mirrors-turning-heads-at-the-conference.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/10/more-than-4-pc-shipment-growth-predicted-for-2025-but-not-for-what-you-expect-says-idc.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/09/qa-how-ai-will-shape-work-in-2025-and-what-companies-should-do-now/</loc>
+          <loc>https://majordigest.com/tech/2025/01/09/opm-giving-two-big-data-platforms-a-much-needed-facelift/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T23:17:16.000Z</news:publication_date>
+            <news:title>OPM Modernizing HR Data Platforms for Better Decisions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/opm-giving-two-big-data-platforms-a-much-needed-facelift.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/airbnb-is-offering-temporary-housing-for-people-impacted-by-the-l-a-wildfires/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T21:19:34.000Z</news:publication_date>
+            <news:title>Airbnb is offering temporary housing for people impacted by the L.A. wildfires</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/airbnb-is-offering-temporary-housing-for-people-impacted-by-the-l-a-wildfires.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/musk-trump-relationship-not-a-concern-hyundai-ceo/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T20:14:28.000Z</news:publication_date>
+            <news:title>Musk-Trump relationship not a 'concern': Hyundai CEO</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/musk-trump-relationship-not-a-concern-hyundai-ceo.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/experts-warn-dna-sequencers-are-vulnerable-to-bootkit-attacks/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T20:03:00.000Z</news:publication_date>
+            <news:title>Experts warn DNA sequencers are vulnerable to bootkit attacks</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/experts-warn-dna-sequencers-are-vulnerable-to-bootkit-attacks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T15:47:59.000Z</news:publication_date>
+            <news:title>Meloni says Italy is exploring deals on telecoms security, but denies private talks with Musk</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/solar-device-transforms-used-tires-help-purify-water-so-its-drinkable/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T11:00:01.000Z</news:publication_date>
+            <news:title>Solar device transforms used tires to help purify water so that it's drinkable</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/solar-device-transforms-used-tires-help-purify-water-so-its-drinkable.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/musk-foreign-politics-trump-transition/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-01-09T11:00:00.000Z</news:publication_date>
-            <news:title>How AI will shape work in 2025</news:title>
+            <news:title>Musk emerges as Trump foreign policy wild card</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/09/qa-how-ai-will-shape-work-in-2025-and-what-companies-should-do-now.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/musk-foreign-politics-trump-transition.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/09/aws-to-invest-11-billion-in-georgia-to-expand-infra-for-gen-ai/</loc>
+          <loc>https://majordigest.com/tech/2025/01/09/google-faces-privacy-lawsuit-as-judge-highlights-data-governance-concerns/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-09T07:48:27.000Z</news:publication_date>
-            <news:title>AWS to invest $11 billion in Georgia to expand infra for gen AI</news:title>
+            <news:publication_date>2025-01-09T08:50:40.000Z</news:publication_date>
+            <news:title>Google Faces Privacy Lawsuit Over Mobile Device Data Collection - Federal Judge Allows Case to Proceed</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/09/aws-to-invest-11-billion-in-georgia-to-expand-infra-for-gen-ai.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/google-faces-privacy-lawsuit-as-judge-highlights-data-governance-concerns.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -143,31 +227,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/08/meta-ebay-marketplace-partnership/</loc>
+          <loc>https://majordigest.com/tech/2025/01/09/tiktok-alternative-lemon8-why-creators-are-moving-to-bytedances-other-social-media-platform/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-08T19:13:33.000Z</news:publication_date>
-            <news:title>Some Facebook users now allowed to see eBay listings in Marketplace</news:title>
+            <news:publication_date>2025-01-09T01:59:21.000Z</news:publication_date>
+            <news:title>TikTok alternative Lemon8: Why creators are moving to ByteDance&#8217;s other social media platform</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/meta-ebay-marketplace-partnership.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/tiktok-alternative-lemon8-why-creators-are-moving-to-bytedances-other-social-media-platform.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/08/nvidia-launches-blueprints-to-help-jump-start-ai-projects/</loc>
+          <loc>https://majordigest.com/tech/2025/01/09/meta-rolls-back-hate-speech-rules-as-zuckerberg-cites-recent-elections-as-a-catalyst/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-08T18:52:52.000Z</news:publication_date>
-            <news:title>Nvidia launches blueprints to help jump start AI projects</news:title>
+            <news:publication_date>2025-01-09T00:21:37.000Z</news:publication_date>
+            <news:title>Meta rolls back hate speech rules as Zuckerberg cites 'recent elections' as a catalyst</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/nvidia-launches-blueprints-to-help-jump-start-ai-projects.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/meta-rolls-back-hate-speech-rules-as-zuckerberg-cites-recent-elections-as-a-catalyst.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/08/jeff-bezos-lauren-sanchez-marry-italy-2025-source/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-08T22:18:47.000Z</news:publication_date>
+            <news:title>Jeff Bezos and Lauren Sanchez to marry in Italy: Source</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/08/jeff-bezos-lauren-sanchez-marry-italy-2025-source.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -185,34 +283,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/08/joe-biden-donald-trump-misinformation/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-08T16:16:42.000Z</news:publication_date>
-            <news:title>Biden: Biggest regret failing to counter misinformation, including from Trump</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/joe-biden-donald-trump-misinformation.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/08/meta-lgbtq-hate-speech-policies/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-08T15:41:48.000Z</news:publication_date>
-            <news:title>Meta changes hate speech rules, dropping LGBTQ protections</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/meta-lgbtq-hate-speech-policies.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/01/08/bytedances-lemon8-gains-traction-amid-tiktok-ban-threat-as-creators-push-the-app/</loc>
           <news:news>
             <news:publication>
@@ -227,31 +297,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/08/japan-links-chinese-hacker-mirrorface-to-dozens-of-cyberattacks-targeting-security-and-tech-data/</loc>
+          <loc>https://majordigest.com/tech/2025/01/08/intro-to-ktor-the-http-server-for-kotlin/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-08T11:08:52.000Z</news:publication_date>
-            <news:title>Japan links Chinese hacker MirrorFace to dozens of cyberattacks targeting security and tech data</news:title>
+            <news:publication_date>2025-01-08T09:00:00.000Z</news:publication_date>
+            <news:title>Intro to Ktor: The HTTP server for Kotlin</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/japan-links-chinese-hacker-mirrorface-to-dozens-of-cyberattacks-targeting-security-and-tech-data.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/08/top-tech-stealing-show-ces-2025/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-08T11:00:47.000Z</news:publication_date>
-            <news:title>Top tech stealing the show at CES 2025</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/top-tech-stealing-show-ces-2025.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/08/intro-to-ktor-the-http-server-for-kotlin.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -269,16 +325,16 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/07/point2-aims-to-cut-data-center-power-consumption-through-smart-cabling/</loc>
+          <loc>https://majordigest.com/tech/2025/01/03/police-took-over-a-week-to-name-the-nyc-subway-burning-victim-a-fake-name-spread-in-the-meantime/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-07T21:48:39.000Z</news:publication_date>
-            <news:title>Point2 aims to cut data center power consumption through smart cabling</news:title>
+            <news:publication_date>2025-01-03T19:35:09.000Z</news:publication_date>
+            <news:title>Police took over a week to name the NYC subway burning victim. A fake name spread in the meantime</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/07/point2-aims-to-cut-data-center-power-consumption-through-smart-cabling.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/03/police-took-over-a-week-to-name-the-nyc-subway-burning-victim-a-fake-name-spread-in-the-meantime.webp</image:loc>
           </image:image>
         </url></urlset>
