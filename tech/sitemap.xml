@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2025/01/10/6-years-ago-elon-musk-offered-help-during-wildfires-this-time-he-blamed-dei/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-10T06:45:00.000Z</news:publication_date>
+            <news:title>Elon Musk's Shift in Response to California Wildfires</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/10/6-years-ago-elon-musk-offered-help-during-wildfires-this-time-he-blamed-dei.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/01/10/dell-name-changes-pro-max-inspiron-xps-latitude-optiplex/</loc>
           <news:news>
             <news:publication>
@@ -17,17 +31,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/10/akeneo-aims-to-transform-the-retail-playbook-with-ai-and-data-consistency/</loc>
+          <loc>https://majordigest.com/tech/2025/01/09/rust-1-84-introduces-strict-provenance-apis/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-10T00:37:30.000Z</news:publication_date>
-            <news:title>Akeneo aims to transform the retail playbook with AI and data consistency</news:title>
+            <news:publication_date>2025-01-09T23:30:27.000Z</news:publication_date>
+            <news:title>Rust 1.84 Released: Strict Provenance APIs and Trait Solver Improvements - Tech News</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/10/akeneo-aims-to-transform-the-retail-playbook-with-ai-and-data-consistency.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/rust-1-84-introduces-strict-provenance-apis.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/how-a-minnesota-limo-driver-invented-the-tech-thats-changing-college-football/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T22:15:00.000Z</news:publication_date>
+            <news:title>How a Minnesota limo driver invented the tech that&#8217;s changing college football</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/how-a-minnesota-limo-driver-invented-the-tech-thats-changing-college-football.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/researchers-build-a-bridge-from-c-to-rust-and-memory-safety/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T21:55:03.000Z</news:publication_date>
+            <news:title>Researchers build a bridge from C to Rust and memory safety</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/researchers-build-a-bridge-from-c-to-rust-and-memory-safety.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,6 +87,76 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2025/01/09/ai-job-cuts-survey/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T19:00:44.000Z</news:publication_date>
+            <news:title>The Impact of AI on American Businesses: Job Cuts Ahead?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/ai-job-cuts-survey.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/flying-cars-are-about-to-take-off-we-mean-it-this-time/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T18:13:00.000Z</news:publication_date>
+            <news:title>Flying cars are about to take off&#8212;we mean it this time</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/flying-cars-are-about-to-take-off-we-mean-it-this-time.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/after-tiktok-venezuela-blocks-vpn-webistes/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T18:03:41.000Z</news:publication_date>
+            <news:title>After TikTok, Venezuela blocks VPN websites</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/after-tiktok-venezuela-blocks-vpn-webistes.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/the-next-big-ev-trend-could-be-these-special-edition-e-ink-dashboards-and-im-all-for-it/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T16:39:24.000Z</news:publication_date>
+            <news:title>The next big EV trend could be these special-edition E Ink dashboards &#8211; and I'm all for it</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/the-next-big-ev-trend-could-be-these-special-edition-e-ink-dashboards-and-im-all-for-it.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/new-smart-tracks-health-and-fitness-data-with-long-battery-life/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T16:00:12.000Z</news:publication_date>
+            <news:title>Larry Magid: Smart ring tracks health, fitness data with long battery life</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/new-smart-tracks-health-and-fitness-data-with-long-battery-life.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk/</loc>
           <news:news>
             <news:publication>
@@ -56,6 +168,48 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/companies-shrinking-workforce-artificial-intelligence-survey/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T15:26:13.000Z</news:publication_date>
+            <news:title>4 in 10 companies planning job cuts due to AI: Survey</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/companies-shrinking-workforce-artificial-intelligence-survey.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/beyond-digital-transformation-how-experience-innovation-is-key-to-growth/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T15:04:45.000Z</news:publication_date>
+            <news:title>Beyond digital transformation: how experience innovation is key to growth</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/beyond-digital-transformation-how-experience-innovation-is-key-to-growth.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/fake-app-clone-steal-everything-you-type-your-android/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T15:00:17.000Z</news:publication_date>
+            <news:title>This fake app clone will steal everything you type on your Android</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/fake-app-clone-steal-everything-you-type-your-android.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,31 +227,87 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/09/fresh-galaxy-s25-price-leak-could-spell-bad-news-for-european-samsung-fans/</loc>
+          <loc>https://majordigest.com/tech/2025/01/09/tiktoks-fate-arrives-at-supreme-court-in-collision-of-free-speech-and-national-security/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-09T13:30:00.000Z</news:publication_date>
-            <news:title>Fresh Galaxy S25 price leak could spell bad news for European Samsung fans</news:title>
+            <news:publication_date>2025-01-09T13:08:21.000Z</news:publication_date>
+            <news:title>TikTok's fate arrives at Supreme Court in collision of free speech and national security</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/09/fresh-galaxy-s25-price-leak-could-spell-bad-news-for-european-samsung-fans.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/tiktoks-fate-arrives-at-supreme-court-in-collision-of-free-speech-and-national-security.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/09/unlocking-business-growth-how-cios-can-blend-strategy-and-innovation-to-drive-success/</loc>
+          <loc>https://majordigest.com/tech/2025/01/09/meta-makes-major-move-back-free-speech-ends-third-party-fact-checking-program/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-09T12:00:00.000Z</news:publication_date>
-            <news:title>Unlocking business growth: How CIOs can blend strategy and innovation to drive success</news:title>
+            <news:publication_date>2025-01-09T13:00:58.000Z</news:publication_date>
+            <news:title>Meta Shifts Content Moderation Approach, Ending Fact-Checking Partnership</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/09/unlocking-business-growth-how-cios-can-blend-strategy-and-innovation-to-drive-success.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/meta-makes-major-move-back-free-speech-ends-third-party-fact-checking-program.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/samsung-shows-off-two-tri-fold-concept-phones-at-ces-2025-and-i-hope-the-right-one-gets-made/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T12:20:28.000Z</news:publication_date>
+            <news:title>Samsung shows off two tri-fold concept phones at CES 2025 &#8211; and I hope the right one gets made</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/samsung-shows-off-two-tri-fold-concept-phones-at-ces-2025-and-i-hope-the-right-one-gets-made.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/qa-how-ai-will-shape-work-in-2025-and-what-companies-should-do-now/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T11:00:00.000Z</news:publication_date>
+            <news:title>How AI will shape work in 2025</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/qa-how-ai-will-shape-work-in-2025-and-what-companies-should-do-now.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/how-to-use-the-new-lock-object-in-c-13/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T09:00:00.000Z</news:publication_date>
+            <news:title>How to use the new Lock object in C# 13</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/how-to-use-the-new-lock-object-in-c-13.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/09/aws-to-invest-11-billion-in-georgia-to-expand-infra-for-gen-ai/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-09T07:48:27.000Z</news:publication_date>
+            <news:title>AWS to invest $11 billion in Georgia to expand infra for gen AI</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/09/aws-to-invest-11-billion-in-georgia-to-expand-infra-for-gen-ai.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -115,227 +325,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/09/meta-tests-ebay-listings-facebook-marketplace-eu-charges/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-09T03:00:00.000Z</news:publication_date>
-            <news:title>Anticompetitive Behavior: Meta Tests eBay Listings on Marketplace - A Possible Solution</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/09/meta-tests-ebay-listings-facebook-marketplace-eu-charges.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/09/tiktok-alternative-lemon8-why-creators-are-moving-to-bytedances-other-social-media-platform/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-09T01:59:21.000Z</news:publication_date>
-            <news:title>TikTok alternative Lemon8: Why creators are moving to ByteDance&#8217;s other social media platform</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/09/tiktok-alternative-lemon8-why-creators-are-moving-to-bytedances-other-social-media-platform.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/09/meta-rolls-back-hate-speech-rules-as-zuckerberg-cites-recent-elections-as-a-catalyst/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-09T00:21:37.000Z</news:publication_date>
-            <news:title>Meta rolls back hate speech rules as Zuckerberg cites 'recent elections' as a catalyst</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/09/meta-rolls-back-hate-speech-rules-as-zuckerberg-cites-recent-elections-as-a-catalyst.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/08/flying-taxis-could-carrying-passengers-2025-hurdles-remain/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-08T23:38:34.000Z</news:publication_date>
-            <news:title>Flying Cars Take Off: Electric-Powered Aircraft Vie to Become Taxis in the Sky</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/flying-taxis-could-carrying-passengers-2025-hurdles-remain.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/08/meta-lgbtq-hate-speech-policies/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-08T15:41:48.000Z</news:publication_date>
-            <news:title>Meta changes hate speech rules, dropping LGBTQ protections</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/meta-lgbtq-hate-speech-policies.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/08/bytedances-lemon8-gains-traction-amid-tiktok-ban-threat-as-creators-push-the-app/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-08T14:53:42.000Z</news:publication_date>
-            <news:title>ByteDance's Lemon8 gains traction amid TikTok ban threat as creators push the app</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/bytedances-lemon8-gains-traction-amid-tiktok-ban-threat-as-creators-push-the-app.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/08/japan-links-chinese-hacker-mirrorface-to-dozens-of-cyberattacks-targeting-security-and-tech-data/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-08T11:08:52.000Z</news:publication_date>
-            <news:title>Japan links Chinese hacker MirrorFace to dozens of cyberattacks targeting security and tech data</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/japan-links-chinese-hacker-mirrorface-to-dozens-of-cyberattacks-targeting-security-and-tech-data.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/08/longshoremen-strike-usmx-negotiations/</loc>
+          <loc>https://majordigest.com/tech/2025/01/08/website-certificates-that-expire-every-six-weeks-what-it-should-know/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-01-08T11:00:00.000Z</news:publication_date>
-            <news:title>Port strike looms ahead of Trump inauguration</news:title>
+            <news:title>Website certificates that expire every six weeks? What IT should know</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/longshoremen-strike-usmx-negotiations.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/08/website-certificates-that-expire-every-six-weeks-what-it-should-know.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/08/why-the-c-programming-language-still-rules/</loc>
+          <loc>https://majordigest.com/tech/2025/01/07/meta-adds-three-board-members-including-ufc-boss-dana-white-key-figure-in-trumps-orbit/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-08T09:00:00.000Z</news:publication_date>
-            <news:title>Why the C programming language still rules</news:title>
+            <news:publication_date>2025-01-07T14:29:56.000Z</news:publication_date>
+            <news:title>Meta's new board includes UFC boss Dana White, a familiar figure in Trump's orbit</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/why-the-c-programming-language-still-rules.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/07/meta-adds-three-board-members-including-ufc-boss-dana-white-key-figure-in-trumps-orbit.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/08/meta-replaces-fact-checking-with-x-style-community-notes/</loc>
+          <loc>https://majordigest.com/tech/2025/01/07/5-ways-data-teams-must-lead-in-ai-driven-organizations/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-08T00:57:32.000Z</news:publication_date>
-            <news:title>Meta eliminates fact-checking in latest bow to Trump</news:title>
+            <news:publication_date>2025-01-07T09:00:00.000Z</news:publication_date>
+            <news:title>5 ways data teams must lead in AI-driven organizations</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/08/meta-replaces-fact-checking-with-x-style-community-notes.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/07/5-ways-data-teams-must-lead-in-ai-driven-organizations.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/07/silicon-valley-homeless-microsoft-lifemoves/</loc>
+          <loc>https://majordigest.com/tech/2025/01/06/planes-trains-and-third-party-risks-a-tale-of-two-it-related-shutdowns/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-07T23:29:23.000Z</news:publication_date>
-            <news:title>Silicon Valley homeless nonprofit sues Microsoft over disrupted email access</news:title>
+            <news:publication_date>2025-01-06T16:56:33.000Z</news:publication_date>
+            <news:title>Planes, trains and third-party risks</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/07/silicon-valley-homeless-microsoft-lifemoves.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/06/planes-trains-and-third-party-risks-a-tale-of-two-it-related-shutdowns.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/07/openai-is-losing-money-on-its-pricey-chatgpt-pro-subscription/</loc>
+          <loc>https://majordigest.com/tech/2025/01/06/easier-than-ever-disable-location-sharing-your-android-phone/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-07T17:15:55.000Z</news:publication_date>
-            <news:title>OpenAI is losing money on its pricey ChatGPT Pro subscription</news:title>
+            <news:publication_date>2025-01-06T11:00:25.000Z</news:publication_date>
+            <news:title>It is easier than ever to disable Location Sharing on your Android phone</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/07/openai-is-losing-money-on-its-pricey-chatgpt-pro-subscription.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/07/2025-global-network-outage-report-and-internet-health-check/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-07T15:17:46.000Z</news:publication_date>
-            <news:title>2025 global network outage report and internet health check</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/07/2025-global-network-outage-report-and-internet-health-check.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/06/wordpress-org-statement-threatens-possible-shutdown-for-all-of-2025/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-06T16:45:10.000Z</news:publication_date>
-            <news:title>WordPress.org statement threatens possible shutdown for all of 2025</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/06/wordpress-org-statement-threatens-possible-shutdown-for-all-of-2025.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/06/beijing-based-cyber-group-protests-us-sanctions-for-its-alleged-role-in-hacking-incidents/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-06T10:01:43.000Z</news:publication_date>
-            <news:title>China protests US sanctions for its alleged role in hacking, complains of foreign hacker attacks</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/06/beijing-based-cyber-group-protests-us-sanctions-for-its-alleged-role-in-hacking-incidents.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/06/someone-needs-to-make-ai-easy/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-06T09:00:00.000Z</news:publication_date>
-            <news:title>Someone needs to make AI easy</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/06/someone-needs-to-make-ai-easy.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/06/easier-than-ever-disable-location-sharing-your-android-phone.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -367,6 +423,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2025/01/03/police-took-over-a-week-to-name-the-nyc-subway-burning-victim-a-fake-name-spread-in-the-meantime/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-03T19:35:09.000Z</news:publication_date>
+            <news:title>Police took over a week to name the NYC subway burning victim. A fake name spread in the meantime</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/03/police-took-over-a-week-to-name-the-nyc-subway-burning-victim-a-fake-name-spread-in-the-meantime.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/01/03/musk-brand-cybertruck-explosion/</loc>
           <news:news>
             <news:publication>
@@ -395,30 +465,30 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/03/net-neutrality/</loc>
+          <loc>https://majordigest.com/tech/2025/01/03/turo-rentals-emerge-common-thread-las-vegas-cybertruck-new-orleans-deadly-incidents/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-03T15:31:00.000Z</news:publication_date>
-            <news:title>Federal appeals court strikes down Biden net neutrality rules</news:title>
+            <news:publication_date>2025-01-03T12:00:16.000Z</news:publication_date>
+            <news:title>Turo rentals emerge as common thread in Las Vegas Cybertruck and New Orleans deadly incidents</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/03/net-neutrality.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/03/turo-rentals-emerge-common-thread-las-vegas-cybertruck-new-orleans-deadly-incidents.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/03/china-rolls-out-its-crime-fighting-ball-chase-down-criminals/</loc>
+          <loc>https://majordigest.com/tech/2025/01/03/apple-to-pay-95-million-to-settle-lawsuit-accusing-siri-of-snoopy-eavesdropping/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-03T11:00:16.000Z</news:publication_date>
-            <news:title>China rolls out its crime-fighting ball to chase down criminals</news:title>
+            <news:publication_date>2025-01-03T02:37:16.000Z</news:publication_date>
+            <news:title>Apple to pay $95 million to settle lawsuit accusing Siri of eavesdropping</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/03/china-rolls-out-its-crime-fighting-ball-chase-down-criminals.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/03/apple-to-pay-95-million-to-settle-lawsuit-accusing-siri-of-snoopy-eavesdropping.webp</image:loc>
           </image:image>
         </url></urlset>
