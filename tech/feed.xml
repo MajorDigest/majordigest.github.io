@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 10 Jan 2025 05:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 06:14:04 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -31,86 +31,129 @@ What a difference six years can make.]]></description>
           <dc:creator>Joe Berkowitz, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Dell&#8217;s new PC names are boring&#8212;and a smart move</title>
-          <description><![CDATA[There are surely many reasons that the parents of tech icon Michael Dell did not name him Inspiron or XPS. For one, Dell’s parents aren’t Elon Musk. More generally, there is appeal to a commonplace name. Yes, you sacrifice originality. You risk being called a copycat by your cousin.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/10/dell-name-changes-pro-max-inspiron-xps-latitude-optiplex/</guid>
-          <link>https://majordigest.com/tech/2025/01/10/dell-name-changes-pro-max-inspiron-xps-latitude-optiplex/</link>
-          <pubDate>Fri, 10 Jan 2025 03:00:00 GMT</pubDate>
+          <title>Gigabyte's mini PC is much smaller than the Apple Mac Mini M4 and should offer more storage for a lot less</title>
+          <description><![CDATA[Gigabyte’s BRIX GB-BRU7-255H purports to redefine mini PCs, delivering storage, performance, and advanced connectivity with Thunderbolt 4, WiFi 6E, and HDMI 2.1 in a 0.5L chassis.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/gigabytes-mini-pc-is-much-smaller-than-the-apple-mac-mini-m4-and-should-offer-more-storage-for-a-lot-less/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/gigabytes-mini-pc-is-much-smaller-than-the-apple-mac-mini-m4-and-should-offer-more-storage-for-a-lot-less/</link>
+          <pubDate>Thu, 09 Jan 2025 23:02:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/10/dell-name-changes-pro-max-inspiron-xps-latitude-optiplex.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/10/dell-name-changes-pro-max-inspiron-xps-latitude-optiplex.webp"/>
-          <dc:creator>Katy Steinmetz, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/gigabytes-mini-pc-is-much-smaller-than-the-apple-mac-mini-m4-and-should-offer-more-storage-for-a-lot-less.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/gigabytes-mini-pc-is-much-smaller-than-the-apple-mac-mini-m4-and-should-offer-more-storage-for-a-lot-less.webp"/>
+          <dc:creator>udinmwenefosa@gmail.com (Efosa Udinmwen), TechRadar</dc:creator>
         </item>
         <item>
-          <title>Rust 1.84 introduces strict provenance APIs</title>
-          <description><![CDATA[Rust 1.84 has been released, bringing strict provenance APIs that can be used in lieu of integer-pointer casts, making the code both easier for developers to reason about and easier for the compiler to analyze, the Rust team said.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/09/rust-1-84-introduces-strict-provenance-apis/</guid>
-          <link>https://majordigest.com/tech/2025/01/09/rust-1-84-introduces-strict-provenance-apis/</link>
-          <pubDate>Thu, 09 Jan 2025 23:30:27 GMT</pubDate>
+          <title>HP unleashes its rival to Apple's iMac, one that can even 'charge and control' a laptop; and we can&#8217;t wait to review them</title>
+          <description><![CDATA[The new HP OmniStudio X series features 27-inch and 32-inch displays with Intel Core Ultra processors.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/hp-unleashes-its-rival-to-apples-imac-one-that-can-even-charge-and-control-a-laptop-and-we-cant-wait-to-review-them/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/hp-unleashes-its-rival-to-apples-imac-one-that-can-even-charge-and-control-a-laptop-and-we-cant-wait-to-review-them/</link>
+          <pubDate>Thu, 09 Jan 2025 22:02:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/rust-1-84-introduces-strict-provenance-apis.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/rust-1-84-introduces-strict-provenance-apis.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/hp-unleashes-its-rival-to-apples-imac-one-that-can-even-charge-and-control-a-laptop-and-we-cant-wait-to-review-them.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/hp-unleashes-its-rival-to-apples-imac-one-that-can-even-charge-and-control-a-laptop-and-we-cant-wait-to-review-them.webp"/>
+          <dc:creator>udinmwenefosa@gmail.com (Efosa Udinmwen), TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Researchers build a bridge from C to Rust and memory safety</title>
+          <description><![CDATA[Memory errors such as out-of-bounds reads and writes and use-after-free bugs have plagued applications for decades, causing problems ranging from minor execution glitches to global security nightmares.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/researchers-build-a-bridge-from-c-to-rust-and-memory-safety/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/researchers-build-a-bridge-from-c-to-rust-and-memory-safety/</link>
+          <pubDate>Thu, 09 Jan 2025 21:55:03 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/researchers-build-a-bridge-from-c-to-rust-and-memory-safety.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/researchers-build-a-bridge-from-c-to-rust-and-memory-safety.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Airbnb is offering temporary housing for people impacted by the L.A. wildfires</title>
-          <description><![CDATA[Airbnb’s nonprofit arm, Airbnb.org, is providing free, temporary housing for Los Angeles residents who have been displaced or forced to evacuate due to the ongoing wildfires.
-“To support residents who have been displaced from their homes or forced to evacuate by the wildfires, Airbnb.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/09/airbnb-is-offering-temporary-housing-for-people-impacted-by-the-l-a-wildfires/</guid>
-          <link>https://majordigest.com/tech/2025/01/09/airbnb-is-offering-temporary-housing-for-people-impacted-by-the-l-a-wildfires/</link>
-          <pubDate>Thu, 09 Jan 2025 21:19:34 GMT</pubDate>
+          <title>Now, you can create a digital copy of your personality in just two hours</title>
+          <description><![CDATA[Researchers at Google Deepmind and Stanford University have concluded that a two-hour interview is sufficient to create a realistic AI copy with the same personality as the interviewee.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/now-you-can-create-a-digital-copy-of-your-personality-in-just-two-hours/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/now-you-can-create-a-digital-copy-of-your-personality-in-just-two-hours/</link>
+          <pubDate>Thu, 09 Jan 2025 20:23:50 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/airbnb-is-offering-temporary-housing-for-people-impacted-by-the-l-a-wildfires.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/airbnb-is-offering-temporary-housing-for-people-impacted-by-the-l-a-wildfires.webp"/>
-          <dc:creator>Jessica Bursztynsky, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/now-you-can-create-a-digital-copy-of-your-personality-in-just-two-hours.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/now-you-can-create-a-digital-copy-of-your-personality-in-just-two-hours.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Soundpeats' new earbuds are a super-cheap and stylish alternative to the Bose Ultra Open</title>
-          <description><![CDATA[These super-cheap earbuds are even cheaper if you order now: an early-bird offer makes them one tenth of the Bose alternative's price.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/09/soundpeats-new-earbuds-are-a-super-cheap-and-stylish-alternative-to-the-bose-ultra-open/</guid>
-          <link>https://majordigest.com/tech/2025/01/09/soundpeats-new-earbuds-are-a-super-cheap-and-stylish-alternative-to-the-bose-ultra-open/</link>
-          <pubDate>Thu, 09 Jan 2025 17:00:00 GMT</pubDate>
+          <title>Musk-Trump relationship not a 'concern': Hyundai CEO</title>
+          <description><![CDATA[Hyundai CEO José Muñoz said he’s not concerned about the relationship between President-elect Trump and Tesla CEO Elon Musk, whose company is one of Hyundai’s biggest competitors. Instead, Munoz said in an interview with Bloomberg that he thinks their close relationship could benefit the U.S.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/musk-trump-relationship-not-a-concern-hyundai-ceo/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/musk-trump-relationship-not-a-concern-hyundai-ceo/</link>
+          <pubDate>Thu, 09 Jan 2025 20:14:28 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/soundpeats-new-earbuds-are-a-super-cheap-and-stylish-alternative-to-the-bose-ultra-open.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/soundpeats-new-earbuds-are-a-super-cheap-and-stylish-alternative-to-the-bose-ultra-open.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/musk-trump-relationship-not-a-concern-hyundai-ceo.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/musk-trump-relationship-not-a-concern-hyundai-ceo.webp"/>
+          <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>PowerSchool hack exposes Indiana students' data</title>
+          <description><![CDATA[BROWNSBURG, Ind. -- Multiple Indianapolis area school corporations confirmed an unauthorized user accessed its student information system as part of a national data breach.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/powerschool-hack-indiana-student-data/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/powerschool-hack-indiana-student-data/</link>
+          <pubDate>Thu, 09 Jan 2025 19:39:55 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/powerschool-hack-indiana-student-data.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/powerschool-hack-indiana-student-data.webp"/>
+          <dc:creator>Tyler Haughn, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>Flying cars are about to take off&#8212;we mean it this time</title>
+          <description><![CDATA[When Xpeng Aeroht, an offshoot of Chinese EV startup Xpeng, showed its flying concept car at the Bangkok auto show last year, it turned heads. Now the Chinese startup is ready to take to the skies.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/flying-cars-are-about-to-take-off-we-mean-it-this-time/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/flying-cars-are-about-to-take-off-we-mean-it-this-time/</link>
+          <pubDate>Thu, 09 Jan 2025 18:13:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/flying-cars-are-about-to-take-off-we-mean-it-this-time.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/flying-cars-are-about-to-take-off-we-mean-it-this-time.webp"/>
+          <dc:creator>Chris Morris, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Assassin's Creed Shadows gets delayed again, as Ubisoft pushes the game back by nearly five weeks</title>
+          <description><![CDATA[Assassin's Creed Shadows has been delayed again with the next entry in the behemoth series pushed back to March 20, 2025.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/assassins-creed-shadows-gets-delayed-again-as-ubisoft-pushes-the-game-back-by-nearly-five-weeks/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/assassins-creed-shadows-gets-delayed-again-as-ubisoft-pushes-the-game-back-by-nearly-five-weeks/</link>
+          <pubDate>Thu, 09 Jan 2025 17:33:04 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/assassins-creed-shadows-gets-delayed-again-as-ubisoft-pushes-the-game-back-by-nearly-five-weeks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/assassins-creed-shadows-gets-delayed-again-as-ubisoft-pushes-the-game-back-by-nearly-five-weeks.webp"/>
+          <dc:creator>rob.dwiar@futurenet.com (Rob Dwiar), TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Spending on data centers hit a high in 2024, but it won't last</title>
+          <description><![CDATA[Report claims Data center infrastructure equipment revenue for 2024 is expected to total more than $280 billion.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/spending-on-data-centers-hit-a-high-in-2024-but-it-wont-last/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/spending-on-data-centers-hit-a-high-in-2024-but-it-wont-last/</link>
+          <pubDate>Thu, 09 Jan 2025 17:06:13 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/spending-on-data-centers-hit-a-high-in-2024-but-it-wont-last.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/spending-on-data-centers-hit-a-high-in-2024-but-it-wont-last.webp"/>
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>Meloni says Italy is exploring deals on telecoms security, but denies private talks with Musk</title>
-          <description><![CDATA[ROME (AP) — Italy’s Premier Giorgia Meloni said Thursday that her government is in talks with several private companies, including Elon Musk’s SpaceX, over the country’s telecoms security system, but denied having discussed the issue privately with Musk. “I never talked about this with Musk.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk/</guid>
-          <link>https://majordigest.com/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk/</link>
-          <pubDate>Thu, 09 Jan 2025 15:47:59 GMT</pubDate>
+          <title>The next big EV trend could be these special-edition E Ink dashboards &#8211; and I'm all for it</title>
+          <description><![CDATA[Continental believes that future EVs could benefit from Amazon Kindle-like displays covering the dashboard.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/the-next-big-ev-trend-could-be-these-special-edition-e-ink-dashboards-and-im-all-for-it/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/the-next-big-ev-trend-could-be-these-special-edition-e-ink-dashboards-and-im-all-for-it/</link>
+          <pubDate>Thu, 09 Jan 2025 16:39:24 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk.webp"/>
-          <dc:creator>GIADA ZAMPANO, Associated Press, KLAS, CBS News</dc:creator>
-        </item>
-        <item>
-          <title>Xbox Developer Direct is returning to show off Doom: The Dark Ages, South of Midnight, Clair Obscur: Expedition 33 and one other mystery title</title>
-          <description><![CDATA[Xbox's next Developer Direct is happening this month, and it includes a visit to a 'surprise location' for a look at a 'brand new game'.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/09/xbox-developer-direct-is-returning-to-show-off-doom-the-dark-ages-south-of-midnight-clair-obscur-expedition-33-and-one-other-mystery-title/</guid>
-          <link>https://majordigest.com/tech/2025/01/09/xbox-developer-direct-is-returning-to-show-off-doom-the-dark-ages-south-of-midnight-clair-obscur-expedition-33-and-one-other-mystery-title/</link>
-          <pubDate>Thu, 09 Jan 2025 15:18:34 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/xbox-developer-direct-is-returning-to-show-off-doom-the-dark-ages-south-of-midnight-clair-obscur-expedition-33-and-one-other-mystery-title.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/xbox-developer-direct-is-returning-to-show-off-doom-the-dark-ages-south-of-midnight-clair-obscur-expedition-33-and-one-other-mystery-title.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/the-next-big-ev-trend-could-be-these-special-edition-e-ink-dashboards-and-im-all-for-it.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/the-next-big-ev-trend-could-be-these-special-edition-e-ink-dashboards-and-im-all-for-it.webp"/>
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>Beyond digital transformation: how experience innovation is key to growth</title>
-          <description><![CDATA[By shifting focus from optimization to innovation, Matt Redman outlines how experience innovation can drive growth through exceptional customer experiences.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/09/beyond-digital-transformation-how-experience-innovation-is-key-to-growth/</guid>
-          <link>https://majordigest.com/tech/2025/01/09/beyond-digital-transformation-how-experience-innovation-is-key-to-growth/</link>
-          <pubDate>Thu, 09 Jan 2025 15:04:45 GMT</pubDate>
+          <title>TikTok Grants Bay Area High Schools $3,000 for Digital Safety Program</title>
+          <description><![CDATA[Three high schools in the Bay Area receive grants from TikTok to implement a program on digital safety and responsible social media use.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/despite-potential-tiktok-ban-bay-area-parents-to-host-digital-safety-events-at-their-high-schools/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/despite-potential-tiktok-ban-bay-area-parents-to-host-digital-safety-events-at-their-high-schools/</link>
+          <pubDate>Thu, 09 Jan 2025 14:15:13 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/beyond-digital-transformation-how-experience-innovation-is-key-to-growth.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/beyond-digital-transformation-how-experience-innovation-is-key-to-growth.webp"/>
-          <dc:creator>TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/despite-potential-tiktok-ban-bay-area-parents-to-host-digital-safety-events-at-their-high-schools.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/despite-potential-tiktok-ban-bay-area-parents-to-host-digital-safety-events-at-their-high-schools.webp"/>
+          <dc:creator>Nollyanne Delacruz, The Mercury News</dc:creator>
         </item>
         <item>
-          <title>Creative Aurvana Ace Mimi Review: Unparalleled Clarity and Safety with xMEMS Dual Drivers and ANC</title>
-          <description><![CDATA[Creative Technology teams up with sound personalization experts Mimi for a new version of its xMEMS dual-driver earbuds, delivering LDAC hi-res audio with unparalleled clarity.]]></description>
+          <title>Creative's Ace Mimi earbuds cost the same as AirPods 4, but may well be the better buy</title>
+          <description><![CDATA[With xMEMS dual drivers, sound personalization and ANC, the Creative Ace Aurvana Mimi sound good on paper.]]></description>
           <guid>https://majordigest.com/tech/2025/01/09/creatives-ace-mimi-earbuds-cost-the-same-as-airpods-4-but-may-well-be-the-better-buy/</guid>
           <link>https://majordigest.com/tech/2025/01/09/creatives-ace-mimi-earbuds-cost-the-same-as-airpods-4-but-may-well-be-the-better-buy/</link>
           <pubDate>Thu, 09 Jan 2025 13:18:12 GMT</pubDate>
@@ -120,160 +163,104 @@ What a difference six years can make.]]></description>
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>Beware of confusing naming strategies with JLab's new headphones, but the perks look good</title>
-          <description><![CDATA[JLab's new over-ears deliver ANC, wireless sharing and lots of features for typically low prices –and also confusing naming strategies.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/09/beware-of-confusing-naming-strategies-when-it-comes-to-jlabs-two-new-headphone-options/</guid>
-          <link>https://majordigest.com/tech/2025/01/09/beware-of-confusing-naming-strategies-when-it-comes-to-jlabs-two-new-headphone-options/</link>
-          <pubDate>Thu, 09 Jan 2025 12:56:38 GMT</pubDate>
+          <title>Meloni says Italy is exploring deals on telecoms security, but denies private talks with Musk</title>
+          <description><![CDATA[Italy’s Premier Giorgia Meloni says her government is in talks with private companies, including Elon Musk’s SpaceX, over the country’s telecoms security system, but denied having discussed the issue privately with Musk.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk/</link>
+          <pubDate>Thu, 09 Jan 2025 12:16:53 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/beware-of-confusing-naming-strategies-when-it-comes-to-jlabs-two-new-headphone-options.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/beware-of-confusing-naming-strategies-when-it-comes-to-jlabs-two-new-headphone-options.webp"/>
-          <dc:creator>TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk.webp"/>
+          <dc:creator>Giada Zampano, Associated Press, KPRC 2</dc:creator>
         </item>
         <item>
-          <title>Meta tries letting Facebook Marketplace users view eBay listings as way to resolve EU charges</title>
-          <description><![CDATA[Meta said Wednesday that it will allow some Facebook users to view eBay listings on its Marketplace service, as it tries out a possible way to resolve European Union charges of anticompetitive behavior that the bloc leveled last year.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/09/meta-tries-letting-facebook-marketplace-users-view-ebay-listings-as-way-to-resolve-eu-charges/</guid>
-          <link>https://majordigest.com/tech/2025/01/09/meta-tries-letting-facebook-marketplace-users-view-ebay-listings-as-way-to-resolve-eu-charges/</link>
-          <pubDate>Thu, 09 Jan 2025 05:37:20 GMT</pubDate>
+          <title>Solar device transforms used tires to help purify water so that it's drinkable</title>
+          <description><![CDATA[Scientists have developed a floating solar still device that is capable of harnessing the sun&apos;s energy to purify seawater and withstanding harsh maritime conditions.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/solar-device-transforms-used-tires-help-purify-water-so-its-drinkable/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/solar-device-transforms-used-tires-help-purify-water-so-its-drinkable/</link>
+          <pubDate>Thu, 09 Jan 2025 11:00:01 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/meta-tries-letting-facebook-marketplace-users-view-ebay-listings-as-way-to-resolve-eu-charges.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/meta-tries-letting-facebook-marketplace-users-view-ebay-listings-as-way-to-resolve-eu-charges.webp"/>
-          <dc:creator>KELVIN CHAN, Associated Press, PIX 11</dc:creator>
-        </item>
-        <item>
-          <title>Jeff Bezos and Lauren Sanchez to marry in Italy: Source</title>
-          <description><![CDATA[Amazon billionaire and his blushing bride-to-be, Lauren Sanchez, held a lovely dinner party over the holidays at Matsuhisa in Aspen.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/08/jeff-bezos-lauren-sanchez-marry-italy-2025-source/</guid>
-          <link>https://majordigest.com/tech/2025/01/08/jeff-bezos-lauren-sanchez-marry-italy-2025-source/</link>
-          <pubDate>Wed, 08 Jan 2025 22:18:47 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/08/jeff-bezos-lauren-sanchez-marry-italy-2025-source.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/08/jeff-bezos-lauren-sanchez-marry-italy-2025-source.webp"/>
-          <dc:creator>Paula Froelich, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Biden: Biggest regret failing to counter misinformation, including from Trump</title>
-          <description><![CDATA[President Biden in an interview published Wednesday reflected on the highs and lows of his administration, stating his biggest regret was failing to challenge misinformation — including claims touted by President-elect Trump about the New Year's Day attacks.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/08/joe-biden-donald-trump-misinformation/</guid>
-          <link>https://majordigest.com/tech/2025/01/08/joe-biden-donald-trump-misinformation/</link>
-          <pubDate>Wed, 08 Jan 2025 16:16:42 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/08/joe-biden-donald-trump-misinformation.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/08/joe-biden-donald-trump-misinformation.webp"/>
-          <dc:creator>Ashleigh Fields, The Hill</dc:creator>
-        </item>
-        <item>
-          <title>Japan links Chinese hacker MirrorFace to dozens of cyberattacks targeting security and tech data</title>
-          <description><![CDATA[TOKYO (AP) — Japan on Wednesday linked more than 200 cyberattacks over the past five years targeting the country's national security and high technology data to a Chinese hacking group, MirrorFace, detailing their tactics and calling on government agencies and businesses to reinforce preventive meas]]></description>
-          <guid>https://majordigest.com/tech/2025/01/08/japan-links-chinese-hacker-mirrorface-to-dozens-of-cyberattacks-targeting-security-and-tech-data/</guid>
-          <link>https://majordigest.com/tech/2025/01/08/japan-links-chinese-hacker-mirrorface-to-dozens-of-cyberattacks-targeting-security-and-tech-data/</link>
-          <pubDate>Wed, 08 Jan 2025 11:08:52 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/08/japan-links-chinese-hacker-mirrorface-to-dozens-of-cyberattacks-targeting-security-and-tech-data.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/08/japan-links-chinese-hacker-mirrorface-to-dozens-of-cyberattacks-targeting-security-and-tech-data.webp"/>
-          <dc:creator>MARI YAMAGUCHI, Associated Press, ABC 4</dc:creator>
-        </item>
-        <item>
-          <title>Top tech stealing the show at CES 2025</title>
-          <description><![CDATA[Big tech coming in 2025 includes solar umbrellas, AI TVs, smart earbuds and crazy robots. Tech expert Kurt “CyberGuy&quot; Knutsson gives his take on the wonders revealed at CES 2025.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/08/top-tech-stealing-show-ces-2025/</guid>
-          <link>https://majordigest.com/tech/2025/01/08/top-tech-stealing-show-ces-2025/</link>
-          <pubDate>Wed, 08 Jan 2025 11:00:47 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/08/top-tech-stealing-show-ces-2025.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/08/top-tech-stealing-show-ces-2025.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/solar-device-transforms-used-tires-help-purify-water-so-its-drinkable.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/solar-device-transforms-used-tires-help-purify-water-so-its-drinkable.webp"/>
           <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>Website certificates that expire every six weeks? What IT should know</title>
-          <description><![CDATA[Industry forces — led by Apple and Google — are pushing for a sharp acceleration of how often website certificates must be updated, but the stated security reason is raising an awful lot of eyebrows.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/08/website-certificates-that-expire-every-six-weeks-what-it-should-know/</guid>
-          <link>https://majordigest.com/tech/2025/01/08/website-certificates-that-expire-every-six-weeks-what-it-should-know/</link>
-          <pubDate>Wed, 08 Jan 2025 11:00:00 GMT</pubDate>
+          <title>Working with minimal APIs in .NET</title>
+          <description><![CDATA[If you’re building cloud-native applications with microservices, they need to be small. You don’t want code that comes with enough dependencies and required libraries to turn something that should be able to scale in milliseconds into megabytes of code.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/working-with-minimal-apis-in-net/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/working-with-minimal-apis-in-net/</link>
+          <pubDate>Thu, 09 Jan 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/08/website-certificates-that-expire-every-six-weeks-what-it-should-know.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/08/website-certificates-that-expire-every-six-weeks-what-it-should-know.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>6 fast ways to free up space on your Windows PC</title>
-          <description><![CDATA[Want to free up space on your computer? With the right tools, you can quickly eliminate gigabytes of unnecessary files and get back to work — or whatever else you use your computer for.
-I’ve long argued you don’t need a “PC cleaner” app. You mostly just need the tools built right into Windows.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/08/free-up-space-windows/</guid>
-          <link>https://majordigest.com/tech/2025/01/08/free-up-space-windows/</link>
-          <pubDate>Wed, 08 Jan 2025 11:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/08/free-up-space-windows.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/08/free-up-space-windows.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>6 swift steps for a faster Android experience</title>
-          <description><![CDATA[Well, I’ll be: It’s a new year! Already. Somehow. I think. (For full disclosure, I’m still at least 77% asleep from my traditional end-of-year hibernation/hiatus. Kindly forgive any mid-sentence snores or nonsensical outbursts.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/08/faster-android/</guid>
-          <link>https://majordigest.com/tech/2025/01/08/faster-android/</link>
-          <pubDate>Wed, 08 Jan 2025 10:45:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/08/faster-android.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/08/faster-android.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Intro to Ktor: The HTTP server for Kotlin</title>
-          <description><![CDATA[Kotlin is a modern general-purpose language that brings together object-oriented and functional programming power in a sleek syntax. Ktor is the official HTTP server for Kotlin, leveraging Kotlin’s expressiveness for building endpoints and other server-side necessities.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/08/intro-to-ktor-the-http-server-for-kotlin/</guid>
-          <link>https://majordigest.com/tech/2025/01/08/intro-to-ktor-the-http-server-for-kotlin/</link>
-          <pubDate>Wed, 08 Jan 2025 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/08/intro-to-ktor-the-http-server-for-kotlin.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/08/intro-to-ktor-the-http-server-for-kotlin.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/working-with-minimal-apis-in-net.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/working-with-minimal-apis-in-net.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Meta eliminates fact-checking in latest bow to Trump</title>
-          <description><![CDATA[Meta chief executive officer Mark Zuckerberg on Tuesday announced changes to content moderation on Facebook and Instagram long sought by conservatives. Incoming President Donald Trump said the new approach was “probably” due to threats he made against the technology mogul.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/08/meta-replaces-fact-checking-with-x-style-community-notes/</guid>
-          <link>https://majordigest.com/tech/2025/01/08/meta-replaces-fact-checking-with-x-style-community-notes/</link>
-          <pubDate>Wed, 08 Jan 2025 00:57:32 GMT</pubDate>
+          <title>Meta tests eBay listings in Facebook Marketplace to resolve EU charges</title>
+          <description><![CDATA[Meta said Wednesday that it will allow some Facebook users to view eBay listings on its Marketplace service, as it tries out a possible way to resolve European Union charges of anticompetitive behavior that the bloc leveled last year.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/meta-tests-ebay-listings-facebook-marketplace-eu-charges/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/meta-tests-ebay-listings-facebook-marketplace-eu-charges/</link>
+          <pubDate>Thu, 09 Jan 2025 03:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/08/meta-replaces-fact-checking-with-x-style-community-notes.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/08/meta-replaces-fact-checking-with-x-style-community-notes.webp"/>
-          <dc:creator>KELVIN CHAN, BARBARA ORTUTAY and NICHOLAS RICCARDI, Associated Press, PIX 11</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/meta-tests-ebay-listings-facebook-marketplace-eu-charges.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/meta-tests-ebay-listings-facebook-marketplace-eu-charges.webp"/>
+          <dc:creator>Associated Press, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Point2 aims to cut data center power consumption through smart cabling</title>
-          <description><![CDATA[AI applications and ML workloads account for nearly 20% of data center electricity consumption today, according to the Electric Power Research Institute (EPRI), and data centers are projected to represent up to 9.1% of total U.S. electricity generation annually by 2030.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/07/point2-aims-to-cut-data-center-power-consumption-through-smart-cabling/</guid>
-          <link>https://majordigest.com/tech/2025/01/07/point2-aims-to-cut-data-center-power-consumption-through-smart-cabling/</link>
-          <pubDate>Tue, 07 Jan 2025 21:48:39 GMT</pubDate>
+          <title>Meta rolls back hate speech rules as Zuckerberg cites 'recent elections' as a catalyst</title>
+          <description><![CDATA[It wasn't just fact-checking that Meta scrapped from its platforms as it prepares for the second Trump administration.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/09/meta-rolls-back-hate-speech-rules-as-zuckerberg-cites-recent-elections-as-a-catalyst/</guid>
+          <link>https://majordigest.com/tech/2025/01/09/meta-rolls-back-hate-speech-rules-as-zuckerberg-cites-recent-elections-as-a-catalyst/</link>
+          <pubDate>Thu, 09 Jan 2025 00:21:37 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/07/point2-aims-to-cut-data-center-power-consumption-through-smart-cabling.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/07/point2-aims-to-cut-data-center-power-consumption-through-smart-cabling.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/09/meta-rolls-back-hate-speech-rules-as-zuckerberg-cites-recent-elections-as-a-catalyst.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/09/meta-rolls-back-hate-speech-rules-as-zuckerberg-cites-recent-elections-as-a-catalyst.webp"/>
+          <dc:creator>BARBARA ORTUTAY, Associated Press, KGET 17, NBC</dc:creator>
+        </item>
+        <item>
+          <title>2024 global network outage report and internet health check</title>
+          <description><![CDATA[Editor’s note: This is an archive of 2024 incidents as tracked by Cisco subsidiary ThousandEyes. For current trends, see the 2025 outage report and internet health check, which is updated weekly.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/07/2024-global-network-outage-report-and-internet-health-check/</guid>
+          <link>https://majordigest.com/tech/2025/01/07/2024-global-network-outage-report-and-internet-health-check/</link>
+          <pubDate>Tue, 07 Jan 2025 15:10:45 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/07/2024-global-network-outage-report-and-internet-health-check.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/07/2024-global-network-outage-report-and-internet-health-check.webp"/>
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Gleam 1.7 brings faster record updates</title>
-          <description><![CDATA[Gleam 1.7 has arrived with faster record updates and a dynamic coder for a custom type. Overall, the latest version of Gleam touts performance and package publishing improvements.
-This latest update to Gleam was announced January 5 and is accessible from GitHub.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/07/gleam-1-7-brings-faster-record-updates/</guid>
-          <link>https://majordigest.com/tech/2025/01/07/gleam-1-7-brings-faster-record-updates/</link>
-          <pubDate>Tue, 07 Jan 2025 21:47:15 GMT</pubDate>
+          <title>Enterprise Network Capacity: The Unlikely Path to Lower Costs</title>
+          <description><![CDATA[Enterprises are looking at increasing network capacity to lower costs, a surprising trend that may signal a shift in the way companies approach IT spending.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/07/how-adding-capacity-to-a-network-could-reduce-it-costs/</guid>
+          <link>https://majordigest.com/tech/2025/01/07/how-adding-capacity-to-a-network-could-reduce-it-costs/</link>
+          <pubDate>Tue, 07 Jan 2025 15:01:39 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/07/gleam-1-7-brings-faster-record-updates.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/07/gleam-1-7-brings-faster-record-updates.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/07/how-adding-capacity-to-a-network-could-reduce-it-costs.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/07/how-adding-capacity-to-a-network-could-reduce-it-costs.webp"/>
+          <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>AI detects ovarian cancer better than human doctors: Study</title>
-          <description><![CDATA[AI based models achieved an accuracy rate of 86% for detecting ovarian cancer, compared to 82% for human experts.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/07/ai-detects-ovarian-cancer-human-doctors-study/</guid>
-          <link>https://majordigest.com/tech/2025/01/07/ai-detects-ovarian-cancer-human-doctors-study/</link>
-          <pubDate>Tue, 07 Jan 2025 19:45:32 GMT</pubDate>
+          <title>Meta's new board includes UFC boss Dana White, a familiar figure in Trump's orbit</title>
+          <description><![CDATA[Meta has appointed three new members to its board of directors, including Dana White, the president and CEO of Ultimate Fighting Championship and a familiar figure in the orbit of incoming President Donald Trump.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/07/meta-adds-three-board-members-including-ufc-boss-dana-white-key-figure-in-trumps-orbit/</guid>
+          <link>https://majordigest.com/tech/2025/01/07/meta-adds-three-board-members-including-ufc-boss-dana-white-key-figure-in-trumps-orbit/</link>
+          <pubDate>Tue, 07 Jan 2025 14:29:56 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/07/ai-detects-ovarian-cancer-human-doctors-study.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/07/ai-detects-ovarian-cancer-human-doctors-study.webp"/>
-          <dc:creator>Safia Samee Ali, NewsNation</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/07/meta-adds-three-board-members-including-ufc-boss-dana-white-key-figure-in-trumps-orbit.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/07/meta-adds-three-board-members-including-ufc-boss-dana-white-key-figure-in-trumps-orbit.webp"/>
+          <dc:creator>KELVIN CHAN, Associated Press, KRON4</dc:creator>
+        </item>
+        <item>
+          <title>Agentic AI: The top challenges and how to overcome them</title>
+          <description><![CDATA[As generative AI continues to surge in popularity, we are already seeing it evolve into the next generation of machine-learning-driven technology: agentic AI.
+With agentic AI, we are not just prompting models and receiving an answer in a simple one-step process.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/07/agentic-ai-the-top-challenges-and-how-to-overcome-them/</guid>
+          <link>https://majordigest.com/tech/2025/01/07/agentic-ai-the-top-challenges-and-how-to-overcome-them/</link>
+          <pubDate>Tue, 07 Jan 2025 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/07/agentic-ai-the-top-challenges-and-how-to-overcome-them.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/07/agentic-ai-the-top-challenges-and-how-to-overcome-them.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
           <title>Fubo combining with Disney's Hulu + Live TV; lawsuit against Venu Sports settled</title>
@@ -284,7 +271,18 @@ This latest update to Gleam was announced January 5 and is accessible from GitH
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/06/fubo-combining-with-disneys-hulu-live-tv-lawsuit-against-venu-sports-settled.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/06/fubo-combining-with-disneys-hulu-live-tv-lawsuit-against-venu-sports-settled.webp"/>
-          <dc:creator>MICHELLE CHAPMAN, Associated Press, ABC 4</dc:creator>
+          <dc:creator>MICHELLE CHAPMAN, Associated Press, KRON4</dc:creator>
+        </item>
+        <item>
+          <title>It is easier than ever to disable Location Sharing on your Android phone</title>
+          <description><![CDATA[Google Maps Location Sharing is now built into Android settings; no need for Maps settings. Tech expert Kurt “CyberGuy&quot; Knutsson discusses the welcome improvement for Android users.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/06/easier-than-ever-disable-location-sharing-your-android-phone/</guid>
+          <link>https://majordigest.com/tech/2025/01/06/easier-than-ever-disable-location-sharing-your-android-phone/</link>
+          <pubDate>Mon, 06 Jan 2025 11:00:25 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/06/easier-than-ever-disable-location-sharing-your-android-phone.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/06/easier-than-ever-disable-location-sharing-your-android-phone.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
           <title>China protests US sanctions for its alleged role in hacking, complains of foreign hacker attacks</title>
@@ -295,5 +293,71 @@ This latest update to Gleam was announced January 5 and is accessible from GitH
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/06/beijing-based-cyber-group-protests-us-sanctions-for-its-alleged-role-in-hacking-incidents.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/06/beijing-based-cyber-group-protests-us-sanctions-for-its-alleged-role-in-hacking-incidents.webp"/>
-          <dc:creator>ELAINE KURTENBACH, Associated Press, KGET 17, NBC</dc:creator>
+          <dc:creator>ELAINE KURTENBACH, Associated Press, KLAS, CBS News</dc:creator>
+        </item>
+        <item>
+          <title>Someone needs to make AI easy</title>
+          <description><![CDATA[2024 was a year filled with AI possibilities; 2025 needs to turn those possibilities into realities. For that, we need the cloud companies to stop churning out “primitives” such as large language models (LLMs) and instead give developers solutions.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/06/someone-needs-to-make-ai-easy/</guid>
+          <link>https://majordigest.com/tech/2025/01/06/someone-needs-to-make-ai-easy/</link>
+          <pubDate>Mon, 06 Jan 2025 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/06/someone-needs-to-make-ai-easy.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/06/someone-needs-to-make-ai-easy.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Police took over a week to name the NYC subway burning victim. A fake name spread in the meantime</title>
+          <description><![CDATA[NEW YORK (AP) — It took police more than a week to publicly identify Debrina Kawam, 57, as the woman who was fatally set on fire in a New York subway train last month. But on the internet, it took just hours for a false name to begin spreading.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/03/police-took-over-a-week-to-name-the-nyc-subway-burning-victim-a-fake-name-spread-in-the-meantime/</guid>
+          <link>https://majordigest.com/tech/2025/01/03/police-took-over-a-week-to-name-the-nyc-subway-burning-victim-a-fake-name-spread-in-the-meantime/</link>
+          <pubDate>Fri, 03 Jan 2025 19:35:09 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/03/police-took-over-a-week-to-name-the-nyc-subway-burning-victim-a-fake-name-spread-in-the-meantime.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/03/police-took-over-a-week-to-name-the-nyc-subway-burning-victim-a-fake-name-spread-in-the-meantime.webp"/>
+          <dc:creator>MELISSA GOLDIN, Associated Press, Fox 5</dc:creator>
+        </item>
+        <item>
+          <title>What to know about Apple's $95 million settlement of the snooping Siri case</title>
+          <description><![CDATA[Apple has agreed to pay $95 million to settle a lawsuit that accused the company of turning its virtual assistant Siri into a snoop that eavesdropped on the users of iPhones and other trendy devices in a betrayal to its long-standing commitment to personal privacy.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/03/what-to-know-about-apples-95-million-settlement-of-the-snooping-siri-case/</guid>
+          <link>https://majordigest.com/tech/2025/01/03/what-to-know-about-apples-95-million-settlement-of-the-snooping-siri-case/</link>
+          <pubDate>Fri, 03 Jan 2025 18:45:11 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/03/what-to-know-about-apples-95-million-settlement-of-the-snooping-siri-case.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/03/what-to-know-about-apples-95-million-settlement-of-the-snooping-siri-case.webp"/>
+          <dc:creator>MICHAEL LIEDTKE, Associated Press, KLAS, CBS News</dc:creator>
+        </item>
+        <item>
+          <title>Appeals court blocks return of US net neutrality rules for ISPs</title>
+          <description><![CDATA[The reintroduction of neutrality rules for network providers is looking increasingly unlikely, at least for the next five years, after a US appeals court blocked efforts by the US Federal Communications Commission (FCC) to reinstate them.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/03/appeals-court-blocks-return-of-us-net-neutrality-rules-for-isps/</guid>
+          <link>https://majordigest.com/tech/2025/01/03/appeals-court-blocks-return-of-us-net-neutrality-rules-for-isps/</link>
+          <pubDate>Fri, 03 Jan 2025 17:28:55 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/03/appeals-court-blocks-return-of-us-net-neutrality-rules-for-isps.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/03/appeals-court-blocks-return-of-us-net-neutrality-rules-for-isps.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Turo rentals emerge as common thread in Las Vegas Cybertruck and New Orleans deadly incidents</title>
+          <description><![CDATA[Turo faces scrutiny after tragic incidents involving rented vehicles, raising questions about security measures and regulatory frameworks.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/03/turo-rentals-emerge-common-thread-las-vegas-cybertruck-new-orleans-deadly-incidents/</guid>
+          <link>https://majordigest.com/tech/2025/01/03/turo-rentals-emerge-common-thread-las-vegas-cybertruck-new-orleans-deadly-incidents/</link>
+          <pubDate>Fri, 03 Jan 2025 12:00:16 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/03/turo-rentals-emerge-common-thread-las-vegas-cybertruck-new-orleans-deadly-incidents.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/03/turo-rentals-emerge-common-thread-las-vegas-cybertruck-new-orleans-deadly-incidents.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>China rolls out its crime-fighting ball to chase down criminals</title>
+          <description><![CDATA[A Chinese company has developed a spherical, 276-pound law enforcement robot that has been chasing down criminals at impressive speeds.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/03/china-rolls-out-its-crime-fighting-ball-chase-down-criminals/</guid>
+          <link>https://majordigest.com/tech/2025/01/03/china-rolls-out-its-crime-fighting-ball-chase-down-criminals/</link>
+          <pubDate>Fri, 03 Jan 2025 11:00:16 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/03/china-rolls-out-its-crime-fighting-ball-chase-down-criminals.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/03/china-rolls-out-its-crime-fighting-ball-chase-down-criminals.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item></channel></rss>
