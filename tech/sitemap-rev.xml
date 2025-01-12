@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/11/adata-quietly-rolls-out-the-smallest-usb-4-external-ssd-to-date-and-its-fastest-portable-ssd-ever/</loc>
+          <loc>https://majordigest.com/tech/2025/01/12/heres-just-how-thin-the-iphone-17-air-could-be-and-its-thinner-than-the-rumored-galaxy-s25-slim/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-11T11:03:00.000Z</news:publication_date>
-            <news:title>The Adata XPG SE940: A Game-Changing Portable SSD with USB 4 Technology</news:title>
+            <news:publication_date>2025-01-12T10:30:00.000Z</news:publication_date>
+            <news:title>The iPhone 17 Air: A Slimmer, Thinner Flagship Phone?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/11/adata-quietly-rolls-out-the-smallest-usb-4-external-ssd-to-date-and-its-fastest-portable-ssd-ever.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/12/heres-just-how-thin-the-iphone-17-air-could-be-and-its-thinner-than-the-rumored-galaxy-s25-slim.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/11/solidigm-exits-consumer-ssd-market-as-it-prepares-to-go-very-big-on-enterprise-ssds-in-2025/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-11T13:02:00.000Z</news:publication_date>
+            <news:title>Solidigm Discontinues Consumer SSD Lineup, Exits B2C Market - Shift to Data Center Solutions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/11/solidigm-exits-consumer-ssd-market-as-it-prepares-to-go-very-big-on-enterprise-ssds-in-2025.webp</image:loc>
           </image:image>
         </url></urlset>
