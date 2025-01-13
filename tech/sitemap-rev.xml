@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/07/almost-nothing-remains-of-software-ag/</loc>
+          <loc>https://majordigest.com/tech/2025/01/12/could-this-be-lenovos-first-nas-a-proof-of-concept-for-network-attached-storage-has-emerged-featuring-two-type-c-connectors-and-a-dedicated-ethernet-port/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-07T19:14:59.000Z</news:publication_date>
-            <news:title>Sales and Restructuring: Software AG's Shift in Focus</news:title>
+            <news:publication_date>2025-01-12T20:06:00.000Z</news:publication_date>
+            <news:title>Lenovo Unveils AI-Storage Concept Device at CES - A New Era for Storage?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/07/almost-nothing-remains-of-software-ag.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/12/could-this-be-lenovos-first-nas-a-proof-of-concept-for-network-attached-storage-has-emerged-featuring-two-type-c-connectors-and-a-dedicated-ethernet-port.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/10/4-in-10-companies-plan-to-replace-employees-with-ai-wef-says/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-10T17:48:28.000Z</news:publication_date>
+            <news:title>The Future of Work: Automation and AI Transforming the Job Market</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/10/4-in-10-companies-plan-to-replace-employees-with-ai-wef-says.webp</image:loc>
           </image:image>
         </url></urlset>
