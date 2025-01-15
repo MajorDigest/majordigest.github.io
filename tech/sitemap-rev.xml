@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/15/reimagine-application-modernisation-with-the-power-of-generative-ai-3/</loc>
+          <loc>https://majordigest.com/tech/2025/01/15/why-lenovo-keeps-making-weird-laptops/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-15T09:50:34.000Z</news:publication_date>
-            <news:title>Revolutionizing Business: The Power of GenAI-Driven Modernisation</news:title>
+            <news:publication_date>2025-01-15T13:33:00.000Z</news:publication_date>
+            <news:title>Laptops with a Twist: Lenovo's Rollable Display and the Future of Innovation</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/15/reimagine-application-modernisation-with-the-power-of-generative-ai-3.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/15/why-lenovo-keeps-making-weird-laptops.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/14/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-14T22:36:14.000Z</news:publication_date>
+            <news:title>Biden Signs Executive Order on AI Infrastructure | 2023</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/14/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us.webp</image:loc>
           </image:image>
         </url></urlset>
