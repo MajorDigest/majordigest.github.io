@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 16 Jan 2025 09:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 10:22:09 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Cisco Rolls Out AI Defense Package for Enterprise Customers</title>
-          <description><![CDATA[Cisco introduces AI Defense, a service that protects enterprise AI development projects with visibility, access control, threat defense, and other safeguards.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/15/cisco-offers-ai-application-visibility-access-control-threat-defense/</guid>
-          <link>https://majordigest.com/tech/2025/01/15/cisco-offers-ai-application-visibility-access-control-threat-defense/</link>
-          <pubDate>Wed, 15 Jan 2025 17:43:31 GMT</pubDate>
+          <title>The Rise of the Giant Ball of Mud: A Tale of Software Development Gone Wrong</title>
+          <description><![CDATA[A humorous and insightful look at the common pitfalls of software development, from haphazard coding to poor management decisions, that can lead to the creation of a giant ball of mud.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/15/where-big-piles-of-mud-come-from/</guid>
+          <link>https://majordigest.com/tech/2025/01/15/where-big-piles-of-mud-come-from/</link>
+          <pubDate>Wed, 15 Jan 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/15/cisco-offers-ai-application-visibility-access-control-threat-defense.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/15/cisco-offers-ai-application-visibility-access-control-threat-defense.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/15/where-big-piles-of-mud-come-from.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/15/where-big-piles-of-mud-come-from.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Polish Town Invites Elon Musk to Buy 13th-Century Castle</title>
+          <description><![CDATA[Glogowek mayor invites Elon Musk to buy the town's historic castle, potentially turning it into European headquarters.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/14/polish-town-invites-elon-musk-to-buy-its-castle-for-his-european-headquarters/</guid>
+          <link>https://majordigest.com/tech/2025/01/14/polish-town-invites-elon-musk-to-buy-its-castle-for-his-european-headquarters/</link>
+          <pubDate>Tue, 14 Jan 2025 14:51:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/14/polish-town-invites-elon-musk-to-buy-its-castle-for-his-european-headquarters.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/14/polish-town-invites-elon-musk-to-buy-its-castle-for-his-european-headquarters.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>

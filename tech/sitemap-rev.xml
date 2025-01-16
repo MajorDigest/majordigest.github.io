@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/15/cisco-offers-ai-application-visibility-access-control-threat-defense/</loc>
+          <loc>https://majordigest.com/tech/2025/01/15/where-big-piles-of-mud-come-from/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-15T17:43:31.000Z</news:publication_date>
-            <news:title>Cisco Rolls Out AI Defense Package for Enterprise Customers</news:title>
+            <news:publication_date>2025-01-15T09:00:00.000Z</news:publication_date>
+            <news:title>The Rise of the Giant Ball of Mud: A Tale of Software Development Gone Wrong</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/15/cisco-offers-ai-application-visibility-access-control-threat-defense.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/15/where-big-piles-of-mud-come-from.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/14/polish-town-invites-elon-musk-to-buy-its-castle-for-his-european-headquarters/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-14T14:51:00.000Z</news:publication_date>
+            <news:title>Polish Town Invites Elon Musk to Buy 13th-Century Castle</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/14/polish-town-invites-elon-musk-to-buy-its-castle-for-his-european-headquarters.webp</image:loc>
           </image:image>
         </url></urlset>
