@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 17 Jan 2025 10:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 11:13:02 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,17 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+        <item>
+          <title>Nvidia Bolsters AI Security with New Guardrails and Microservices</title>
+          <description><![CDATA[Nvidia introduces new guardrails and microservices to enhance the security of artificial intelligence (AI). The company aims to help businesses improve the accuracy, security, and control of agent-based AI applications.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/17/nvidia-presenta-nuevos-microservicios-de-proteccion-para-la-ia-agentica/</guid>
+          <link>https://majordigest.com/tech/2025/01/17/nvidia-presenta-nuevos-microservicios-de-proteccion-para-la-ia-agentica/</link>
+          <pubDate>Fri, 17 Jan 2025 10:06:47 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/nvidia-presenta-nuevos-microservicios-de-proteccion-para-la-ia-agentica.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/nvidia-presenta-nuevos-microservicios-de-proteccion-para-la-ia-agentica.webp"/>
+          <dc:creator>CIO</dc:creator>
+        </item>
         <item>
           <title>Lenovo to acquire Infinidat to expand its storage folio</title>
           <description><![CDATA[Lenovo Group has entered into a definitive agreement to acquire Tel Aviv-based enterprise storage provider Infinidat, for an undisclosed sum, to expand its storage offerings.
@@ -31,93 +42,48 @@ The startup provides several offerings, such as InfiniBox, Infinibox SSA, Infini
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>Google Unveils New Code Migration Process Using AI</title>
-          <description><![CDATA[Google has introduced a new step-by-step process and common toolkit that utilizes large language models (LLMs) to accelerate code migrations, achieving a 50% time reduction in end-to-end work.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/17/heres-how-google-is-using-llms-for-complex-internal-code-migrations/</guid>
-          <link>https://majordigest.com/tech/2025/01/17/heres-how-google-is-using-llms-for-complex-internal-code-migrations/</link>
-          <pubDate>Fri, 17 Jan 2025 05:00:12 GMT</pubDate>
+          <title>Doro's new senior-focused phones speak to you to confirm keyboard presses and can send emergency alerts to five people at once</title>
+          <description><![CDATA[Doro has revealed a new lineup of phones designed with seniors in mind, featuring simplified interfaces and hearing aid compatibility amidst other features.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/16/doros-new-senior-focused-phones-speak-to-you-to-confirm-keyboard-presses-and-can-send-emergency-alerts-to-five-people-at-once/</guid>
+          <link>https://majordigest.com/tech/2025/01/16/doros-new-senior-focused-phones-speak-to-you-to-confirm-keyboard-presses-and-can-send-emergency-alerts-to-five-people-at-once/</link>
+          <pubDate>Thu, 16 Jan 2025 20:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/heres-how-google-is-using-llms-for-complex-internal-code-migrations.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/heres-how-google-is-using-llms-for-complex-internal-code-migrations.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/doros-new-senior-focused-phones-speak-to-you-to-confirm-keyboard-presses-and-can-send-emergency-alerts-to-five-people-at-once.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/doros-new-senior-focused-phones-speak-to-you-to-confirm-keyboard-presses-and-can-send-emergency-alerts-to-five-people-at-once.webp"/>
+          <dc:creator>jamie.richards@futurenet.com (Jamie Richards), TechRadar</dc:creator>
         </item>
         <item>
-          <title>Biden&#8217;s clean AI infrastructure plan could be hanging by a thread</title>
-          <description><![CDATA[An executive order from outgoing US president Joe Biden aimed at advancing the nation’s leadership in AI infrastructure is “welcome and needed in theory, but this one seems rushed and somewhat at odds with the order just passed on AI chip export restrictions,” an analyst said Thursday.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/17/bidens-clean-ai-infrastructure-plan-could-be-hanging-by-a-thread/</guid>
-          <link>https://majordigest.com/tech/2025/01/17/bidens-clean-ai-infrastructure-plan-could-be-hanging-by-a-thread/</link>
-          <pubDate>Fri, 17 Jan 2025 00:41:58 GMT</pubDate>
+          <title>Nvidia Introduces New AI Guardrail Microservices to Enhance Enterprise Adoption</title>
+          <description><![CDATA[Nvidia's new Nvidia inference microservices (NIMs) for AI guardrails aim to improve accuracy, security, and control of agentic AI applications, addressing a key reservation IT leaders have about adopting the technology.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/16/nvidia-intros-new-guardrail-microservices-for-agentic-ai/</guid>
+          <link>https://majordigest.com/tech/2025/01/16/nvidia-intros-new-guardrail-microservices-for-agentic-ai/</link>
+          <pubDate>Thu, 16 Jan 2025 14:01:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/bidens-clean-ai-infrastructure-plan-could-be-hanging-by-a-thread.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/bidens-clean-ai-infrastructure-plan-could-be-hanging-by-a-thread.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/nvidia-intros-new-guardrail-microservices-for-agentic-ai.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/nvidia-intros-new-guardrail-microservices-for-agentic-ai.webp"/>
+          <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>President Biden&#8217;s new executive order aims to bolster national security</title>
-          <description><![CDATA[President Joe Biden issued an executive order on Thursday aimed at strengthening the nation’s cybersecurity and making it easier to go after foreign adversaries or hacking groups that try to compromise U.S. internet and telecommunication systems.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/16/president-bidens-new-executive-order-aims-bolster-national-security/</guid>
-          <link>https://majordigest.com/tech/2025/01/16/president-bidens-new-executive-order-aims-bolster-national-security/</link>
-          <pubDate>Thu, 16 Jan 2025 23:27:10 GMT</pubDate>
+          <title>HPE adelanta a Dell y Supermicro al sellar un acuerdo con X: servidores de IA por 1.000 millones de d&#243;lares</title>
+          <description><![CDATA[Hewlett Packard Enterprise (HPE) ha firmado un contrato superior a 1.000 millones de dólares para suministrar servidores de inteligencia artificial a X, la plataforma antes conocida como Twitter, según Bloomberg.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/16/hpe-adelanta-a-dell-y-supermicro-al-sellar-un-acuerdo-con-x-servidores-de-ia-por-1-000-millones-de-dolares/</guid>
+          <link>https://majordigest.com/tech/2025/01/16/hpe-adelanta-a-dell-y-supermicro-al-sellar-un-acuerdo-con-x-servidores-de-ia-por-1-000-millones-de-dolares/</link>
+          <pubDate>Thu, 16 Jan 2025 12:01:34 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/president-bidens-new-executive-order-aims-bolster-national-security.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/president-bidens-new-executive-order-aims-bolster-national-security.webp"/>
-          <dc:creator>Associated Press, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/hpe-adelanta-a-dell-y-supermicro-al-sellar-un-acuerdo-con-x-servidores-de-ia-por-1-000-millones-de-dolares.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/hpe-adelanta-a-dell-y-supermicro-al-sellar-un-acuerdo-con-x-servidores-de-ia-por-1-000-millones-de-dolares.webp"/>
+          <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>Biden's new executive order aims to shore up US cyber defenses</title>
-          <description><![CDATA[WASHINGTON (AP) — President Joe Biden issued an executive order Thursday aimed at strengthening the nation's cybersecurity and making it easier to go after foreign adversaries or hacking groups that try to compromise U.S. internet and telecommunication systems.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/16/biden-executive-order-aims-to-shore-up-us-cyber-defenses/</guid>
-          <link>https://majordigest.com/tech/2025/01/16/biden-executive-order-aims-to-shore-up-us-cyber-defenses/</link>
-          <pubDate>Thu, 16 Jan 2025 21:21:32 GMT</pubDate>
+          <title>Android file transfer: How to manage, move, and sync files</title>
+          <description><![CDATA[When you think about your smartphone, apps and interfaces are probably the first things that come to mind. Beneath all that surface-level stuff, though, our modern mobile devices are filled with files — folders upon folders of ’em! — just like the clunky ol’ computers we’ve relied upon for ages.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/16/android-file-transfer-how-to-move-data-between-your-phone-and-computer/</guid>
+          <link>https://majordigest.com/tech/2025/01/16/android-file-transfer-how-to-move-data-between-your-phone-and-computer/</link>
+          <pubDate>Thu, 16 Jan 2025 11:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/biden-executive-order-aims-to-shore-up-us-cyber-defenses.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/biden-executive-order-aims-to-shore-up-us-cyber-defenses.webp"/>
-          <dc:creator>DAVID KLEPPER, Associated Press, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Drone collides with paraglider, forcing emergency landing</title>
-          <description><![CDATA[The incident happened the same day that a firefighting aircraft had to be grounded while battling the Palisades Fire.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/16/drone-paraglider-emergency-landing/</guid>
-          <link>https://majordigest.com/tech/2025/01/16/drone-paraglider-emergency-landing/</link>
-          <pubDate>Thu, 16 Jan 2025 17:45:15 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/drone-paraglider-emergency-landing.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/drone-paraglider-emergency-landing.webp"/>
-          <dc:creator>Danielle Dawson, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Avery label maker confirms attack on its site, customer credit card info stolen</title>
-          <description><![CDATA[Avery was unknowingly hosting a credit card skimmer for half a year, exposing customer data to hackers.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/16/avery-label-maker-confirms-attack-on-its-site-customer-credit-card-info-stolen/</guid>
-          <link>https://majordigest.com/tech/2025/01/16/avery-label-maker-confirms-attack-on-its-site-customer-credit-card-info-stolen/</link>
-          <pubDate>Thu, 16 Jan 2025 15:06:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/avery-label-maker-confirms-attack-on-its-site-customer-credit-card-info-stolen.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/avery-label-maker-confirms-attack-on-its-site-customer-credit-card-info-stolen.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>Nvidia&#8217;s new next-gen GPU benchmarks cause concern among PC gamers, particularly with the RTX 5080 &#8211; but don&#8217;t panic yet</title>
-          <description><![CDATA[Not convinced RTX 5000 is a winner? Folks worried about a reliance on ‘fake frames’ may not be that impressed with these fresh benchmarks.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/16/nvidias-new-next-gen-gpu-benchmarks-cause-concern-among-pc-gamers-particularly-with-the-rtx-5080-but-dont-panic-yet/</guid>
-          <link>https://majordigest.com/tech/2025/01/16/nvidias-new-next-gen-gpu-benchmarks-cause-concern-among-pc-gamers-particularly-with-the-rtx-5080-but-dont-panic-yet/</link>
-          <pubDate>Thu, 16 Jan 2025 14:58:43 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/nvidias-new-next-gen-gpu-benchmarks-cause-concern-among-pc-gamers-particularly-with-the-rtx-5080-but-dont-panic-yet.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/nvidias-new-next-gen-gpu-benchmarks-cause-concern-among-pc-gamers-particularly-with-the-rtx-5080-but-dont-panic-yet.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>Substack is trying to court displaced TikTok creators</title>
-          <description><![CDATA[“We’re going to rescue the smart people from TikTok!” Substack CEO Chris Best wrote in a Note posted Monday.  
-If you’ve been on your Substack newsfeed lately, you’ve likely seen the platform rolling out a warm welcome to TikTok users, as the days count down to a potential TikTok ban in the U.S.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/16/substack-is-trying-to-court-displaced-tiktok-creators/</guid>
-          <link>https://majordigest.com/tech/2025/01/16/substack-is-trying-to-court-displaced-tiktok-creators/</link>
-          <pubDate>Thu, 16 Jan 2025 13:11:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/substack-is-trying-to-court-displaced-tiktok-creators.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/substack-is-trying-to-court-displaced-tiktok-creators.webp"/>
-          <dc:creator>Eve Upton-Clark, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/android-file-transfer-how-to-move-data-between-your-phone-and-computer.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/android-file-transfer-how-to-move-data-between-your-phone-and-computer.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
           <title>Taiwanese chipmaker TSMC posts 57% surge in profit thanks to the AI boom</title>
@@ -128,40 +94,7 @@ If you’ve been on your Substack newsfeed lately, you’ve likely seen the plat
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/taiwanese-chipmaker-tsmc-posts-57-surge-in-profit-thanks-to-the-ai-boom.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/taiwanese-chipmaker-tsmc-posts-57-surge-in-profit-thanks-to-the-ai-boom.webp"/>
-          <dc:creator>Associated Press, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Bill O'Reilly: Joe Biden going out same way as Aaron Rodgers</title>
-          <description><![CDATA[Bill O'Reilly believes outgoing president Joe Biden is "going out the same way" as New York Jets’ starting quarterback Aaron Rodgers.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/16/bill-oreilly-joe-biden-aaron-rodgers/</guid>
-          <link>https://majordigest.com/tech/2025/01/16/bill-oreilly-joe-biden-aaron-rodgers/</link>
-          <pubDate>Thu, 16 Jan 2025 03:19:36 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/bill-oreilly-joe-biden-aaron-rodgers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/bill-oreilly-joe-biden-aaron-rodgers.webp"/>
-          <dc:creator>Chris Cuomo, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Biden won't enforce TikTok ban, official says, leaving fate of app to Trump</title>
-          <description><![CDATA[President Joe Biden won’t enforce a ban on the social media app TikTok that is set to take effect a day before he leaves office, a U.S. official says.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/16/trump-adviser-says-president-elect-is-exploring-options-to-preserve-tiktok/</guid>
-          <link>https://majordigest.com/tech/2025/01/16/trump-adviser-says-president-elect-is-exploring-options-to-preserve-tiktok/</link>
-          <pubDate>Thu, 16 Jan 2025 01:48:27 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/trump-adviser-says-president-elect-is-exploring-options-to-preserve-tiktok.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/trump-adviser-says-president-elect-is-exploring-options-to-preserve-tiktok.webp"/>
-          <dc:creator>The Associated Press, Associated Press, KPRC 2</dc:creator>
-        </item>
-        <item>
-          <title>SpaceX launches U.S and Japanese landers&#160;to the moon</title>
-          <description><![CDATA[In a two-for-one moonshot, SpaceX launched a pair of lunar landers Wednesday for U.S. and Japanese companies looking to jump-start business on Earth’s dusty sidekick.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/15/spacex-launches-u-s-japanese-landers-moon/</guid>
-          <link>https://majordigest.com/tech/2025/01/15/spacex-launches-u-s-japanese-landers-moon/</link>
-          <pubDate>Wed, 15 Jan 2025 22:14:13 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/15/spacex-launches-u-s-japanese-landers-moon.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/15/spacex-launches-u-s-japanese-landers-moon.webp"/>
-          <dc:creator>Associated Press, Fast Company</dc:creator>
+          <dc:creator>Associated Press, PIX 11</dc:creator>
         </item>
         <item>
           <title>Fox will stream next month's Super Bowl for free on Tubi</title>
@@ -172,7 +105,7 @@ If you’ve been on your Substack newsfeed lately, you’ve likely seen the plat
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/15/fox-will-stream-next-months-super-bowl-for-free-on-tubi.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/15/fox-will-stream-next-months-super-bowl-for-free-on-tubi.webp"/>
-          <dc:creator>Associated Press, NewsNation</dc:creator>
+          <dc:creator>Associated Press, KREX 5</dc:creator>
         </item>
         <item>
           <title>Biden's big semiconductor law will ramp up US chip production -- but at a high cost, report finds</title>
@@ -183,18 +116,51 @@ If you’ve been on your Substack newsfeed lately, you’ve likely seen the plat
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/15/bidens-big-semiconductor-law-will-ramp-up-us-chip-production-but-at-a-high-cost-report-finds.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/15/bidens-big-semiconductor-law-will-ramp-up-us-chip-production-but-at-a-high-cost-report-finds.webp"/>
-          <dc:creator>PAUL WISEMAN, Associated Press, KREX 5</dc:creator>
+          <dc:creator>PAUL WISEMAN, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
-          <title>A CSO&#8217;s perspective: 8 cyber predictions for 2025</title>
-          <description><![CDATA[As we step into 2025, the cyberthreat landscape is once again more dynamic and challenging than the year before. In 2024, we witnessed a remarkable acceleration in cyberattacks of all types, many fueled by advancements in generative AI. For security leaders, the stakes are higher than ever.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/14/a-csos-perspective-8-cyber-predictions-for-2025/</guid>
-          <link>https://majordigest.com/tech/2025/01/14/a-csos-perspective-8-cyber-predictions-for-2025/</link>
-          <pubDate>Tue, 14 Jan 2025 21:20:50 GMT</pubDate>
+          <title>Microsoft 365: A guide to the updates</title>
+          <description><![CDATA[Microsoft 365 (and Office 365) subscribers get more frequent software updates than those who have purchased Office without a subscription, which means subscribers have access to the latest features, security patches, and bug fixes.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/15/office-365-a-guide-to-the-updates/</guid>
+          <link>https://majordigest.com/tech/2025/01/15/office-365-a-guide-to-the-updates/</link>
+          <pubDate>Wed, 15 Jan 2025 10:15:35 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/14/a-csos-perspective-8-cyber-predictions-for-2025.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/14/a-csos-perspective-8-cyber-predictions-for-2025.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/15/office-365-a-guide-to-the-updates.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/15/office-365-a-guide-to-the-updates.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Biden signs ambitious order to bolster energy resources for AI data centers</title>
+          <description><![CDATA[LOS ANGELES (AP) — President Joe Biden on Tuesday signed an ambitious executive order on artificial intelligence that seeks to ensure the infrastructure needed for advanced AI operations, such as large-scale data centers and new clean power facilities, can be built quickly and at scale in the United]]></description>
+          <guid>https://majordigest.com/tech/2025/01/14/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us/</guid>
+          <link>https://majordigest.com/tech/2025/01/14/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us/</link>
+          <pubDate>Tue, 14 Jan 2025 22:36:14 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/14/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/14/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us.webp"/>
+          <dc:creator>SARAH PARVINI, Associated Press, KREX 5</dc:creator>
+        </item>
+        <item>
+          <title>Court lets Tennessee porn site age verification law take effect as Texas law goes to Supreme Court</title>
+          <description><![CDATA[NASHVILLE, Tenn. (AP) — A panel of appeals judges has ruled that Tennessee can begin enforcing a law that requires pornographic websites to verify their visitors’ age as the First Amendment debate rises to the U.S. Supreme Court this week for oral arguments over a similar Texas law.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/14/court-lets-tennessee-porn-site-age-verification-law-take-effect-as-texas-law-goes-to-supreme-court/</guid>
+          <link>https://majordigest.com/tech/2025/01/14/court-lets-tennessee-porn-site-age-verification-law-take-effect-as-texas-law-goes-to-supreme-court/</link>
+          <pubDate>Tue, 14 Jan 2025 22:30:19 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/14/court-lets-tennessee-porn-site-age-verification-law-take-effect-as-texas-law-goes-to-supreme-court.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/14/court-lets-tennessee-porn-site-age-verification-law-take-effect-as-texas-law-goes-to-supreme-court.webp"/>
+          <dc:creator>JONATHAN MATTISE, Associated Press, Fox 5</dc:creator>
+        </item>
+        <item>
+          <title>US TikTok users flock to Chinese app Xiaohongshu in protest with TikTok ban looming</title>
+          <description><![CDATA[HONG KONG (AP) — As the threat of a TikTok ban looms, U.S. TikTok users are flocking to the Chinese social media app Xiaohongshu – making it the top downloaded app in the U.S.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/14/us-tiktok-users-flock-to-chinese-app-xiaohongshu-in-protest-with-tiktok-ban-looming/</guid>
+          <link>https://majordigest.com/tech/2025/01/14/us-tiktok-users-flock-to-chinese-app-xiaohongshu-in-protest-with-tiktok-ban-looming/</link>
+          <pubDate>Tue, 14 Jan 2025 18:22:12 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/14/us-tiktok-users-flock-to-chinese-app-xiaohongshu-in-protest-with-tiktok-ban-looming.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/14/us-tiktok-users-flock-to-chinese-app-xiaohongshu-in-protest-with-tiktok-ban-looming.webp"/>
+          <dc:creator>ZEN SOO, Associated Press, KREX 5</dc:creator>
         </item>
         <item>
           <title>Smart glasses&#8217; appeal comes into focus at CES 2025</title>
@@ -219,13 +185,125 @@ If you’ve been on your Substack newsfeed lately, you’ve likely seen the plat
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>HPE Lands $1 Billion Deal with X for AI Servers</title>
-          <description><![CDATA[Hewlett Packard Enterprise (HPE) has signed a contract exceeding $1 billion to provide AI servers for X, the platform formerly known as Twitter.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/14/hpe-beats-dell-and-supermicro-in-1b-ai-server-deal-with-x/</guid>
-          <link>https://majordigest.com/tech/2025/01/14/hpe-beats-dell-and-supermicro-in-1b-ai-server-deal-with-x/</link>
-          <pubDate>Tue, 14 Jan 2025 10:51:51 GMT</pubDate>
+          <title>2025 global network outage report and internet health check</title>
+          <description><![CDATA[The reliability of services delivered by ISPs, cloud providers and conferencing services is critical for enterprise organizations.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/14/2025-global-network-outage-report-and-internet-health-check/</guid>
+          <link>https://majordigest.com/tech/2025/01/14/2025-global-network-outage-report-and-internet-health-check/</link>
+          <pubDate>Tue, 14 Jan 2025 14:59:08 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/14/hpe-beats-dell-and-supermicro-in-1b-ai-server-deal-with-x.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/14/hpe-beats-dell-and-supermicro-in-1b-ai-server-deal-with-x.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/14/2025-global-network-outage-report-and-internet-health-check.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/14/2025-global-network-outage-report-and-internet-health-check.webp"/>
           <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Next-gen Ethernet standards set to move forward in 2025</title>
+          <description><![CDATA[2024 was a banner year for Ethernet, which has been a foundational element of networking for more than 50 years and is poised for more advancements as 2025 kicks off.
+Multiple standards and certification efforts made progress in 2024, helping networks to be more reliable and deliver more bandwidth.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/14/next-gen-ethernet-standards-set-to-move-forward-in-2025/</guid>
+          <link>https://majordigest.com/tech/2025/01/14/next-gen-ethernet-standards-set-to-move-forward-in-2025/</link>
+          <pubDate>Tue, 14 Jan 2025 14:33:54 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/14/next-gen-ethernet-standards-set-to-move-forward-in-2025.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/14/next-gen-ethernet-standards-set-to-move-forward-in-2025.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>HPE Aruba targets retailers with IoT, edge computing launches</title>
+          <description><![CDATA[HPE Aruba Networking has rolled out a variety of new products for retailers that are aimed at boosting connectivity for in-store and IoT networks, improving analytics, and streamlining management.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/13/hpe-aruba-targets-retailers-with-iot-edge-computing-launches/</guid>
+          <link>https://majordigest.com/tech/2025/01/13/hpe-aruba-targets-retailers-with-iot-edge-computing-launches/</link>
+          <pubDate>Mon, 13 Jan 2025 21:02:41 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/13/hpe-aruba-targets-retailers-with-iot-edge-computing-launches.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/13/hpe-aruba-targets-retailers-with-iot-edge-computing-launches.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>800,000 VW electric vehicle owners' data exposed by software bug</title>
+          <description><![CDATA[Tech expert Kurt “CyberGuy&quot; Knutsson has the details on a Volkswagen data leak that exposed the personal data of around 800,000 EV owners.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/13/800000-vw-electric-vehicle-owners-data-exposed-software-bug/</guid>
+          <link>https://majordigest.com/tech/2025/01/13/800000-vw-electric-vehicle-owners-data-exposed-software-bug/</link>
+          <pubDate>Mon, 13 Jan 2025 20:00:20 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/13/800000-vw-electric-vehicle-owners-data-exposed-software-bug.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/13/800000-vw-electric-vehicle-owners-data-exposed-software-bug.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>AI experts tamp down hype, expect challenges for 2025</title>
+          <description><![CDATA[A trio of AI researchers and experts in Lithuania and England have tossed some cold water on the hype surrounding generative AI and predict that in 2025, companies and investors will have to lower their expectations regarding what the technology and large language models (LLM) can do.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/13/ai-experts-tamp-down-hype-project-challenges-for-2025/</guid>
+          <link>https://majordigest.com/tech/2025/01/13/ai-experts-tamp-down-hype-project-challenges-for-2025/</link>
+          <pubDate>Mon, 13 Jan 2025 18:29:03 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/13/ai-experts-tamp-down-hype-project-challenges-for-2025.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/13/ai-experts-tamp-down-hype-project-challenges-for-2025.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Britain's leader unveils AI strategy, including vow to rip up red tape hindering AI projects</title>
+          <description><![CDATA[LONDON (AP) — The British government pledged on Monday to rip up the red tape hindering construction of data centers that underpin artificial intelligence while promoting its “pro-innovation” approach to regulating the technology.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/13/britains-leader-unveils-ai-strategy-including-vow-to-rip-up-red-tape-hindering-ai-projects/</guid>
+          <link>https://majordigest.com/tech/2025/01/13/britains-leader-unveils-ai-strategy-including-vow-to-rip-up-red-tape-hindering-ai-projects/</link>
+          <pubDate>Mon, 13 Jan 2025 14:04:36 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/13/britains-leader-unveils-ai-strategy-including-vow-to-rip-up-red-tape-hindering-ai-projects.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/13/britains-leader-unveils-ai-strategy-including-vow-to-rip-up-red-tape-hindering-ai-projects.webp"/>
+          <dc:creator>Associated Press, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>The future of trucking rolls forward in Shell's experimental big rig</title>
+          <description><![CDATA[Tech expert Kurt “CyberGuy&quot; Knutsson takes a closer look at Shell&apos;s Starship 3.0: A natural gas big rig boosting efficiency 2.5 times, proving greener trucking.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/13/future-trucking-rolls-forward-shells-experimental-big-rig/</guid>
+          <link>https://majordigest.com/tech/2025/01/13/future-trucking-rolls-forward-shells-experimental-big-rig/</link>
+          <pubDate>Mon, 13 Jan 2025 11:00:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/13/future-trucking-rolls-forward-shells-experimental-big-rig.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/13/future-trucking-rolls-forward-shells-experimental-big-rig.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>TikTok app a &#8216;national security risk,' Sen. Mark Kelly says</title>
+          <description><![CDATA[“I imagine [there's gonna] be a disruption in the service here, you know, starting on the 19th,” Kelly told CBS News’s Margaret Brennan on “Face the Nation.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/12/mark-kelly-tiktok-ban/</guid>
+          <link>https://majordigest.com/tech/2025/01/12/mark-kelly-tiktok-ban/</link>
+          <pubDate>Sun, 12 Jan 2025 22:32:09 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/12/mark-kelly-tiktok-ban.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/12/mark-kelly-tiktok-ban.webp"/>
+          <dc:creator>Tara Suter, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>China&#8217;s newest humanoid robot is ready to serve like never before</title>
+          <description><![CDATA[A Chinese company has developed a new bipedal humanoid robot that stands over 5 feet tall and can tackle a wide range of tasks in different settings.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/11/chinas-newest-humanoid-robot-ready-serve-like-never-before/</guid>
+          <link>https://majordigest.com/tech/2025/01/11/chinas-newest-humanoid-robot-ready-serve-like-never-before/</link>
+          <pubDate>Sat, 11 Jan 2025 20:00:48 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/11/chinas-newest-humanoid-robot-ready-serve-like-never-before.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/11/chinas-newest-humanoid-robot-ready-serve-like-never-before.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Prime Video's use of AI, Next Gen Stats on NFL games is helping viewers understand the game better</title>
+          <description><![CDATA[CULVER CITY, Calif. (AP) — The Los Angeles Rams defense appeared to be content to drop back in coverage and prevent San Francisco’s Brock Purdy from completing a Hail Mary on the final play of their Thursday night game on Dec. 12. The broadcast on Amazon Prime Video saw it differently, though.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/10/prime-videos-use-of-ai-next-gen-stats-on-nfl-games-is-helping-viewers-understand-the-game-better/</guid>
+          <link>https://majordigest.com/tech/2025/01/10/prime-videos-use-of-ai-next-gen-stats-on-nfl-games-is-helping-viewers-understand-the-game-better/</link>
+          <pubDate>Fri, 10 Jan 2025 22:00:35 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/10/prime-videos-use-of-ai-next-gen-stats-on-nfl-games-is-helping-viewers-understand-the-game-better.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/10/prime-videos-use-of-ai-next-gen-stats-on-nfl-games-is-helping-viewers-understand-the-game-better.webp"/>
+          <dc:creator>JOE REEDY, Associated Press, ABC 4</dc:creator>
+        </item>
+        <item>
+          <title>Five takeaways from GSA&#8217;s latest Section 508 assessment</title>
+          <description><![CDATA[Agencies are dedicating more time and staff to digital accessibility efforts, but acquisition is still a key hurdle when it comes to Section 508 compliance.
+The post Five takeaways from GSA’s latest Section 508 assessment first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/10/five-takeaways-from-gsas-latest-section-508-assessment/</guid>
+          <link>https://majordigest.com/tech/2025/01/10/five-takeaways-from-gsas-latest-section-508-assessment/</link>
+          <pubDate>Fri, 10 Jan 2025 20:43:49 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/10/five-takeaways-from-gsas-latest-section-508-assessment.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/10/five-takeaways-from-gsas-latest-section-508-assessment.webp"/>
+          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
         </item></channel></rss>
