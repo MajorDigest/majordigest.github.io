@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/17/google-rolls-out-vertex-ai-rag-engine/</loc>
+          <loc>https://majordigest.com/tech/2025/01/16/doros-new-senior-focused-phones-speak-to-you-to-confirm-keyboard-presses-and-can-send-emergency-alerts-to-five-people-at-once/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-17T00:55:05.000Z</news:publication_date>
-            <news:title>Google Introduces Vertex AI RAG Engine: Streamlining LLM Development</news:title>
+            <news:publication_date>2025-01-16T20:00:00.000Z</news:publication_date>
+            <news:title>Doro Unveils New Lineup of Feature Phones for Seniors - Expected at Retailers and Networks in January</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/google-rolls-out-vertex-ai-rag-engine.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/16/doros-new-senior-focused-phones-speak-to-you-to-confirm-keyboard-presses-and-can-send-emergency-alerts-to-five-people-at-once.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/13/open-source-trends-for-2025-and-beyond/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-13T09:00:00.000Z</news:publication_date>
+            <news:title>Open Source Software: The Future of Enterprise Infrastructure</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/13/open-source-trends-for-2025-and-beyond.webp</image:loc>
           </image:image>
         </url></urlset>
