@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/18/schools-cell-phones-bans-new-york-new-jersey/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-18T20:00:00.000Z</news:publication_date>
-            <news:title>Bans on cell phones in schools grow, but debate thrives on how they are handled</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/18/schools-cell-phones-bans-new-york-new-jersey.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/18/node-js-set-to-stabilize-type-stripping/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-18T18:58:44.000Z</news:publication_date>
-            <news:title>Node.js set to stabilize type stripping</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/18/node-js-set-to-stabilize-type-stripping.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/01/18/donald-trump-tiktok-ban-supreme-court-decision/</loc>
           <news:news>
             <news:publication>
@@ -52,38 +24,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-01-18T18:02:10.000Z</news:publication_date>
-            <news:title>TikTok Awaits Trump's Decision on 90-Day Reprieve - U.S. Ban Looms</news:title>
+            <news:title>With a US ban on TikTok hours away, Trump says he 'most likely' will grant an extension</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/01/18/trump-says-he-most-likely-will-give-tiktok-a-90-day-extension-to-avoid-us-ban.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/18/racing-against-time-on-a-menacing-caldera-survey-finds-majority-of-organizations-take-days-to-tackle-critical-vulnerabilities-with-each-of-them-a-potential-door-for-cybercriminals/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-18T16:25:00.000Z</news:publication_date>
-            <news:title>Racing against time on a menacing caldera: survey finds majority of organizations take days to tackle critical vulnerabilities, each of them a potential open goal for cybercriminals</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/18/racing-against-time-on-a-menacing-caldera-survey-finds-majority-of-organizations-take-days-to-tackle-critical-vulnerabilities-with-each-of-them-a-potential-door-for-cybercriminals.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/18/forget-about-green-independent-professionals-are-all-about-value-for-money-when-it-comes-to-choosing-web-hosting/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-18T14:04:00.000Z</news:publication_date>
-            <news:title>Independent professionals are all about value for money when it comes to choosing web hosting, but still value sustainability</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/18/forget-about-green-independent-professionals-are-all-about-value-for-money-when-it-comes-to-choosing-web-hosting.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,20 +45,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/18/ai-newsletter-china-gains-ground/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-18T13:30:04.000Z</news:publication_date>
-            <news:title>Fox News AI Newsletter: China gains ground</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/18/ai-newsletter-china-gains-ground.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/01/18/saving-tiktok-videos-looming-ban/</loc>
           <news:news>
             <news:publication>
@@ -126,6 +56,48 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/01/18/saving-tiktok-videos-looming-ban.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/18/secure-ai-dream-on-says-ai-red-team/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-18T03:21:10.000Z</news:publication_date>
+            <news:title>Secure AI? Dream on, says AI red team</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/18/secure-ai-dream-on-says-ai-red-team.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/18/for-tiktok-users-mourning-frustration-and-clinging-to-hope-as-tiktok-ban-looms/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-18T03:14:22.000Z</news:publication_date>
+            <news:title>For TikTok users, mourning, frustration and clinging to hope as TikTok ban looms</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/18/for-tiktok-users-mourning-frustration-and-clinging-to-hope-as-tiktok-ban-looms.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/17/army-readies-new-ai-guidance-based-on-lessons-learned/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-17T23:51:00.000Z</news:publication_date>
+            <news:title>Army readies new AI guidance based on lessons learned</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/17/army-readies-new-ai-guidance-based-on-lessons-learned.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -157,76 +129,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/17/for-tiktok-users-mourning-frustration-and-clinging-to-hope-as-tiktok-ban-looms/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-17T21:13:07.000Z</news:publication_date>
-            <news:title>For TikTok users, mourning, frustration and clinging to hope as TikTok ban looms</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/for-tiktok-users-mourning-frustration-and-clinging-to-hope-as-tiktok-ban-looms.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/17/mistakes-could-tank-your-credit-score/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-17T20:42:42.000Z</news:publication_date>
-            <news:title>These mistakes could tank your credit score</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/mistakes-could-tank-your-credit-score.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/17/tiktok-ceo-trump-support/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-17T19:09:59.000Z</news:publication_date>
-            <news:title>TikTok CEO thanks Trump for commitment to finding solution after court upholds ban</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/tiktok-ceo-trump-support.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/17/how-save-tiktok-videos-data-ban/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-17T19:02:23.000Z</news:publication_date>
-            <news:title>How to save your TikTok videos, data ahead of looming ban</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/how-save-tiktok-videos-data-ban.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/17/noem-calls-for-smaller-more-nimble-cisa-during-nomination-hearing/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-17T18:52:09.000Z</news:publication_date>
-            <news:title>Trump's Homeland Security Pick Criticizes CISA's Misinformation Work - Federal News Network</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/noem-calls-for-smaller-more-nimble-cisa-during-nomination-hearing.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/01/17/sam-altman-claps-back-at-senate-inquiry-into-trump-inaugural-fund-donation/</loc>
           <news:news>
             <news:publication>
@@ -238,62 +140,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/01/17/sam-altman-claps-back-at-senate-inquiry-into-trump-inaugural-fund-donation.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/17/what-kind-of-mini-pc-is-that-minisforums-nas-packs-a-ryzen-ai-hx-370-up-to-96gb-ram-and-a-staggering-154tb-storage/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-17T18:32:00.000Z</news:publication_date>
-            <news:title>What kind of mini PC is that? Minisforum's NAS packs a Ryzen AI HX 370, up to 96GB RAM and a staggering 154TB storage</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/what-kind-of-mini-pc-is-that-minisforums-nas-packs-a-ryzen-ai-hx-370-up-to-96gb-ram-and-a-staggering-154tb-storage.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/17/dublin-resident-gets-18-months-in-federal-prison-after-changing-computer-passwords-data-at-east-bay-company/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-17T18:15:05.000Z</news:publication_date>
-            <news:title>Dublin resident gets 18 months in federal prison after changing computer passwords, data at East Bay company</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/dublin-resident-gets-18-months-in-federal-prison-after-changing-computer-passwords-data-at-east-bay-company.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/17/how-apple-is-in-the-race-for-workplace-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-17T17:39:13.000Z</news:publication_date>
-            <news:title>How Apple is in the race for workplace AI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/how-apple-is-in-the-race-for-workplace-ai.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/17/59-organizations-reportedly-victim-to-breaches-caused-by-cleo-software-bug/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-17T16:33:00.000Z</news:publication_date>
-            <news:title>59 organizations reportedly victim to breaches caused by Cleo software bug</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/59-organizations-reportedly-victim-to-breaches-caused-by-cleo-software-bug.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -325,157 +171,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/17/understanding-and-avoiding-malvertizing-attacks/</loc>
+          <loc>https://majordigest.com/tech/2025/01/17/python-eats-the-world/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-17T15:24:42.000Z</news:publication_date>
-            <news:title>Understanding and avoiding malvertizing attacks</news:title>
+            <news:publication_date>2025-01-17T09:00:00.000Z</news:publication_date>
+            <news:title>Python eats the world</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/understanding-and-avoiding-malvertizing-attacks.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/17/python-eats-the-world.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/17/big-tech-needs-less-than-three-weeks-to-pay-off-over-usd8-billion-in-2024-fines/</loc>
+          <loc>https://majordigest.com/tech/2025/01/17/3-big-predictions-for-ai-in-financial-services-in-2025/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-17T13:25:57.000Z</news:publication_date>
-            <news:title>Big tech needs less than three weeks to pay off over $8 billion in 2024 fines</news:title>
+            <news:publication_date>2025-01-17T08:00:00.000Z</news:publication_date>
+            <news:title>3 big predictions for AI in financial services in 2025</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/big-tech-needs-less-than-three-weeks-to-pay-off-over-usd8-billion-in-2024-fines.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/17/3-big-predictions-for-ai-in-financial-services-in-2025.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/17/motorolas-new-cheap-phones-offer-flagship-features-for-a-quarter-of-the-price-of-an-iphone-16/</loc>
+          <loc>https://majordigest.com/tech/2025/01/17/google-rolls-out-vertex-ai-rag-engine/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-17T11:58:49.000Z</news:publication_date>
-            <news:title>Motorola's new cheap phones offer flagship features for a quarter of the price of an iPhone 16</news:title>
+            <news:publication_date>2025-01-17T00:55:05.000Z</news:publication_date>
+            <news:title>Google rolls out Vertex AI RAG Engine</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/17/motorolas-new-cheap-phones-offer-flagship-features-for-a-quarter-of-the-price-of-an-iphone-16.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/17/google-rolls-out-vertex-ai-rag-engine.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/16/chat-gpt-gets-support-for-reminders-and-scheduled-searches/</loc>
+          <loc>https://majordigest.com/tech/2025/01/16/biden-executive-order-aims-to-shore-up-us-cyber-defenses/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-16T20:07:44.000Z</news:publication_date>
-            <news:title>ChatGPT gets support for reminders and scheduled searches</news:title>
+            <news:publication_date>2025-01-16T21:21:32.000Z</news:publication_date>
+            <news:title>Biden's new executive order aims to shore up US cyber defenses</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/16/chat-gpt-gets-support-for-reminders-and-scheduled-searches.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/16/biden-executive-order-aims-to-shore-up-us-cyber-defenses.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/16/how-letterboxd-went-mainstream/</loc>
+          <loc>https://majordigest.com/tech/2025/01/16/google-ups-workspace-price-makes-gemini-ai-features-available-for-free/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-16T19:01:00.000Z</news:publication_date>
-            <news:title>How Letterboxd went mainstream</news:title>
+            <news:publication_date>2025-01-16T13:17:34.000Z</news:publication_date>
+            <news:title>Google ups Workspace price, makes Gemini AI features available for free</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/16/how-letterboxd-went-mainstream.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/16/drone-paraglider-emergency-landing/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-16T17:45:15.000Z</news:publication_date>
-            <news:title>Drone collides with paraglider, forcing emergency landing</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/16/drone-paraglider-emergency-landing.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/16/nvidia-intros-new-guardrail-microservices-for-agentic-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-16T14:01:00.000Z</news:publication_date>
-            <news:title>Nvidia intros new guardrail microservices for agentic AI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/16/nvidia-intros-new-guardrail-microservices-for-agentic-ai.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/16/redefining-enterprise-transformation-in-the-age-of-intelligent-ecosystems/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-16T13:08:59.000Z</news:publication_date>
-            <news:title>Redefining enterprise transformation in the age of intelligent ecosystems</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/16/redefining-enterprise-transformation-in-the-age-of-intelligent-ecosystems.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/16/build-api-clients-with-microsoft-kiota/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-16T09:00:00.000Z</news:publication_date>
-            <news:title>Build API clients with Microsoft Kiota</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/16/build-api-clients-with-microsoft-kiota.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/16/kazakhstans-ai-powered-prisons-setting-a-new-standard-for-safety-and-efficiency/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-16T04:26:08.000Z</news:publication_date>
-            <news:title>Kazakhstan&#8217;s AI-Powered Prisons: Setting a New Standard for Safety and Efficiency</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/16/kazakhstans-ai-powered-prisons-setting-a-new-standard-for-safety-and-efficiency.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/16/bill-oreilly-joe-biden-aaron-rodgers/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-16T03:19:36.000Z</news:publication_date>
-            <news:title>Bill O'Reilly: Joe Biden going out same way as Aaron Rodgers</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/16/bill-oreilly-joe-biden-aaron-rodgers.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/16/google-ups-workspace-price-makes-gemini-ai-features-available-for-free.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -493,30 +255,184 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/15/bidens-big-semiconductor-law-will-ramp-up-us-chip-production-but-at-a-high-cost-report-finds/</loc>
+          <loc>https://majordigest.com/tech/2025/01/15/avoid-ai-windows-web/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-15T19:50:39.000Z</news:publication_date>
-            <news:title>Biden's big semiconductor law will ramp up US chip production -- but at a high cost, report finds</news:title>
+            <news:publication_date>2025-01-15T11:00:00.000Z</news:publication_date>
+            <news:title>5 ways to avoid AI in Windows</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/15/bidens-big-semiconductor-law-will-ramp-up-us-chip-production-but-at-a-high-cost-report-finds.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/15/avoid-ai-windows-web.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/15/fox-news-ai-newsletter-ai-health-tech-transform-your-fitness-routine/</loc>
+          <loc>https://majordigest.com/tech/2025/01/15/intro-to-ktor-the-server-side-stack/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-15T17:40:13.000Z</news:publication_date>
-            <news:title>Fox News AI Newsletter: AI health tech will transform your fitness routine</news:title>
+            <news:publication_date>2025-01-15T09:00:00.000Z</news:publication_date>
+            <news:title>Intro to Ktor: The server-side stack</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/15/fox-news-ai-newsletter-ai-health-tech-transform-your-fitness-routine.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/15/intro-to-ktor-the-server-side-stack.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/15/why-you-should-use-docker-and-containers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-15T09:00:00.000Z</news:publication_date>
+            <news:title>Why you should use Docker and OCI containers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/15/why-you-should-use-docker-and-containers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/15/sec-sues-elon-musk-saying-he-didnt-disclose-twitter-ownership-on-time-before-buying-it/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-15T02:32:01.000Z</news:publication_date>
+            <news:title>SEC sues Elon Musk, saying he didn't disclose Twitter ownership on time before buying it</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/15/sec-sues-elon-musk-saying-he-didnt-disclose-twitter-ownership-on-time-before-buying-it.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/15/angular-team-unveils-strategy-for-2025/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-15T00:51:01.000Z</news:publication_date>
+            <news:title>Angular team unveils strategy for 2025</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/15/angular-team-unveils-strategy-for-2025.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/14/mark-zuckerberg-will-cohost-reception-with-republican-billionaires-for-trump-inauguration/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-14T23:13:41.000Z</news:publication_date>
+            <news:title>Mark Zuckerberg will cohost reception with Republican billionaires for Trump inauguration</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/14/mark-zuckerberg-will-cohost-reception-with-republican-billionaires-for-trump-inauguration.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/14/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-14T22:36:14.000Z</news:publication_date>
+            <news:title>Biden signs ambitious order to bolster energy resources for AI data centers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/14/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/14/us-tiktok-users-flock-to-chinese-app-xiaohongshu-in-protest-with-tiktok-ban-looming/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-14T18:22:12.000Z</news:publication_date>
+            <news:title>US TikTok users flock to Chinese app Xiaohongshu in protest with TikTok ban looming</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/14/us-tiktok-users-flock-to-chinese-app-xiaohongshu-in-protest-with-tiktok-ban-looming.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/14/hackers-claim-massive-breach-company-tracks-sells-americans-location-data/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-14T17:00:39.000Z</news:publication_date>
+            <news:title>Hackers claim massive breach of company that tracks and sells Americans' location data</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/14/hackers-claim-massive-breach-company-tracks-sells-americans-location-data.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/14/next-gen-ethernet-standards-set-to-move-forward-in-2025/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-14T14:33:54.000Z</news:publication_date>
+            <news:title>Next-gen Ethernet standards set to move forward in 2025</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/14/next-gen-ethernet-standards-set-to-move-forward-in-2025.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/14/new-brazil-law-restricts-use-of-smartphones-in-elementary-and-high-schools/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-14T03:46:16.000Z</news:publication_date>
+            <news:title>New Brazil law restricts use of smartphones in elementary and high schools</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/14/new-brazil-law-restricts-use-of-smartphones-in-elementary-and-high-schools.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/13/cleanup-your-phone-computer/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-13T21:25:49.000Z</news:publication_date>
+            <news:title>5-minute cleanup for your phone and computer</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/13/cleanup-your-phone-computer.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/13/britains-leader-unveils-ai-strategy-including-vow-to-rip-up-red-tape-hindering-ai-projects/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-13T14:04:36.000Z</news:publication_date>
+            <news:title>Britain's leader unveils AI strategy, including vow to rip up red tape hindering AI projects</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/13/britains-leader-unveils-ai-strategy-including-vow-to-rip-up-red-tape-hindering-ai-projects.webp</image:loc>
           </image:image>
         </url></urlset>
