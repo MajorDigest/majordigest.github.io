@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sun, 19 Jan 2025 03:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 05:14:36 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Macs Not Immune: New BanShee Stealer Malware Targets Browser Credentials and More</title>
-          <description><![CDATA[A new variant of malware, BanShee Stealer, targets browser credentials and cryptocurrency wallets on Macs. Learn how to safeguard your device from this threat.]]></description>
-          <guid>https://majordigest.comnull</guid>
-          <link>https://majordigest.comnull</link>
-          <pubDate>Wed, 15 Jan 2025 15:00:51 GMT</pubDate>
+          <title>Russian State-Linked Ransomware Group Claims 59 Victims After Exploiting Cleo Bug - TechCrunch</title>
+          <description><![CDATA[Russian state-linked ransomware group Clop claims to have hacked 59 companies after exploiting a known bug in Cleo's file transfer applications. The flaw, CVE-2024-50623, enables remote code execution and was first disclosed on October 30, 2024.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/17/59-organizations-reportedly-victim-to-breaches-caused-by-cleo-software-bug/</guid>
+          <link>https://majordigest.com/tech/2025/01/17/59-organizations-reportedly-victim-to-breaches-caused-by-cleo-software-bug/</link>
+          <pubDate>Fri, 17 Jan 2025 16:33:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/15/mac-malware-mayhem-100-million-apple-users-risk-having-personal-data-stolen.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/15/mac-malware-mayhem-100-million-apple-users-risk-having-personal-data-stolen.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/59-organizations-reportedly-victim-to-breaches-caused-by-cleo-software-bug.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/59-organizations-reportedly-victim-to-breaches-caused-by-cleo-software-bug.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Groundbreaking Study Revolutionizes Prosthetic Hand Technology</title>
+          <description><![CDATA[Florida Atlantic University researchers have made a significant breakthrough in prosthetic hand technology, enabling users to control grip forces applied to multiple objects simultaneously with enhanced haptic feedback.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/16/soft-robotic-armband-gives-prosthetic-hand-users-natural-control/</guid>
+          <link>https://majordigest.com/tech/2025/01/16/soft-robotic-armband-gives-prosthetic-hand-users-natural-control/</link>
+          <pubDate>Thu, 16 Jan 2025 11:00:05 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/16/soft-robotic-armband-gives-prosthetic-hand-users-natural-control.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/16/soft-robotic-armband-gives-prosthetic-hand-users-natural-control.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
