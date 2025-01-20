@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/us/2025/01/20/fake-firefighters-palisades-fire/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-20T00:58:17.000Z</news:publication_date>
-            <news:title>Suspects allegedly posing as firefighters in Palisades had fake fire engine</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/20/fake-firefighters-palisades-fire.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/us/2025/01/19/content-creators-respond-to-tiktoks-uncertain-future-in-the-us/</loc>
           <news:news>
             <news:publication>
@@ -28,6 +14,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/us/2025/01/19/content-creators-respond-to-tiktoks-uncertain-future-in-the-us.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/19/fire-ravaged-southern-california-braces-for-gusty-winds-and-heightened-wildfire-risk/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-19T23:18:09.000Z</news:publication_date>
+            <news:title>Fire-ravaged Southern California braces for gusty winds and heightened wildfire risk</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/19/fire-ravaged-southern-california-braces-for-gusty-winds-and-heightened-wildfire-risk.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,20 +45,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/19/rubio-will-meet-with-peers-from-india-japan-australia-after-expected-confirmation-officials-say/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-19T22:57:35.000Z</news:publication_date>
-            <news:title>Rubio will meet with peers from India, Japan, Australia after expected confirmation, officials say</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/rubio-will-meet-with-peers-from-india-japan-australia-after-expected-confirmation-officials-say.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/us/2025/01/19/heavy-snow-and-frigid-arctic-blast-put-70-million-across-the-u-s-under-winter-storm-warnings/</loc>
           <news:news>
             <news:publication>
@@ -73,115 +59,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/19/trump-promotes-new-meme-coin-before-taking-office-on-pro-crypto-agenda/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-19T22:27:55.000Z</news:publication_date>
-            <news:title>Trump promotes new meme coin before taking office on pro-crypto agenda</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/trump-promotes-new-meme-coin-before-taking-office-on-pro-crypto-agenda.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2025/01/19/how-tiktok-grew-from-a-fun-app-for-teens-into-a-potential-national-security-threat-2/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-19T22:19:02.000Z</news:publication_date>
-            <news:title>How TikTok grew from a fun app for teens into a potential national security threat</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/how-tiktok-grew-from-a-fun-app-for-teens-into-a-potential-national-security-threat-2.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2025/01/19/over-100-out-of-state-homeless-in-hawaii-sent-back-to-mainland-families/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-19T21:32:04.000Z</news:publication_date>
-            <news:title>Over 100 out-of-state homeless in Hawaii sent back to mainland families</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/over-100-out-of-state-homeless-in-hawaii-sent-back-to-mainland-families.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2025/01/19/bird-flu-found-in-a-georgia-commercial-flock-for-the-1st-time-amid-the-nationwide-outbreak/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-19T21:04:44.000Z</news:publication_date>
-            <news:title>Bird flu found in a Georgia commercial flock for the 1st time amid the nationwide outbreak</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/bird-flu-found-in-a-georgia-commercial-flock-for-the-1st-time-amid-the-nationwide-outbreak.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2025/01/19/immigrants-in-chicago-and-other-us-cities-brace-for-expected-trump-deportation-arrests/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-19T20:38:22.000Z</news:publication_date>
-            <news:title>Immigrants in Chicago and other US cities brace for expected Trump deportation arrests</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/immigrants-in-chicago-and-other-us-cities-brace-for-expected-trump-deportation-arrests.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/us/2025/01/19/heavy-snow-and-frigid-arctic-blast-put-70-million-across-the-us-under-winter-storm-warnings/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-19T20:04:50.000Z</news:publication_date>
+            <news:publication_date>2025-01-19T20:05:26.000Z</news:publication_date>
             <news:title>Heavy snow and frigid Arctic blast put 70 million across the US under winter storm warnings</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/us/2025/01/19/heavy-snow-and-frigid-arctic-blast-put-70-million-across-the-us-under-winter-storm-warnings.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2025/01/19/biden-posthumously-pardons-black-nationalist-marcus-garvey/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-19T19:38:54.000Z</news:publication_date>
-            <news:title>Biden pardons the late Black nationalist Marcus Garvey as well as 4 others and commutes 2 sentences</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/biden-posthumously-pardons-black-nationalist-marcus-garvey.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2025/01/19/coco-gauff-writes-rip-tiktok-usa-on-a-tv-camera-at-the-australian-open/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-19T19:14:22.000Z</news:publication_date>
-            <news:title>Coco Gauff writes 'RIP TikTok USA' on a TV camera at the Australian Open</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/coco-gauff-writes-rip-tiktok-usa-on-a-tv-camera-at-the-australian-open.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -191,7 +79,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-19T18:02:37.000Z</news:publication_date>
+            <news:publication_date>2025-01-19T18:03:39.000Z</news:publication_date>
             <news:title>Trump returns to Washington for celebrations ahead of inauguration</news:title>
           </news:news>
           <image:image>
@@ -213,31 +101,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/19/legacy-news-on-its-heels-as-second-trump-era-begins-but-not-abandoning-mission/</loc>
+          <loc>https://majordigest.com/us/2025/01/19/tiktok-goes-dark-as-us-ban-takes-effect/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-19T16:12:31.000Z</news:publication_date>
-            <news:title>Legacy news on its heels as second Trump era begins, but not abandoning mission</news:title>
+            <news:publication_date>2025-01-19T15:21:12.000Z</news:publication_date>
+            <news:title>TikTok says it's in the process of restoring service to US users</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/legacy-news-on-its-heels-as-second-trump-era-begins-but-not-abandoning-mission.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2025/01/19/gaza-ceasefire-takes-hold-and-the-first-handover-of-hostages-is-underway/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-19T15:19:10.000Z</news:publication_date>
-            <news:title>Gaza ceasefire takes hold and the first handover of hostages is underway</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/gaza-ceasefire-takes-hold-and-the-first-handover-of-hostages-is-underway.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/19/tiktok-goes-dark-as-us-ban-takes-effect.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -255,213 +129,185 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/19/biden-posthumously-pardons-black-nationalist-marcus-garvey-and-activists-ragbir-and-smith-pradia/</loc>
+          <loc>https://majordigest.com/us/2025/01/19/us-cities-largely-saw-a-drop-in-violent-crime-in-2024-yet-many-still-feel-unsafe/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-19T13:31:16.000Z</news:publication_date>
-            <news:title>Biden pardons the late Black nationalist Marcus Garvey as well as 4 others and commutes 2 sentences</news:title>
+            <news:publication_date>2025-01-19T05:01:22.000Z</news:publication_date>
+            <news:title>US cities largely saw a drop in violent crime in 2024, yet many still feel unsafe</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/biden-posthumously-pardons-black-nationalist-marcus-garvey-and-activists-ragbir-and-smith-pradia.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/19/us-cities-largely-saw-a-drop-in-violent-crime-in-2024-yet-many-still-feel-unsafe.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/19/6-dramatic-moments-that-shaped-bidens-presidency/</loc>
+          <loc>https://majordigest.com/us/2025/01/18/texas-police-officer-army-vet-killed-line-duty-during-car-chase/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-19T11:00:45.000Z</news:publication_date>
-            <news:title>6 dramatic moments that shaped Biden&#8217;s presidency</news:title>
+            <news:publication_date>2025-01-18T15:00:13.000Z</news:publication_date>
+            <news:title>Texas police officer, an Army veteran, killed in line of duty during car chase</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/6-dramatic-moments-that-shaped-bidens-presidency.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/18/texas-police-officer-army-vet-killed-line-duty-during-car-chase.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/19/travis-kelce-makes-nfl-history-in-first-game-of-three-peat-quest/</loc>
+          <loc>https://majordigest.com/us/2025/01/18/on-la-fire-lines-inmates-shoulder-heavy-packs-and-tackle-dangerous-work-for-less-than-30-a-day/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-19T01:15:36.000Z</news:publication_date>
-            <news:title>Travis Kelce makes NFL history in first game of three-peat quest</news:title>
+            <news:publication_date>2025-01-18T14:32:15.000Z</news:publication_date>
+            <news:title>On LA fire lines, inmates shoulder heavy packs and tackle dangerous work for less than $30 a day</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/travis-kelce-makes-nfl-history-in-first-game-of-three-peat-quest.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/18/on-la-fire-lines-inmates-shoulder-heavy-packs-and-tackle-dangerous-work-for-less-than-30-a-day.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/19/proposal-bmi-obesity/</loc>
+          <loc>https://majordigest.com/us/2025/01/18/vermont-accused-lawsuit-tracking-pregnant-women-considered-unsuitable-mothers/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-19T00:05:45.000Z</news:publication_date>
-            <news:title>Proposal would ditch BMI for determining obesity</news:title>
+            <news:publication_date>2025-01-18T09:06:35.000Z</news:publication_date>
+            <news:title>Vermont accused in lawsuit of tracking pregnant women considered unsuitable to be mothers</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/19/proposal-bmi-obesity.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/18/vermont-accused-lawsuit-tracking-pregnant-women-considered-unsuitable-mothers.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/18/chicago-prepares-for-deportation-arrests-targeting-hundreds-next-week-after-trump-takes-office/</loc>
+          <loc>https://majordigest.com/us/2025/01/17/busta-rhymes-turns-himself-in-after-fight-with-man-in-nyc-police-say/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-18T21:09:33.000Z</news:publication_date>
-            <news:title>Chicago prepares for deportation arrests targeting hundreds next week after Trump takes office</news:title>
+            <news:publication_date>2025-01-17T22:49:14.000Z</news:publication_date>
+            <news:title>Busta Rhymes turns himself in after fight with man in NYC, police say</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/18/chicago-prepares-for-deportation-arrests-targeting-hundreds-next-week-after-trump-takes-office.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/busta-rhymes-turns-himself-in-after-fight-with-man-in-nyc-police-say.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/18/nyc-mayor-defends-private-meeting-with-incoming-president-trump/</loc>
+          <loc>https://majordigest.com/us/2025/01/17/bail-denied-for-american-captured-in-france-and-accused-of-assaulting-pennsylvania-student/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-18T19:59:37.000Z</news:publication_date>
-            <news:title>NYC mayor defends private meeting with incoming President Trump</news:title>
+            <news:publication_date>2025-01-17T17:47:16.000Z</news:publication_date>
+            <news:title>Bail denied for American captured in France and accused of assaulting Pennsylvania student</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/18/nyc-mayor-defends-private-meeting-with-incoming-president-trump.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/bail-denied-for-american-captured-in-france-and-accused-of-assaulting-pennsylvania-student.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/18/eggs-are-about-to-get-even-more-expensive-expert-says-heres-how-much/</loc>
+          <loc>https://majordigest.com/us/2025/01/17/qa-god-bless-the-usa-singer-lee-greenwood-on-donald-trumps-inauguration-and-bibles/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-18T19:52:27.000Z</news:publication_date>
-            <news:title>Eggs are about to get even more expensive, expert says. Here's how much</news:title>
+            <news:publication_date>2025-01-17T16:26:50.000Z</news:publication_date>
+            <news:title>Q&#38;A: 'God Bless the USA' singer Lee Greenwood on Donald Trump's inauguration and Bibles</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/18/eggs-are-about-to-get-even-more-expensive-expert-says-heres-how-much.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/qa-god-bless-the-usa-singer-lee-greenwood-on-donald-trumps-inauguration-and-bibles.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/18/trump-says-he-will-most-likely-will-give-tiktok-90-day-extension/</loc>
+          <loc>https://majordigest.com/us/2025/01/17/biden-affirms-equal-rights-amendment-is-part-of-constitution/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-18T18:26:57.000Z</news:publication_date>
-            <news:title>Trump says he will &#8216;most likely&#8217; give TikTok 90-day extension</news:title>
+            <news:publication_date>2025-01-17T16:23:56.000Z</news:publication_date>
+            <news:title>Biden affirms Equal Rights Amendment is part of Constitution</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/18/trump-says-he-will-most-likely-will-give-tiktok-90-day-extension.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/biden-affirms-equal-rights-amendment-is-part-of-constitution.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/18/mother-woman-killed-eaton-fire-sues/</loc>
+          <loc>https://majordigest.com/us/2025/01/17/supreme-court-gives-green-light-to-law-that-could-ban-tiktok/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-18T14:19:55.000Z</news:publication_date>
-            <news:title>Mother of woman killed in Eaton Fire sues California utility</news:title>
+            <news:publication_date>2025-01-17T15:04:37.000Z</news:publication_date>
+            <news:title>Supreme Court gives green light to law that could ban TikTok</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/18/mother-woman-killed-eaton-fire-sues.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/supreme-court-gives-green-light-to-law-that-could-ban-tiktok.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/18/florida-hotel-discriminated-against-arab-american-group-after-hamas-oct-7-attack-against-israel-doj-says/</loc>
+          <loc>https://majordigest.com/us/2025/01/17/supreme-court-upholds-tiktok-ban/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-18T06:12:02.000Z</news:publication_date>
-            <news:title>Florida hotel discriminated against Arab American group after Hamas' Oct. 7 attack against Israel, DOJ says</news:title>
+            <news:publication_date>2025-01-17T15:04:12.000Z</news:publication_date>
+            <news:title>Supreme Court upholds TikTok ban</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/18/florida-hotel-discriminated-against-arab-american-group-after-hamas-oct-7-attack-against-israel-doj-says.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/supreme-court-upholds-tiktok-ban.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/18/college-students-accused-of-online-catch-a-predator-plot-appear-in-court/</loc>
+          <loc>https://majordigest.com/us/2025/01/17/capital-one-technical-issue-delays-payments-for-users-what-to-know/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-18T02:46:02.000Z</news:publication_date>
-            <news:title>College students accused of online 'catch a predator' plot appear in court</news:title>
+            <news:publication_date>2025-01-17T14:34:26.000Z</news:publication_date>
+            <news:title>Capital One technical issue delays payments for users: What to know</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/18/college-students-accused-of-online-catch-a-predator-plot-appear-in-court.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/capital-one-technical-issue-delays-payments-for-users-what-to-know.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/18/first-responders-saved-a-moose-that-fell-through-lake-ice-in-new-york-heres-how-they-did-it/</loc>
+          <loc>https://majordigest.com/us/2025/01/17/biden-commutes-the-sentences-of-nearly-2500-non-violent-drug-offenders/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-18T02:05:59.000Z</news:publication_date>
-            <news:title>First responders saved a moose that fell through lake ice in New York. Here's how they did it</news:title>
+            <news:publication_date>2025-01-17T13:49:42.000Z</news:publication_date>
+            <news:title>Biden commutes the sentences of nearly 2,500 non-violent drug offenders</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/18/first-responders-saved-a-moose-that-fell-through-lake-ice-in-new-york-heres-how-they-did-it.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/biden-commutes-the-sentences-of-nearly-2500-non-violent-drug-offenders.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/18/south-carolina-man-pleads-guilty-to-the-carjacking-and-killing-of-a-new-mexico-police-officer/</loc>
+          <loc>https://majordigest.com/us/2025/01/17/biden-administration-picks-15-more-drugs-for-medicare-negotiation/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-18T00:39:20.000Z</news:publication_date>
-            <news:title>South Carolina man pleads guilty to the carjacking and killing of a New Mexico police officer</news:title>
+            <news:publication_date>2025-01-17T13:47:52.000Z</news:publication_date>
+            <news:title>Biden administration picks 15 more drugs for Medicare negotiation</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/18/south-carolina-man-pleads-guilty-to-the-carjacking-and-killing-of-a-new-mexico-police-officer.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2025/01/17/biden-sets-record-by-commuting-sentences-of-nearly-2500-people-convicted-on-nonviolent-drug-charges/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-17T22:42:56.000Z</news:publication_date>
-            <news:title>Biden sets record by commuting sentences of nearly 2,500 people convicted on nonviolent drug charges</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/17/biden-sets-record-by-commuting-sentences-of-nearly-2500-people-convicted-on-nonviolent-drug-charges.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/us/2025/01/17/man-accused-womans-disappearance-murder-previously-charged-attempted-murder-kidnapping/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-17T22:00:25.000Z</news:publication_date>
-            <news:title>Man accused of woman's disappearance, murder previously charged with attempted murder, kidnapping</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/17/man-accused-womans-disappearance-murder-previously-charged-attempted-murder-kidnapping.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/biden-administration-picks-15-more-drugs-for-medicare-negotiation.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -471,7 +317,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-17T21:36:31.000Z</news:publication_date>
+            <news:publication_date>2025-01-17T12:32:15.000Z</news:publication_date>
             <news:title>FDA will allow Zyn nicotine pouches to stay on the market</news:title>
           </news:news>
           <image:image>
@@ -479,30 +325,198 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/17/wisdom-of-a-california-grandmother-90-goes-viral-amid-eaton-fire-tragedy/</loc>
+          <loc>https://majordigest.com/us/2025/01/17/justin-baldoni-sues-blake-lively-and-ryan-reynolds-in-new-step-in-it-ends-with-us-fight/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-17T19:30:58.000Z</news:publication_date>
-            <news:title>Wisdom of a California grandmother, 90, goes viral amid Eaton Fire tragedy</news:title>
+            <news:publication_date>2025-01-17T12:00:11.000Z</news:publication_date>
+            <news:title>Justin Baldoni sues Blake Lively and Ryan Reynolds for $400M in new step in 'It Ends With Us' fight</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/17/wisdom-of-a-california-grandmother-90-goes-viral-amid-eaton-fire-tragedy.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/justin-baldoni-sues-blake-lively-and-ryan-reynolds-in-new-step-in-it-ends-with-us-fight.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/us/2025/01/17/trump-inauguration-moved-indoors-because-of-cold/</loc>
+          <loc>https://majordigest.com/us/2025/01/17/nintendo-says-its-new-switch-2-console-will-be-released-in-2025/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-17T16:54:34.000Z</news:publication_date>
-            <news:title>Trump inauguration moved indoors because of freezing temperatures</news:title>
+            <news:publication_date>2025-01-17T10:07:10.000Z</news:publication_date>
+            <news:title>Nintendo says its new Switch 2 console will be released in 2025</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/us/2025/01/17/trump-inauguration-moved-indoors-because-of-cold.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/nintendo-says-its-new-switch-2-console-will-be-released-in-2025.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/17/rudy-giuliani-to-be-first-witness-at-trial-over-whether-he-keeps-florida-home-and-world-series-rings/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-17T04:05:32.000Z</news:publication_date>
+            <news:title>Giuliani settles legal fight with former Georgia election workers and agrees to stop defaming them</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/rudy-giuliani-to-be-first-witness-at-trial-over-whether-he-keeps-florida-home-and-world-series-rings.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/17/netanyahu-says-cabinet-wont-meet-over-ceasefire-until-hamas-backs-down-from-last-minute-crisis/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-17T03:43:49.000Z</news:publication_date>
+            <news:title>Netanyahu says deal to release hostages held in Gaza has been reached after last minute snags</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/netanyahu-says-cabinet-wont-meet-over-ceasefire-until-hamas-backs-down-from-last-minute-crisis.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/17/top-music-acts-announced-for-fireaid-a-concert-to-support-l-a-wildfire-victims/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-17T00:53:11.000Z</news:publication_date>
+            <news:title>Top music acts announced for FireAid, a concert to support L.A. wildfire victims</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/top-music-acts-announced-for-fireaid-a-concert-to-support-l-a-wildfire-victims.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/17/biden-admin-announces-last-round-of-student-debt-relief/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-17T00:26:16.000Z</news:publication_date>
+            <news:title>Biden admin announces last round of student debt relief</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/biden-admin-announces-last-round-of-student-debt-relief.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/17/american-accused-of-assaulting-a-pennsylvania-student-is-being-extradited-to-the-us-prosecutors-say/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-17T00:04:15.000Z</news:publication_date>
+            <news:title>American accused of assaulting a Pennsylvania student is extradited from France to the US</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/17/american-accused-of-assaulting-a-pennsylvania-student-is-being-extradited-to-the-us-prosecutors-say.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/16/photos-home-alone-house-in-illinois-sells-for-250k-over-asking-price/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-16T23:42:59.000Z</news:publication_date>
+            <news:title>PHOTOS: 'Home Alone' house in Illinois sells for $250K over asking price</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/16/photos-home-alone-house-in-illinois-sells-for-250k-over-asking-price.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/16/what-to-know-about-rednote-a-tiktok-alternative/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-16T19:29:36.000Z</news:publication_date>
+            <news:title>What to know about RedNote, a TikTok alternative</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/16/what-to-know-about-rednote-a-tiktok-alternative.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/16/strategy-meals-and-laundry-the-monumental-effort-behind-las-firefight/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-16T19:03:20.000Z</news:publication_date>
+            <news:title>Inside the monumental effort behind LA&#8217;s firefight, from strategy to meals and laundry</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/16/strategy-meals-and-laundry-the-monumental-effort-behind-las-firefight.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/16/david-lynch-director-of-twin-peaks-blue-velvet-dies-at-78-family-says/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-16T18:42:37.000Z</news:publication_date>
+            <news:title>David Lynch, director of 'Twin Peaks,' 'Blue Velvet' and more, dies at 78, family says</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/16/david-lynch-director-of-twin-peaks-blue-velvet-dies-at-78-family-says.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/16/police-detain-man-dressed-in-fire-gear-in-pacific-palisades-after-reported-looting/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-16T17:49:55.000Z</news:publication_date>
+            <news:title>Police detain man dressed in fire gear in Pacific Palisades after reported looting</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/16/police-detain-man-dressed-in-fire-gear-in-pacific-palisades-after-reported-looting.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/16/nasas-stuck-astronaut-steps-out-on-a-spacewalk-after-7-months-in-orbit/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-16T15:20:44.000Z</news:publication_date>
+            <news:title>NASA's stuck astronaut steps out on a spacewalk after 7 months in orbit</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/16/nasas-stuck-astronaut-steps-out-on-a-spacewalk-after-7-months-in-orbit.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2025/01/16/eager-visitors-flock-to-see-spectacular-lava-fountaining-from-kilauea-eruption-in-hawaii/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-16T03:51:02.000Z</news:publication_date>
+            <news:title>Eager visitors flock to see spectacular lava fountaining from Kilauea eruption in Hawaii</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/us/2025/01/16/eager-visitors-flock-to-see-spectacular-lava-fountaining-from-kilauea-eruption-in-hawaii.webp</image:loc>
           </image:image>
         </url></urlset>
