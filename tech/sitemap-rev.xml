@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/20/trumps-inauguration-will-usher-in-a-crypto-friendly-administration-and-with-it-new-state-policies/</loc>
+          <loc>https://majordigest.com/tech/2025/01/20/fresh-nvidia-rtx-5090-and-5080-stock-rumors-again-suggest-that-next-gen-gpus-will-not-be-easy-to-buy/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-20T09:57:25.000Z</news:publication_date>
-            <news:title>Crypto Investment Hopes Rise as Trump's Bitcoin-Friendly Administration Takes Shape</news:title>
+            <news:publication_date>2025-01-20T12:04:13.000Z</news:publication_date>
+            <news:title>Nvidia's RTX 5000 Stock Levels May Be Shaky</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/20/trumps-inauguration-will-usher-in-a-crypto-friendly-administration-and-with-it-new-state-policies.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/20/fresh-nvidia-rtx-5090-and-5080-stock-rumors-again-suggest-that-next-gen-gpus-will-not-be-easy-to-buy.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/20/microsoft-warns-its-january-windows-updates-may-fail-if-this-citrix-software-is-installed/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-20T11:50:16.000Z</news:publication_date>
+            <news:title>Citrix Session Recording Agent Blocking Windows Update: Microsoft Investigates - IT News</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/20/microsoft-warns-its-january-windows-updates-may-fail-if-this-citrix-software-is-installed.webp</image:loc>
           </image:image>
         </url></urlset>
