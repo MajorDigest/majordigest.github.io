@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/21/auto-followed-trump-on-facebook-its-probably-because-you-previously-liked-the-potus-account/</loc>
+          <loc>https://majordigest.com/tech/2025/01/22/these-tech-leaders-have-jobs-in-the-trump-administration/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-21T19:37:40.000Z</news:publication_date>
-            <news:title>Facebook, Instagram Users Followed by Newly Inaugurated President Trump</news:title>
+            <news:publication_date>2025-01-22T03:27:44.000Z</news:publication_date>
+            <news:title>Big Tech Execs Take on Key Roles in Trump Administration</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/21/auto-followed-trump-on-facebook-its-probably-because-you-previously-liked-the-potus-account.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/22/these-tech-leaders-have-jobs-in-the-trump-administration.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/21/apple-will-add-ai-mail-tools-to-macs-and-ipads-this-spring/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-21T13:10:16.000Z</news:publication_date>
+            <news:title>Apple's Mail App to Get AI-Powered Email Summary and Prioritization</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/21/apple-will-add-ai-mail-tools-to-macs-and-ipads-this-spring.webp</image:loc>
           </image:image>
         </url></urlset>
