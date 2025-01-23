@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/18/node-js-set-to-stabilize-type-stripping/</loc>
+          <loc>https://majordigest.com/tech/2025/01/23/musk-clashes-with-openai-ceo-sam-altman-over-trump-supported-stargate-ai-data-center-project/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-18T18:58:44.000Z</news:publication_date>
-            <news:title>Node.js Moves to Stabilize Type Stripping Feature</news:title>
+            <news:publication_date>2025-01-23T00:13:37.000Z</news:publication_date>
+            <news:title>Elon Musk Clashes with OpenAI CEO Over Stargate AI Project</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/18/node-js-set-to-stabilize-type-stripping.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/23/musk-clashes-with-openai-ceo-sam-altman-over-trump-supported-stargate-ai-data-center-project.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/21/the-ai-security-tsunami/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-21T09:00:00.000Z</news:publication_date>
+            <news:title>AI Revolutionizes Cloud Security: Embracing a New Era of Defense and Offense</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/21/the-ai-security-tsunami.webp</image:loc>
           </image:image>
         </url></urlset>
