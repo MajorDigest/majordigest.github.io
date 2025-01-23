@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 23 Jan 2025 22:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 23:23:50 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,15 +19,59 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>The Oval Office &#8216;Stargate Project&#8217; reveal was just more tech industry genuflecting</title>
-          <description><![CDATA[Welcome to AI Decoded, Fast Company’s weekly newsletter that breaks down the most important news in the world of AI. You can sign up to receive this newsletter every week here.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/24/the-oval-office-stargate-project-reveal-was-just-more-tech-industry-genuflecting/</guid>
-          <link>https://majordigest.com/tech/2025/01/24/the-oval-office-stargate-project-reveal-was-just-more-tech-industry-genuflecting/</link>
-          <pubDate>Fri, 24 Jan 2025 01:01:00 GMT</pubDate>
+          <title>OpenAI&#8217;s new Operator is a step into AI&#8217;s agentic future</title>
+          <description><![CDATA[OpenAI announced on Thursday a research preview of Operator, an AI agent that can browse the web and perform tasks for the user. Operator is powered by the Computer-Using Agent (CUA), an AI model that merges GPT-4o’s vision capabilities with reasoning capability.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/24/openais-new-operator-is-a-step-into-ais-agentic-future/</guid>
+          <link>https://majordigest.com/tech/2025/01/24/openais-new-operator-is-a-step-into-ais-agentic-future/</link>
+          <pubDate>Fri, 24 Jan 2025 03:16:06 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/24/the-oval-office-stargate-project-reveal-was-just-more-tech-industry-genuflecting.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/24/the-oval-office-stargate-project-reveal-was-just-more-tech-industry-genuflecting.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/24/openais-new-operator-is-a-step-into-ais-agentic-future.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/24/openais-new-operator-is-a-step-into-ais-agentic-future.webp"/>
           <dc:creator>Mark Sullivan, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Subaru security vulnerability exposed millions of cars to tracking risks</title>
+          <description><![CDATA[Two security researchers discovered a security vulnerability in Subaru’s Starlink-connected vehicles last year that gave them “unrestricted targeted access to all vehicles and customer accounts” across the U.S., Canada, and Japan, according to a Wired report.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/24/subaru-security-vulnerability-exposed-millions-of-cars-to-tracking-risks/</guid>
+          <link>https://majordigest.com/tech/2025/01/24/subaru-security-vulnerability-exposed-millions-of-cars-to-tracking-risks/</link>
+          <pubDate>Fri, 24 Jan 2025 02:51:47 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/24/subaru-security-vulnerability-exposed-millions-of-cars-to-tracking-risks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/24/subaru-security-vulnerability-exposed-millions-of-cars-to-tracking-risks.webp"/>
+          <dc:creator>Jessica Bursztynsky, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Palo Alto Networks firewalls have UEFI flaws, Secure Boot bypasses</title>
+          <description><![CDATA[Researchers have discovered that next-generation firewalls from Palo Alto Networks contain years-old known vulnerabilities in their UEFI firmware — a finding that provides yet more evidence of a broader issue with specialized devices today.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/palo-alto-networks-firewalls-have-uefi-flaws-secure-boot-bypasses/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/palo-alto-networks-firewalls-have-uefi-flaws-secure-boot-bypasses/</link>
+          <pubDate>Thu, 23 Jan 2025 22:50:45 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/palo-alto-networks-firewalls-have-uefi-flaws-secure-boot-bypasses.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/palo-alto-networks-firewalls-have-uefi-flaws-secure-boot-bypasses.webp"/>
+          <dc:creator>csoonline</dc:creator>
+        </item>
+        <item>
+          <title>Trump AI project reignites feud between Musk, Sam Altman</title>
+          <description><![CDATA[Tensions between technology leaders Elon Musk and OpenAI CEO Sam Altman were on full display this week after the Tesla CEO slammed the new artificial intelligence (AI) infrastructure project, Stargate, which is being funded in part by Altman's company.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/tensions-musk-altman-stargate/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/tensions-musk-altman-stargate/</link>
+          <pubDate>Thu, 23 Jan 2025 19:15:59 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/tensions-musk-altman-stargate.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/tensions-musk-altman-stargate.webp"/>
+          <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Nvidia Conference Boosts San Jose Hotel Development</title>
+          <description><![CDATA[San Jose hotel developers aim to finish construction on time for Nvidia's GTC event, expected to bring in significant revenue and economic growth.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/san-jose-economy-hotel-build-property-nvidia-tech-real-estate-develop/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/san-jose-economy-hotel-build-property-nvidia-tech-real-estate-develop/</link>
+          <pubDate>Thu, 23 Jan 2025 19:05:54 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/san-jose-economy-hotel-build-property-nvidia-tech-real-estate-develop.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/san-jose-economy-hotel-build-property-nvidia-tech-real-estate-develop.webp"/>
+          <dc:creator>George Avalos, The Mercury News</dc:creator>
         </item>
         <item>
           <title>Nvidia vs Apple and the world: Apple may have just confirmed its ACDC superchip will use UALink tech</title>
@@ -41,14 +85,25 @@
           <dc:creator>waynewilliams@onmail.com (Wayne Williams), TechRadar</dc:creator>
         </item>
         <item>
-          <title>Critical Vulnerabilities Found in Popular WordPress Theme and Plugin | Cybersecurity News</title>
-          <description><![CDATA[Popular WordPress theme and plugin found carrying vulnerabilities, allowing malicious actors to elevate privileges to admin.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/23/wordpress-users-beware-these-popular-theme-plugins-have-some-major-security-issues/</guid>
-          <link>https://majordigest.com/tech/2025/01/23/wordpress-users-beware-these-popular-theme-plugins-have-some-major-security-issues/</link>
-          <pubDate>Thu, 23 Jan 2025 14:14:09 GMT</pubDate>
+          <title>AMD explains why RX 9070 GPUs won&#8217;t arrive until March &#8211; and this has got me more excited for RDNA 4, I&#8217;ve got to admit</title>
+          <description><![CDATA[AMD looks to be really gunning to take down Nvidia’s RTX 5070, and heated competition in the mid-range GPU space is an exciting prospect.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/amd-explains-why-rx-9070-gpus-wont-arrive-until-march-and-this-has-got-me-more-excited-for-rdna-4-ive-got-to-admit/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/amd-explains-why-rx-9070-gpus-wont-arrive-until-march-and-this-has-got-me-more-excited-for-rdna-4-ive-got-to-admit/</link>
+          <pubDate>Thu, 23 Jan 2025 16:58:42 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/wordpress-users-beware-these-popular-theme-plugins-have-some-major-security-issues.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/wordpress-users-beware-these-popular-theme-plugins-have-some-major-security-issues.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/amd-explains-why-rx-9070-gpus-wont-arrive-until-march-and-this-has-got-me-more-excited-for-rdna-4-ive-got-to-admit.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/amd-explains-why-rx-9070-gpus-wont-arrive-until-march-and-this-has-got-me-more-excited-for-rdna-4-ive-got-to-admit.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Canon reveals the world's first 410MP sensor &#8211; with a staggering 24K resolution and virtually infinite cropping potential</title>
+          <description><![CDATA[Canon's new 410MP full-frame sensor smashes previous records, offering a 24K resolution for images up to 8fps.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/canon-reveals-the-worlds-first-410mp-sensor-with-a-staggering-24k-resolution-and-virtually-infinite-cropping-potential/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/canon-reveals-the-worlds-first-410mp-sensor-with-a-staggering-24k-resolution-and-virtually-infinite-cropping-potential/</link>
+          <pubDate>Thu, 23 Jan 2025 13:53:39 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/canon-reveals-the-worlds-first-410mp-sensor-with-a-staggering-24k-resolution-and-virtually-infinite-cropping-potential.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/canon-reveals-the-worlds-first-410mp-sensor-with-a-staggering-24k-resolution-and-virtually-infinite-cropping-potential.webp"/>
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
@@ -63,6 +118,28 @@
           <dc:creator>JULIA RUBIN, Associated Press, KLAS, CBS News</dc:creator>
         </item>
         <item>
+          <title>Opinion: Carter: How Trump&#8217;s TikTok ban reprieve could actually work</title>
+          <description><![CDATA[Trump is likely to use prosecutorial discretion, a freedom allowing him to decide which laws to enforce, when, and how.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/opinion-carter-how-trumps-tiktok-ban-reprieve-could-actually-work/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/opinion-carter-how-trumps-tiktok-ban-reprieve-could-actually-work/</link>
+          <pubDate>Thu, 23 Jan 2025 13:00:56 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/opinion-carter-how-trumps-tiktok-ban-reprieve-could-actually-work.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/opinion-carter-how-trumps-tiktok-ban-reprieve-could-actually-work.webp"/>
+          <dc:creator>Stephen L. Carter, The Mercury News</dc:creator>
+        </item>
+        <item>
+          <title>UK watchdog targets Apple, Google mobile ecosystems with new digital market powers</title>
+          <description><![CDATA[Google’s Android and Apple’s iOS are facing fresh scrutiny from Britain’s competition watchdog, which unveiled investigations targeting the two tech giants’ mobile phone ecosystems under new powers to crack down on digital market abuses.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/uk-watchdog-targets-apple-google-mobile-ecosystems-with-new-digital-market-powers/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/uk-watchdog-targets-apple-google-mobile-ecosystems-with-new-digital-market-powers/</link>
+          <pubDate>Thu, 23 Jan 2025 12:51:46 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/uk-watchdog-targets-apple-google-mobile-ecosystems-with-new-digital-market-powers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/uk-watchdog-targets-apple-google-mobile-ecosystems-with-new-digital-market-powers.webp"/>
+          <dc:creator>Kelvin Chan, Associated Press, KPRC 2</dc:creator>
+        </item>
+        <item>
           <title>Pakistan's parliament passes bill with sweeping controls on social media</title>
           <description><![CDATA[ISLAMABAD (AP) — Pakistan’s lower house of parliament on Thursday passed a controversial bill that will give the government sweeping controls on social media, including sending users to prison for spreading disinformation.]]></description>
           <guid>https://majordigest.com/tech/2025/01/23/pakistani-government-proposes-sweeping-controls-on-social-media/</guid>
@@ -71,7 +148,7 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/pakistani-government-proposes-sweeping-controls-on-social-media.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/pakistani-government-proposes-sweeping-controls-on-social-media.webp"/>
-          <dc:creator>MUNIR AHMED, Associated Press, Fox 5</dc:creator>
+          <dc:creator>MUNIR AHMED, Associated Press, NewsNation</dc:creator>
         </item>
         <item>
           <title>Screen breaks and the right desk setup offer relief from work-related eye strain</title>
@@ -82,18 +159,29 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/screen-breaks-and-the-right-desk-setup-offer-relief-from-work-related-eye-strain.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/screen-breaks-and-the-right-desk-setup-offer-relief-from-work-related-eye-strain.webp"/>
-          <dc:creator>CATHY BUSSEWITZ, Associated Press, Fox 5</dc:creator>
+          <dc:creator>CATHY BUSSEWITZ, Associated Press, KRON4</dc:creator>
         </item>
         <item>
-          <title>One Tech Tip: How to delete Facebook, Instagram and Threads if you don't like Meta's changes</title>
-          <description><![CDATA[Some Facebook, Instagram and Threads users are wondering whether to delete their accounts after Meta CEO Mark Zuckerberg’s announced changes to content rules and plans to its fact-checking program.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/23/one-tech-tip-how-to-delete-facebook-instagram-and-threads-if-you-dont-like-metas-changes/</guid>
-          <link>https://majordigest.com/tech/2025/01/23/one-tech-tip-how-to-delete-facebook-instagram-and-threads-if-you-dont-like-metas-changes/</link>
-          <pubDate>Thu, 23 Jan 2025 11:42:58 GMT</pubDate>
+          <title>Netflix's Zero Day trailer shows Robert DeNiro as a troubled former US president and I'm already on the edge of my seat</title>
+          <description><![CDATA[Robert DeNiro's new political thriller for Netflix, Zero Day, has certainly got my attention after watching a new trailer.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/netflixs-zero-day-trailer-shows-robert-deniro-as-a-troubled-former-us-president-and-im-already-on-the-edge-of-my-seat/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/netflixs-zero-day-trailer-shows-robert-deniro-as-a-troubled-former-us-president-and-im-already-on-the-edge-of-my-seat/</link>
+          <pubDate>Thu, 23 Jan 2025 12:31:38 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/one-tech-tip-how-to-delete-facebook-instagram-and-threads-if-you-dont-like-metas-changes.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/one-tech-tip-how-to-delete-facebook-instagram-and-threads-if-you-dont-like-metas-changes.webp"/>
-          <dc:creator>Kelvin Chan, Associated Press, Local 4</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/netflixs-zero-day-trailer-shows-robert-deniro-as-a-troubled-former-us-president-and-im-already-on-the-edge-of-my-seat.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/netflixs-zero-day-trailer-shows-robert-deniro-as-a-troubled-former-us-president-and-im-already-on-the-edge-of-my-seat.webp"/>
+          <dc:creator>lucy.buglass@futurenet.com (Lucy Buglass), TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Everything new on Netflix in February 2025</title>
+          <description><![CDATA[Netflix's February 2025 list packs another wave of must-watch titles, as well as the occasional time-waster. Here's everything new on Netflix in February 2025.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/everything-new-on-netflix-in-february-2025/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/everything-new-on-netflix-in-february-2025/</link>
+          <pubDate>Thu, 23 Jan 2025 12:03:49 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/everything-new-on-netflix-in-february-2025.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/everything-new-on-netflix-in-february-2025.webp"/>
+          <dc:creator>rowan.davies@futurenet.com (Rowan Davies), TechRadar</dc:creator>
         </item>
         <item>
           <title>Google to tweak Pixel Watch emergency calls as it tries to fix a problem Apple has had for years</title>
@@ -107,59 +195,125 @@
           <dc:creator>stephen.warwick@futurenet.com (Stephen Warwick), TechRadar</dc:creator>
         </item>
         <item>
-          <title>The M4 MacBook Air could launch with a big display upgrade for multi-taskers</title>
-          <description><![CDATA[The M4 MacBook Air might soon support two external monitors, all without you needing to close the lid.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/23/the-m4-macbook-air-could-launch-with-a-big-display-upgrade-for-multi-taskers/</guid>
-          <link>https://majordigest.com/tech/2025/01/23/the-m4-macbook-air-could-launch-with-a-big-display-upgrade-for-multi-taskers/</link>
-          <pubDate>Thu, 23 Jan 2025 11:36:26 GMT</pubDate>
+          <title>Families sue TikTok in France over teen suicides they say are linked to harmful content</title>
+          <description><![CDATA[CASSIS, France (AP) — In the moment when her world shattered three years ago, Stephanie Mistre found her 15-year-old daughter, Marie, lifeless in the bedroom where she died by suicide.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/families-sue-tiktok-in-france-over-teen-suicides-they-say-are-linked-to-harmful-content/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/families-sue-tiktok-in-france-over-teen-suicides-they-say-are-linked-to-harmful-content/</link>
+          <pubDate>Thu, 23 Jan 2025 06:49:22 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/the-m4-macbook-air-could-launch-with-a-big-display-upgrade-for-multi-taskers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/the-m4-macbook-air-could-launch-with-a-big-display-upgrade-for-multi-taskers.webp"/>
-          <dc:creator>alexblake.techradar@gmail.com (Alex Blake), TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/families-sue-tiktok-in-france-over-teen-suicides-they-say-are-linked-to-harmful-content.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/families-sue-tiktok-in-france-over-teen-suicides-they-say-are-linked-to-harmful-content.webp"/>
+          <dc:creator>TOM NOUVIAN, Associated Press, PIX 11</dc:creator>
         </item>
         <item>
-          <title>MrBeast not quite in the bidding race for TikTok just yet, rep says</title>
-          <description><![CDATA[Jimmy Donaldson — better known online as MrBeast — isn't in the TikTok bidding race just yet, according to a representative for the YouTube star. Donaldson stirred interest in a Jan. 13 post on X saying he’d “buy TikTok so it doesn’t get banned.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/22/mrbeast-not-quite-in-the-bidding-race-for-tiktok-just-yet-rep-says/</guid>
-          <link>https://majordigest.com/tech/2025/01/22/mrbeast-not-quite-in-the-bidding-race-for-tiktok-just-yet-rep-says/</link>
-          <pubDate>Wed, 22 Jan 2025 21:49:54 GMT</pubDate>
+          <title>Apple Faces Major Blow in Unequal-Pay Lawsuit</title>
+          <description><![CDATA[A female employee's discovery of a male colleague's tax form on an office printer has led to a massive unequal-pay lawsuit against Apple, with the company facing significant challenges in its bid to kill the legal action.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/22/apple-gender-discrimination-lawsuit-that-allegedly-started-with-mans-tax-form-on-printer-gets-boost-judge/</guid>
+          <link>https://majordigest.com/tech/2025/01/22/apple-gender-discrimination-lawsuit-that-allegedly-started-with-mans-tax-form-on-printer-gets-boost-judge/</link>
+          <pubDate>Wed, 22 Jan 2025 23:25:29 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/mrbeast-not-quite-in-the-bidding-race-for-tiktok-just-yet-rep-says.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/mrbeast-not-quite-in-the-bidding-race-for-tiktok-just-yet-rep-says.webp"/>
-          <dc:creator>JAMES POLLARD, HALELUYA HADERO and WYATTE GRANTHAM-PHILIPS, Associated Press, KLAS, CBS News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/apple-gender-discrimination-lawsuit-that-allegedly-started-with-mans-tax-form-on-printer-gets-boost-judge.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/apple-gender-discrimination-lawsuit-that-allegedly-started-with-mans-tax-form-on-printer-gets-boost-judge.webp"/>
+          <dc:creator>Ethan Baron, The Mercury News</dc:creator>
         </item>
         <item>
-          <title>Netflix raising prices as subscriptions soar</title>
-          <description><![CDATA[Netflix plans to raise the cost of a subscription after reporting one of its best financial quarters to end 2024. A standard basic plan including advertisements will now cost $17.99, with a premium subscription with no ads running customers $24.99 a month.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/22/netflix-raising-prices-as-subscriptions-soar/</guid>
-          <link>https://majordigest.com/tech/2025/01/22/netflix-raising-prices-as-subscriptions-soar/</link>
-          <pubDate>Wed, 22 Jan 2025 16:51:27 GMT</pubDate>
+          <title>Amazon Closes Quebec Warehouses Amid Labor Dispute</title>
+          <description><![CDATA[Amazon closes all seven warehouses in Quebec, eliminating 1,700 permanent full-time jobs and sparking a labor dispute.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/22/amazon-to-close-7-warehouses-in-the-canadian-province-of-quebec-and-eliminate-1700-jobs/</guid>
+          <link>https://majordigest.com/tech/2025/01/22/amazon-to-close-7-warehouses-in-the-canadian-province-of-quebec-and-eliminate-1700-jobs/</link>
+          <pubDate>Wed, 22 Jan 2025 21:52:50 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/netflix-raising-prices-as-subscriptions-soar.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/netflix-raising-prices-as-subscriptions-soar.webp"/>
-          <dc:creator>Dominick Mastrangelo, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/amazon-to-close-7-warehouses-in-the-canadian-province-of-quebec-and-eliminate-1700-jobs.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/amazon-to-close-7-warehouses-in-the-canadian-province-of-quebec-and-eliminate-1700-jobs.webp"/>
+          <dc:creator>The Associated Press, ABC 4</dc:creator>
         </item>
         <item>
-          <title>Microsoft&#8217;s Patch Tuesday updates: Keeping up with the latest fixes</title>
-          <description><![CDATA[Long before Taco Tuesday became part of the pop-culture vernacular, Tuesdays were synonymous with security — and for anyone in the tech world, they still are.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/21/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes/</guid>
-          <link>https://majordigest.com/tech/2025/01/21/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes/</link>
-          <pubDate>Tue, 21 Jan 2025 21:47:44 GMT</pubDate>
+          <title>2025 global network outage report and internet health check</title>
+          <description><![CDATA[The reliability of services delivered by ISPs, cloud providers and conferencing services is critical for enterprise organizations.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/22/2025-global-network-outage-report-and-internet-health-check/</guid>
+          <link>https://majordigest.com/tech/2025/01/22/2025-global-network-outage-report-and-internet-health-check/</link>
+          <pubDate>Wed, 22 Jan 2025 20:45:34 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/21/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/21/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/2025-global-network-outage-report-and-internet-health-check.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/2025-global-network-outage-report-and-internet-health-check.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Wisconsin man accused of setting fire to congressman's office over TikTok ban charged with arson</title>
+          <description><![CDATA[MADISON, Wis. (AP) — Prosecutors charged a Wisconsin man who allegedly told police he tried to burn down a congressman's office because he was upset with the federal TikTok ban with multiple counts on Wednesday, including arson.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/22/wisconsin-man-accused-of-setting-fire-to-congressmans-office-over-tiktok-ban-charged-with-arson/</guid>
+          <link>https://majordigest.com/tech/2025/01/22/wisconsin-man-accused-of-setting-fire-to-congressmans-office-over-tiktok-ban-charged-with-arson/</link>
+          <pubDate>Wed, 22 Jan 2025 19:49:56 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/wisconsin-man-accused-of-setting-fire-to-congressmans-office-over-tiktok-ban-charged-with-arson.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/wisconsin-man-accused-of-setting-fire-to-congressmans-office-over-tiktok-ban-charged-with-arson.webp"/>
+          <dc:creator>TODD RICHMOND, Associated Press, Fox 5</dc:creator>
+        </item>
+        <item>
+          <title>Trump administration shuts down White House Spanish-language page and social media</title>
+          <description><![CDATA[Within hours of President Donald Trump’s inauguration, the new administration took down the Spanish-language version of the official White House website. The site — currently https://www.whitehouse.gov/es/ — now gives users an “Error 404” message.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/22/trump-administration-shuts-down-white-house-spanish-language-page-social-media/</guid>
+          <link>https://majordigest.com/tech/2025/01/22/trump-administration-shuts-down-white-house-spanish-language-page-social-media/</link>
+          <pubDate>Wed, 22 Jan 2025 17:14:38 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/trump-administration-shuts-down-white-house-spanish-language-page-social-media.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/trump-administration-shuts-down-white-house-spanish-language-page-social-media.webp"/>
+          <dc:creator>FERNANDA FIGUEROA, Associated Press, Fox 5</dc:creator>
+        </item>
+        <item>
+          <title>Silicon Valley bigwigs bask in Trump limelight in major reversal at inauguration</title>
+          <description><![CDATA[Trump scraps Biden executive orders  on technology and artificial intelligence, but has brought Silicon Valley leaders into his close orbit.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/22/silicon-valley-bigwigs-bask-in-trump-limelight-in-major-reversal-at-inauguration/</guid>
+          <link>https://majordigest.com/tech/2025/01/22/silicon-valley-bigwigs-bask-in-trump-limelight-in-major-reversal-at-inauguration/</link>
+          <pubDate>Wed, 22 Jan 2025 14:00:08 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/silicon-valley-bigwigs-bask-in-trump-limelight-in-major-reversal-at-inauguration.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/silicon-valley-bigwigs-bask-in-trump-limelight-in-major-reversal-at-inauguration.webp"/>
+          <dc:creator>Ethan Baron, The Mercury News</dc:creator>
+        </item>
+        <item>
+          <title>Software bill-of-materials docs eyed for Python packages</title>
+          <description><![CDATA[Software bill-of-materials (SBOM) documents would be used in Python packages as a means to improve their “measurability” and to address the problem of “phantom dependencies” in Python packages, under a Python Enhancement Proposal (PEP) now being floated at python.org.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/22/software-bill-of-materials-docs-eyed-for-python-packages/</guid>
+          <link>https://majordigest.com/tech/2025/01/22/software-bill-of-materials-docs-eyed-for-python-packages/</link>
+          <pubDate>Wed, 22 Jan 2025 03:06:08 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/software-bill-of-materials-docs-eyed-for-python-packages.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/software-bill-of-materials-docs-eyed-for-python-packages.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>AI experiment in halfpipe judging at X Games will give snowboarders a glimpse into the future</title>
+          <description><![CDATA[The X Games will experiment judging halfpipe runs this week in Aspen using artificial intelligence, the cutting-edge technology that could someday play a role in the way subjectively judged sports are scored.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/21/ai-experiment-in-halfpipe-judging-at-x-games-will-give-snowboarders-a-glimpse-into-the-future/</guid>
+          <link>https://majordigest.com/tech/2025/01/21/ai-experiment-in-halfpipe-judging-at-x-games-will-give-snowboarders-a-glimpse-into-the-future/</link>
+          <pubDate>Tue, 21 Jan 2025 20:48:37 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/21/ai-experiment-in-halfpipe-judging-at-x-games-will-give-snowboarders-a-glimpse-into-the-future.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/21/ai-experiment-in-halfpipe-judging-at-x-games-will-give-snowboarders-a-glimpse-into-the-future.webp"/>
+          <dc:creator>EDDIE PELLS, Associated Press, KLAS, CBS News</dc:creator>
+        </item>
+        <item>
+          <title>Today&#8217;s AI models have a poor grasp of world history</title>
+          <description><![CDATA[Today’s AI models do a poor job of providing accurate information about world history, according to a new report from the Austrian research institute Complexity Science Hub (CSH).]]></description>
+          <guid>https://majordigest.com/tech/2025/01/21/todays-ai-models-have-a-poor-grasp-of-world-history/</guid>
+          <link>https://majordigest.com/tech/2025/01/21/todays-ai-models-have-a-poor-grasp-of-world-history/</link>
+          <pubDate>Tue, 21 Jan 2025 18:28:32 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/21/todays-ai-models-have-a-poor-grasp-of-world-history.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/21/todays-ai-models-have-a-poor-grasp-of-world-history.webp"/>
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Auto-followed Trump on Facebook? It's probably because you previously liked the POTUS account</title>
-          <description><![CDATA[SAN FRANCISCO (AP) — Some Facebook and Instagram users were surprised to find themselves automatically following the accounts of President Donald Trump or Vice President JD Vance this week after the president was inaugurated — but that's likely because they had previously followed official U.S.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/21/auto-followed-trump-on-facebook-its-probably-because-you-previously-liked-the-potus-account/</guid>
-          <link>https://majordigest.com/tech/2025/01/21/auto-followed-trump-on-facebook-its-probably-because-you-previously-liked-the-potus-account/</link>
-          <pubDate>Tue, 21 Jan 2025 19:37:40 GMT</pubDate>
+          <title>Trump, a populist president, is flanked by tech billionaires at his inauguration</title>
+          <description><![CDATA[NEW YORK (AP) — Some of the most exclusive seats at President Donald Trump’s inauguration on Monday were reserved for powerful tech CEOs who also happen to be among the world’s richest men.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/21/trump-a-populist-president-is-flanked-by-tech-billionaires-at-his-inauguration/</guid>
+          <link>https://majordigest.com/tech/2025/01/21/trump-a-populist-president-is-flanked-by-tech-billionaires-at-his-inauguration/</link>
+          <pubDate>Tue, 21 Jan 2025 03:04:14 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/21/auto-followed-trump-on-facebook-its-probably-because-you-previously-liked-the-potus-account.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/21/auto-followed-trump-on-facebook-its-probably-because-you-previously-liked-the-potus-account.webp"/>
-          <dc:creator>Associated Press, KLAS, CBS News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/21/trump-a-populist-president-is-flanked-by-tech-billionaires-at-his-inauguration.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/21/trump-a-populist-president-is-flanked-by-tech-billionaires-at-his-inauguration.webp"/>
+          <dc:creator>ALI SWENSON, Associated Press, ABC 4</dc:creator>
         </item>
         <item>
           <title>Trump orders government not to infringe on Americans&#8217; speech, calls for censorship investigation</title>
@@ -170,18 +324,7 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/21/trump-orders-government-not-to-infringe-on-americans-speech-calls-for-censorship-investigation.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/21/trump-orders-government-not-to-infringe-on-americans-speech-calls-for-censorship-investigation.webp"/>
-          <dc:creator>ALI SWENSON, Associated Press, KGET 17, NBC</dc:creator>
-        </item>
-        <item>
-          <title>How to manage photos, videos on new laptop with limited space</title>
-          <description><![CDATA[With limited hard drive space, tech expert Kurt “CyberGuy&quot; Knutsson offers these tips for storing large video files and photos.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/20/how-manage-photos-videos-new-laptop-limited-space/</guid>
-          <link>https://majordigest.com/tech/2025/01/20/how-manage-photos-videos-new-laptop-limited-space/</link>
-          <pubDate>Mon, 20 Jan 2025 15:00:34 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/20/how-manage-photos-videos-new-laptop-limited-space.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/20/how-manage-photos-videos-new-laptop-limited-space.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <dc:creator>ALI SWENSON, Associated Press, KRON4</dc:creator>
         </item>
         <item>
           <title>How TikTok grew from a fun app for teens into a potential national security threat</title>
@@ -192,7 +335,7 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/19/how-tiktok-grew-from-a-fun-app-for-teens-into-a-potential-national-security-threat.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/19/how-tiktok-grew-from-a-fun-app-for-teens-into-a-potential-national-security-threat.webp"/>
-          <dc:creator>DAVID HAMILTON, Associated Press, ABC 4</dc:creator>
+          <dc:creator>DAVID HAMILTON, Associated Press, Fox 5</dc:creator>
         </item>
         <item>
           <title>For TikTok users, mourning, frustration and clinging to hope as TikTok ban looms</title>
@@ -203,7 +346,30 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/18/for-tiktok-users-mourning-frustration-and-clinging-to-hope-as-tiktok-ban-looms.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/18/for-tiktok-users-mourning-frustration-and-clinging-to-hope-as-tiktok-ban-looms.webp"/>
-          <dc:creator>WYATTE GRANTHAM-PHILIPS and MAE ANDERSON, Associated Press, ABC 4</dc:creator>
+          <dc:creator>WYATTE GRANTHAM-PHILIPS and MAE ANDERSON, Associated Press, KRON4</dc:creator>
+        </item>
+        <item>
+          <title>TikTok refugees are pouring to Xiaohongshu. Here's what you need to know about the RedNote app</title>
+          <description><![CDATA[WASHINGTON (AP) — As the fate of TikTok hangs in the balance, U.S. TikTok users are flocking to the Chinese social media app Xiaohongshu, also called RedNote – making it the top downloaded app in the U.S.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/17/tiktok-refugees-are-pouring-to-xiaohongshu-heres-what-you-need-to-know-about-the-rednote-app/</guid>
+          <link>https://majordigest.com/tech/2025/01/17/tiktok-refugees-are-pouring-to-xiaohongshu-heres-what-you-need-to-know-about-the-rednote-app/</link>
+          <pubDate>Fri, 17 Jan 2025 22:49:18 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/tiktok-refugees-are-pouring-to-xiaohongshu-heres-what-you-need-to-know-about-the-rednote-app.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/tiktok-refugees-are-pouring-to-xiaohongshu-heres-what-you-need-to-know-about-the-rednote-app.webp"/>
+          <dc:creator>FU TING and DAVID COHEN, Associated Press, KRON4</dc:creator>
+        </item>
+        <item>
+          <title>Carnahan accomplished much of what she came to GSA to do</title>
+          <description><![CDATA[Robin Carnahan, the out-going GSA administrator, said the federal footprint shrunk by 11 million square feet and saved $2 billion in 2024 alone.
+The post Carnahan accomplished much of what she came to GSA to do first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/17/carnahan-accomplished-much-of-what-she-came-to-gsa-to-do/</guid>
+          <link>https://majordigest.com/tech/2025/01/17/carnahan-accomplished-much-of-what-she-came-to-gsa-to-do/</link>
+          <pubDate>Fri, 17 Jan 2025 22:48:15 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/carnahan-accomplished-much-of-what-she-came-to-gsa-to-do.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/carnahan-accomplished-much-of-what-she-came-to-gsa-to-do.webp"/>
+          <dc:creator>Jason Miller, Federal News Network</dc:creator>
         </item>
         <item>
           <title>Who could buy TikTok? Only a few parties are serious about offering</title>
@@ -214,19 +380,7 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/how-much-is-tiktok-worth-and-who-could-buy-it.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/how-much-is-tiktok-worth-and-who-could-buy-it.webp"/>
-          <dc:creator>Associated Press, KGET 17, NBC</dc:creator>
-        </item>
-        <item>
-          <title>Noem calls for &#8216;smaller, more nimble&#8217; CISA during nomination hearing</title>
-          <description><![CDATA[South Dakota Gov. Kristi Noem, Trump's pick to lead DHS, criticized CISA's work on misinformation and said the agency "has gotten far off mission."
-The post Noem calls for ‘smaller, more nimble’ CISA during nomination hearing first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/17/noem-calls-for-smaller-more-nimble-cisa-during-nomination-hearing/</guid>
-          <link>https://majordigest.com/tech/2025/01/17/noem-calls-for-smaller-more-nimble-cisa-during-nomination-hearing/</link>
-          <pubDate>Fri, 17 Jan 2025 18:52:09 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/noem-calls-for-smaller-more-nimble-cisa-during-nomination-hearing.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/noem-calls-for-smaller-more-nimble-cisa-during-nomination-hearing.webp"/>
-          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
+          <dc:creator>Associated Press, KRON4</dc:creator>
         </item>
         <item>
           <title>Bitcoin soars past $100,000 ahead of possible early action on crypto by Trump</title>
@@ -237,17 +391,38 @@ The post Noem calls for ‘smaller, more nimble’ CISA during nomination hearin
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/bitcoin-soars-past-100000-ahead-of-possible-early-action-on-crypto-by-trump.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/bitcoin-soars-past-100000-ahead-of-possible-early-action-on-crypto-by-trump.webp"/>
-          <dc:creator>ALAN SUDERMAN, Associated Press, KGET 17, NBC</dc:creator>
+          <dc:creator>ALAN SUDERMAN, Associated Press, KRON4</dc:creator>
         </item>
         <item>
-          <title>Lenovo to acquire Infinidat to expand its storage folio</title>
-          <description><![CDATA[Lenovo Group has entered into a definitive agreement to acquire Tel Aviv-based enterprise storage provider Infinidat, for an undisclosed sum, to expand its storage offerings.
-The startup provides several offerings, such as InfiniBox, Infinibox SSA, InfiniGuard, and InfuzeOS.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/17/lenovo-to-acquire-infinidat-to-expand-its-storage-folio-2/</guid>
-          <link>https://majordigest.com/tech/2025/01/17/lenovo-to-acquire-infinidat-to-expand-its-storage-folio-2/</link>
-          <pubDate>Fri, 17 Jan 2025 13:11:56 GMT</pubDate>
+          <title>List: Tech moguls at Trump's inauguration</title>
+          <description><![CDATA[The heads of five of the top eight largest companies (by market cap) were seen at Trump's inauguration on Jan. 20.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/17/list-tech-moguls-attending-trumps-inauguration/</guid>
+          <link>https://majordigest.com/tech/2025/01/17/list-tech-moguls-attending-trumps-inauguration/</link>
+          <pubDate>Fri, 17 Jan 2025 12:41:24 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/lenovo-to-acquire-infinidat-to-expand-its-storage-folio-2.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/lenovo-to-acquire-infinidat-to-expand-its-storage-folio-2.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/list-tech-moguls-attending-trumps-inauguration.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/list-tech-moguls-attending-trumps-inauguration.webp"/>
+          <dc:creator>Ashley Soriano, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>Chinese tech firm shares robot training secrets with the world</title>
+          <description><![CDATA[A pioneering artificial intelligence and robotics company from China has developed a repository of over 1 million robotic movements to provide robotic training.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/17/chinese-tech-firm-shares-robot-training-secrets-world/</guid>
+          <link>https://majordigest.com/tech/2025/01/17/chinese-tech-firm-shares-robot-training-secrets-world/</link>
+          <pubDate>Fri, 17 Jan 2025 11:00:38 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/chinese-tech-firm-shares-robot-training-secrets-world.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/chinese-tech-firm-shares-robot-training-secrets-world.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Biden&#8217;s clean AI infrastructure plan could be hanging by a thread</title>
+          <description><![CDATA[An executive order from outgoing US president Joe Biden aimed at advancing the nation’s leadership in AI infrastructure is “welcome and needed in theory, but this one seems rushed and somewhat at odds with the order just passed on AI chip export restrictions,” an analyst said Thursday.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/17/bidens-clean-ai-infrastructure-plan-could-be-hanging-by-a-thread/</guid>
+          <link>https://majordigest.com/tech/2025/01/17/bidens-clean-ai-infrastructure-plan-could-be-hanging-by-a-thread/</link>
+          <pubDate>Fri, 17 Jan 2025 00:41:58 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/17/bidens-clean-ai-infrastructure-plan-could-be-hanging-by-a-thread.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/17/bidens-clean-ai-infrastructure-plan-could-be-hanging-by-a-thread.webp"/>
           <dc:creator>Network World</dc:creator>
         </item></channel></rss>
