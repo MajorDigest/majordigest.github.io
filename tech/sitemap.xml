@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2025/01/25/congress-tech-lags-modern-world/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-25T19:00:00.000Z</news:publication_date>
+            <news:title>Why tech in Congress lags  behind the modern world</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/25/congress-tech-lags-modern-world.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/01/25/families-sue-tiktok-in-france-over-teen-suicides-they-say-are-linked-to-harmful-content/</loc>
           <news:news>
             <news:publication>
@@ -14,34 +28,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/01/25/families-sue-tiktok-in-france-over-teen-suicides-they-say-are-linked-to-harmful-content.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/25/meta-wants-everyone-to-know-that-it-too-is-investing-a-lot-in-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-25T02:14:13.000Z</news:publication_date>
-            <news:title>Meta wants everyone to know that it, too, is investing a lot in AI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/25/meta-wants-everyone-to-know-that-it-too-is-investing-a-lot-in-ai.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/24/new-federal-cio-onboard-at-omb/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-24T22:29:59.000Z</news:publication_date>
-            <news:title>New federal CIO onboard at OMB</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/new-federal-cio-onboard-at-omb.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -59,129 +45,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/24/trumps-move-to-lift-biden-era-ai-rules-sparks-debate-over-fast-tracked-advances-and-potential-risks/</loc>
+          <loc>https://majordigest.com/tech/2025/01/24/modernizing-bps-application-landscape-with-ai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-24T19:23:20.000Z</news:publication_date>
-            <news:title>Trump&#8217;s move to lift Biden-era AI rules sparks debate over fast-tracked advances</news:title>
+            <news:publication_date>2025-01-24T21:05:03.000Z</news:publication_date>
+            <news:title>Modernizing bp&#8217;s application landscape with AI</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/trumps-move-to-lift-biden-era-ai-rules-sparks-debate-over-fast-tracked-advances-and-potential-risks.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/24/modernizing-bps-application-landscape-with-ai.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/24/how-dangerous-are-3d-printers-maybe-enough-for-a-background-check/</loc>
+          <loc>https://majordigest.com/tech/2025/01/24/buyer-beware-asus-q-release-slim-feature-is-reportedly-damaging-gpus-like-the-rtx-5090/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-24T18:04:00.000Z</news:publication_date>
-            <news:title>The New York State Senate Bill: Tackling 3D-Printed Gun Violence</news:title>
+            <news:publication_date>2025-01-24T19:45:14.000Z</news:publication_date>
+            <news:title>Buyer beware: Asus' Q-Release Slim feature is reportedly damaging GPUs like the RTX 5090</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/how-dangerous-are-3d-printers-maybe-enough-for-a-background-check.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/24/buyer-beware-asus-q-release-slim-feature-is-reportedly-damaging-gpus-like-the-rtx-5090.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/24/fbi-claims-north-korean-workers-are-hacking-the-us-companies-which-hired-them/</loc>
+          <loc>https://majordigest.com/tech/2025/01/24/we-need-to-put-human-creativity-at-the-center-of-adtech/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-24T17:08:00.000Z</news:publication_date>
-            <news:title>FBI claims North Korean workers are hacking the US companies which hired them</news:title>
+            <news:publication_date>2025-01-24T19:00:00.000Z</news:publication_date>
+            <news:title>We need to put human creativity at the center of adtech</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/fbi-claims-north-korean-workers-are-hacking-the-us-companies-which-hired-them.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/24/we-need-to-put-human-creativity-at-the-center-of-adtech.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/24/samsung-galaxy-watch-8-latest-rumors-updates-and-what-we-want-to-see/</loc>
+          <loc>https://majordigest.com/tech/2025/01/24/open-ais-new-ai-agent-operator-can-use-the-web-for-you/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-24T12:22:47.000Z</news:publication_date>
-            <news:title>Samsung Galaxy Watch 8: latest rumors, updates, and what we want to see</news:title>
+            <news:publication_date>2025-01-24T18:26:10.000Z</news:publication_date>
+            <news:title>OpenAI&#8217;s new Operator agent can use the web for you</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/samsung-galaxy-watch-8-latest-rumors-updates-and-what-we-want-to-see.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/24/sonys-next-flagship-headphones-leak-in-official-docs-and-now-im-getting-excited/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-24T11:07:32.000Z</news:publication_date>
-            <news:title>Sony's next flagship headphones leak in official docs, and now I'm getting excited</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/sonys-next-flagship-headphones-leak-in-official-docs-and-now-im-getting-excited.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/24/pixel-productivity-upgrade-android/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-24T10:45:00.000Z</news:publication_date>
-            <news:title>A Pixel-inspired productivity upgrade for any Android device</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/pixel-productivity-upgrade-android.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/24/euspa-adjudica-a-gmv-la-nueva-version-del-generador-de-datos-del-servicio-has-de-galileo/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-24T10:03:20.000Z</news:publication_date>
-            <news:title>EUSPA adjudica a GMV la nueva versi&#243;n del generador de datos del servicio HAS de Galileo</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/euspa-adjudica-a-gmv-la-nueva-version-del-generador-de-datos-del-servicio-has-de-galileo.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/24/los-lideres-empresariales-preven-centrar-la-inversion-en-innovacion-eficiencia-y-resiliencia/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-24T08:49:01.000Z</news:publication_date>
-            <news:title>Los l&#237;deres empresariales prev&#233;n centrar la inversi&#243;n en innovaci&#243;n, eficiencia y resiliencia</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/los-lideres-empresariales-preven-centrar-la-inversion-en-innovacion-eficiencia-y-resiliencia.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/24/amds-unpatched-chip-microcode-glitch-may-require-extreme-measures-by-cisos/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-24T01:26:37.000Z</news:publication_date>
-            <news:title>AMD&#8217;s unpatched chip microcode glitch may require extreme measures by CISOs</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/amds-unpatched-chip-microcode-glitch-may-require-extreme-measures-by-cisos.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/24/open-ais-new-ai-agent-operator-can-use-the-web-for-you.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -199,17 +115,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/23/what-to-do-when-you-cant-escape-your-old-boss-on-social-media/</loc>
+          <loc>https://majordigest.com/tech/2025/01/23/powerschool-data-breach/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-23T18:30:00.000Z</news:publication_date>
-            <news:title>What to do when you can&#8217;t escape your old boss on social media</news:title>
+            <news:publication_date>2025-01-23T22:59:13.000Z</news:publication_date>
+            <news:title>Over 60M kids' data may have been stolen: What you need to know</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/what-to-do-when-you-cant-escape-your-old-boss-on-social-media.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/23/powerschool-data-breach.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/23/seeking-growth-uk-competition-regulator-probes-apple-and-google/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-23T18:49:47.000Z</news:publication_date>
+            <news:title>Apple and Google Face Regulatory Probes in the UK</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/23/seeking-growth-uk-competition-regulator-probes-apple-and-google.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/23/the-openjdks-plans-for-java-in-2025/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-23T17:59:28.000Z</news:publication_date>
+            <news:title>The OpenJDK&#8217;s plans for Java in 2025</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/23/the-openjdks-plans-for-java-in-2025.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,76 +171,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/23/sickening-truth-healthcare-data-breaches-reach-all-time-high/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-23T15:00:46.000Z</news:publication_date>
-            <news:title>The sickening truth: Healthcare data breaches reach all-time high</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/sickening-truth-healthcare-data-breaches-reach-all-time-high.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/23/finops-automation-raising-the-bar-on-lowering-cloud-costs/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-23T14:42:52.000Z</news:publication_date>
-            <news:title>FinOps automation: Raising the bar on lowering cloud costs</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/finops-automation-raising-the-bar-on-lowering-cloud-costs.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/23/tips-on-overcoming-the-loss-of-cherished-personal-belongings-in-disasters/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-23T13:20:51.000Z</news:publication_date>
-            <news:title>Tips on overcoming the loss of cherished, personal belongings in disasters</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/tips-on-overcoming-the-loss-of-cherished-personal-belongings-in-disasters.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/23/how-to-cope-when-disasters-strip-away-photos-heirlooms-and-other-pieces-of-the-past/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-23T13:19:57.000Z</news:publication_date>
-            <news:title>How to cope when disasters strip away photos, heirlooms and other pieces of the past</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/how-to-cope-when-disasters-strip-away-photos-heirlooms-and-other-pieces-of-the-past.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/23/google-bigquery-gets-metadata-service-with-iceberg-support/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-23T13:09:43.000Z</news:publication_date>
-            <news:title>Google BigQuery gets metadata service with Iceberg support</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/google-bigquery-gets-metadata-service-with-iceberg-support.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/01/23/pakistani-government-proposes-sweeping-controls-on-social-media/</loc>
           <news:news>
             <news:publication>
@@ -308,6 +182,34 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/01/23/pakistani-government-proposes-sweeping-controls-on-social-media.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/23/screen-breaks-and-the-right-desk-setup-offer-relief-from-work-related-eye-strain/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-23T12:41:59.000Z</news:publication_date>
+            <news:title>Screen breaks and the right desk setup offer relief from work-related eye strain</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/23/screen-breaks-and-the-right-desk-setup-offer-relief-from-work-related-eye-strain.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/23/openai-opposes-data-deletion-demand-in-india-citing-us-legal-constraints/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-23T12:28:04.000Z</news:publication_date>
+            <news:title>OpenAI opposes data deletion demand in India citing US legal constraints</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/23/openai-opposes-data-deletion-demand-in-india-citing-us-legal-constraints.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -325,45 +227,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/23/outlook-for-microsoft-365-office-365-cheat-sheet/</loc>
+          <loc>https://majordigest.com/tech/2025/01/23/trump-pardons-silk-road-creator-ross-ulbricht/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-23T11:00:00.000Z</news:publication_date>
-            <news:title>Outlook for Microsoft 365 cheat sheet</news:title>
+            <news:publication_date>2025-01-23T04:45:42.000Z</news:publication_date>
+            <news:title>Trump pardons Silk Road creator Ross Ulbricht</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/outlook-for-microsoft-365-office-365-cheat-sheet.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/23/trump-pardons-silk-road-creator-ross-ulbricht.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/23/ai-at-work-how-sos-102-is-building-safer-communities-in-kazakhstan/</loc>
+          <loc>https://majordigest.com/tech/2025/01/22/meta-facebook-trump-vance-follow/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-23T05:23:42.000Z</news:publication_date>
-            <news:title>AI at Work: How SOS 102 is Building Safer Communities in Kazakhstan</news:title>
+            <news:publication_date>2025-01-22T22:02:47.000Z</news:publication_date>
+            <news:title>Meta Pushes Back on Claims of Automatic Followers for Trump and Vance</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/ai-at-work-how-sos-102-is-building-safer-communities-in-kazakhstan.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/23/musk-clashes-with-openai-ceo-sam-altman-over-trump-supported-stargate-ai-data-center-project/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-23T03:56:39.000Z</news:publication_date>
-            <news:title>Musk clashes with OpenAI CEO Sam Altman over Trump-supported Stargate AI data center project</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/musk-clashes-with-openai-ceo-sam-altman-over-trump-supported-stargate-ai-data-center-project.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/22/meta-facebook-trump-vance-follow.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -381,30 +269,72 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/21/trump-orders-government-not-to-infringe-on-americans-speech-calls-for-censorship-investigation/</loc>
+          <loc>https://majordigest.com/tech/2025/01/22/trump-administration-shuts-down-white-house-spanish-language-page-social-media/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-21T01:38:08.000Z</news:publication_date>
-            <news:title>Trump orders government not to infringe on Americans&#8217; speech, calls for censorship investigation</news:title>
+            <news:publication_date>2025-01-22T17:14:38.000Z</news:publication_date>
+            <news:title>Trump administration shuts down White House Spanish-language page and social media</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/21/trump-orders-government-not-to-infringe-on-americans-speech-calls-for-censorship-investigation.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/22/trump-administration-shuts-down-white-house-spanish-language-page-social-media.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/19/how-stop-robocalls-your-flip-phone/</loc>
+          <loc>https://majordigest.com/tech/2025/01/22/5-best-home-inventory-apps-protect-your-property-case-emergency/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-19T15:00:02.000Z</news:publication_date>
-            <news:title>How to stop robocalls on your flip phone</news:title>
+            <news:publication_date>2025-01-22T15:00:39.000Z</news:publication_date>
+            <news:title>5 best home inventory apps to protect your property in case of emergency</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/19/how-stop-robocalls-your-flip-phone.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/22/5-best-home-inventory-apps-protect-your-property-case-emergency.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/22/openai-softbank-oracle-lead-500b-project-stargate-to-ramp-up-ai-infra-in-the-us/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-22T07:59:17.000Z</news:publication_date>
+            <news:title>OpenAI, SoftBank, Oracle lead $500B Project Stargate to ramp up AI infra in the US</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/22/openai-softbank-oracle-lead-500b-project-stargate-to-ramp-up-ai-infra-in-the-us.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/21/ai-experiment-in-halfpipe-judging-at-x-games-will-give-snowboarders-a-glimpse-into-the-future/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-21T20:48:37.000Z</news:publication_date>
+            <news:title>AI experiment in halfpipe judging at X Games will give snowboarders a glimpse into the future</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/21/ai-experiment-in-halfpipe-judging-at-x-games-will-give-snowboarders-a-glimpse-into-the-future.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/21/auto-followed-trump-on-facebook-its-probably-because-you-previously-liked-the-potus-account/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-21T19:37:40.000Z</news:publication_date>
+            <news:title>Auto-followed Trump on Facebook? It's probably because you previously liked the POTUS account</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/21/auto-followed-trump-on-facebook-its-probably-because-you-previously-liked-the-potus-account.webp</image:loc>
           </image:image>
         </url></urlset>
