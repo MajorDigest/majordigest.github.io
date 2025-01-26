@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/21/red-hat-unveils-kubernetes-connectivity-solution-to-tame-multi-cloud-chaos/</loc>
+          <loc>https://majordigest.com/tech/2025/01/26/hackers-use-genai-to-attack-more-frequently-and-effectively/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-21T17:17:58.000Z</news:publication_date>
-            <news:title>Red Hat Connectivity Link Simplifies Cloud-Native Application Connectivity</news:title>
+            <news:publication_date>2025-01-26T16:22:20.000Z</news:publication_date>
+            <news:title>Cybersecurity Concerns for 2024: A Disconnect Between CISOs and Board Members</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/21/red-hat-unveils-kubernetes-connectivity-solution-to-tame-multi-cloud-chaos.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/26/hackers-use-genai-to-attack-more-frequently-and-effectively.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/26/crooks-cant-steal-motorcycle-hides-plain-sight/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-26T11:00:29.000Z</news:publication_date>
+            <news:title>Nomoto: The Revolutionary Electric Motorcycle Concept That Challenges Urban Transportation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/26/crooks-cant-steal-motorcycle-hides-plain-sight.webp</image:loc>
           </image:image>
         </url></urlset>
