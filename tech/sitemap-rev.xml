@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/26/sweden-seizes-vessel-suspected-of-sabotage-after-undersea-data-cable-rupture-in-baltic-sea/</loc>
+          <loc>https://majordigest.com/tech/2025/01/27/Businesses-are-struggling-to-address-vulnerabilities-hidden-in-phantom-dependencies/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-26T17:57:01.000Z</news:publication_date>
-            <news:title>Sweden Opens Investigation into Suspected Sabotage on Underwater Fiber Optic Cable</news:title>
+            <news:publication_date>2025-01-27T23:03:00.000Z</news:publication_date>
+            <news:title>Hidden Dependencies Pose Unseen Risks in Modern Software Systems</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/26/sweden-seizes-vessel-suspected-of-sabotage-after-undersea-data-cable-rupture-in-baltic-sea.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/27/Businesses-are-struggling-to-address-vulnerabilities-hidden-in-phantom-dependencies.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/27/amd-exec-hints-that-discrete-rdna-4-gpus-wont-be-in-gaming-laptops-anytime-soon-leaving-nvidias-rtx-5000-cards-unchallenged/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-27T16:53:13.000Z</news:publication_date>
+            <news:title>Amd's Ben Conrad Talks About RDNA 4 Laptops, Or Lack Thereof</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/27/amd-exec-hints-that-discrete-rdna-4-gpus-wont-be-in-gaming-laptops-anytime-soon-leaving-nvidias-rtx-5000-cards-unchallenged.webp</image:loc>
           </image:image>
         </url></urlset>
