@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/28/its-looking-bleak-for-amds-older-gpus-a-file-spotted-in-unofficial-radeon-drivers-further-hints-at-fsr-4s-rdna-4-exclusivity/</loc>
+          <loc>https://majordigest.com/tech/2025/01/27/after-alarming-audit-findings-heres-how-hhs-can-overcome-cloud-security-gaps/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-28T16:39:33.000Z</news:publication_date>
-            <news:title>AMD Radeon Drivers Reveal FSR 4 DLL File: Implications for RDNA 3 and Handheld Gaming PCs</news:title>
+            <news:publication_date>2025-01-27T20:35:45.000Z</news:publication_date>
+            <news:title>HHS Cloud Security Gaps Exposed by Alarming Audit Findings</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/28/its-looking-bleak-for-amds-older-gpus-a-file-spotted-in-unofficial-radeon-drivers-further-hints-at-fsr-4s-rdna-4-exclusivity.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/27/after-alarming-audit-findings-heres-how-hhs-can-overcome-cloud-security-gaps.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/27/prompt-security-adds-code-sanitization-data-leak-prevention-for-github-copilot/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-27T18:06:09.000Z</news:publication_date>
+            <news:title>Prompt Security Upgrades Platform to Enhance AI Code Safety</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/27/prompt-security-adds-code-sanitization-data-leak-prevention-for-github-copilot.webp</image:loc>
           </image:image>
         </url></urlset>
