@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 29 Jan 2025 13:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 14:18:19 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,50 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+        <item>
+          <title>After DeepSeek, the AI giants still have plenty of work left to do</title>
+          <description><![CDATA[The tech industry has long been infatuated with metaphors relating to the original space race. Its favorite one is moon shot, a term it applies to any undertaking of atypical ambition.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/deepseek-vs-openai-microsoft-us-ai-giants/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/deepseek-vs-openai-microsoft-us-ai-giants/</link>
+          <pubDate>Wed, 29 Jan 2025 20:30:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/deepseek-vs-openai-microsoft-us-ai-giants.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/deepseek-vs-openai-microsoft-us-ai-giants.webp"/>
+          <dc:creator>Harry McCracken, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>AI assistants for lawyers are a booming business&#8212;with big risks</title>
+          <description><![CDATA[Illinois lawyer Mathew Kerbis markets himself as the Subscription Attorney, charging businesses and individual clients a monthly rate for legal advice and offering additional services like contract review and legal document drafting for a flat fee.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/ai-assistants-for-lawyers-are-a-booming-business-with-big-risks/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/ai-assistants-for-lawyers-are-a-booming-business-with-big-risks/</link>
+          <pubDate>Wed, 29 Jan 2025 20:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/ai-assistants-for-lawyers-are-a-booming-business-with-big-risks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/ai-assistants-for-lawyers-are-a-booming-business-with-big-risks.webp"/>
+          <dc:creator>Steven Melendez, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>General purpose AI could lead to array of new risks, experts say in report ahead of AI summit</title>
+          <description><![CDATA[LONDON (AP) — Advanced artificial intelligence systems have the potential to create extreme new risks, such as fueling widespread job losses, enabling terrorism or running amok, experts said in a first-of-its-kind international report Wednesday cataloging the range of dangers posed by the technology]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/new-report-outlines-risks-of-artificial-intelligence-in-early-stages/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/new-report-outlines-risks-of-artificial-intelligence-in-early-stages/</link>
+          <pubDate>Wed, 29 Jan 2025 13:26:48 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/new-report-outlines-risks-of-artificial-intelligence-in-early-stages.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/new-report-outlines-risks-of-artificial-intelligence-in-early-stages.webp"/>
+          <dc:creator>KELVIN CHAN, Associated Press, PIX 11</dc:creator>
+        </item>
+        <item>
+          <title>Tesla's Supercharger network gets faster charging speeds in the US, but not all owners are happy about it</title>
+          <description><![CDATA[Tesla says that all North American V4 Superchargers can now deliver up to 325kW… but there’s a catch.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/teslas-supercharger-network-gets-faster-charging-speeds-in-the-us-but-not-all-owners-are-happy-about-it/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/teslas-supercharger-network-gets-faster-charging-speeds-in-the-us-but-not-all-owners-are-happy-about-it/</link>
+          <pubDate>Wed, 29 Jan 2025 12:26:36 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/teslas-supercharger-network-gets-faster-charging-speeds-in-the-us-but-not-all-owners-are-happy-about-it.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/teslas-supercharger-network-gets-faster-charging-speeds-in-the-us-but-not-all-owners-are-happy-about-it.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
         <item>
           <title>Generative AI: The CIO&#8217;s Apollo moment</title>
           <description><![CDATA[The odds of Apollo 11 landing on the moon were shockingly low. Rockets exploded in training, three astronauts were killed in a fire, and Neil Armstrong barely survived a near — fatal test flight.]]></description>
@@ -30,71 +74,125 @@
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>Trump&#8217;s 100% tariff threat on Taiwan chips raises cost, supply chain fears</title>
-          <description><![CDATA[President Donald Trump has suggested plans to impose tariffs of up to 100% on semiconductors imported from Taiwan, aiming to boost US manufacturing but risking higher costs and supply chain disruptions for tech firms and enterprises.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/29/trumps-100-tariff-threat-on-taiwan-chips-raises-cost-supply-chain-fears/</guid>
-          <link>https://majordigest.com/tech/2025/01/29/trumps-100-tariff-threat-on-taiwan-chips-raises-cost-supply-chain-fears/</link>
-          <pubDate>Wed, 29 Jan 2025 09:00:09 GMT</pubDate>
+          <title>Zig-Zag (yes, the rolling papers) just launched a turntable right before the Grammys to say: don't you forget about Dre</title>
+          <description><![CDATA[Zig-Zag's new turntable isn't made of paper and you shouldn't try to smoke it, but it's here in case you forgot about Dre…]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/zig-zag-yes-the-rolling-papers-just-launched-a-turntable-right-before-the-grammys-to-say-dont-you-forget-about-dre/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/zig-zag-yes-the-rolling-papers-just-launched-a-turntable-right-before-the-grammys-to-say-dont-you-forget-about-dre/</link>
+          <pubDate>Wed, 29 Jan 2025 11:57:49 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/trumps-100-tariff-threat-on-taiwan-chips-raises-cost-supply-chain-fears.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/trumps-100-tariff-threat-on-taiwan-chips-raises-cost-supply-chain-fears.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/zig-zag-yes-the-rolling-papers-just-launched-a-turntable-right-before-the-grammys-to-say-dont-you-forget-about-dre.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/zig-zag-yes-the-rolling-papers-just-launched-a-turntable-right-before-the-grammys-to-say-dont-you-forget-about-dre.webp"/>
+          <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>Vatican Calls for Ethical Use of Artificial Intelligence - Vatican Releases Guidelines for AI in Various Sectors</title>
-          <description><![CDATA[Vatican releases guidelines for the ethical use of artificial intelligence, warning against replacing human intelligence with machines and promoting responsible use in sectors like warfare, health care, education, and more.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/29/new-vatican-document-offers-ai-guidelines-from-warfare-to-healthcare/</guid>
-          <link>https://majordigest.com/tech/2025/01/29/new-vatican-document-offers-ai-guidelines-from-warfare-to-healthcare/</link>
-          <pubDate>Wed, 29 Jan 2025 01:35:35 GMT</pubDate>
+          <title>Sophos Report Highlights Cybersecurity Concerns Over GenAI Flaws</title>
+          <description><![CDATA[New research from Sophos reveals widespread concern among IT leaders over potential flaws in generative AI systems, despite 99% considering AI essential for cybersecurity provider selection.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/rise-of-ai-is-causing-many-firms-to-worry-about-their-cybersecurity/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/rise-of-ai-is-causing-many-firms-to-worry-about-their-cybersecurity/</link>
+          <pubDate>Wed, 29 Jan 2025 11:38:32 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/new-vatican-document-offers-ai-guidelines-from-warfare-to-healthcare.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/new-vatican-document-offers-ai-guidelines-from-warfare-to-healthcare.webp"/>
-          <dc:creator>Associated Press, PIX 11</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/rise-of-ai-is-causing-many-firms-to-worry-about-their-cybersecurity.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/rise-of-ai-is-causing-many-firms-to-worry-about-their-cybersecurity.webp"/>
+          <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>How to prioritize AI initiatives: A strategic framework for maximizing ROI</title>
-          <description><![CDATA[“There are only two types of companies in this world, those who are great at AI and everybody else. If you don’t know AI, you are going to fail, period, end of story. You have to understand it, because it will have a significant impact on every single thing that you do. There’s no avoiding it.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/28/how-to-prioritize-ai-initiatives-a-strategic-framework-for-maximizing-roi/</guid>
-          <link>https://majordigest.com/tech/2025/01/28/how-to-prioritize-ai-initiatives-a-strategic-framework-for-maximizing-roi/</link>
-          <pubDate>Tue, 28 Jan 2025 12:02:00 GMT</pubDate>
+          <title>Want to try DeepSeek without the privacy worries? Perplexity AI just launched it on its iOS and web apps</title>
+          <description><![CDATA[If you subscribe to Perplexity Pro you can now use the R1 model from DeepSeek without any privacy concerns.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/want-to-try-deepseek-without-the-privacy-worries-perplexity-ai-just-launched-it-on-its-ios-and-web-apps/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/want-to-try-deepseek-without-the-privacy-worries-perplexity-ai-just-launched-it-on-its-ios-and-web-apps/</link>
+          <pubDate>Wed, 29 Jan 2025 11:22:04 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/28/how-to-prioritize-ai-initiatives-a-strategic-framework-for-maximizing-roi.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/28/how-to-prioritize-ai-initiatives-a-strategic-framework-for-maximizing-roi.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/want-to-try-deepseek-without-the-privacy-worries-perplexity-ai-just-launched-it-on-its-ios-and-web-apps.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/want-to-try-deepseek-without-the-privacy-worries-perplexity-ai-just-launched-it-on-its-ios-and-web-apps.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>US officials probe China&#8217;s DeepSeek AI amid security and privacy scrutiny</title>
+          <description><![CDATA[The Chinese AI app DeepSeek has come under intense scrutiny from both the US and European regulators, raising alarms over national security risks, data privacy concerns, and potential intellectual property theft.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/us-officials-probe-chinas-deepseek-ai-amid-security-and-privacy-scrutiny/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/us-officials-probe-chinas-deepseek-ai-amid-security-and-privacy-scrutiny/</link>
+          <pubDate>Wed, 29 Jan 2025 11:09:21 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/us-officials-probe-chinas-deepseek-ai-amid-security-and-privacy-scrutiny.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/us-officials-probe-chinas-deepseek-ai-amid-security-and-privacy-scrutiny.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Don&#8217;t be so quick to click that Google Calendar invite. It could be a hacker&#8217;s trap</title>
+          <description><![CDATA[A phishing campaign uses Google Calendar to schedule fake meeting invitations that appear legitimate, redirecting targets to phishing sites.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/dont-so-quick-click-google-calendar-invite-could-hackers-trap/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/dont-so-quick-click-google-calendar-invite-could-hackers-trap/</link>
+          <pubDate>Wed, 29 Jan 2025 11:00:16 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/dont-so-quick-click-google-calendar-invite-could-hackers-trap.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/dont-so-quick-click-google-calendar-invite-could-hackers-trap.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>4 tiny Docker images for lightweight containers</title>
+          <description><![CDATA[Docker images can get pretty bulky if you’re not careful. Your typical Docker image includes everything you need to run a particular piece of software (such as the application language’s runtime) and everything those things depend on.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/4-tiny-docker-images-for-lightweight-containers/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/4-tiny-docker-images-for-lightweight-containers/</link>
+          <pubDate>Wed, 29 Jan 2025 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/4-tiny-docker-images-for-lightweight-containers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/4-tiny-docker-images-for-lightweight-containers.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Doing authentication right</title>
+          <description><![CDATA[Any substantial website is going to need to customize itself for individual users. Thus, it is going to have to authenticate those users — that is, let them log in. As a software developer, it is your job to make the whole process as smooth and secure as possible.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/doing-authentication-right/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/doing-authentication-right/</link>
+          <pubDate>Wed, 29 Jan 2025 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/doing-authentication-right.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/doing-authentication-right.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Tecnolog&#237;a y negocio en el &#225;mbito industrial, la convergencia de dos imprescindibles para Cerealto</title>
+          <description><![CDATA[Sobre los hombros de Juan Manuel García Dujo, actual Chief Information Officer (CIO, por sus siglas en inglés) de Cerealto, recae la misión de alinear las TI con los objetivos de negocio.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/29/tecnologia-y-negocio-en-el-ambito-industrial-la-convergencia-de-dos-imprescindibles-para-cerealto-siro-foods/</guid>
+          <link>https://majordigest.com/tech/2025/01/29/tecnologia-y-negocio-en-el-ambito-industrial-la-convergencia-de-dos-imprescindibles-para-cerealto-siro-foods/</link>
+          <pubDate>Wed, 29 Jan 2025 08:18:09 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/tecnologia-y-negocio-en-el-ambito-industrial-la-convergencia-de-dos-imprescindibles-para-cerealto-siro-foods.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/tecnologia-y-negocio-en-el-ambito-industrial-la-convergencia-de-dos-imprescindibles-para-cerealto-siro-foods.webp"/>
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>Stirewalt: DeepSeek sharpens AI arms race</title>
-          <description><![CDATA[The revelation that China’s DeepSeek has built a better artificial intelligence (AI) mousetrap than its much richer American counterparts set off a panic among tech investors Monday, causing the Nasdaq index to plummet.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/28/chinas-deepseek-ai-arms-race/</guid>
-          <link>https://majordigest.com/tech/2025/01/28/chinas-deepseek-ai-arms-race/</link>
-          <pubDate>Tue, 28 Jan 2025 11:00:00 GMT</pubDate>
+          <title>Max just made a big change, and your streaming life will probably get easier</title>
+          <description><![CDATA[Max is making a design change to the homepage of its streaming service by moving the top navigation menu to the left-hand side and tossing in two new options.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/28/max-just-made-a-big-change-and-your-streaming-life-will-probably-get-easier/</guid>
+          <link>https://majordigest.com/tech/2025/01/28/max-just-made-a-big-change-and-your-streaming-life-will-probably-get-easier/</link>
+          <pubDate>Tue, 28 Jan 2025 23:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/28/chinas-deepseek-ai-arms-race.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/28/chinas-deepseek-ai-arms-race.webp"/>
-          <dc:creator>Chris Stirewalt, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/28/max-just-made-a-big-change-and-your-streaming-life-will-probably-get-easier.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/28/max-just-made-a-big-change-and-your-streaming-life-will-probably-get-easier.webp"/>
+          <dc:creator>jacob.krol@futurenet.com (Jacob Krol), TechRadar</dc:creator>
         </item>
         <item>
-          <title>The DeepSeek AI Revolution: Challenging Industry Norms with Ingenious Engineering</title>
-          <description><![CDATA[Chinese AI company DeepSeek has disrupted the industry with its state-of-the-art AI models, achieved without the most powerful chips. The breakthroughs have raised questions about the need for expensive GPUs and top researchers.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/28/how-the-biden-chip-bans-created-a-monster-called-deepseek/</guid>
-          <link>https://majordigest.com/tech/2025/01/28/how-the-biden-chip-bans-created-a-monster-called-deepseek/</link>
-          <pubDate>Tue, 28 Jan 2025 07:45:00 GMT</pubDate>
+          <title>Hidden text "salting" is letting hackers craft devious email attacks to evade detection</title>
+          <description><![CDATA[An email scanner sees a lot more than the recipient, which can be both a good and a bad thing, experts warn.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/28/hidden-text-salting-is-letting-hackers-craft-devious-email-attacks-to-evade-detection/</guid>
+          <link>https://majordigest.com/tech/2025/01/28/hidden-text-salting-is-letting-hackers-craft-devious-email-attacks-to-evade-detection/</link>
+          <pubDate>Tue, 28 Jan 2025 17:02:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/28/how-the-biden-chip-bans-created-a-monster-called-deepseek.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/28/how-the-biden-chip-bans-created-a-monster-called-deepseek.webp"/>
-          <dc:creator>Mark Sullivan, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/28/hidden-text-salting-is-letting-hackers-craft-devious-email-attacks-to-evade-detection.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/28/hidden-text-salting-is-letting-hackers-craft-devious-email-attacks-to-evade-detection.webp"/>
+          <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>Everything wrong with the AI landscape in 2025, hilariously captured in this &#8216;SNL&#8217; sketch</title>
-          <description><![CDATA[“Isn’t AI supposed to make things simpler?” asks a student in a new Saturday Night Live sketch.
-Technically, the answer is yes. Artificial intelligence is often pitched as a future-forward omni-tool for removing friction from everyday tasks.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/28/everything-wrong-with-the-ai-landscape-in-2025-hilariously-captured-in-this-snl-sketch/</guid>
-          <link>https://majordigest.com/tech/2025/01/28/everything-wrong-with-the-ai-landscape-in-2025-hilariously-captured-in-this-snl-sketch/</link>
-          <pubDate>Tue, 28 Jan 2025 06:30:00 GMT</pubDate>
+          <title>DeepSeek's new AI chatbot and ChatGPT answer sensitive questions about China differently</title>
+          <description><![CDATA[Chinese tech startup DeepSeek’s new artificial intelligence chatbot has sparked discussions about the competition between China and the U.S. in AI development, with many users flocking to test the rival of OpenAI's ChatGPT.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/28/deepseeks-new-ai-chatbot-and-chatgpt-answer-sensitive-questions-about-china-differently/</guid>
+          <link>https://majordigest.com/tech/2025/01/28/deepseeks-new-ai-chatbot-and-chatgpt-answer-sensitive-questions-about-china-differently/</link>
+          <pubDate>Tue, 28 Jan 2025 09:48:07 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/28/everything-wrong-with-the-ai-landscape-in-2025-hilariously-captured-in-this-snl-sketch.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/28/everything-wrong-with-the-ai-landscape-in-2025-hilariously-captured-in-this-snl-sketch.webp"/>
-          <dc:creator>Joe Berkowitz, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/28/deepseeks-new-ai-chatbot-and-chatgpt-answer-sensitive-questions-about-china-differently.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/28/deepseeks-new-ai-chatbot-and-chatgpt-answer-sensitive-questions-about-china-differently.webp"/>
+          <dc:creator>Kanis Leung, Associated Press, KPRC 2</dc:creator>
         </item>
         <item>
           <title>Trump says Microsoft is one of the companies eyeing TikTok</title>
@@ -105,75 +203,63 @@ Technically, the answer is yes. Artificial intelligence is often pitched as a fu
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/28/trump-says-microsoft-is-one-of-the-companies-eyeing-tiktok.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/28/trump-says-microsoft-is-one-of-the-companies-eyeing-tiktok.webp"/>
-          <dc:creator>WILL WEISSERT and HALELUYA HADERO, Associated Press, NewsNation</dc:creator>
+          <dc:creator>WILL WEISSERT and HALELUYA HADERO, Associated Press, ABC 4</dc:creator>
         </item>
         <item>
-          <title>TikTok users are prepping for tariffs to raise grocery prices with anti-Trump stickers</title>
-          <description><![CDATA[A small business is cashing in on President Donald Trump’s tariffs with a new viral product: stickers of Donald Trump pointing with the caption “I did that.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/28/tiktok-users-are-prepping-for-tariffs-to-raise-grocery-prices-with-anti-trump-stickers/</guid>
-          <link>https://majordigest.com/tech/2025/01/28/tiktok-users-are-prepping-for-tariffs-to-raise-grocery-prices-with-anti-trump-stickers/</link>
-          <pubDate>Tue, 28 Jan 2025 04:00:00 GMT</pubDate>
+          <title>DeepSeek's rise spooks investors, threatens to upend AI</title>
+          <description><![CDATA[The rise in popularity of a high-performing and cheaply built Chinese artificial intelligence (AI) model has shaken the confidence of investors, while raising larger questions about the future of American-made AI and upping the stakes of Washington’s tech rivalry with Beijing.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/27/us-ai-rival-china-deepseek-rise/</guid>
+          <link>https://majordigest.com/tech/2025/01/27/us-ai-rival-china-deepseek-rise/</link>
+          <pubDate>Mon, 27 Jan 2025 23:22:01 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/28/tiktok-users-are-prepping-for-tariffs-to-raise-grocery-prices-with-anti-trump-stickers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/28/tiktok-users-are-prepping-for-tariffs-to-raise-grocery-prices-with-anti-trump-stickers.webp"/>
-          <dc:creator>Eve Upton-Clark, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/27/us-ai-rival-china-deepseek-rise.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/27/us-ai-rival-china-deepseek-rise.webp"/>
+          <dc:creator>Julia Shapero, The Hill</dc:creator>
         </item>
         <item>
-          <title>How China's DeepSeek shook up US markets, by the numbers</title>
-          <description><![CDATA[News from China upset U.S. markets Monday and disrupted the frenzy that had built up around artificial intelligence.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/27/how-chinas-deepseek-shook-up-us-markets-by-the-numbers/</guid>
-          <link>https://majordigest.com/tech/2025/01/27/how-chinas-deepseek-shook-up-us-markets-by-the-numbers/</link>
-          <pubDate>Mon, 27 Jan 2025 22:07:53 GMT</pubDate>
+          <title>How to pick the right SAST tool</title>
+          <description><![CDATA[Like pretty much any security tool, picking a SAST (static application security testing) tool isn’t a matter of “What’s the best?” but rather “What’s the best for me?” Whether you already have a tool that needs replacing or you’re starting from greenfield, it’s helpful to understand the market so yo]]></description>
+          <guid>https://majordigest.com/tech/2025/01/27/how-to-pick-the-right-sast-tool/</guid>
+          <link>https://majordigest.com/tech/2025/01/27/how-to-pick-the-right-sast-tool/</link>
+          <pubDate>Mon, 27 Jan 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/27/how-chinas-deepseek-shook-up-us-markets-by-the-numbers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/27/how-chinas-deepseek-shook-up-us-markets-by-the-numbers.webp"/>
-          <dc:creator>Associated Press, Local 4</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/27/how-to-pick-the-right-sast-tool.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/27/how-to-pick-the-right-sast-tool.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>After alarming audit findings, here&#8217;s how HHS can overcome cloud security gaps</title>
-          <description><![CDATA[The report highlights the possibility of unauthorized access and control over critical systems.
-The post After alarming audit findings, here’s how HHS can overcome cloud security gaps first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/27/after-alarming-audit-findings-heres-how-hhs-can-overcome-cloud-security-gaps/</guid>
-          <link>https://majordigest.com/tech/2025/01/27/after-alarming-audit-findings-heres-how-hhs-can-overcome-cloud-security-gaps/</link>
-          <pubDate>Mon, 27 Jan 2025 20:35:45 GMT</pubDate>
+          <title>Sweden seizes vessel suspected of 'sabotage' after undersea data cable rupture in Baltic Sea</title>
+          <description><![CDATA[RIGA, Latvia (AP) — Swedish prosecutors announced Sunday night that they have opened a preliminary investigation into suspected aggravated “sabotage” and ordered the detention of a vessel in the Baltic Sea suspected of damaging an underwater fiber optic cable connecting Latvia and the Swedish island]]></description>
+          <guid>https://majordigest.com/tech/2025/01/27/sweden-seizes-vessel-suspected-of-sabotage-after-undersea-data-cable-rupture-in-baltic-sea/</guid>
+          <link>https://majordigest.com/tech/2025/01/27/sweden-seizes-vessel-suspected-of-sabotage-after-undersea-data-cable-rupture-in-baltic-sea/</link>
+          <pubDate>Mon, 27 Jan 2025 07:45:59 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/27/after-alarming-audit-findings-heres-how-hhs-can-overcome-cloud-security-gaps.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/27/after-alarming-audit-findings-heres-how-hhs-can-overcome-cloud-security-gaps.webp"/>
-          <dc:creator>commentators, Federal News Network</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/27/sweden-seizes-vessel-suspected-of-sabotage-after-undersea-data-cable-rupture-in-baltic-sea.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/27/sweden-seizes-vessel-suspected-of-sabotage-after-undersea-data-cable-rupture-in-baltic-sea.webp"/>
+          <dc:creator>Associated Press, PIX 11</dc:creator>
         </item>
         <item>
-          <title>Cell service getting worse? One study suggests that it is</title>
-          <description><![CDATA[The study, from J.D. Power, showed an increase in reported wireless network problems between the first and the second half of 2024.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/27/cell-service-study/</guid>
-          <link>https://majordigest.com/tech/2025/01/27/cell-service-study/</link>
-          <pubDate>Mon, 27 Jan 2025 19:17:34 GMT</pubDate>
+          <title>New federal CIO onboard at OMB</title>
+          <description><![CDATA[Greg Barbaccia takes over for Clare Martorana as the government’s lead technology executive.
+The post New federal CIO onboard at OMB first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/24/new-federal-cio-onboard-at-omb/</guid>
+          <link>https://majordigest.com/tech/2025/01/24/new-federal-cio-onboard-at-omb/</link>
+          <pubDate>Fri, 24 Jan 2025 22:29:59 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/27/cell-service-study.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/27/cell-service-study.webp"/>
-          <dc:creator>Joshua Hallenbeck, NewsNation</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/24/new-federal-cio-onboard-at-omb.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/24/new-federal-cio-onboard-at-omb.webp"/>
+          <dc:creator>Jason Miller, Federal News Network</dc:creator>
         </item>
         <item>
-          <title>The NSA says do these 5 things with your phone right now</title>
-          <description><![CDATA[Here are five easy smartphone rules from the National Security Agency that you can follow to better protect your mobile device from hackers and scammers.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/24/nsa-says-do-5-things-your-phone-right-now/</guid>
-          <link>https://majordigest.com/tech/2025/01/24/nsa-says-do-5-things-your-phone-right-now/</link>
-          <pubDate>Fri, 24 Jan 2025 20:31:38 GMT</pubDate>
+          <title>People are hawking TikTok-loaded phones for thousands on eBay, Facebook</title>
+          <description><![CDATA[People are listing phones preloaded with TikTok for tens of thousands of dollars on eBay, Facebook marketplace and other online storefronts — though it is not clear if there are many buyers at those prices. TikTok was briefly unavailable to U.S.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/24/people-are-hawking-tiktok-loaded-phones-for-thousands-on-ebay-facebook/</guid>
+          <link>https://majordigest.com/tech/2025/01/24/people-are-hawking-tiktok-loaded-phones-for-thousands-on-ebay-facebook/</link>
+          <pubDate>Fri, 24 Jan 2025 21:53:31 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/24/nsa-says-do-5-things-your-phone-right-now.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/24/nsa-says-do-5-things-your-phone-right-now.webp"/>
-          <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>The Navy&#8217;s researchers come up with a robot that operates out of this world</title>
-          <description><![CDATA["We're focused on geosynchronous Earth orbit, where the most valuable real estate in space," said Bernie Kelm.
-The post The Navy’s researchers come up with a robot that operates out of this world first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/24/the-navys-researchers-come-up-with-a-robot-that-operates-out-of-this-world/</guid>
-          <link>https://majordigest.com/tech/2025/01/24/the-navys-researchers-come-up-with-a-robot-that-operates-out-of-this-world/</link>
-          <pubDate>Fri, 24 Jan 2025 18:08:03 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/24/the-navys-researchers-come-up-with-a-robot-that-operates-out-of-this-world.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/24/the-navys-researchers-come-up-with-a-robot-that-operates-out-of-this-world.webp"/>
-          <dc:creator>Tom Temin, Federal News Network</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/24/people-are-hawking-tiktok-loaded-phones-for-thousands-on-ebay-facebook.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/24/people-are-hawking-tiktok-loaded-phones-for-thousands-on-ebay-facebook.webp"/>
+          <dc:creator>BARBARA ORTUTAY, Associated Press, NewsNation</dc:creator>
         </item>
         <item>
           <title>Robotic dog helps those facing mental health and cognitive challenges</title>
@@ -187,125 +273,35 @@ The post The Navy’s researchers come up with a robot that operates out of this
           <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>JetBrains launches AI coding agent</title>
-          <description><![CDATA[JetBrains has launched an AI coding agent, named Junie, with the ability to quickly solve coding tasks that otherwise could take hours, according to JetBrains.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/24/jetbrains-launches-ai-coding-agent/</guid>
-          <link>https://majordigest.com/tech/2025/01/24/jetbrains-launches-ai-coding-agent/</link>
-          <pubDate>Fri, 24 Jan 2025 09:00:00 GMT</pubDate>
+          <title>The sickening truth: Healthcare data breaches reach all-time high</title>
+          <description><![CDATA[Healthcare records for more than 184 million Americans were breached in 2024, but you can take steps to minimize that risk. Kurt the CyberGuy explains.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/sickening-truth-healthcare-data-breaches-reach-all-time-high/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/sickening-truth-healthcare-data-breaches-reach-all-time-high/</link>
+          <pubDate>Thu, 23 Jan 2025 15:00:46 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/24/jetbrains-launches-ai-coding-agent.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/24/jetbrains-launches-ai-coding-agent.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>AMD&#8217;s unpatched chip microcode glitch may require extreme measures by CISOs</title>
-          <description><![CDATA[Due to a partner disclosure, AMD has found itself in the unenviable position of having to confirm the existence of a major cybersecurity problem in its chip microcode before it could post a fix. But that headache is mild compared to those of their customers’ CISOs.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/24/amds-unpatched-chip-microcode-glitch-may-require-extreme-measures-by-cisos/</guid>
-          <link>https://majordigest.com/tech/2025/01/24/amds-unpatched-chip-microcode-glitch-may-require-extreme-measures-by-cisos/</link>
-          <pubDate>Fri, 24 Jan 2025 01:26:37 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/24/amds-unpatched-chip-microcode-glitch-may-require-extreme-measures-by-cisos.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/24/amds-unpatched-chip-microcode-glitch-may-require-extreme-measures-by-cisos.webp"/>
-          <dc:creator>csoonline</dc:creator>
-        </item>
-        <item>
-          <title>Cyber Command&#8217;s order creates &#8216;inflection point&#8217; for DoDIN</title>
-          <description><![CDATA[Lt. Gen. Paul Stanton, commander of JFHQ-DoDIN, said commanders can better manage risks and focus on defending the applications and data that matters the most.
-The post Cyber Command’s order creates ‘inflection point’ for DoDIN first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/23/cyber-commands-order-creates-inflection-point-for-dodin/</guid>
-          <link>https://majordigest.com/tech/2025/01/23/cyber-commands-order-creates-inflection-point-for-dodin/</link>
-          <pubDate>Thu, 23 Jan 2025 18:21:29 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/cyber-commands-order-creates-inflection-point-for-dodin.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/cyber-commands-order-creates-inflection-point-for-dodin.webp"/>
-          <dc:creator>Jason Miller, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Spain's leader wants the EU to &#8216;make social media great again.&#8217; Here's how</title>
-          <description><![CDATA[DAVOS, Switzerland (AP) — Spanish Prime Minister Pedro Sánchez is launching a crusade against what he sees as the downsides of social media.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/23/spains-leader-wants-the-eu-to-make-social-media-great-again-heres-how/</guid>
-          <link>https://majordigest.com/tech/2025/01/23/spains-leader-wants-the-eu-to-make-social-media-great-again-heres-how/</link>
-          <pubDate>Thu, 23 Jan 2025 16:55:19 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/spains-leader-wants-the-eu-to-make-social-media-great-again-heres-how.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/spains-leader-wants-the-eu-to-make-social-media-great-again-heres-how.webp"/>
-          <dc:creator>JOSEPH WILSON and JAMEY KEATEN, Associated Press, KRON4</dc:creator>
-        </item>
-        <item>
-          <title>Tips on overcoming the loss of cherished, personal belongings in disasters</title>
-          <description><![CDATA[Losing important sentimental belongings — those items that represented who you are — can be traumatic for those who go through disasters that destroy homes.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/23/tips-on-overcoming-the-loss-of-cherished-personal-belongings-in-disasters/</guid>
-          <link>https://majordigest.com/tech/2025/01/23/tips-on-overcoming-the-loss-of-cherished-personal-belongings-in-disasters/</link>
-          <pubDate>Thu, 23 Jan 2025 13:20:51 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/tips-on-overcoming-the-loss-of-cherished-personal-belongings-in-disasters.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/tips-on-overcoming-the-loss-of-cherished-personal-belongings-in-disasters.webp"/>
-          <dc:creator>JULIA RUBIN, Associated Press, KLAS, CBS News</dc:creator>
-        </item>
-        <item>
-          <title>How to cope when disasters strip away photos, heirlooms and other pieces of the past</title>
-          <description><![CDATA[They’re the possessions that tell your story: the photos of old friends and relatives. The ring your mom left you. The hand-knit Christmas stockings. Your grandfather's secretary desk and the letters inside.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/23/how-to-cope-when-disasters-strip-away-photos-heirlooms-and-other-pieces-of-the-past/</guid>
-          <link>https://majordigest.com/tech/2025/01/23/how-to-cope-when-disasters-strip-away-photos-heirlooms-and-other-pieces-of-the-past/</link>
-          <pubDate>Thu, 23 Jan 2025 13:19:57 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/how-to-cope-when-disasters-strip-away-photos-heirlooms-and-other-pieces-of-the-past.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/how-to-cope-when-disasters-strip-away-photos-heirlooms-and-other-pieces-of-the-past.webp"/>
-          <dc:creator>JULIA RUBIN, Associated Press, KLAS, CBS News</dc:creator>
-        </item>
-        <item>
-          <title>Amazon to close 7 warehouses in the Canadian province of Quebec and eliminate 1,700 jobs</title>
-          <description><![CDATA[Online retailer Amazon said Wednesday that it's closing all seven of its warehouses in the Canadian province of Quebec in the next two months. The e-commerce giant said the move would provide “even more savings to our customers over the long run.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/22/amazon-to-close-7-warehouses-in-the-canadian-province-of-quebec-and-eliminate-1700-jobs/</guid>
-          <link>https://majordigest.com/tech/2025/01/22/amazon-to-close-7-warehouses-in-the-canadian-province-of-quebec-and-eliminate-1700-jobs/</link>
-          <pubDate>Wed, 22 Jan 2025 21:52:50 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/amazon-to-close-7-warehouses-in-the-canadian-province-of-quebec-and-eliminate-1700-jobs.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/amazon-to-close-7-warehouses-in-the-canadian-province-of-quebec-and-eliminate-1700-jobs.webp"/>
-          <dc:creator>The Associated Press, ABC 4</dc:creator>
-        </item>
-        <item>
-          <title>MrBeast not quite in the bidding race for TikTok just yet, rep says</title>
-          <description><![CDATA[Jimmy Donaldson — better known online as MrBeast — isn't in the TikTok bidding race just yet, according to a representative for the YouTube star. Donaldson stirred interest in a Jan. 13 post on X saying he’d “buy TikTok so it doesn’t get banned.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/22/mrbeast-not-quite-in-the-bidding-race-for-tiktok-just-yet-rep-says/</guid>
-          <link>https://majordigest.com/tech/2025/01/22/mrbeast-not-quite-in-the-bidding-race-for-tiktok-just-yet-rep-says/</link>
-          <pubDate>Wed, 22 Jan 2025 21:49:54 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/mrbeast-not-quite-in-the-bidding-race-for-tiktok-just-yet-rep-says.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/mrbeast-not-quite-in-the-bidding-race-for-tiktok-just-yet-rep-says.webp"/>
-          <dc:creator>JAMES POLLARD, HALELUYA HADERO and WYATTE GRANTHAM-PHILIPS, Associated Press, KRON4</dc:creator>
-        </item>
-        <item>
-          <title>Rethinking federal RFPs in the age of data and AI: Why energy efficiency must be part of the equation</title>
-          <description><![CDATA[Energy efficiency must become a core criterion in federal IT procurement alongside other key factors like cost, performance and security.
-The post Rethinking federal RFPs in the age of data and AI: Why energy efficiency must be part of the equation first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/22/rethinking-federal-rfps-in-the-age-of-data-and-ai-why-energy-efficiency-must-be-part-of-the-equation/</guid>
-          <link>https://majordigest.com/tech/2025/01/22/rethinking-federal-rfps-in-the-age-of-data-and-ai-why-energy-efficiency-must-be-part-of-the-equation/</link>
-          <pubDate>Wed, 22 Jan 2025 21:46:10 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/rethinking-federal-rfps-in-the-age-of-data-and-ai-why-energy-efficiency-must-be-part-of-the-equation.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/rethinking-federal-rfps-in-the-age-of-data-and-ai-why-energy-efficiency-must-be-part-of-the-equation.webp"/>
-          <dc:creator>commentators, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Wisconsin man accused of setting fire to congressman's office over TikTok ban charged with arson</title>
-          <description><![CDATA[MADISON, Wis. (AP) — Prosecutors charged a Wisconsin man who allegedly told police he tried to burn down a congressman's office because he was upset with the federal TikTok ban with multiple counts on Wednesday, including arson.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/22/wisconsin-man-accused-of-setting-fire-to-congressmans-office-over-tiktok-ban-charged-with-arson/</guid>
-          <link>https://majordigest.com/tech/2025/01/22/wisconsin-man-accused-of-setting-fire-to-congressmans-office-over-tiktok-ban-charged-with-arson/</link>
-          <pubDate>Wed, 22 Jan 2025 19:49:56 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/wisconsin-man-accused-of-setting-fire-to-congressmans-office-over-tiktok-ban-charged-with-arson.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/wisconsin-man-accused-of-setting-fire-to-congressmans-office-over-tiktok-ban-charged-with-arson.webp"/>
-          <dc:creator>TODD RICHMOND, Associated Press, KLAS, CBS News</dc:creator>
-        </item>
-        <item>
-          <title>Fox News AI Newsletter: Tech titans sound off on Trump's AI project</title>
-          <description><![CDATA[Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/22/fox-news-ai-newsletter-tech-titans-sound-off-trumps-ai-project/</guid>
-          <link>https://majordigest.com/tech/2025/01/22/fox-news-ai-newsletter-tech-titans-sound-off-trumps-ai-project/</link>
-          <pubDate>Wed, 22 Jan 2025 17:08:04 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/22/fox-news-ai-newsletter-tech-titans-sound-off-trumps-ai-project.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/22/fox-news-ai-newsletter-tech-titans-sound-off-trumps-ai-project.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/sickening-truth-healthcare-data-breaches-reach-all-time-high.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/sickening-truth-healthcare-data-breaches-reach-all-time-high.webp"/>
           <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Pakistan's parliament passes bill with sweeping controls on social media</title>
+          <description><![CDATA[ISLAMABAD (AP) — Pakistan’s lower house of parliament on Thursday passed a controversial bill that will give the government sweeping controls on social media, including sending users to prison for spreading disinformation.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/pakistani-government-proposes-sweeping-controls-on-social-media/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/pakistani-government-proposes-sweeping-controls-on-social-media/</link>
+          <pubDate>Thu, 23 Jan 2025 12:44:17 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/pakistani-government-proposes-sweeping-controls-on-social-media.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/pakistani-government-proposes-sweeping-controls-on-social-media.webp"/>
+          <dc:creator>MUNIR AHMED, Associated Press, KGET 17, NBC</dc:creator>
+        </item>
+        <item>
+          <title>Screen breaks and the right desk setup offer relief from work-related eye strain</title>
+          <description><![CDATA[NEW YORK (AP) — The trouble started every day at around 3 p.m., after Cathy Higgins had spent five or six hours staring at an array of computer screens at her desk. Her university job overseeing research projects involved peering closely at numbers and details on contracts, applications and budgets.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/23/screen-breaks-and-the-right-desk-setup-offer-relief-from-work-related-eye-strain/</guid>
+          <link>https://majordigest.com/tech/2025/01/23/screen-breaks-and-the-right-desk-setup-offer-relief-from-work-related-eye-strain/</link>
+          <pubDate>Thu, 23 Jan 2025 12:41:59 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/23/screen-breaks-and-the-right-desk-setup-offer-relief-from-work-related-eye-strain.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/23/screen-breaks-and-the-right-desk-setup-offer-relief-from-work-related-eye-strain.webp"/>
+          <dc:creator>CATHY BUSSEWITZ, Associated Press, NewsNation</dc:creator>
         </item></channel></rss>
