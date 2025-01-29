@@ -3,17 +3,101 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/28/java-based-organizations-mostly-use-java-for-ai-development-report/</loc>
+          <loc>https://majordigest.com/tech/2025/01/29/generative-ai-the-cios-apollo-moment/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-28T14:00:00.000Z</news:publication_date>
-            <news:title>Java-based organizations mostly use Java for AI development &#8211; report</news:title>
+            <news:publication_date>2025-01-29T12:03:00.000Z</news:publication_date>
+            <news:title>Generative AI: The CIO&#8217;s Apollo moment</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/28/java-based-organizations-mostly-use-java-for-ai-development-report.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/29/generative-ai-the-cios-apollo-moment.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/29/trumps-100-tariff-threat-on-taiwan-chips-raises-cost-supply-chain-fears/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-29T09:00:09.000Z</news:publication_date>
+            <news:title>Trump&#8217;s 100% tariff threat on Taiwan chips raises cost, supply chain fears</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/29/trumps-100-tariff-threat-on-taiwan-chips-raises-cost-supply-chain-fears.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/29/new-vatican-document-offers-ai-guidelines-from-warfare-to-healthcare/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-29T01:35:35.000Z</news:publication_date>
+            <news:title>Vatican Calls for Ethical Use of Artificial Intelligence - Vatican Releases Guidelines for AI in Various Sectors</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/29/new-vatican-document-offers-ai-guidelines-from-warfare-to-healthcare.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/28/how-to-prioritize-ai-initiatives-a-strategic-framework-for-maximizing-roi/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-28T12:02:00.000Z</news:publication_date>
+            <news:title>How to prioritize AI initiatives: A strategic framework for maximizing ROI</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/28/how-to-prioritize-ai-initiatives-a-strategic-framework-for-maximizing-roi.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/28/chinas-deepseek-ai-arms-race/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-28T11:00:00.000Z</news:publication_date>
+            <news:title>Stirewalt: DeepSeek sharpens AI arms race</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/28/chinas-deepseek-ai-arms-race.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/28/how-the-biden-chip-bans-created-a-monster-called-deepseek/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-28T07:45:00.000Z</news:publication_date>
+            <news:title>The DeepSeek AI Revolution: Challenging Industry Norms with Ingenious Engineering</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/28/how-the-biden-chip-bans-created-a-monster-called-deepseek.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/28/everything-wrong-with-the-ai-landscape-in-2025-hilariously-captured-in-this-snl-sketch/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-28T06:30:00.000Z</news:publication_date>
+            <news:title>Everything wrong with the AI landscape in 2025, hilariously captured in this &#8216;SNL&#8217; sketch</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/28/everything-wrong-with-the-ai-landscape-in-2025-hilariously-captured-in-this-snl-sketch.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -31,87 +115,101 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/28/update-exchange-server-or-move-to-the-cloud-say-experts/</loc>
+          <loc>https://majordigest.com/tech/2025/01/28/tiktok-users-are-prepping-for-tariffs-to-raise-grocery-prices-with-anti-trump-stickers/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-28T01:55:38.000Z</news:publication_date>
-            <news:title>Update Exchange Server or move to the cloud, say experts</news:title>
+            <news:publication_date>2025-01-28T04:00:00.000Z</news:publication_date>
+            <news:title>TikTok users are prepping for tariffs to raise grocery prices with anti-Trump stickers</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/28/update-exchange-server-or-move-to-the-cloud-say-experts.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/28/tiktok-users-are-prepping-for-tariffs-to-raise-grocery-prices-with-anti-trump-stickers.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/28/moss-landing-battery-fire-unusually-high-concentrations-of-toxic-metals-found-in-wetlands-near-plant/</loc>
+          <loc>https://majordigest.com/tech/2025/01/27/how-chinas-deepseek-shook-up-us-markets-by-the-numbers/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-28T00:20:01.000Z</news:publication_date>
-            <news:title>Moss Landing battery fire: Unusually high concentrations of toxic metals found in wetlands near plant</news:title>
+            <news:publication_date>2025-01-27T22:07:53.000Z</news:publication_date>
+            <news:title>How China's DeepSeek shook up US markets, by the numbers</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/28/moss-landing-battery-fire-unusually-high-concentrations-of-toxic-metals-found-in-wetlands-near-plant.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/27/how-chinas-deepseek-shook-up-us-markets-by-the-numbers.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/24/now-you-can-control-your-chromebook-with-your-face/</loc>
+          <loc>https://majordigest.com/tech/2025/01/27/after-alarming-audit-findings-heres-how-hhs-can-overcome-cloud-security-gaps/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-24T17:16:37.000Z</news:publication_date>
-            <news:title>Smile! You can now control your Chromebook with your face</news:title>
+            <news:publication_date>2025-01-27T20:35:45.000Z</news:publication_date>
+            <news:title>After alarming audit findings, here&#8217;s how HHS can overcome cloud security gaps</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/now-you-can-control-your-chromebook-with-your-face.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/27/after-alarming-audit-findings-heres-how-hhs-can-overcome-cloud-security-gaps.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/24/more-questions-than-answers-around-trumps-stargate-ai-plans/</loc>
+          <loc>https://majordigest.com/tech/2025/01/27/cell-service-study/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-24T16:21:31.000Z</news:publication_date>
-            <news:title>More questions than answers around Trump&#8217;s Stargate AI plans</news:title>
+            <news:publication_date>2025-01-27T19:17:34.000Z</news:publication_date>
+            <news:title>Cell service getting worse? One study suggests that it is</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/more-questions-than-answers-around-trumps-stargate-ai-plans.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/27/cell-service-study.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/24/data-center-growth-puts-unprecedented-pressure-on-power-grids/</loc>
+          <loc>https://majordigest.com/tech/2025/01/24/nsa-says-do-5-things-your-phone-right-now/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-24T16:02:06.000Z</news:publication_date>
-            <news:title>Data center growth puts unprecedented pressure on power grids</news:title>
+            <news:publication_date>2025-01-24T20:31:38.000Z</news:publication_date>
+            <news:title>The NSA says do these 5 things with your phone right now</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/data-center-growth-puts-unprecedented-pressure-on-power-grids.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/24/nsa-says-do-5-things-your-phone-right-now.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/24/warning-to-fortigate-admins-you-need-to-run-a-compromise-assessment-now/</loc>
+          <loc>https://majordigest.com/tech/2025/01/24/the-navys-researchers-come-up-with-a-robot-that-operates-out-of-this-world/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-24T13:45:12.000Z</news:publication_date>
-            <news:title>FortiGate admins advised to run a compromise assessment</news:title>
+            <news:publication_date>2025-01-24T18:08:03.000Z</news:publication_date>
+            <news:title>The Navy&#8217;s researchers come up with a robot that operates out of this world</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/warning-to-fortigate-admins-you-need-to-run-a-compromise-assessment-now.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/24/the-navys-researchers-come-up-with-a-robot-that-operates-out-of-this-world.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/24/robotic-dog-helps-those-facing-mental-health-cognitive-challenges/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-24T11:00:47.000Z</news:publication_date>
+            <news:title>Robotic dog helps those facing mental health and cognitive challenges</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/24/robotic-dog-helps-those-facing-mental-health-cognitive-challenges.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -129,31 +227,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/24/ready-or-not-here-it-comes-genai-in-2025/</loc>
+          <loc>https://majordigest.com/tech/2025/01/24/amds-unpatched-chip-microcode-glitch-may-require-extreme-measures-by-cisos/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-24T09:00:00.000Z</news:publication_date>
-            <news:title>Ready or not, here it comes: GenAI in 2025</news:title>
+            <news:publication_date>2025-01-24T01:26:37.000Z</news:publication_date>
+            <news:title>AMD&#8217;s unpatched chip microcode glitch may require extreme measures by CISOs</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/24/ready-or-not-here-it-comes-genai-in-2025.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/23/palo-alto-networks-firewalls-have-uefi-flaws-secure-boot-bypasses/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-23T22:50:45.000Z</news:publication_date>
-            <news:title>Palo Alto Networks firewalls have UEFI flaws, Secure Boot bypasses</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/palo-alto-networks-firewalls-have-uefi-flaws-secure-boot-bypasses.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/24/amds-unpatched-chip-microcode-glitch-may-require-extreme-measures-by-cisos.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -199,17 +283,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/23/pakistani-government-proposes-sweeping-controls-on-social-media/</loc>
+          <loc>https://majordigest.com/tech/2025/01/23/how-to-cope-when-disasters-strip-away-photos-heirlooms-and-other-pieces-of-the-past/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-23T12:44:17.000Z</news:publication_date>
-            <news:title>Pakistan's parliament passes bill with sweeping controls on social media</news:title>
+            <news:publication_date>2025-01-23T13:19:57.000Z</news:publication_date>
+            <news:title>How to cope when disasters strip away photos, heirlooms and other pieces of the past</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/pakistani-government-proposes-sweeping-controls-on-social-media.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/23/how-to-cope-when-disasters-strip-away-photos-heirlooms-and-other-pieces-of-the-past.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/22/amazon-to-close-7-warehouses-in-the-canadian-province-of-quebec-and-eliminate-1700-jobs/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-22T21:52:50.000Z</news:publication_date>
+            <news:title>Amazon to close 7 warehouses in the Canadian province of Quebec and eliminate 1,700 jobs</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/22/amazon-to-close-7-warehouses-in-the-canadian-province-of-quebec-and-eliminate-1700-jobs.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,6 +325,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2025/01/22/rethinking-federal-rfps-in-the-age-of-data-and-ai-why-energy-efficiency-must-be-part-of-the-equation/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-22T21:46:10.000Z</news:publication_date>
+            <news:title>Rethinking federal RFPs in the age of data and AI: Why energy efficiency must be part of the equation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/22/rethinking-federal-rfps-in-the-age-of-data-and-ai-why-energy-efficiency-must-be-part-of-the-equation.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/01/22/wisconsin-man-accused-of-setting-fire-to-congressmans-office-over-tiktok-ban-charged-with-arson/</loc>
           <news:news>
             <news:publication>
@@ -241,16 +353,16 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/22/trump-administration-shuts-down-white-house-spanish-language-page-social-media/</loc>
+          <loc>https://majordigest.com/tech/2025/01/22/fox-news-ai-newsletter-tech-titans-sound-off-trumps-ai-project/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-22T17:14:38.000Z</news:publication_date>
-            <news:title>Trump administration shuts down White House Spanish-language page and social media</news:title>
+            <news:publication_date>2025-01-22T17:08:04.000Z</news:publication_date>
+            <news:title>Fox News AI Newsletter: Tech titans sound off on Trump's AI project</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/22/trump-administration-shuts-down-white-house-spanish-language-page-social-media.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/22/fox-news-ai-newsletter-tech-titans-sound-off-trumps-ai-project.webp</image:loc>
           </image:image>
         </url></urlset>

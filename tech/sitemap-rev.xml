@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/29/trump-musk-nasa-astronauts/</loc>
+          <loc>https://majordigest.com/tech/2025/01/29/new-vatican-document-offers-ai-guidelines-from-warfare-to-healthcare/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-29T03:47:46.000Z</news:publication_date>
-            <news:title>Astronauts Stranded in Space: Trump Requests Elon Musk's Help</news:title>
+            <news:publication_date>2025-01-29T01:35:35.000Z</news:publication_date>
+            <news:title>Vatican Calls for Ethical Use of Artificial Intelligence - Vatican Releases Guidelines for AI in Various Sectors</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/29/trump-musk-nasa-astronauts.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/29/new-vatican-document-offers-ai-guidelines-from-warfare-to-healthcare.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/28/how-the-biden-chip-bans-created-a-monster-called-deepseek/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-28T07:45:00.000Z</news:publication_date>
+            <news:title>The DeepSeek AI Revolution: Challenging Industry Norms with Ingenious Engineering</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/28/how-the-biden-chip-bans-created-a-monster-called-deepseek.webp</image:loc>
           </image:image>
         </url></urlset>
