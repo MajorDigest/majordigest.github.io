@@ -3,90 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/31/after-a-week-of-deepseek-freakout-doubts-and-mysteries-remain/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-31T02:30:00.000Z</news:publication_date>
-            <news:title>After a week of DeepSeek freakout, doubts and mysteries remain</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/31/after-a-week-of-deepseek-freakout-doubts-and-mysteries-remain.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/30/microsoft-posts-10-growth-q4-plans-spend-80-billion-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-30T23:21:31.000Z</news:publication_date>
-            <news:title>Microsoft posts 10% growth for Q4 as it plans to spend $80 billion on AI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/microsoft-posts-10-growth-q4-plans-spend-80-billion-ai.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/30/timeline-of-hpes-14-billion-bid-for-juniper/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-30T19:54:32.000Z</news:publication_date>
-            <news:title>Timeline of HPE&#8217;s $14 billion bid for Juniper</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/timeline-of-hpes-14-billion-bid-for-juniper.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/30/how-federal-land-could-generate-lots-of-electricity/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-30T19:46:33.000Z</news:publication_date>
-            <news:title>How federal land could generate lots of electricity</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/how-federal-land-could-generate-lots-of-electricity.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/30/amazon-sues-state-agency-to-block-release-of-company-records-to-bezos-owned-washington-post/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-30T19:17:09.000Z</news:publication_date>
-            <news:title>Amazon sues state agency to block release of company records to Bezos-owned Washington Post</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/amazon-sues-state-agency-to-block-release-of-company-records-to-bezos-owned-washington-post.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/30/us-justice-department-blocks-juniper-sale-to-hpe/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-30T18:33:51.000Z</news:publication_date>
-            <news:title>US Justice Department sues to block HPE&#8217;s $14 billion Juniper buy</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/us-justice-department-blocks-juniper-sale-to-hpe.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/01/30/annoyed-samsung-fans-have-started-a-petition-to-bring-bluetooth-back-to-the-s-pen-and-they-have-a-point/</loc>
           <news:news>
             <news:publication>
@@ -94,94 +10,80 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-01-30T17:55:36.000Z</news:publication_date>
-            <news:title>Angry Samsung Users Petition to Restore Bluetooth to S Pen - A Cause Worth Fighting For?</news:title>
+            <news:title>Annoyed Samsung fans have started a petition to bring Bluetooth back to the S Pen &#8211; and they have a point</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/01/30/annoyed-samsung-fans-have-started-a-petition-to-bring-bluetooth-back-to-the-s-pen-and-they-have-a-point.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/30/us-cyber-agencys-future-role-in-elections-remains-murky-under-the-trump-administration/</loc>
+          <loc>https://majordigest.com/tech/2025/01/30/squarex-discloses-browser-syncjacking-a-new-attack-technique-that-provides-full-browser-and-device-control-putting-millions-at-risk/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-30T17:25:05.000Z</news:publication_date>
-            <news:title>US cybersecurity agency's future role in elections remains murky under the Trump administration</news:title>
+            <news:publication_date>2025-01-30T15:12:27.000Z</news:publication_date>
+            <news:title>SquareX Discloses &#8220;Browser Syncjacking&#8221;, a New Attack Technique that Provides Full Browser and Device Control, Putting Millions at Risk</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/us-cyber-agencys-future-role-in-elections-remains-murky-under-the-trump-administration.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/30/squarex-discloses-browser-syncjacking-a-new-attack-technique-that-provides-full-browser-and-device-control-putting-millions-at-risk.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/30/rx-9070-gpu-could-theoretically-be-an-rtx-5070-killer-im-just-worried-that-amd-may-not-go-for-nvidias-throat-with-pricing/</loc>
+          <loc>https://majordigest.com/tech/2025/01/30/ai-agents-are-proving-remarkably-popular-but-firms-still-face-many-challenges/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-30T14:02:47.000Z</news:publication_date>
-            <news:title>RX 9070 GPU could theoretically be an RTX 5070 killer, I&#8217;m just worried that AMD may not go for Nvidia&#8217;s throat with pricing</news:title>
+            <news:publication_date>2025-01-30T14:00:00.000Z</news:publication_date>
+            <news:title>The Rise of AI Agents in European Businesses: A Study by MuleSoft</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/rx-9070-gpu-could-theoretically-be-an-rtx-5070-killer-im-just-worried-that-amd-may-not-go-for-nvidias-throat-with-pricing.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/30/ai-agents-are-proving-remarkably-popular-but-firms-still-face-many-challenges.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/30/where-to-buy-nvidia-rtx-5090-today/</loc>
+          <loc>https://majordigest.com/tech/2025/01/30/5-reasons-the-enterprise-data-center-will-never-die/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-30T12:55:40.000Z</news:publication_date>
-            <news:title>Where to buy Nvidia RTX 5090: launch day is today, and these are the retailers I'd check</news:title>
+            <news:publication_date>2025-01-30T10:01:00.000Z</news:publication_date>
+            <news:title>5 reasons the enterprise data center will never die</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/where-to-buy-nvidia-rtx-5090-today.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/30/5-reasons-the-enterprise-data-center-will-never-die.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/30/the-nothing-phone-3a-series-is-confirmed-for-march-4-and-a-photo-and-specs-rumor-gives-us-an-idea-of-what-to-expect/</loc>
+          <loc>https://majordigest.com/tech/2025/01/30/critical-role-plays-dungeons-and-dragons-to-help-la-fire-victim/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-30T11:28:25.000Z</news:publication_date>
-            <news:title>Nothing Phone 3a Series Launch Confirmed for March 4 - Specifications Leaked | Android News</news:title>
+            <news:publication_date>2025-01-30T05:31:00.000Z</news:publication_date>
+            <news:title>This group is playing &#8216;Dungeons &#38; Dragons&#8217; to help L.A. fire victims, and you can join in</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/the-nothing-phone-3a-series-is-confirmed-for-march-4-and-a-photo-and-specs-rumor-gives-us-an-idea-of-what-to-expect.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/30/critical-role-plays-dungeons-and-dragons-to-help-la-fire-victim.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/30/psn-accounts-will-now-be-optional-for-some-playstation-games-on-pc-but-there-will-be-incentives-for-users-who-link-them/</loc>
+          <loc>https://majordigest.com/tech/2025/01/29/verizon-brings-ai-suite-to-enterprise-infrastructure-customers/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-30T11:05:20.000Z</news:publication_date>
-            <news:title>PSN accounts will now be optional for some PlayStation games on PC, but there will be 'incentives' for users who link them</news:title>
+            <news:publication_date>2025-01-29T22:12:41.000Z</news:publication_date>
+            <news:title>Verizon brings AI suite to enterprise infrastructure customers</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/psn-accounts-will-now-be-optional-for-some-playstation-games-on-pc-but-there-will-be-incentives-for-users-who-link-them.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/30/browser-use-an-open-source-ai-agent-to-automate-web-based-tasks/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-30T09:00:00.000Z</news:publication_date>
-            <news:title>Browser Use: An open-source AI agent to automate web-based tasks</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/browser-use-an-open-source-ai-agent-to-automate-web-based-tasks.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/29/verizon-brings-ai-suite-to-enterprise-infrastructure-customers.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -191,7 +93,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-29T23:54:55.000Z</news:publication_date>
+            <news:publication_date>2025-01-29T21:19:58.000Z</news:publication_date>
             <news:title>Microsoft reports 10% quarterly profit growth as it works to show AI investments paying off</news:title>
           </news:news>
           <image:image>
@@ -199,129 +101,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/29/ai-powered-automation-set-for-gains-in-2025/</loc>
+          <loc>https://majordigest.com/tech/2025/01/29/deepseek-vs-openai-microsoft-us-ai-giants/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-29T22:16:18.000Z</news:publication_date>
-            <news:title>AI-powered automation set for gains in 2025</news:title>
+            <news:publication_date>2025-01-29T20:30:00.000Z</news:publication_date>
+            <news:title>After DeepSeek, the AI giants still have plenty of work left to do</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/29/ai-powered-automation-set-for-gains-in-2025.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/29/deepseek-vs-openai-microsoft-us-ai-giants.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/29/influencer-voice-tiktok-creator-accent-taking-over-internet/</loc>
+          <loc>https://majordigest.com/tech/2025/01/29/ai-assistants-for-lawyers-are-a-booming-business-with-big-risks/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-29T22:16:00.000Z</news:publication_date>
-            <news:title>The rise of &#8216;influencer voice&#8217;: Why this TikTok creator accent is taking over the internet and maybe the world</news:title>
+            <news:publication_date>2025-01-29T20:00:00.000Z</news:publication_date>
+            <news:title>AI assistants for lawyers are a booming business&#8212;with big risks</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/29/influencer-voice-tiktok-creator-accent-taking-over-internet.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/29/did-deepseek-copy-chatgpt-trump-adviser-thinks-so/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-29T19:19:01.000Z</news:publication_date>
-            <news:title>Did DeepSeek copy ChatGPT to make new AI chatbot? Trump adviser thinks so</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/29/did-deepseek-copy-chatgpt-trump-adviser-thinks-so.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/29/windows-11-a-guide-to-the-updates/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-29T10:42:00.000Z</news:publication_date>
-            <news:title>Windows 11: A guide to the updates</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/29/windows-11-a-guide-to-the-updates.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/29/now-us-government-agencies-can-use-openais-chatgpt-too/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-29T04:21:51.000Z</news:publication_date>
-            <news:title>Now US government agencies can use OpenAI&#8217;s ChatGPT too</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/29/now-us-government-agencies-can-use-openais-chatgpt-too.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/29/openai-chatgpt-gov-for-government-workers-trump-administration/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-29T03:30:00.000Z</news:publication_date>
-            <news:title>OpenAI announces more secure ChatGPT for government workers, Trump administration</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/29/openai-chatgpt-gov-for-government-workers-trump-administration.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/28/deepseeks-new-ai-chatbot-and-chatgpt-answer-sensitive-questions-about-china-differently/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-28T16:36:39.000Z</news:publication_date>
-            <news:title>DeepSeek's new AI chatbot and ChatGPT answer sensitive questions about China differently</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/28/deepseeks-new-ai-chatbot-and-chatgpt-answer-sensitive-questions-about-china-differently.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/28/a-distributed-state-of-mind-event-driven-multi-agent-systems/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-28T09:00:00.000Z</news:publication_date>
-            <news:title>A distributed state of mind: Event-driven multi-agent systems</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/28/a-distributed-state-of-mind-event-driven-multi-agent-systems.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/28/top-8-outages-of-2024/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-28T08:00:00.000Z</news:publication_date>
-            <news:title>Top 8 outages of 2024</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/28/top-8-outages-of-2024.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/29/ai-assistants-for-lawyers-are-a-booming-business-with-big-risks.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -339,59 +143,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/27/cisco-latest-news-and-insights/</loc>
+          <loc>https://majordigest.com/tech/2025/01/27/11-cutting-edge-programming-languages-to-learn-now/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-27T14:23:48.000Z</news:publication_date>
-            <news:title>Cisco: Latest news and insights</news:title>
+            <news:publication_date>2025-01-27T09:00:00.000Z</news:publication_date>
+            <news:title>11 cutting-edge programming languages to learn now</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/27/cisco-latest-news-and-insights.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/27/high-speed-ethernet-switches-a-bright-spot-in-network-forecasts/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-27T14:10:18.000Z</news:publication_date>
-            <news:title>High-speed Ethernet switches a bright spot in network forecasts</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/27/high-speed-ethernet-switches-a-bright-spot-in-network-forecasts.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/27/scammers-find-sneaky-way-bypass-your-iphones-safety-features/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-27T11:00:09.000Z</news:publication_date>
-            <news:title>Scammers find sneaky way to bypass your iPhone's safety features</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/27/scammers-find-sneaky-way-bypass-your-iphones-safety-features.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/01/27/sweden-seizes-vessel-suspected-of-sabotage-after-undersea-data-cable-rupture-in-baltic-sea/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-01-27T07:45:59.000Z</news:publication_date>
-            <news:title>Sweden seizes vessel suspected of 'sabotage' after undersea data cable rupture in Baltic Sea</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/27/sweden-seizes-vessel-suspected-of-sabotage-after-undersea-data-cable-rupture-in-baltic-sea.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/27/11-cutting-edge-programming-languages-to-learn-now.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -409,44 +171,58 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/26/crooks-cant-steal-motorcycle-hides-plain-sight/</loc>
+          <loc>https://majordigest.com/tech/2025/01/25/families-sue-tiktok-in-france-over-teen-suicides-they-say-are-linked-to-harmful-content/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-26T11:00:29.000Z</news:publication_date>
-            <news:title>Crooks can't steal this motorcycle that hides in plain sight</news:title>
+            <news:publication_date>2025-01-25T15:19:44.000Z</news:publication_date>
+            <news:title>Families sue TikTok in France over teen suicides they say are linked to harmful content</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/26/crooks-cant-steal-motorcycle-hides-plain-sight.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/25/families-sue-tiktok-in-france-over-teen-suicides-they-say-are-linked-to-harmful-content.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/25/fox-news-ai-newsletter-musk-vs-altman/</loc>
+          <loc>https://majordigest.com/tech/2025/01/24/new-federal-cio-onboard-at-omb/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-25T13:00:36.000Z</news:publication_date>
-            <news:title>Fox News AI Newsletter: Musk vs. Altman</news:title>
+            <news:publication_date>2025-01-24T22:29:59.000Z</news:publication_date>
+            <news:title>New federal CIO onboard at OMB</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/25/fox-news-ai-newsletter-musk-vs-altman.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/24/new-federal-cio-onboard-at-omb.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/01/23/powerschool-data-breach/</loc>
+          <loc>https://majordigest.com/tech/2025/01/24/people-are-hawking-tiktok-loaded-phones-for-thousands-on-ebay-facebook/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-23T22:59:13.000Z</news:publication_date>
-            <news:title>Over 60M kids' data may have been stolen: What you need to know</news:title>
+            <news:publication_date>2025-01-24T21:53:31.000Z</news:publication_date>
+            <news:title>People are hawking TikTok-loaded phones for thousands on eBay, Facebook</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/23/powerschool-data-breach.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/24/people-are-hawking-tiktok-loaded-phones-for-thousands-on-ebay-facebook.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/24/nsa-says-do-5-things-your-phone-right-now/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-24T20:31:38.000Z</news:publication_date>
+            <news:title>The NSA says do these 5 things with your phone right now</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/24/nsa-says-do-5-things-your-phone-right-now.webp</image:loc>
           </image:image>
         </url></urlset>
