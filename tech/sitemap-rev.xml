@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/29/assessing-the-future-for-ai-pcs-what-it-execs-are-saying/</loc>
+          <loc>https://majordigest.com/tech/2025/01/29/microsoft-reports-10-quarterly-profit-growth-as-it-works-to-show-ai-investments-paying-off/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-29T18:30:28.000Z</news:publication_date>
-            <news:title>The Rise of AI PCs: A New Era in Digital Infrastructure</news:title>
+            <news:publication_date>2025-01-29T23:54:55.000Z</news:publication_date>
+            <news:title>Microsoft Sees 10% Profit Growth, Beats Expectations Despite Cloud Computing Miss</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/29/assessing-the-future-for-ai-pcs-what-it-execs-are-saying.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/29/microsoft-reports-10-quarterly-profit-growth-as-it-works-to-show-ai-investments-paying-off.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/29/us-officials-probe-chinas-deepseek-ai-amid-security-and-privacy-scrutiny/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-29T11:09:21.000Z</news:publication_date>
+            <news:title>The Rise of DeepSeek: A Wake-Up Call for the American AI Industry</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/29/us-officials-probe-chinas-deepseek-ai-amid-security-and-privacy-scrutiny.webp</image:loc>
           </image:image>
         </url></urlset>
