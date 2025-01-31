@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/30/ai-investments-face-integration-compliance-and-skills-challenges-survey/</loc>
+          <loc>https://majordigest.com/tech/2025/01/29/meta-posts-sharply-higher-q4-profit-revenue-topping-wall-streets-expectations/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-30T18:05:55.000Z</news:publication_date>
-            <news:title>Network Engineers See Value in AI, but Anticipate Barriers</news:title>
+            <news:publication_date>2025-01-29T22:05:04.000Z</news:publication_date>
+            <news:title>Meta Platforms Sees Revenue Growth Amid AI Ambitions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/ai-investments-face-integration-compliance-and-skills-challenges-survey.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/29/meta-posts-sharply-higher-q4-profit-revenue-topping-wall-streets-expectations.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/29/unitedhealth-cyberattack-exposes-190-million-largest-us-healthcare-data-breach/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-29T15:00:46.000Z</news:publication_date>
+            <news:title>UnitedHealth Confirms Ransomware Attack Affects 190 Million Americans</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/29/unitedhealth-cyberattack-exposes-190-million-largest-us-healthcare-data-breach.webp</image:loc>
           </image:image>
         </url></urlset>
