@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 01 Feb 2025 12:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 13:22:22 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>HPE-Juniper Acquisition: A Timeline of Key Events and Regulatory Scrutiny</title>
-          <description><![CDATA[Hewlett Packard Enterprise's proposed acquisition of Juniper Networks has sparked significant regulatory scrutiny worldwide, with the US Department of Justice suing to block the deal.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/30/timeline-of-hpes-14-billion-bid-for-juniper/</guid>
-          <link>https://majordigest.com/tech/2025/01/30/timeline-of-hpes-14-billion-bid-for-juniper/</link>
-          <pubDate>Thu, 30 Jan 2025 19:54:32 GMT</pubDate>
+          <title>Nvidia's DLSS 4 Sets Bar for AMD's FSR 4: Can Team Red Keep Up?</title>
+          <description><![CDATA[Nvidia's new DLSS 4 transformer model has set the bar high for AMD's FSR 4, but will Team Red be able to compete? We take a closer look at the implications of FSR 4's performance mode and potential exclusivity to RDNA 4 GPUs.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/31/nvidias-dlss-4-is-amazing-heres-what-amds-fsr-4-needs-to-do-to-take-it-on/</guid>
+          <link>https://majordigest.com/tech/2025/01/31/nvidias-dlss-4-is-amazing-heres-what-amds-fsr-4-needs-to-do-to-take-it-on/</link>
+          <pubDate>Fri, 31 Jan 2025 17:05:34 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/30/timeline-of-hpes-14-billion-bid-for-juniper.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/30/timeline-of-hpes-14-billion-bid-for-juniper.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/31/nvidias-dlss-4-is-amazing-heres-what-amds-fsr-4-needs-to-do-to-take-it-on.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/31/nvidias-dlss-4-is-amazing-heres-what-amds-fsr-4-needs-to-do-to-take-it-on.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Microsoft Opens Up OpenAI's o1 Model to All Copilot Users</title>
+          <description><![CDATA[Microsoft makes OpenAI's reasoning model o1 free for all users of its AI assistant Copilot]]></description>
+          <guid>https://majordigest.com/tech/2025/01/31/microsoft-makes-openais-o1-model-free-for-copilot-users/</guid>
+          <link>https://majordigest.com/tech/2025/01/31/microsoft-makes-openais-o1-model-free-for-copilot-users/</link>
+          <pubDate>Fri, 31 Jan 2025 15:04:49 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/31/microsoft-makes-openais-o1-model-free-for-copilot-users.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/31/microsoft-makes-openais-o1-model-free-for-copilot-users.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
