@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/01/30/microsoft-ai-investments-cause-cloud-operating-income-growth-to-plunge/</loc>
+          <loc>https://majordigest.com/tech/2025/01/31/doj-block-hewlett-packard-acquisition/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-01-30T22:25:58.000Z</news:publication_date>
-            <news:title>Microsoft's Intelligent Cloud Segment Slows Down Amid Booming Demand for AI Infrastructure</news:title>
+            <news:publication_date>2025-01-31T15:22:18.000Z</news:publication_date>
+            <news:title>Hewlett Packard's $14 Billion Juniper Networks Acquisition Sued by DOJ</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/01/30/microsoft-ai-investments-cause-cloud-operating-income-growth-to-plunge.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/31/doj-block-hewlett-packard-acquisition.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/01/31/disability-monitoring-tool-leaked-personal-information-online/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-01-31T15:02:00.000Z</news:publication_date>
+            <news:title>AngelSense Exposed: GPS Tracking Device Company's Database Left Unprotected - Data Leak Concerns</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/01/31/disability-monitoring-tool-leaked-personal-information-online.webp</image:loc>
           </image:image>
         </url></urlset>
