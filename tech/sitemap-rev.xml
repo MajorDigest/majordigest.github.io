@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/03/the-samsung-galaxy-s25-ultra-seemingly-scratches-more-easily-than-its-predecessor/</loc>
+          <loc>https://majordigest.com/tech/2025/02/04/openai-reveals-new-ai-tool-that-can-do-online-research-for-you/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-03T10:14:17.000Z</news:publication_date>
-            <news:title>Galaxy S25 Ultra's Screen Scratches Easier Than Expected, Drop Resistance Better</news:title>
+            <news:publication_date>2025-02-04T04:07:15.000Z</news:publication_date>
+            <news:title>OpenAI Unveils Deep Research: A Revolutionary AI Tool</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/03/the-samsung-galaxy-s25-ultra-seemingly-scratches-more-easily-than-its-predecessor.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/04/openai-reveals-new-ai-tool-that-can-do-online-research-for-you.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/03/dramatic-drop-in-monarch-butterfly-count-nears-record-30-year-low/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-03T21:58:50.000Z</news:publication_date>
+            <news:title>The Western Monarch Butterfly Population Hits Record Low | News</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/03/dramatic-drop-in-monarch-butterfly-count-nears-record-30-year-low.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/03/gemini-can-now-use-python-code-to-create-charts-about-your-google-sheets-data/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-03T12:04:00.000Z</news:publication_date>
+            <news:title>Google's Gemini Upgrade Revolutionizes Google Sheets Data Analysis</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/03/gemini-can-now-use-python-code-to-create-charts-about-your-google-sheets-data.webp</image:loc>
           </image:image>
         </url></urlset>
