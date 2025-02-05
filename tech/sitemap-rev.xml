@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/01/wheeled-wonder-robot-dog-shows-off-crazy-dance-moves-all-kinds-tough-terrain/</loc>
+          <loc>https://majordigest.com/tech/2025/02/04/automated-builds-tests-and-quality-gates-are-key-to-software-quality-report/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-01T11:00:26.000Z</news:publication_date>
-            <news:title>The Lynx: Deep Robotics' Revolutionary Quadruped Robot</news:title>
+            <news:publication_date>2025-02-04T22:54:30.000Z</news:publication_date>
+            <news:title>Software Quality Report 2024: Key Findings and Recommendations</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/01/wheeled-wonder-robot-dog-shows-off-crazy-dance-moves-all-kinds-tough-terrain.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/04/automated-builds-tests-and-quality-gates-are-key-to-software-quality-report.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/04/sick-of-your-macbook-starting-when-you-open-the-lid-apple-has-just-revealed-a-fix/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-04T11:53:45.000Z</news:publication_date>
+            <news:title>Apple Reveals How to Prevent MacBook from Automatically Turning On - A Power-User Fix</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/04/sick-of-your-macbook-starting-when-you-open-the-lid-apple-has-just-revealed-a-fix.webp</image:loc>
           </image:image>
         </url></urlset>
