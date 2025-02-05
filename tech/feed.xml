@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 05 Feb 2025 22:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 23:18:05 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,6 +18,50 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
+        <item>
+          <title>Amazon&#8217;s Alexa generative AI upgrade is finally coming after delays</title>
+          <description><![CDATA[Amazon is set to release its long-awaited—and delayed—Alexa generative artificial intelligence voice service, said three people familiar with the matter, and has scheduled a press event for later this month to preview it.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/06/alexa-generative-ai-upgrade-coming-after-delays-amazon/</guid>
+          <link>https://majordigest.com/tech/2025/02/06/alexa-generative-ai-upgrade-coming-after-delays-amazon/</link>
+          <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/06/alexa-generative-ai-upgrade-coming-after-delays-amazon.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/06/alexa-generative-ai-upgrade-coming-after-delays-amazon.webp"/>
+          <dc:creator>Reuters, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>DeepSeek's Ties to China Mobile Raise National Security Concerns</title>
+          <description><![CDATA[Security researchers have found computer code on DeepSeek's website that links the chatbot to China Mobile, a state-owned telecommunications company barred from operating in the United States.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/06/chinas-deepseek-web-version-raising-security-alarms-heres-why/</guid>
+          <link>https://majordigest.com/tech/2025/02/06/chinas-deepseek-web-version-raising-security-alarms-heres-why/</link>
+          <pubDate>Thu, 06 Feb 2025 00:13:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/06/chinas-deepseek-web-version-raising-security-alarms-heres-why.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/06/chinas-deepseek-web-version-raising-security-alarms-heres-why.webp"/>
+          <dc:creator>Associated Press, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Man jailed over police AI program, then freed 17 months after victim raised doubts</title>
+          <description><![CDATA[A grainy surveillance photo of an assault suspect on St. Louis' Metrolink led a computer facial recognition program to identify Chris Gatlin.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/05/police-ai-wrongful-arrest/</guid>
+          <link>https://majordigest.com/tech/2025/02/05/police-ai-wrongful-arrest/</link>
+          <pubDate>Wed, 05 Feb 2025 23:01:45 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/police-ai-wrongful-arrest.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/police-ai-wrongful-arrest.webp"/>
+          <dc:creator>Chris Hayes, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>Workday to cut 1,750 jobs, shift focus to AI and global expansion</title>
+          <description><![CDATA[Workday said Wednesday it will lay off 1,750 employees, roughly 8.5% of its workforce, as part of a restructuring plan to invest more heavily in artificial intelligence (AI) and accelerate international growth.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/05/workday-to-cut-1750-jobs-shift-focus-to-ai-and-global-expansion/</guid>
+          <link>https://majordigest.com/tech/2025/02/05/workday-to-cut-1750-jobs-shift-focus-to-ai-and-global-expansion/</link>
+          <pubDate>Wed, 05 Feb 2025 21:39:22 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/workday-to-cut-1750-jobs-shift-focus-to-ai-and-global-expansion.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/workday-to-cut-1750-jobs-shift-focus-to-ai-and-global-expansion.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
         <item>
           <title>EXL&#8217;s Insurance LLM transforms claims and underwriting</title>
           <description><![CDATA[As insurance companies embrace generative AI (genAI) to address longstanding operational inefficiencies, they’re discovering that general-purpose large language models (LLMs) often fall short in solving their unique challenges.]]></description>
@@ -30,193 +74,60 @@
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>Windows 11&#8217;s Start menu search gets new, clearer labels, as Microsoft tries to avoid EU regulation trouble</title>
-          <description><![CDATA[Microsoft is updating Windows 11’s Start menu search in the EEA (European Economic Area) to comply with EU rules, separating on-device and Bing web search while adding more user control options.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/windows-11s-start-menu-search-gets-new-clearer-labels-as-microsoft-tries-to-avoid-eu-regulation-trouble/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/windows-11s-start-menu-search-gets-new-clearer-labels-as-microsoft-tries-to-avoid-eu-regulation-trouble/</link>
-          <pubDate>Wed, 05 Feb 2025 16:49:52 GMT</pubDate>
+          <title>East Bay tech company eyes 1,000-plus global layoffs, office space cuts</title>
+          <description><![CDATA[A big East Bay tech company warned on Wednesday that it plans to slash well over 1,000 jobs even as it pushes into AI opportunities.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/05/bay-area-tech-jobs-work-layoff-pleasanton-economy-workday-property/</guid>
+          <link>https://majordigest.com/tech/2025/02/05/bay-area-tech-jobs-work-layoff-pleasanton-economy-workday-property/</link>
+          <pubDate>Wed, 05 Feb 2025 20:40:14 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/windows-11s-start-menu-search-gets-new-clearer-labels-as-microsoft-tries-to-avoid-eu-regulation-trouble.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/windows-11s-start-menu-search-gets-new-clearer-labels-as-microsoft-tries-to-avoid-eu-regulation-trouble.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>AI and scientists unite to decipher old scrolls charred by the Vesuvius volcano</title>
-          <description><![CDATA[UK scientists have announced what they term a “historic breakthrough,” after the first image of the inside of a scroll carbonized by a volcanic eruption 2,000 years ago was uncovered.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/ai-and-scientists-unite-to-decipher-old-scrolls-charred-by-the-vesuvius-volcano/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/ai-and-scientists-unite-to-decipher-old-scrolls-charred-by-the-vesuvius-volcano/</link>
-          <pubDate>Wed, 05 Feb 2025 16:01:12 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/ai-and-scientists-unite-to-decipher-old-scrolls-charred-by-the-vesuvius-volcano.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/ai-and-scientists-unite-to-decipher-old-scrolls-charred-by-the-vesuvius-volcano.webp"/>
-          <dc:creator>Jill Lawless And Pan Pylas, Associated Press, KPRC 2</dc:creator>
-        </item>
-        <item>
-          <title>Warren finds common ground with Trump over debanking concerns</title>
-          <description><![CDATA[Sen. Elizabeth Warren (D-Mass.) seems to have found common ground with President Trump and Republican lawmakers over “debanking” concerns, urging the president Tuesday to take action to prevent Americans from being improperly locked out of the financial system.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/trump-elizabeth-warren-debanking-concerns/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/trump-elizabeth-warren-debanking-concerns/</link>
-          <pubDate>Wed, 05 Feb 2025 15:44:01 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/trump-elizabeth-warren-debanking-concerns.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/trump-elizabeth-warren-debanking-concerns.webp"/>
-          <dc:creator>Julia Shapero, The Hill</dc:creator>
-        </item>
-        <item>
-          <title>Fast fashion, laptops and toys are likely to cost more due to US tariffs on Chinese imports</title>
-          <description><![CDATA[A sweeping new U.S. tariff on products made in China is expected to increase the prices American consumers pay for a wide array of products, from the ultra-cheap apparel sold on online shopping platforms to toys and electronic devices such as computers and cellphones.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/fast-fashion-laptops-and-toys-are-likely-to-cost-more-due-to-us-tariffs-on-chinese-imports/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/fast-fashion-laptops-and-toys-are-likely-to-cost-more-due-to-us-tariffs-on-chinese-imports/</link>
-          <pubDate>Wed, 05 Feb 2025 15:17:22 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/fast-fashion-laptops-and-toys-are-likely-to-cost-more-due-to-us-tariffs-on-chinese-imports.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/fast-fashion-laptops-and-toys-are-likely-to-cost-more-due-to-us-tariffs-on-chinese-imports.webp"/>
-          <dc:creator>HALELUYA HADERO, Associated Press, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>The Switch 2 Nintendo Direct now has official times for its April 2 broadcast</title>
-          <description><![CDATA[We now have an official time for the April 2 Nintendo Switch 2 Direct, and it's probably exactly what you expected.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/the-switch-2-nintendo-direct-now-has-official-times-for-its-april-2-broadcast/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/the-switch-2-nintendo-direct-now-has-official-times-for-its-april-2-broadcast/</link>
-          <pubDate>Wed, 05 Feb 2025 15:02:48 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/the-switch-2-nintendo-direct-now-has-official-times-for-its-april-2-broadcast.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/the-switch-2-nintendo-direct-now-has-official-times-for-its-april-2-broadcast.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>Stop navigating the cloud, and start shaping it</title>
-          <description><![CDATA[Digital transformation is a journey that organizations embark on to integrate digital technologies into all aspects of their operations.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/stop-navigating-the-cloud-and-start-shaping-it/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/stop-navigating-the-cloud-and-start-shaping-it/</link>
-          <pubDate>Wed, 05 Feb 2025 14:47:14 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/stop-navigating-the-cloud-and-start-shaping-it.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/stop-navigating-the-cloud-and-start-shaping-it.webp"/>
-          <dc:creator>CIO</dc:creator>
-        </item>
-        <item>
-          <title>China targets Apple&#8217;s business practices; maybe the company should adapt</title>
-          <description><![CDATA[They say great art reflects its time. When it comes to Apple’s business, just as the iMac and iPod matched the zeitgeist, the company must now develop its business to meet the complex demands of a divided, post-globalist world struggling with economic and climate insecurity.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/china-targets-apples-business-practices-maybe-the-company-should-adapt/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/china-targets-apples-business-practices-maybe-the-company-should-adapt/</link>
-          <pubDate>Wed, 05 Feb 2025 14:44:59 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/china-targets-apples-business-practices-maybe-the-company-should-adapt.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/china-targets-apples-business-practices-maybe-the-company-should-adapt.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Ex-Google employee charged by US with espionage to boost AI in China</title>
-          <description><![CDATA[Linwei Ding, who was indicted in March, now faces seven counts of economic espionage along with seven counts of theft of trade secrets under a revised indictment.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/ex-googler-charged-by-us-with-espionage-to-boost-ai-in-china/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/ex-googler-charged-by-us-with-espionage-to-boost-ai-in-china/</link>
-          <pubDate>Wed, 05 Feb 2025 14:40:07 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/ex-googler-charged-by-us-with-espionage-to-boost-ai-in-china.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/ex-googler-charged-by-us-with-espionage-to-boost-ai-in-china.webp"/>
-          <dc:creator>Bloomberg, The Mercury News</dc:creator>
-        </item>
-        <item>
-          <title>Silicon Valley&#8217;s brilliant young techies help Musk, Trump penetrate government, drawing Democrats&#8217; fury</title>
-          <description><![CDATA[Bay Area members of Congress blasted incursions by Elon Musk's team into government's sensitive data and systems.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/silicon-valleys-brilliant-young-techies-help-musk-trump-penetrate-government-drawing-democrat-fury/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/silicon-valleys-brilliant-young-techies-help-musk-trump-penetrate-government-drawing-democrat-fury/</link>
-          <pubDate>Wed, 05 Feb 2025 14:00:56 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/silicon-valleys-brilliant-young-techies-help-musk-trump-penetrate-government-drawing-democrat-fury.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/silicon-valleys-brilliant-young-techies-help-musk-trump-penetrate-government-drawing-democrat-fury.webp"/>
-          <dc:creator>Ethan Baron, The Mercury News</dc:creator>
-        </item>
-        <item>
-          <title>Google opens door to AI-powered weapons, surveillance</title>
-          <description><![CDATA[The company that once opened its code of conduct with the words “Don’t be evil” is now opening the door to assisting in the creation of AI-powered weapons and surveillance systems.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/google-opens-door-to-ai-powered-weapons-surveillance/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/google-opens-door-to-ai-powered-weapons-surveillance/</link>
-          <pubDate>Wed, 05 Feb 2025 12:47:57 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/google-opens-door-to-ai-powered-weapons-surveillance.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/google-opens-door-to-ai-powered-weapons-surveillance.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>The Google Pixel 9a freebies have seemingly leaked, but there&#8217;s one notable omission</title>
-          <description><![CDATA[The Google Pixel 9a might come with a trio of free subscriptions, but could miss out on an AI upgrade.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/the-google-pixel-9a-freebies-have-seemingly-leaked-but-theres-one-notable-omission/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/the-google-pixel-9a-freebies-have-seemingly-leaked-but-theres-one-notable-omission/</link>
-          <pubDate>Wed, 05 Feb 2025 11:02:39 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/the-google-pixel-9a-freebies-have-seemingly-leaked-but-theres-one-notable-omission.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/the-google-pixel-9a-freebies-have-seemingly-leaked-but-theres-one-notable-omission.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>DeepSeek's rise raises data privacy, national security concerns</title>
-          <description><![CDATA[The emergence of a newly popular artificial intelligence (AI) model from Chinese startup DeepSeek is raising national security and data privacy concerns for the U.S., not unlike those that spurred a ban on TikTok last month.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/chinese-ai-model-raises-national-security-concerns/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/chinese-ai-model-raises-national-security-concerns/</link>
-          <pubDate>Wed, 05 Feb 2025 11:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/chinese-ai-model-raises-national-security-concerns.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/chinese-ai-model-raises-national-security-concerns.webp"/>
-          <dc:creator>Julia Shapero, The Hill</dc:creator>
-        </item>
-        <item>
-          <title>Apple lashes out at iPhone porn app maker and the EU rules allowing its download</title>
-          <description><![CDATA[LONDON (AP) — Apple has chided a newly introduced pornography app available in the European Union, warning that the bloc’s digital rules opening the way for third-party app store downloads undermines consumer confidence in the tech giant.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/apple-lashes-out-at-iphone-porn-app-maker-and-eu-rules-allowing-its-download/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/apple-lashes-out-at-iphone-porn-app-maker-and-eu-rules-allowing-its-download/</link>
-          <pubDate>Wed, 05 Feb 2025 10:24:09 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/apple-lashes-out-at-iphone-porn-app-maker-and-eu-rules-allowing-its-download.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/apple-lashes-out-at-iphone-porn-app-maker-and-eu-rules-allowing-its-download.webp"/>
-          <dc:creator>KELVIN CHAN, Associated Press, KREX 5</dc:creator>
-        </item>
-        <item>
-          <title>As&#237; es el piloto que compara mediante IA generativa ofertas de proveedores en licitaciones</title>
-          <description><![CDATA[Carreras Grupo Logístico e IBM, en colaboración con Seidor, han desarrollado un proyecto piloto para comparar automáticamente ofertas de proveedores en licitaciones mediante el uso de inteligencia artificial (IA) generativa.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/asi-es-el-piloto-que-compara-mediante-ia-generativa-ofertas-de-proveedores-en-licitaciones/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/asi-es-el-piloto-que-compara-mediante-ia-generativa-ofertas-de-proveedores-en-licitaciones/</link>
-          <pubDate>Wed, 05 Feb 2025 10:19:28 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/asi-es-el-piloto-que-compara-mediante-ia-generativa-ofertas-de-proveedores-en-licitaciones.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/asi-es-el-piloto-que-compara-mediante-ia-generativa-ofertas-de-proveedores-en-licitaciones.webp"/>
-          <dc:creator>CIO</dc:creator>
-        </item>
-        <item>
-          <title>Apple launches Invites, its event invitation app that takes on Partiful</title>
-          <description><![CDATA[Apple rolled out its newest iPhone app called Invites, which lets iCloud+ subscribers create and share invitations to anyone, regardless of whether they have an Apple account or Apple device. 
-Hosts have control over the events.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/05/apple-launches-invites-its-event-invitation-app-that-takes-on-partiful/</guid>
-          <link>https://majordigest.com/tech/2025/02/05/apple-launches-invites-its-event-invitation-app-that-takes-on-partiful/</link>
-          <pubDate>Wed, 05 Feb 2025 01:52:47 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/apple-launches-invites-its-event-invitation-app-that-takes-on-partiful.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/apple-launches-invites-its-event-invitation-app-that-takes-on-partiful.webp"/>
-          <dc:creator>Jessica Bursztynsky, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>California State University Partners with Tech Giants to Launch AI-Powered Higher Education System</title>
-          <description><![CDATA[San Jose State University and CSU East Bay are among the California state universities whose students and teachers could benefit from the artificial intelligence push.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/04/tech-jobs-work-ai-google-nvidia-adobe-bay-area-san-jose-sjsu-school/</guid>
-          <link>https://majordigest.com/tech/2025/02/04/tech-jobs-work-ai-google-nvidia-adobe-bay-area-san-jose-sjsu-school/</link>
-          <pubDate>Tue, 04 Feb 2025 20:55:45 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/04/tech-jobs-work-ai-google-nvidia-adobe-bay-area-san-jose-sjsu-school.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/04/tech-jobs-work-ai-google-nvidia-adobe-bay-area-san-jose-sjsu-school.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/bay-area-tech-jobs-work-layoff-pleasanton-economy-workday-property.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/bay-area-tech-jobs-work-layoff-pleasanton-economy-workday-property.webp"/>
           <dc:creator>George Avalos, The Mercury News</dc:creator>
         </item>
         <item>
-          <title>A look inside the Trump administration approach to artificial intelligence</title>
-          <description><![CDATA["I think we think of AI as primarily a bunch of the software geeks who are out there coding somewhere, but there's real hardware involved," said Neil Chilson.
-The post A look inside the Trump administration approach to artificial intelligence first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/04/a-look-inside-the-trump-administration-approach-to-artificial-intelligence/</guid>
-          <link>https://majordigest.com/tech/2025/02/04/a-look-inside-the-trump-administration-approach-to-artificial-intelligence/</link>
-          <pubDate>Tue, 04 Feb 2025 20:52:19 GMT</pubDate>
+          <title>Why this cybersecurity startup wants to watermark everything</title>
+          <description><![CDATA[Cybersecurity startup EchoMark is releasing a new application programming interface (API) to allow for its novel digital watermarking tool to integrate with virtually any existing communications software.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/05/why-this-cybersecurity-startup-wants-to-watermark-everything/</guid>
+          <link>https://majordigest.com/tech/2025/02/05/why-this-cybersecurity-startup-wants-to-watermark-everything/</link>
+          <pubDate>Wed, 05 Feb 2025 19:31:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/04/a-look-inside-the-trump-administration-approach-to-artificial-intelligence.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/04/a-look-inside-the-trump-administration-approach-to-artificial-intelligence.webp"/>
-          <dc:creator>Tom Temin, Federal News Network</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/why-this-cybersecurity-startup-wants-to-watermark-everything.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/why-this-cybersecurity-startup-wants-to-watermark-everything.webp"/>
+          <dc:creator>Jared Keller, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Patients using diabetes apps can miss critical alerts. Here's how to make sure you're getting them</title>
+          <description><![CDATA[U.S. officials are warning about a potentially life-threatening issue with smartphone apps that help manage diabetes.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/05/patients-using-diabetes-apps-can-miss-critical-alerts-heres-how-to-make-sure-youre-getting-them/</guid>
+          <link>https://majordigest.com/tech/2025/02/05/patients-using-diabetes-apps-can-miss-critical-alerts-heres-how-to-make-sure-youre-getting-them/</link>
+          <pubDate>Wed, 05 Feb 2025 19:11:22 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/patients-using-diabetes-apps-can-miss-critical-alerts-heres-how-to-make-sure-youre-getting-them.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/patients-using-diabetes-apps-can-miss-critical-alerts-heres-how-to-make-sure-youre-getting-them.webp"/>
+          <dc:creator>Matthew Perrone, Associated Press, KPRC 2</dc:creator>
+        </item>
+        <item>
+          <title>With &#8216;Air,&#8217; Opera launches a browser to reduce stress</title>
+          <description><![CDATA[If you get stressed out when surfing the web, Norwegian browser company Opera has something for you: a new browser for Windows and Mac designed to help you relax.
+Opera Air offers a minimalist design and scheduled breaks for breathing exercises, neck training and meditation, among other things.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/05/opera-launches-browser-to-reduce-stress/</guid>
+          <link>https://majordigest.com/tech/2025/02/05/opera-launches-browser-to-reduce-stress/</link>
+          <pubDate>Wed, 05 Feb 2025 17:07:19 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/opera-launches-browser-to-reduce-stress.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/opera-launches-browser-to-reduce-stress.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Google's rising holiday's season ad sales aren't enough to ease worries about AI letdown</title>
+          <description><![CDATA[SAN FRANCISCO (AP) — Google's digital ad sales continued to grow at a healthy clip during the holiday season, but that wasn't enough to offset investors' worries about whether its big bet on artificial intelligence will be lucrative as once envisioned.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/04/googles-ad-sales-rose-at-robust-rate-in-holiday-season-but-ai-driven-numbers-let-down-investors/</guid>
+          <link>https://majordigest.com/tech/2025/02/04/googles-ad-sales-rose-at-robust-rate-in-holiday-season-but-ai-driven-numbers-let-down-investors/</link>
+          <pubDate>Tue, 04 Feb 2025 22:31:11 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/04/googles-ad-sales-rose-at-robust-rate-in-holiday-season-but-ai-driven-numbers-let-down-investors.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/04/googles-ad-sales-rose-at-robust-rate-in-holiday-season-but-ai-driven-numbers-let-down-investors.webp"/>
+          <dc:creator>MICHAEL LIEDTKE, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
           <title>Judge says Elon Musk's claims of harm from OpenAI are a 'stretch' but welcomes possible trial</title>
@@ -241,6 +152,29 @@ The post A look inside the Trump administration approach to artificial intellige
           <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
         </item>
         <item>
+          <title>Meta promises it won&#8217;t release dangerous AI systems</title>
+          <description><![CDATA[According to a new policy document from Meta, the Frontier AI Framework, the company might not release AI systems developed in-house in certain risky scenarios.
+The document defines two types of AI systems that can be classified as either “high risk” or “critical risk.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/04/meta-promises-not-to-release-dangerous-ai-systems/</guid>
+          <link>https://majordigest.com/tech/2025/02/04/meta-promises-not-to-release-dangerous-ai-systems/</link>
+          <pubDate>Tue, 04 Feb 2025 18:26:14 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/04/meta-promises-not-to-release-dangerous-ai-systems.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/04/meta-promises-not-to-release-dangerous-ai-systems.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Bill Gates: Musk wouldn't be telling USAID workers to stay home if he knew what it does</title>
+          <description><![CDATA[Billionaire Bill Gates said in an interview early Tuesday that Elon Musk "wouldn't be telling" employees at the U.S. Agency for International Development (USAID) not to come to work if he "really knew" what it does. “I give billions of dollars to the same thing that USAID does.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/04/bill-gates-elon-musk-usaid/</guid>
+          <link>https://majordigest.com/tech/2025/02/04/bill-gates-elon-musk-usaid/</link>
+          <pubDate>Tue, 04 Feb 2025 17:10:28 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/04/bill-gates-elon-musk-usaid.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/04/bill-gates-elon-musk-usaid.webp"/>
+          <dc:creator>Ashleigh Fields, The Hill</dc:creator>
+        </item>
+        <item>
           <title>How an ancient asteroid strike carved out 2 grand canyons on the moon</title>
           <description><![CDATA[New research shows that when an asteroid slammed into the moon billions of years ago, it carved out a pair of grand canyons on the far side.]]></description>
           <guid>https://majordigest.com/tech/2025/02/04/how-an-ancient-asteroid-strike-carved-out-2-grand-canyons-on-the-moon/</guid>
@@ -249,41 +183,51 @@ The post A look inside the Trump administration approach to artificial intellige
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/04/how-an-ancient-asteroid-strike-carved-out-2-grand-canyons-on-the-moon.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/04/how-an-ancient-asteroid-strike-carved-out-2-grand-canyons-on-the-moon.webp"/>
-          <dc:creator>Marcia Dunn, Associated Press, Local 4</dc:creator>
+          <dc:creator>Marcia Dunn, Associated Press, KPRC 2</dc:creator>
         </item>
         <item>
-          <title>Adobe Introduces AI-Powered Contract Intelligence in Acrobat AI Assistant</title>
-          <description><![CDATA[Adobe's new contract intelligence features aim to simplify complex agreements for businesses and professionals, leveraging AI-generated summaries, data security, and compliance monitoring.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/04/adobe-enhances-acrobat-ai-with-contract-intelligence-to-streamline-enterprise-workflows/</guid>
-          <link>https://majordigest.com/tech/2025/02/04/adobe-enhances-acrobat-ai-with-contract-intelligence-to-streamline-enterprise-workflows/</link>
-          <pubDate>Tue, 04 Feb 2025 14:00:00 GMT</pubDate>
+          <title>How to easily transfer files and photos off a computer to your hard drive</title>
+          <description><![CDATA[It&apos;s not just about freeing up space on your computer, Kurt “CyberGuy&quot; Knutsson says. It&apos;s about protecting your digital memories and important documents.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/04/how-easily-transfer-files-photos-off-computer-your-hard-drive/</guid>
+          <link>https://majordigest.com/tech/2025/02/04/how-easily-transfer-files-photos-off-computer-your-hard-drive/</link>
+          <pubDate>Tue, 04 Feb 2025 11:00:13 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/04/adobe-enhances-acrobat-ai-with-contract-intelligence-to-streamline-enterprise-workflows.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/04/adobe-enhances-acrobat-ai-with-contract-intelligence-to-streamline-enterprise-workflows.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Trump signs order to create a sovereign wealth fund that could buy TikTok</title>
-          <description><![CDATA[U.S. President Donald Trump signed an executive order on Monday ordering the creation of a sovereign wealth fund within the next year, saying it could potentially buy the short video app TikTok.
-Trump offered little in the way of detail and it was unclear how such a wealth fund would work.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/04/trump-order-sovereign-wealth-fund-buy-tiktok/</guid>
-          <link>https://majordigest.com/tech/2025/02/04/trump-order-sovereign-wealth-fund-buy-tiktok/</link>
-          <pubDate>Tue, 04 Feb 2025 06:30:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/04/trump-order-sovereign-wealth-fund-buy-tiktok.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/04/trump-order-sovereign-wealth-fund-buy-tiktok.webp"/>
-          <dc:creator>Reuters, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>I&#8217;m a tech expert: 10 AI prompts you&#8217;ll use all the time</title>
-          <description><![CDATA[From proofreading and research to brainstorming and data analysis, you can use generative AI as a sidekick for just about any task you can dream of.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/03/tech-expert-10-ai-prompts-youll-use-all-time/</guid>
-          <link>https://majordigest.com/tech/2025/02/03/tech-expert-10-ai-prompts-youll-use-all-time/</link>
-          <pubDate>Mon, 03 Feb 2025 22:55:37 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/tech-expert-10-ai-prompts-youll-use-all-time.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/tech-expert-10-ai-prompts-youll-use-all-time.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/04/how-easily-transfer-files-photos-off-computer-your-hard-drive.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/04/how-easily-transfer-files-photos-off-computer-your-hard-drive.webp"/>
           <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>AMD patches microcode security holes after accidental early disclosure</title>
+          <description><![CDATA[AMD on Monday issued two patches for severe microcode security flaws, defects that AMD said “could lead to the loss of Secure Encrypted Virtualization (SEV) protection.” The bugs were inadvertently revealed by a partner last week.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/03/amd-patches-microcode-security-holes-after-accidental-early-disclosure/</guid>
+          <link>https://majordigest.com/tech/2025/02/03/amd-patches-microcode-security-holes-after-accidental-early-disclosure/</link>
+          <pubDate>Mon, 03 Feb 2025 23:52:24 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/amd-patches-microcode-security-holes-after-accidental-early-disclosure.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/amd-patches-microcode-security-holes-after-accidental-early-disclosure.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Linux Foundation warns of US OFAC sanctions</title>
+          <description><![CDATA[Developers must be cautious about who they interact with and where contributions come from, warns a Linux Foundation blog post intended to help open-source developers navigate US OFAC (Office of Foreign Assets Control) sanctions.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/03/linux-foundation-warns-of-us-ofac-sanctions/</guid>
+          <link>https://majordigest.com/tech/2025/02/03/linux-foundation-warns-of-us-ofac-sanctions/</link>
+          <pubDate>Mon, 03 Feb 2025 23:03:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/linux-foundation-warns-of-us-ofac-sanctions.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/linux-foundation-warns-of-us-ofac-sanctions.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Google makes its appeal to overturn jury verdict branding the Play Store as illegal monopoly</title>
+          <description><![CDATA[SAN FRANCISCO (AP) — Google went to appeals court Monday in an attempt to convince a three-judge panel to overturn a jury's verdict declaring its app store for Android smartphones as an illegal monopoly and block the penalties imposed by a federal judge to stop the misbehavior.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/03/google-makes-its-appeal-to-overturn-jury-verdict-branding-the-play-store-as-illegal-monopoly/</guid>
+          <link>https://majordigest.com/tech/2025/02/03/google-makes-its-appeal-to-overturn-jury-verdict-branding-the-play-store-as-illegal-monopoly/</link>
+          <pubDate>Mon, 03 Feb 2025 22:50:04 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/google-makes-its-appeal-to-overturn-jury-verdict-branding-the-play-store-as-illegal-monopoly.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/google-makes-its-appeal-to-overturn-jury-verdict-branding-the-play-store-as-illegal-monopoly.webp"/>
+          <dc:creator>MICHAEL LIEDTKE, Associated Press, ABC 4</dc:creator>
         </item>
         <item>
           <title>Canada's most populous province to pause retaliatory measures as US puts tariffs on hold</title>
@@ -294,7 +238,52 @@ Trump offered little in the way of detail and it was unclear how such a wealth f
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/ontario-premier-says-hes-ripping-up-100m-contract-with-musks-starlink-in-response-to-us-tariffs.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/ontario-premier-says-hes-ripping-up-100m-contract-with-musks-starlink-in-response-to-us-tariffs.webp"/>
-          <dc:creator>ROB GILLIES, Associated Press, KREX 5</dc:creator>
+          <dc:creator>ROB GILLIES, Associated Press, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>CISA hires former DHS CIO into top cyber position</title>
+          <description><![CDATA[Karen Evans is returning to the Department of Homeland Security in a top cyber job as DHS responds to major hacks into U.S. critical infrastructure.
+The post CISA hires former DHS CIO into top cyber position first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/03/cisa-hires-former-dhs-cio-into-top-cyber-position/</guid>
+          <link>https://majordigest.com/tech/2025/02/03/cisa-hires-former-dhs-cio-into-top-cyber-position/</link>
+          <pubDate>Mon, 03 Feb 2025 22:27:03 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/cisa-hires-former-dhs-cio-into-top-cyber-position.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/cisa-hires-former-dhs-cio-into-top-cyber-position.webp"/>
+          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>DeepSeek</title>
+          <description><![CDATA[DeepSeek, founded in 2023 by Liang Wenfeng, a Chinese entrepreneur, engineer and former hedge fund manager, is generating a lot of buzz — and for good reason. Here are five things that make it stand out (as well as a listing of the latest news and analysis about DeepSeek).]]></description>
+          <guid>https://majordigest.com/tech/2025/02/03/deepseek-latest-news-and-insights/</guid>
+          <link>https://majordigest.com/tech/2025/02/03/deepseek-latest-news-and-insights/</link>
+          <pubDate>Mon, 03 Feb 2025 21:13:01 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/deepseek-latest-news-and-insights.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/deepseek-latest-news-and-insights.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>OpenAI launches deep research agent for multi-step research tasks</title>
+          <description><![CDATA[Hot on the heels of its launch of the o3-mini model last week, OpenAI on Sunday announced another component for ChatGPT that allows the generative AI (genAI) tool to do more in-depth research.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/03/openai-launches-deep-research-agent-for-multi-step-research-tasks/</guid>
+          <link>https://majordigest.com/tech/2025/02/03/openai-launches-deep-research-agent-for-multi-step-research-tasks/</link>
+          <pubDate>Mon, 03 Feb 2025 20:29:08 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/openai-launches-deep-research-agent-for-multi-step-research-tasks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/openai-launches-deep-research-agent-for-multi-step-research-tasks.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Linux Foundation&#8217;s L3AF brings zero-downtime updates to eBPF network management</title>
+          <description><![CDATA[A challenge for enterprises that operate large-scale network infrastructure has long been how to maintain performance while updating critical systems.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/03/linux-foundations-l3af-brings-zero-downtime-updates-to-ebpf-network-management/</guid>
+          <link>https://majordigest.com/tech/2025/02/03/linux-foundations-l3af-brings-zero-downtime-updates-to-ebpf-network-management/</link>
+          <pubDate>Mon, 03 Feb 2025 18:59:41 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/linux-foundations-l3af-brings-zero-downtime-updates-to-ebpf-network-management.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/linux-foundations-l3af-brings-zero-downtime-updates-to-ebpf-network-management.webp"/>
+          <dc:creator>Network World</dc:creator>
         </item>
         <item>
           <title>Microsoft creates a new department to review how AI affects society</title>
@@ -308,17 +297,6 @@ Trump offered little in the way of detail and it was unclear how such a wealth f
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Why second-user smartphone sales are good for Apple</title>
-          <description><![CDATA[Apple’s iPhone business isn’t just about new product sales. The second-user and services markets need to be considered, too.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/03/why-second-user-smartphone-sales-are-good-for-apple/</guid>
-          <link>https://majordigest.com/tech/2025/02/03/why-second-user-smartphone-sales-are-good-for-apple/</link>
-          <pubDate>Mon, 03 Feb 2025 17:14:05 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/why-second-user-smartphone-sales-are-good-for-apple.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/why-second-user-smartphone-sales-are-good-for-apple.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
           <title>Microsoft founder Bill Gates explores the making of his internal operating system in new memoir</title>
           <description><![CDATA[As he prepares to turn 70 later this year, Microsoft founder Bill Gates' new memoir explores how his childhood quirks, upbringing, friendships and experiences coalesced into shaping his internal operating system.]]></description>
           <guid>https://majordigest.com/tech/2025/02/03/microsoft-founder-bill-gates-explores-the-making-of-his-internal-operating-system-in-new-memoir/</guid>
@@ -327,7 +305,7 @@ Trump offered little in the way of detail and it was unclear how such a wealth f
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/microsoft-founder-bill-gates-explores-the-making-of-his-internal-operating-system-in-new-memoir.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/microsoft-founder-bill-gates-explores-the-making-of-his-internal-operating-system-in-new-memoir.webp"/>
-          <dc:creator>MICHAEL LIEDTKE, Associated Press, ABC 4</dc:creator>
+          <dc:creator>MICHAEL LIEDTKE, Associated Press, KLAS, CBS News</dc:creator>
         </item>
         <item>
           <title>Bill Gates shares his thoughts on vaccine backlash, Intel's woes and Google's antitrust battle</title>
@@ -338,18 +316,29 @@ Trump offered little in the way of detail and it was unclear how such a wealth f
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/bill-gates-shares-his-thoughts-on-vaccine-backlash-intels-woes-and-googles-antitrust-battle.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/bill-gates-shares-his-thoughts-on-vaccine-backlash-intels-woes-and-googles-antitrust-battle.webp"/>
-          <dc:creator>MICHAEL LIEDTKE, Associated Press, KREX 5</dc:creator>
+          <dc:creator>MICHAEL LIEDTKE, Associated Press, Fox 5</dc:creator>
         </item>
         <item>
-          <title>SoftBank and OpenAI set up joint company to push artificial intelligence services</title>
-          <description><![CDATA[TOKYO (AP) — Japanese technology giant SoftBank Group and OpenAI stepped up their AI partnership Monday, setting up a 50-50 held company called SB OpenAI Japan.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/03/softbank-and-openai-set-up-joint-company-to-push-artificial-intelligence-services/</guid>
-          <link>https://majordigest.com/tech/2025/02/03/softbank-and-openai-set-up-joint-company-to-push-artificial-intelligence-services/</link>
-          <pubDate>Mon, 03 Feb 2025 09:02:02 GMT</pubDate>
+          <title>World's first AI-designed, 3D-printed shoe wants to be the next Crocs</title>
+          <description><![CDATA[A startup claims to have developed the world&apos;s first entirely artificial intelligence-designed and 3D-printed shoe, the brainchild of a 25-year-old.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/31/worlds-first-ai-designed-3d-printed-shoe-wants-next-crocs/</guid>
+          <link>https://majordigest.com/tech/2025/01/31/worlds-first-ai-designed-3d-printed-shoe-wants-next-crocs/</link>
+          <pubDate>Fri, 31 Jan 2025 20:00:42 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/03/softbank-and-openai-set-up-joint-company-to-push-artificial-intelligence-services.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/03/softbank-and-openai-set-up-joint-company-to-push-artificial-intelligence-services.webp"/>
-          <dc:creator>YURI KAGEYAMA, Associated Press, PIX 11</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/31/worlds-first-ai-designed-3d-printed-shoe-wants-next-crocs.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/31/worlds-first-ai-designed-3d-printed-shoe-wants-next-crocs.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>What is NaaS? Providers, delivery models, and benefits explained</title>
+          <description><![CDATA[Network as a service (NaaS) is a cloud service model that’s designed to let enterprise IT professionals order network infrastructure components from a menu of options, have them configured to fit their business needs, and have the whole thing delivered, running and managed in a matter of hours inste]]></description>
+          <guid>https://majordigest.com/tech/2025/01/31/what-is-network-as-a-service-naas/</guid>
+          <link>https://majordigest.com/tech/2025/01/31/what-is-network-as-a-service-naas/</link>
+          <pubDate>Fri, 31 Jan 2025 18:18:54 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/31/what-is-network-as-a-service-naas.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/31/what-is-network-as-a-service-naas.webp"/>
+          <dc:creator>Network World</dc:creator>
         </item>
         <item>
           <title>US cybersecurity agency's future role in elections remains murky under the Trump administration</title>
@@ -363,13 +352,13 @@ Trump offered little in the way of detail and it was unclear how such a wealth f
           <dc:creator>CHRISTINA A. CASSIDY, Associated Press, KLAS, CBS News</dc:creator>
         </item>
         <item>
-          <title>Microsoft reports 10% quarterly profit growth as it works to show AI investments paying off</title>
-          <description><![CDATA[Microsoft said Wednesday that its profit for the October-December quarter grew 10% as it works to capitalize on the huge amounts of money it has spent to advance its artificial intelligence technology.]]></description>
-          <guid>https://majordigest.com/tech/2025/01/29/microsoft-reports-10-quarterly-profit-growth-as-it-works-to-show-ai-investments-paying-off/</guid>
-          <link>https://majordigest.com/tech/2025/01/29/microsoft-reports-10-quarterly-profit-growth-as-it-works-to-show-ai-investments-paying-off/</link>
-          <pubDate>Wed, 29 Jan 2025 23:54:55 GMT</pubDate>
+          <title>Amazon sues state agency to block release of company records to Bezos-owned Washington Post</title>
+          <description><![CDATA[Amazon is suing a Washington state agency to prevent the release of some company materials to The Washington Post, the newspaper which is owned by Amazon founder Jeff Bezos.]]></description>
+          <guid>https://majordigest.com/tech/2025/01/30/amazon-sues-state-agency-to-block-release-of-company-records-to-bezos-owned-washington-post/</guid>
+          <link>https://majordigest.com/tech/2025/01/30/amazon-sues-state-agency-to-block-release-of-company-records-to-bezos-owned-washington-post/</link>
+          <pubDate>Thu, 30 Jan 2025 19:17:09 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/29/microsoft-reports-10-quarterly-profit-growth-as-it-works-to-show-ai-investments-paying-off.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/29/microsoft-reports-10-quarterly-profit-growth-as-it-works-to-show-ai-investments-paying-off.webp"/>
-          <dc:creator>MATT O'BRIEN, Associated Press, ABC 4</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/01/30/amazon-sues-state-agency-to-block-release-of-company-records-to-bezos-owned-washington-post.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/01/30/amazon-sues-state-agency-to-block-release-of-company-records-to-bezos-owned-washington-post.webp"/>
+          <dc:creator>HALELUYA HADERO, Associated Press, KGET 17, NBC</dc:creator>
         </item></channel></rss>
