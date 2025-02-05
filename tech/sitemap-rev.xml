@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.comnull</loc>
+          <loc>https://majordigest.com/tech/2025/02/05/bring-it-on-nvidia-amd-confirms-new-radeon-rx-9000-series-gpus-will-launch-in-early-march-rivaling-team-greens-rumored-rtx-5060-ti-and-5060-launch/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-03T22:32:33.000Z</news:publication_date>
-            <news:title>Toronto Leader Pauses Retaliatory Measures Amid Tariff Threats</news:title>
+            <news:publication_date>2025-02-05T15:34:29.000Z</news:publication_date>
+            <news:title>AMD Readies Response to Nvidia's RTX 5060 Ti and 5060 Rumors: March Launch Expected</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/03/ontario-premier-says-hes-ripping-up-100m-contract-with-musks-starlink-in-response-to-us-tariffs.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/bring-it-on-nvidia-amd-confirms-new-radeon-rx-9000-series-gpus-will-launch-in-early-march-rivaling-team-greens-rumored-rtx-5060-ti-and-5060-launch.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/05/linkedins-big-bet-on-tiktok-style-video-is-paying-off/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-05T13:11:00.000Z</news:publication_date>
+            <news:title>LinkedIn's Video Surge: The New Frontier for Professional Success</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/linkedins-big-bet-on-tiktok-style-video-is-paying-off.webp</image:loc>
           </image:image>
         </url></urlset>
