@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/05/el-musk-urges-quick-safety-upgrades-faa/</loc>
+          <loc>https://majordigest.com/tech/2025/02/05/experts-warn-deepseek-is-11-times-more-dangerous-than-other-ai-chatbots/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-05T23:26:41.000Z</news:publication_date>
-            <news:title>Rapid Safety Upgrades for Air Traffic Control Systems on Horizon</news:title>
+            <news:publication_date>2025-02-05T16:43:59.000Z</news:publication_date>
+            <news:title>DeepSeek's R1 AI Found to be Vulnerable to Exploitation</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/05/el-musk-urges-quick-safety-upgrades-faa.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/experts-warn-deepseek-is-11-times-more-dangerous-than-other-ai-chatbots.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/05/ai-powered-policing-the-future-of-traffic-safety-in-kazakhstan/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-05T09:01:18.000Z</news:publication_date>
+            <news:title>Qorgau System Revolutionizes Road Safety with AI-Powered Enforcement</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/ai-powered-policing-the-future-of-traffic-safety-in-kazakhstan.webp</image:loc>
           </image:image>
         </url></urlset>
