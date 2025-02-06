@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/05/databricks-acquires-bladebridge-to-aid-data-warehouse-migrations/</loc>
+          <loc>https://majordigest.com/tech/2025/02/05/vc-backed-startup-accused-of-gouging-la-fire-victims-on-rent/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-05T10:40:54.000Z</news:publication_date>
-            <news:title>Data Lakehouse Provider Databricks Acquires BladeBridge to Ease Legacy Data Warehouse Migration</news:title>
+            <news:publication_date>2025-02-05T15:33:23.000Z</news:publication_date>
+            <news:title>LA Startup Accused of Rent Price-Gouging After Wildfires - 1400 Words</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/05/databricks-acquires-bladebridge-to-aid-data-warehouse-migrations.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/vc-backed-startup-accused-of-gouging-la-fire-victims-on-rent.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/05/85-percent-of-uk-employers-admit-to-spying-on-their-employees-and-workers-arent-happy/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-05T14:14:12.000Z</news:publication_date>
+            <news:title>UK Workplace Surveillance: The Great Divide Between Employers and Employees</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/85-percent-of-uk-employers-admit-to-spying-on-their-employees-and-workers-arent-happy.webp</image:loc>
           </image:image>
         </url></urlset>
