@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/06/big-difference-in-willingness-to-invest-in-it-europe-lags-behind-the-us/</loc>
+          <loc>https://majordigest.com/tech/2025/02/06/realtor-com-leaves-california-to-set-up-headquarters-in-texas/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-06T06:30:00.000Z</news:publication_date>
-            <news:title>US Companies Outpace Europe in IT Investments</news:title>
+            <news:publication_date>2025-02-06T16:34:00.000Z</news:publication_date>
+            <news:title>The Texas Advantage: Realtor.com Relocates Headquarters from California</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/06/big-difference-in-willingness-to-invest-in-it-europe-lags-behind-the-us.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/06/realtor-com-leaves-california-to-set-up-headquarters-in-texas.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/06/spy-vs-spy-security-agencies-help-secure-the-network-edge/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-06T13:30:34.000Z</news:publication_date>
+            <news:title>Five Eyes Alliance Releases Guidance on Securing Network Edge Devices</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/06/spy-vs-spy-security-agencies-help-secure-the-network-edge.webp</image:loc>
           </image:image>
         </url></urlset>
