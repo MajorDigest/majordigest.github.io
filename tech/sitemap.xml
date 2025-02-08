@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/08/amazon-driver-tips-lawsuit-settlement-4-million/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-08T05:00:00.000Z</news:publication_date>
-            <news:title>Amazon to pay nearly $4 million for allegedly taking drivers&#8217; tips</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/08/amazon-driver-tips-lawsuit-settlement-4-million.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/02/08/musks-crew-descends-on-cfpb-with-plan-to-shut-it-down/</loc>
           <news:news>
             <news:publication>
@@ -28,6 +14,34 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/02/08/musks-crew-descends-on-cfpb-with-plan-to-shut-it-down.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/08/jdk-24-the-new-features-in-java-24/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-08T00:04:56.000Z</news:publication_date>
+            <news:title>JDK 24: The new features in Java 24</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/08/jdk-24-the-new-features-in-java-24.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/07/these-groups-are-pushing-for-the-nfl-to-end-facial-recognition/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-07T20:00:00.000Z</news:publication_date>
+            <news:title>These groups are pushing for the NFL to end facial recognition</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/07/these-groups-are-pushing-for-the-nfl-to-end-facial-recognition.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,59 +59,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/07/amazon-wants-to-spend-usd100-billion-this-year-for-once-in-a-lifetime-ai-opportunity/</loc>
+          <loc>https://majordigest.com/tech/2025/02/07/amazon-to-pay-nearly-4m-to-settle-lawsuit-alleging-it-took-tips-from-drivers/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-07T19:06:00.000Z</news:publication_date>
-            <news:title>Amazon wants to spend $100 billion this year for &#8216;once in a lifetime' AI opportunity</news:title>
+            <news:publication_date>2025-02-07T18:02:57.000Z</news:publication_date>
+            <news:title>Amazon to pay nearly $4M to settle lawsuit alleging it took tips from drivers</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/07/amazon-wants-to-spend-usd100-billion-this-year-for-once-in-a-lifetime-ai-opportunity.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/07/government-procurement-efficiency-list-reducing-regulatory-burden/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-07T18:24:19.000Z</news:publication_date>
-            <news:title>Government Procurement Efficiency List: Reducing Regulatory Burden</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/07/government-procurement-efficiency-list-reducing-regulatory-burden.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/07/uk-orders-apple-to-let-it-access-everyones-encrypted-data/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-07T16:09:04.000Z</news:publication_date>
-            <news:title>UK orders Apple to let it access everyone&#8217;s encrypted data</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/07/uk-orders-apple-to-let-it-access-everyones-encrypted-data.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/07/google-scraps-its-diversity-hiring-goals-as-it-complies-with-trumps-new-government-contractor-rules/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-07T15:45:53.000Z</news:publication_date>
-            <news:title>Google scraps its diversity hiring goals as it complies with Trump&#8217;s new government contractor rules</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/07/google-scraps-its-diversity-hiring-goals-as-it-complies-with-trumps-new-government-contractor-rules.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/07/amazon-to-pay-nearly-4m-to-settle-lawsuit-alleging-it-took-tips-from-drivers.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -115,45 +87,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/07/honeywell-se-transforma-a-partir-de-la-ia-generativa/</loc>
+          <loc>https://majordigest.com/tech/2025/02/07/brazil-introduces-law-restricting-smartphone-use-in-schools-amid-concern-over-the-impact-on-learning/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-07T11:14:42.000Z</news:publication_date>
-            <news:title>Honeywell se transforma a partir de la IA generativa</news:title>
+            <news:publication_date>2025-02-07T04:01:50.000Z</news:publication_date>
+            <news:title>New law in Brazil is making students put away their smartphones at school</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/07/honeywell-se-transforma-a-partir-de-la-ia-generativa.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/07/repsol-impulsa-su-estrategia-digital-con-la-incorporacion-de-agentes-de-ia/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-07T09:08:02.000Z</news:publication_date>
-            <news:title>Repsol impulsa su estrategia digital con la incorporaci&#243;n de agentes de IA</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/07/repsol-impulsa-su-estrategia-digital-con-la-incorporacion-de-agentes-de-ia.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/07/the-number-of-snakes-removed-from-this-australian-yard-will-make-you-shudder/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-07T07:48:55.000Z</news:publication_date>
-            <news:title>The number of venomous snakes removed from this Australian yard will make you shudder</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/07/the-number-of-snakes-removed-from-this-australian-yard-will-make-you-shudder.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/07/brazil-introduces-law-restricting-smartphone-use-in-schools-amid-concern-over-the-impact-on-learning.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -171,6 +115,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2025/02/06/gsa-plans-moving-staff-to-interior-headquarters-as-its-tech-shop-anticipates-more-shakeups/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-06T22:31:58.000Z</news:publication_date>
+            <news:title>GSA plans moving staff to Interior headquarters, as its tech shop anticipates more shakeups</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/06/gsa-plans-moving-staff-to-interior-headquarters-as-its-tech-shop-anticipates-more-shakeups.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/02/06/nebraska-government-system-shutdown-disrupts-the-legislature-dmv-and-other-offices/</loc>
           <news:news>
             <news:publication>
@@ -182,6 +140,202 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/02/06/nebraska-government-system-shutdown-disrupts-the-legislature-dmv-and-other-offices.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/06/house-lawmakers-push-to-ban-ai-app-deepseek-from-us-government-devices/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-06T18:19:20.000Z</news:publication_date>
+            <news:title>House lawmakers push to ban AI app DeepSeek from US government devices</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/06/house-lawmakers-push-to-ban-ai-app-deepseek-from-us-government-devices.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/06/oracles-hr-software-now-has-ai-to-tell-you-about-taxes-and-career-planning/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-06T16:00:00.000Z</news:publication_date>
+            <news:title>Oracle&#8217;s HR software now has AI agents to help with taxes and career planning</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/06/oracles-hr-software-now-has-ai-to-tell-you-about-taxes-and-career-planning.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/06/lawmakers-warn-hiring-freeze-could-thwart-cyber-workforce-efforts/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-06T12:35:54.000Z</news:publication_date>
+            <news:title>Trump's Hiring Freeze Threatens Cyber Workforce Efforts - Federal News Network</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/06/lawmakers-warn-hiring-freeze-could-thwart-cyber-workforce-efforts.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/06/one-tech-tip-how-to-block-your-phone-from-tracking-your-location/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-06T09:00:09.000Z</news:publication_date>
+            <news:title>One Tech Tip: How to block your phone from tracking your location</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/06/one-tech-tip-how-to-block-your-phone-from-tracking-your-location.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/06/using-nats-with-net-aspire/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-06T09:00:00.000Z</news:publication_date>
+            <news:title>Using NATS with .NET Aspire</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/06/using-nats-with-net-aspire.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/06/google-scraps-its-diversity-hiring-goals-as-it-complies-with-trumps-new-government-contractor-rules/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-06T00:25:54.000Z</news:publication_date>
+            <news:title>Google scraps its diversity hiring goals as it complies with Trump's new government contractor rules</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/06/google-scraps-its-diversity-hiring-goals-as-it-complies-with-trumps-new-government-contractor-rules.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/05/el-musk-urges-quick-safety-upgrades-faa/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-05T23:26:41.000Z</news:publication_date>
+            <news:title>Musk says DOGE will make 'rapid safety upgrades' to air traffic control system</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/el-musk-urges-quick-safety-upgrades-faa.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/05/malicious-package-found-in-the-go-ecosystem/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-05T22:51:17.000Z</news:publication_date>
+            <news:title>Malicious package found in the Go ecosystem &#8211; update</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/malicious-package-found-in-the-go-ecosystem.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/05/opera-launches-browser-to-reduce-stress/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-05T17:07:19.000Z</news:publication_date>
+            <news:title>With &#8216;Air,&#8217; Opera launches a browser to reduce stress</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/opera-launches-browser-to-reduce-stress.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/05/fox-news-ai-newsletter-ai-takes-big-step-forward-3d-printed-shoe/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-05T16:56:10.000Z</news:publication_date>
+            <news:title>Fox News AI Newsletter: AI takes big step forward with 3D-printed shoe</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/fox-news-ai-newsletter-ai-takes-big-step-forward-3d-printed-shoe.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/05/fast-fashion-laptops-and-toys-are-likely-to-cost-more-due-to-us-tariffs-on-chinese-imports/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-05T15:17:22.000Z</news:publication_date>
+            <news:title>Fast fashion, laptops and toys are likely to cost more due to US tariffs on Chinese imports</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/fast-fashion-laptops-and-toys-are-likely-to-cost-more-due-to-us-tariffs-on-chinese-imports.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/05/how-minimize-your-digital-footprint-when-you-travel/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-05T15:00:05.000Z</news:publication_date>
+            <news:title>How to minimize your digital footprint when you travel</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/how-minimize-your-digital-footprint-when-you-travel.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/05/google-opens-door-to-ai-powered-weapons-surveillance/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-05T12:47:57.000Z</news:publication_date>
+            <news:title>Google opens door to AI-powered weapons, surveillance</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/google-opens-door-to-ai-powered-weapons-surveillance.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/05/apple-lashes-out-at-iphone-porn-app-maker-and-eu-rules-allowing-its-download/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-05T10:24:09.000Z</news:publication_date>
+            <news:title>Apple lashes out at iPhone porn app maker and the EU rules allowing its download</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/05/apple-lashes-out-at-iphone-porn-app-maker-and-eu-rules-allowing-its-download.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -199,20 +353,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/04/navy-peo-digitals-goals-riding-on-flank-speeds-success/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-04T19:34:13.000Z</news:publication_date>
-            <news:title>Navy PEO Digital&#8217;s goals riding on Flank Speed&#8217;s success</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/04/navy-peo-digitals-goals-riding-on-flank-speeds-success.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/02/04/cisco-latest-news-and-insights/</loc>
           <news:news>
             <news:publication>
@@ -227,31 +367,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/04/2025-global-network-outage-report-and-internet-health-check/</loc>
+          <loc>https://majordigest.com/tech/2025/02/04/linux-containers-in-2025-and-beyond/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-04T15:38:41.000Z</news:publication_date>
-            <news:title>2025 global network outage report and internet health check</news:title>
+            <news:publication_date>2025-02-04T14:30:54.000Z</news:publication_date>
+            <news:title>Linux containers in 2025 and beyond</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/04/2025-global-network-outage-report-and-internet-health-check.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/04/linux-containers-in-2025-and-beyond.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/04/not-seeing-roi-from-your-ai-observability-may-be-the-missing-link/</loc>
+          <loc>https://majordigest.com/tech/2025/02/04/cisco-researchers-highlight-emerging-threats-to-ai-models/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-02-04T09:00:00.000Z</news:publication_date>
-            <news:title>Not seeing ROI from your AI? Observability may be the missing link</news:title>
+            <news:title>Cisco researchers highlight emerging threats to AI models</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/04/not-seeing-roi-from-your-ai-observability-may-be-the-missing-link.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/04/cisco-researchers-highlight-emerging-threats-to-ai-models.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -266,6 +406,34 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/02/03/google-makes-its-appeal-to-overturn-jury-verdict-branding-the-play-store-as-illegal-monopoly.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/03/ontario-premier-says-hes-ripping-up-100m-contract-with-musks-starlink-in-response-to-us-tariffs/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-03T22:32:33.000Z</news:publication_date>
+            <news:title>Canada's most populous province to pause retaliatory measures as US puts tariffs on hold</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/03/ontario-premier-says-hes-ripping-up-100m-contract-with-musks-starlink-in-response-to-us-tariffs.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/03/trump-signs-order-to-create-us-sovereign-wealth-fund-eyeing-tiktok-purchase/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-03T19:39:44.000Z</news:publication_date>
+            <news:title>Trump signs order to create US sovereign wealth fund, eyeing TikTok purchase</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/03/trump-signs-order-to-create-us-sovereign-wealth-fund-eyeing-tiktok-purchase.webp</image:loc>
           </image:image>
         </url>
         <url>
