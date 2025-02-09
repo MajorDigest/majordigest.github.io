@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage/</loc>
+          <loc>https://majordigest.com/tech/2025/02/07/the-number-of-snakes-removed-from-this-australian-yard-will-make-you-shudder/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-08T21:49:00.000Z</news:publication_date>
-            <news:title>PlayStation Network Experiences Extended Outage - Thousands Affected</news:title>
+            <news:publication_date>2025-02-07T07:48:55.000Z</news:publication_date>
+            <news:title>Snake Removal: Over 100 Venomous Snakes Found in Sydney Backyard</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/07/the-number-of-snakes-removed-from-this-australian-yard-will-make-you-shudder.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/07/stargate-openai-picks-texas-flagship-data-center/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-07T05:30:00.000Z</news:publication_date>
+            <news:title>OpenAI's Stargate Project: A $500 Billion Initiative for US AI Supremacy</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/07/stargate-openai-picks-texas-flagship-data-center.webp</image:loc>
           </image:image>
         </url></urlset>
