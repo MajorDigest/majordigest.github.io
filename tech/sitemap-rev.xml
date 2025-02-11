@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/08/amazon-driver-tips-lawsuit-settlement-4-million/</loc>
+          <loc>https://majordigest.com/tech/2025/02/11/microsoft-to-rejig-office-teams-cost-to-avoid-eu-fine/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-08T05:00:00.000Z</news:publication_date>
-            <news:title>Amazon Agrees to Pay $4 Million Over Tip Subsidies for Delivery Drivers</news:title>
+            <news:publication_date>2025-02-11T08:53:49.000Z</news:publication_date>
+            <news:title>Microsoft Faces Antitrust Probe Over Teams Pricing</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/08/amazon-driver-tips-lawsuit-settlement-4-million.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/11/microsoft-to-rejig-office-teams-cost-to-avoid-eu-fine.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/10/what-you-need-to-know-about-python-3-14s-faster-interpreter/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-10T18:20:06.000Z</news:publication_date>
+            <news:title>Python 3.14 to Boost Performance by Up to 30% with No Code Changes</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/10/what-you-need-to-know-about-python-3-14s-faster-interpreter.webp</image:loc>
           </image:image>
         </url></urlset>

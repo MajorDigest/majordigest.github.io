@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Tue, 11 Feb 2025 10:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 11:22:49 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Amazon Agrees to Pay $4 Million Over Tip Subsidies for Delivery Drivers</title>
-          <description><![CDATA[Amazon settles with Washington D.C. over allegations it took tips from customers meant for drivers, agreeing to pay nearly $4 million in penalties and fees.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/08/amazon-driver-tips-lawsuit-settlement-4-million/</guid>
-          <link>https://majordigest.com/tech/2025/02/08/amazon-driver-tips-lawsuit-settlement-4-million/</link>
-          <pubDate>Sat, 08 Feb 2025 05:00:00 GMT</pubDate>
+          <title>Microsoft Faces Antitrust Probe Over Teams Pricing</title>
+          <description><![CDATA[Microsoft's bundling of Teams with Office suite faces antitrust scrutiny from EU and France's watchdog over price differential and search engine practices.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/11/microsoft-to-rejig-office-teams-cost-to-avoid-eu-fine/</guid>
+          <link>https://majordigest.com/tech/2025/02/11/microsoft-to-rejig-office-teams-cost-to-avoid-eu-fine/</link>
+          <pubDate>Tue, 11 Feb 2025 08:53:49 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/08/amazon-driver-tips-lawsuit-settlement-4-million.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/08/amazon-driver-tips-lawsuit-settlement-4-million.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/microsoft-to-rejig-office-teams-cost-to-avoid-eu-fine.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/microsoft-to-rejig-office-teams-cost-to-avoid-eu-fine.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Python 3.14 to Boost Performance by Up to 30% with No Code Changes</title>
+          <description><![CDATA[Python 3.14, due out later this year, is set to receive a new type of interpreter that can boost performance by up to 30% with no changes to existing code.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/10/what-you-need-to-know-about-python-3-14s-faster-interpreter/</guid>
+          <link>https://majordigest.com/tech/2025/02/10/what-you-need-to-know-about-python-3-14s-faster-interpreter/</link>
+          <pubDate>Mon, 10 Feb 2025 18:20:06 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/what-you-need-to-know-about-python-3-14s-faster-interpreter.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/what-you-need-to-know-about-python-3-14s-faster-interpreter.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
