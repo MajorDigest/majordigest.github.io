@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/10/the-iphone-se-4-could-land-this-week-and-case-photos-have-already-emerged/</loc>
+          <loc>https://majordigest.com/tech/2025/02/10/microsoft-teams-becoming-prime-target-sophisticated-scammers/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-10T10:19:22.000Z</news:publication_date>
-            <news:title>The iPhone SE 4 Launch Imminent: Leaker Claims This Week Release and Spigen Posts Case Images</news:title>
+            <news:publication_date>2025-02-10T15:00:48.000Z</news:publication_date>
+            <news:title>Microsoft Teams Under Threat: How Hackers Are Targeting Users</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/10/the-iphone-se-4-could-land-this-week-and-case-photos-have-already-emerged.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/10/microsoft-teams-becoming-prime-target-sophisticated-scammers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/09/hawaii-is-the-rainbow-capital-of-the-world-heres-what-that-means/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-09T04:49:35.000Z</news:publication_date>
+            <news:title>Rainbows in Hawaii: A Cultural and Scientific Phenomenon</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/09/hawaii-is-the-rainbow-capital-of-the-world-heres-what-that-means.webp</image:loc>
           </image:image>
         </url></urlset>
