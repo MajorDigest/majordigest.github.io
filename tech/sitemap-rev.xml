@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/11/cisco-data-center-switches-feature-baked-in-security-for-ai-networking-duties/</loc>
+          <loc>https://majordigest.com/tech/2025/02/11/esas-space-telescope-euclid-discovers-astonishing-einstein-ring/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-11T18:32:35.000Z</news:publication_date>
-            <news:title>Cisco Unveils New Data Center Switches with Integrated Security and AI Capabilities</news:title>
+            <news:publication_date>2025-02-11T02:52:43.000Z</news:publication_date>
+            <news:title>ESA's Euclid Space Telescope Discovers Rare Einstein Ring Around Nearby Galaxy</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/11/cisco-data-center-switches-feature-baked-in-security-for-ai-networking-duties.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/11/esas-space-telescope-euclid-discovers-astonishing-einstein-ring.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-10T09:33:44.000Z</news:publication_date>
+            <news:title>Google Cloud Unveils Generative AI Toolbox for Databases - Improving Enterprise Development</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases.webp</image:loc>
           </image:image>
         </url></urlset>

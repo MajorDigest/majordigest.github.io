@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 12 Feb 2025 09:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 10:12:42 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Cisco Unveils New Data Center Switches with Integrated Security and AI Capabilities</title>
-          <description><![CDATA[Cisco has introduced a new family of data center switches, the N9300 Smart Switch series, designed to support large workloads and facilitate AI development across the enterprise.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/cisco-data-center-switches-feature-baked-in-security-for-ai-networking-duties/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/cisco-data-center-switches-feature-baked-in-security-for-ai-networking-duties/</link>
-          <pubDate>Tue, 11 Feb 2025 18:32:35 GMT</pubDate>
+          <title>ESA's Euclid Space Telescope Discovers Rare Einstein Ring Around Nearby Galaxy</title>
+          <description><![CDATA[The European Space Agency's (ESA) Euclid space telescope has detected a rare bright halo of light around a nearby galaxy, known as an Einstein ring.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/11/esas-space-telescope-euclid-discovers-astonishing-einstein-ring/</guid>
+          <link>https://majordigest.com/tech/2025/02/11/esas-space-telescope-euclid-discovers-astonishing-einstein-ring/</link>
+          <pubDate>Tue, 11 Feb 2025 02:52:43 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/cisco-data-center-switches-feature-baked-in-security-for-ai-networking-duties.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/cisco-data-center-switches-feature-baked-in-security-for-ai-networking-duties.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/esas-space-telescope-euclid-discovers-astonishing-einstein-ring.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/esas-space-telescope-euclid-discovers-astonishing-einstein-ring.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Google Cloud Unveils Generative AI Toolbox for Databases - Improving Enterprise Development</title>
+          <description><![CDATA[Google Cloud introduces a new generative AI Toolbox for Databases to enhance enterprise development, connecting agent-based AI applications to databases seamlessly.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases/</guid>
+          <link>https://majordigest.com/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases/</link>
+          <pubDate>Mon, 10 Feb 2025 09:33:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
