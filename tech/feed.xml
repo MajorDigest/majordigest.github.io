@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 12 Feb 2025 12:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 13:08:27 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -18,17 +18,6 @@
           <url>https://majordigest.com/assets/icons/logo-512x512.png</url>
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
-        <item>
-          <title>Wes Anderson&#8217;s The Phoenician Scheme is arriving sooner than you think, and I'm hugely excited for Michael Cera&#8217;s cameo</title>
-          <description><![CDATA[We finally have a release date for Wes Anderson's next movie – here's what we know about The Phoenician Scheme so far.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/12/wes-andersons-the-phoenician-scheme-is-arriving-sooner-than-you-think-and-im-hugely-excited-for-michael-ceras-cameo/</guid>
-          <link>https://majordigest.com/tech/2025/02/12/wes-andersons-the-phoenician-scheme-is-arriving-sooner-than-you-think-and-im-hugely-excited-for-michael-ceras-cameo/</link>
-          <pubDate>Wed, 12 Feb 2025 11:41:59 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/wes-andersons-the-phoenician-scheme-is-arriving-sooner-than-you-think-and-im-hugely-excited-for-michael-ceras-cameo.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/wes-andersons-the-phoenician-scheme-is-arriving-sooner-than-you-think-and-im-hugely-excited-for-michael-ceras-cameo.webp"/>
-          <dc:creator>rowan.davies@futurenet.com (Rowan Davies), TechRadar</dc:creator>
-        </item>
         <item>
           <title>Is this the iPhone SE 4? New Apple device seemingly appears in leaked images as revised release date emerges</title>
           <description><![CDATA[The iPhone SE 4 could launch slightly later than expected, but leaked photos have given us a clear look at the possible design.]]></description>
@@ -41,336 +30,147 @@
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>The irritating but amusing irony of Google&#8217;s Gemini interface</title>
-          <description><![CDATA[Look, if you’ve read this column for long now, you know I’m extremely guarded with my enthusiasm for Gemini and the other similar large-language-model AI answer-bots.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/12/google-gemini-interface/</guid>
-          <link>https://majordigest.com/tech/2025/02/12/google-gemini-interface/</link>
-          <pubDate>Wed, 12 Feb 2025 10:45:00 GMT</pubDate>
+          <title>Dynamic web apps with HTMX, Python, and Django</title>
+          <description><![CDATA[Python is one of the most popular programming language today, in part due to its large ecosystem of tools for data science and AI applications. But Python is also a popular choice for developing web apps, particularly using the Django web framework.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/12/dynamic-web-apps-with-htmx-python-and-django/</guid>
+          <link>https://majordigest.com/tech/2025/02/12/dynamic-web-apps-with-htmx-python-and-django/</link>
+          <pubDate>Wed, 12 Feb 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/google-gemini-interface.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/google-gemini-interface.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/dynamic-web-apps-with-htmx-python-and-django.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/dynamic-web-apps-with-htmx-python-and-django.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Rust memory management explained</title>
+          <description><![CDATA[Rust shares many concepts with other languages intended for systems programming. For instance, Rust distinguishes between memory allocated from the stack and memory allocated from the heap. It also ensures that variables declared within a scope are unavailable outside of that scope.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/12/rust-memory-management-explained/</guid>
+          <link>https://majordigest.com/tech/2025/02/12/rust-memory-management-explained/</link>
+          <pubDate>Wed, 12 Feb 2025 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/rust-memory-management-explained.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/rust-memory-management-explained.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Alexa Introduces Science-Backed Bedtime Story to Help Kids Sleep - Tech News</title>
+          <description><![CDATA[Amazon's Alexa gets a new bedtime story skill, 'Tumbles and Stripes', designed to help kids drift off with science-backed storytelling and soothing themes.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/12/amazon-alexa-gets-new-skill-that-can-help-your-child-fall-asleep-and-i-cant-decide-if-thats-cute-or-creepy/</guid>
+          <link>https://majordigest.com/tech/2025/02/12/amazon-alexa-gets-new-skill-that-can-help-your-child-fall-asleep-and-i-cant-decide-if-thats-cute-or-creepy/</link>
+          <pubDate>Wed, 12 Feb 2025 00:01:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/amazon-alexa-gets-new-skill-that-can-help-your-child-fall-asleep-and-i-cant-decide-if-thats-cute-or-creepy.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/amazon-alexa-gets-new-skill-that-can-help-your-child-fall-asleep-and-i-cant-decide-if-thats-cute-or-creepy.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Lauren Sanchez alludes to &#8216;turbulence&#8217; in life after &#8216;obscene&#8217; Trump inauguration display</title>
+          <description><![CDATA[The fiancee of billionaire Jeff Bezos alluded to a rough start of 2025, several weeks after Megyn Kelly called her a 'hooker' for wearing a lacy white bustier top beneath a jacket to Trump's swearing-in.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/11/lauren-sanchez-alludes-to-turbulence-in-life-after-obscene-trump-inauguration-display/</guid>
+          <link>https://majordigest.com/tech/2025/02/11/lauren-sanchez-alludes-to-turbulence-in-life-after-obscene-trump-inauguration-display/</link>
+          <pubDate>Tue, 11 Feb 2025 20:21:29 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/lauren-sanchez-alludes-to-turbulence-in-life-after-obscene-trump-inauguration-display.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/lauren-sanchez-alludes-to-turbulence-in-life-after-obscene-trump-inauguration-display.webp"/>
+          <dc:creator>Martha Ross, The Mercury News</dc:creator>
+        </item>
+        <item>
+          <title>Paris AI Action Summit: US and UK refuse to sign accord</title>
+          <description><![CDATA[The escalating electricity demands of artificial intelligence systems are raising concerns about the technology’s sustainability — but that’s apparently of little concern to the governments of the US and the UK.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/11/paris-ai-action-summit-us-and-uk-refuse-to-sign-accord/</guid>
+          <link>https://majordigest.com/tech/2025/02/11/paris-ai-action-summit-us-and-uk-refuse-to-sign-accord/</link>
+          <pubDate>Tue, 11 Feb 2025 20:17:07 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/paris-ai-action-summit-us-and-uk-refuse-to-sign-accord.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/paris-ai-action-summit-us-and-uk-refuse-to-sign-accord.webp"/>
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>PlayStation State of Play live build-up &#8211; start time, rumors, and all our predictions and hopes ahead of tonight's show</title>
-          <description><![CDATA[Sony's next State of Play presentation happens today, February 12, and we're tracking all the rumors and predictions in the build-up to the show]]></description>
-          <guid>https://majordigest.com/tech/2025/02/12/sony-playstation-state-of-play-february-2025-live/</guid>
-          <link>https://majordigest.com/tech/2025/02/12/sony-playstation-state-of-play-february-2025-live/</link>
-          <pubDate>Wed, 12 Feb 2025 10:44:02 GMT</pubDate>
+          <title>Inside SoftBank&#8217;s plans for Stargate and OpenAI</title>
+          <description><![CDATA[Masayoshi Son is back on top. On January 22, President Donald Trump announced a joint venture from Son’s investment holding company, SoftBank, along with OpenAI and Oracle, to invest billions of dollars in AI infrastructure projects in the U.S. The project, called Stargate, will be chaired by Son.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/11/how-softbanks-masayoshi-son-plans-to-win-the-ai-war/</guid>
+          <link>https://majordigest.com/tech/2025/02/11/how-softbanks-masayoshi-son-plans-to-win-the-ai-war/</link>
+          <pubDate>Tue, 11 Feb 2025 20:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/sony-playstation-state-of-play-february-2025-live.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/sony-playstation-state-of-play-february-2025-live.webp"/>
-          <dc:creator>rob.dwiar@futurenet.com (Rob Dwiar), TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/how-softbanks-masayoshi-son-plans-to-win-the-ai-war.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/how-softbanks-masayoshi-son-plans-to-win-the-ai-war.webp"/>
+          <dc:creator>Yasmin Gagne, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Huawei Cloud fuels Saudi Arabia&#8217;s AI ambitions at LEAP 2025</title>
-          <description><![CDATA[At LEAP 2025, Huawei Cloud demonstrated its commitment to Saudi Arabia’s AI leadership, showcasing its Riyadh Region as a pivotal hub for AI development in the Middle East, Central Asia, and Africa.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/12/huawei-cloud-fuels-saudi-arabias-ai-ambitions-at-leap-2025/</guid>
-          <link>https://majordigest.com/tech/2025/02/12/huawei-cloud-fuels-saudi-arabias-ai-ambitions-at-leap-2025/</link>
-          <pubDate>Wed, 12 Feb 2025 10:36:03 GMT</pubDate>
+          <title>How Elon Musk $97.4 billion bid complicates matters for OpenAI</title>
+          <description><![CDATA[OpenAI CEO Sam Altman has dismissed a $97.4 billion takeover bid led by rival Elon Musk, but the unsolicited offer could complicate Altman’s push to transform the maker of ChatGPT into a for-profit company.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/11/how-elon-musk-974-billion-bid-complicates-matters-for-openai/</guid>
+          <link>https://majordigest.com/tech/2025/02/11/how-elon-musk-974-billion-bid-complicates-matters-for-openai/</link>
+          <pubDate>Tue, 11 Feb 2025 19:05:46 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/huawei-cloud-fuels-saudi-arabias-ai-ambitions-at-leap-2025.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/huawei-cloud-fuels-saudi-arabias-ai-ambitions-at-leap-2025.webp"/>
-          <dc:creator>CIO</dc:creator>
-        </item>
-        <item>
-          <title>New US CIO appointments, February 2025</title>
-          <description><![CDATA[Movers & Shakers is where you can keep up with new CIO appointments and gain valuable insight into the job market and CIO hiring trends.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/12/new-cio-appointments/</guid>
-          <link>https://majordigest.com/tech/2025/02/12/new-cio-appointments/</link>
-          <pubDate>Wed, 12 Feb 2025 10:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/new-cio-appointments.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/new-cio-appointments.webp"/>
-          <dc:creator>CIO</dc:creator>
-        </item>
-        <item>
-          <title>NBN Co delivers free 600,000 fibre upgrades, with plenty more still to come &#8211; here's how to get yourself in the next batch</title>
-          <description><![CDATA[NBN Co has announced nearly 600,000 homes have taken advantage of its free fibre upgrade program with many more homes are already eligible. Find out if you're one of them and the best plans to sign-up for.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/12/nbn-co-delivers-free-600-000-fibre-upgrades-with-plenty-more-still-to-come-heres-how-to-get-yourself-in-the-next-batch/</guid>
-          <link>https://majordigest.com/tech/2025/02/12/nbn-co-delivers-free-600-000-fibre-upgrades-with-plenty-more-still-to-come-heres-how-to-get-yourself-in-the-next-batch/</link>
-          <pubDate>Wed, 12 Feb 2025 06:20:13 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/nbn-co-delivers-free-600-000-fibre-upgrades-with-plenty-more-still-to-come-heres-how-to-get-yourself-in-the-next-batch.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/nbn-co-delivers-free-600-000-fibre-upgrades-with-plenty-more-still-to-come-heres-how-to-get-yourself-in-the-next-batch.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>Meta&#8217;s laid-off &#8216;low performers&#8217; defend themselves on LinkedIn and Reddit</title>
-          <description><![CDATA[Meta underwent another big round of layoffs on Monday, cutting 3,600 jobs, or roughly 5%, of its total workforce. Between 2022 and 2023, the tech giant eliminated 21,000 positions, nearly a quarter of its workforce, and continued to reduce staff in 2024.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/12/meta-laid-off-low-performers-defend-themselves-on-linkedin-and-reddit/</guid>
-          <link>https://majordigest.com/tech/2025/02/12/meta-laid-off-low-performers-defend-themselves-on-linkedin-and-reddit/</link>
-          <pubDate>Wed, 12 Feb 2025 05:43:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/meta-laid-off-low-performers-defend-themselves-on-linkedin-and-reddit.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/meta-laid-off-low-performers-defend-themselves-on-linkedin-and-reddit.webp"/>
-          <dc:creator>Joe Berkowitz, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>Monday.com aims to be an &#8216;AI-First&#8217; platform with latest enhancements</title>
-          <description><![CDATA[Monday.com has accelerated its push into artificial intelligence (AI) with the announcement this week of its AI vision, which includes three areas of focus: AI Blocks, embedded Product Power-ups, and a forthcoming Digital Workforce of AI agents.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/12/monday-com-aims-to-be-an-ai-first-platform-with-latest-enhancements/</guid>
-          <link>https://majordigest.com/tech/2025/02/12/monday-com-aims-to-be-an-ai-first-platform-with-latest-enhancements/</link>
-          <pubDate>Wed, 12 Feb 2025 02:57:58 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/monday-com-aims-to-be-an-ai-first-platform-with-latest-enhancements.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/monday-com-aims-to-be-an-ai-first-platform-with-latest-enhancements.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>3 ways Tesla stands to win from Elon Musk&#8217;s war on the U.S. government</title>
-          <description><![CDATA[Elon Musk has long railed against the U.S. government, saying a crushing number of federal investigations and safety programs have stymied Tesla, his electric car company, and its efforts to create fleets of robotaxis and other self-driving automobiles.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/12/3-ways-tesla-stands-win-elon-musks-war-on-u-s-government/</guid>
-          <link>https://majordigest.com/tech/2025/02/12/3-ways-tesla-stands-win-elon-musks-war-on-u-s-government/</link>
-          <pubDate>Wed, 12 Feb 2025 00:33:30 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/3-ways-tesla-stands-win-elon-musks-war-on-u-s-government.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/3-ways-tesla-stands-win-elon-musks-war-on-u-s-government.webp"/>
-          <dc:creator>Associated Press, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>OSINT gets its own subcommittee on House intelligence panel</title>
-          <description><![CDATA[The intelligence community has increasingly prioritized OSINT in recent years. Now, House lawmakers are creating a new subcommittee dedicated to the discipline.
-The post OSINT gets its own subcommittee on House intelligence panel first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/osint-gets-its-own-subcommittee-on-house-intelligence-panel/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/osint-gets-its-own-subcommittee-on-house-intelligence-panel/</link>
-          <pubDate>Tue, 11 Feb 2025 21:44:30 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/osint-gets-its-own-subcommittee-on-house-intelligence-panel.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/osint-gets-its-own-subcommittee-on-house-intelligence-panel.webp"/>
-          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Biggest Google Pixel 9a leak so far reveals colors and seems to confirm the death of the camera bar</title>
-          <description><![CDATA[Not keen on the rumored redesign for the camera of the Pixel 9a? Bad news: another leak appears to confirm the bar is being ditched.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/biggest-google-pixel-9a-leak-so-far-reveals-colors-and-seems-to-confirm-the-death-of-the-camera-bar/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/biggest-google-pixel-9a-leak-so-far-reveals-colors-and-seems-to-confirm-the-death-of-the-camera-bar/</link>
-          <pubDate>Tue, 11 Feb 2025 21:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/biggest-google-pixel-9a-leak-so-far-reveals-colors-and-seems-to-confirm-the-death-of-the-camera-bar.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/biggest-google-pixel-9a-leak-so-far-reveals-colors-and-seems-to-confirm-the-death-of-the-camera-bar.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>This tiny 2TB portable SSD has a unique feature that makes it the perfect storage companion for your iPhone</title>
-          <description><![CDATA[ShiftCam’s Planck SSD delivers lightning-fast storage, perfect for creators capturing 4K ProRes video on their iPhones.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/this-tiny-2tb-portable-ssd-has-a-unique-feature-that-makes-it-the-perfect-storage-companion-for-your-iphone/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/this-tiny-2tb-portable-ssd-has-a-unique-feature-that-makes-it-the-perfect-storage-companion-for-your-iphone/</link>
-          <pubDate>Tue, 11 Feb 2025 19:49:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/this-tiny-2tb-portable-ssd-has-a-unique-feature-that-makes-it-the-perfect-storage-companion-for-your-iphone.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/this-tiny-2tb-portable-ssd-has-a-unique-feature-that-makes-it-the-perfect-storage-companion-for-your-iphone.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>Cisco data center switches feature baked-in security for AI, networking duties</title>
-          <description><![CDATA[Cisco has unwrapped a new family of data center switches it says will help customers more securely support large workloads and facilitate AI development across the enterprise.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/cisco-data-center-switches-feature-baked-in-security-for-ai-networking-duties/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/cisco-data-center-switches-feature-baked-in-security-for-ai-networking-duties/</link>
-          <pubDate>Tue, 11 Feb 2025 18:32:35 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/cisco-data-center-switches-feature-baked-in-security-for-ai-networking-duties.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/cisco-data-center-switches-feature-baked-in-security-for-ai-networking-duties.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>EU seeks to invest &#8364;200 billion in AI</title>
-          <description><![CDATA[The European Commission  announced the mobilization of €200 billion (about $207 billion) for the InvestAI plan at the AI Action Summit in Paris on Tuesday, with the aim of enabling “open and collaborative development” of artificial intelligence in Europe.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/europe-to-mobilize-200-billion-euros-to-gain-competitiveness-in-artificial-intelligence/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/europe-to-mobilize-200-billion-euros-to-gain-competitiveness-in-artificial-intelligence/</link>
-          <pubDate>Tue, 11 Feb 2025 18:01:02 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/europe-to-mobilize-200-billion-euros-to-gain-competitiveness-in-artificial-intelligence.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/europe-to-mobilize-200-billion-euros-to-gain-competitiveness-in-artificial-intelligence.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Streaming is finally profitable. It offers a lesson in patience</title>
-          <description><![CDATA[Just a couple of years ago, pundits were warning of streaming’s demise. From Netflix to Spotify, these companies were burning through cash. How could they keep operating? 
-Now, almost all of the streamers have made it to positive profits.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/streaming-is-finally-profitable-it-offers-a-lesson-in-patience/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/streaming-is-finally-profitable-it-offers-a-lesson-in-patience/</link>
-          <pubDate>Tue, 11 Feb 2025 17:15:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/streaming-is-finally-profitable-it-offers-a-lesson-in-patience.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/streaming-is-finally-profitable-it-offers-a-lesson-in-patience.webp"/>
-          <dc:creator>Henry Chandonnet, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>Supermarket Simulator Pro is no more as a number of 'spam' games are removed from the PS Store</title>
-          <description><![CDATA[It looks like Sony may have quietly removed a number of "spam" shovelware games from its PlayStation Store.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/supermarket-simulator-pro-is-no-more-as-a-number-of-spam-games-are-removed-from-the-ps-store/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/supermarket-simulator-pro-is-no-more-as-a-number-of-spam-games-are-removed-from-the-ps-store/</link>
-          <pubDate>Tue, 11 Feb 2025 17:09:48 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/supermarket-simulator-pro-is-no-more-as-a-number-of-spam-games-are-removed-from-the-ps-store.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/supermarket-simulator-pro-is-no-more-as-a-number-of-spam-games-are-removed-from-the-ps-store.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>Russian cybercrime network targeted for sanctions across US, UK and Australia</title>
-          <description><![CDATA[The U.S., U.K. and Australia have sanctioned a Russian web-hosting services provider and two Russian men who administer the service in support of Russian ransomware syndicate LockBit.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/russian-cybercrime-network-targeted-for-sanctions-across-us-uk-and-australia/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/russian-cybercrime-network-targeted-for-sanctions-across-us-uk-and-australia/</link>
-          <pubDate>Tue, 11 Feb 2025 15:39:06 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/russian-cybercrime-network-targeted-for-sanctions-across-us-uk-and-australia.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/russian-cybercrime-network-targeted-for-sanctions-across-us-uk-and-australia.webp"/>
-          <dc:creator>Fatima Hussein, Associated Press, KPRC 2</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/how-elon-musk-974-billion-bid-complicates-matters-for-openai.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/how-elon-musk-974-billion-bid-complicates-matters-for-openai.webp"/>
+          <dc:creator>Matt O'Brien, Thalia Beaty And Kelvin Chan, Associated Press, Local 4</dc:creator>
         </item>
         <item>
           <title>Esports Olympics to debut in Saudi Arabia later than expected in 2027</title>
-          <description><![CDATA[The International Olympic Committee says the first Olympic Esports Games will be hosted in Riyadh in 2027.]]></description>
+          <description><![CDATA[LAUSANNE, Switzerland (AP) — The first Olympic Esports Games will be hosted in Riyadh in 2027, two years later than expected when a 12-year deal with Saudi Arabia was signed last year.]]></description>
           <guid>https://majordigest.com/tech/2025/02/11/esports-olympics-to-debut-in-saudi-arabia-later-than-expected-in-2027/</guid>
           <link>https://majordigest.com/tech/2025/02/11/esports-olympics-to-debut-in-saudi-arabia-later-than-expected-in-2027/</link>
-          <pubDate>Tue, 11 Feb 2025 10:02:12 GMT</pubDate>
+          <pubDate>Tue, 11 Feb 2025 18:04:37 GMT</pubDate>
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/esports-olympics-to-debut-in-saudi-arabia-later-than-expected-in-2027.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/esports-olympics-to-debut-in-saudi-arabia-later-than-expected-in-2027.webp"/>
-          <dc:creator>Associated Press, KPRC 2</dc:creator>
+          <dc:creator>Associated Press, Fox 5</dc:creator>
         </item>
         <item>
-          <title>JD Vance rails against 'excessive' AI regulation in a rebuke to Europe at the Paris AI summit</title>
-          <description><![CDATA[U_S_ Vice President JD Vance has told a Paris summit on artificial intelligence that the Trump administration will “ensure that AI systems developed in America are free from ideological bias,” and that the U_S_ would “never restrict our citizens’ right to free speech.”.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/jd-vance-is-delivering-a-keynote-speech-at-paris-ai-summit-against-the-backdrop-of-tensions/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/jd-vance-is-delivering-a-keynote-speech-at-paris-ai-summit-against-the-backdrop-of-tensions/</link>
-          <pubDate>Tue, 11 Feb 2025 09:24:03 GMT</pubDate>
+          <title>How Elon Musk&#8217;s crusade against government could benefit Tesla</title>
+          <description><![CDATA[The Trump administration has not yet declared any actions that could benefit Tesla or Musk’s other companies. However, snuffing out federal investigations or jettisoning safety initiatives would be an easier task than their assault on regulators and the bureaucracy.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/11/how-elon-musks-crusade-against-government-could-benefit-tesla/</guid>
+          <link>https://majordigest.com/tech/2025/02/11/how-elon-musks-crusade-against-government-could-benefit-tesla/</link>
+          <pubDate>Tue, 11 Feb 2025 12:58:39 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/jd-vance-is-delivering-a-keynote-speech-at-paris-ai-summit-against-the-backdrop-of-tensions.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/jd-vance-is-delivering-a-keynote-speech-at-paris-ai-summit-against-the-backdrop-of-tensions.webp"/>
-          <dc:creator>Aamer Madhani And Thomas Adamson, Associated Press, KPRC 2</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/how-elon-musks-crusade-against-government-could-benefit-tesla.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/how-elon-musks-crusade-against-government-could-benefit-tesla.webp"/>
+          <dc:creator>Associated Press, The Mercury News</dc:creator>
         </item>
         <item>
-          <title>Review: Zencoder has a vision for AI coding</title>
-          <description><![CDATA[Zencoder is an AI coding assistant with interfaces to Visual Studio Code and JetBrains IDEs. It is designed to help developers ship products faster, much like GitHub Copilot, Amazon Q Developer, and Tabnine.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/review-zencoder-has-a-vision-for-ai-coding/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/review-zencoder-has-a-vision-for-ai-coding/</link>
-          <pubDate>Tue, 11 Feb 2025 09:00:00 GMT</pubDate>
+          <title>Meta layoffs to begin as company moves to cut 5 percent of workforce</title>
+          <description><![CDATA[The layoffs, according to Zuckerberg, would target "low-performers." The layoffs will amount to roughly 3,600 people losing their jobs, according to a report.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/10/meta-layoffs/</guid>
+          <link>https://majordigest.com/tech/2025/02/10/meta-layoffs/</link>
+          <pubDate>Mon, 10 Feb 2025 20:44:43 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/review-zencoder-has-a-vision-for-ai-coding.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/review-zencoder-has-a-vision-for-ai-coding.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/meta-layoffs.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/meta-layoffs.webp"/>
+          <dc:creator>Alex Baker, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>DeepSeek banned from NY state government devices</title>
+          <description><![CDATA[New York State is prohibiting the China-based artificial intelligence application DeepSeek from government devices. New York Gov.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/10/deepseek-banned-from-ny-state-government-devices/</guid>
+          <link>https://majordigest.com/tech/2025/02/10/deepseek-banned-from-ny-state-government-devices/</link>
+          <pubDate>Mon, 10 Feb 2025 20:19:13 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/deepseek-banned-from-ny-state-government-devices.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/deepseek-banned-from-ny-state-government-devices.webp"/>
+          <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Google&#8217;s generative AI Toolbox for Databases to help connect agents with databases</title>
+          <description><![CDATA[Google’s cloud computing division, Google Cloud, has added a new generative AI Toolbox for Databases to help enterprise developers connect agent-based generative AI applications to its databases.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases/</guid>
+          <link>https://majordigest.com/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases/</link>
+          <pubDate>Mon, 10 Feb 2025 09:33:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>The cloud giants stumble</title>
-          <description><![CDATA[Recent financial results from the major cloud providers reveal a concerning trend in cloud adoption and growth. AWS reported just 13% growth in the final quarter of 2023, Microsoft Azure saw 19% growth, and Google Cloud achieved 26% growth—all below market expectations.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/the-cloud-giants-stumble/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/the-cloud-giants-stumble/</link>
-          <pubDate>Tue, 11 Feb 2025 09:00:00 GMT</pubDate>
+          <title>Notre Dame scores big with Wi-Fi 6E stadium upgrade</title>
+          <description><![CDATA[When 80,000 fans fill the University of Notre Dame’s iconic football stadium on Saturday afternoons in the fall to cheer on the Fighting Irish, there’s no shortage of high-decibel screaming. And now, thanks to a major network expansion, there’s no shortage of high-bandwidth streaming.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/10/notre-dame-scores-big-with-football-stadium-upgrade-to-wi-fi-6e/</guid>
+          <link>https://majordigest.com/tech/2025/02/10/notre-dame-scores-big-with-football-stadium-upgrade-to-wi-fi-6e/</link>
+          <pubDate>Mon, 10 Feb 2025 07:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/the-cloud-giants-stumble.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/the-cloud-giants-stumble.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Elon Musk&#8217;s $97 billion OpenAI bid could give the DOGE chief even more power in the AI race</title>
-          <description><![CDATA[A group of investors led by Elon Musk has given OpenAI an unsolicited offer of $97.4 billion to buy the nonprofit part of OpenAI. An attorney for the group submitted the bid to OpenAI Monday, the Wall Street Journal reports.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/elon-musk-97-billion-openai-bid/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/elon-musk-97-billion-openai-bid/</link>
-          <pubDate>Tue, 11 Feb 2025 06:03:06 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/elon-musk-97-billion-openai-bid.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/elon-musk-97-billion-openai-bid.webp"/>
-          <dc:creator>Mark Sullivan, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>Ukraine's rare earth elements could help keep US military aid flowing</title>
-          <description><![CDATA[Ukraine has offered to strike a deal with U.S. President Donald Trump for continued American military aid in exchange for developing Ukraine’s mineral industry.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/11/why-are-ukraines-minerals-key-to-keeping-us-military-aid-flowing/</guid>
-          <link>https://majordigest.com/tech/2025/02/11/why-are-ukraines-minerals-key-to-keeping-us-military-aid-flowing/</link>
-          <pubDate>Tue, 11 Feb 2025 05:17:39 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/why-are-ukraines-minerals-key-to-keeping-us-military-aid-flowing.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/why-are-ukraines-minerals-key-to-keeping-us-military-aid-flowing.webp"/>
-          <dc:creator>Samya Kullab, Associated Press, KPRC 2</dc:creator>
-        </item>
-        <item>
-          <title>News influencers favored Trump over Harris during campaign, study finds</title>
-          <description><![CDATA[NEW YORK (AP) — Americans who followed news influencers during the presidential campaign were more likely to hear positive reports about Donald Trump than they were about Kamala Harris, a study has revealed.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/news-influencers-favored-trump-over-harris-during-campaign-study-finds/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/news-influencers-favored-trump-over-harris-during-campaign-study-finds/</link>
-          <pubDate>Mon, 10 Feb 2025 21:37:56 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/news-influencers-favored-trump-over-harris-during-campaign-study-finds.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/news-influencers-favored-trump-over-harris-during-campaign-study-finds.webp"/>
-          <dc:creator>DAVID BAUDER, Associated Press, Fox 5</dc:creator>
-        </item>
-        <item>
-          <title>Cisco launches AI Renewals Agent with Mistral AI</title>
-          <description><![CDATA[Cisco rolled out its first of many AI agents codeveloped with partner Mistral AI, a genAI and large language model (LLM) startup.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/cisco-launches-ai-renewals-agent-with-mistral-ai/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/cisco-launches-ai-renewals-agent-with-mistral-ai/</link>
-          <pubDate>Mon, 10 Feb 2025 21:16:23 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/cisco-launches-ai-renewals-agent-with-mistral-ai.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/cisco-launches-ai-renewals-agent-with-mistral-ai.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/notre-dame-scores-big-with-football-stadium-upgrade-to-wi-fi-6e.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/notre-dame-scores-big-with-football-stadium-upgrade-to-wi-fi-6e.webp"/>
           <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>Musk furious as judge shuts down DOGE access to Treasury payment system</title>
-          <description><![CDATA[The US Treasury Department’s payment servers hold the tax returns, social security data and bank account numbers of every adult citizen of the United States.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/musk-furious-as-judge-shuts-down-doge-access-to-treasury-payment-system/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/musk-furious-as-judge-shuts-down-doge-access-to-treasury-payment-system/</link>
-          <pubDate>Mon, 10 Feb 2025 18:19:05 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/musk-furious-as-judge-shuts-down-doge-access-to-treasury-payment-system.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/musk-furious-as-judge-shuts-down-doge-access-to-treasury-payment-system.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Internet upgrade part of a move towards 400/800G connectivity</title>
-          <description><![CDATA[The industry transition to 400 Gigabit Ethernet networking took a big step forward this week when the world’s leading Internet exchange operator announced plans to upgrade its New York backbone to 400G.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/internet-upgrade-upgrade-part-of-a-move-towards-400g-and-800g-connectivity/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/internet-upgrade-upgrade-part-of-a-move-towards-400g-and-800g-connectivity/</link>
-          <pubDate>Mon, 10 Feb 2025 17:48:07 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/internet-upgrade-upgrade-part-of-a-move-towards-400g-and-800g-connectivity.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/internet-upgrade-upgrade-part-of-a-move-towards-400g-and-800g-connectivity.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>Microsoft Teams is becoming a prime target for sophisticated scammers</title>
-          <description><![CDATA[Tech expert Kurt “CyberGuy&quot; Knutsson says hackers are using Microsoft Teams for phishing, vishing and quishing via social engineering.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/microsoft-teams-becoming-prime-target-sophisticated-scammers/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/microsoft-teams-becoming-prime-target-sophisticated-scammers/</link>
-          <pubDate>Mon, 10 Feb 2025 15:00:48 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/microsoft-teams-becoming-prime-target-sophisticated-scammers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/microsoft-teams-becoming-prime-target-sophisticated-scammers.webp"/>
-          <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>Your &#8216;new&#8217; Seagate data center hard drive is likely a used one</title>
-          <description><![CDATA[A growing number of buyers have reported purchasing supposedly new Seagate data center-grade hard drives, only to discover that they had been previously used for thousands of hours.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/your-new-seagate-data-center-hard-drive-could-be-a-used-one/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/your-new-seagate-data-center-hard-drive-could-be-a-used-one/</link>
-          <pubDate>Mon, 10 Feb 2025 12:29:17 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/your-new-seagate-data-center-hard-drive-could-be-a-used-one.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/your-new-seagate-data-center-hard-drive-could-be-a-used-one.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>When LLMs become influencers</title>
-          <description><![CDATA[On Sunday people tuned in to watch the Super Bowl—and lots and lots of ads. Online, however, it’s increasingly the case that AI agents will see and interact with ads. Humans won’t.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/when-llms-become-influencers/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/when-llms-become-influencers/</link>
-          <pubDate>Mon, 10 Feb 2025 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/when-llms-become-influencers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/when-llms-become-influencers.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Musk calls for annual firing of judges after blocked DOGE access at Treasury</title>
-          <description><![CDATA[Tech billionaire Elon Musk called for the annual firing of judges following an early Saturday decision from a judge stating that the Treasury Department should bar access to its payment systems to anyone besides “civil servants with a need for access to perform their job duties.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/09/musk-annual-firing-judges-doge/</guid>
-          <link>https://majordigest.com/tech/2025/02/09/musk-annual-firing-judges-doge/</link>
-          <pubDate>Sun, 09 Feb 2025 21:34:18 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/09/musk-annual-firing-judges-doge.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/09/musk-annual-firing-judges-doge.webp"/>
-          <dc:creator>Tara Suter, The Hill</dc:creator>
         </item>
         <item>
           <title>Trump's AI ambition and China's DeepSeek overshadow an AI summit in Paris</title>
@@ -381,50 +181,150 @@ Now, almost all of the streamers have made it to positive profits.]]></descripti
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/09/trumps-ai-ambition-and-chinas-deepseek-overshadow-an-ai-summit-in-paris.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/09/trumps-ai-ambition-and-chinas-deepseek-overshadow-an-ai-summit-in-paris.webp"/>
-          <dc:creator>SYLVIE CORBET and KELVIN CHAN, Associated Press, KLAS, CBS News</dc:creator>
+          <dc:creator>SYLVIE CORBET and KELVIN CHAN, Associated Press, KREX 5</dc:creator>
         </item>
         <item>
-          <title>Is PSN still down? PlayStation Network addressing ongoing outage</title>
-          <description><![CDATA[Thousands of users have reported outages with the PlayStation Network since Friday evening but as of Saturday morning things still didn't seem back normal.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage/</guid>
-          <link>https://majordigest.com/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage/</link>
-          <pubDate>Sat, 08 Feb 2025 21:49:00 GMT</pubDate>
+          <title>Never lose cell service again with this space-age satellite tech</title>
+          <description><![CDATA[AST SpaceMobile of Texas is developing the world&apos;s first global cellular broadband network that can connect directly to your smartphone without special equipment.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/09/never-lose-cell-service-again-space-age-satellite-tech/</guid>
+          <link>https://majordigest.com/tech/2025/02/09/never-lose-cell-service-again-space-age-satellite-tech/</link>
+          <pubDate>Sun, 09 Feb 2025 11:00:54 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage.webp"/>
-          <dc:creator>Dominique Jack, NewsNation</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/09/never-lose-cell-service-again-space-age-satellite-tech.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/09/never-lose-cell-service-again-space-age-satellite-tech.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>JDK 24: The new features in Java 24</title>
-          <description><![CDATA[Java Development Kit (JDK) 24 has entered the release candidate stage. The next version of standard Java will ship with 24 features, ranging from a class-file API to a fourth preview of structured concurrency.
-The first JDK 24 release candidate arrived February 6, following two rampdown stages.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/08/jdk-24-the-new-features-in-java-24/</guid>
-          <link>https://majordigest.com/tech/2025/02/08/jdk-24-the-new-features-in-java-24/</link>
-          <pubDate>Sat, 08 Feb 2025 00:04:56 GMT</pubDate>
+          <title>Latino workers working to overcome a technological divide brought on by automation, AI</title>
+          <description><![CDATA[As jobs become more reliant on technology some Latino workers can be left behind due to a lack of digital skills exacerbated by a lack of accessibility.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/09/latino-workers-working-to-overcome-a-technological-divide-brought-on-by-automation-ai/</guid>
+          <link>https://majordigest.com/tech/2025/02/09/latino-workers-working-to-overcome-a-technological-divide-brought-on-by-automation-ai/</link>
+          <pubDate>Sun, 09 Feb 2025 04:48:28 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/08/jdk-24-the-new-features-in-java-24.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/08/jdk-24-the-new-features-in-java-24.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/09/latino-workers-working-to-overcome-a-technological-divide-brought-on-by-automation-ai.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/09/latino-workers-working-to-overcome-a-technological-divide-brought-on-by-automation-ai.webp"/>
+          <dc:creator>FERNANDA FIGUEROA, Associated Press, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>OpenAI looks across US for sites to build its Trump-backed Stargate AI data centers</title>
+          <description><![CDATA[OpenAI is scouring the U.S. for sites to build a network of huge data centers to power its artificial intelligence technology, expanding beyond a flagship Texas location and looking across 16 states to accelerate the Stargate project championed by President Donald Trump.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/07/openai-looks-across-us-for-sites-to-build-its-trump-backed-stargate-ai-data-centers/</guid>
+          <link>https://majordigest.com/tech/2025/02/07/openai-looks-across-us-for-sites-to-build-its-trump-backed-stargate-ai-data-centers/</link>
+          <pubDate>Fri, 07 Feb 2025 00:44:02 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/07/openai-looks-across-us-for-sites-to-build-its-trump-backed-stargate-ai-data-centers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/07/openai-looks-across-us-for-sites-to-build-its-trump-backed-stargate-ai-data-centers.webp"/>
+          <dc:creator>MATT O'BRIEN, Associated Press, KGET 17, NBC</dc:creator>
+        </item>
+        <item>
+          <title>Nebraska government system shutdown disrupts the Legislature, DMV and other offices</title>
+          <description><![CDATA[OMAHA, Neb. (AP) — A systemwide outage of state goverment computers shut down everything from the work of the Legislature to driver’s licensing offices for several hours Thursday.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/06/nebraska-government-system-shutdown-disrupts-the-legislature-dmv-and-other-offices/</guid>
+          <link>https://majordigest.com/tech/2025/02/06/nebraska-government-system-shutdown-disrupts-the-legislature-dmv-and-other-offices/</link>
+          <pubDate>Thu, 06 Feb 2025 21:33:07 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/06/nebraska-government-system-shutdown-disrupts-the-legislature-dmv-and-other-offices.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/06/nebraska-government-system-shutdown-disrupts-the-legislature-dmv-and-other-offices.webp"/>
+          <dc:creator>MARGERY A. BECK, Associated Press, KRON4</dc:creator>
+        </item>
+        <item>
+          <title>Oracle maintains hold on JavaScript trademark</title>
+          <description><![CDATA[Oracle, under external pressure to yield control over the JavaScript trademark, has instead filed a motion for dismissal of part of a petition to cancel the trademark.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/06/oracle-maintains-hold-on-javascript-trademark/</guid>
+          <link>https://majordigest.com/tech/2025/02/06/oracle-maintains-hold-on-javascript-trademark/</link>
+          <pubDate>Thu, 06 Feb 2025 18:09:41 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/06/oracle-maintains-hold-on-javascript-trademark.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/06/oracle-maintains-hold-on-javascript-trademark.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Visual Studio Code unveils Copilot code editing suggestions</title>
-          <description><![CDATA[A just-released update of Visual Studio Code, version 1.97, introduces a preview of Copilot Next Edit Suggestions, an AI-powered feature that predicts the next edit the user wants to make.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/07/visual-studio-code-unveils-copilot-code-editing-suggestions/</guid>
-          <link>https://majordigest.com/tech/2025/02/07/visual-studio-code-unveils-copilot-code-editing-suggestions/</link>
-          <pubDate>Fri, 07 Feb 2025 23:47:20 GMT</pubDate>
+          <title>Spy vs spy: Security agencies help secure the network edge</title>
+          <description><![CDATA[The national intelligence services of five countries have offered enterprises advice on beating spies at their own game in a series of documents intended to help them protect network edge devices and appliances such as firewalls, routers, VPN (virtual private networks) gateways, internet of things (]]></description>
+          <guid>https://majordigest.com/tech/2025/02/06/spy-vs-spy-security-agencies-help-secure-the-network-edge/</guid>
+          <link>https://majordigest.com/tech/2025/02/06/spy-vs-spy-security-agencies-help-secure-the-network-edge/</link>
+          <pubDate>Thu, 06 Feb 2025 13:30:34 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/07/visual-studio-code-unveils-copilot-code-editing-suggestions.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/07/visual-studio-code-unveils-copilot-code-editing-suggestions.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>AWS plans to outspend Microsoft and Google on AI infrastructure</title>
-          <description><![CDATA[Amazon Web Services (AWS) intends to invest $100 billion in ramping up infrastructure for AI cloud services this year, surpassing the spending plans of rivals Microsoft and Google.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/07/aws-plans-to-outspend-microsoft-and-google-on-on-ai-infrastructure/</guid>
-          <link>https://majordigest.com/tech/2025/02/07/aws-plans-to-outspend-microsoft-and-google-on-on-ai-infrastructure/</link>
-          <pubDate>Fri, 07 Feb 2025 15:38:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/07/aws-plans-to-outspend-microsoft-and-google-on-on-ai-infrastructure.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/07/aws-plans-to-outspend-microsoft-and-google-on-on-ai-infrastructure.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/06/spy-vs-spy-security-agencies-help-secure-the-network-edge.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/06/spy-vs-spy-security-agencies-help-secure-the-network-edge.webp"/>
           <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Lawmakers warn hiring freeze could thwart cyber workforce efforts</title>
+          <description><![CDATA[A former White House official who led cyber and tech recruiting efforts said the hiring freeze "will set us back months if not years."
+The post Lawmakers warn hiring freeze could thwart cyber workforce efforts first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/06/lawmakers-warn-hiring-freeze-could-thwart-cyber-workforce-efforts/</guid>
+          <link>https://majordigest.com/tech/2025/02/06/lawmakers-warn-hiring-freeze-could-thwart-cyber-workforce-efforts/</link>
+          <pubDate>Thu, 06 Feb 2025 12:35:54 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/06/lawmakers-warn-hiring-freeze-could-thwart-cyber-workforce-efforts.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/06/lawmakers-warn-hiring-freeze-could-thwart-cyber-workforce-efforts.webp"/>
+          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>One Tech Tip: How to block your phone from tracking your location</title>
+          <description><![CDATA[LONDON (AP) — Smartphones are useful tools for everyday life, but they're privy to nearly everything about you, including all the places you've been — if you let them.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/06/one-tech-tip-how-to-block-your-phone-from-tracking-your-location/</guid>
+          <link>https://majordigest.com/tech/2025/02/06/one-tech-tip-how-to-block-your-phone-from-tracking-your-location/</link>
+          <pubDate>Thu, 06 Feb 2025 09:00:09 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/06/one-tech-tip-how-to-block-your-phone-from-tracking-your-location.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/06/one-tech-tip-how-to-block-your-phone-from-tracking-your-location.webp"/>
+          <dc:creator>KELVIN CHAN, Associated Press, Fox 5</dc:creator>
+        </item>
+        <item>
+          <title>Google scraps its diversity hiring goals as it complies with Trump's new government contractor rules</title>
+          <description><![CDATA[SAN FRANCISCO (AP) — Google is scrapping some of its diversity hiring targets, joining a lengthening list of U.S. companies that have abandoned or scaled back their diversity, equity and inclusion programs.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/06/google-scraps-its-diversity-hiring-goals-as-it-complies-with-trumps-new-government-contractor-rules/</guid>
+          <link>https://majordigest.com/tech/2025/02/06/google-scraps-its-diversity-hiring-goals-as-it-complies-with-trumps-new-government-contractor-rules/</link>
+          <pubDate>Thu, 06 Feb 2025 00:25:54 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/06/google-scraps-its-diversity-hiring-goals-as-it-complies-with-trumps-new-government-contractor-rules.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/06/google-scraps-its-diversity-hiring-goals-as-it-complies-with-trumps-new-government-contractor-rules.webp"/>
+          <dc:creator>MICHAEL LIEDTKE, Associated Press, KLAS, CBS News</dc:creator>
+        </item>
+        <item>
+          <title>DOGE&#8217;s &#8216;unimpeded&#8217; access to classified data poses national, economic security risks</title>
+          <description><![CDATA[There is no information on who has been hired under DOGE, the authority under which it operates, or how it vets and monitors its staff.
+The post DOGE’s ‘unimpeded’ access to classified data poses national, economic security risks first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/05/doges-unimpeded-access-to-classified-data-poses-national-economic-security-risks/</guid>
+          <link>https://majordigest.com/tech/2025/02/05/doges-unimpeded-access-to-classified-data-poses-national-economic-security-risks/</link>
+          <pubDate>Wed, 05 Feb 2025 23:11:09 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/doges-unimpeded-access-to-classified-data-poses-national-economic-security-risks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/doges-unimpeded-access-to-classified-data-poses-national-economic-security-risks.webp"/>
+          <dc:creator>Anastasia Obis, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Kyndryl expands Palo Alto deal to offer managed SASE service</title>
+          <description><![CDATA[Kyndryl has expanded its alliance with Palo Alto Networks to add secure access service edge (SASE) services to its managed services offerings.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/05/kyndryl-expands-palo-alto-deal-to-offer-managed-sase-service/</guid>
+          <link>https://majordigest.com/tech/2025/02/05/kyndryl-expands-palo-alto-deal-to-offer-managed-sase-service/</link>
+          <pubDate>Wed, 05 Feb 2025 17:50:36 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/kyndryl-expands-palo-alto-deal-to-offer-managed-sase-service.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/kyndryl-expands-palo-alto-deal-to-offer-managed-sase-service.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Fox News AI Newsletter: AI takes big step forward with 3D-printed shoe</title>
+          <description><![CDATA[Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/05/fox-news-ai-newsletter-ai-takes-big-step-forward-3d-printed-shoe/</guid>
+          <link>https://majordigest.com/tech/2025/02/05/fox-news-ai-newsletter-ai-takes-big-step-forward-3d-printed-shoe/</link>
+          <pubDate>Wed, 05 Feb 2025 16:56:10 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/fox-news-ai-newsletter-ai-takes-big-step-forward-3d-printed-shoe.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/fox-news-ai-newsletter-ai-takes-big-step-forward-3d-printed-shoe.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Fast fashion, laptops and toys are likely to cost more due to US tariffs on Chinese imports</title>
+          <description><![CDATA[A sweeping new U.S. tariff on products made in China is expected to increase the prices American consumers pay for a wide array of products, from the ultra-cheap apparel sold on online shopping platforms to toys and electronic devices such as computers and cellphones.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/05/fast-fashion-laptops-and-toys-are-likely-to-cost-more-due-to-us-tariffs-on-chinese-imports/</guid>
+          <link>https://majordigest.com/tech/2025/02/05/fast-fashion-laptops-and-toys-are-likely-to-cost-more-due-to-us-tariffs-on-chinese-imports/</link>
+          <pubDate>Wed, 05 Feb 2025 15:17:22 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/05/fast-fashion-laptops-and-toys-are-likely-to-cost-more-due-to-us-tariffs-on-chinese-imports.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/05/fast-fashion-laptops-and-toys-are-likely-to-cost-more-due-to-us-tariffs-on-chinese-imports.webp"/>
+          <dc:creator>HALELUYA HADERO, Associated Press, KGET 17, NBC</dc:creator>
         </item></channel></rss>
