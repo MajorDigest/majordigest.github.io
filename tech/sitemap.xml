@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2025/02/13/what-can-we-learn-from-insulin-price-reductions/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-13T09:20:00.000Z</news:publication_date>
+            <news:title>What can we learn from insulin price reductions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/13/what-can-we-learn-from-insulin-price-reductions.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/02/13/why-your-iot-devices-are-the-weakest-link-in-security/</loc>
           <news:news>
             <news:publication>
@@ -17,6 +31,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2025/02/13/trump-firing-national-archivist-colleen-shogan/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-13T01:30:41.000Z</news:publication_date>
+            <news:title>Trump&#8217;s firing of the U.S. government archivist is far worse than it might seem</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/13/trump-firing-national-archivist-colleen-shogan.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/02/13/sec-and-binance-request-60-day-pause-in-lawsuit-as-the-agency-shifts-to-be-more-crypto-friendly/</loc>
           <news:news>
             <news:publication>
@@ -24,10 +52,24 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-02-13T01:00:00.000Z</news:publication_date>
-            <news:title>SEC and Binance request 60-day pause in lawsuit as the agency shifts to be more crypto-friendly</news:title>
+            <news:title>The SEC's Shift on Crypto: A New Era for Binance?</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/02/13/sec-and-binance-request-60-day-pause-in-lawsuit-as-the-agency-shifts-to-be-more-crypto-friendly.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/13/go-1-24-brings-full-support-for-generic-type-aliases/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-13T00:07:49.000Z</news:publication_date>
+            <news:title>Go 1.24 arrives with generic type aliases, boosted WebAssembly support</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/13/go-1-24-brings-full-support-for-generic-type-aliases.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,45 +87,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/12/house-commerce-chair-launches-data-privacy-working-group/</loc>
+          <loc>https://majordigest.com/tech/2025/02/12/cooling-an-rtx-5090-gpu-using-a-12-000-btu-hvac-i-am-not-sure-that-is-a-good-idea-at-all/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T21:45:23.000Z</news:publication_date>
-            <news:title>House Commerce chair launches data privacy working group</news:title>
+            <news:publication_date>2025-02-12T22:08:00.000Z</news:publication_date>
+            <news:title>Cooling an RTX 5090 GPU using a 12,000 BTU HVAC? I am not sure that is a good idea at all</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/house-commerce-chair-launches-data-privacy-working-group.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/12/chatgpt-deep-research/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-12T20:30:00.000Z</news:publication_date>
-            <news:title>ChatGPT&#8217;s latest feature is a transformative leap for web research</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/chatgpt-deep-research.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/12/apple-tv-is-finally-available-on-android-devices-just-in-time-to-stream-mls-and-severance-season-2/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-12T20:00:00.000Z</news:publication_date>
-            <news:title>Apple TV is finally available on Android devices &#8211; just in time to stream MLS and  Severance season 2</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/apple-tv-is-finally-available-on-android-devices-just-in-time-to-stream-mls-and-severance-season-2.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/cooling-an-rtx-5090-gpu-using-a-12-000-btu-hvac-i-am-not-sure-that-is-a-good-idea-at-all.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -94,24 +108,94 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-02-12T18:47:19.000Z</news:publication_date>
-            <news:title>Thomson Reuters scores early win in AI copyright battles in the US</news:title>
+            <news:title>Thomson Reuters Wins Battle Over AI Copyright Use</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/02/12/thomson-reuters-scores-early-win-in-ai-copyright-battles-in-the-us.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/12/google-chrome-might-soon-use-ai-to-make-you-a-better-password/</loc>
+          <loc>https://majordigest.com/tech/2025/02/12/hpe-expands-proliant-server-portfolio-boosts-ai-and-security-features/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T16:10:00.000Z</news:publication_date>
-            <news:title>Google Chrome might soon use AI to make you a better password</news:title>
+            <news:publication_date>2025-02-12T18:38:16.000Z</news:publication_date>
+            <news:title>HPE expands ProLiant server portfolio, boosts AI and security features</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/google-chrome-might-soon-use-ai-to-make-you-a-better-password.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/hpe-expands-proliant-server-portfolio-boosts-ai-and-security-features.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/12/showing-memory-usage-in-linux-by-process-and-user/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-12T18:11:56.000Z</news:publication_date>
+            <news:title>Showing memory usage in Linux by process and user</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/showing-memory-usage-in-linux-by-process-and-user.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/12/nvidia-partners-with-cybersecurity-vendors-for-real-time-monitoring/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-12T18:06:57.000Z</news:publication_date>
+            <news:title>Nvidia partners with cybersecurity vendors for real-time monitoring</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/nvidia-partners-with-cybersecurity-vendors-for-real-time-monitoring.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/12/when-it-comes-to-ai-innovation-isnt-enough/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-12T17:19:00.000Z</news:publication_date>
+            <news:title>When it comes to AI, innovation isn&#8217;t enough</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/when-it-comes-to-ai-innovation-isnt-enough.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/12/google-family-link-is-the-best-free-app-for-parents-and-it-just-got-3-big-upgrades/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-12T17:00:20.000Z</news:publication_date>
+            <news:title>Google Family Link is the best free app for parents &#8211; and it just got a great school-time upgrade</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/google-family-link-is-the-best-free-app-for-parents-and-it-just-got-3-big-upgrades.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/12/federal-health-agencies-restore-webpages-and-datasets-following-judges-order/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-12T16:17:27.000Z</news:publication_date>
+            <news:title>Federal health agencies restore webpages and datasets following judge's order</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/federal-health-agencies-restore-webpages-and-datasets-following-judges-order.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -122,24 +206,24 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-02-12T15:29:20.000Z</news:publication_date>
-            <news:title>The Gulf of America: A New Name for a Historic Body of Water</news:title>
+            <news:title>Apple renames Gulf of Mexico as Gulf of America on maps</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/02/12/apple-maps-renames-gulf-of-mexico.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/12/scarlett-johansson-anti-ai-video/</loc>
+          <loc>https://majordigest.com/tech/2025/02/12/apple-just-unveiled-its-most-ambitious-health-study-yet-heres-how-you-can-take-part-with-just-an-iphone/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T15:05:50.000Z</news:publication_date>
-            <news:title>Scarlett Johansson calls out AI misuse after viral video ripping Ye</news:title>
+            <news:publication_date>2025-02-12T15:10:16.000Z</news:publication_date>
+            <news:title>Apple just unveiled its most ambitious health study yet &#8211; here's how you can take part with just an iPhone</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/scarlett-johansson-anti-ai-video.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/apple-just-unveiled-its-most-ambitious-health-study-yet-heres-how-you-can-take-part-with-just-an-iphone.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -157,45 +241,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/12/snowflake-announces-preview-of-cortex-agent-apis-to-power-enterprise-data-intelligence/</loc>
+          <loc>https://majordigest.com/tech/2025/02/12/looking-for-love-this-valentines-day-dont-fall-for-instagram-romance-scams/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T14:05:00.000Z</news:publication_date>
-            <news:title>Snowflake announces preview of Cortex Agent APIs to power enterprise data intelligence</news:title>
+            <news:publication_date>2025-02-12T14:06:44.000Z</news:publication_date>
+            <news:title>Looking for love this Valentine's Day? Don't fall for Instagram romance scams</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/snowflake-announces-preview-of-cortex-agent-apis-to-power-enterprise-data-intelligence.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/looking-for-love-this-valentines-day-dont-fall-for-instagram-romance-scams.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/12/opinion-the-dangerous-ai-nonsense-that-trump-and-biden-fell-for/</loc>
+          <loc>https://majordigest.com/tech/2025/02/12/microsoft-finally-fixes-some-of-windows-11s-most-annoying-problems-with-new-patch/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T12:30:33.000Z</news:publication_date>
-            <news:title>Opinion: DeepSeek exposed dangerous AI nonsense that Trump and Biden fell for</news:title>
+            <news:publication_date>2025-02-12T12:28:33.000Z</news:publication_date>
+            <news:title>Microsoft finally fixes some of Windows 11&#8217;s most annoying problems with new patch</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/opinion-the-dangerous-ai-nonsense-that-trump-and-biden-fell-for.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/microsoft-finally-fixes-some-of-windows-11s-most-annoying-problems-with-new-patch.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/12/wes-andersons-the-phoenician-scheme-is-arriving-sooner-than-you-think-and-im-hugely-excited-for-michael-ceras-cameo/</loc>
+          <loc>https://majordigest.com/tech/2025/02/12/the-samsung-galaxy-s25-edge-has-appeared-on-geekbench-with-so-so-performance-scores-but-were-not-worried-yet/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T11:41:59.000Z</news:publication_date>
-            <news:title>Wes Anderson&#8217;s The Phoenician Scheme is arriving sooner than you think, and I'm hugely excited for Michael Cera&#8217;s cameo</news:title>
+            <news:publication_date>2025-02-12T11:26:14.000Z</news:publication_date>
+            <news:title>The Samsung Galaxy S25 Edge has appeared on Geekbench with so-so performance scores &#8211; but we're not worried yet</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/wes-andersons-the-phoenician-scheme-is-arriving-sooner-than-you-think-and-im-hugely-excited-for-michael-ceras-cameo.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/the-samsung-galaxy-s25-edge-has-appeared-on-geekbench-with-so-so-performance-scores-but-were-not-worried-yet.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -213,6 +297,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2025/02/12/how-delete-multiple-text-messages-mac-ipad/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-12T11:00:40.000Z</news:publication_date>
+            <news:title>How to delete multiple text messages on a Mac and iPad</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/how-delete-multiple-text-messages-mac-ipad.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/12/upgrade-windows-10-pcs-to-windows-11/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-12T11:00:00.000Z</news:publication_date>
+            <news:title>Yes, you can still upgrade Windows 10 PCs to Windows 11</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/upgrade-windows-10-pcs-to-windows-11.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/02/12/is-this-the-iphone-se-4-new-apple-device-seemingly-appears-in-leaked-images-as-revised-release-date-emerges/</loc>
           <news:news>
             <news:publication>
@@ -227,59 +339,129 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/12/new-cio-appointments/</loc>
+          <loc>https://majordigest.com/tech/2025/02/12/office-365-a-guide-to-the-updates/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-12T10:18:38.000Z</news:publication_date>
+            <news:title>Microsoft 365: A guide to the updates</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/office-365-a-guide-to-the-updates.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/12/matching-tech-to-degrees-of-scale-at-the-salvation-army/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-02-12T10:00:00.000Z</news:publication_date>
-            <news:title>New US CIO appointments, February 2025</news:title>
+            <news:title>Matching tech to degrees of scale at the Salvation Army</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/new-cio-appointments.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/matching-tech-to-degrees-of-scale-at-the-salvation-army.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/12/rust-memory-management-explained/</loc>
+          <loc>https://majordigest.com/tech/2025/02/11/virginia-governor-bans-deepseek/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T09:00:00.000Z</news:publication_date>
-            <news:title>Rust memory management explained</news:title>
+            <news:publication_date>2025-02-11T20:41:58.000Z</news:publication_date>
+            <news:title>Virginia bans DeepSeek from state devices, networks</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/rust-memory-management-explained.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/11/virginia-governor-bans-deepseek.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/12/3-ways-tesla-stands-win-elon-musks-war-on-u-s-government/</loc>
+          <loc>https://majordigest.com/tech/2025/02/11/reset-what-you-see-social-media/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T00:33:30.000Z</news:publication_date>
-            <news:title>3 ways Tesla stands to win from Elon Musk&#8217;s war on the U.S. government</news:title>
+            <news:publication_date>2025-02-11T19:55:38.000Z</news:publication_date>
+            <news:title>Reset what you see on social media</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/3-ways-tesla-stands-win-elon-musks-war-on-u-s-government.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/11/reset-what-you-see-social-media.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/11/esports-olympics-to-debut-in-saudi-arabia-later-than-expected-in-2027/</loc>
+          <loc>https://majordigest.com/tech/2025/02/11/ip-fabric-expands-network-visibility-automation-with-platform-update/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-11T18:04:37.000Z</news:publication_date>
-            <news:title>Esports Olympics to debut in Saudi Arabia later than expected in 2027</news:title>
+            <news:publication_date>2025-02-11T17:05:02.000Z</news:publication_date>
+            <news:title>IP Fabric expands network visibility, automation with platform update</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/11/esports-olympics-to-debut-in-saudi-arabia-later-than-expected-in-2027.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/11/ip-fabric-expands-network-visibility-automation-with-platform-update.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/11/opinion-teslas-awful-numbers-put-musk-back-into-campaign-mode/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-11T13:00:17.000Z</news:publication_date>
+            <news:title>Opinion: Tesla&#8217;s awful numbers put Musk back into campaign mode</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/11/opinion-teslas-awful-numbers-put-musk-back-into-campaign-mode.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/11/microsoft-visio-cheat-sheet-create-diagrams/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-11T11:00:00.000Z</news:publication_date>
+            <news:title>Microsoft Visio cheat sheet: How to get started</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/11/microsoft-visio-cheat-sheet-create-diagrams.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/10/news-influencers-favored-trump-over-harris-during-campaign-study-finds/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-10T21:37:56.000Z</news:publication_date>
+            <news:title>News influencers favored Trump over Harris during campaign, study finds</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/10/news-influencers-favored-trump-over-harris-during-campaign-study-finds.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/10/congress-gets-set-to-deal-with-artificial-intelligence-in-health-care/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-10T19:29:35.000Z</news:publication_date>
+            <news:title>Congress gets set to deal with artificial intelligence in health care</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/10/congress-gets-set-to-deal-with-artificial-intelligence-in-health-care.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -297,73 +479,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/09/trumps-ai-ambition-and-chinas-deepseek-overshadow-an-ai-summit-in-paris/</loc>
+          <loc>https://majordigest.com/tech/2025/02/09/latino-workers-working-to-overcome-a-technological-divide-brought-on-by-automation-ai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-09T18:52:09.000Z</news:publication_date>
-            <news:title>Trump's AI ambition and China's DeepSeek overshadow an AI summit in Paris</news:title>
+            <news:publication_date>2025-02-09T04:48:28.000Z</news:publication_date>
+            <news:title>Latino workers working to overcome a technological divide brought on by automation, AI</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/09/trumps-ai-ambition-and-chinas-deepseek-overshadow-an-ai-summit-in-paris.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-08T21:49:00.000Z</news:publication_date>
-            <news:title>Is PSN still down? PlayStation Network addressing ongoing outage</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/08/huge-healthcare-data-breach-exposes-over-1-million-americans-sensitive-information/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-08T15:00:17.000Z</news:publication_date>
-            <news:title>Huge healthcare data breach exposes over 1 million Americans' sensitive information</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/08/huge-healthcare-data-breach-exposes-over-1-million-americans-sensitive-information.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/07/amazon-to-pay-nearly-4m-to-settle-lawsuit-alleging-it-took-tips-from-drivers/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-07T18:02:58.000Z</news:publication_date>
-            <news:title>Amazon to pay nearly $4M to settle lawsuit alleging it took tips from drivers</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/07/amazon-to-pay-nearly-4m-to-settle-lawsuit-alleging-it-took-tips-from-drivers.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/07/aws-plans-to-outspend-microsoft-and-google-on-on-ai-infrastructure/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-07T15:38:00.000Z</news:publication_date>
-            <news:title>AWS plans to outspend Microsoft and Google on AI infrastructure</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/07/aws-plans-to-outspend-microsoft-and-google-on-on-ai-infrastructure.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/09/latino-workers-working-to-overcome-a-technological-divide-brought-on-by-automation-ai.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -378,33 +504,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/02/07/brazil-introduces-law-restricting-smartphone-use-in-schools-amid-concern-over-the-impact-on-learning.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/07/openai-looks-across-us-for-sites-to-build-its-trump-backed-stargate-ai-data-centers/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-07T00:44:02.000Z</news:publication_date>
-            <news:title>OpenAI looks across US for sites to build its Trump-backed Stargate AI data centers</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/07/openai-looks-across-us-for-sites-to-build-its-trump-backed-stargate-ai-data-centers.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/06/gsa-plans-moving-staff-to-interior-headquarters-as-its-tech-shop-anticipates-more-shakeups/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-06T22:31:58.000Z</news:publication_date>
-            <news:title>GSA plans moving staff to Interior headquarters, as its tech shop anticipates more shakeups</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/06/gsa-plans-moving-staff-to-interior-headquarters-as-its-tech-shop-anticipates-more-shakeups.webp</image:loc>
           </image:image>
         </url></urlset>

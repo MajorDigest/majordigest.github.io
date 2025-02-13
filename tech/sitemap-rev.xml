@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/12/apple-maps-renames-gulf-of-mexico/</loc>
+          <loc>https://majordigest.com/tech/2025/02/13/sec-and-binance-request-60-day-pause-in-lawsuit-as-the-agency-shifts-to-be-more-crypto-friendly/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T15:29:20.000Z</news:publication_date>
-            <news:title>The Gulf of America: A New Name for a Historic Body of Water</news:title>
+            <news:publication_date>2025-02-13T01:00:00.000Z</news:publication_date>
+            <news:title>The SEC's Shift on Crypto: A New Era for Binance?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/apple-maps-renames-gulf-of-mexico.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/13/sec-and-binance-request-60-day-pause-in-lawsuit-as-the-agency-shifts-to-be-more-crypto-friendly.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/12/thomson-reuters-scores-early-win-in-ai-copyright-battles-in-the-us/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-12T18:47:19.000Z</news:publication_date>
+            <news:title>Thomson Reuters Wins Battle Over AI Copyright Use</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/thomson-reuters-scores-early-win-in-ai-copyright-battles-in-the-us.webp</image:loc>
           </image:image>
         </url></urlset>
