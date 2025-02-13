@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/12/chatbots-distort-facts-about-news/</loc>
+          <loc>https://majordigest.com/tech/2025/02/13/the-samsung-galaxy-z-fold-7-could-be-the-slimmest-z-fold-yet-but-that-might-mean-some-compromises/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T16:52:16.000Z</news:publication_date>
-            <news:title>Generative AI Tools Flawed on Current Events</news:title>
+            <news:publication_date>2025-02-13T10:30:08.000Z</news:publication_date>
+            <news:title>The Samsung Galaxy Z Fold 7 Might Be a Surprising Upgrade and Downgrade - Report</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/12/chatbots-distort-facts-about-news.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/13/the-samsung-galaxy-z-fold-7-could-be-the-slimmest-z-fold-yet-but-that-might-mean-some-compromises.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/13/innovation-in-ai-is-in-danger-of-outpacing-governance/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-13T10:13:06.000Z</news:publication_date>
+            <news:title>Rapid Pace of AI Development Outpacing Governance, Report Claims</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/13/innovation-in-ai-is-in-danger-of-outpacing-governance.webp</image:loc>
           </image:image>
         </url></urlset>
