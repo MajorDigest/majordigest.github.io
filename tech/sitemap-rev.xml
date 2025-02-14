@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/10/netops-teams-ready-to-dump-incumbent-monitoring-tools/</loc>
+          <loc>https://majordigest.com/tech/2025/02/13/italian-government-denies-it-spied-on-journalists-and-migrant-activists-using-paragon-spyware/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-10T15:16:32.000Z</news:publication_date>
-            <news:title>Network Management Tools: The Shift Towards New Observability Solutions</news:title>
+            <news:publication_date>2025-02-13T10:08:25.000Z</news:publication_date>
+            <news:title>Italian Government Denies Spying on Journalists with Spyware - 2024</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/10/netops-teams-ready-to-dump-incumbent-monitoring-tools.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/13/italian-government-denies-it-spied-on-journalists-and-migrant-activists-using-paragon-spyware.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/13/openai-revamps-ai-roadmap-merging-models-for-a-leaner-future/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-13T09:48:37.000Z</news:publication_date>
+            <news:title>Rising Competition in AI: OpenAI Shifts Strategy with GPT-5 Integration</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/13/openai-revamps-ai-roadmap-merging-models-for-a-leaner-future.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/12/first-judgment-ai-company-loses-copyright-dispute/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-12T16:59:53.000Z</news:publication_date>
+            <news:title>US Judge Rules Against Ross Intelligence in AI Training Dispute</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/12/first-judgment-ai-company-loses-copyright-dispute.webp</image:loc>
           </image:image>
         </url></urlset>
