@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/13/fox-news-jessica-tarlov-musk-transparency/</loc>
+          <loc>https://majordigest.com/tech/2025/02/15/apple-how-to-merge-two-appleid-id-account-icloud-itunes-music-movies-apps/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-13T15:48:09.000Z</news:publication_date>
-            <news:title>Fox Host Criticizes Elon Musk Over Lack of Transparency</news:title>
+            <news:publication_date>2025-02-15T18:00:00.000Z</news:publication_date>
+            <news:title>Merging Two Apple Accounts: Apple's New Migration Tool</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/13/fox-news-jessica-tarlov-musk-transparency.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/15/apple-how-to-merge-two-appleid-id-account-icloud-itunes-music-movies-apps.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/14/openai-board-unanimously-rejects-elon-musks-974-billion-proposal/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-14T22:24:02.000Z</news:publication_date>
+            <news:title>OpenAI Rejects $97.4 Billion Takeover Bid by Elon Musk</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/14/openai-board-unanimously-rejects-elon-musks-974-billion-proposal.webp</image:loc>
           </image:image>
         </url></urlset>
