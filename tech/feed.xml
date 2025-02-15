@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 15 Feb 2025 00:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 01:13:43 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,15 +19,26 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>A &#8216;true crime&#8217; YouTube channel&#8217;s videos got millions of views. It turns out the stories were AI-generated</title>
-          <description><![CDATA[A popular “true crime” YouTube channel has been pulling in millions of views with videos about gruesome murders. As it turns out, None of them are real.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/15/true-crime-youtube-channel-ai-generated-stories/</guid>
-          <link>https://majordigest.com/tech/2025/02/15/true-crime-youtube-channel-ai-generated-stories/</link>
-          <pubDate>Sat, 15 Feb 2025 06:08:00 GMT</pubDate>
+          <title>Just 32 percent in US trust AI: Study</title>
+          <description><![CDATA[Only about a third of Americans trust artificial intelligence (AI), according to new data from the Edelman Trust Barometer.   Just 32 percent of people in the U.S. said they trust the rapidly developing technology, according to the annual global survey’s “Insights for the Technology Sector.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/14/ai-study-edelman-trust-barometer/</guid>
+          <link>https://majordigest.com/tech/2025/02/14/ai-study-edelman-trust-barometer/</link>
+          <pubDate>Fri, 14 Feb 2025 21:36:33 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/15/true-crime-youtube-channel-ai-generated-stories.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/15/true-crime-youtube-channel-ai-generated-stories.webp"/>
-          <dc:creator>Eve Upton-Clark, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/ai-study-edelman-trust-barometer.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/ai-study-edelman-trust-barometer.webp"/>
+          <dc:creator>Julia Shapero, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Local history buffs are turning to Facebook to share memories of bygone eras</title>
+          <description><![CDATA[Social media has a reputation for capturing ephemeral thoughts and images, but around the world, people are using Facebook for a different purpose, setting up groups to record and share images and memories of the past.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/14/local-history-buffs-are-turning-to-facebook-to-share-memories-of-bygone-eras/</guid>
+          <link>https://majordigest.com/tech/2025/02/14/local-history-buffs-are-turning-to-facebook-to-share-memories-of-bygone-eras/</link>
+          <pubDate>Fri, 14 Feb 2025 20:11:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/local-history-buffs-are-turning-to-facebook-to-share-memories-of-bygone-eras.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/local-history-buffs-are-turning-to-facebook-to-share-memories-of-bygone-eras.webp"/>
+          <dc:creator>Steven Melendez, Fast Company</dc:creator>
         </item>
         <item>
           <title>TikTok returns to Apple and Google app stores in the US</title>
@@ -38,73 +49,95 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/tiktok-returns-to-apple-and-google-app-stores-in-the-us.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/tiktok-returns-to-apple-and-google-app-stores-in-the-us.webp"/>
-          <dc:creator>ZEN SOO, Associated Press, Fox 5</dc:creator>
+          <dc:creator>ZEN SOO, Associated Press, ABC 4</dc:creator>
         </item>
         <item>
-          <title>For February&#8217;s Patch Tuesday, Microsoft rolls out 63 updates</title>
-          <description><![CDATA[Microsoft released 63 patches for Windows, Microsoft Office, and developer platforms in this week’s Patch Tuesday update. The February release was a relatively light update, but it comes with significant testing requirements for networking and remote desktop environments.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/14/for-februarys-patch-tuesday-microsoft-rolls-out-63-updates/</guid>
-          <link>https://majordigest.com/tech/2025/02/14/for-februarys-patch-tuesday-microsoft-rolls-out-63-updates/</link>
-          <pubDate>Fri, 14 Feb 2025 20:06:52 GMT</pubDate>
+          <title>Palo Alto Networks firewall bug being exploited by threat actors: Report</title>
+          <description><![CDATA[Admins with firewalls from Palo Alto Networks should make sure the devices are fully patched and the management interface blocked from open internet access after the discovery this week of a zero-day login authentication bypass in the PAN-OS operating system.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/14/palo-alto-networks-firewall-bug-being-exploited-by-threat-actors-report/</guid>
+          <link>https://majordigest.com/tech/2025/02/14/palo-alto-networks-firewall-bug-being-exploited-by-threat-actors-report/</link>
+          <pubDate>Fri, 14 Feb 2025 19:30:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/for-februarys-patch-tuesday-microsoft-rolls-out-63-updates.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/for-februarys-patch-tuesday-microsoft-rolls-out-63-updates.webp"/>
-          <dc:creator>Computer World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/palo-alto-networks-firewall-bug-being-exploited-by-threat-actors-report.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/palo-alto-networks-firewall-bug-being-exploited-by-threat-actors-report.webp"/>
+          <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Netflix releases trailer for new western series Ransom Canyon and it looks like an exciting mix of Yellowstone and Virgin River</title>
-          <description><![CDATA[Netflix unveils trailer for new western series Ransom Canyon and it looks perfect for fans of Yellowstone and Virgin River.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/14/netflix-releases-trailer-for-new-western-series-ransom-canyon-and-it-looks-like-an-exciting-mix-of-yellowstone-and-virgin-river/</guid>
-          <link>https://majordigest.com/tech/2025/02/14/netflix-releases-trailer-for-new-western-series-ransom-canyon-and-it-looks-like-an-exciting-mix-of-yellowstone-and-virgin-river/</link>
-          <pubDate>Fri, 14 Feb 2025 19:19:04 GMT</pubDate>
+          <title>Apple Watch speaker not working? Here's what you should do &#8211; according to Apple</title>
+          <description><![CDATA[Apple has published a support document following a raft of issues reported with Apple Watch speakers.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/14/apple-watch-speaker-not-working-heres-what-you-should-do-according-to-apple/</guid>
+          <link>https://majordigest.com/tech/2025/02/14/apple-watch-speaker-not-working-heres-what-you-should-do-according-to-apple/</link>
+          <pubDate>Fri, 14 Feb 2025 17:48:12 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/netflix-releases-trailer-for-new-western-series-ransom-canyon-and-it-looks-like-an-exciting-mix-of-yellowstone-and-virgin-river.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/netflix-releases-trailer-for-new-western-series-ransom-canyon-and-it-looks-like-an-exciting-mix-of-yellowstone-and-virgin-river.webp"/>
-          <dc:creator>grace.morris@futurenet.com (Grace Morris), TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/apple-watch-speaker-not-working-heres-what-you-should-do-according-to-apple.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/apple-watch-speaker-not-working-heres-what-you-should-do-according-to-apple.webp"/>
+          <dc:creator>stephen.warwick@futurenet.com (Stephen Warwick), TechRadar</dc:creator>
         </item>
         <item>
-          <title>Elon Musk&#8217;s DOGE team may need a crash course in COBOL</title>
-          <description><![CDATA[Young software engineers from Elon Musk’s Department of Government Efficiency (DOGE) continue to infiltrate U.S. government agencies with the stated goal of eliminating what the Trump White House deems wasteful (or “woke”) spending.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/14/elon-musk-doge-cobol-language/</guid>
-          <link>https://majordigest.com/tech/2025/02/14/elon-musk-doge-cobol-language/</link>
-          <pubDate>Fri, 14 Feb 2025 18:00:00 GMT</pubDate>
+          <title>Zacks Investment hit in data breach - 12 million users potentially at risk</title>
+          <description><![CDATA[The company hasn't commented on the allegations yet, but users may wish to up their security protection.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/14/zacks-investment-hit-in-data-breach-12-million-users-potentially-at-risk/</guid>
+          <link>https://majordigest.com/tech/2025/02/14/zacks-investment-hit-in-data-breach-12-million-users-potentially-at-risk/</link>
+          <pubDate>Fri, 14 Feb 2025 14:07:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/elon-musk-doge-cobol-language.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/elon-musk-doge-cobol-language.webp"/>
-          <dc:creator>Mark Sullivan, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>Forget President&#8217;s Day sales, Apple is selling an M2 Mac mini refurb for just over $300 which could be the PC bargain of the year</title>
-          <description><![CDATA[A refurbished M2 Mac mini for $319 is a startling bargain, after Apple corrected prices on these devices to make sense compared to M4 models.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/14/forget-presidents-day-sales-apple-is-selling-an-m2-mac-mini-refurb-for-just-over-usd300-which-could-be-the-pc-bargain-of-the-year/</guid>
-          <link>https://majordigest.com/tech/2025/02/14/forget-presidents-day-sales-apple-is-selling-an-m2-mac-mini-refurb-for-just-over-usd300-which-could-be-the-pc-bargain-of-the-year/</link>
-          <pubDate>Fri, 14 Feb 2025 12:40:36 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/forget-presidents-day-sales-apple-is-selling-an-m2-mac-mini-refurb-for-just-over-usd300-which-could-be-the-pc-bargain-of-the-year.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/forget-presidents-day-sales-apple-is-selling-an-m2-mac-mini-refurb-for-just-over-usd300-which-could-be-the-pc-bargain-of-the-year.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/zacks-investment-hit-in-data-breach-12-million-users-potentially-at-risk.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/zacks-investment-hit-in-data-breach-12-million-users-potentially-at-risk.webp"/>
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>New Python Version Brings Speed Boost and More - InfoWorld</title>
-          <description><![CDATA[Python 3.14 delivers major speedups, while Cython 3.1 offers new features for converting Python to C, and Python's abstract base classes provide expressive power.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/14/buckle-up-for-the-supercharged-python-interpreter/</guid>
-          <link>https://majordigest.com/tech/2025/02/14/buckle-up-for-the-supercharged-python-interpreter/</link>
-          <pubDate>Fri, 14 Feb 2025 09:00:00 GMT</pubDate>
+          <title>Arm secures Meta as first customer in chip push, challenging industry giants</title>
+          <description><![CDATA[In a landmark shift, Arm has secured Meta as the first major customer for its internally designed server CPUs, a move that signals its entry into direct chip sales and places it in direct competition with its biggest customers, including Qualcomm and Nvidia.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/14/arm-secures-meta-as-first-customer-in-chip-push-challenging-industry-giants/</guid>
+          <link>https://majordigest.com/tech/2025/02/14/arm-secures-meta-as-first-customer-in-chip-push-challenging-industry-giants/</link>
+          <pubDate>Fri, 14 Feb 2025 12:57:20 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/buckle-up-for-the-supercharged-python-interpreter.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/buckle-up-for-the-supercharged-python-interpreter.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/arm-secures-meta-as-first-customer-in-chip-push-challenging-industry-giants.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/arm-secures-meta-as-first-customer-in-chip-push-challenging-industry-giants.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>The scent of the mummy. Research discovers ancient Egyptian remains smell nice</title>
-          <description><![CDATA[Researchers who sniffed mummified remains in the name of science were greeted more with a blessing than a curse.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/14/the-scent-of-the-mummy-research-discovers-ancient-egyptian-remains-smell-nice/</guid>
-          <link>https://majordigest.com/tech/2025/02/14/the-scent-of-the-mummy-research-discovers-ancient-egyptian-remains-smell-nice/</link>
-          <pubDate>Fri, 14 Feb 2025 05:23:22 GMT</pubDate>
+          <title>Captain America: Brave New World ending explained: does Sam Wilson beat Red Hulk, is there a post-credits scene, are there any Marvel cameos, and more big questions answered</title>
+          <description><![CDATA[Captain America 4's ending sets up some interesting MCU story threads – here's what it means for the next batch of Marvel movies.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/14/captain-america-brave-new-world-ending-explained/</guid>
+          <link>https://majordigest.com/tech/2025/02/14/captain-america-brave-new-world-ending-explained/</link>
+          <pubDate>Fri, 14 Feb 2025 11:01:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/the-scent-of-the-mummy-research-discovers-ancient-egyptian-remains-smell-nice.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/the-scent-of-the-mummy-research-discovers-ancient-egyptian-remains-smell-nice.webp"/>
-          <dc:creator>Brian Melley, Associated Press, KPRC 2</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/captain-america-brave-new-world-ending-explained.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/captain-america-brave-new-world-ending-explained.webp"/>
+          <dc:creator>tom.power@futurenet.com (Tom Power), TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Your Kindle Scribe just became a better note-taking ereader with promised AI features rolling out widely now</title>
+          <description><![CDATA[The latest firmware brings AI Summary and handwriting recognition to old and new Kindle Scribes in three more countries.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/14/your-kindle-scribe-just-became-a-better-note-taking-ereader-with-promised-ai-features-rolling-out-widely-now/</guid>
+          <link>https://majordigest.com/tech/2025/02/14/your-kindle-scribe-just-became-a-better-note-taking-ereader-with-promised-ai-features-rolling-out-widely-now/</link>
+          <pubDate>Fri, 14 Feb 2025 02:45:19 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/your-kindle-scribe-just-became-a-better-note-taking-ereader-with-promised-ai-features-rolling-out-widely-now.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/your-kindle-scribe-just-became-a-better-note-taking-ereader-with-promised-ai-features-rolling-out-widely-now.webp"/>
+          <dc:creator>sharmishta.sarkar@futurenet.com (Sharmishta Sarkar), TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Apple has been charged with abuse of power by this German watchdog. Here&#8217;s why</title>
+          <description><![CDATA[The German antitrust authority has charged Apple with abusing its market power through its app tracking tool and giving itself preferential treatment in a move that could result in daily fines for the iPhone maker if it fails to change its business practices.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/14/apple-charged-abuse-power-german-watchdog-heres-why/</guid>
+          <link>https://majordigest.com/tech/2025/02/14/apple-charged-abuse-power-german-watchdog-heres-why/</link>
+          <pubDate>Fri, 14 Feb 2025 00:31:08 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/14/apple-charged-abuse-power-german-watchdog-heres-why.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/14/apple-charged-abuse-power-german-watchdog-heres-why.webp"/>
+          <dc:creator>Reuters, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>JetBrains&#8217; Ktor adds CLI for simpler project creation</title>
+          <description><![CDATA[JetBrains’ Ktor 3.1.0, an update to the Kotlin-based framework for asynchronous server-side and client-side applications, is now available, featuring a command-line tool for simpler creation of projects.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/13/jetbrains-ktor-adds-cli-for-simpler-project-creation/</guid>
+          <link>https://majordigest.com/tech/2025/02/13/jetbrains-ktor-adds-cli-for-simpler-project-creation/</link>
+          <pubDate>Thu, 13 Feb 2025 22:46:40 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/13/jetbrains-ktor-adds-cli-for-simpler-project-creation.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/13/jetbrains-ktor-adds-cli-for-simpler-project-creation.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
           <title>Scout Motors' effort to directly sell its electric SUVs where they'll make them stalls</title>
@@ -115,29 +148,62 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/13/scout-motors-effort-to-directly-sell-its-electric-suvs-where-theyll-make-them-stalls.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/13/scout-motors-effort-to-directly-sell-its-electric-suvs-where-theyll-make-them-stalls.webp"/>
-          <dc:creator>JEFFREY COLLINS, Associated Press, KREX 5</dc:creator>
+          <dc:creator>JEFFREY COLLINS, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
-          <title>Elon Musk Threatens to Withdraw $97B Bid Over OpenAI's For-Profit Conversion</title>
-          <description><![CDATA[Elon Musk says he'll abandon his $97.4 billion offer to buy the nonprofit behind OpenAI if it drops its plan to convert into a for-profit company.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/13/musk-says-hell-withdraw-97-4-billion-bid-for-openai-if-chatgpt-maker-remains-nonprofit/</guid>
-          <link>https://majordigest.com/tech/2025/02/13/musk-says-hell-withdraw-97-4-billion-bid-for-openai-if-chatgpt-maker-remains-nonprofit/</link>
-          <pubDate>Thu, 13 Feb 2025 17:03:15 GMT</pubDate>
+          <title>EU pulls back &#8211; for the moment &#8211; on privacy and genAI liability compliance regulations</title>
+          <description><![CDATA[When the EU on Tuesday said it was not, at this time, moving ahead with critical legislation involving privacy and genAI liability issues, it honestly reported that members couldn’t agree. But the reasons why they couldn’t agree get much more complicated.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/13/eu-pulls-back-for-the-moment-on-privacy-and-genai-liability-compliance-regulations/</guid>
+          <link>https://majordigest.com/tech/2025/02/13/eu-pulls-back-for-the-moment-on-privacy-and-genai-liability-compliance-regulations/</link>
+          <pubDate>Thu, 13 Feb 2025 03:44:25 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/13/musk-says-hell-withdraw-97-4-billion-bid-for-openai-if-chatgpt-maker-remains-nonprofit.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/13/musk-says-hell-withdraw-97-4-billion-bid-for-openai-if-chatgpt-maker-remains-nonprofit.webp"/>
-          <dc:creator>The Associated Press, Fox 5</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/13/eu-pulls-back-for-the-moment-on-privacy-and-genai-liability-compliance-regulations.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/13/eu-pulls-back-for-the-moment-on-privacy-and-genai-liability-compliance-regulations.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Screenshot-scanning malware discovered on Apple App Store in first-of-its-kind attack</title>
-          <description><![CDATA[Security experts have discovered that hackers are targeting apps on the App Store to spread malware that steals information from saved screenshots.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/13/screenshot-scanning-malware-discovered-apple-app-store-first-of-its-kind-attack/</guid>
-          <link>https://majordigest.com/tech/2025/02/13/screenshot-scanning-malware-discovered-apple-app-store-first-of-its-kind-attack/</link>
-          <pubDate>Thu, 13 Feb 2025 15:00:54 GMT</pubDate>
+          <title>Thomson Reuters scores early win in AI copyright battles in the US</title>
+          <description><![CDATA[LOS ANGELES (AP) — Thomson Reuters has won an early battle in court over the question of fair use in artificial intelligence-related copyright cases.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/12/thomson-reuters-scores-early-win-in-ai-copyright-battles-in-the-us/</guid>
+          <link>https://majordigest.com/tech/2025/02/12/thomson-reuters-scores-early-win-in-ai-copyright-battles-in-the-us/</link>
+          <pubDate>Wed, 12 Feb 2025 18:47:19 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/13/screenshot-scanning-malware-discovered-apple-app-store-first-of-its-kind-attack.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/13/screenshot-scanning-malware-discovered-apple-app-store-first-of-its-kind-attack.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/thomson-reuters-scores-early-win-in-ai-copyright-battles-in-the-us.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/thomson-reuters-scores-early-win-in-ai-copyright-battles-in-the-us.webp"/>
+          <dc:creator>SARAH PARVINI, Associated Press, ABC 4</dc:creator>
+        </item>
+        <item>
+          <title>BBC: Chatbots distort the facts about news</title>
+          <description><![CDATA[It’s already known that today’s generative AI (genAI) tools often have trouble with basic facts. Now, it’s clear they don’t well with current events either.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/12/chatbots-distort-facts-about-news/</guid>
+          <link>https://majordigest.com/tech/2025/02/12/chatbots-distort-facts-about-news/</link>
+          <pubDate>Wed, 12 Feb 2025 16:52:16 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/chatbots-distort-facts-about-news.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/chatbots-distort-facts-about-news.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Apple&#8217;s Chinese AI problem (perhaps) solved with Alibaba</title>
+          <description><![CDATA[Reflecting the erosion of universality, Apple Intelligence will now be coming to China, but rather than working with a US AI partner, the company will use Chinese-made AI tech from Alibaba.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/12/apples-chinese-ai-problem-perhaps-solved-with-alibaba/</guid>
+          <link>https://majordigest.com/tech/2025/02/12/apples-chinese-ai-problem-perhaps-solved-with-alibaba/</link>
+          <pubDate>Wed, 12 Feb 2025 16:42:29 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/apples-chinese-ai-problem-perhaps-solved-with-alibaba.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/apples-chinese-ai-problem-perhaps-solved-with-alibaba.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>3 reasons Microsoft needn&#8217;t fear DeepSeek</title>
+          <description><![CDATA[The release of the latest version of the Chinese genAI bot DeepSeek last month upended the tech world when its creators claimed it was built for only $6 million — far less than the hundreds of billions of dollars Microsoft, Google, OpenAI, Meta, and others have poured into genAI development.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/12/3-reasons-microsoft-neednt-fear-deepseek/</guid>
+          <link>https://majordigest.com/tech/2025/02/12/3-reasons-microsoft-neednt-fear-deepseek/</link>
+          <pubDate>Wed, 12 Feb 2025 11:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/12/3-reasons-microsoft-neednt-fear-deepseek.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/12/3-reasons-microsoft-neednt-fear-deepseek.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
           <title>Esports Olympics to debut in Saudi Arabia later than expected in 2027</title>
@@ -148,62 +214,7 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/11/esports-olympics-to-debut-in-saudi-arabia-later-than-expected-in-2027.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/11/esports-olympics-to-debut-in-saudi-arabia-later-than-expected-in-2027.webp"/>
-          <dc:creator>Associated Press, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>News influencers favored Trump over Harris during campaign, study finds</title>
-          <description><![CDATA[NEW YORK (AP) — Americans who followed news influencers during the presidential campaign were more likely to hear positive reports about Donald Trump than they were about Kamala Harris, a study has revealed.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/news-influencers-favored-trump-over-harris-during-campaign-study-finds/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/news-influencers-favored-trump-over-harris-during-campaign-study-finds/</link>
-          <pubDate>Mon, 10 Feb 2025 21:37:56 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/news-influencers-favored-trump-over-harris-during-campaign-study-finds.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/news-influencers-favored-trump-over-harris-during-campaign-study-finds.webp"/>
-          <dc:creator>DAVID BAUDER, Associated Press, ABC 4</dc:creator>
-        </item>
-        <item>
-          <title>Meta layoffs to begin as company moves to cut 5 percent of workforce</title>
-          <description><![CDATA[The layoffs, according to Zuckerberg, would target "low-performers." The layoffs will amount to roughly 3,600 people losing their jobs, according to a report.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/meta-layoffs/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/meta-layoffs/</link>
-          <pubDate>Mon, 10 Feb 2025 20:44:43 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/meta-layoffs.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/meta-layoffs.webp"/>
-          <dc:creator>Alex Baker, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Is your camera ticket a fake? Here&#8217;s how to tell</title>
-          <description><![CDATA[Red light camera tickets: Not liable to ID the driver; some are fishing expeditions. Tech expert Kurt “CyberGuy&quot; Knutsson helps you fight back against tricky fake tickets.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/your-camera-ticket-fake-heres-how-tell/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/your-camera-ticket-fake-heres-how-tell/</link>
-          <pubDate>Mon, 10 Feb 2025 11:00:28 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/your-camera-ticket-fake-heres-how-tell.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/your-camera-ticket-fake-heres-how-tell.webp"/>
-          <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>Google&#8217;s generative AI Toolbox for Databases to help connect agents with databases</title>
-          <description><![CDATA[Google’s cloud computing division, Google Cloud, has added a new generative AI Toolbox for Databases to help enterprise developers connect agent-based generative AI applications to its databases.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases/</link>
-          <pubDate>Mon, 10 Feb 2025 09:33:44 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/googles-generative-ai-toolbox-for-databases-to-help-connect-agents-with-databases.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>The future is far from doom and gloom for DBAs</title>
-          <description><![CDATA[Database administration has always been something of a well kept secret. Even within the wider domain of information technology, database administration is one of those areas of expertise that often goes overlooked by aspiring STEM students and tech-savvy job seekers.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/10/the-future-is-far-from-doom-and-gloom-for-database-administrators/</guid>
-          <link>https://majordigest.com/tech/2025/02/10/the-future-is-far-from-doom-and-gloom-for-database-administrators/</link>
-          <pubDate>Mon, 10 Feb 2025 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/10/the-future-is-far-from-doom-and-gloom-for-database-administrators.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/10/the-future-is-far-from-doom-and-gloom-for-database-administrators.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <dc:creator>Associated Press, PIX 11</dc:creator>
         </item>
         <item>
           <title>Trump's AI ambition and China's DeepSeek overshadow an AI summit in Paris</title>
@@ -214,38 +225,27 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/09/trumps-ai-ambition-and-chinas-deepseek-overshadow-an-ai-summit-in-paris.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/09/trumps-ai-ambition-and-chinas-deepseek-overshadow-an-ai-summit-in-paris.webp"/>
-          <dc:creator>SYLVIE CORBET and KELVIN CHAN, Associated Press, NewsNation</dc:creator>
+          <dc:creator>SYLVIE CORBET and KELVIN CHAN, Associated Press, KRON4</dc:creator>
         </item>
         <item>
-          <title>Latino workers working to overcome a technological divide brought on by automation, AI</title>
-          <description><![CDATA[As jobs become more reliant on technology some Latino workers can be left behind due to a lack of digital skills exacerbated by a lack of accessibility.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/09/latino-workers-working-to-overcome-a-technological-divide-brought-on-by-automation-ai/</guid>
-          <link>https://majordigest.com/tech/2025/02/09/latino-workers-working-to-overcome-a-technological-divide-brought-on-by-automation-ai/</link>
-          <pubDate>Sun, 09 Feb 2025 04:48:28 GMT</pubDate>
+          <title>Top 20 apps tracking you every day</title>
+          <description><![CDATA[The apps collecting the most data about you are among the most widely used. Kurt the CyberGuy takes a look at 20 of these apps and how you can protect personal information.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/09/top-20-apps-tracking-you-every-day/</guid>
+          <link>https://majordigest.com/tech/2025/02/09/top-20-apps-tracking-you-every-day/</link>
+          <pubDate>Sun, 09 Feb 2025 15:00:30 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/09/latino-workers-working-to-overcome-a-technological-divide-brought-on-by-automation-ai.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/09/latino-workers-working-to-overcome-a-technological-divide-brought-on-by-automation-ai.webp"/>
-          <dc:creator>FERNANDA FIGUEROA, Associated Press, KGET 17, NBC</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/09/top-20-apps-tracking-you-every-day.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/09/top-20-apps-tracking-you-every-day.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>Is PSN still down? PlayStation Network addressing ongoing outage</title>
-          <description><![CDATA[Thousands of users have reported outages with the PlayStation Network since Friday evening but as of Saturday morning things still didn't seem back normal.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage/</guid>
-          <link>https://majordigest.com/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage/</link>
-          <pubDate>Sat, 08 Feb 2025 21:49:00 GMT</pubDate>
+          <title>Huge healthcare data breach exposes over 1 million Americans' sensitive information</title>
+          <description><![CDATA[Community Health Center, a Connecticut-based healthcare provider, has disclosed a recent data breach affecting over 1 million people in the U.S.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/08/huge-healthcare-data-breach-exposes-over-1-million-americans-sensitive-information/</guid>
+          <link>https://majordigest.com/tech/2025/02/08/huge-healthcare-data-breach-exposes-over-1-million-americans-sensitive-information/</link>
+          <pubDate>Sat, 08 Feb 2025 15:00:17 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/08/is-psn-still-down-playstation-network-addressing-ongoing-outage.webp"/>
-          <dc:creator>Dominique Jack, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Fox News AI Newsletter: Bill would ban DeepSeek</title>
-          <description><![CDATA[Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/08/ai-newsletter-bill-would-ban-deepseek/</guid>
-          <link>https://majordigest.com/tech/2025/02/08/ai-newsletter-bill-would-ban-deepseek/</link>
-          <pubDate>Sat, 08 Feb 2025 13:30:32 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/08/ai-newsletter-bill-would-ban-deepseek.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/08/ai-newsletter-bill-would-ban-deepseek.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/08/huge-healthcare-data-breach-exposes-over-1-million-americans-sensitive-information.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/08/huge-healthcare-data-breach-exposes-over-1-million-americans-sensitive-information.webp"/>
           <dc:creator>Fox News</dc:creator>
         </item></channel></rss>
