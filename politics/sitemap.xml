@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/politics/2025/02/17/how-president-trump-is-expanding-the-powers-of-the-presidency/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-17T15:00:00.000Z</news:publication_date>
+            <news:title>How President Trump is expanding the powers of the presidency</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/17/how-president-trump-is-expanding-the-powers-of-the-presidency.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/politics/2025/02/15/utah-governor-signs-collective-bargaining-ban-for-teachers-firefighters-and-police-unions/</loc>
           <news:news>
             <news:publication>
@@ -28,34 +42,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/politics/2025/02/15/sarah-palin-would-love-to-join-trump-admin.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/15/trumps-reciprocal-tariffs-will-overturn-decades-of-trade-policy/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-15T03:00:42.000Z</news:publication_date>
-            <news:title>Trump's reciprocal tariffs will overturn decades of trade policy</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/15/trumps-reciprocal-tariffs-will-overturn-decades-of-trade-policy.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/15/the-political-fallout-from-former-supervisor-zack-scrivners-resignation-investigation-into-alleged-abuse/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-15T02:12:38.000Z</news:publication_date>
-            <news:title>The political fallout from former Supervisor Zack Scrivner's resignation, investigation into alleged abuse</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/15/the-political-fallout-from-former-supervisor-zack-scrivners-resignation-investigation-into-alleged-abuse.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -87,101 +73,87 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/02/15/alleged-doge-employees-show-up-at-san-francisco-city-hall/</loc>
+          <loc>https://majordigest.com/politics/2025/02/15/treasury-watchdog-begins-audit-of-musk-doge-teams-access-to-federal-governments-payment-system/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-15T01:02:30.000Z</news:publication_date>
-            <news:title>Alleged DOGE employees show up at San Francisco City Hall</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/15/alleged-doge-employees-show-up-at-san-francisco-city-hall.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/15/judge-extends-order-blocking-musks-doge-team-treasury-payment-system/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-15T01:00:53.000Z</news:publication_date>
-            <news:title>Judge extends order blocking Musk&#8217;s DOGE team from Treasury payment system</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/15/judge-extends-order-blocking-musks-doge-team-treasury-payment-system.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/14/justice-department-moves-drop-case-against-nyc-mayor-eric-adams/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-14T23:54:10.000Z</news:publication_date>
-            <news:title>Justice Department moves to drop case against NYC Mayor Eric Adams</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/14/justice-department-moves-drop-case-against-nyc-mayor-eric-adams.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/14/top-trump-official-teases-2026-bid-california-governor-if-harris-jumps-in-race/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-14T18:37:17.000Z</news:publication_date>
-            <news:title>Top Trump official teases 2026 bid for California governor if Harris jumps in race</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/14/top-trump-official-teases-2026-bid-california-governor-if-harris-jumps-in-race.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/14/dems-likely-waste-millions-deluge-lawsuits-could-cost-trump-precious-time-expert/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-14T15:59:43.000Z</news:publication_date>
-            <news:title>Dems likely to 'waste millions' on deluge of lawsuits but could cost Trump precious time: expert</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/14/dems-likely-waste-millions-deluge-lawsuits-could-cost-trump-precious-time-expert.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/14/treasury-watchdog-begins-audit-of-musk-doge-teams-access-to-federal-governments-payment-system/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-14T15:00:33.000Z</news:publication_date>
+            <news:publication_date>2025-02-15T01:25:01.000Z</news:publication_date>
             <news:title>Treasury watchdog begins audit of Musk DOGE team's access to the US government's payment system</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/14/treasury-watchdog-begins-audit-of-musk-doge-teams-access-to-federal-governments-payment-system.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/15/treasury-watchdog-begins-audit-of-musk-doge-teams-access-to-federal-governments-payment-system.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/02/14/83-percent-say-president-is-required-to-follow-supreme-court-rulings-survey/</loc>
+          <loc>https://majordigest.com/politics/2025/02/14/trump-creates-council-for-energy-dominance-boosts-natural-gas-exports-and-offshore-drilling/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-14T14:49:33.000Z</news:publication_date>
-            <news:title>83 percent say president is required to follow Supreme Court rulings: Survey</news:title>
+            <news:publication_date>2025-02-14T23:08:02.000Z</news:publication_date>
+            <news:title>Trump creates council for 'energy dominance,' boosts natural gas exports and offshore drilling</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/14/83-percent-say-president-is-required-to-follow-supreme-court-rulings-survey.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/14/trump-creates-council-for-energy-dominance-boosts-natural-gas-exports-and-offshore-drilling.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/14/trump-so-far-has-freed-11-hostages-his-first-month-president-biden-released-around-70-four-years/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-14T22:40:02.000Z</news:publication_date>
+            <news:title>Trump so far has freed 11 hostages in his first month as president; Biden released around 70 in four years</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/14/trump-so-far-has-freed-11-hostages-his-first-month-president-biden-released-around-70-four-years.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/14/rubio-greenlights-7m-waivers-keep-border-security-efforts-mexico-alive-amid-funding-freeze/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-14T22:38:07.000Z</news:publication_date>
+            <news:title>Rubio greenlights $7M+ in waivers to keep border security efforts in Mexico alive amid funding freeze</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/14/rubio-greenlights-7m-waivers-keep-border-security-efforts-mexico-alive-amid-funding-freeze.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/14/eric-adams-charges-dropped-resignations/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-14T21:32:23.000Z</news:publication_date>
+            <news:title>Eric Adams&#8217; corruption charges won&#8217;t be dropped soon: Attorney</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/14/eric-adams-charges-dropped-resignations.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/14/annexing-canada-at-niagara-falls-trumps-idea-gets-eye-rolls-but-not-support/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-14T13:39:04.000Z</news:publication_date>
+            <news:title>Annexing Canada? At Niagara Falls, Trump's idea gets eye rolls but not support</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/14/annexing-canada-at-niagara-falls-trumps-idea-gets-eye-rolls-but-not-support.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -199,17 +171,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/02/14/elon-musk-doge-lawmakers-discuss/</loc>
+          <loc>https://majordigest.com/politics/2025/02/14/guarded-optimism-in-india-as-trump-and-modi-outline-plans-to-deepen-defense-partnership/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-14T10:56:35.000Z</news:publication_date>
-            <news:title>Is Elon Musk overreaching with DOGE? Lawmakers debate</news:title>
+            <news:publication_date>2025-02-14T11:44:20.000Z</news:publication_date>
+            <news:title>Guarded optimism in India as Trump and Modi outline plans to deepen defense partnership</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/14/elon-musk-doge-lawmakers-discuss.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/14/guarded-optimism-in-india-as-trump-and-modi-outline-plans-to-deepen-defense-partnership.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/14/order-to-drop-new-york-mayors-case-rocks-justice-department-as-high-ranking-officials-resign/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-14T11:09:08.000Z</news:publication_date>
+            <news:title>Order to drop New York mayor's case rocks Justice Department as high-ranking officials resign</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/14/order-to-drop-new-york-mayors-case-rocks-justice-department-as-high-ranking-officials-resign.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,31 +213,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/02/14/including-people-without-legal-status-in-census-has-had-little-impact-on-house-seats-study-finds/</loc>
+          <loc>https://majordigest.com/politics/2025/02/14/epa-chief-says-he-will-seek-return-of-20-billion-in-clean-energy-grants-awarded-by-biden/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-14T05:01:14.000Z</news:publication_date>
-            <news:title>Including people without legal status in census has had little impact on House seats, study finds</news:title>
+            <news:publication_date>2025-02-14T05:04:50.000Z</news:publication_date>
+            <news:title>EPA chief says he will seek return of $20 billion in clean-energy grants awarded by Biden</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/14/including-people-without-legal-status-in-census-has-had-little-impact-on-house-seats-study-finds.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/14/mechanical-issue-forces-secretary-of-state-rubios-plane-forced-to-return-ahead-of-europe-trip/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-14T03:57:02.000Z</news:publication_date>
-            <news:title>Plane carrying Secretary of State Rubio to Europe turned around because of a mechanical issue</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/14/mechanical-issue-forces-secretary-of-state-rubios-plane-forced-to-return-ahead-of-europe-trip.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/14/epa-chief-says-he-will-seek-return-of-20-billion-in-clean-energy-grants-awarded-by-biden.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -269,31 +241,129 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/02/14/suspended-hillsborough-democrat-defends-online-posts-some-say-are-antisemitic/</loc>
+          <loc>https://majordigest.com/politics/2025/02/13/judge-blocks-trumps-gender-affirming-care-executive-orders-nationwide/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-14T01:53:40.000Z</news:publication_date>
-            <news:title>Suspended Hillsborough Democrat defends online posts some say are antisemitic</news:title>
+            <news:publication_date>2025-02-13T20:36:16.000Z</news:publication_date>
+            <news:title>Judge blocks Trump&#8217;s gender-affirming care executive orders nationwide</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/14/suspended-hillsborough-democrat-defends-online-posts-some-say-are-antisemitic.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/13/judge-blocks-trumps-gender-affirming-care-executive-orders-nationwide.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/02/13/republicans-advance-antiabortion-legislation-during-control-of-minnesota-house/</loc>
+          <loc>https://majordigest.com/politics/2025/02/13/minneapolis-city-council-postpones-proposal-to-move-violence-prevention-funds-to-county/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-13T01:13:00.000Z</news:publication_date>
-            <news:title>Republicans advance anti-abortion legislation during control of Minnesota House</news:title>
+            <news:publication_date>2025-02-13T19:33:00.000Z</news:publication_date>
+            <news:title>Minneapolis City Council postpones proposal to move violence prevention funds to county</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/13/republicans-advance-antiabortion-legislation-during-control-of-minnesota-house.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/13/minneapolis-city-council-postpones-proposal-to-move-violence-prevention-funds-to-county.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/13/measure-for-county-to-back-ban-on-trans-women-in-sports-fails/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-13T19:31:44.000Z</news:publication_date>
+            <news:title>Measure for county to back ban on trans women in sports fails</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/13/measure-for-county-to-back-ban-on-trans-women-in-sports-fails.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/13/npr-sen-ted-cruzs-list-of-woke-science-includes-self-driving-cars-solar-eclipses/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-13T17:44:00.000Z</news:publication_date>
+            <news:title>Sen. Ted Cruz&#8217;s list of &#8217;woke&#8217; science includes self-driving cars and solar eclipses</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/13/npr-sen-ted-cruzs-list-of-woke-science-includes-self-driving-cars-solar-eclipses.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/13/npr-trump-administration-order-400-million-worth-of-armored-teslas/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-13T17:05:00.000Z</news:publication_date>
+            <news:title>Trump administration was set to purchase $400 million worth of armored Teslas</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/13/npr-trump-administration-order-400-million-worth-of-armored-teslas.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/13/npr-rfk-jr-trump-health-human-services-hhs-vaccines/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-13T17:00:00.000Z</news:publication_date>
+            <news:title>RFK Jr. confirmed as Trump&#8217;s health secretary, over Democrats&#8217; loud objections</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/13/npr-rfk-jr-trump-health-human-services-hhs-vaccines.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/13/live-updates-kennedy-faces-final-senate-vote-as-patels-fbi-nomination-moves-ahead/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-13T16:16:15.000Z</news:publication_date>
+            <news:title>Live updates: Trump, Modi talk trade and tariffs; Senate confirms Kennedy to lead HHS</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/13/live-updates-kennedy-faces-final-senate-vote-as-patels-fbi-nomination-moves-ahead.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/13/attorney-general-sues-new-york-officials-immigration/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-13T00:19:45.000Z</news:publication_date>
+            <news:title>Attorney general: US sues New York officials over immigration enforcement</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/13/attorney-general-sues-new-york-officials-immigration.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/02/12/federal-worker-buyout-program/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-12T23:26:59.000Z</news:publication_date>
+            <news:title>Judge won't halt Trump, Musk federal worker buyout program</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/12/federal-worker-buyout-program.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -311,128 +381,72 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/02/12/npr-trump-funding-freeze-climate-change/</loc>
+          <loc>https://majordigest.com/politics/2025/02/12/kremlin-says-unidentified-russian-freed-in-us-in-exchange-for-moscows-release-of-marc-fogel/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T10:30:00.000Z</news:publication_date>
-            <news:title>Trump funding freeze could leave communities on their own as climate threats grow</news:title>
+            <news:publication_date>2025-02-12T14:45:00.000Z</news:publication_date>
+            <news:title>Kremlin says unidentified Russian freed in U.S. in exchange for Moscow's release of Marc Fogel</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/12/npr-trump-funding-freeze-climate-change.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/12/kremlin-says-unidentified-russian-freed-in-us-in-exchange-for-moscows-release-of-marc-fogel.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/02/12/gov-hochul-reacts-to-pending-dismissal-of-corruption-case-against-mayor-adams/</loc>
+          <loc>https://majordigest.com/politics/2025/02/12/egg-prices-unite-nevada-lawmakers-as-ab171-makes-its-way-toward-approval/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-12T00:30:58.000Z</news:publication_date>
-            <news:title>Gov. Hochul reacts to pending dismissal of corruption case against Mayor Adams</news:title>
+            <news:publication_date>2025-02-12T02:10:53.000Z</news:publication_date>
+            <news:title>Egg prices unite Nevada lawmakers as AB171 makes its way toward approval</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/12/gov-hochul-reacts-to-pending-dismissal-of-corruption-case-against-mayor-adams.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/12/egg-prices-unite-nevada-lawmakers-as-ab171-makes-its-way-toward-approval.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/02/11/musk-defends-doge-alongside-trump-in-striking-oval-office-moment/</loc>
+          <loc>https://majordigest.com/politics/2025/02/11/its-the-last-week-to-change-party-affiliation-ahead-of-nyc-mayors-race/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-11T21:41:31.000Z</news:publication_date>
-            <news:title>Musk defends DOGE alongside Trump in striking Oval Office moment</news:title>
+            <news:publication_date>2025-02-11T19:28:15.000Z</news:publication_date>
+            <news:title>It&#8217;s the last week to change party affiliation ahead of NYC mayor&#8217;s race</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/11/musk-defends-doge-alongside-trump-in-striking-oval-office-moment.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/11/its-the-last-week-to-change-party-affiliation-ahead-of-nyc-mayors-race.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/02/11/trump-ally-steve-bannon-pleads-guilty-and-avoids-jail-time-in-border-wall-fraud-case/</loc>
+          <loc>https://majordigest.com/politics/2025/02/11/durbin-calls-for-investigation-into-patel-role-in-fbi-firings/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-11T18:51:24.000Z</news:publication_date>
-            <news:title>Trump ally Steve Bannon pleads guilty and avoids jail time in border wall fraud case</news:title>
+            <news:publication_date>2025-02-11T17:38:19.000Z</news:publication_date>
+            <news:title>Durbin calls for investigation into Patel's role in FBI firings</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/11/trump-ally-steve-bannon-pleads-guilty-and-avoids-jail-time-in-border-wall-fraud-case.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/11/durbin-calls-for-investigation-into-patel-role-in-fbi-firings.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/02/11/pope-criticizes-trump-administrations-immigration-policies/</loc>
+          <loc>https://majordigest.com/politics/2025/02/11/trump-signs-executive-order-restoring-plastic-straw-use-in-government/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-11T16:39:01.000Z</news:publication_date>
-            <news:title>Pope criticizes Trump administration's immigration policies</news:title>
+            <news:publication_date>2025-02-11T16:39:50.000Z</news:publication_date>
+            <news:title>Trump signs executive order restoring plastic straw use in government</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/11/pope-criticizes-trump-administrations-immigration-policies.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/11/florida-lawmakers-to-begin-another-special-session-on-illegal-immigration/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-11T02:45:14.000Z</news:publication_date>
-            <news:title>Florida lawmakers to begin third special session on illegal immigration</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/11/florida-lawmakers-to-begin-another-special-session-on-illegal-immigration.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/10/trump-fires-office-of-government-ethics-chief/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-10T22:13:52.000Z</news:publication_date>
-            <news:title>Trump fires Office of Government Ethics chief</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/10/trump-fires-office-of-government-ethics-chief.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/10/trump-tells-treasury-department-to-stop-making-pennies/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-10T14:23:06.000Z</news:publication_date>
-            <news:title>Trump tells Treasury Department to stop making pennies</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/10/trump-tells-treasury-department-to-stop-making-pennies.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/02/10/senate-democrats-launch-portal-for-whistleblowers-in-trump-administration/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-10T14:22:40.000Z</news:publication_date>
-            <news:title>Senate Democrats launch portal for whistleblowers in Trump administration</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/02/10/senate-democrats-launch-portal-for-whistleblowers-in-trump-administration.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/02/11/trump-signs-executive-order-restoring-plastic-straw-use-in-government.webp</image:loc>
           </image:image>
         </url></urlset>
