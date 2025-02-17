@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/13/jetbrains-ktor-adds-cli-for-simpler-project-creation/</loc>
+          <loc>https://majordigest.com/tech/2025/02/17/cultura-y-tecnologia-palancas-para-accionar-la-transformacion-digital-del-sector-publico/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-13T22:46:40.000Z</news:publication_date>
-            <news:title>Ktor 3.1.0 Update Brings CLI Tool and Enhanced Server-Sent Events - News Article</news:title>
+            <news:publication_date>2025-02-17T12:33:26.000Z</news:publication_date>
+            <news:title>Government Sector Productivity: Balancing Culture and Technology</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/13/jetbrains-ktor-adds-cli-for-simpler-project-creation.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/17/cultura-y-tecnologia-palancas-para-accionar-la-transformacion-digital-del-sector-publico.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/16/what-changes-to-the-chips-act-could-mean-for-ai-growth-and-consumers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-16T15:40:21.000Z</news:publication_date>
+            <news:title>Tariffs, Trump Threaten U.S. Tech Industry's AI Ambitions - Associated Press</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/16/what-changes-to-the-chips-act-could-mean-for-ai-growth-and-consumers.webp</image:loc>
           </image:image>
         </url></urlset>
