@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/17/intels-rumored-celestial-gpus-could-finally-give-nvidia-and-amd-cause-for-concern/</loc>
+          <loc>https://majordigest.com/tech/2025/02/17/court-ban-on-google-ai-stakes-would-hurt-anthropic-clients-say-analysts/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-17T12:59:16.000Z</news:publication_date>
-            <news:title>Rumors Suggest Intel's Next-Gen 'Celestial' GPUs Will Use Xe3P Architecture and In-House Process</news:title>
+            <news:publication_date>2025-02-17T14:44:31.000Z</news:publication_date>
+            <news:title>Anthropic Seeks to Intervene in Google Antitrust Case</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/17/intels-rumored-celestial-gpus-could-finally-give-nvidia-and-amd-cause-for-concern.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/17/court-ban-on-google-ai-stakes-would-hurt-anthropic-clients-say-analysts.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/17/net-neutrality-under-trump-not-so-neutral/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-17T11:00:00.000Z</news:publication_date>
+            <news:title>The Future of Net Neutrality Under Trump: A Blow to Free Speech</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/17/net-neutrality-under-trump-not-so-neutral.webp</image:loc>
           </image:image>
         </url></urlset>
