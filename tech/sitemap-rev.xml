@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/18/virginia-tech-researchers-raise-red-flags-about-mixed-reality-security/</loc>
+          <loc>https://majordigest.com/tech/2025/02/19/openai-cofounder-ilya-sutskever-new-ai-startup-fundraising-30-billion-valuation/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-18T22:07:37.000Z</news:publication_date>
-            <news:title>Mixed-Reality Systems Exposed to Security Threats: Researchers Warn of Potential Hazards</news:title>
+            <news:publication_date>2025-02-19T06:30:00.000Z</news:publication_date>
+            <news:title>Safe Superintelligence Raises Over $1 Billion in Funding</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/18/virginia-tech-researchers-raise-red-flags-about-mixed-reality-security.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/19/openai-cofounder-ilya-sutskever-new-ai-startup-fundraising-30-billion-valuation.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/15/autopsy-openai-whistleblower-suchir-balaji-died-of-suicide/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-15T00:51:17.000Z</news:publication_date>
+            <news:title>Autopsy Report Reveals OpenAI Whistleblower's Death by Suicide</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/15/autopsy-openai-whistleblower-suchir-balaji-died-of-suicide.webp</image:loc>
           </image:image>
         </url></urlset>
