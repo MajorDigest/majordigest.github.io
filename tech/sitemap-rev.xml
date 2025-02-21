@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/20/huge-data-leak-exposes-14-million-customer-shipping-records/</loc>
+          <loc>https://majordigest.com/tech/2025/02/20/osint-unveiled-the-technology-behind-the-intelligence-odni-edition/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-20T15:00:33.000Z</news:publication_date>
-            <news:title>Data Breach in Shipping Industry: A Wake-Up Call for Businesses</news:title>
+            <news:publication_date>2025-02-20T14:09:28.000Z</news:publication_date>
+            <news:title>OSINT's Evolving Role in National Security: A Critical Tool Against Hybrid Threats</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/20/huge-data-leak-exposes-14-million-customer-shipping-records.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/20/osint-unveiled-the-technology-behind-the-intelligence-odni-edition.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/19/apple-introduces-the-iphone-16e-a-fast-and-powerful-mid-range-smartphone/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-19T19:06:20.000Z</news:publication_date>
+            <news:title>Apple's iPhone 16e: A $599 Package of Innovation and Value</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/19/apple-introduces-the-iphone-16e-a-fast-and-powerful-mid-range-smartphone.webp</image:loc>
           </image:image>
         </url></urlset>
