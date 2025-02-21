@@ -3,30 +3,16 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/20/quantum-computing-breakthrough-microsoft-says-its-new-majorana-1-chip-shows-were-closer-than-ever/</loc>
+          <loc>https://majordigest.com/tech/2025/02/20/rumor-suggests-nvidias-had-difficulties-to-iron-out-with-chips-for-rtx-5070-and-5060-gpus-seemingly-leading-to-delays-and-possibly-low-stock-levels/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-20T19:46:00.000Z</news:publication_date>
-            <news:title>Microsoft Unveils New Chip, Claims Quantum Computing Is 'Years, Not Decades' Away</news:title>
+            <news:publication_date>2025-02-20T17:04:44.000Z</news:publication_date>
+            <news:title>Nvidia GPUs Delayed Due to Performance Issues and Supply Chain Disruptions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/20/quantum-computing-breakthrough-microsoft-says-its-new-majorana-1-chip-shows-were-closer-than-ever.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/20/nvidia-rival-claims-deepseek-world-record-as-it-delivers-industry-first-performance-with-95-percent-fewer-chips/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-20T18:33:00.000Z</news:publication_date>
-            <news:title>SambaNova Sets New Record with DeepSeek-R1 Deployment, Outpacing GPUs in Speed and Efficiency</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/20/nvidia-rival-claims-deepseek-world-record-as-it-delivers-industry-first-performance-with-95-percent-fewer-chips.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/20/rumor-suggests-nvidias-had-difficulties-to-iron-out-with-chips-for-rtx-5070-and-5060-gpus-seemingly-leading-to-delays-and-possibly-low-stock-levels.webp</image:loc>
           </image:image>
         </url></urlset>
