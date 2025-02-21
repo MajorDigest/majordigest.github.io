@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/21/apple-drops-encryption-feature-for-uk-users-after-government-reportedly-demanded-backdoor-access/</loc>
+          <loc>https://majordigest.com/tech/2025/02/21/this-is-the-weirdest-laptop-ive-ever-seen-and-it-reminds-me-of-an-often-mocked-thoroughly-misunderstood-toshiba-notebook/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-21T16:34:34.000Z</news:publication_date>
-            <news:title>Apple Stops Offering Advanced Data Security in UK Amid Government Demand</news:title>
+            <news:publication_date>2025-02-21T18:34:00.000Z</news:publication_date>
+            <news:title>The Bapaco: A Portable Windows PC Disguised as a Mechanical Keyboard</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/21/apple-drops-encryption-feature-for-uk-users-after-government-reportedly-demanded-backdoor-access.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/21/this-is-the-weirdest-laptop-ive-ever-seen-and-it-reminds-me-of-an-often-mocked-thoroughly-misunderstood-toshiba-notebook.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/21/rivian-delivery-outlook-misses-estimates-on-policy-uncertainty/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-21T13:04:14.000Z</news:publication_date>
+            <news:title> Rivian Achieves First Quarterly Gross Profit, Cautions on EV Sales Impact</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/21/rivian-delivery-outlook-misses-estimates-on-policy-uncertainty.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/21/it-might-be-the-year-of-nintendo-switch-2-but-the-switch-oled-bundles-keep-coming-with-this-super-mario-bros-wonder-package/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-21T10:33:00.000Z</news:publication_date>
+            <news:title>New Nintendo Switch OLED Bundle Launched: What You Need to Know</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/21/it-might-be-the-year-of-nintendo-switch-2-but-the-switch-oled-bundles-keep-coming-with-this-super-mario-bros-wonder-package.webp</image:loc>
           </image:image>
         </url></urlset>
