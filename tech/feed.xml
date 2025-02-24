@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Mon, 24 Feb 2025 19:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 20:21:26 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,16 +19,37 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Ai2&#8217;s Ali Farhadi advocates for open-source AI models. Here&#8217;s why</title>
-          <description><![CDATA[A year before Elon Musk helped start OpenAI in San Francisco, philanthropist and Microsoft cofounder Paul Allen already had established his own nonprofit artificial intelligence research laboratory in Seattle.
-Their mission was to advance AI for humanity’s benefit.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/ai2s-ali-farhadi-advocates-for-open-source-ai-models-heres-why/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/ai2s-ali-farhadi-advocates-for-open-source-ai-models-heres-why/</link>
-          <pubDate>Mon, 24 Feb 2025 23:56:40 GMT</pubDate>
+          <title>Anthropic&#8217;s new Claude AI model can decide between speed and deep thinking</title>
+          <description><![CDATA[Anthropic released on Monday its Claude 3.7 Sonnet model, which it says returns results faster and can show the user the “chain of thought” it follows to reach an answer. This latest model also powers a new coding tool called Claude Code that can perform some development tasks autonomously.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/25/anthropic-new-claude-3-7-sonnet-ai-chain-of-thought/</guid>
+          <link>https://majordigest.com/tech/2025/02/25/anthropic-new-claude-3-7-sonnet-ai-chain-of-thought/</link>
+          <pubDate>Tue, 25 Feb 2025 02:45:08 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/ai2s-ali-farhadi-advocates-for-open-source-ai-models-heres-why.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/ai2s-ali-farhadi-advocates-for-open-source-ai-models-heres-why.webp"/>
-          <dc:creator>Associated Press, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/25/anthropic-new-claude-3-7-sonnet-ai-chain-of-thought.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/25/anthropic-new-claude-3-7-sonnet-ai-chain-of-thought.webp"/>
+          <dc:creator>Mark Sullivan, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Fraudsters seem to target Seagate hard drives in order to pass old, used HDDs as new ones using intricate techniques</title>
+          <description><![CDATA[Fraudsters exploit Seagate hard drives, resetting SMART data to pass off heavily used HDDs as brand new.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/24/fraudsters-seem-to-target-seagate-hard-drives-in-order-to-pass-old-used-hdds-as-new-ones-using-intricate-techniques/</guid>
+          <link>https://majordigest.com/tech/2025/02/24/fraudsters-seem-to-target-seagate-hard-drives-in-order-to-pass-old-used-hdds-as-new-ones-using-intricate-techniques/</link>
+          <pubDate>Mon, 24 Feb 2025 19:26:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/fraudsters-seem-to-target-seagate-hard-drives-in-order-to-pass-old-used-hdds-as-new-ones-using-intricate-techniques.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/fraudsters-seem-to-target-seagate-hard-drives-in-order-to-pass-old-used-hdds-as-new-ones-using-intricate-techniques.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Theranos fraudster Elizabeth Holmes loses her appeal</title>
+          <description><![CDATA[Holmes, 40, a Stanford University dropout, was charged in 2018 in connection with $878 million in losses among investors in her startup Theranos.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/24/theranos-fraudster-elizabeth-holmes-loses-her-appeal/</guid>
+          <link>https://majordigest.com/tech/2025/02/24/theranos-fraudster-elizabeth-holmes-loses-her-appeal/</link>
+          <pubDate>Mon, 24 Feb 2025 18:49:45 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/theranos-fraudster-elizabeth-holmes-loses-her-appeal.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/theranos-fraudster-elizabeth-holmes-loses-her-appeal.webp"/>
+          <dc:creator>Ethan Baron, The Mercury News</dc:creator>
         </item>
         <item>
           <title>The &#8216;Protoclone&#8217; robot has synthetic muscles</title>
@@ -43,115 +64,104 @@ The YouTube clip below shows Protoclone using its synthetic muscles to move.]]><
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>I can't say I'm surprised, but Nvidia's RTX 5070 leaked benchmark reveals up to 20% performance boost over RTX 4070</title>
-          <description><![CDATA[It may not live up to Nvidia's RTX 4090 performance claim, but new benchmark leaks suggest a reasonable performance uplift for the RTX 5070 over its predecessor.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/i-cant-say-im-surprised-but-nvidias-rtx-5070-leaked-benchmark-reveals-up-to-20-percent-performance-boost-over-rtx-4070/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/i-cant-say-im-surprised-but-nvidias-rtx-5070-leaked-benchmark-reveals-up-to-20-percent-performance-boost-over-rtx-4070/</link>
-          <pubDate>Mon, 24 Feb 2025 17:06:45 GMT</pubDate>
+          <title>Apple Commits $500 Billion to US Investment Over Four Years</title>
+          <description><![CDATA[Apple announces plans to invest more than $500 billion in the United States, including hiring 20,000 people and building a new server factory in Texas.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/24/apple-announces-500-billion-investment-in-us-amid-tariff-threats-that-could-affect-the-iphone/</guid>
+          <link>https://majordigest.com/tech/2025/02/24/apple-announces-500-billion-investment-in-us-amid-tariff-threats-that-could-affect-the-iphone/</link>
+          <pubDate>Mon, 24 Feb 2025 17:28:50 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/i-cant-say-im-surprised-but-nvidias-rtx-5070-leaked-benchmark-reveals-up-to-20-percent-performance-boost-over-rtx-4070.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/i-cant-say-im-surprised-but-nvidias-rtx-5070-leaked-benchmark-reveals-up-to-20-percent-performance-boost-over-rtx-4070.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/apple-announces-500-billion-investment-in-us-amid-tariff-threats-that-could-affect-the-iphone.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/apple-announces-500-billion-investment-in-us-amid-tariff-threats-that-could-affect-the-iphone.webp"/>
+          <dc:creator>Associated Press, KRON4</dc:creator>
+        </item>
+        <item>
+          <title>A swarm of underwater drones can help artificial reefs off Cyprus bring back sea life, officials say</title>
+          <description><![CDATA[Officials say a first-of-its-kind project will use a swarm of small, independent submersibles to monitor, protect and provide data on offshore artificial reefs whose purpose is to attract new marine life in otherwise barren sections of sea.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/24/a-swarm-of-underwater-drones-can-help-artificial-reefs-off-cyprus-bring-back-sea-life-officials-say/</guid>
+          <link>https://majordigest.com/tech/2025/02/24/a-swarm-of-underwater-drones-can-help-artificial-reefs-off-cyprus-bring-back-sea-life-officials-say/</link>
+          <pubDate>Mon, 24 Feb 2025 17:10:52 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/a-swarm-of-underwater-drones-can-help-artificial-reefs-off-cyprus-bring-back-sea-life-officials-say.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/a-swarm-of-underwater-drones-can-help-artificial-reefs-off-cyprus-bring-back-sea-life-officials-say.webp"/>
+          <dc:creator>Menelaos Hadjicostis, Associated Press, KPRC 2</dc:creator>
+        </item>
+        <item>
+          <title>Intel targets edge, high-performance computing with extended Xeon 6 chip line</title>
+          <description><![CDATA[Intel has expanded its Xeon 6 line of processors, adding models 6700/6500 for high-performance cores and edge computing devices to the family.
+The new Xeon 6 processors feature Performance-cores (P-cores) for high performance computing.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/24/intel-targets-edge-high-performance-computing-with-extended-xeon-6-chip-line/</guid>
+          <link>https://majordigest.com/tech/2025/02/24/intel-targets-edge-high-performance-computing-with-extended-xeon-6-chip-line/</link>
+          <pubDate>Mon, 24 Feb 2025 16:30:35 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/intel-targets-edge-high-performance-computing-with-extended-xeon-6-chip-line.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/intel-targets-edge-high-performance-computing-with-extended-xeon-6-chip-line.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Netflix reportedly suffers huge Stranger Things season 5 leak as supposed launch date, release schedule, and plot details emerge online for the popular show's final chapter</title>
+          <description><![CDATA[Netflix's second major data breath in six months is a huge blow to the streaming titan's security measures.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/24/netflix-reportedly-suffers-huge-stranger-things-season-5-leak-as-launch-date-release-schedule-and-plot-details-emerge-online-for-the-popular-shows-final-chapter/</guid>
+          <link>https://majordigest.com/tech/2025/02/24/netflix-reportedly-suffers-huge-stranger-things-season-5-leak-as-launch-date-release-schedule-and-plot-details-emerge-online-for-the-popular-shows-final-chapter/</link>
+          <pubDate>Mon, 24 Feb 2025 15:10:28 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/netflix-reportedly-suffers-huge-stranger-things-season-5-leak-as-launch-date-release-schedule-and-plot-details-emerge-online-for-the-popular-shows-final-chapter.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/netflix-reportedly-suffers-huge-stranger-things-season-5-leak-as-launch-date-release-schedule-and-plot-details-emerge-online-for-the-popular-shows-final-chapter.webp"/>
+          <dc:creator>tom.power@futurenet.com (Tom Power), TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Finding Windows 11 sluggish when you&#8217;re working with files and folders? You&#8217;re not alone &#8211; and it&#8217;s high time for Microsoft to sort out File Explorer</title>
+          <description><![CDATA[Some people are complaining that File Explorer is woefully slow, or that it regularly crashes, and Microsoft needs to shape up here.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/24/finding-windows-11-sluggish-when-youre-working-with-files-and-folders-youre-not-alone-and-its-high-time-for-microsoft-to-sort-out-file-explorer/</guid>
+          <link>https://majordigest.com/tech/2025/02/24/finding-windows-11-sluggish-when-youre-working-with-files-and-folders-youre-not-alone-and-its-high-time-for-microsoft-to-sort-out-file-explorer/</link>
+          <pubDate>Mon, 24 Feb 2025 15:01:08 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/finding-windows-11-sluggish-when-youre-working-with-files-and-folders-youre-not-alone-and-its-high-time-for-microsoft-to-sort-out-file-explorer.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/finding-windows-11-sluggish-when-youre-working-with-files-and-folders-youre-not-alone-and-its-high-time-for-microsoft-to-sort-out-file-explorer.webp"/>
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>How one Bay Area startup wants to bring an innovative solution to the plastic bag problem</title>
-          <description><![CDATA[According to the UN Environment Programme, nearly 11 metric tons of plastic enter the oceans each year. These discarded plastics are killing marine animals including turtles, fish, and seabirds, who can die from entanglement or from eating plastics.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/how-one-bay-area-startup-wants-to-bring-an-innovative-solution-to-the-plastic-bag-problem/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/how-one-bay-area-startup-wants-to-bring-an-innovative-solution-to-the-plastic-bag-problem/</link>
-          <pubDate>Mon, 24 Feb 2025 14:00:33 GMT</pubDate>
+          <title>Black Ops 6 wasn't kidding, there really is something Tony Hawk's Pro Skater related happening on March 4</title>
+          <description><![CDATA[The Tony Hawk's Pro Skater website has been updated with a timer, lining up with that Black Ops 6 multiplayer easter egg.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/24/black-ops-6-wasnt-kidding-there-really-is-something-tony-hawks-pro-skater-related-happening-on-march-4/</guid>
+          <link>https://majordigest.com/tech/2025/02/24/black-ops-6-wasnt-kidding-there-really-is-something-tony-hawks-pro-skater-related-happening-on-march-4/</link>
+          <pubDate>Mon, 24 Feb 2025 11:12:05 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/how-one-bay-area-startup-wants-to-bring-an-innovative-solution-to-the-plastic-bag-problem.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/how-one-bay-area-startup-wants-to-bring-an-innovative-solution-to-the-plastic-bag-problem.webp"/>
-          <dc:creator>Carly Kay, The Mercury News</dc:creator>
-        </item>
-        <item>
-          <title>The best apps to find new books</title>
-          <description><![CDATA[This article is republished with permission from Wonder Tools, a newsletter that helps you discover the most useful sites and apps. Subscribe here.
-Books offer a compelling, slower alternative to the onslaught of negative news.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/the-best-apps-to-find-new-books/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/the-best-apps-to-find-new-books/</link>
-          <pubDate>Mon, 24 Feb 2025 13:12:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/the-best-apps-to-find-new-books.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/the-best-apps-to-find-new-books.webp"/>
-          <dc:creator>Jeremy Caplan, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>Nvidia's RTX 5070 Ti may be getting the competition it needs as the AMD Radeon RX 9070 XT's performance leaks</title>
-          <description><![CDATA[It's now or never for AMD with its new GPU lineup amid Nvidia's RTX 5000 series issues, as a new leak reveals the Radeon RX 9070 XT's performance gains over previous GPUs.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/nvidias-rtx-5070-ti-may-be-getting-the-competition-it-needs-as-the-amd-radeon-rx-9070-xts-performance-leaks/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/nvidias-rtx-5070-ti-may-be-getting-the-competition-it-needs-as-the-amd-radeon-rx-9070-xts-performance-leaks/</link>
-          <pubDate>Mon, 24 Feb 2025 12:02:30 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/nvidias-rtx-5070-ti-may-be-getting-the-competition-it-needs-as-the-amd-radeon-rx-9070-xts-performance-leaks.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/nvidias-rtx-5070-ti-may-be-getting-the-competition-it-needs-as-the-amd-radeon-rx-9070-xts-performance-leaks.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/black-ops-6-wasnt-kidding-there-really-is-something-tony-hawks-pro-skater-related-happening-on-march-4.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/black-ops-6-wasnt-kidding-there-really-is-something-tony-hawks-pro-skater-related-happening-on-march-4.webp"/>
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>What is DALL-E 3: everything you need to know about the AI image generator</title>
-          <description><![CDATA[What is DALL-E 3 and how does the AI image generator work? We’ve summarized all the basics in this handy guide, including how to create images from text prompts.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/what-is-dall-e-3-everything-you-need-to-know-about-the-ai-image-generator/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/what-is-dall-e-3-everything-you-need-to-know-about-the-ai-image-generator/</link>
-          <pubDate>Mon, 24 Feb 2025 11:54:52 GMT</pubDate>
+          <title>GenAI&#8217;s unexpected impact: Disrupting high-skilled tech jobs, too</title>
+          <description><![CDATA[A new Brookings Institution report on generative AI (genAI) found that the more highly skilled a tech worker is, the more vulnerable they are to having their jobs supplemented by the technology.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/24/genais-unexpected-impact-disrupting-high-skilled-tech-jobs-too/</guid>
+          <link>https://majordigest.com/tech/2025/02/24/genais-unexpected-impact-disrupting-high-skilled-tech-jobs-too/</link>
+          <pubDate>Mon, 24 Feb 2025 11:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/what-is-dall-e-3-everything-you-need-to-know-about-the-ai-image-generator.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/what-is-dall-e-3-everything-you-need-to-know-about-the-ai-image-generator.webp"/>
-          <dc:creator>TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/genais-unexpected-impact-disrupting-high-skilled-tech-jobs-too.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/genais-unexpected-impact-disrupting-high-skilled-tech-jobs-too.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>More details of Samsung's tri-fold phone have leaked &#8211; and it could launch alongside the Galaxy Z Fold 7</title>
-          <description><![CDATA[A new report from South Korea gives us a better idea of the phone's dimensions and when it might be unveiled.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/more-details-of-samsungs-tri-fold-phone-have-leaked-and-it-could-launch-alongside-the-galaxy-z-fold-7/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/more-details-of-samsungs-tri-fold-phone-have-leaked-and-it-could-launch-alongside-the-galaxy-z-fold-7/</link>
-          <pubDate>Mon, 24 Feb 2025 11:01:54 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/more-details-of-samsungs-tri-fold-phone-have-leaked-and-it-could-launch-alongside-the-galaxy-z-fold-7.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/more-details-of-samsungs-tri-fold-phone-have-leaked-and-it-could-launch-alongside-the-galaxy-z-fold-7.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>This app turns your smartwatch data into a personal health assistant, and it just launched on Android</title>
-          <description><![CDATA[Empirical Health is an app that uses smartwatch data to power personalized health care, and it just launched on Android.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/this-app-turns-your-smartwatch-data-into-a-personal-health-assistant-and-it-just-launched-on-android/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/this-app-turns-your-smartwatch-data-into-a-personal-health-assistant-and-it-just-launched-on-android/</link>
-          <pubDate>Mon, 24 Feb 2025 10:31:56 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/this-app-turns-your-smartwatch-data-into-a-personal-health-assistant-and-it-just-launched-on-android.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/this-app-turns-your-smartwatch-data-into-a-personal-health-assistant-and-it-just-launched-on-android.webp"/>
-          <dc:creator>stephen.warwick@futurenet.com (Stephen Warwick), TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>10 machine learning mistakes and how to avoid them</title>
-          <description><![CDATA[Machine learning technology is taking hold across many sectors as its applications are more widely adopted. The research firm Fortune Business Insights forecasts the global machine-learning market will expand from $26.03 billion in 2023 to $225.91 billion by 2030.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/10-machine-learning-mistakes-and-how-to-avoid-them/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/10-machine-learning-mistakes-and-how-to-avoid-them/</link>
+          <title>AI coding assistants are on a downward spiral</title>
+          <description><![CDATA[We’re living in a strange time for software development. On the one hand, AI-driven coding assistants have shaken up a hitherto calcified IDE market.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/24/ai-coding-assistants-are-on-a-downward-spiral/</guid>
+          <link>https://majordigest.com/tech/2025/02/24/ai-coding-assistants-are-on-a-downward-spiral/</link>
           <pubDate>Mon, 24 Feb 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/10-machine-learning-mistakes-and-how-to-avoid-them.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/10-machine-learning-mistakes-and-how-to-avoid-them.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/ai-coding-assistants-are-on-a-downward-spiral.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/ai-coding-assistants-are-on-a-downward-spiral.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Musk: Federal workers who gave 'good responses' to new policy deserve promotion consideration</title>
-          <description><![CDATA[Tech billionaire Elon Musk said he’s encouraged by the “good responses” he’s received so far to an email asking federal employees to detail their recent work efforts and suggested the employees who sent them be considered for promotion. “A large number of good responses have been received already.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/23/musk-federal-workers-who-gave-good-responses-to-new-policy-deserve-promotion-consideration/</guid>
-          <link>https://majordigest.com/tech/2025/02/23/musk-federal-workers-who-gave-good-responses-to-new-policy-deserve-promotion-consideration/</link>
-          <pubDate>Sun, 23 Feb 2025 13:40:02 GMT</pubDate>
+          <title>This slick new service puts ChatGPT, Perplexity, and Wikipedia on the map</title>
+          <description><![CDATA[I don’t know about you, but I tend to think about my favorite tech tools as being split into two separate saucepans: the “classic” apps we’ve known and relied on for ages and then the newer “AI” apps that have shown up over the past several months to serve some super-specific purpose.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/22/this-slick-new-service-puts-chatgpt-perplexity-and-wikipedia-on-the-map/</guid>
+          <link>https://majordigest.com/tech/2025/02/22/this-slick-new-service-puts-chatgpt-perplexity-and-wikipedia-on-the-map/</link>
+          <pubDate>Sat, 22 Feb 2025 19:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/23/musk-federal-workers-who-gave-good-responses-to-new-policy-deserve-promotion-consideration.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/23/musk-federal-workers-who-gave-good-responses-to-new-policy-deserve-promotion-consideration.webp"/>
-          <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
-        </item>
-        <item>
-          <title>Like the Crucial T705 but more affordable? Micron 4600 PCIe Gen5 SSD comes painfully close to its award-winning sibling</title>
-          <description><![CDATA[The Micron 4600 PCIe Gen5 NVMe SSD caters to a range of users, from professionals to gamers and content creators.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/23/like-the-crucial-t705-but-more-affordable-micron-4600-pcie-gen5-ssd-comes-painfully-close-to-its-award-winning-sibling/</guid>
-          <link>https://majordigest.com/tech/2025/02/23/like-the-crucial-t705-but-more-affordable-micron-4600-pcie-gen5-ssd-comes-painfully-close-to-its-award-winning-sibling/</link>
-          <pubDate>Sun, 23 Feb 2025 13:03:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/23/like-the-crucial-t705-but-more-affordable-micron-4600-pcie-gen5-ssd-comes-painfully-close-to-its-award-winning-sibling.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/23/like-the-crucial-t705-but-more-affordable-micron-4600-pcie-gen5-ssd-comes-painfully-close-to-its-award-winning-sibling.webp"/>
-          <dc:creator>TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/22/this-slick-new-service-puts-chatgpt-perplexity-and-wikipedia-on-the-map.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/22/this-slick-new-service-puts-chatgpt-perplexity-and-wikipedia-on-the-map.webp"/>
+          <dc:creator>JR Raphael, Fast Company</dc:creator>
         </item>
         <item>
           <title>Apple&#8217;s hidden white noise feature may be just the productivity boost you need</title>
@@ -165,6 +175,17 @@ Books offer a compelling, slower alternative to the onslaught of negative news.]
           <dc:creator>Michael Grothaus, Fast Company</dc:creator>
         </item>
         <item>
+          <title>Rich in cash, Japan automaker Toyota builds a city to test futuristic mobility</title>
+          <description><![CDATA[Woven City near Mount Fuji is where Japanese automaker Toyota plans to test everyday living with robotics, artificial intelligence and autonomous zero-emissions transportation.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/22/rich-in-cash-japan-automaker-toyota-builds-a-city-to-test-futuristic-mobility/</guid>
+          <link>https://majordigest.com/tech/2025/02/22/rich-in-cash-japan-automaker-toyota-builds-a-city-to-test-futuristic-mobility/</link>
+          <pubDate>Sat, 22 Feb 2025 11:14:31 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/22/rich-in-cash-japan-automaker-toyota-builds-a-city-to-test-futuristic-mobility.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/22/rich-in-cash-japan-automaker-toyota-builds-a-city-to-test-futuristic-mobility.webp"/>
+          <dc:creator>Yuri Kageyama, Associated Press, Local 4</dc:creator>
+        </item>
+        <item>
           <title>Brazil Supreme Court justice orders Rumble suspension nationwide for alleged non-compliance</title>
           <description><![CDATA[SAO PAULO (AP) — A Brazilian Supreme Court justice on Friday ordered the suspension of video-sharing platform Rumble in the South American nation for allegedly refusing to comply with court orders.]]></description>
           <guid>https://majordigest.com/tech/2025/02/22/brazil-supreme-court-justice-orders-rumble-suspension-nationwide-for-alleged-non-compliance/</guid>
@@ -173,128 +194,39 @@ Books offer a compelling, slower alternative to the onslaught of negative news.]
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/22/brazil-supreme-court-justice-orders-rumble-suspension-nationwide-for-alleged-non-compliance.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/22/brazil-supreme-court-justice-orders-rumble-suspension-nationwide-for-alleged-non-compliance.webp"/>
-          <dc:creator>MAURICIO SAVARESE, Associated Press, ABC 4</dc:creator>
+          <dc:creator>MAURICIO SAVARESE, Associated Press, NewsNation</dc:creator>
         </item>
         <item>
-          <title>How Wikipedia became a political lightning rod</title>
-          <description><![CDATA[Wikipedia has faced political threats for years, but this time, it may be at a breaking point.
-Republicans have ramped up attacks against Wikipedia as yet another “woke” institution.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/22/how-wikipedia-became-a-political-lightening-rod/</guid>
-          <link>https://majordigest.com/tech/2025/02/22/how-wikipedia-became-a-political-lightening-rod/</link>
-          <pubDate>Sat, 22 Feb 2025 01:02:43 GMT</pubDate>
+          <title>SEC, DOJ investigate CrowdStrike deal with reseller Carahsoft</title>
+          <description><![CDATA[US feds are reportedly investigating a $32 million deal inked by CrowdStrike with a government reseller to provide cybersecurity tools for the Internal Revenue Service (IRS) — products the agency never used and said it didn’t even purchase.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/22/sec-doj-investigate-crowdstrike-deal-with-reseller-carahsoft/</guid>
+          <link>https://majordigest.com/tech/2025/02/22/sec-doj-investigate-crowdstrike-deal-with-reseller-carahsoft/</link>
+          <pubDate>Sat, 22 Feb 2025 02:02:58 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/22/how-wikipedia-became-a-political-lightening-rod.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/22/how-wikipedia-became-a-political-lightening-rod.webp"/>
-          <dc:creator>Henry Chandonnet, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>Trump&#8217;s China tariffs will hit small device makers hardest</title>
-          <description><![CDATA[The day after the Super Bowl, ZapperBox quietly raised the price on Amazon of its over-the-air DVR.
-ZapperBox offers one of the best means of recording local channels from an antenna, and had been charging $275 for its flagship model.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/21/trumps-china-tariffs-will-hit-small-device-makers-hardest/</guid>
-          <link>https://majordigest.com/tech/2025/02/21/trumps-china-tariffs-will-hit-small-device-makers-hardest/</link>
-          <pubDate>Fri, 21 Feb 2025 19:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/21/trumps-china-tariffs-will-hit-small-device-makers-hardest.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/21/trumps-china-tariffs-will-hit-small-device-makers-hardest.webp"/>
-          <dc:creator>Jared Newman, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>Sweden is investigating a damaged cable in the Baltic Sea</title>
-          <description><![CDATA[Swedish authorities say they are investigating a damaged cable that was discovered in the Baltic Sea, the latest in a string of recent incidents of ruptured undersea cables that have heightened fears of Russian sabotage and spying in the region.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/21/sweden-is-investigating-a-damaged-cable-in-the-baltic-sea/</guid>
-          <link>https://majordigest.com/tech/2025/02/21/sweden-is-investigating-a-damaged-cable-in-the-baltic-sea/</link>
-          <pubDate>Fri, 21 Feb 2025 09:46:05 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/21/sweden-is-investigating-a-damaged-cable-in-the-baltic-sea.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/21/sweden-is-investigating-a-damaged-cable-in-the-baltic-sea.webp"/>
-          <dc:creator>Associated Press, Local 4</dc:creator>
-        </item>
-        <item>
-          <title>Embracing Generative AI: Top Picks and Expert Advice for Developers</title>
-          <description><![CDATA[Stay ahead of the curve with the latest news and advice on generative AI for developers, from top picks to expert insights.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/21/genai-is-my-copilot-developers-weigh-pains-and-gains/</guid>
-          <link>https://majordigest.com/tech/2025/02/21/genai-is-my-copilot-developers-weigh-pains-and-gains/</link>
-          <pubDate>Fri, 21 Feb 2025 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/21/genai-is-my-copilot-developers-weigh-pains-and-gains.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/21/genai-is-my-copilot-developers-weigh-pains-and-gains.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Why enterprises fail at finops</title>
-          <description><![CDATA[As cloud spending continues to climb, the discipline known as finops (financial operations) has emerged as a critical strategy for managing and optimizing cloud investments. This is no longer news. Finops has been a discipline and a toolkit for years.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/21/why-enterprises-fail-at-finops/</guid>
-          <link>https://majordigest.com/tech/2025/02/21/why-enterprises-fail-at-finops/</link>
-          <pubDate>Fri, 21 Feb 2025 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/21/why-enterprises-fail-at-finops.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/21/why-enterprises-fail-at-finops.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Steve Jobs a perfect choice for California&#8217;s $1 innovation coin</title>
-          <description><![CDATA[An iconic image of the late co-founder of Apple will be featured on the coin, which is expected to be released next year.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/20/steve-jobs-a-perfect-choice-for-californias-1-innovation-coin/</guid>
-          <link>https://majordigest.com/tech/2025/02/20/steve-jobs-a-perfect-choice-for-californias-1-innovation-coin/</link>
-          <pubDate>Thu, 20 Feb 2025 21:52:09 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/20/steve-jobs-a-perfect-choice-for-californias-1-innovation-coin.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/20/steve-jobs-a-perfect-choice-for-californias-1-innovation-coin.webp"/>
-          <dc:creator>Sal Pizarro, The Mercury News</dc:creator>
-        </item>
-        <item>
-          <title>Everything we know about Apple&#8217;s C1 5G modem in iPhone 16e</title>
-          <description><![CDATA[There’s a lot to like about Apple’s newest $599 iPhone 16e, but one of the more interesting features in the device is the Apple-designed 5G modem. Apple has spent at least seven years developing the chip, but gave it just a few short seconds of time when it announced the smartphone this week.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/20/everything-we-know-about-apples-c1-5g-modem-in-iphone-16e/</guid>
-          <link>https://majordigest.com/tech/2025/02/20/everything-we-know-about-apples-c1-5g-modem-in-iphone-16e/</link>
-          <pubDate>Thu, 20 Feb 2025 14:29:52 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/20/everything-we-know-about-apples-c1-5g-modem-in-iphone-16e.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/20/everything-we-know-about-apples-c1-5g-modem-in-iphone-16e.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/22/sec-doj-investigate-crowdstrike-deal-with-reseller-carahsoft.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/22/sec-doj-investigate-crowdstrike-deal-with-reseller-carahsoft.webp"/>
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Versa Networks launches sovereign SASE, challenging cloud-only security model</title>
-          <description><![CDATA[SASE since its inception has typically been deployed in a software-as-a-service (SaaS) model, delivering network security services from the cloud.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/20/versa-networks-launches-sovereign-sase-challenging-cloud-only-security-model/</guid>
-          <link>https://majordigest.com/tech/2025/02/20/versa-networks-launches-sovereign-sase-challenging-cloud-only-security-model/</link>
-          <pubDate>Thu, 20 Feb 2025 14:22:36 GMT</pubDate>
+          <title>Why a proposed ban on lab-grown meat is getting pushback from Nebraska ranchers</title>
+          <description><![CDATA[The prospect of banning the sale of so-called lab-grown meat might seem like a no-brainer in Nebraska, where beef is king, but some of the proposal’s staunchest opposition has come from ranchers and farming groups who say they can compete without the government’s help.
+Nebraska Gov.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/22/why-proposed-ban-lab-grown-meat-getting-pushback-nebraska-ranchers/</guid>
+          <link>https://majordigest.com/tech/2025/02/22/why-proposed-ban-lab-grown-meat-getting-pushback-nebraska-ranchers/</link>
+          <pubDate>Sat, 22 Feb 2025 00:29:27 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/20/versa-networks-launches-sovereign-sase-challenging-cloud-only-security-model.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/20/versa-networks-launches-sovereign-sase-challenging-cloud-only-security-model.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/22/why-proposed-ban-lab-grown-meat-getting-pushback-nebraska-ranchers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/22/why-proposed-ban-lab-grown-meat-getting-pushback-nebraska-ranchers.webp"/>
+          <dc:creator>Associated Press, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Microsoft&#8217;s new AI hub highlights apps that support NPUs</title>
-          <description><![CDATA[Applications that support the specialized AI chips on Copilot+ PCs have been rare, but Microsoft is looking to change that.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/20/microsofts-new-ai-hub-highlights-apps-that-support-npus/</guid>
-          <link>https://majordigest.com/tech/2025/02/20/microsofts-new-ai-hub-highlights-apps-that-support-npus/</link>
-          <pubDate>Thu, 20 Feb 2025 13:03:36 GMT</pubDate>
+          <title>Apple drops encryption feature for UK users after government reportedly demanded backdoor access</title>
+          <description><![CDATA[Apple says it will stop offering an advanced data security option for British users after the government reportedly demanded that the company provide backdoor access for any data those users have stored in the cloud.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/21/apple-drops-encryption-feature-for-uk-users-after-government-reportedly-demanded-backdoor-access/</guid>
+          <link>https://majordigest.com/tech/2025/02/21/apple-drops-encryption-feature-for-uk-users-after-government-reportedly-demanded-backdoor-access/</link>
+          <pubDate>Fri, 21 Feb 2025 16:34:33 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/20/microsofts-new-ai-hub-highlights-apps-that-support-npus.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/20/microsofts-new-ai-hub-highlights-apps-that-support-npus.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>VMware by Broadcom: Product, service and support news</title>
-          <description><![CDATA[News of Broadcom’s plans to acquire VMware triggered concerns among customers, partners, and industry watchers, many of whom recalled Broadcom’s track record with prior high-profile acquisitions, including network switching vendor Brocade in 2016 for almost $6 billion, software firm CA Technologies ]]></description>
-          <guid>https://majordigest.com/tech/2025/02/19/vmware-by-broadcom-product-service-and-support-news/</guid>
-          <link>https://majordigest.com/tech/2025/02/19/vmware-by-broadcom-product-service-and-support-news/</link>
-          <pubDate>Wed, 19 Feb 2025 19:05:53 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/19/vmware-by-broadcom-product-service-and-support-news.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/19/vmware-by-broadcom-product-service-and-support-news.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>Intro to Elixir: A fresh take on functional programming</title>
-          <description><![CDATA[Elixir is one of the most interesting stories in the world of programming languages right now. Built on the Erlang ecosystem, Elixir offers a fresh take on functional programming and new ways of thinking about concurrency and fault tolerance.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/19/intro-to-elixir-a-fresh-take-on-functional-programming/</guid>
-          <link>https://majordigest.com/tech/2025/02/19/intro-to-elixir-a-fresh-take-on-functional-programming/</link>
-          <pubDate>Wed, 19 Feb 2025 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/19/intro-to-elixir-a-fresh-take-on-functional-programming.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/19/intro-to-elixir-a-fresh-take-on-functional-programming.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/21/apple-drops-encryption-feature-for-uk-users-after-government-reportedly-demanded-backdoor-access.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/21/apple-drops-encryption-feature-for-uk-users-after-government-reportedly-demanded-backdoor-access.webp"/>
+          <dc:creator>Kelvin Chan, Associated Press, KPRC 2</dc:creator>
         </item></channel></rss>
