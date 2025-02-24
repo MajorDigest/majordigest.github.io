@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/20/att-debuts-new-splitpay-plan/</loc>
+          <loc>https://majordigest.com/tech/2025/02/21/amazon-concedes-that-chime-sdk-makes-far-more-sense-than-the-chime-application-itself/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-20T19:00:00.000Z</news:publication_date>
-            <news:title>The Upside of Shared Phone Plans: AT&T's New SplitPay Service</news:title>
+            <news:publication_date>2025-02-21T22:26:07.000Z</news:publication_date>
+            <news:title>Amazon Abandons Chime App, Focuses on SDK</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/20/att-debuts-new-splitpay-plan.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/21/amazon-concedes-that-chime-sdk-makes-far-more-sense-than-the-chime-application-itself.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/21/this-new-ai-tool-helps-walmarts-merchandising-team-plan-whats-in-stores/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-21T18:12:00.000Z</news:publication_date>
+            <news:title>Walmart Introduces AI Tool "Wally" to Streamline Merchandising Decisions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/21/this-new-ai-tool-helps-walmarts-merchandising-team-plan-whats-in-stores.webp</image:loc>
           </image:image>
         </url></urlset>
