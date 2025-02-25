@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/world/2025/02/25/son-of-chinese-journalist-jailed-for-espionage-calls-for-his-fathers-release/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-25T08:38:11.000Z</news:publication_date>
+            <news:title>Son of Chinese journalist jailed for espionage calls for his father's release</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/02/25/son-of-chinese-journalist-jailed-for-espionage-calls-for-his-fathers-release.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2025/02/25/palestinians-struggle-to-restart-their-lives-in-the-ruins-of-gaza/</loc>
           <news:news>
             <news:publication>
@@ -14,20 +28,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/world/2025/02/25/palestinians-struggle-to-restart-their-lives-in-the-ruins-of-gaza.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/25/thousands-gather-outside-the-vatican-to-pray-for-pope-francis-health/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-25T05:43:57.000Z</news:publication_date>
-            <news:title>Thousands gather outside the Vatican to pray for Pope Francis' health</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/25/thousands-gather-outside-the-vatican-to-pray-for-pope-francis-health.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,20 +45,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/02/25/a-cliff-that-looks-like-a-puppy-resting-beside-the-yangtze-river-delights-people-in-china/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-25T05:20:30.000Z</news:publication_date>
-            <news:title>A cliff that looks like a puppy resting beside the Yangtze River delights people in China</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/25/a-cliff-that-looks-like-a-puppy-resting-beside-the-yangtze-river-delights-people-in-china.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2025/02/25/46-1-million-people-were-counted-in-iraqs-first-census-in-nearly-40-years/</loc>
           <news:news>
             <news:publication>
@@ -73,185 +59,157 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/02/25/in-rome-talks-to-protect-earths-biodiversity-resume-with-money-topping-the-agenda/</loc>
+          <loc>https://majordigest.com/world/2025/02/25/the-un-will-vote-to-demand-russia-pull-troops-out-of-ukraine-but-the-us-wants-a-softer-approach/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-25T03:06:36.000Z</news:publication_date>
+            <news:publication_date>2025-02-25T01:58:45.000Z</news:publication_date>
+            <news:title>US refuses to blame Russia for Ukraine war, splitting with European allies in UN votes</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/02/25/the-un-will-vote-to-demand-russia-pull-troops-out-of-ukraine-but-the-us-wants-a-softer-approach.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/02/25/conservatives-win-german-election-while-far-right-party-surges-to-second-place/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-25T01:55:56.000Z</news:publication_date>
+            <news:title>Merz prioritizes Ukraine and US, vows to tackle migration and economy after German election win</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/02/25/conservatives-win-german-election-while-far-right-party-surges-to-second-place.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/02/25/north-korean-hackers-crypto-hack-bybit/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-25T01:08:27.000Z</news:publication_date>
+            <news:title>North Korean hackers behind $1.5 billion crypto hack: Security firm</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/02/25/north-korean-hackers-crypto-hack-bybit.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/02/24/in-rome-talks-to-protect-earths-biodiversity-resume-with-money-topping-the-agenda/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-24T23:45:28.000Z</news:publication_date>
             <news:title>In Rome, talks to protect Earth's biodiversity resume with money topping the agenda</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/25/in-rome-talks-to-protect-earths-biodiversity-resume-with-money-topping-the-agenda.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/02/24/in-rome-talks-to-protect-earths-biodiversity-resume-with-money-topping-the-agenda.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/02/25/pope-is-resting-on-10th-day-of-hospitalization-after-early-stages-of-kidney-failure-detected/</loc>
+          <loc>https://majordigest.com/world/2025/02/24/australia-pursues-tariff-exemptions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-25T02:26:10.000Z</news:publication_date>
+            <news:publication_date>2025-02-24T21:05:02.000Z</news:publication_date>
+            <news:title>Australian treasurer seeking tariff exemption in talks with Bessent</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/02/24/australia-pursues-tariff-exemptions.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/02/24/state-treasury-departments-reimposes-maximum-pressure-sanctions-irans-oil-trade/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-24T17:21:52.000Z</news:publication_date>
+            <news:title>State, Treasury Departments reimposes 'maximum pressure' sanctions on Iran&#8217;s oil trade</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/02/24/state-treasury-departments-reimposes-maximum-pressure-sanctions-irans-oil-trade.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/02/24/trump-ukraine-mafia-sopranos-rare-earths-minerals-zelensky-putin-russia-himes/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-24T15:19:34.000Z</news:publication_date>
+            <news:title>Trump Ukraine policy looks like an episode of 'The Sopranos': Democratic rep</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/02/24/trump-ukraine-mafia-sopranos-rare-earths-minerals-zelensky-putin-russia-himes.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/02/24/germany-will-likely-continue-its-leadership-on-climate-action-but-expect-a-change-in-tone/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-24T14:43:00.000Z</news:publication_date>
+            <news:title>Germany will likely continue its leadership on climate action. But expect a change in tone</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/02/24/germany-will-likely-continue-its-leadership-on-climate-action-but-expect-a-change-in-tone.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/02/24/pope-francis-10th-night-hospital/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-24T11:08:02.000Z</news:publication_date>
+            <news:title>Pope Francis shows 'slight improvement' in kidney failure battle</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/02/24/pope-francis-10th-night-hospital.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/02/24/461-million-people-were-counted-in-iraqs-first-census-in-nearly-40-years/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-24T10:20:51.000Z</news:publication_date>
+            <news:title>46.1 million people were counted in Iraq's first census in nearly 40 years</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/02/24/461-million-people-were-counted-in-iraqs-first-census-in-nearly-40-years.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/02/24/pope-is-resting-on-10th-day-of-hospitalization-after-early-stages-of-kidney-failure-detected/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-24T07:33:27.000Z</news:publication_date>
             <news:title>Pope Francis shows slight improvement and resumes some work, while still critical, Vatican says</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/25/pope-is-resting-on-10th-day-of-hospitalization-after-early-stages-of-kidney-failure-detected.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/24/foreign-leaders-visit-ukraines-capital-to-mark-3rd-war-anniversary/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-24T22:56:15.000Z</news:publication_date>
-            <news:title>Western leaders visit Kyiv and pledge military support against Russia on the war's 3rd anniversary</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/24/foreign-leaders-visit-ukraines-capital-to-mark-3rd-war-anniversary.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/24/most-voters-want-ukraine-to-reach-settlement-with-russia/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-24T22:22:34.000Z</news:publication_date>
-            <news:title>Most voters want Ukraine to reach settlement with Russia</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/24/most-voters-want-ukraine-to-reach-settlement-with-russia.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/24/the-latest-ukraine-marks-third-anniversary-of-war-as-us-shifts-its-policy-under-trump/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-24T20:37:01.000Z</news:publication_date>
-            <news:title>The Latest: Ukraine marks third anniversary of war as US shifts its policy under Trump</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/24/the-latest-ukraine-marks-third-anniversary-of-war-as-us-shifts-its-policy-under-trump.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/24/ukraine-un-resolution/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-24T20:27:28.000Z</news:publication_date>
-            <news:title>These 17 countries voted with US against Ukraine UN resolution</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/24/ukraine-un-resolution.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/24/elon-musk-canadian-citizenship-revocation-petition/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-24T19:45:16.000Z</news:publication_date>
-            <news:title>Nearly 200K sign petition to revoke Musk's Canadian citizenship</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/24/elon-musk-canadian-citizenship-revocation-petition.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/24/xi-china-russia-trump-putin-ukraine-peace-talks/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-24T19:38:25.000Z</news:publication_date>
-            <news:title>Xi says China, Russia true friends as Trump pursues Putin talks</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/24/xi-china-russia-trump-putin-ukraine-peace-talks.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/24/pope-francis-improvement-pneumonia/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-24T19:26:19.000Z</news:publication_date>
-            <news:title>Pope shows slight improvement, resumes some work: Vatican</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/24/pope-francis-improvement-pneumonia.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/24/a-police-union-in-haiti-demands-more-protection-a-day-after-gangs-kill-a-kenyan-policeman/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-24T17:57:53.000Z</news:publication_date>
-            <news:title>A police union in Haiti demands more protection after gangs kill a Kenyan police officer</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/24/a-police-union-in-haiti-demands-more-protection-a-day-after-gangs-kill-a-kenyan-policeman.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/23/conservative-candidate-pulls-ahead-german-election-according-early-exit-polls/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-23T19:03:37.000Z</news:publication_date>
-            <news:title>Conservative candidate pulls ahead in German election, according to early exit polls</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/23/conservative-candidate-pulls-ahead-german-election-according-early-exit-polls.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/23/surviving-hamas-keith-siegel-israeli-american-hostage/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-23T16:35:20.000Z</news:publication_date>
-            <news:title>Surviving Hamas: The story of Keith Siegel, an Israeli American hostage</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/23/surviving-hamas-keith-siegel-israeli-american-hostage.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/23/ukraines-zelenskyy-says-hed-be-ready-to-give-up-presidency-if-it-brought-peace-nato-membership/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-23T16:12:51.000Z</news:publication_date>
-            <news:title>Ukraine's Zelenskyy says he'd be ready to give up presidency if it brought peace, NATO membership</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/23/ukraines-zelenskyy-says-hed-be-ready-to-give-up-presidency-if-it-brought-peace-nato-membership.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/02/24/pope-is-resting-on-10th-day-of-hospitalization-after-early-stages-of-kidney-failure-detected.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -261,25 +219,11 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-23T15:17:36.000Z</news:publication_date>
+            <news:publication_date>2025-02-23T14:20:16.000Z</news:publication_date>
             <news:title>Pope Francis remains in critical condition with early kidney failure</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/world/2025/02/23/pope-francis-conscious-but-remains-in-critical-condition-after-respiratory-crisis.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/23/pope-francis-peaceful-night-blood-transfusions-pneumonia/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-23T14:40:32.000Z</news:publication_date>
-            <news:title>Pope Francis remains in 'critical condition' with signs of early kidney failure</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/23/pope-francis-peaceful-night-blood-transfusions-pneumonia.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -297,157 +241,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/02/23/french-aircraft-carrier-stages-combat-drills-with-filipinos-in-disputed-sea-and-visits-philippines/</loc>
+          <loc>https://majordigest.com/world/2025/02/23/pope-francis-health-vatican-reporter/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-23T12:34:40.000Z</news:publication_date>
-            <news:title>French aircraft carrier stages combat drills with Filipinos in disputed sea and visits Philippines</news:title>
+            <news:publication_date>2025-02-23T01:30:57.000Z</news:publication_date>
+            <news:title>Pope Francis' health 'looking very serious': Vatican reporter</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/23/french-aircraft-carrier-stages-combat-drills-with-filipinos-in-disputed-sea-and-visits-philippines.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/02/23/pope-francis-health-vatican-reporter.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/02/23/afghan-womens-radio-station-to-resume-broadcasts-after-taliban-say-theyre-lifting-suspension/</loc>
+          <loc>https://majordigest.com/world/2025/02/22/sepsis-a-threat-in-popes-pneumonia-battle-as-vatican-holy-year-celebrations-march-on-without-him/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-23T09:17:02.000Z</news:publication_date>
-            <news:title>Afghan women&#8217;s radio station will resume broadcasts after Taliban lift suspension</news:title>
+            <news:publication_date>2025-02-22T22:15:05.000Z</news:publication_date>
+            <news:title>Pope Francis is in critical condition after a long respiratory crisis, requiring oxygen at high flow</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/23/afghan-womens-radio-station-to-resume-broadcasts-after-taliban-say-theyre-lifting-suspension.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/02/22/sepsis-a-threat-in-popes-pneumonia-battle-as-vatican-holy-year-celebrations-march-on-without-him.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/02/23/pope-francis-had-peaceful-nights-rest-hospital-following-respiratory-crisis-vatican-says/</loc>
+          <loc>https://majordigest.com/world/2025/02/22/trump-envoy-visits-injured-ukrainian-soldiers-deliver-message-gets-asked-simple-question/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-23T08:05:32.000Z</news:publication_date>
-            <news:title>Pope Francis had peaceful night's rest at hospital following respiratory crisis, Vatican says</news:title>
+            <news:publication_date>2025-02-22T18:58:47.000Z</news:publication_date>
+            <news:title>Trump envoy visits injured Ukrainian soldiers to deliver message, gets asked simple question</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/23/pope-francis-had-peaceful-nights-rest-hospital-following-respiratory-crisis-vatican-says.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/02/22/trump-envoy-visits-injured-ukrainian-soldiers-deliver-message-gets-asked-simple-question.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/02/23/wounded-recovered-and-back-to-war-ukrainian-soldiers-are-returning-to-battle-after-amputation/</loc>
+          <loc>https://majordigest.com/world/2025/02/21/20-mexican-cities-3-in-us-among-50-most-dangerous-in-the-world/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-23T05:22:07.000Z</news:publication_date>
-            <news:title>Wounded, recovered and back to war. Ukrainian soldiers are returning to battle after amputation</news:title>
+            <news:publication_date>2025-02-21T15:54:48.000Z</news:publication_date>
+            <news:title>20 Mexican cities, 5 in US among 50 most dangerous in the world</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/23/wounded-recovered-and-back-to-war-ukrainian-soldiers-are-returning-to-battle-after-amputation.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/23/israel-delays-palestinian-prisoner-release-hamas-humiliating-treatment-hostages-netanyahu-says/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-23T02:49:11.000Z</news:publication_date>
-            <news:title>Israel delays Palestinian prisoner release after Hamas' 'humiliating' treatment of hostages, Netanyahu says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/23/israel-delays-palestinian-prisoner-release-hamas-humiliating-treatment-hostages-netanyahu-says.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/22/trump-putin-summit-preparations-are-underway-russia-says-as-washington-ends-isolation-of-moscow/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-22T21:19:00.000Z</news:publication_date>
-            <news:title>Trump-Putin summit preparations are underway, Russia says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/22/trump-putin-summit-preparations-are-underway-russia-says-as-washington-ends-isolation-of-moscow.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/22/meet-edan-alexander-last-living-american-hostage-hamas-captivity/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-22T19:38:56.000Z</news:publication_date>
-            <news:title>Meet Edan Alexander, the last living American hostage in Hamas captivity</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/22/meet-edan-alexander-last-living-american-hostage-hamas-captivity.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/22/pope-francis-critical-condition-vatican-says/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-22T18:39:21.000Z</news:publication_date>
-            <news:title>Pope Francis in critical condition, Vatican says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/22/pope-francis-critical-condition-vatican-says.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/22/70-christians-beheaded-african-country-isis-aligned-militants-groups-say-world-mostly-silent/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-22T14:56:25.000Z</news:publication_date>
-            <news:title>70 Christians beheaded in African country by ISIS-aligned militants, groups say; world mostly silent</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/22/70-christians-beheaded-african-country-isis-aligned-militants-groups-say-world-mostly-silent.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/22/syrian-suspect-in-berlin-holocaust-memorial-stabbing-wanted-to-kill-jews-investigators-say/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-22T13:11:19.000Z</news:publication_date>
-            <news:title>Suspect in Berlin Holocaust Memorial stabbing wanted to kill Jews: Investigators</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/22/syrian-suspect-in-berlin-holocaust-memorial-stabbing-wanted-to-kill-jews-investigators-say.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/22/delta-first-lawsuits-toronto/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-22T01:26:27.000Z</news:publication_date>
-            <news:title>Delta faces first lawsuits days after plane flips in Toronto</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/22/delta-first-lawsuits-toronto.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/02/21/20-mexican-cities-3-in-us-among-50-most-dangerous-in-the-world.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -465,6 +311,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/world/2025/02/21/hamas-to-return-4-israeli-bodies-including-a-mother-and-her-2-young-children/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-21T04:01:48.000Z</news:publication_date>
+            <news:title>Israel identifies remains of child hostages but says another body from Hamas was not their mother</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/02/21/hamas-to-return-4-israeli-bodies-including-a-mother-and-her-2-young-children.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2025/02/19/medical-oxygen-shortage-report/</loc>
           <news:news>
             <news:publication>
@@ -479,30 +339,16 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/02/19/deepseek-data-tiktok-bytedance/</loc>
+          <loc>https://majordigest.com/world/2025/02/18/tourist-turks-and-caicos-shark-attack/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-19T02:29:18.000Z</news:publication_date>
-            <news:title>DeepSeek accused of sharing user data with TikTok owner ByteDance</news:title>
+            <news:publication_date>2025-02-18T20:40:20.000Z</news:publication_date>
+            <news:title>Tourist in Turks and Caicos severely injured in shark attack</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/19/deepseek-data-tiktok-bytedance.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/02/18/vatican-cancels-more-holy-year-events-as-pope-remains-hospitalized-with-respiratory-infection/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-18T18:43:34.000Z</news:publication_date>
-            <news:title>Pope Francis has bilateral pneumonia but remains in good spirits, the Vatican says</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/02/18/vatican-cancels-more-holy-year-events-as-pope-remains-hospitalized-with-respiratory-infection.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/02/18/tourist-turks-and-caicos-shark-attack.webp</image:loc>
           </image:image>
         </url></urlset>
