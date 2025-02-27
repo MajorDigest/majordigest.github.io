@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2025/02/27/trump-promised-to-keep-spying-agencies-in-check-then-he-fired-the-watchdogs-he-appointed/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-27T21:00:00.000Z</news:publication_date>
+            <news:title>Trump promised to keep spying agencies in check. Then he fired the watchdogs he appointed</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/27/trump-promised-to-keep-spying-agencies-in-check-then-he-fired-the-watchdogs-he-appointed.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/27/meta-apologizes-for-error-that-resulted-in-violent-content-flooding-instagram-feeds/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-27T16:12:17.000Z</news:publication_date>
+            <news:title>Meta apologizes for 'error' that resulted in violent content flooding Instagram feeds</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/27/meta-apologizes-for-error-that-resulted-in-violent-content-flooding-instagram-feeds.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/02/27/one-tech-tip-getting-a-lot-of-unwanted-phone-calls-here-are-ways-to-stop-them/</loc>
           <news:news>
             <news:publication>
@@ -10,66 +38,10 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-02-27T16:01:32.000Z</news:publication_date>
-            <news:title>One Tech Tip: Getting a lot of unwanted phone calls? Here are ways to stop them</news:title>
+            <news:title>Stop Unwanted Phone Calls: A Guide to Fighting Back - AP News</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/02/27/one-tech-tip-getting-a-lot-of-unwanted-phone-calls-here-are-ways-to-stop-them.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/27/microsoft-urges-trump-administration-loosen-ai-chip-exports/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-27T16:00:09.000Z</news:publication_date>
-            <news:title>Microsoft calls on Trump to loosen AI chip export restrictions</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/microsoft-urges-trump-administration-loosen-ai-chip-exports.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/27/long-dormant-mac-malware-returns-advanced-capabilities/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-27T15:00:02.000Z</news:publication_date>
-            <news:title>Long-dormant Mac malware returns with advanced capabilities</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/long-dormant-mac-malware-returns-advanced-capabilities.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/27/windows-11-24h2-bug-is-confusing-people-by-displaying-half-the-interface-in-one-language-and-the-remainder-in-another/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-27T14:27:34.000Z</news:publication_date>
-            <news:title>Windows 11 24H2 bug is confusing people by displaying half the interface in one language, and the remainder in another</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/windows-11-24h2-bug-is-confusing-people-by-displaying-half-the-interface-in-one-language-and-the-remainder-in-another.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/27/starlingx-bridges-ipv4-ipv6-gap-with-dual-stack-networking-support/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-27T13:24:33.000Z</news:publication_date>
-            <news:title>StarlingX bridges IPv4-IPv6 gap with dual-stack networking support</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/starlingx-bridges-ipv4-ipv6-gap-with-dual-stack-networking-support.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -80,150 +52,52 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-02-27T13:23:10.000Z</news:publication_date>
-            <news:title>FBI says North Korean Lazarus hackers were behind $1.5 billion Bybit crypto hack</news:title>
+            <news:title>The Largest Crypto Theft in History: Bybit's $1.5 Billion Loss Attributed to Lazarus Group - FBI Investigation Underway</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/02/27/fbi-says-north-korean-lazarus-hackers-were-behind-usd1-5-billion-bybit-crypto-hack.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/27/ti-basada-en-productos-seis-pasos-clave-para-ejecutar-el-cambio/</loc>
+          <loc>https://majordigest.com/tech/2025/02/27/vietnam-plans-energy-shift-toward-building-more-solar-less-reliance-on-gas-and-coal/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-27T12:31:37.000Z</news:publication_date>
-            <news:title>TI basada en productos: seis pasos clave para ejecutar el cambio</news:title>
+            <news:publication_date>2025-02-27T10:44:35.000Z</news:publication_date>
+            <news:title>Vietnam plans energy shift toward building more solar, less reliance on gas and coal</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/ti-basada-en-productos-seis-pasos-clave-para-ejecutar-el-cambio.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/27/vietnam-plans-energy-shift-toward-building-more-solar-less-reliance-on-gas-and-coal.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/27/amds-radeon-rx-9070-xt-price-has-supposedly-leaked-in-microcenters-listing-and-i-honestly-hope-this-is-a-joke/</loc>
+          <loc>https://majordigest.com/tech/2025/02/26/epa-head-urges-trump-to-reconsider-scientific-finding-that-underpins-climate-action-ap-sources-say/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-27T12:27:29.000Z</news:publication_date>
-            <news:title>AMD&#8217;s Radeon RX 9070 XT price has supposedly leaked in MicroCenter's listing, and I honestly hope this is a joke</news:title>
+            <news:publication_date>2025-02-26T21:01:14.000Z</news:publication_date>
+            <news:title>EPA head urges Trump to reconsider scientific finding that underpins climate action, AP sources say</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/amds-radeon-rx-9070-xt-price-has-supposedly-leaked-in-microcenters-listing-and-i-honestly-hope-this-is-a-joke.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/26/epa-head-urges-trump-to-reconsider-scientific-finding-that-underpins-climate-action-ap-sources-say.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/26/hinge-match-note-trans-and-neurodivergent-daters/</loc>
+          <loc>https://majordigest.com/tech/2025/02/26/red-hat-openshift-improves-virtualization-support/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-26T23:12:38.000Z</news:publication_date>
-            <news:title>Hinge&#8217;s new feature wants to help trans and neurodivergent daters</news:title>
+            <news:publication_date>2025-02-26T09:00:00.000Z</news:publication_date>
+            <news:title>Red Hat OpenShift improves virtualization support</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/26/hinge-match-note-trans-and-neurodivergent-daters.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/26/apple-shareholders-reject-proposal-to-scrap-companys-diversity-programs/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-26T23:01:53.000Z</news:publication_date>
-            <news:title>Apple shareholders reject proposal to scrap company's diversity programs</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/26/apple-shareholders-reject-proposal-to-scrap-companys-diversity-programs.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/26/man-who-said-he-was-upset-with-musk-and-trump-charged-with-threatening-to-burn-down-xai-facility/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-26T22:30:17.000Z</news:publication_date>
-            <news:title>Man who said he was upset with Musk and Trump charged with threatening to burn down xAI facility</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/26/man-who-said-he-was-upset-with-musk-and-trump-charged-with-threatening-to-burn-down-xai-facility.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/26/nvidia-sales-surge-in-the-fourth-quarter-on-demand-for-ai-chips/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-26T21:48:23.000Z</news:publication_date>
-            <news:title>Nvidia sales surge in the fourth quarter on demand for AI chips</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/26/nvidia-sales-surge-in-the-fourth-quarter-on-demand-for-ai-chips.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/26/usb-c-problems/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-26T20:30:00.000Z</news:publication_date>
-            <news:title>At 10, USB-C still hasn&#8217;t lived up to its full potential</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/26/usb-c-problems.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/26/las-vegas-police-cybertrucks/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-26T20:07:47.000Z</news:publication_date>
-            <news:title>Las Vegas PD announce nation&#8217;s first fleet of police Tesla Cybertrucks</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/26/las-vegas-police-cybertrucks.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/25/cisco-nvidia-expand-ai-partnership-to-include-silicon-one-technology/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-25T19:40:22.000Z</news:publication_date>
-            <news:title>Cisco, Nvidia expand AI partnership to include Silicon One technology</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/25/cisco-nvidia-expand-ai-partnership-to-include-silicon-one-technology.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/25/how-vr-technology-curing-loneliness-seniors/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-25T11:00:59.000Z</news:publication_date>
-            <news:title>Seniors Embracing Virtual Reality: A New World of Adventure and Therapy</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/25/how-vr-technology-curing-loneliness-seniors.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/26/red-hat-openshift-improves-virtualization-support.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -247,7 +121,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-24T17:28:50.000Z</news:publication_date>
+            <news:publication_date>2025-02-24T20:30:14.000Z</news:publication_date>
             <news:title>Apple announces $500 billion investment in US amid tariff threats that could affect the iPhone</news:title>
           </news:news>
           <image:image>
@@ -269,6 +143,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2025/02/24/massive-airship-could-shake-up-cargo-transport/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-24T11:00:54.000Z</news:publication_date>
+            <news:title>Massive airship could shake up cargo transport</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/24/massive-airship-could-shake-up-cargo-transport.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/24/10-machine-learning-mistakes-and-how-to-avoid-them/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-24T09:00:00.000Z</news:publication_date>
+            <news:title>10 machine learning mistakes and how to avoid them</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/24/10-machine-learning-mistakes-and-how-to-avoid-them.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/02/24/a-smarter-approach-to-training-ai-models/</loc>
           <news:news>
             <news:publication>
@@ -280,6 +182,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/02/24/a-smarter-approach-to-training-ai-models.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/22/what-you-doing-wrong-when-scammers-call/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-22T15:00:25.000Z</news:publication_date>
+            <news:title>This is what you are doing wrong when scammers call</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/22/what-you-doing-wrong-when-scammers-call.webp</image:loc>
           </image:image>
         </url>
         <url>
