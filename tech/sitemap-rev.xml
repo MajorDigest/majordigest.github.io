@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/27/gabbard-decries-britains-reported-demand-for-apple-to-provide-backdoor-access-to-users-cloud-data/</loc>
+          <loc>https://majordigest.com/tech/2025/02/27/what-is-retrieval-augmented-generation-more-accurate-and-reliable-llms/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-27T16:15:09.000Z</news:publication_date>
-            <news:title>US Intel Chief Raises Concerns Over UK's Demand for Apple Backdoor Access</news:title>
+            <news:publication_date>2025-02-27T22:32:53.000Z</news:publication_date>
+            <news:title>RAG to the Rescue: Grounding Large Language Models with Retrieval-Augmented Generation</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/gabbard-decries-britains-reported-demand-for-apple-to-provide-backdoor-access-to-users-cloud-data.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/27/what-is-retrieval-augmented-generation-more-accurate-and-reliable-llms.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/27/temu-is-cheaper-than-archrival-amazon-by-40-on-average-but-not-the-most-popular-products-research-finds/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-27T19:28:00.000Z</news:publication_date>
+            <news:title>Temu's Pricing Strategies and Consumer Perception: A Comparison to Amazon</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/27/temu-is-cheaper-than-archrival-amazon-by-40-on-average-but-not-the-most-popular-products-research-finds.webp</image:loc>
           </image:image>
         </url></urlset>
