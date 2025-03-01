@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 01 Mar 2025 09:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 10:14:20 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,49 +19,148 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Microsoft shutting down Skype in May</title>
-          <description><![CDATA[Microsoft is officially retiring Skype, the platform once popular for making calls and messaging, and redirecting users to Teams, the tech giant announced Friday.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/28/microsoft-shutting-down-skype/</guid>
-          <link>https://majordigest.com/tech/2025/02/28/microsoft-shutting-down-skype/</link>
-          <pubDate>Fri, 28 Feb 2025 16:04:42 GMT</pubDate>
+          <title>The internet has suspicions about family vloggers fleeing California. Here&#8217;s why</title>
+          <description><![CDATA[An unsubstantiated online theory has recently taken hold, claiming that family vloggers are fleeing Los Angeles to escape newly introduced California laws designed to protect children featured in online content.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/01/why-family-lifestyle-vloggers-are-fleeing-california-child-content-creator-rights-act/</guid>
+          <link>https://majordigest.com/tech/2025/03/01/why-family-lifestyle-vloggers-are-fleeing-california-child-content-creator-rights-act/</link>
+          <pubDate>Sat, 01 Mar 2025 05:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/28/microsoft-shutting-down-skype.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/28/microsoft-shutting-down-skype.webp"/>
-          <dc:creator>Julia Shapero, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/01/why-family-lifestyle-vloggers-are-fleeing-california-child-content-creator-rights-act.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/01/why-family-lifestyle-vloggers-are-fleeing-california-child-content-creator-rights-act.webp"/>
+          <dc:creator>Eve Upton-Clark, Fast Company</dc:creator>
         </item>
         <item>
-          <title>OpenAI Sora is now available in the UK and EU for AI video &#8211; here's how to use it</title>
-          <description><![CDATA[Sora is expanding outside the US, which means paying ChatGPT users in more countries can give it a try.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/28/openai-sora-is-now-available-in-the-uk-and-eu-for-ai-video-heres-how-to-use-it/</guid>
-          <link>https://majordigest.com/tech/2025/02/28/openai-sora-is-now-available-in-the-uk-and-eu-for-ai-video-heres-how-to-use-it/</link>
-          <pubDate>Fri, 28 Feb 2025 12:40:34 GMT</pubDate>
+          <title>Two AI developer strategies: Hire engineers or let AI do the work</title>
+          <description><![CDATA[The stark difference in the way tech giants in China and the US are approaching AI for internal operations was illustrated late this week by separate announcements from Salesforce and Alibaba.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/01/two-ai-developer-strategies-hire-engineers-or-let-ai-do-the-work/</guid>
+          <link>https://majordigest.com/tech/2025/03/01/two-ai-developer-strategies-hire-engineers-or-let-ai-do-the-work/</link>
+          <pubDate>Sat, 01 Mar 2025 02:41:53 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/28/openai-sora-is-now-available-in-the-uk-and-eu-for-ai-video-heres-how-to-use-it.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/28/openai-sora-is-now-available-in-the-uk-and-eu-for-ai-video-heres-how-to-use-it.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/01/two-ai-developer-strategies-hire-engineers-or-let-ai-do-the-work.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/01/two-ai-developer-strategies-hire-engineers-or-let-ai-do-the-work.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>TrapC Aims to Fix Memory Safety Issues in C and C++</title>
+          <description><![CDATA[TrapC, a fork of the C language, is being developed to address memory safety issues that have hindered the C and C++ languages.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/28/trapc-proposal-to-fix-c-c-memory-safety/</guid>
+          <link>https://majordigest.com/tech/2025/02/28/trapc-proposal-to-fix-c-c-memory-safety/</link>
+          <pubDate>Fri, 28 Feb 2025 23:33:52 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/28/trapc-proposal-to-fix-c-c-memory-safety.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/28/trapc-proposal-to-fix-c-c-memory-safety.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Is this the end for electric supercars? More luxury automakers, including Aston Martin, delay plans for EVs</title>
+          <description><![CDATA[A big question mark hangs over the future of Aston Martin's debut EV and more electrified product from Maserati.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/28/is-this-the-end-for-electric-supercars-more-luxury-automakers-including-aston-martin-delay-plans-for-evs/</guid>
+          <link>https://majordigest.com/tech/2025/02/28/is-this-the-end-for-electric-supercars-more-luxury-automakers-including-aston-martin-delay-plans-for-evs/</link>
+          <pubDate>Fri, 28 Feb 2025 23:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/28/is-this-the-end-for-electric-supercars-more-luxury-automakers-including-aston-martin-delay-plans-for-evs.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/28/is-this-the-end-for-electric-supercars-more-luxury-automakers-including-aston-martin-delay-plans-for-evs.webp"/>
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>AI priorities: IT leaders emphasize productivity over innovation</title>
-          <description><![CDATA[IT leaders are still aiming for the low-hanging fruit when using AI, zeroing in on improving employee productivity rather than more advanced uses such as enabling innovation or expanding revenue, according to a new survey.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/28/it-leaders-ai-priorities-emphasize-productivity-over-innovation/</guid>
-          <link>https://majordigest.com/tech/2025/02/28/it-leaders-ai-priorities-emphasize-productivity-over-innovation/</link>
-          <pubDate>Fri, 28 Feb 2025 10:01:00 GMT</pubDate>
+          <title>Chip Ganassi Racing Partners with OpenAI on Strategic Research Collaboration - AP News</title>
+          <description><![CDATA[Chip Ganassi Racing partners with OpenAI, a leader in artificial intelligence, to maximize performance on the racetrack and in the front office.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/28/chip-ganassi-racing-partners-with-openai-in-first-motorsports-venture-for-ai-company/</guid>
+          <link>https://majordigest.com/tech/2025/02/28/chip-ganassi-racing-partners-with-openai-in-first-motorsports-venture-for-ai-company/</link>
+          <pubDate>Fri, 28 Feb 2025 22:14:27 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/28/it-leaders-ai-priorities-emphasize-productivity-over-innovation.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/28/it-leaders-ai-priorities-emphasize-productivity-over-innovation.webp"/>
-          <dc:creator>CIO</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/28/chip-ganassi-racing-partners-with-openai-in-first-motorsports-venture-for-ai-company.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/28/chip-ganassi-racing-partners-with-openai-in-first-motorsports-venture-for-ai-company.webp"/>
+          <dc:creator>JENNA FRYER, Associated Press, PIX 11</dc:creator>
         </item>
         <item>
-          <title>Android phones to drive mobile sales in 2025</title>
-          <description><![CDATA[Global sales of smartphones will increase by 2.3% in 2025 compared to last year, according to a new report from IDC.
-Android-based phones are expected to account for most of the increase, including in China, where sales are expected to rise by 5.6% year over year.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/27/android-to-drive-mobile-sales-in-2025/</guid>
-          <link>https://majordigest.com/tech/2025/02/27/android-to-drive-mobile-sales-in-2025/</link>
-          <pubDate>Thu, 27 Feb 2025 18:07:38 GMT</pubDate>
+          <title>The AuBox Mini PC: A Compact Powerhouse from Chuwi</title>
+          <description><![CDATA[Discover the AuBox 8745, a powerful and compact mini PC from Chuwi, running on Windows 11 with an AMD Ryzen 7 CPU, Radeon GPU, and upgradable RAM and storage.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/28/this-is-probably-the-best-windows-alternative-to-the-m4-mac-mini-amd-powered-mini-pc-can-drive-four-8k-monitors-and-has-two-2-5gb-ethernet-connectors/</guid>
+          <link>https://majordigest.com/tech/2025/02/28/this-is-probably-the-best-windows-alternative-to-the-m4-mac-mini-amd-powered-mini-pc-can-drive-four-8k-monitors-and-has-two-2-5gb-ethernet-connectors/</link>
+          <pubDate>Fri, 28 Feb 2025 21:10:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/27/android-to-drive-mobile-sales-in-2025.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/27/android-to-drive-mobile-sales-in-2025.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/28/this-is-probably-the-best-windows-alternative-to-the-m4-mac-mini-amd-powered-mini-pc-can-drive-four-8k-monitors-and-has-two-2-5gb-ethernet-connectors.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/28/this-is-probably-the-best-windows-alternative-to-the-m4-mac-mini-amd-powered-mini-pc-can-drive-four-8k-monitors-and-has-two-2-5gb-ethernet-connectors.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>R.I.P. Skype: 2003-2025</title>
+          <description><![CDATA[The time is up for Skype, one of the O.G.s of online communication.
+The once-popular 22-year-old communications software is being retired by Microsoft in May 2025, with the company’s Teams collaboration suite replacing its predecessor.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/28/r-i-p-skype-2003-2025/</guid>
+          <link>https://majordigest.com/tech/2025/02/28/r-i-p-skype-2003-2025/</link>
+          <pubDate>Fri, 28 Feb 2025 18:49:08 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/28/r-i-p-skype-2003-2025.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/28/r-i-p-skype-2003-2025.webp"/>
           <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>OpenAI unveils its new GPT-4.5 large language model</title>
+          <description><![CDATA[OpenAI released a new base model on Thursday called GPT-4.5, which the company said is its best and smartest model for chat yet. It’s not a reasoning model like OpenAI’s o1 and o3 models, but it can be used to train other models to be reasoning models.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/28/openai-unveils-its-new-gpt-4-5-large-language-model/</guid>
+          <link>https://majordigest.com/tech/2025/02/28/openai-unveils-its-new-gpt-4-5-large-language-model/</link>
+          <pubDate>Fri, 28 Feb 2025 08:06:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/28/openai-unveils-its-new-gpt-4-5-large-language-model.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/28/openai-unveils-its-new-gpt-4-5-large-language-model.webp"/>
+          <dc:creator>Mark Sullivan, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>What is retrieval-augmented generation? More accurate and reliable LLMs</title>
+          <description><![CDATA[Retrieval-augmented generation (RAG) is a technique used to “ground” large language models (LLMs) with specific data sources, often sources that weren’t included in the models’ original training.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/27/what-is-retrieval-augmented-generation-more-accurate-and-reliable-llms/</guid>
+          <link>https://majordigest.com/tech/2025/02/27/what-is-retrieval-augmented-generation-more-accurate-and-reliable-llms/</link>
+          <pubDate>Thu, 27 Feb 2025 22:32:53 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/27/what-is-retrieval-augmented-generation-more-accurate-and-reliable-llms.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/27/what-is-retrieval-augmented-generation-more-accurate-and-reliable-llms.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Trump promised to keep spying agencies in check. Then he fired the watchdogs he appointed</title>
+          <description><![CDATA[President Donald Trump vowed to fight government abuse and introduce more transparency, a stance that might align him with a little-known agency charged with watching over the U.S.’s powerful spying programs.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/27/trump-promised-to-keep-spying-agencies-in-check-then-he-fired-the-watchdogs-he-appointed/</guid>
+          <link>https://majordigest.com/tech/2025/02/27/trump-promised-to-keep-spying-agencies-in-check-then-he-fired-the-watchdogs-he-appointed/</link>
+          <pubDate>Thu, 27 Feb 2025 21:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/27/trump-promised-to-keep-spying-agencies-in-check-then-he-fired-the-watchdogs-he-appointed.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/27/trump-promised-to-keep-spying-agencies-in-check-then-he-fired-the-watchdogs-he-appointed.webp"/>
+          <dc:creator>Alex Pasternack, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Warren presses X on deleted Trump nominee&#8217;s posts</title>
+          <description><![CDATA[Sen. Elizabeth Warren (D-Mass.) is pressing the social platform X about one of President Trump’s economic nominees seemingly scraping many posts from his account. In a letter addressed to Linda Yaccarino, X's CEO, Warren asked the company to recover more than 24,000 posts from William Pulte.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/27/elizabeth-warren-william-pulte-fhfa-x-posts/</guid>
+          <link>https://majordigest.com/tech/2025/02/27/elizabeth-warren-william-pulte-fhfa-x-posts/</link>
+          <pubDate>Thu, 27 Feb 2025 19:58:23 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/27/elizabeth-warren-william-pulte-fhfa-x-posts.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/27/elizabeth-warren-william-pulte-fhfa-x-posts.webp"/>
+          <dc:creator>Lauren Irwin, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Bipartisan senators unveil bill banning DeepSeek on government devices</title>
+          <description><![CDATA[A bipartisan group of senators introduced legislation Thursday to ban Chinese artificial intelligence (AI) startup DeepSeek’s products from government devices and networks.   The bill, introduced by Sens. Jacky Rosen (D-Nev.), Jon Husted (R-Ohio) and Pete Ricketts (R-Neb.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/27/bipartisan-senators-ban-deepseek-products/</guid>
+          <link>https://majordigest.com/tech/2025/02/27/bipartisan-senators-ban-deepseek-products/</link>
+          <pubDate>Thu, 27 Feb 2025 17:52:52 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/27/bipartisan-senators-ban-deepseek-products.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/27/bipartisan-senators-ban-deepseek-products.webp"/>
+          <dc:creator>Julia Shapero, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Woman with incendiary devices arrested following vandalism at Tesla dealership in Colorado</title>
+          <description><![CDATA[Tesla has become a target of protest ever since its CEO, Elon Musk, became part of President Donald Trump’s inner circle with his downsizing effort resulting in thousands of federal workers being laid off or fired.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/27/woman-with-incendiary-devices-arrested-following-vandalism-at-tesla-dealership-in-colorado/</guid>
+          <link>https://majordigest.com/tech/2025/02/27/woman-with-incendiary-devices-arrested-following-vandalism-at-tesla-dealership-in-colorado/</link>
+          <pubDate>Thu, 27 Feb 2025 16:39:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/27/woman-with-incendiary-devices-arrested-following-vandalism-at-tesla-dealership-in-colorado.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/27/woman-with-incendiary-devices-arrested-following-vandalism-at-tesla-dealership-in-colorado.webp"/>
+          <dc:creator>CNN.com Wire Service, The Mercury News</dc:creator>
         </item>
         <item>
           <title>Gabbard decries Britain's reported demand for Apple to provide backdoor access to users' cloud data</title>
@@ -72,18 +171,18 @@ Android-based phones are expected to account for most of the increase, including
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/27/gabbard-decries-britains-reported-demand-for-apple-to-provide-backdoor-access-to-users-cloud-data.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/27/gabbard-decries-britains-reported-demand-for-apple-to-provide-backdoor-access-to-users-cloud-data.webp"/>
-          <dc:creator>DAVID KLEPPER, Associated Press, Fox 5</dc:creator>
+          <dc:creator>DAVID KLEPPER, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
-          <title>Historic All-Woman Space Flight Set for Spring Launch</title>
-          <description><![CDATA[Blue Origin's New Shepard program set to launch all-female crew, led by philanthropist Lauren Sánchez and including singer Katy Perry and CBS Mornings co-anchor Gayle King.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/27/gayle-king-katy-perry-lauren-sanchez-blue-origin-space-flight/</guid>
-          <link>https://majordigest.com/tech/2025/02/27/gayle-king-katy-perry-lauren-sanchez-blue-origin-space-flight/</link>
-          <pubDate>Thu, 27 Feb 2025 14:40:38 GMT</pubDate>
+          <title>One Tech Tip: Getting a lot of unwanted phone calls? Here are ways to stop them</title>
+          <description><![CDATA[LONDON (AP) — Unwanted phone calls are out of control. Whether it's a robocall trying to sell you something or spam calls from scammers trying to rip you off, it's enough to make you want to stop answering your phone.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/27/one-tech-tip-getting-a-lot-of-unwanted-phone-calls-here-are-ways-to-stop-them/</guid>
+          <link>https://majordigest.com/tech/2025/02/27/one-tech-tip-getting-a-lot-of-unwanted-phone-calls-here-are-ways-to-stop-them/</link>
+          <pubDate>Thu, 27 Feb 2025 16:01:32 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/27/gayle-king-katy-perry-lauren-sanchez-blue-origin-space-flight.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/27/gayle-king-katy-perry-lauren-sanchez-blue-origin-space-flight.webp"/>
-          <dc:creator>Judy Kurtz, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/27/one-tech-tip-getting-a-lot-of-unwanted-phone-calls-here-are-ways-to-stop-them.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/27/one-tech-tip-getting-a-lot-of-unwanted-phone-calls-here-are-ways-to-stop-them.webp"/>
+          <dc:creator>KELVIN CHAN, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
           <title>Just what is an &#8216;IT worker&#8217; now? The definition is changing</title>
@@ -105,7 +204,18 @@ Android-based phones are expected to account for most of the increase, including
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/27/vietnam-plans-energy-shift-toward-building-more-solar-less-reliance-on-gas-and-coal.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/27/vietnam-plans-energy-shift-toward-building-more-solar-less-reliance-on-gas-and-coal.webp"/>
-          <dc:creator>ANIRUDDHA GHOSAL, Associated Press, NewsNation</dc:creator>
+          <dc:creator>ANIRUDDHA GHOSAL, Associated Press, KREX 5</dc:creator>
+        </item>
+        <item>
+          <title>Kandji exec: Vision Pro is a good fit for the enterprise</title>
+          <description><![CDATA[Apple’s recently announced partnership with Dassault Systemés shows the Vision Pro as the cutting-edge enterprise solution it has become, but business users will want to ensure these devices can be managed like the rest of their critical IT infrastructure.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/27/kandji-exec-vision-pro-is-a-good-fit-for-the-enterprise/</guid>
+          <link>https://majordigest.com/tech/2025/02/27/kandji-exec-vision-pro-is-a-good-fit-for-the-enterprise/</link>
+          <pubDate>Thu, 27 Feb 2025 10:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/27/kandji-exec-vision-pro-is-a-good-fit-for-the-enterprise.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/27/kandji-exec-vision-pro-is-a-good-fit-for-the-enterprise.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
           <title>NFL NextGen Stats team unveils new tool to help fans better understand combine results</title>
@@ -119,136 +229,24 @@ Android-based phones are expected to account for most of the increase, including
           <dc:creator>Josh Dubow, Associated Press, KPRC 2</dc:creator>
         </item>
         <item>
-          <title>The Future of Manufacturing: Apple and Dassault Systèmes Revolutionize Industry with Vision Pro Initiative</title>
-          <description><![CDATA[Apple and Dassault Systèmes partner to bring visionOS improvements to manufacturing, revolutionizing the industry with spatial computing capabilities.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/26/apples-vision-pro-enters-industry-4-0-with-dassault-systemes/</guid>
-          <link>https://majordigest.com/tech/2025/02/26/apples-vision-pro-enters-industry-4-0-with-dassault-systemes/</link>
-          <pubDate>Wed, 26 Feb 2025 13:34:31 GMT</pubDate>
+          <title>Alibaba open sources its video-generation AI model</title>
+          <description><![CDATA[Chinese cloud provider Alibaba has released four versions of its video-generation AI model as open source, allowing users to download and run them for free on capable PCs.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/26/alibaba-open-sources-its-video-generation-ai-model/</guid>
+          <link>https://majordigest.com/tech/2025/02/26/alibaba-open-sources-its-video-generation-ai-model/</link>
+          <pubDate>Wed, 26 Feb 2025 22:28:22 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/26/apples-vision-pro-enters-industry-4-0-with-dassault-systemes.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/26/apples-vision-pro-enters-industry-4-0-with-dassault-systemes.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/26/alibaba-open-sources-its-video-generation-ai-model.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/26/alibaba-open-sources-its-video-generation-ai-model.webp"/>
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Cot framework aims to ease Rust web development</title>
-          <description><![CDATA[Web developers looking for an easier time with the Rust language may want to check out Cot, an emerging web framework pitched as being for “lazy developers.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/26/cot-framework-aims-to-ease-rust-web-development/</guid>
-          <link>https://majordigest.com/tech/2025/02/26/cot-framework-aims-to-ease-rust-web-development/</link>
-          <pubDate>Wed, 26 Feb 2025 01:12:41 GMT</pubDate>
+          <title>Las Vegas PD announce nation&#8217;s first fleet of police Tesla Cybertrucks</title>
+          <description><![CDATA[The Las Vegas Metropolitan Police Department (LVMPD) announced it had been gifted the country’s first fleet of Tesla Cybertrucks for law enforcement use. During an address, LVMPD said an unnamed donor gifted the department at least 10 Cybertrucks to use for patrol and SWAT teams.]]></description>
+          <guid>https://majordigest.com/tech/2025/02/26/las-vegas-police-cybertrucks/</guid>
+          <link>https://majordigest.com/tech/2025/02/26/las-vegas-police-cybertrucks/</link>
+          <pubDate>Wed, 26 Feb 2025 20:07:47 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/26/cot-framework-aims-to-ease-rust-web-development.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/26/cot-framework-aims-to-ease-rust-web-development.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Reported cuts at NIST imperil semiconductor reshoring plans in the US</title>
-          <description><![CDATA[Proposed cuts at a key US government agency will likely mean the demise of CHIPS Act funding, which could effectively end the program and undermine efforts to reshore semiconductor manufacturing and research to the US.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/25/reported-cuts-at-nist-imperil-semiconductor-reshoring-plans-in-the-us/</guid>
-          <link>https://majordigest.com/tech/2025/02/25/reported-cuts-at-nist-imperil-semiconductor-reshoring-plans-in-the-us/</link>
-          <pubDate>Tue, 25 Feb 2025 22:19:12 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/25/reported-cuts-at-nist-imperil-semiconductor-reshoring-plans-in-the-us.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/25/reported-cuts-at-nist-imperil-semiconductor-reshoring-plans-in-the-us.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>New European AI weather model to improve forecasts</title>
-          <description><![CDATA[The European Center for Medium-Range Weather Forecasts (ECMWF) has made its new AI model, the Artificial Intelligence Forecasting System (AIFS), available to everyone free of charge. Medium-range weather forecasts are those that predict weather conditions for three to 15 days into the future.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/25/new-european-ai-model-to-improve-weather-forecasting/</guid>
-          <link>https://majordigest.com/tech/2025/02/25/new-european-ai-model-to-improve-weather-forecasting/</link>
-          <pubDate>Tue, 25 Feb 2025 20:15:35 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/25/new-european-ai-model-to-improve-weather-forecasting.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/25/new-european-ai-model-to-improve-weather-forecasting.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>IBM targets AI application growth with DataStax buy</title>
-          <description><![CDATA[Looking to bolster its AI data handling and storage capabilities, IBM said it had entered an agreement to buy open-source database developer DataStax for an undisclosed amount.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/25/ibm-targets-ai-application-growth-with-datastax-buy/</guid>
-          <link>https://majordigest.com/tech/2025/02/25/ibm-targets-ai-application-growth-with-datastax-buy/</link>
-          <pubDate>Tue, 25 Feb 2025 19:00:17 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/25/ibm-targets-ai-application-growth-with-datastax-buy.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/25/ibm-targets-ai-application-growth-with-datastax-buy.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>What the private sector can teach government about cloud computing</title>
-          <description><![CDATA[Cloud computing has been at the forefront of government IT strategies for many years. When cloud computing first became a thing in 2008, the government led the way, including NIST creating a definition of cloud computing. I worked closely with them then and watched the whole thing play out.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/25/what-the-private-sector-can-teach-government-about-cloud-computing/</guid>
-          <link>https://majordigest.com/tech/2025/02/25/what-the-private-sector-can-teach-government-about-cloud-computing/</link>
-          <pubDate>Tue, 25 Feb 2025 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/25/what-the-private-sector-can-teach-government-about-cloud-computing.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/25/what-the-private-sector-can-teach-government-about-cloud-computing.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>VA EHR office shrinks headcount under Trump&#8217;s federal workforce policies</title>
-          <description><![CDATA[VA officials are working on an updated EHR deployment schedule beyond the Michigan go-lives in mid-2026.
-The post VA EHR office shrinks headcount under Trump’s federal workforce policies first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/va-ehr-office-shrinks-headcount-under-trumps-federal-workforce-policies/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/va-ehr-office-shrinks-headcount-under-trumps-federal-workforce-policies/</link>
-          <pubDate>Mon, 24 Feb 2025 23:51:18 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/va-ehr-office-shrinks-headcount-under-trumps-federal-workforce-policies.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/va-ehr-office-shrinks-headcount-under-trumps-federal-workforce-policies.webp"/>
-          <dc:creator>Jory Heckman, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Protecting US supply chains from foreign influence</title>
-          <description><![CDATA[With the new Trump administration likely to place an even greater focus on reducing reliance on China, this trend is expected to accelerate.
-The post Protecting US supply chains from foreign influence first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/protecting-us-supply-chains-from-foreign-influence/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/protecting-us-supply-chains-from-foreign-influence/</link>
-          <pubDate>Mon, 24 Feb 2025 22:06:40 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/protecting-us-supply-chains-from-foreign-influence.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/protecting-us-supply-chains-from-foreign-influence.webp"/>
-          <dc:creator>commentators, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Top Apple exec concedes he had doubts about app store fees imposed on alternative payment options</title>
-          <description><![CDATA[OAKLAND, Calif. (AP) — Longtime Apple executive Phil Schiller on Monday conceded he initially opposed fees that the iPhone maker charges for in app-transactions processed outside its own payment system because he feared violating a court-ordered mandate designed to create more competition.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/top-apple-exec-concedes-he-had-doubts-about-app-store-fees-imposed-on-alternative-payment-options/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/top-apple-exec-concedes-he-had-doubts-about-app-store-fees-imposed-on-alternative-payment-options/</link>
-          <pubDate>Mon, 24 Feb 2025 22:04:33 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/top-apple-exec-concedes-he-had-doubts-about-app-store-fees-imposed-on-alternative-payment-options.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/top-apple-exec-concedes-he-had-doubts-about-app-store-fees-imposed-on-alternative-payment-options.webp"/>
-          <dc:creator>MICHAEL LIEDTKE, Associated Press, KGET 17, NBC</dc:creator>
-        </item>
-        <item>
-          <title>Elizabeth Holmes fails to overturn her Theranos fraud conviction</title>
-          <description><![CDATA[SAN FRANCISCO (AP) — Elizabeth Holmes, the disgraced founder of Theranos, will remain in prison after losing a bid Monday to overturn her fraud conviction, with a federal appeals court saying she hadn’t proved there were legal missteps during her trial for defrauding investors with false claims of w]]></description>
-          <guid>https://majordigest.com/tech/2025/02/24/elizabeth-holmes-fails-to-overturn-her-theranos-fraud-conviction/</guid>
-          <link>https://majordigest.com/tech/2025/02/24/elizabeth-holmes-fails-to-overturn-her-theranos-fraud-conviction/</link>
-          <pubDate>Mon, 24 Feb 2025 21:48:44 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/24/elizabeth-holmes-fails-to-overturn-her-theranos-fraud-conviction.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/24/elizabeth-holmes-fails-to-overturn-her-theranos-fraud-conviction.webp"/>
-          <dc:creator>OLGA R. RODRIGUEZ, Associated Press, Fox 5</dc:creator>
-        </item>
-        <item>
-          <title>Can you spot a credit card skimmer? What to look for</title>
-          <description><![CDATA[Before putting your card into a reader, the FBI says there are some easy and effective ways to protect your information.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/22/can-you-spot-a-credit-card-skimmer-what-to-look-for/</guid>
-          <link>https://majordigest.com/tech/2025/02/22/can-you-spot-a-credit-card-skimmer-what-to-look-for/</link>
-          <pubDate>Sat, 22 Feb 2025 17:14:25 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/22/can-you-spot-a-credit-card-skimmer-what-to-look-for.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/22/can-you-spot-a-credit-card-skimmer-what-to-look-for.webp"/>
-          <dc:creator>Michael Bartiromo, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>This is what you are doing wrong when scammers call</title>
-          <description><![CDATA[The line between spam and scams is thin. Kurt &quot;CyberGuy&quot; Knutsson details his tips for identifying and avoiding phone scams, robocalls and unwanted solicitations.]]></description>
-          <guid>https://majordigest.com/tech/2025/02/22/what-you-doing-wrong-when-scammers-call/</guid>
-          <link>https://majordigest.com/tech/2025/02/22/what-you-doing-wrong-when-scammers-call/</link>
-          <pubDate>Sat, 22 Feb 2025 15:00:25 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/22/what-you-doing-wrong-when-scammers-call.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/22/what-you-doing-wrong-when-scammers-call.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/02/26/las-vegas-police-cybertrucks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/02/26/las-vegas-police-cybertrucks.webp"/>
+          <dc:creator>Lauren Irwin, The Hill</dc:creator>
         </item></channel></rss>
