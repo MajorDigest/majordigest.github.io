@@ -3,6 +3,90 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2025/03/01/this-smart-baby-monitor-with-dual-mode-and-enhanced-alerts-from-momcozy-will-give-new-parents-peace-of-mind/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-01T05:00:00.000Z</news:publication_date>
+            <news:title>This smart baby monitor with dual mode and enhanced alerts from Momcozy will give new parents peace of mind</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/01/this-smart-baby-monitor-with-dual-mode-and-enhanced-alerts-from-momcozy-will-give-new-parents-peace-of-mind.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/01/two-ai-developer-strategies-hire-engineers-or-let-ai-do-the-work/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-01T02:41:53.000Z</news:publication_date>
+            <news:title>Two AI developer strategies: Hire engineers or let AI do the work</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/01/two-ai-developer-strategies-hire-engineers-or-let-ai-do-the-work.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/28/nuclear-startup-last-energy-microreactors-texas-data-centers/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-28T23:45:00.000Z</news:publication_date>
+            <news:title>Next-gen nuclear startup plans 30 reactors to fuel Texas data centers</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/nuclear-startup-last-energy-microreactors-texas-data-centers.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/28/trapc-proposal-to-fix-c-c-memory-safety/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-28T23:33:52.000Z</news:publication_date>
+            <news:title>TrapC proposal to fix C/C++ memory safety</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/trapc-proposal-to-fix-c-c-memory-safety.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/28/is-this-the-end-for-electric-supercars-more-luxury-automakers-including-aston-martin-delay-plans-for-evs/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-28T23:00:00.000Z</news:publication_date>
+            <news:title>Is this the end for electric supercars? More luxury automakers, including Aston Martin, delay plans for EVs</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/is-this-the-end-for-electric-supercars-more-luxury-automakers-including-aston-martin-delay-plans-for-evs.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/28/firings-at-us-weather-and-oceans-agency-risk-lives-and-economy-former-agency-heads-warn/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-28T22:34:59.000Z</news:publication_date>
+            <news:title>Firings at US weather and oceans agency risk lives and economy, former agency heads warn</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/firings-at-us-weather-and-oceans-agency-risk-lives-and-economy-former-agency-heads-warn.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/02/28/chip-ganassi-racing-partners-with-openai-in-first-motorsports-venture-for-ai-company/</loc>
           <news:news>
             <news:publication>
@@ -17,59 +101,101 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/28/microsoft-shutting-down-skype-in-may/</loc>
+          <loc>https://majordigest.com/tech/2025/02/28/rust-1-85-arrives-with-long-awaited-async-closures/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-28T20:32:45.000Z</news:publication_date>
-            <news:title>Microsoft shutting down Skype in May</news:title>
+            <news:publication_date>2025-02-28T21:43:16.000Z</news:publication_date>
+            <news:title>Rust 1.85 arrives with long-awaited async closures</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/28/microsoft-shutting-down-skype-in-may.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/rust-1-85-arrives-with-long-awaited-async-closures.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/28/scientists-national-labs-artificial-intelligence-openai-anthropic/</loc>
+          <loc>https://majordigest.com/tech/2025/02/28/hollywood-ai-enabled-perfection-the-brutalist/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-28T20:15:43.000Z</news:publication_date>
-            <news:title>Energy Department scientists participate in 'AI Jam' with OpenAI, Anthropic</news:title>
+            <news:publication_date>2025-02-28T20:00:00.000Z</news:publication_date>
+            <news:title>Hollywood&#8217;s obsession with AI-enabled &#8216;perfection&#8217; is making movies less human</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/28/scientists-national-labs-artificial-intelligence-openai-anthropic.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/hollywood-ai-enabled-perfection-the-brutalist.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/28/nasas-spherex-space-telescope-will-create-the-worlds-most-complete-sky-survey/</loc>
+          <loc>https://majordigest.com/tech/2025/02/28/tech-layoffs-this-year-a-timeline/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-28T19:30:00.000Z</news:publication_date>
-            <news:title>NASA&#8217;s SPHEREx Space Telescope will create the world&#8217;s most complete sky survey</news:title>
+            <news:publication_date>2025-02-28T19:12:13.000Z</news:publication_date>
+            <news:title>Tech layoffs this year: A timeline</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/28/nasas-spherex-space-telescope-will-create-the-worlds-most-complete-sky-survey.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/tech-layoffs-this-year-a-timeline.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/28/r-i-p-skype-2003-2025/</loc>
+          <loc>https://majordigest.com/tech/2025/02/28/new-stove-that-plugs-into-a-normal-wall-outlet-could-be-major-gain-for-health-and-the-climate/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-28T18:49:08.000Z</news:publication_date>
-            <news:title>R.I.P. Skype: 2003-2025</news:title>
+            <news:publication_date>2025-02-28T18:09:41.000Z</news:publication_date>
+            <news:title>East Bay startup&#8217;s new stove that plugs into a normal wall outlet could be major gain for health and climate</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/28/r-i-p-skype-2003-2025.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/new-stove-that-plugs-into-a-normal-wall-outlet-could-be-major-gain-for-health-and-the-climate.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/28/federal-executive-forum-artificial-intelligence-strategies-in-government-progress-and-best-practices-2025/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-28T18:07:57.000Z</news:publication_date>
+            <news:title>Federal Executive Forum Artificial Intelligence Strategies in Government Progress and Best Practices 2025</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/federal-executive-forum-artificial-intelligence-strategies-in-government-progress-and-best-practices-2025.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/28/pc-sales-could-be-set-to-fall-this-year-but-trump-tariffs-arent-the-only-reason-why/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-28T17:57:00.000Z</news:publication_date>
+            <news:title>PC sales could be set to fall this year, but Trump tariffs aren't the only reason why</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/pc-sales-could-be-set-to-fall-this-year-but-trump-tariffs-arent-the-only-reason-why.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/28/finally-we-have-some-gpu-competition-amd-announces-the-radeon-rx-9070-xt-march-6-launch-date-starting-at-usd599-alongside-the-rx-9070-at-usd549/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-28T16:29:15.000Z</news:publication_date>
+            <news:title>Finally, we have some GPU competition - AMD announces the Radeon RX 9070 XT March 6 launch date, starting at $599 alongside the RX 9070 at $549</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/finally-we-have-some-gpu-competition-amd-announces-the-radeon-rx-9070-xt-march-6-launch-date-starting-at-usd599-alongside-the-rx-9070-at-usd549.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -80,24 +206,80 @@
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2025-02-28T16:25:05.000Z</news:publication_date>
-            <news:title>Google&#8217;s AlloyDB is looking more and more like PostgreSQL</news:title>
+            <news:title>Google Enhances AlloyDB to Compete with PostgreSQL</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/02/28/googles-alloydb-is-looking-more-and-more-like-postgresql.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/28/how-restore-deleted-text-message-iphone/</loc>
+          <loc>https://majordigest.com/tech/2025/02/28/apple-age-assurance-technology/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-28T15:00:27.000Z</news:publication_date>
-            <news:title>Recover Deleted Messages on iPhone or iPad with Apple's Built-in Feature</news:title>
+            <news:publication_date>2025-02-28T16:17:02.000Z</news:publication_date>
+            <news:title>Apple unveils 'age assurance' technology amid child safety push</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/28/how-restore-deleted-text-message-iphone.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/apple-age-assurance-technology.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/28/what-is-apple-intelligence-everything-you-need-to-know-about-the-ai-toolkit/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-28T16:03:17.000Z</news:publication_date>
+            <news:title>What is Apple Intelligence: everything you need to know about the AI toolkit</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/what-is-apple-intelligence-everything-you-need-to-know-about-the-ai-toolkit.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/28/singapore-arrests-three-in-ai-chip-fraud-case-amid-us-crackdown-on-exports/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-28T15:41:37.000Z</news:publication_date>
+            <news:title>Singapore arrests three in AI chip fraud case amid US crackdown on exports</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/singapore-arrests-three-in-ai-chip-fraud-case-amid-us-crackdown-on-exports.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/28/thousands-of-misconfigured-building-access-systems-have-been-leaked-online/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-28T15:32:00.000Z</news:publication_date>
+            <news:title>Thousands of misconfigured building access systems have been leaked online</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/thousands-of-misconfigured-building-access-systems-have-been-leaked-online.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/02/28/federal-agencies-email-weekly-accomplishments/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-28T14:45:23.000Z</news:publication_date>
+            <news:title>Federal agencies plan second email asking workers for weekly accomplishments</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/federal-agencies-email-weekly-accomplishments.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -115,240 +297,128 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/28/tech-apple-samsung-economy-property-build-jobs-work-real-estate-iphone/</loc>
+          <loc>https://majordigest.com/tech/2025/02/28/we-might-have-our-first-look-at-the-samsung-galaxy-z-flip-7-but-i-cant-tell-the-difference-from-the-z-flip-6/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-28T14:20:15.000Z</news:publication_date>
-            <news:title>Apple, Samsung strike deal for purchase of San Jose office building</news:title>
+            <news:publication_date>2025-02-28T13:05:39.000Z</news:publication_date>
+            <news:title>We might have our first look at the Samsung Galaxy Z Flip 7, but I can&#8217;t tell the difference from the Z Flip 6</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/28/tech-apple-samsung-economy-property-build-jobs-work-real-estate-iphone.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/we-might-have-our-first-look-at-the-samsung-galaxy-z-flip-7-but-i-cant-tell-the-difference-from-the-z-flip-6.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/28/not-even-google-is-safe-from-job-cuts-cloud-hr-roles-set-to-go/</loc>
+          <loc>https://majordigest.com/tech/2025/02/28/meta-says-it-has-fired-several-employees-for-leaking-internal-data/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-28T13:42:00.000Z</news:publication_date>
-            <news:title>Google Reportedly Offering Voluntary Redundancies for HR Workers and Cloud Staff</news:title>
+            <news:publication_date>2025-02-28T12:02:00.000Z</news:publication_date>
+            <news:title>Meta Fires Employees for Leaking Company Information</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/28/not-even-google-is-safe-from-job-cuts-cloud-hr-roles-set-to-go.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/meta-says-it-has-fired-several-employees-for-leaking-internal-data.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/27/what-is-retrieval-augmented-generation-more-accurate-and-reliable-llms/</loc>
+          <loc>https://majordigest.com/tech/2025/02/28/why-fast-learning-robots-are-wearing-meta-glasses/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-27T22:32:53.000Z</news:publication_date>
-            <news:title>What is retrieval-augmented generation? More accurate and reliable LLMs</news:title>
+            <news:publication_date>2025-02-28T11:00:00.000Z</news:publication_date>
+            <news:title>Why fast-learning robots are wearing Meta glasses</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/what-is-retrieval-augmented-generation-more-accurate-and-reliable-llms.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/why-fast-learning-robots-are-wearing-meta-glasses.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/27/trump-promised-to-keep-spying-agencies-in-check-then-he-fired-the-watchdogs-he-appointed/</loc>
+          <loc>https://majordigest.com/tech/2025/02/28/the-rising-threat-of-shadow-ai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-27T21:00:00.000Z</news:publication_date>
-            <news:title>Trump promised to keep spying agencies in check. Then he fired the watchdogs he appointed</news:title>
+            <news:publication_date>2025-02-28T09:00:00.000Z</news:publication_date>
+            <news:title>The rising threat of shadow AI</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/trump-promised-to-keep-spying-agencies-in-check-then-he-fired-the-watchdogs-he-appointed.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/28/the-rising-threat-of-shadow-ai.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/27/elizabeth-warren-william-pulte-fhfa-x-posts/</loc>
+          <loc>https://majordigest.com/tech/2025/02/27/one-tech-tip-getting-a-lot-of-unwanted-phone-calls-here-are-ways-to-stop-them/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-27T19:58:23.000Z</news:publication_date>
-            <news:title>Warren presses X on deleted Trump nominee&#8217;s posts</news:title>
+            <news:publication_date>2025-02-27T16:01:32.000Z</news:publication_date>
+            <news:title>One Tech Tip: Getting a lot of unwanted phone calls? Here are ways to stop them</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/elizabeth-warren-william-pulte-fhfa-x-posts.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/27/one-tech-tip-getting-a-lot-of-unwanted-phone-calls-here-are-ways-to-stop-them.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/27/android-to-drive-mobile-sales-in-2025/</loc>
+          <loc>https://majordigest.com/tech/2025/02/25/precise-asset-management-leads-to-impactful-zero-trust-initiatives/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-27T18:07:38.000Z</news:publication_date>
-            <news:title>Android phones to drive mobile sales in 2025</news:title>
+            <news:publication_date>2025-02-25T18:02:53.000Z</news:publication_date>
+            <news:title>Precise asset management leads to impactful zero trust initiatives</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/android-to-drive-mobile-sales-in-2025.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/25/precise-asset-management-leads-to-impactful-zero-trust-initiatives.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/27/bipartisan-senators-ban-deepseek-products/</loc>
+          <loc>https://majordigest.com/tech/2025/02/24/ai-data-exchange-2025-air-forces-anthony-genatempo-alexis-bonnell-on-scaling-ai-adoption/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-27T17:52:52.000Z</news:publication_date>
-            <news:title>Bipartisan senators unveil bill banning DeepSeek on government devices</news:title>
+            <news:publication_date>2025-02-24T23:24:40.000Z</news:publication_date>
+            <news:title>AI &#38; Data Exchange 2025: Air Force&#8217;s Anthony Genatempo, Alexis Bonnell on scaling AI adoption for acquisition</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/bipartisan-senators-ban-deepseek-products.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/24/ai-data-exchange-2025-air-forces-anthony-genatempo-alexis-bonnell-on-scaling-ai-adoption.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/27/gabbard-decries-britains-reported-demand-for-apple-to-provide-backdoor-access-to-users-cloud-data/</loc>
+          <loc>https://majordigest.com/tech/2025/02/24/top-apple-exec-concedes-he-had-doubts-about-app-store-fees-imposed-on-alternative-payment-options/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-27T16:15:09.000Z</news:publication_date>
-            <news:title>Gabbard decries Britain's reported demand for Apple to provide backdoor access to users' cloud data</news:title>
+            <news:publication_date>2025-02-24T22:04:33.000Z</news:publication_date>
+            <news:title>Top Apple exec concedes he had doubts about app store fees imposed on alternative payment options</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/gabbard-decries-britains-reported-demand-for-apple-to-provide-backdoor-access-to-users-cloud-data.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/24/top-apple-exec-concedes-he-had-doubts-about-app-store-fees-imposed-on-alternative-payment-options.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/02/27/microsoft-urges-trump-administration-loosen-ai-chip-exports/</loc>
+          <loc>https://majordigest.com/tech/2025/02/24/apple-announces-500-billion-investment-in-us-amid-tariff-threats-that-could-affect-the-iphone/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-27T16:00:09.000Z</news:publication_date>
-            <news:title>Microsoft calls on Trump to loosen AI chip export restrictions</news:title>
+            <news:publication_date>2025-02-24T17:28:50.000Z</news:publication_date>
+            <news:title>Apple announces $500 billion investment in US amid tariff threats that could affect the iPhone</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/microsoft-urges-trump-administration-loosen-ai-chip-exports.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/27/nfl-nextgen-stats-team-unveils-new-tool-to-help-fans-better-understand-combine-results/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-27T15:00:06.000Z</news:publication_date>
-            <news:title>NFL NextGen Stats team unveils new tool to help fans better understand combine results</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/nfl-nextgen-stats-team-unveils-new-tool-to-help-fans-better-understand-combine-results.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/27/gayle-king-katy-perry-lauren-sanchez-blue-origin-space-flight/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-27T14:40:38.000Z</news:publication_date>
-            <news:title>Gayle King, Katy Perry, Lauren S&#225;nchez to board Blue Origin space flight</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/gayle-king-katy-perry-lauren-sanchez-blue-origin-space-flight.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/27/vietnam-plans-energy-shift-toward-building-more-solar-less-reliance-on-gas-and-coal/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-27T10:44:35.000Z</news:publication_date>
-            <news:title>Vietnam plans energy shift toward building more solar, less reliance on gas and coal</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/vietnam-plans-energy-shift-toward-building-more-solar-less-reliance-on-gas-and-coal.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/27/microsofts-net-10-arrives-in-first-preview/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-27T01:44:49.000Z</news:publication_date>
-            <news:title>Microsoft&#8217;s .NET 10 arrives in first preview</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/microsofts-net-10-arrives-in-first-preview.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/26/nvidia-sales-surge-in-the-fourth-quarter-on-demand-for-ai-chips/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-26T23:51:47.000Z</news:publication_date>
-            <news:title>Nvidia sales surge in the fourth quarter on demand for AI chips</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/26/nvidia-sales-surge-in-the-fourth-quarter-on-demand-for-ai-chips.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/26/man-who-said-he-was-upset-with-musk-and-trump-charged-with-threatening-to-burn-down-xai-facility/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-26T22:30:17.000Z</news:publication_date>
-            <news:title>Man who said he was upset with Musk and Trump charged with threatening to burn down xAI facility</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/26/man-who-said-he-was-upset-with-musk-and-trump-charged-with-threatening-to-burn-down-xai-facility.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/25/connolly-calls-on-opm-to-reverse-cio-classification-change/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-25T17:01:09.000Z</news:publication_date>
-            <news:title>Connolly calls on OPM to reverse CIO classification change</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/25/connolly-calls-on-opm-to-reverse-cio-classification-change.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/02/25/2025-global-network-outage-report-and-internet-health-check/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-25T15:36:30.000Z</news:publication_date>
-            <news:title>2025 global network outage report and internet health check</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/25/2025-global-network-outage-report-and-internet-health-check.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/02/24/apple-announces-500-billion-investment-in-us-amid-tariff-threats-that-could-affect-the-iphone.webp</image:loc>
           </image:image>
         </url></urlset>
