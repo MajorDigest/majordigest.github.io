@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/02/27/ai-data-exchange-2025-salesforces-jamison-braun-on-how-ai-is-reshaping-public-service/</loc>
+          <loc>https://majordigest.com/tech/2025/03/06/upcoming-dji-mavic-4-pro-premium-drone-could-deliver-new-camera-skills-and-lidar-heres-what-the-latest-leaks-tell-us/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-02-27T14:30:42.000Z</news:publication_date>
-            <news:title>AI Reshapes Public Service, Government Agencies</news:title>
+            <news:publication_date>2025-03-06T14:45:13.000Z</news:publication_date>
+            <news:title>DJI Mavic 4 Pro Leaked Image Hints at Imminent Launch</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/02/27/ai-data-exchange-2025-salesforces-jamison-braun-on-how-ai-is-reshaping-public-service.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/06/upcoming-dji-mavic-4-pro-premium-drone-could-deliver-new-camera-skills-and-lidar-heres-what-the-latest-leaks-tell-us.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/04/solarwinds-buys-squadcast-to-speed-incident-response/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-04T21:10:05.000Z</news:publication_date>
+            <news:title>SolarWinds Acquires Squadcast, Enhancing Incident Response Capabilities</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/04/solarwinds-buys-squadcast-to-speed-incident-response.webp</image:loc>
           </image:image>
         </url></urlset>
