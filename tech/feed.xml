@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 08 Mar 2025 05:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 06:09:15 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,59 +19,228 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>7 Slack apps for file sharing and collaboration</title>
-          <description><![CDATA[Slack is a powerful tool for collaborative chatting among co-workers, as well as brainstorming, task management, and more.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/07/slack-apps-file-sharing-collaboration/</guid>
-          <link>https://majordigest.com/tech/2025/03/07/slack-apps-file-sharing-collaboration/</link>
-          <pubDate>Fri, 07 Mar 2025 11:00:00 GMT</pubDate>
+          <title>YouTube is cracking down on gambling content. Here&#8217;s what&#8217;s changing</title>
+          <description><![CDATA[YouTube is taking steps to crack down on gambling content. 
+On Tuesday, the platform announced a new policy that bans creators from directing viewers to “unapproved” gambling websites through links, images, text, logos, or verbal mentions.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/08/youtube-is-cracking-down-on-gambling-content-heres-whats-changing/</guid>
+          <link>https://majordigest.com/tech/2025/03/08/youtube-is-cracking-down-on-gambling-content-heres-whats-changing/</link>
+          <pubDate>Sat, 08 Mar 2025 05:23:33 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/slack-apps-file-sharing-collaboration.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/slack-apps-file-sharing-collaboration.webp"/>
-          <dc:creator>Computer World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/08/youtube-is-cracking-down-on-gambling-content-heres-whats-changing.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/08/youtube-is-cracking-down-on-gambling-content-heres-whats-changing.webp"/>
+          <dc:creator>Eve Upton-Clark, Fast Company</dc:creator>
         </item>
         <item>
-          <title>When to choose a bare-metal cloud</title>
-          <description><![CDATA[I did something last week that I had not done for a while. I recommended a bare-metal cloud service to a client. They had a particular purpose, and it was the right technology to solve the problem.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/07/when-to-choose-a-bare-metal-cloud/</guid>
-          <link>https://majordigest.com/tech/2025/03/07/when-to-choose-a-bare-metal-cloud/</link>
-          <pubDate>Fri, 07 Mar 2025 09:00:00 GMT</pubDate>
+          <title>SpaceX&#8217;s Starship explodes again, with wreckage seen from Florida</title>
+          <description><![CDATA[Nearly two months after an explosion sent flaming debris raining down on the Turks and Caicos, SpaceX launched another mammoth Starship rocket on Thursday, but lost contact minutes into the test flight as the spacecraft came tumbling down and broke apart.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/spacexs-starship-explodes-again-wreckage-seen-florida/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/spacexs-starship-explodes-again-wreckage-seen-florida/</link>
+          <pubDate>Fri, 07 Mar 2025 22:56:54 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/when-to-choose-a-bare-metal-cloud.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/when-to-choose-a-bare-metal-cloud.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/spacexs-starship-explodes-again-wreckage-seen-florida.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/spacexs-starship-explodes-again-wreckage-seen-florida.webp"/>
+          <dc:creator>Associated Press, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Scientists date remains of an ancient child that resembles both humans and Neanderthals</title>
+          <description><![CDATA[Scientists have dated the skeleton of an ancient child that caused a stir when it was first discovered because it carries features from both humans and Neanderthals.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/scientists-date-remains-of-an-ancient-child-that-resembles-both-humans-and-neanderthals/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/scientists-date-remains-of-an-ancient-child-that-resembles-both-humans-and-neanderthals/</link>
+          <pubDate>Fri, 07 Mar 2025 19:00:13 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/scientists-date-remains-of-an-ancient-child-that-resembles-both-humans-and-neanderthals.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/scientists-date-remains-of-an-ancient-child-that-resembles-both-humans-and-neanderthals.webp"/>
+          <dc:creator>Adithi Ramakrishnan, Associated Press, Local 4</dc:creator>
+        </item>
+        <item>
+          <title>MikroTik's ROSE Data Server RDS2216 Combines Storage, Networking, and Containers</title>
+          <description><![CDATA[MikroTik's new enterprise server, powered by ROSE, combines storage, networking, and containers for enterprise environments.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/this-is-amazons-first-foray-in-servers-and-certainly-not-the-last-microtik-franken-router-is-powered-by-the-aws-graviton-1-arm-cpu/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/this-is-amazons-first-foray-in-servers-and-certainly-not-the-last-microtik-franken-router-is-powered-by-the-aws-graviton-1-arm-cpu/</link>
+          <pubDate>Fri, 07 Mar 2025 18:33:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/this-is-amazons-first-foray-in-servers-and-certainly-not-the-last-microtik-franken-router-is-powered-by-the-aws-graviton-1-arm-cpu.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/this-is-amazons-first-foray-in-servers-and-certainly-not-the-last-microtik-franken-router-is-powered-by-the-aws-graviton-1-arm-cpu.webp"/>
+          <dc:creator>waynewilliams@onmail.com (Wayne Williams), TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Driving best value pricing &#8211; Let&#8217;s go for a ride</title>
+          <description><![CDATA[This blog will focus on requirements in the context of the federal government. Sound requirements drive best value pricing and performance for customer agencies
+The post Driving best value pricing – Let’s go for a ride first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/driving-best-value-pricing-lets-go-for-a-ride/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/driving-best-value-pricing-lets-go-for-a-ride/</link>
+          <pubDate>Fri, 07 Mar 2025 18:30:04 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/driving-best-value-pricing-lets-go-for-a-ride.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/driving-best-value-pricing-lets-go-for-a-ride.webp"/>
+          <dc:creator>Roger Waldron, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Out of the lab and into the streets, researchers and doctors rally for science against Trump cuts</title>
+          <description><![CDATA[Researchers, doctors, their patients and supporters are venturing out of labs, hospitals and offices across the country to stand up to what they call an attack on life-saving science by the Trump administration.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/out-of-the-lab-and-into-the-streets-researchers-and-doctors-rally-for-science-against-trump-cuts/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/out-of-the-lab-and-into-the-streets-researchers-and-doctors-rally-for-science-against-trump-cuts/</link>
+          <pubDate>Fri, 07 Mar 2025 18:09:31 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/out-of-the-lab-and-into-the-streets-researchers-and-doctors-rally-for-science-against-trump-cuts.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/out-of-the-lab-and-into-the-streets-researchers-and-doctors-rally-for-science-against-trump-cuts.webp"/>
+          <dc:creator>Seth Borenstein, Associated Press, KPRC 2</dc:creator>
+        </item>
+        <item>
+          <title>US military's mini space shuttle returns to Earth after orbiting for 434 days on a secret mission</title>
+          <description><![CDATA[The U.S. military's classified mini space shuttle has returned to Earth after circling the world for 434 days.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/us-militarys-mini-space-shuttle-returns-to-earth-after-orbiting-for-434-days-on-a-secret-mission/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/us-militarys-mini-space-shuttle-returns-to-earth-after-orbiting-for-434-days-on-a-secret-mission/</link>
+          <pubDate>Fri, 07 Mar 2025 17:36:40 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/us-militarys-mini-space-shuttle-returns-to-earth-after-orbiting-for-434-days-on-a-secret-mission.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/us-militarys-mini-space-shuttle-returns-to-earth-after-orbiting-for-434-days-on-a-secret-mission.webp"/>
+          <dc:creator>Marcia Dunn, Associated Press, Local 4</dc:creator>
+        </item>
+        <item>
+          <title>Disco Elysium successor XXX Nightshift nets some serious musical talent</title>
+          <description><![CDATA[Disco Elysium successor XXX Nightshift will feature a soundtrack led by songwriter and music producer John Cunningham.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/disco-elysium-successor-xxx-nightshift-nets-some-serious-musical-talent/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/disco-elysium-successor-xxx-nightshift-nets-some-serious-musical-talent/</link>
+          <pubDate>Fri, 07 Mar 2025 15:00:50 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/disco-elysium-successor-xxx-nightshift-nets-some-serious-musical-talent.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/disco-elysium-successor-xxx-nightshift-nets-some-serious-musical-talent.webp"/>
+          <dc:creator>dash.wood@futurenet.com (Dashiell Wood), TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>AMD might go for Nvidia&#8217;s jugular in Q2 with a faster RX 9070 &#8216;Extreme&#8217; GPU that could leave the RTX 5070 Ti in the dust</title>
+          <description><![CDATA[If AMD has Nvidia on the ropes now, rumored RX 9070 XTX model that’s faster than the RTX 5070 Ti could be a knockout blow.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/amd-might-go-for-nvidias-jugular-in-q2-with-a-faster-rx-9070-extreme-gpu-that-could-leave-the-rtx-5070-ti-in-the-dust/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/amd-might-go-for-nvidias-jugular-in-q2-with-a-faster-rx-9070-extreme-gpu-that-could-leave-the-rtx-5070-ti-in-the-dust/</link>
+          <pubDate>Fri, 07 Mar 2025 14:47:46 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/amd-might-go-for-nvidias-jugular-in-q2-with-a-faster-rx-9070-extreme-gpu-that-could-leave-the-rtx-5070-ti-in-the-dust.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/amd-might-go-for-nvidias-jugular-in-q2-with-a-faster-rx-9070-extreme-gpu-that-could-leave-the-rtx-5070-ti-in-the-dust.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Networking terms and definitions</title>
+          <description><![CDATA[To find a brief definition of the networking term you are looking for user your browser’s “Find” feature then follow links to a fuller explanation.
+AI networking
+AI networking refers to the application of artificial intelligence (AI) technologies to network management and optimization.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/networking-terms-and-definitions/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/networking-terms-and-definitions/</link>
+          <pubDate>Fri, 07 Mar 2025 13:55:04 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/networking-terms-and-definitions.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/networking-terms-and-definitions.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Walters: California&#8217;s list of failed tech projects just keeps growing</title>
+          <description><![CDATA[The State Bar Exam chaos is yet another expensive and troubled effort to incorporate cutting-edge technology.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/walters-california-tech-projects-agency/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/walters-california-tech-projects-agency/</link>
+          <pubDate>Fri, 07 Mar 2025 13:30:43 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/walters-california-tech-projects-agency.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/walters-california-tech-projects-agency.webp"/>
+          <dc:creator>Dan Walters, The Mercury News</dc:creator>
+        </item>
+        <item>
+          <title>Android 16 beta users are reporting major battery drain issues &#8211; but I&#8217;m not too worried about it</title>
+          <description><![CDATA[The latest Android 16 beta seems to be putting increased stress on phones’ battery life, with some users reporting the need to charge up twice a day – but with a stable release still a ways off, there’s time for Google to fix it.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/android-16-beta-users-are-reporting-major-battery-drain-issues-but-im-not-too-worried-about-it/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/android-16-beta-users-are-reporting-major-battery-drain-issues-but-im-not-too-worried-about-it/</link>
+          <pubDate>Fri, 07 Mar 2025 13:20:57 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/android-16-beta-users-are-reporting-major-battery-drain-issues-but-im-not-too-worried-about-it.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/android-16-beta-users-are-reporting-major-battery-drain-issues-but-im-not-too-worried-about-it.webp"/>
+          <dc:creator>jamie.richards@futurenet.com (Jamie Richards), TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Anthropic&#8217;s upgraded Console targets more collaboration among developers</title>
+          <description><![CDATA[Anthropic has upgraded its Console — an interface that lets enterprises create API keys, add more users to a team, set up billing, and experiment with Claude on the Workbench, in an effort to promote more collaboration.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/anthropics-upgraded-console-targets-more-collaboration-among-developers/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/anthropics-upgraded-console-targets-more-collaboration-among-developers/</link>
+          <pubDate>Fri, 07 Mar 2025 12:42:59 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/anthropics-upgraded-console-targets-more-collaboration-among-developers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/anthropics-upgraded-console-targets-more-collaboration-among-developers.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Siete referentes de liderazgo femenino en TI para el 8M</title>
-          <description><![CDATA[Pese a los importantes avances en materia de igualdad entre hombres y mujeres que se han logrado en los últimos años, el de la equidad es un camino al que aún le queda recorrido. También en el sector tecnológico, en el que aún persiste cierta segregación por género.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/07/siete-referentes-de-liderazgo-femenino-en-ti-para-el-8m/</guid>
-          <link>https://majordigest.com/tech/2025/03/07/siete-referentes-de-liderazgo-femenino-en-ti-para-el-8m/</link>
-          <pubDate>Fri, 07 Mar 2025 08:54:39 GMT</pubDate>
+          <title>ExpressVPN releases a major upgrade to its Linux app</title>
+          <description><![CDATA[The ExpressVPN Linux app now includes the much requested GUI, configurable kill switch, and split-tunneling, promising enhanced security and a user-centric experience.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/expressvpn-releases-a-major-upgrade-to-its-linux-app/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/expressvpn-releases-a-major-upgrade-to-its-linux-app/</link>
+          <pubDate>Fri, 07 Mar 2025 12:39:57 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/siete-referentes-de-liderazgo-femenino-en-ti-para-el-8m.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/siete-referentes-de-liderazgo-femenino-en-ti-para-el-8m.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/expressvpn-releases-a-major-upgrade-to-its-linux-app.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/expressvpn-releases-a-major-upgrade-to-its-linux-app.webp"/>
+          <dc:creator>chiara.castro@futurenet.com (Chiara Castro), TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Google Chrome launches better warning labels to make sure you know you're using a company profile</title>
+          <description><![CDATA[Google doesn’t want you mixing personal and work browsing sessions with its latest Chrome Enterprise update.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/google-chrome-launches-better-warning-labels-to-make-sure-you-know-youre-using-a-company-profile/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/google-chrome-launches-better-warning-labels-to-make-sure-you-know-youre-using-a-company-profile/</link>
+          <pubDate>Fri, 07 Mar 2025 11:17:24 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/google-chrome-launches-better-warning-labels-to-make-sure-you-know-youre-using-a-company-profile.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/google-chrome-launches-better-warning-labels-to-make-sure-you-know-youre-using-a-company-profile.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Stop carrying your physical driver's license and add it to your Apple Wallet</title>
+          <description><![CDATA[A digital ID may be even more secure than a physical ID. Storing your driver&apos;s license in your Apple Wallet is an ideal solution for commuters.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/stop-carrying-your-physical-drivers-license-add-your-apple-wallet/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/stop-carrying-your-physical-drivers-license-add-your-apple-wallet/</link>
+          <pubDate>Fri, 07 Mar 2025 11:00:46 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/stop-carrying-your-physical-drivers-license-add-your-apple-wallet.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/stop-carrying-your-physical-drivers-license-add-your-apple-wallet.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Davos 2025: Key priorities and truths for CIOs</title>
+          <description><![CDATA[Davos 2025 was a blend of optimism and urgency. One data point presented at the event showed that 62% of business leaders from large organizations expressed confidence in their growth prospects (Capgemini Research Institute).]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/davos-2025-key-priorities-and-truths-for-cios/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/davos-2025-key-priorities-and-truths-for-cios/</link>
+          <pubDate>Fri, 07 Mar 2025 10:59:06 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/davos-2025-key-priorities-and-truths-for-cios.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/davos-2025-key-priorities-and-truths-for-cios.webp"/>
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>Trump signs executive order to establish government bitcoin reserve</title>
-          <description><![CDATA[President Donald Trump has signed an executive order establishing a government reserve of bitcoin, a key marker in the cryptocurrency’s journey towards possible mainstream acceptance.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/07/trump-signs-executive-order-to-establish-government-bitcoin-reserve/</guid>
-          <link>https://majordigest.com/tech/2025/03/07/trump-signs-executive-order-to-establish-government-bitcoin-reserve/</link>
-          <pubDate>Fri, 07 Mar 2025 01:30:52 GMT</pubDate>
+          <title>This compact new headphone amp from a hi-fi legend will boost sound quality for wired or wireless headphones</title>
+          <description><![CDATA[Rotel's DX-3 promises exceptional high-end audio for elite headphones, even if you're using aptX Bluetooth.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/this-compact-new-headphone-amp-from-a-hi-fi-legend-will-boost-sound-quality-for-wired-or-wireless-headphones/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/this-compact-new-headphone-amp-from-a-hi-fi-legend-will-boost-sound-quality-for-wired-or-wireless-headphones/</link>
+          <pubDate>Fri, 07 Mar 2025 10:56:05 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/trump-signs-executive-order-to-establish-government-bitcoin-reserve.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/trump-signs-executive-order-to-establish-government-bitcoin-reserve.webp"/>
-          <dc:creator>Alan Suderman, Associated Press, KPRC 2</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/this-compact-new-headphone-amp-from-a-hi-fi-legend-will-boost-sound-quality-for-wired-or-wireless-headphones.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/this-compact-new-headphone-amp-from-a-hi-fi-legend-will-boost-sound-quality-for-wired-or-wireless-headphones.webp"/>
+          <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>Visual Studio Code 1.98 shines on GitHub Copilot</title>
-          <description><![CDATA[Visual Studio Code 1.98 has arrived, featuring enhancements to the GitHub Copilot AI coding assistant, including previews of Copilot Next Edit Suggestions, Copilot agent mode improvements, and Copilot Edits support for notebook files.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/07/visual-studio-code-1-98-shines-on-github-copilot/</guid>
-          <link>https://majordigest.com/tech/2025/03/07/visual-studio-code-1-98-shines-on-github-copilot/</link>
-          <pubDate>Fri, 07 Mar 2025 00:47:21 GMT</pubDate>
+          <title>Don&#8217;t panic, gaming laptop buyers &#8211; Nvidia assures us that mobile RTX 5000 graphics cards won&#8217;t have the chip-level fault that hit desktop GPUs</title>
+          <description><![CDATA[The (rare) problem with missing rendering pipelines only applies to desktop graphics cards, not the laptop variety for RTX 5000.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/dont-panic-gaming-laptop-buyers-nvidia-assures-us-that-mobile-rtx-5000-graphics-cards-wont-have-the-chip-level-fault-that-hit-desktop-gpus/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/dont-panic-gaming-laptop-buyers-nvidia-assures-us-that-mobile-rtx-5000-graphics-cards-wont-have-the-chip-level-fault-that-hit-desktop-gpus/</link>
+          <pubDate>Fri, 07 Mar 2025 10:52:31 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/visual-studio-code-1-98-shines-on-github-copilot.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/visual-studio-code-1-98-shines-on-github-copilot.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/dont-panic-gaming-laptop-buyers-nvidia-assures-us-that-mobile-rtx-5000-graphics-cards-wont-have-the-chip-level-fault-that-hit-desktop-gpus.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/dont-panic-gaming-laptop-buyers-nvidia-assures-us-that-mobile-rtx-5000-graphics-cards-wont-have-the-chip-level-fault-that-hit-desktop-gpus.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Albania shuts down TikTok for a year amid concerns over violence among children</title>
+          <description><![CDATA[TIRANA, Albania (AP) — The Albanian Cabinet decided on Thursday to shut down TikTok for 12 months, blaming the popular video-sharing platform for inciting violence and bullying, especially among children.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/07/albania-shuts-down-tiktok-for-a-year-amid-concerns-over-violence-among-children/</guid>
+          <link>https://majordigest.com/tech/2025/03/07/albania-shuts-down-tiktok-for-a-year-amid-concerns-over-violence-among-children/</link>
+          <pubDate>Fri, 07 Mar 2025 01:10:01 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/07/albania-shuts-down-tiktok-for-a-year-amid-concerns-over-violence-among-children.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/07/albania-shuts-down-tiktok-for-a-year-amid-concerns-over-violence-among-children.webp"/>
+          <dc:creator>LLAZAR SEMINI, Associated Press, KRON4</dc:creator>
         </item>
         <item>
           <title>Taiwan says chipmaker&#8217;s move to invest $100 billion in the US wasn&#8217;t because of US pressure</title>
@@ -93,18 +262,63 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/06/siemens-announces-285-investment-in-us-manufacturing.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/06/siemens-announces-285-investment-in-us-manufacturing.webp"/>
-          <dc:creator>SARAH PARVINI, Associated Press, KRON4</dc:creator>
+          <dc:creator>SARAH PARVINI, Associated Press, Fox 5</dc:creator>
         </item>
         <item>
-          <title>The Trump administration just cut Defense Department grants that research terrorism and drug trafficking</title>
-          <description><![CDATA[Researchers in a highly regarded Department of Defense program called the Minerva Research Initiative recently received word that grants already awarded by the Defense Department are being terminated, potentially putting their work—and in some cases even paychecks for their students and lab staff—in]]></description>
-          <guid>https://majordigest.com/tech/2025/03/06/defense-department-cuts-minerva-research-initiative-grants/</guid>
-          <link>https://majordigest.com/tech/2025/03/06/defense-department-cuts-minerva-research-initiative-grants/</link>
-          <pubDate>Thu, 06 Mar 2025 20:00:00 GMT</pubDate>
+          <title>AI chatbots infected with Russian disinformation: Study</title>
+          <description><![CDATA[The world’s most popular artificial intelligence (AI) chatbots are infected with Russian disinformation, according to a study published Thursday.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/06/ai-chatbots-infected-with-russian-disinformation-study/</guid>
+          <link>https://majordigest.com/tech/2025/03/06/ai-chatbots-infected-with-russian-disinformation-study/</link>
+          <pubDate>Thu, 06 Mar 2025 22:32:49 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/06/defense-department-cuts-minerva-research-initiative-grants.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/06/defense-department-cuts-minerva-research-initiative-grants.webp"/>
-          <dc:creator>Steven Melendez, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/06/ai-chatbots-infected-with-russian-disinformation-study.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/06/ai-chatbots-infected-with-russian-disinformation-study.webp"/>
+          <dc:creator>Filip Timotija, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Achieving unified visibility for effective zero trust implementation</title>
+          <description><![CDATA[All components of a zero trust architecture must generate data that is observable, available and able to be correlated within a unified data plane.
+The post Achieving unified visibility for effective zero trust implementation first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/06/achieving-unified-visibility-for-effective-zero-trust-implementation/</guid>
+          <link>https://majordigest.com/tech/2025/03/06/achieving-unified-visibility-for-effective-zero-trust-implementation/</link>
+          <pubDate>Thu, 06 Mar 2025 21:55:17 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/06/achieving-unified-visibility-for-effective-zero-trust-implementation.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/06/achieving-unified-visibility-for-effective-zero-trust-implementation.webp"/>
+          <dc:creator>commentators, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Chrome Enterprise moves to better differentiate work, personal browsing</title>
+          <description><![CDATA[Google on Thursday unveiled new security controls for Chrome Enterprise, allowing IT departments to help employees better distinguish between work and personal browsing profiles.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/06/chrome-enterprise-moves-to-better-differentiate-work-personal-browsing/</guid>
+          <link>https://majordigest.com/tech/2025/03/06/chrome-enterprise-moves-to-better-differentiate-work-personal-browsing/</link>
+          <pubDate>Thu, 06 Mar 2025 21:35:04 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/06/chrome-enterprise-moves-to-better-differentiate-work-personal-browsing.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/06/chrome-enterprise-moves-to-better-differentiate-work-personal-browsing.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Democrats ask for investigation into whether Musk is using government position to influence X advertisers</title>
+          <description><![CDATA[Democratic senators are asking the Department of Justice (DOJ) to investigate whether tech billionaire Elon Musk, a senior adviser to President Trump, is leveraging his government position to pressure advertisers into spending more on his social media platform, X.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/06/democrats-elon-musk-x-advertising-investigation/</guid>
+          <link>https://majordigest.com/tech/2025/03/06/democrats-elon-musk-x-advertising-investigation/</link>
+          <pubDate>Thu, 06 Mar 2025 21:31:24 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/06/democrats-elon-musk-x-advertising-investigation.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/06/democrats-elon-musk-x-advertising-investigation.webp"/>
+          <dc:creator>Sarah Fortinsky, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>LibreOffice downloads on the rise as users look to avoid subscription costs</title>
+          <description><![CDATA[Interest in LibreOffice, the open-source alternative to Microsoft Office, is on the rise, with weekly downloads of its software package close to 1 million a week. That’s the highest download number since 2023.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/06/libreoffice-downloads-on-the-rise-as-users-look-to-avoid-subscription-costs/</guid>
+          <link>https://majordigest.com/tech/2025/03/06/libreoffice-downloads-on-the-rise-as-users-look-to-avoid-subscription-costs/</link>
+          <pubDate>Thu, 06 Mar 2025 20:34:27 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/06/libreoffice-downloads-on-the-rise-as-users-look-to-avoid-subscription-costs.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/06/libreoffice-downloads-on-the-rise-as-users-look-to-avoid-subscription-costs.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
           <title>Utah becomes the first state to pass legislation requiring app stores to verify ages</title>
@@ -115,62 +329,30 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/06/utah-becomes-the-first-state-to-pass-legislation-requiring-app-stores-to-verify-ages.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/06/utah-becomes-the-first-state-to-pass-legislation-requiring-app-stores-to-verify-ages.webp"/>
-          <dc:creator>HANNAH SCHOENBAUM, Associated Press, PIX 11</dc:creator>
+          <dc:creator>HANNAH SCHOENBAUM, Associated Press, KREX 5</dc:creator>
         </item>
         <item>
-          <title>Data center vacancies hit historic lows despite record construction</title>
-          <description><![CDATA[Space supply in major data center markets increased by 34% year-over-year to 6,922.6 megawatts, considerable growth over the 26% increase in 2023 , according to CBRE research.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/06/data-center-vacancies-hit-historic-lows-despite-record-construction/</guid>
-          <link>https://majordigest.com/tech/2025/03/06/data-center-vacancies-hit-historic-lows-despite-record-construction/</link>
-          <pubDate>Thu, 06 Mar 2025 17:23:21 GMT</pubDate>
+          <title>Network jobs watch: Hiring, skills and certification trends</title>
+          <description><![CDATA[Network and infrastructure roles continue to shift as enterprises adopt technologies such as AI-driven network operations, multicloud networking, zero trust network access (ZTNA), and SD-WAN.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/06/network-jobs-watch-hiring-skills-and-certification-trends/</guid>
+          <link>https://majordigest.com/tech/2025/03/06/network-jobs-watch-hiring-skills-and-certification-trends/</link>
+          <pubDate>Thu, 06 Mar 2025 17:42:14 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/06/data-center-vacancies-hit-historic-lows-despite-record-construction.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/06/data-center-vacancies-hit-historic-lows-despite-record-construction.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/06/network-jobs-watch-hiring-skills-and-certification-trends.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/06/network-jobs-watch-hiring-skills-and-certification-trends.webp"/>
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Utah becomes first state to pass app store age verification law</title>
-          <description><![CDATA[Utah passed a bill on Wednesday that will require app stores to verify users' ages and receive parental consent for minors to download applications, making the Beehive State the first in the country to pass such a measure. The bill, titled the App Store Accountability Act, now heads to Utah Gov.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/06/utah-app-store-age-verification-law/</guid>
-          <link>https://majordigest.com/tech/2025/03/06/utah-app-store-age-verification-law/</link>
-          <pubDate>Thu, 06 Mar 2025 15:52:32 GMT</pubDate>
+          <title>Trump calls CHIPS Act &#8216;horrible,&#8217; wants to defund it</title>
+          <description><![CDATA[In his address to Congress last night, President Donald J. Trump  called the CHIPS Act “horrible,” and said whatever money hasn’t been spent should now be used to reduce  the national debt.
+The CHIPS Act, enacted into law in 2022 under then-President Joseph R. Biden Jr.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/05/trump-calls-chips-act-horrible-wants-to-defund-it/</guid>
+          <link>https://majordigest.com/tech/2025/03/05/trump-calls-chips-act-horrible-wants-to-defund-it/</link>
+          <pubDate>Wed, 05 Mar 2025 18:58:03 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/06/utah-app-store-age-verification-law.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/06/utah-app-store-age-verification-law.webp"/>
-          <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
-        </item>
-        <item>
-          <title>C++ founder champions profiles for memory safety</title>
-          <description><![CDATA[C++ memory safety issues have come under heat recently, with rising interest in projects like TrapC and Safe C++ that attempt to tackle the issue. But C++ designer Bjarne Stroustrup remains steadfast in promoting profiles as essential for safety in C++.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/05/c-plus-plus-founder-champions-profiles-for-memory-safety/</guid>
-          <link>https://majordigest.com/tech/2025/03/05/c-plus-plus-founder-champions-profiles-for-memory-safety/</link>
-          <pubDate>Wed, 05 Mar 2025 22:55:07 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/05/c-plus-plus-founder-champions-profiles-for-memory-safety.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/05/c-plus-plus-founder-champions-profiles-for-memory-safety.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Fox News AI Newsletter: Judge denies Musk's move against OpenAI</title>
-          <description><![CDATA[Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/05/fox-news-ai-newsletter-judge-denies-musks-move-against-openai/</guid>
-          <link>https://majordigest.com/tech/2025/03/05/fox-news-ai-newsletter-judge-denies-musks-move-against-openai/</link>
-          <pubDate>Wed, 05 Mar 2025 17:12:53 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/05/fox-news-ai-newsletter-judge-denies-musks-move-against-openai.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/05/fox-news-ai-newsletter-judge-denies-musks-move-against-openai.webp"/>
-          <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>Judge denies Elon Musk's request to block OpenAI for-profit conversion but welcomes trial</title>
-          <description><![CDATA[OAKLAND, Calif. (AP) — A federal judge has denied Elon Musk's request for a court order blocking OpenAI from converting itself to a for-profit company but said she could expedite a trial to consider Musk's claims against the ChatGPT maker and its CEO. U.S.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/05/judge-denies-elon-musks-request-to-block-openai-for-profit-conversion-but-welcomes-trial/</guid>
-          <link>https://majordigest.com/tech/2025/03/05/judge-denies-elon-musks-request-to-block-openai-for-profit-conversion-but-welcomes-trial/</link>
-          <pubDate>Wed, 05 Mar 2025 14:49:47 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/05/judge-denies-elon-musks-request-to-block-openai-for-profit-conversion-but-welcomes-trial.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/05/judge-denies-elon-musks-request-to-block-openai-for-profit-conversion-but-welcomes-trial.webp"/>
-          <dc:creator>MATT O'BRIEN and BARBARA ORTUTAY, Associated Press, KREX 5</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/05/trump-calls-chips-act-horrible-wants-to-defund-it.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/05/trump-calls-chips-act-horrible-wants-to-defund-it.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
           <title>Georgia lawmakers push to ban automated speed cameras near schools</title>
@@ -184,18 +366,6 @@
           <dc:creator>JEFF AMY, Associated Press, NewsNation</dc:creator>
         </item>
         <item>
-          <title>USDA&#8217;s automations taking some of the burden out of HR work</title>
-          <description><![CDATA[Brian Mohr, USDA’s the enterprise automation program manager, said over the past year, the agency developed 15 new automations mostly for HR processes.
-The post USDA’s automations taking some of the burden out of HR work first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/04/usdas-automations-taking-some-of-the-burden-out-of-hr-work/</guid>
-          <link>https://majordigest.com/tech/2025/03/04/usdas-automations-taking-some-of-the-burden-out-of-hr-work/</link>
-          <pubDate>Tue, 04 Mar 2025 21:35:12 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/04/usdas-automations-taking-some-of-the-burden-out-of-hr-work.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/04/usdas-automations-taking-some-of-the-burden-out-of-hr-work.webp"/>
-          <dc:creator>Jason Miller, Federal News Network</dc:creator>
-        </item>
-        <item>
           <title>Minnesota considers blocking 'nudify' apps that use AI to make explicit images without consent</title>
           <description><![CDATA[ST. PAUL, Minn. (AP) — Molly Kelley was stunned to discover in June that someone she knew had used widely available “nudification” technology to create highly realistic and sexually explicit videos and images of her, using family photos that were posted on social media.]]></description>
           <guid>https://majordigest.com/tech/2025/03/04/minnesota-considers-blocking-nudify-apps-that-use-ai-to-make-explicit-images-without-consent/</guid>
@@ -205,71 +375,4 @@ The post USDA’s automations taking some of the burden out of HR work first app
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/04/minnesota-considers-blocking-nudify-apps-that-use-ai-to-make-explicit-images-without-consent.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/04/minnesota-considers-blocking-nudify-apps-that-use-ai-to-make-explicit-images-without-consent.webp"/>
           <dc:creator>STEVE KARNOWSKI, Associated Press, Fox 5</dc:creator>
-        </item>
-        <item>
-          <title>VMware ESXi gets critical patches for in-the-wild virtual machine escape attack</title>
-          <description><![CDATA[Broadcom released emergency patches for its VMware ESXi, Workstation, and Fusion products to fix three vulnerabilities that can lead to virtual machine escape and are actively being exploited by attackers.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/04/vmware-esxi-gets-critical-patches-for-in-the-wild-virtual-machine-escape-attack/</guid>
-          <link>https://majordigest.com/tech/2025/03/04/vmware-esxi-gets-critical-patches-for-in-the-wild-virtual-machine-escape-attack/</link>
-          <pubDate>Tue, 04 Mar 2025 19:49:12 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/04/vmware-esxi-gets-critical-patches-for-in-the-wild-virtual-machine-escape-attack.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/04/vmware-esxi-gets-critical-patches-for-in-the-wild-virtual-machine-escape-attack.webp"/>
-          <dc:creator>csoonline</dc:creator>
-        </item>
-        <item>
-          <title>Netskope expands SASE footprint, bolsters AI and automation</title>
-          <description><![CDATA[Netskope is expanding its global presence by adding multiple regions to its NewEdge carrier-grade infrastructure, which now includes more than 75 locations to ensure processing remains close to end users.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/04/netskope-expands-sase-footprint-bolsters-ai-and-automation/</guid>
-          <link>https://majordigest.com/tech/2025/03/04/netskope-expands-sase-footprint-bolsters-ai-and-automation/</link>
-          <pubDate>Tue, 04 Mar 2025 16:31:18 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/04/netskope-expands-sase-footprint-bolsters-ai-and-automation.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/04/netskope-expands-sase-footprint-bolsters-ai-and-automation.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>Casey Anthony, mom acquitted in toddler's death, joins TikTok</title>
-          <description><![CDATA[Casey Anthony, a Florida mother who was acquitted of murder charges in the death of her 2-year-old daughter Caylee, has joined TikTok to brand herself as a "legal advocate.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/04/casey-anthony-joins-tiktok/</guid>
-          <link>https://majordigest.com/tech/2025/03/04/casey-anthony-joins-tiktok/</link>
-          <pubDate>Tue, 04 Mar 2025 11:06:27 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/04/casey-anthony-joins-tiktok.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/04/casey-anthony-joins-tiktok.webp"/>
-          <dc:creator>Rachel Tucker, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Improving intelligent document processing with generative AI</title>
-          <description><![CDATA[One of the earliest digital transformation drivers was digitalization, in which organizations converted paper-based processes to digitized workflows. In ideal circumstances, paper documents became web or mobile forms, and workflows replaced handoffs.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/04/improving-intelligent-document-processing-with-generative-ai/</guid>
-          <link>https://majordigest.com/tech/2025/03/04/improving-intelligent-document-processing-with-generative-ai/</link>
-          <pubDate>Tue, 04 Mar 2025 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/04/improving-intelligent-document-processing-with-generative-ai.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/04/improving-intelligent-document-processing-with-generative-ai.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Cisco: Latest news and insights</title>
-          <description><![CDATA[Cisco is the dominant vendor in enterprise networking, and under CEO Chuck Robbins, it continues to shake things up.
-Its most recent mega-acquisition is its $28 billion purchase of Splunk, a bold move that adds revenue opportunities in observability, data analytics, AIOps, and genAI.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/04/cisco-latest-news-and-insights/</guid>
-          <link>https://majordigest.com/tech/2025/03/04/cisco-latest-news-and-insights/</link>
-          <pubDate>Tue, 04 Mar 2025 08:26:28 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/04/cisco-latest-news-and-insights.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/04/cisco-latest-news-and-insights.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>Soft robotic prosthetic hand uses nerve signals for more natural control</title>
-          <description><![CDATA[Researchers unveiled a new soft prosthetic hand that combines the natural coordination patterns of our fingers with the decoding of motoneuron activity in the spinal column.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/01/soft-robotic-prosthetic-hand-uses-nerve-signals-more-natural-control/</guid>
-          <link>https://majordigest.com/tech/2025/03/01/soft-robotic-prosthetic-hand-uses-nerve-signals-more-natural-control/</link>
-          <pubDate>Sat, 01 Mar 2025 11:00:30 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/01/soft-robotic-prosthetic-hand-uses-nerve-signals-more-natural-control.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/01/soft-robotic-prosthetic-hand-uses-nerve-signals-more-natural-control.webp"/>
-          <dc:creator>Fox News</dc:creator>
         </item></channel></rss>
