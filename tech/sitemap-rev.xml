@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.comnull</loc>
+          <loc>https://majordigest.com/tech/2025/03/11/a-nintendo-switch-2-fcc-filing-confirms-wi-fi-6-and-nfc-support-for-the-upcoming-console/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-10T23:38:35.000Z</news:publication_date>
-            <news:title>X Outage: Musk Claims Massive Cyberattack, Experts Question Attribution</news:title>
+            <news:publication_date>2025-03-11T11:52:25.000Z</news:publication_date>
+            <news:title>Nintendo Switch 2 FCC Filing Reveals NFC Support and Wi-Fi 6 Upgrade</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/10/elon-musk-claims-x-being-targeted-in-massive-cyberattack-as-service-goes-down.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/a-nintendo-switch-2-fcc-filing-confirms-wi-fi-6-and-nfc-support-for-the-upcoming-console.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/10/another-top-security-camera-maker-is-seeing-devices-hijacked-into-botnet/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-10T14:53:00.000Z</news:publication_date>
+            <news:title>Edimax IP Camera Botnet: Security Flaw Creates Risk for Users - 2023</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/10/another-top-security-camera-maker-is-seeing-devices-hijacked-into-botnet.webp</image:loc>
           </image:image>
         </url></urlset>
