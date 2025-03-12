@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/03/05/fox-news-ai-newsletter-judge-denies-musks-move-against-openai/</loc>
+          <loc>https://majordigest.com/tech/2025/03/12/microsofts-remote-desktop-app-becomes-the-windows-app/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-05T17:12:53.000Z</news:publication_date>
-            <news:title>Federal Judge Denies Musk's Attempt to Block OpenAI's Shift to For-Profit Model</news:title>
+            <news:publication_date>2025-03-12T15:24:00.000Z</news:publication_date>
+            <news:title>Microsoft Drops Support for Remote Desktop App, Transition to Windows App Required</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/05/fox-news-ai-newsletter-judge-denies-musks-move-against-openai.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/12/microsofts-remote-desktop-app-becomes-the-windows-app.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/11/cloudflare-ceo-search-driven-internet-business-model-must-evolve/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-11T20:35:00.000Z</news:publication_date>
+            <news:title>The Future of Search: Cloudflare's CEO on Reshaping the Internet</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/cloudflare-ceo-search-driven-internet-business-model-must-evolve.webp</image:loc>
           </image:image>
         </url></urlset>

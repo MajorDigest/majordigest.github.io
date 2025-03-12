@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 12 Mar 2025 15:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 16:22:42 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Federal Judge Denies Musk's Attempt to Block OpenAI's Shift to For-Profit Model</title>
-          <description><![CDATA[Federal judge denies Elon Musk's attempt to block OpenAI's shift to for-profit model, allowing the company to proceed with its new business strategy.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/05/fox-news-ai-newsletter-judge-denies-musks-move-against-openai/</guid>
-          <link>https://majordigest.com/tech/2025/03/05/fox-news-ai-newsletter-judge-denies-musks-move-against-openai/</link>
-          <pubDate>Wed, 05 Mar 2025 17:12:53 GMT</pubDate>
+          <title>Microsoft Drops Support for Remote Desktop App, Transition to Windows App Required</title>
+          <description><![CDATA[Microsoft is dropping support for the Remote Desktop app on May 27, replacing it with a new unified gateway called Windows App. Users will need to manually uninstall and reinstall the new app to continue accessing services like Windows 365 and Azure Virtual Desktop.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/12/microsofts-remote-desktop-app-becomes-the-windows-app/</guid>
+          <link>https://majordigest.com/tech/2025/03/12/microsofts-remote-desktop-app-becomes-the-windows-app/</link>
+          <pubDate>Wed, 12 Mar 2025 15:24:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/05/fox-news-ai-newsletter-judge-denies-musks-move-against-openai.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/05/fox-news-ai-newsletter-judge-denies-musks-move-against-openai.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/12/microsofts-remote-desktop-app-becomes-the-windows-app.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/12/microsofts-remote-desktop-app-becomes-the-windows-app.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>The Future of Search: Cloudflare's CEO on Reshaping the Internet</title>
+          <description><![CDATA[Cloudflare's Matthew Prince discusses the evolving search landscape and its impact on media companies and creators, proposing a three-step solution to address the issue.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/11/cloudflare-ceo-search-driven-internet-business-model-must-evolve/</guid>
+          <link>https://majordigest.com/tech/2025/03/11/cloudflare-ceo-search-driven-internet-business-model-must-evolve/</link>
+          <pubDate>Tue, 11 Mar 2025 20:35:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/11/cloudflare-ceo-search-driven-internet-business-model-must-evolve.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/11/cloudflare-ceo-search-driven-internet-business-model-must-evolve.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
