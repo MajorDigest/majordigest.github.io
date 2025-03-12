@@ -3,34 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/03/12/javaone-2025-heralds-javas-30th-birthday/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-12T00:32:31.000Z</news:publication_date>
-            <news:title>JavaOne 2025 heralds Java&#8217;s 30th birthday</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/12/javaone-2025-heralds-javas-30th-birthday.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/11/meta-executives-called-careless-people-in-new-book-from-former-facebook-employee-turned-whistleblower-2/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-11T22:58:48.000Z</news:publication_date>
-            <news:title>Meta executives called &#8216;Careless People&#8217; in new book from former Facebook employee-turned-whistleblower</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/11/meta-executives-called-careless-people-in-new-book-from-former-facebook-employee-turned-whistleblower-2.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/03/11/3-keys-to-defining-data-sovereignty-security-privacy-and-portability/</loc>
           <news:news>
             <news:publication>
@@ -45,31 +17,101 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/11/amazon-will-soon-streaming-trumps-apprentice-reality-show/</loc>
+          <loc>https://majordigest.com/tech/2025/03/11/putting-networks-at-the-top-of-cios-agendas/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-11T19:56:40.000Z</news:publication_date>
-            <news:title>Amazon will soon be streaming Trump&#8217;s &#8216;The Apprentice&#8217; reality show</news:title>
+            <news:publication_date>2025-03-11T21:59:50.000Z</news:publication_date>
+            <news:title>The Resurgence of Networks in Digital Transformation</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/11/amazon-will-soon-streaming-trumps-apprentice-reality-show.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/putting-networks-at-the-top-of-cios-agendas.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/11/ai-in-action-how-enterprises-are-scaling-ai-for-real-business-impact/</loc>
+          <loc>https://majordigest.com/tech/2025/03/11/taking-american-businesses-global/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-11T18:31:30.000Z</news:publication_date>
-            <news:title>Capitalizing on AI Potential: Industry-Specific Systems Drive Business Outcomes</news:title>
+            <news:publication_date>2025-03-11T21:53:02.000Z</news:publication_date>
+            <news:title>Taking American businesses global</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/11/ai-in-action-how-enterprises-are-scaling-ai-for-real-business-impact.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/taking-american-businesses-global.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/11/digital-partnership-with-a-human-touch/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-11T21:07:20.000Z</news:publication_date>
+            <news:title>Digital partnership with a human touch</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/digital-partnership-with-a-human-touch.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/11/cloudflare-ceo-search-driven-internet-business-model-must-evolve/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-11T20:35:00.000Z</news:publication_date>
+            <news:title>What comes after search? Cloudflare&#8217;s CEO says that&#8217;s an &#8216;existential&#8217; question for the internet</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/cloudflare-ceo-search-driven-internet-business-model-must-evolve.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/11/explorers-discover-wreckage-of-cargo-ship-that-sank-in-lake-superior-storm-more-than-130-years-ago/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-11T18:34:38.000Z</news:publication_date>
+            <news:title>Explorers discover wreckage of cargo ship that sank in Lake Superior storm more than 130 years ago</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/explorers-discover-wreckage-of-cargo-ship-that-sank-in-lake-superior-storm-more-than-130-years-ago.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/11/what-the-break-up-of-google-could-mean-for-apple-and-other-tech-companies/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-11T18:00:00.000Z</news:publication_date>
+            <news:title>What the breakup of Google could mean for Apple and other tech companies</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/what-the-break-up-of-google-could-mean-for-apple-and-other-tech-companies.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/11/still-using-an-ipad-as-a-home-hub-bad-news-apple-is-about-to-end-support-for-it/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-11T17:45:00.000Z</news:publication_date>
+            <news:title>Still using an iPad as a Home Hub? Bad news &#8211; Apple is about to end support for it</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/still-using-an-ipad-as-a-home-hub-bad-news-apple-is-about-to-end-support-for-it.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -87,115 +129,87 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/11/alphabets-waymo-to-offer-self-driving-rides-in-silicon-valley/</loc>
+          <loc>https://majordigest.com/tech/2025/03/11/how-to-deliver-more-secure-capabilities-to-the-warfighter-faster/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-11T16:38:52.000Z</news:publication_date>
-            <news:title>Alphabet&#8217;s Waymo to offer self-driving rides in Silicon Valley</news:title>
+            <news:publication_date>2025-03-11T16:54:41.000Z</news:publication_date>
+            <news:title>How to deliver more secure capabilities to the warfighter, faster</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/11/alphabets-waymo-to-offer-self-driving-rides-in-silicon-valley.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/how-to-deliver-more-secure-capabilities-to-the-warfighter-faster.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/11/trump-says-tiktok-deal-is-in-the-works-heres-where-things-stand-with-the-company/</loc>
+          <loc>https://majordigest.com/tech/2025/03/11/hey-apple-when-youre-in-a-hole-stop-digging/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-11T16:18:49.000Z</news:publication_date>
-            <news:title>Trump says TikTok deal is in the works. Here's where things stand with the company</news:title>
+            <news:publication_date>2025-03-11T16:26:30.000Z</news:publication_date>
+            <news:title>Hey Apple! When you&#8217;re in a hole, stop digging</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/11/trump-says-tiktok-deal-is-in-the-works-heres-where-things-stand-with-the-company.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/hey-apple-when-youre-in-a-hole-stop-digging.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/11/ransomware-gangs-allegedly-hit-two-major-us-healthcare-firms-300-000-patients-have-data-stolen/</loc>
+          <loc>https://majordigest.com/tech/2025/03/11/asus-might-have-just-changed-the-display-game-for-good-with-three-new-air-purifying-monitors-and-one-of-them-is-ultrawide/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-11T16:03:00.000Z</news:publication_date>
-            <news:title>Rhysida Claims Responsibility for Cyberattacks on Two US Healthcare Organizations</news:title>
+            <news:publication_date>2025-03-11T16:22:57.000Z</news:publication_date>
+            <news:title>Asus might have just changed the display game for good with three new air-purifying monitors - and one of them is ultrawide</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/11/ransomware-gangs-allegedly-hit-two-major-us-healthcare-firms-300-000-patients-have-data-stolen.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/asus-might-have-just-changed-the-display-game-for-good-with-three-new-air-purifying-monitors-and-one-of-them-is-ultrawide.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/11/go-based-typescript-to-dramatically-improve-speed-scalability/</loc>
+          <loc>https://majordigest.com/tech/2025/03/11/deepfakes-penalties-south-dakota/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-11T15:00:00.000Z</news:publication_date>
-            <news:title>Microsoft Develops Native TypeScript Implementation Based on Google's Go Language</news:title>
+            <news:publication_date>2025-03-11T15:30:54.000Z</news:publication_date>
+            <news:title>South Dakota pushes labels for political deepfake videos ahead of elections</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/11/go-based-typescript-to-dramatically-improve-speed-scalability.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/deepfakes-penalties-south-dakota.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/11/lg-reveals-us-pricing-for-the-lg-g5-and-lg-c5-oled-tvs-and-its-great-news-for-oled-fans/</loc>
+          <loc>https://majordigest.com/tech/2025/03/11/fluances-new-active-stereo-speakers-look-like-a-dream-soundbar-alternative-as-well-as-being-perfect-for-turntables-or-bluetooth-music/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-11T14:00:00.000Z</news:publication_date>
-            <news:title>LG reveals US pricing for the LG G5 and LG C5 OLED TVs, and it's great news for OLED fans</news:title>
+            <news:publication_date>2025-03-11T13:12:49.000Z</news:publication_date>
+            <news:title>Fluance's new active stereo speakers look like a dream soundbar alternative, as well as being perfect for turntables or Bluetooth music</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/11/lg-reveals-us-pricing-for-the-lg-g5-and-lg-c5-oled-tvs-and-its-great-news-for-oled-fans.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/fluances-new-active-stereo-speakers-look-like-a-dream-soundbar-alternative-as-well-as-being-perfect-for-turntables-or-bluetooth-music.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/11/llm-benchmarking-how-to-find-the-right-ai-model/</loc>
+          <loc>https://majordigest.com/tech/2025/03/11/elon-musk-tesla-stock-slide-doge-cuts/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-11T12:06:00.000Z</news:publication_date>
-            <news:title>LLM benchmarking: How to find the right AI model</news:title>
+            <news:publication_date>2025-03-11T12:40:44.000Z</news:publication_date>
+            <news:title>Musk having &#8216;great difficulty&#8217; running businesses amid DOGE obligations, Tesla stock slide</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/11/llm-benchmarking-how-to-find-the-right-ai-model.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/11/a-nintendo-switch-2-fcc-filing-confirms-wi-fi-6-and-nfc-support-for-the-upcoming-console/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-11T11:52:25.000Z</news:publication_date>
-            <news:title>A Nintendo Switch 2 FCC filing confirms Wi-Fi 6 and NFC support for the upcoming console</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/11/a-nintendo-switch-2-fcc-filing-confirms-wi-fi-6-and-nfc-support-for-the-upcoming-console.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/11/linkedin-learning-courses-classes-new-job/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-11T11:30:00.000Z</news:publication_date>
-            <news:title>6 free LinkedIn Learning courses to help you find a new job</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/11/linkedin-learning-courses-classes-new-job.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/elon-musk-tesla-stock-slide-doge-cuts.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,17 +241,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/06/achieving-unified-visibility-for-effective-zero-trust-implementation/</loc>
+          <loc>https://majordigest.com/tech/2025/03/11/windows-11-a-guide-to-the-updates/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-06T21:55:17.000Z</news:publication_date>
-            <news:title>Achieving unified visibility for effective zero trust implementation</news:title>
+            <news:publication_date>2025-03-11T10:55:00.000Z</news:publication_date>
+            <news:title>Windows 11: A guide to the updates</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/06/achieving-unified-visibility-for-effective-zero-trust-implementation.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/11/windows-11-a-guide-to-the-updates.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/10/iphone-app-spying-apples-privacy-report-reveals-all/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-10T14:00:22.000Z</news:publication_date>
+            <news:title>Is that iPhone app spying? Apple&#8217;s App Privacy Report reveals all</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/10/iphone-app-spying-apples-privacy-report-reveals-all.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/06/google-flags-scammers-in-real-time/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-06T18:19:23.000Z</news:publication_date>
+            <news:title>New Google feature flags when you might be getting scammed in real time</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/06/google-flags-scammers-in-real-time.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -255,6 +297,34 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2025/03/06/data-center-vacancies-hit-historic-lows-despite-record-construction/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-06T17:23:21.000Z</news:publication_date>
+            <news:title>Data center vacancies hit historic lows despite record construction</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/06/data-center-vacancies-hit-historic-lows-despite-record-construction.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/06/portkey-an-open-source-ai-gateway-for-easy-llm-orchestration/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-06T09:00:00.000Z</news:publication_date>
+            <news:title>Portkey: An open-source AI gateway for easy LLM orchestration</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/06/portkey-an-open-source-ai-gateway-for-easy-llm-orchestration.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/03/05/judge-denies-elon-musks-request-to-block-openai-for-profit-conversion-but-welcomes-trial/</loc>
           <news:news>
             <news:publication>
@@ -269,6 +339,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2025/03/05/ai-driving-a-165-rise-in-data-center-power-demand-by-2030/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-05T12:59:45.000Z</news:publication_date>
+            <news:title>AI driving a 165% rise in data center power demand by 2030</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/05/ai-driving-a-165-rise-in-data-center-power-demand-by-2030.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/03/05/ai-pioneers-who-channeled-hedonistic-machines-win-computer-sciences-top-prize/</loc>
           <news:news>
             <news:publication>
@@ -280,19 +364,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/03/05/ai-pioneers-who-channeled-hedonistic-machines-win-computer-sciences-top-prize.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/05/luxury-glass-trailer-unfolds-spacious-home-just-15-minutes/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-05T11:00:10.000Z</news:publication_date>
-            <news:title>Luxury glass trailer unfolds into a spacious home in just 15 minutes</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/05/luxury-glass-trailer-unfolds-spacious-home-just-15-minutes.webp</image:loc>
           </image:image>
         </url></urlset>
