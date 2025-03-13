@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/03/12/its-just-a-concept-for-now-but-this-rtx-5090-liquid-cooled-gaming-laptop-is-possibly-the-craziest-thing-ive-seen-in-a-while/</loc>
+          <loc>https://majordigest.com/tech/2025/03/12/tiktoks-comment-sections-are-being-flooded-with-copy-pasted-christian-messages/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-12T12:11:00.000Z</news:publication_date>
-            <news:title>A Laptop Concept That Could Change Gaming Forever</news:title>
+            <news:publication_date>2025-03-12T21:00:00.000Z</news:publication_date>
+            <news:title>TikTok Flooded with Christian Messages: A Mysterious Trend</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/12/its-just-a-concept-for-now-but-this-rtx-5090-liquid-cooled-gaming-laptop-is-possibly-the-craziest-thing-ive-seen-in-a-while.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/12/tiktoks-comment-sections-are-being-flooded-with-copy-pasted-christian-messages.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/12/why-wasm-fascinates-me/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-12T09:00:00.000Z</news:publication_date>
+            <news:title>The Fascinating World of WebAssembly</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/12/why-wasm-fascinates-me.webp</image:loc>
           </image:image>
         </url></urlset>
