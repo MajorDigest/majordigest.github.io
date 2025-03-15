@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/03/12/apple-faces-uk-antitrust-threat-as-regulator-targets-browsers/</loc>
+          <loc>https://majordigest.com/tech/2025/03/14/un-report-reveals-alarming-extent-irans-increased-surveillance-women/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-12T20:31:28.000Z</news:publication_date>
-            <news:title>Apple Faces Renewed Threat in UK Over Mobile Browser Market</news:title>
+            <news:publication_date>2025-03-14T21:32:27.000Z</news:publication_date>
+            <news:title>Iran's Hijab Crackdown: UN Report Reveals Widespread Surveillance and Informant Network</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/12/apple-faces-uk-antitrust-threat-as-regulator-targets-browsers.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/14/un-report-reveals-alarming-extent-irans-increased-surveillance-women.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/14/gitlab-has-patched-a-host-of-worrying-security-issues/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-14T15:31:00.000Z</news:publication_date>
+            <news:title>GitLab Releases Patch for Nine Flaws, Including Two Critical Severity Ones</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/14/gitlab-has-patched-a-host-of-worrying-security-issues.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/14/oracle-could-still-end-up-running-tiktok/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-14T13:02:00.000Z</news:publication_date>
+            <news:title>TikTok's Uncertain Future: Oracle Partnership in the Works?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/14/oracle-could-still-end-up-running-tiktok.webp</image:loc>
           </image:image>
         </url></urlset>
