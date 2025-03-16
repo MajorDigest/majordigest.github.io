@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sun, 16 Mar 2025 00:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 01:03:45 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -27,18 +27,40 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/15/driverless-bus-of-the-future-is-tested-in-barcelona.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/15/driverless-bus-of-the-future-is-tested-in-barcelona.webp"/>
-          <dc:creator>HERNAN MUÑOZ and JOSEPH WILSON, Associated Press, Fox 5</dc:creator>
+          <dc:creator>HERNAN MUÑOZ and JOSEPH WILSON, Associated Press, KREX 5</dc:creator>
         </item>
         <item>
-          <title>FBI warns of dangerous new &#8216;smishing' scam targeting your phone</title>
-          <description><![CDATA[Hackers have set up over 10,000 fake websites to keep smishing scams going and target both iPhone and Android users with texts. Kurt the CyberGuy shares how to defend yourself.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/15/fbi-warns-dangerous-new-smishing-scam-targeting-your-phone/</guid>
-          <link>https://majordigest.com/tech/2025/03/15/fbi-warns-dangerous-new-smishing-scam-targeting-your-phone/</link>
-          <pubDate>Sat, 15 Mar 2025 14:00:56 GMT</pubDate>
+          <title>SpaceX to send Starship to Mars next year, Elon Musk confirms</title>
+          <description><![CDATA[Elon Musk says SpaceX will go to Mars at the end of 2026 with Tesla&apos;s Optimus, a humanoid robot. If all goes well, humans could be headed to the red planet in 2029, Musk says.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/15/spacex-send-starship-mars-next-year-elon-musk-confirms/</guid>
+          <link>https://majordigest.com/tech/2025/03/15/spacex-send-starship-mars-next-year-elon-musk-confirms/</link>
+          <pubDate>Sat, 15 Mar 2025 16:43:19 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/15/fbi-warns-dangerous-new-smishing-scam-targeting-your-phone.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/15/fbi-warns-dangerous-new-smishing-scam-targeting-your-phone.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/15/spacex-send-starship-mars-next-year-elon-musk-confirms.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/15/spacex-send-starship-mars-next-year-elon-musk-confirms.webp"/>
           <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Over 400 million unwanted and malicious emails were received by businesses in 2024</title>
+          <description><![CDATA[Report highlights rising cyber threats, and urges businesses to adopt advanced cybersecurity practices and foster a strong security culture.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/15/over-400-million-unwanted-and-malicious-emails-were-received-by-businesses/</guid>
+          <link>https://majordigest.com/tech/2025/03/15/over-400-million-unwanted-and-malicious-emails-were-received-by-businesses/</link>
+          <pubDate>Sat, 15 Mar 2025 09:02:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/15/over-400-million-unwanted-and-malicious-emails-were-received-by-businesses.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/15/over-400-million-unwanted-and-malicious-emails-were-received-by-businesses.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Google Messages could soon follow WhatsApp with an upgrade that makes it much easier to join group chats</title>
+          <description><![CDATA[Android Authority has spotted a line in Google Messages' beta that could make it easier for you to add people to group chats.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/14/google-messages-could-soon-follow-whatsapp-with-an-upgrade-that-makes-it-much-easier-to-join-group-chats/</guid>
+          <link>https://majordigest.com/tech/2025/03/14/google-messages-could-soon-follow-whatsapp-with-an-upgrade-that-makes-it-much-easier-to-join-group-chats/</link>
+          <pubDate>Fri, 14 Mar 2025 19:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/14/google-messages-could-soon-follow-whatsapp-with-an-upgrade-that-makes-it-much-easier-to-join-group-chats.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/14/google-messages-could-soon-follow-whatsapp-with-an-upgrade-that-makes-it-much-easier-to-join-group-chats.webp"/>
+          <dc:creator>rowan.davies@futurenet.com (Rowan Davies), TechRadar</dc:creator>
         </item>
         <item>
           <title>Microsoft&#8217;s Patch Tuesday updates: Keeping up with the latest fixes</title>
@@ -52,138 +74,125 @@
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Sly Tricks for Python: Setting Up on Air-Gapped Machine, Snappier Code with Async, and More</title>
-          <description><![CDATA[Learn about setting up Python on an air-gapped machine, snappier code with async, faster programs with Zig, and slicker web apps with HTMX and Django in this week's Python Report.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/14/stupendous-python-stunts-without-a-net/</guid>
-          <link>https://majordigest.com/tech/2025/03/14/stupendous-python-stunts-without-a-net/</link>
-          <pubDate>Fri, 14 Mar 2025 17:35:18 GMT</pubDate>
+          <title>You can now use an IPv4 address as business collateral - and it could be worth millions</title>
+          <description><![CDATA[You can now secure a loan using your IPv4 address as collateral – you’ll even still be able to access and use it.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/14/you-can-now-use-an-ipv4-address-as-business-collateral-and-it-could-be-worth-millions/</guid>
+          <link>https://majordigest.com/tech/2025/03/14/you-can-now-use-an-ipv4-address-as-business-collateral-and-it-could-be-worth-millions/</link>
+          <pubDate>Fri, 14 Mar 2025 17:03:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/14/stupendous-python-stunts-without-a-net.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/14/stupendous-python-stunts-without-a-net.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>GitLab has patched a host of worrying security issues</title>
-          <description><![CDATA[Among the problems were two critical severity issues which allowed threat actors to bypass authentication.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/14/gitlab-has-patched-a-host-of-worrying-security-issues/</guid>
-          <link>https://majordigest.com/tech/2025/03/14/gitlab-has-patched-a-host-of-worrying-security-issues/</link>
-          <pubDate>Fri, 14 Mar 2025 15:31:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/14/gitlab-has-patched-a-host-of-worrying-security-issues.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/14/gitlab-has-patched-a-host-of-worrying-security-issues.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/14/you-can-now-use-an-ipv4-address-as-business-collateral-and-it-could-be-worth-millions.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/14/you-can-now-use-an-ipv4-address-as-business-collateral-and-it-could-be-worth-millions.webp"/>
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>Apple Music Classical is now available on the web, but its Mac app is still nowhere in sight</title>
-          <description><![CDATA[Apple Music Classical has expanded once again and is now available online, but you'll have to wait longer for its native Mac app.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/14/apple-music-classical-is-now-available-on-the-web-but-its-mac-app-is-still-nowhere-in-sight/</guid>
-          <link>https://majordigest.com/tech/2025/03/14/apple-music-classical-is-now-available-on-the-web-but-its-mac-app-is-still-nowhere-in-sight/</link>
-          <pubDate>Fri, 14 Mar 2025 14:00:00 GMT</pubDate>
+          <title>How technology can lower barriers to employment for Californians with disabilities</title>
+          <description><![CDATA[New technology — and its rapid adoption for remote work during COVID-19 — continues to break down many barriers for people with disabilities.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/14/how-technology-can-lower-barriers-to-employment-for-californians-with-disabilities/</guid>
+          <link>https://majordigest.com/tech/2025/03/14/how-technology-can-lower-barriers-to-employment-for-californians-with-disabilities/</link>
+          <pubDate>Fri, 14 Mar 2025 15:54:12 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/14/apple-music-classical-is-now-available-on-the-web-but-its-mac-app-is-still-nowhere-in-sight.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/14/apple-music-classical-is-now-available-on-the-web-but-its-mac-app-is-still-nowhere-in-sight.webp"/>
-          <dc:creator>rowan.davies@futurenet.com (Rowan Davies), TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/14/how-technology-can-lower-barriers-to-employment-for-californians-with-disabilities.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/14/how-technology-can-lower-barriers-to-employment-for-californians-with-disabilities.webp"/>
+          <dc:creator>CalMatters, The Mercury News</dc:creator>
         </item>
         <item>
-          <title>The future of AI isn&#8217;t the model&#8212;it&#8217;s the system</title>
-          <description><![CDATA[Welcome to AI Decoded, Fast Company’s weekly newsletter that breaks down the most important news in the world of AI. You can sign up to receive this newsletter every week here.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/13/the-future-of-ai-isnt-the-model-its-the-system/</guid>
-          <link>https://majordigest.com/tech/2025/03/13/the-future-of-ai-isnt-the-model-its-the-system/</link>
-          <pubDate>Thu, 13 Mar 2025 23:00:00 GMT</pubDate>
+          <title>Apple plans AirPods feature that can live-translate conversations</title>
+          <description><![CDATA[(Bloomberg) -- Apple Inc. is planning a new AirPods feature that allows the earbuds to live-translate an in-person conversation into another language, according to people with knowledge of the matter.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/14/apple-plans-airpods-feature-that-can-live-translate-conversations/</guid>
+          <link>https://majordigest.com/tech/2025/03/14/apple-plans-airpods-feature-that-can-live-translate-conversations/</link>
+          <pubDate>Fri, 14 Mar 2025 13:22:30 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/13/the-future-of-ai-isnt-the-model-its-the-system.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/13/the-future-of-ai-isnt-the-model-its-the-system.webp"/>
-          <dc:creator>Mark Sullivan, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/14/apple-plans-airpods-feature-that-can-live-translate-conversations.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/14/apple-plans-airpods-feature-that-can-live-translate-conversations.webp"/>
+          <dc:creator>Bloomberg, The Mercury News</dc:creator>
         </item>
         <item>
-          <title>Google signals support for app store age verification law with changes</title>
-          <description><![CDATA[Google is pushing back against other major technology companies' efforts to put the responsibility of age verification on the app stores, arguing the onus is on both the stores and developers to boost children's safety.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/13/google-app-store-age-verification/</guid>
-          <link>https://majordigest.com/tech/2025/03/13/google-app-store-age-verification/</link>
-          <pubDate>Thu, 13 Mar 2025 21:07:03 GMT</pubDate>
+          <title>A blueprint for effective cloud recovery</title>
+          <description><![CDATA[As businesses increasingly rely on multi-cloud environments, building cloud resilience becomes critical. In this article, we will explore the key components of cloud resilience and its importance in recovering from outages such as ransomware attacks.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/14/a-blueprint-for-effective-cloud-recovery/</guid>
+          <link>https://majordigest.com/tech/2025/03/14/a-blueprint-for-effective-cloud-recovery/</link>
+          <pubDate>Fri, 14 Mar 2025 11:49:40 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/13/google-app-store-age-verification.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/13/google-app-store-age-verification.webp"/>
-          <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/14/a-blueprint-for-effective-cloud-recovery.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/14/a-blueprint-for-effective-cloud-recovery.webp"/>
+          <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>Dangerous Chrome extensions mimic password managers</title>
-          <description><![CDATA[Kurt the CyberGuy explains how to protect yourself from malicious Chrome extensions that can steal sensitive information like password managers, crypto wallets and banking apps.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/13/dangerous-chrome-extensions-mimic-password-managers/</guid>
-          <link>https://majordigest.com/tech/2025/03/13/dangerous-chrome-extensions-mimic-password-managers/</link>
-          <pubDate>Thu, 13 Mar 2025 14:00:43 GMT</pubDate>
+          <title>What is Llama? Meta AI&#8217;s family of large language models explained</title>
+          <description><![CDATA[Llama, a family of sort-of open-source large language models (LLMs), was introduced in February 2023, and has been updated periodically ever since. Llama shook up the world of LLMs, which had previously been dominated by ever-larger closed-source models from OpenAI and Google.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/14/what-is-llama-meta-ais-family-of-large-language-models-explained/</guid>
+          <link>https://majordigest.com/tech/2025/03/14/what-is-llama-meta-ais-family-of-large-language-models-explained/</link>
+          <pubDate>Fri, 14 Mar 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/13/dangerous-chrome-extensions-mimic-password-managers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/13/dangerous-chrome-extensions-mimic-password-managers.webp"/>
-          <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>Majority of Americans have used AI models like ChatGPT: Survey</title>
-          <description><![CDATA[A majority of Americans have used ChatGPT-like artificial intelligence (AI) models according to a new survey.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/13/majority-of-americans-have-used-ai-models-like-chatgpt-survey/</guid>
-          <link>https://majordigest.com/tech/2025/03/13/majority-of-americans-have-used-ai-models-like-chatgpt-survey/</link>
-          <pubDate>Thu, 13 Mar 2025 02:17:57 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/13/majority-of-americans-have-used-ai-models-like-chatgpt-survey.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/13/majority-of-americans-have-used-ai-models-like-chatgpt-survey.webp"/>
-          <dc:creator>Tara Suter, The Hill</dc:creator>
-        </item>
-        <item>
-          <title>How to deliver more secure capabilities to the warfighter, faster</title>
-          <description><![CDATA[Rethinking the delivery process for new capabilities is essential to put cybersecurity and the warfighter front and center.
-The post How to deliver more secure capabilities to the warfighter, faster first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/11/how-to-deliver-more-secure-capabilities-to-the-warfighter-faster/</guid>
-          <link>https://majordigest.com/tech/2025/03/11/how-to-deliver-more-secure-capabilities-to-the-warfighter-faster/</link>
-          <pubDate>Tue, 11 Mar 2025 16:54:41 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/11/how-to-deliver-more-secure-capabilities-to-the-warfighter-faster.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/11/how-to-deliver-more-secure-capabilities-to-the-warfighter-faster.webp"/>
-          <dc:creator>Daisy Thornton, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Trump says TikTok deal is in the works. Here's where things stand with the company</title>
-          <description><![CDATA[In less than a month, TikTok could have one or a few new owners, be banned again, or simply receive another reprieve to continue operating in the United States.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/11/trump-says-tiktok-deal-is-in-the-works-heres-where-things-stand-with-the-company/</guid>
-          <link>https://majordigest.com/tech/2025/03/11/trump-says-tiktok-deal-is-in-the-works-heres-where-things-stand-with-the-company/</link>
-          <pubDate>Tue, 11 Mar 2025 16:18:49 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/11/trump-says-tiktok-deal-is-in-the-works-heres-where-things-stand-with-the-company.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/11/trump-says-tiktok-deal-is-in-the-works-heres-where-things-stand-with-the-company.webp"/>
-          <dc:creator>HALELUYA HADERO, Associated Press, KLAS, CBS News</dc:creator>
-        </item>
-        <item>
-          <title>Go-based TypeScript to dramatically improve speed, scalability</title>
-          <description><![CDATA[Microsoft is developing a native TypeScript implementation based on Google’s Go language. The initiative promises dramatic improvements in editor startup speed, build times, and memory usage, making it easier to scale TypeScript to large code bases, Microsoft said.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/11/go-based-typescript-to-dramatically-improve-speed-scalability/</guid>
-          <link>https://majordigest.com/tech/2025/03/11/go-based-typescript-to-dramatically-improve-speed-scalability/</link>
-          <pubDate>Tue, 11 Mar 2025 15:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/11/go-based-typescript-to-dramatically-improve-speed-scalability.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/11/go-based-typescript-to-dramatically-improve-speed-scalability.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/14/what-is-llama-meta-ais-family-of-large-language-models-explained.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/14/what-is-llama-meta-ais-family-of-large-language-models-explained.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Elon Musk claims X being targeted in 'massive cyberattack' as service goes down</title>
-          <description><![CDATA[Hours after a series of outages Monday that left X unavailable to thousands of users, Elon Musk claimed that the social media platform was being targeted in a “massive cyberattack.” “We get attacked every day, but this was done with a lot of resources," Musk claimed in a post.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/10/elon-musk-claims-x-being-targeted-in-massive-cyberattack-as-service-goes-down/</guid>
-          <link>https://majordigest.com/tech/2025/03/10/elon-musk-claims-x-being-targeted-in-massive-cyberattack-as-service-goes-down/</link>
-          <pubDate>Mon, 10 Mar 2025 23:38:35 GMT</pubDate>
+          <title>Greece says ambitious Mediterranean power cable project is on track despite setbacks</title>
+          <description><![CDATA[ATHENS, Greece (AP) — The future of an ambitious electricity cable linking the power grids of Greece, Cyprus and Israel by the end of the decade is on track despite a series of setbacks, Greece’s Foreign Minister Giorgos Gerapetritis said Thursday.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/13/greece-says-ambitious-mediterranean-power-cable-project-is-on-track-despite-setbacks/</guid>
+          <link>https://majordigest.com/tech/2025/03/13/greece-says-ambitious-mediterranean-power-cable-project-is-on-track-despite-setbacks/</link>
+          <pubDate>Thu, 13 Mar 2025 17:41:30 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/10/elon-musk-claims-x-being-targeted-in-massive-cyberattack-as-service-goes-down.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/10/elon-musk-claims-x-being-targeted-in-massive-cyberattack-as-service-goes-down.webp"/>
-          <dc:creator>MICHELLE CHAPMAN and BARBARA ORTUTAY, Associated Press, Fox 5</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/13/greece-says-ambitious-mediterranean-power-cable-project-is-on-track-despite-setbacks.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/13/greece-says-ambitious-mediterranean-power-cable-project-is-on-track-despite-setbacks.webp"/>
+          <dc:creator>Associated Press, PIX 11</dc:creator>
         </item>
         <item>
-          <title>How the Futures Command is helping Army to envision NGC2</title>
-          <description><![CDATA[Joe Welch, the deputy to the commanding general of the Army Futures Command, said the characteristics of need helps define the problem set for industry.
-The post How the Futures Command is helping Army to envision NGC2 first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/10/how-the-futures-command-is-helping-army-to-envision-ngc2/</guid>
-          <link>https://majordigest.com/tech/2025/03/10/how-the-futures-command-is-helping-army-to-envision-ngc2/</link>
-          <pubDate>Mon, 10 Mar 2025 22:11:51 GMT</pubDate>
+          <title>Forget Apple Intelligence, for the enterprise there&#8217;s webAI</title>
+          <description><![CDATA[Shrouded behind the mists of Apple Intelligence, one of the more thought-provoking implementations of artificial intelligence for real-world business use doesn’t come from Apple; it comes from webAI.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/13/forget-apple-intelligence-for-the-enterprise-theres-webai/</guid>
+          <link>https://majordigest.com/tech/2025/03/13/forget-apple-intelligence-for-the-enterprise-theres-webai/</link>
+          <pubDate>Thu, 13 Mar 2025 16:56:11 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/10/how-the-futures-command-is-helping-army-to-envision-ngc2.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/10/how-the-futures-command-is-helping-army-to-envision-ngc2.webp"/>
-          <dc:creator>Jason Miller, Federal News Network</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/13/forget-apple-intelligence-for-the-enterprise-theres-webai.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/13/forget-apple-intelligence-for-the-enterprise-theres-webai.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Meta to begin testing crowd-sourced fact-checking next week</title>
+          <description><![CDATA[Facebook and Instagram parent company Meta Platforms Inc. said Thursday it will begin testing its crowd-sourced fact-checking program, Community Notes, on March 18. It will initially based on a ratings system used by Elon Musk's X. Meta ended its fact-checking program in January.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/13/meta-crowd-sourced-fact-checking/</guid>
+          <link>https://majordigest.com/tech/2025/03/13/meta-crowd-sourced-fact-checking/</link>
+          <pubDate>Thu, 13 Mar 2025 12:20:07 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/13/meta-crowd-sourced-fact-checking.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/13/meta-crowd-sourced-fact-checking.webp"/>
+          <dc:creator>BARBARA ORTUTAY, Associated Press, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>I&#8217;m a tech pro and these are my secrets to better flights and luxury travel</title>
+          <description><![CDATA[Here are some travel hacks to save money on your next vacation including setting up price alerts, remaining flexible and checking for 24-hour price drops.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/12/im-tech-pro-my-secrets-better-flights-luxury-travel/</guid>
+          <link>https://majordigest.com/tech/2025/03/12/im-tech-pro-my-secrets-better-flights-luxury-travel/</link>
+          <pubDate>Wed, 12 Mar 2025 22:36:22 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/12/im-tech-pro-my-secrets-better-flights-luxury-travel.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/12/im-tech-pro-my-secrets-better-flights-luxury-travel.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>At long last, OpenStack (now known as OpenInfra Foundation) joins Linux Foundation</title>
+          <description><![CDATA[After more than a decade as an independent open-source foundation, the OpenStack project is joining the Linux Foundation in a move aimed at accelerating collaboration across the open infrastructure ecosystem.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/12/at-long-last-openstack-now-known-as-openinfra-foundation-joins-linux-foundation/</guid>
+          <link>https://majordigest.com/tech/2025/03/12/at-long-last-openstack-now-known-as-openinfra-foundation-joins-linux-foundation/</link>
+          <pubDate>Wed, 12 Mar 2025 20:52:21 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/12/at-long-last-openstack-now-known-as-openinfra-foundation-joins-linux-foundation.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/12/at-long-last-openstack-now-known-as-openinfra-foundation-joins-linux-foundation.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>French publishers and authors sue Meta over copyright works used in AI training</title>
+          <description><![CDATA[French publishers and authors said Wednesday they're taking Meta to court, accusing the social media company of using their works without permission to train its artificial intelligence model.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/12/french-publishers-and-authors-sue-meta-over-copyright-works-used-in-ai-training/</guid>
+          <link>https://majordigest.com/tech/2025/03/12/french-publishers-and-authors-sue-meta-over-copyright-works-used-in-ai-training/</link>
+          <pubDate>Wed, 12 Mar 2025 13:57:46 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/12/french-publishers-and-authors-sue-meta-over-copyright-works-used-in-ai-training.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/12/french-publishers-and-authors-sue-meta-over-copyright-works-used-in-ai-training.webp"/>
+          <dc:creator>KELVIN CHAN, Associated Press, NewsNation</dc:creator>
         </item>
         <item>
           <title>Fortran, Delphi rise in Tiobe popularity index</title>
@@ -197,35 +206,13 @@ The post How the Futures Command is helping Army to envision NGC2 first appeared
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Is that iPhone app spying? Apple&#8217;s App Privacy Report reveals all</title>
-          <description><![CDATA[Tech expert Kurt “CyberGuy&quot; Knutsson urges you to use Apple’s App Privacy Report to see what your apps are really up to.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/10/iphone-app-spying-apples-privacy-report-reveals-all/</guid>
-          <link>https://majordigest.com/tech/2025/03/10/iphone-app-spying-apples-privacy-report-reveals-all/</link>
-          <pubDate>Mon, 10 Mar 2025 14:00:22 GMT</pubDate>
+          <title>Got a bank transfer alert text? It might be a scam; here&#8217;s what to do</title>
+          <description><![CDATA[Kurt the CyberGuy offers tips to safeguard your personal information as scammers become more sophisticated with scam texts and other methods.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/09/got-bank-transfer-alert-text-might-scam-heres-what-do/</guid>
+          <link>https://majordigest.com/tech/2025/03/09/got-bank-transfer-alert-text-might-scam-heres-what-do/</link>
+          <pubDate>Sun, 09 Mar 2025 14:00:28 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/10/iphone-app-spying-apples-privacy-report-reveals-all.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/10/iphone-app-spying-apples-privacy-report-reveals-all.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/09/got-bank-transfer-alert-text-might-scam-heres-what-do.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/09/got-bank-transfer-alert-text-might-scam-heres-what-do.webp"/>
           <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>Transferring data from old laptop to new one</title>
-          <description><![CDATA[Tech expert Kurt “CyberGuy&quot; Knutsson talks about how to smoothly transfer your data from an old laptop to a new one using cloud storage or external drives.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/10/transferring-data-from-old-laptop-new-one/</guid>
-          <link>https://majordigest.com/tech/2025/03/10/transferring-data-from-old-laptop-new-one/</link>
-          <pubDate>Mon, 10 Mar 2025 10:00:04 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/10/transferring-data-from-old-laptop-new-one.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/10/transferring-data-from-old-laptop-new-one.webp"/>
-          <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>How genomics and AI could help treat cancer more effectively</title>
-          <description><![CDATA[“These discoveries highlight how genetic profiling can play a crucial role in personalizing cancer care,” Ruishan Liu said in a news release.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/09/genomics-ai-cancer-treatment/</guid>
-          <link>https://majordigest.com/tech/2025/03/09/genomics-ai-cancer-treatment/</link>
-          <pubDate>Sun, 09 Mar 2025 19:58:43 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/09/genomics-ai-cancer-treatment.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/09/genomics-ai-cancer-treatment.webp"/>
-          <dc:creator>Patrick Djordjevic, NewsNation</dc:creator>
         </item></channel></rss>
