@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/03/27/supreme-court-upholds-biden-ghost-gun-rule-requiring-serial-numbers-background-checks/</loc>
+          <loc>https://majordigest.com/tech/2025/03/26/samsung-just-announced-a-new-version-of-its-popular-ssd-software-and-yes-you-should-absolutely-download-it-if-you-own-a-samsung-ssd/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T02:30:00.000Z</news:publication_date>
-            <news:title>Supreme Court Upholds Biden Regulation on "Ghost Guns"</news:title>
+            <news:publication_date>2025-03-26T23:02:00.000Z</news:publication_date>
+            <news:title>Samsung Magician 8.3.0: Boosting SSD Speed, Security, and Performance</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/27/supreme-court-upholds-biden-ghost-gun-rule-requiring-serial-numbers-background-checks.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/26/samsung-just-announced-a-new-version-of-its-popular-ssd-software-and-yes-you-should-absolutely-download-it-if-you-own-a-samsung-ssd.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/26/sap-adoption-surges-in-europe-as-enterprises-embrace-cloud/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-26T11:32:21.000Z</news:publication_date>
+            <news:title>DACH Region Enterprises Accelerate Cloud ERP Transition with SAP Leading the Charge</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/26/sap-adoption-surges-in-europe-as-enterprises-embrace-cloud.webp</image:loc>
           </image:image>
         </url></urlset>
