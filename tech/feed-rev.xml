@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 27 Mar 2025 02:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 03:15:54 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,24 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Kubernetes Patches Critical Flaws in Ingress NGINX Controller | CSO Online</title>
-          <description><![CDATA[The Kubernetes project has released patches for five vulnerabilities in the Ingress NGINX Controller that could allow attackers to take over entire clusters.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/26/critical-rce-flaws-put-kubernetes-clusters-at-risk-of-takeover/</guid>
-          <link>https://majordigest.com/tech/2025/03/26/critical-rce-flaws-put-kubernetes-clusters-at-risk-of-takeover/</link>
-          <pubDate>Wed, 26 Mar 2025 14:53:29 GMT</pubDate>
+          <title>New Programming Languages on the Block: Go, Rust, and Zig</title>
+          <description><![CDATA[A look at three emerging programming languages in the software development space.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig/</guid>
+          <link>https://majordigest.com/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig/</link>
+          <pubDate>Wed, 26 Mar 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/critical-rce-flaws-put-kubernetes-clusters-at-risk-of-takeover.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/critical-rce-flaws-put-kubernetes-clusters-at-risk-of-takeover.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item>
         <item>
-          <title>Google Maps Updates Bring Route Info and Gemini AI Upgrades</title>
-          <description><![CDATA[Google Maps updates bring route info and Gemini AI upgrades to the mapping app on Android devices.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/26/google-maps-is-getting-two-key-upgrades-for-easier-route-planning-and-quicker-access-to-gemini-ai/</guid>
-          <link>https://majordigest.com/tech/2025/03/26/google-maps-is-getting-two-key-upgrades-for-easier-route-planning-and-quicker-access-to-gemini-ai/</link>
-          <pubDate>Wed, 26 Mar 2025 11:24:24 GMT</pubDate>
+          <title>Styrolite: A New Open-Source Project for Container Security</title>
+          <description><![CDATA[Styrolite, a new open-source project from Edera, aims to bring tighter controls to container interactions and Linux kernel namespaces.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/26/open-source-styrolite-project-aims-to-simplify-container-runtime-security/</guid>
+          <link>https://majordigest.com/tech/2025/03/26/open-source-styrolite-project-aims-to-simplify-container-runtime-security/</link>
+          <pubDate>Wed, 26 Mar 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/google-maps-is-getting-two-key-upgrades-for-easier-route-planning-and-quicker-access-to-gemini-ai.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/google-maps-is-getting-two-key-upgrades-for-easier-route-planning-and-quicker-access-to-gemini-ai.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/open-source-styrolite-project-aims-to-simplify-container-runtime-security.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/open-source-styrolite-project-aims-to-simplify-container-runtime-security.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>

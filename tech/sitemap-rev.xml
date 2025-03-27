@@ -3,30 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/03/26/critical-rce-flaws-put-kubernetes-clusters-at-risk-of-takeover/</loc>
+          <loc>https://majordigest.com/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T14:53:29.000Z</news:publication_date>
-            <news:title>Kubernetes Patches Critical Flaws in Ingress NGINX Controller | CSO Online</news:title>
+            <news:publication_date>2025-03-26T09:00:00.000Z</news:publication_date>
+            <news:title>New Programming Languages on the Block: Go, Rust, and Zig</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/critical-rce-flaws-put-kubernetes-clusters-at-risk-of-takeover.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/26/google-maps-is-getting-two-key-upgrades-for-easier-route-planning-and-quicker-access-to-gemini-ai/</loc>
+          <loc>https://majordigest.com/tech/2025/03/26/open-source-styrolite-project-aims-to-simplify-container-runtime-security/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T11:24:24.000Z</news:publication_date>
-            <news:title>Google Maps Updates Bring Route Info and Gemini AI Upgrades</news:title>
+            <news:publication_date>2025-03-26T09:00:00.000Z</news:publication_date>
+            <news:title>Styrolite: A New Open-Source Project for Container Security</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/google-maps-is-getting-two-key-upgrades-for-easier-route-planning-and-quicker-access-to-gemini-ai.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/26/open-source-styrolite-project-aims-to-simplify-container-runtime-security.webp</image:loc>
           </image:image>
         </url></urlset>
