@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/03/27/cleveland-clinic-and-g42-join-forces-to-drive-ai-powered-healthcare-innovation/</loc>
+          <loc>https://majordigest.com/tech/2025/03/27/chatgpts-viral-studio-ghibli-style-images-highlights-ai-copyright-concerns/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T04:34:37.000Z</news:publication_date>
-            <news:title> Cleveland Clinic and G42 Join Forces to Revolutionize AI-Powered Healthcare</news:title>
+            <news:publication_date>2025-03-27T20:26:39.000Z</news:publication_date>
+            <news:title>Ghibli-Style AI Art Raises Ethical Concerns</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/27/cleveland-clinic-and-g42-join-forces-to-drive-ai-powered-healthcare-innovation.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/chatgpts-viral-studio-ghibli-style-images-highlights-ai-copyright-concerns.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/22/radical-new-tech-brings-flying-cars-closer-reality/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-22T10:00:50.000Z</news:publication_date>
+            <news:title>Flying Cars Get a Step Closer: Meet CycloTech's Revolutionary BlackBird</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/22/radical-new-tech-brings-flying-cars-closer-reality.webp</image:loc>
           </image:image>
         </url></urlset>
