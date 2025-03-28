@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 28 Mar 2025 04:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 05:13:26 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>US Bank Researchers Create Protocol for Certified Truly Random Numbers</title>
-          <description><![CDATA[A team of researchers at a US bank has created a protocol that can generate certified truly random numbers, opening up possibilities for secure applications in finance and technology.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/28/researchers-claim-their-protocol-can-create-truly-random-numbers-on-a-current-quantum-computer/</guid>
-          <link>https://majordigest.com/tech/2025/03/28/researchers-claim-their-protocol-can-create-truly-random-numbers-on-a-current-quantum-computer/</link>
-          <pubDate>Fri, 28 Mar 2025 01:51:40 GMT</pubDate>
+          <title>Signal Defends Security Amid Controversy Over Officials' Group Chat</title>
+          <description><![CDATA[Signal President Meredith Whittaker defends the security of the encrypted messaging app after a bombshell report reveals top Trump administration officials used it to discuss airstrike plans.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/26/signal-defends-app-security-amid-group-chat-controversy/</guid>
+          <link>https://majordigest.com/tech/2025/03/26/signal-defends-app-security-amid-group-chat-controversy/</link>
+          <pubDate>Wed, 26 Mar 2025 18:15:57 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/researchers-claim-their-protocol-can-create-truly-random-numbers-on-a-current-quantum-computer.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/researchers-claim-their-protocol-can-create-truly-random-numbers-on-a-current-quantum-computer.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/signal-defends-app-security-amid-group-chat-controversy.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/signal-defends-app-security-amid-group-chat-controversy.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>GraalVM for JDK 24: A New Era in Java Development</title>
+          <description><![CDATA[Oracle releases GraalVM for JDK 24, an alternative Java Development Kit that uses machine learning-based profile inference to boost peak performance by about 7.9% on average on microservices benchmarks.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/25/oracle-releases-ml-optimized-graalvm-for-jdk-24/</guid>
+          <link>https://majordigest.com/tech/2025/03/25/oracle-releases-ml-optimized-graalvm-for-jdk-24/</link>
+          <pubDate>Tue, 25 Mar 2025 23:47:07 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/25/oracle-releases-ml-optimized-graalvm-for-jdk-24.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/25/oracle-releases-ml-optimized-graalvm-for-jdk-24.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
