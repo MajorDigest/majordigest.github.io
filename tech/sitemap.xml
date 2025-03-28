@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2025/03/28/g2-names-ine-2025-cybersecurity-training-leader/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T04:02:39.000Z</news:publication_date>
+            <news:title>INE Receives 12 Badges in G2's Spring 2025 Report, Solidifying its Leadership in Cybersecurity Training and Education</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/g2-names-ine-2025-cybersecurity-training-leader.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/03/28/researchers-claim-their-protocol-can-create-truly-random-numbers-on-a-current-quantum-computer/</loc>
           <news:news>
             <news:publication>
@@ -17,87 +31,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/28/meet-the-doge-team/</loc>
+          <loc>https://majordigest.com/tech/2025/03/27/what-is-classified-information-what-are-secure-communications-heres-a-primer/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-28T00:44:45.000Z</news:publication_date>
-            <news:title>Meet the DOGE team</news:title>
+            <news:publication_date>2025-03-27T23:08:26.000Z</news:publication_date>
+            <news:title>What is 'classified' information? What are 'secure' communications? Here's a primer</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/28/meet-the-doge-team.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/what-is-classified-information-what-are-secure-communications-heres-a-primer.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/27/chatgpts-viral-studio-ghibli-style-images-highlights-ai-copyright-concerns/</loc>
+          <loc>https://majordigest.com/tech/2025/03/27/for-gen-z-viral-videos-are-the-new-primetime/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T22:45:46.000Z</news:publication_date>
-            <news:title>ChatGPT's viral Studio Ghibli-style images highlight AI copyright concerns</news:title>
+            <news:publication_date>2025-03-27T18:00:00.000Z</news:publication_date>
+            <news:title>For Gen Z, viral videos are the new primetime</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/27/chatgpts-viral-studio-ghibli-style-images-highlights-ai-copyright-concerns.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/27/whats-email-mask-why-tech-experts-say-you-should-be-using-one/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-27T20:44:51.000Z</news:publication_date>
-            <news:title>What&#8217;s an email mask? Here&#8217;s why tech experts say you should be using one</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/27/whats-email-mask-why-tech-experts-say-you-should-be-using-one.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/27/as-big-tech-circles-uk-government-struggles-to-reap-promised-ai-benefits/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-27T20:27:50.000Z</news:publication_date>
-            <news:title>As big tech circles, UK government struggles to reap promised AI benefits</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/27/as-big-tech-circles-uk-government-struggles-to-reap-promised-ai-benefits.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/27/los-angeles-sheriffs-department-to-retest-4000-dna-samples-after-using-faulty-kits-for-8-months/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-27T18:10:50.000Z</news:publication_date>
-            <news:title>Los Angeles sheriff's department to retest 4,000 DNA samples after using faulty kits for 8 months</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/27/los-angeles-sheriffs-department-to-retest-4000-dna-samples-after-using-faulty-kits-for-8-months.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/27/the-apple-watch-faces-a-wearables-wake-up-call/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-27T17:12:00.000Z</news:publication_date>
-            <news:title>The Apple Watch faces a wearables wake-up call</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/27/the-apple-watch-faces-a-wearables-wake-up-call.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/for-gen-z-viral-videos-are-the-new-primetime.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -107,39 +65,11 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T16:15:47.000Z</news:publication_date>
+            <news:publication_date>2025-03-27T16:15:46.000Z</news:publication_date>
             <news:title>Figure skating embraces the future with new technology, modern concepts to engage athletes and fans</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/03/27/figure-skating-embraces-the-future-with-new-technology-modern-concepts-to-engage-athletes-and-fans.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/27/intergalactic-the-heretic-prophet-reportedly-wont-release-until-after-2026-as-neil-druckmann-says-that-staff-are-playing-it-at-the-office-right-now-but-i-dont-think-i-can-wait-that-long/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-27T12:38:58.000Z</news:publication_date>
-            <news:title>Intergalactic: The Heretic Prophet reportedly won't release until after 2026, as Neil Druckmann says that staff 'are playing it at the office' right now - but I don't think I can wait that long</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/27/intergalactic-the-heretic-prophet-reportedly-wont-release-until-after-2026-as-neil-druckmann-says-that-staff-are-playing-it-at-the-office-right-now-but-i-dont-think-i-can-wait-that-long.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/27/nvidia-gtc-2025-what-to-expect-from-the-ai-leader/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-27T12:02:14.000Z</news:publication_date>
-            <news:title>Nvidia GTC 2025: News and insights</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/27/nvidia-gtc-2025-what-to-expect-from-the-ai-leader.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -157,17 +87,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/27/how-ramalama-helps-make-ai-model-testing-safer/</loc>
+          <loc>https://majordigest.com/tech/2025/03/27/google-cloud-partners-with-mlogica-to-offer-mainframe-modernization/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T09:00:00.000Z</news:publication_date>
-            <news:title>How RamaLama helps make AI model testing safer</news:title>
+            <news:publication_date>2025-03-27T09:03:52.000Z</news:publication_date>
+            <news:title>Google Cloud partners with mLogica to offer mainframe modernization</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/27/how-ramalama-helps-make-ai-model-testing-safer.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/google-cloud-partners-with-mlogica-to-offer-mainframe-modernization.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/27/us-robotics-companies-push-for-national-strategy-including-a-central-office-to-compete-with-china/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-27T00:33:32.000Z</news:publication_date>
+            <news:title>US robotics companies push for national strategy, including a central office, to compete with China</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/us-robotics-companies-push-for-national-strategy-including-a-central-office-to-compete-with-china.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -185,73 +129,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/26/teams-successful-on-52-2-of-ball-strike-challenges-during-spring-training-robot-umpire-test/</loc>
+          <loc>https://majordigest.com/tech/2025/03/26/signalgate-theres-an-it-lesson-here/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T22:25:13.000Z</news:publication_date>
-            <news:title>Teams successful on 52.2% of ball/strike challenges during spring training robot umpire test</news:title>
+            <news:publication_date>2025-03-26T16:34:20.000Z</news:publication_date>
+            <news:title>Signalgate: There&#8217;s an IT lesson here</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/teams-successful-on-52-2-of-ball-strike-challenges-during-spring-training-robot-umpire-test.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/26/signalgate-theres-an-it-lesson-here.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/26/u-s-blacklists-these-chinese-tech-firms-latest-update-export-control-list/</loc>
+          <loc>https://majordigest.com/tech/2025/03/26/cyprus-to-fund-desalination-plants-at-hotels-to-reduce-impact-of-water-shortages-on-tourism/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T21:24:34.000Z</news:publication_date>
-            <news:title>U.S. blacklists these Chinese tech firms in latest update to export control list</news:title>
+            <news:publication_date>2025-03-26T15:21:26.000Z</news:publication_date>
+            <news:title>Cyprus to fund desalination plants at hotels to reduce impact of water shortages on tourism</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/u-s-blacklists-these-chinese-tech-firms-latest-update-export-control-list.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/26/the-living-globe-that-can-help-drones-fly-without-gps/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-26T21:01:00.000Z</news:publication_date>
-            <news:title>The &#8216;living globe&#8217; that can help drones fly without GPS</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/the-living-globe-that-can-help-drones-fly-without-gps.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/26/signal-defends-app-security-amid-group-chat-controversy/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-26T18:15:57.000Z</news:publication_date>
-            <news:title>Signal Defends Security Amid Controversy Over Officials' Group Chat</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/signal-defends-app-security-amid-group-chat-controversy.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/26/gamestop-adopts-policy-to-buy-bitcoin-joining-other-firms/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-26T16:12:41.000Z</news:publication_date>
-            <news:title>GameStop adopts policy to buy Bitcoin, joining other firms</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/gamestop-adopts-policy-to-buy-bitcoin-joining-other-firms.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/26/cyprus-to-fund-desalination-plants-at-hotels-to-reduce-impact-of-water-shortages-on-tourism.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -269,72 +171,72 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig/</loc>
+          <loc>https://majordigest.com/tech/2025/03/25/senate-confirms-michael-kratsios-white-house-science-tech-office/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T09:00:00.000Z</news:publication_date>
-            <news:title>What you need to know about Go, Rust, and Zig</news:title>
+            <news:publication_date>2025-03-25T23:12:07.000Z</news:publication_date>
+            <news:title>Senate confirms Michael Kratsios to lead White House science, tech office</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/25/senate-confirms-michael-kratsios-white-house-science-tech-office.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/26/researchers-in-limbo-as-columbia-bows-to-trumps-demands-in-bid-to-restore-400m-federal-funding-cut/</loc>
+          <loc>https://majordigest.com/tech/2025/03/25/the-nations-statisticians-worry-about-the-state-of-federal-data-gathering/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T04:12:46.000Z</news:publication_date>
-            <news:title>Researchers in limbo as Columbia bows to Trump&#8217;s demands in bid to restore $400M federal funding</news:title>
+            <news:publication_date>2025-03-25T16:04:03.000Z</news:publication_date>
+            <news:title>The nation&#8217;s statisticians worry about the state of federal data gathering</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/researchers-in-limbo-as-columbia-bows-to-trumps-demands-in-bid-to-restore-400m-federal-funding-cut.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/25/the-nations-statisticians-worry-about-the-state-of-federal-data-gathering.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/25/oracle-releases-ml-optimized-graalvm-for-jdk-24/</loc>
+          <loc>https://majordigest.com/tech/2025/03/24/nvidia-latest-news-and-insights/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-25T23:47:07.000Z</news:publication_date>
-            <news:title>GraalVM for JDK 24: A New Era in Java Development</news:title>
+            <news:publication_date>2025-03-24T05:57:31.000Z</news:publication_date>
+            <news:title>Nvidia: Latest news and insights</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/25/oracle-releases-ml-optimized-graalvm-for-jdk-24.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/24/nvidia-latest-news-and-insights.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/25/warning-for-developers-web-admins-update-next-js-to-prevent-exploit/</loc>
+          <loc>https://majordigest.com/tech/2025/03/23/protecting-your-daughter-from-deepfakes-online-abuse/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-25T19:52:31.000Z</news:publication_date>
-            <news:title>Warning for developers, web admins: update Next.js to prevent exploit</news:title>
+            <news:publication_date>2025-03-23T14:00:48.000Z</news:publication_date>
+            <news:title>Protecting your daughter from deepfakes and online abuse</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/25/warning-for-developers-web-admins-update-next-js-to-prevent-exploit.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/23/protecting-your-daughter-from-deepfakes-online-abuse.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/25/2025-global-network-outage-report-and-internet-health-check/</loc>
+          <loc>https://majordigest.com/tech/2025/03/22/ai-newsletter-nvidia-joins-trump-push/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-25T18:47:25.000Z</news:publication_date>
-            <news:title>2025 global network outage report and internet health check</news:title>
+            <news:publication_date>2025-03-22T12:30:46.000Z</news:publication_date>
+            <news:title>Fox News AI Newsletter: Nvidia joins Trump onshoring push</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/25/2025-global-network-outage-report-and-internet-health-check.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/22/ai-newsletter-nvidia-joins-trump-push.webp</image:loc>
           </image:image>
         </url></urlset>
