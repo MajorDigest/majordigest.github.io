@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/03/28/convicted-founder-of-electric-vehicle-startup-nikola-pardoned-by-trump/</loc>
+          <loc>https://majordigest.com/tech/2025/03/28/openai-google-ai-data-centers-are-under-stress-after-new-genai-model-launches/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-28T15:42:16.000Z</news:publication_date>
-            <news:title>Trevor Milton Pardoned by President Trump After Securities Fraud Conviction</news:title>
+            <news:publication_date>2025-03-28T16:20:40.000Z</news:publication_date>
+            <news:title>Google and OpenAI Struggle with Surging Demand for Generative AI</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/28/convicted-founder-of-electric-vehicle-startup-nikola-pardoned-by-trump.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/openai-google-ai-data-centers-are-under-stress-after-new-genai-model-launches.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/27/microsoft-abandons-data-center-projects-as-openai-considers-its-own-hinting-at-a-market-shift/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-27T01:36:48.000Z</news:publication_date>
+            <news:title>Data Center Backlash: OpenAI Contemplates Building Own Data Center Amid Microsoft's Pullback</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/microsoft-abandons-data-center-projects-as-openai-considers-its-own-hinting-at-a-market-shift.webp</image:loc>
           </image:image>
         </url></urlset>

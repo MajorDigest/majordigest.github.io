@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 28 Mar 2025 21:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 22:29:26 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Trevor Milton Pardoned by President Trump After Securities Fraud Conviction</title>
-          <description><![CDATA[Trevor Milton, founder of electric vehicle start-up Nikola, was pardoned by President Donald Trump after being convicted of securities fraud.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/28/convicted-founder-of-electric-vehicle-startup-nikola-pardoned-by-trump/</guid>
-          <link>https://majordigest.com/tech/2025/03/28/convicted-founder-of-electric-vehicle-startup-nikola-pardoned-by-trump/</link>
-          <pubDate>Fri, 28 Mar 2025 15:42:16 GMT</pubDate>
+          <title>Google and OpenAI Struggle with Surging Demand for Generative AI</title>
+          <description><![CDATA[Generative AI models from Google and OpenAI put data centers under stress, prompting rate limits to prevent system overload.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/28/openai-google-ai-data-centers-are-under-stress-after-new-genai-model-launches/</guid>
+          <link>https://majordigest.com/tech/2025/03/28/openai-google-ai-data-centers-are-under-stress-after-new-genai-model-launches/</link>
+          <pubDate>Fri, 28 Mar 2025 16:20:40 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/convicted-founder-of-electric-vehicle-startup-nikola-pardoned-by-trump.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/convicted-founder-of-electric-vehicle-startup-nikola-pardoned-by-trump.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/openai-google-ai-data-centers-are-under-stress-after-new-genai-model-launches.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/openai-google-ai-data-centers-are-under-stress-after-new-genai-model-launches.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Data Center Backlash: OpenAI Contemplates Building Own Data Center Amid Microsoft's Pullback</title>
+          <description><![CDATA[OpenAI reportedly considers building its own data center, while Microsoft pulls back on infrastructure investments, raising concerns about market repositioning and potential oversupply of compute clusters.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/27/microsoft-abandons-data-center-projects-as-openai-considers-its-own-hinting-at-a-market-shift/</guid>
+          <link>https://majordigest.com/tech/2025/03/27/microsoft-abandons-data-center-projects-as-openai-considers-its-own-hinting-at-a-market-shift/</link>
+          <pubDate>Thu, 27 Mar 2025 01:36:48 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/27/microsoft-abandons-data-center-projects-as-openai-considers-its-own-hinting-at-a-market-shift.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/27/microsoft-abandons-data-center-projects-as-openai-considers-its-own-hinting-at-a-market-shift.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
