@@ -3,17 +3,31 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/03/28/nvidia-chip-shortage-coming-warns-major-chinese-server-maker/</loc>
+          <loc>https://majordigest.com/tech/2025/03/28/chatgpt-may-be-making-us-lonelier/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-28T21:50:29.000Z</news:publication_date>
-            <news:title>A Nvidia chip shortage is coming, warns major Chinese server maker</news:title>
+            <news:publication_date>2025-03-28T17:00:00.000Z</news:publication_date>
+            <news:title>ChatGPT may be making us lonelier</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/28/nvidia-chip-shortage-coming-warns-major-chinese-server-maker.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/chatgpt-may-be-making-us-lonelier.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/28/hang-on-handheld-fans-we-could-be-seeing-amds-fsr-4-upscaling-on-new-handhelds-after-all-if-this-new-rdna-4-leak-is-legitimate/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T16:13:33.000Z</news:publication_date>
+            <news:title>Hang on handheld fans, we could be seeing AMD's FSR 4 upscaling on new handhelds after all - if this new RDNA 4 leak is legitimate</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/hang-on-handheld-fans-we-could-be-seeing-amds-fsr-4-upscaling-on-new-handhelds-after-all-if-this-new-rdna-4-leak-is-legitimate.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -31,17 +45,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/28/xiaomis-google-tv-streamer-rival-gets-a-new-processor-and-a-much-needed-storage-leap/</loc>
+          <loc>https://majordigest.com/tech/2025/03/28/marvel-sleuths-think-theyve-solved-the-case-about-avengers-doomsdays-story-and-its-all-down-to-a-single-chairs-shadow/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-28T15:52:44.000Z</news:publication_date>
-            <news:title>Xiaomi's Google TV Streamer rival gets a new processor and a much-needed storage leap</news:title>
+            <news:publication_date>2025-03-28T15:35:25.000Z</news:publication_date>
+            <news:title>Marvel sleuths think they've solved the case about Avengers: Doomsday's story, and it's all down to a single chair's shadow</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/28/xiaomis-google-tv-streamer-rival-gets-a-new-processor-and-a-much-needed-storage-leap.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/marvel-sleuths-think-theyve-solved-the-case-about-avengers-doomsdays-story-and-its-all-down-to-a-single-chairs-shadow.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -59,20 +73,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/28/tiny-drugmaker-soars-on-fda-win-to-treat-never-ending-hunger/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-28T14:34:15.000Z</news:publication_date>
-            <news:title>Tiny Silicon Valley drugmaker soars on FDA win to treat never-ending hunger</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/28/tiny-drugmaker-soars-on-fda-win-to-treat-never-ending-hunger.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/03/28/chatgpts-viral-studio-ghibli-style-images-highlights-ai-copyright-concerns/</loc>
           <news:news>
             <news:publication>
@@ -84,6 +84,62 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/03/28/chatgpts-viral-studio-ghibli-style-images-highlights-ai-copyright-concerns.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/28/these-5-new-ai-tools-can-help-you-do-everything-from-managing-tasks-to-improving-your-public-speaking/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T11:19:00.000Z</news:publication_date>
+            <news:title>These 5 new AI tools can help you do everything from managing tasks to improving your public speaking</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/these-5-new-ai-tools-can-help-you-do-everything-from-managing-tasks-to-improving-your-public-speaking.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/28/solar-grids-could-be-hijacked-and-even-potentially-disabled-by-these-security-flaws/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T10:50:26.000Z</news:publication_date>
+            <news:title>Solar grids could be hijacked and even potentially disabled by these security flaws</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/solar-grids-could-be-hijacked-and-even-potentially-disabled-by-these-security-flaws.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/28/la-diputacion-de-girona-optimiza-el-uso-de-sus-recursos-mediante-la-automatizacion/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T10:30:07.000Z</news:publication_date>
+            <news:title>La Diputaci&#243;n de Girona optimiza el uso de sus recursos mediante la automatizaci&#243;n</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/la-diputacion-de-girona-optimiza-el-uso-de-sus-recursos-mediante-la-automatizacion.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/28/windows-11s-latest-patch-declares-war-on-bios-updates-for-some-lenovo-laptops-blocking-them-as-a-security-risk-in-a-bizarre-turn-of-events/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T10:27:00.000Z</news:publication_date>
+            <news:title>Windows 11&#8217;s latest patch declares war on BIOS updates for some Lenovo laptops, blocking them as a security risk in a bizarre turn of events</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/windows-11s-latest-patch-declares-war-on-bios-updates-for-some-lenovo-laptops-blocking-them-as-a-security-risk-in-a-bizarre-turn-of-events.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,45 +157,199 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/28/gboard-android-typing/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-28T09:45:00.000Z</news:publication_date>
-            <news:title>6 advanced Gboard tricks for smarter Android typing</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/28/gboard-android-typing.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/28/everything-leaving-netflix-in-april-2025/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-28T09:11:36.000Z</news:publication_date>
-            <news:title>Everything leaving Netflix in April 2025 &#8211; from the scariest movie ever made to a beloved DreamWorks animation with 99% on Rotten Tomatoes</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/28/everything-leaving-netflix-in-april-2025.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/03/28/an-ai-based-drone-that-speeds-up-the-detection-and-monitoring-of-wildfires-is-presented-in-germany/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-28T07:29:44.000Z</news:publication_date>
-            <news:title>An AI-based drone that speeds up the detection and monitoring of wildfires is presented in Germany</news:title>
+            <news:publication_date>2025-03-28T09:14:09.000Z</news:publication_date>
+            <news:title>AI-Powered Drone Aims to Speed Up Wildfire Detection and Response</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/03/28/an-ai-based-drone-that-speeds-up-the-detection-and-monitoring-of-wildfires-is-presented-in-germany.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/28/project-management-how-to-design-a-successful-raci-project-plan/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T09:00:00.000Z</news:publication_date>
+            <news:title>The RACI matrix: Your blueprint for project success</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/project-management-how-to-design-a-successful-raci-project-plan.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/28/nueve-tendencias-de-crm-para-2025-la-ia-redefine-la-ecuacion-del-cliente/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T08:17:43.000Z</news:publication_date>
+            <news:title>Nueve tendencias de CRM para 2025: la IA redefine la ecuaci&#243;n del cliente</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/nueve-tendencias-de-crm-para-2025-la-ia-redefine-la-ecuacion-del-cliente.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/28/i-wince-at-the-prospect-of-the-rumored-leica-m11-v-heres-why/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T08:00:00.000Z</news:publication_date>
+            <news:title>I wince at the prospect of the rumored Leica M11-V &#8211; here's why</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/i-wince-at-the-prospect-of-the-rumored-leica-m11-v-heres-why.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/28/g2-names-ine-2025-cybersecurity-training-leader/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T04:02:39.000Z</news:publication_date>
+            <news:title>G2 Names INE 2025 Cybersecurity Training Leader</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/g2-names-ine-2025-cybersecurity-training-leader.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/28/slim-phone-era-is-finally-back/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T02:22:00.000Z</news:publication_date>
+            <news:title>The slim phone era is (finally) back</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/slim-phone-era-is-finally-back.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/27/what-is-classified-information-what-are-secure-communications-heres-a-primer/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-27T23:08:26.000Z</news:publication_date>
+            <news:title>What is 'classified' information? What are 'secure' communications? Here's a primer</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/what-is-classified-information-what-are-secure-communications-heres-a-primer.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/27/cyber-leaders-seek-to-demonstrate-roi-in-face-of-doge-cuts/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-27T19:35:59.000Z</news:publication_date>
+            <news:title>Cyber leaders seek to demonstrate &#8216;ROI&#8217; in face of DOGE cuts</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/cyber-leaders-seek-to-demonstrate-roi-in-face-of-doge-cuts.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/27/19-new-england-sea-turtles-are-back-in-the-atlantic-ocean-off-florida-after-rehabbing-in-missouri/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-27T19:18:47.000Z</news:publication_date>
+            <news:title>Nineteen Rehabilitated Sea Turtles Released into Atlantic Ocean off Florida</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/19-new-england-sea-turtles-are-back-in-the-atlantic-ocean-off-florida-after-rehabbing-in-missouri.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/27/asuss-more-affordable-version-of-nvidias-uber-popular-project-digits-snapped-at-gtc-2025/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-27T18:33:00.000Z</news:publication_date>
+            <news:title>Asus's more affordable version of Nvidia's uber-popular Project Digits snapped at GTC 2025</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/asuss-more-affordable-version-of-nvidias-uber-popular-project-digits-snapped-at-gtc-2025.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/27/los-angeles-sheriffs-department-to-retest-4000-dna-samples-after-using-faulty-kits-for-8-months/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-27T18:10:50.000Z</news:publication_date>
+            <news:title>Los Angeles sheriff's department to retest 4,000 DNA samples after using faulty kits for 8 months</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/los-angeles-sheriffs-department-to-retest-4000-dna-samples-after-using-faulty-kits-for-8-months.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/27/schumer-democrats-call-for-full-unredacted-transcript-of-signal-attack-chat/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-27T18:09:18.000Z</news:publication_date>
+            <news:title>Schumer, Democrats call for full, unredacted transcript of Signal attack chat</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/schumer-democrats-call-for-full-unredacted-transcript-of-signal-attack-chat.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/27/for-gen-z-viral-videos-are-the-new-primetime/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-27T18:00:00.000Z</news:publication_date>
+            <news:title>For Gen Z, viral videos are the new primetime</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/for-gen-z-viral-videos-are-the-new-primetime.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/27/figure-skating-embraces-the-future-with-new-technology-modern-concepts-to-engage-athletes-and-fans/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-27T16:15:47.000Z</news:publication_date>
+            <news:title>Figure skating embraces the future with new technology, modern concepts to engage athletes and fans</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/27/figure-skating-embraces-the-future-with-new-technology-modern-concepts-to-engage-athletes-and-fans.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -157,20 +367,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/26/trump-tariffs-china-tiktok-deal/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-26T22:59:01.000Z</news:publication_date>
-            <news:title>Trump floats reducing tariffs on China to secure TikTok deal</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/trump-tariffs-china-tiktok-deal.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/03/26/teams-successful-on-52-2-of-ball-strike-challenges-during-spring-training-robot-umpire-test/</loc>
           <news:news>
             <news:publication>
@@ -185,45 +381,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/26/microsoft-lauds-hyperlight-wasm-for-webassembly-workloads/</loc>
+          <loc>https://majordigest.com/tech/2025/03/26/canada-bans-tesla-rebates/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T21:40:19.000Z</news:publication_date>
-            <news:title>Microsoft lauds Hyperlight Wasm for WebAssembly workloads</news:title>
+            <news:publication_date>2025-03-26T18:44:57.000Z</news:publication_date>
+            <news:title>Canada bars Tesla from rebate program over Trump tariffs</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/microsoft-lauds-hyperlight-wasm-for-webassembly-workloads.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/26/canada-bans-tesla-rebates.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/26/trump-family-launches-stablecoin/</loc>
+          <loc>https://majordigest.com/tech/2025/03/26/white-house-asks-musk-investigate-signal/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T20:24:27.000Z</news:publication_date>
-            <news:title>Trump family crypto firm launches stablecoin</news:title>
+            <news:publication_date>2025-03-26T18:17:28.000Z</news:publication_date>
+            <news:title>White House taps Musk to investigate Signal chat mishap</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/trump-family-launches-stablecoin.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/26/graham-signal-app-discussion/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-26T16:53:02.000Z</news:publication_date>
-            <news:title>Graham: 'Very sensitive information' included in group chat</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/graham-signal-app-discussion.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/26/white-house-asks-musk-investigate-signal.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -241,128 +423,30 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/26/ethernet-roadmap-ai-drives-high-speed-efficient-ethernet-networks/</loc>
+          <loc>https://majordigest.com/tech/2025/03/25/the-nations-statisticians-worry-about-the-state-of-federal-data-gathering/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T14:37:43.000Z</news:publication_date>
-            <news:title>Ethernet roadmap: AI drives high-speed, efficient Ethernet networks</news:title>
+            <news:publication_date>2025-03-25T16:04:03.000Z</news:publication_date>
+            <news:title>The nation&#8217;s statisticians worry about the state of federal data gathering</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/ethernet-roadmap-ai-drives-high-speed-efficient-ethernet-networks.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/25/the-nations-statisticians-worry-about-the-state-of-federal-data-gathering.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/03/26/microsofts-newest-ai-agents-can-detail-how-they-reason/</loc>
+          <loc>https://majordigest.com/tech/2025/03/22/ai-newsletter-nvidia-joins-trump-push/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T12:12:42.000Z</news:publication_date>
-            <news:title>Microsoft&#8217;s newest AI agents can detail how they reason</news:title>
+            <news:publication_date>2025-03-22T12:30:46.000Z</news:publication_date>
+            <news:title>Fox News AI Newsletter: Nvidia joins Trump onshoring push</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/microsofts-newest-ai-agents-can-detail-how-they-reason.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/26/vibe-coding-with-claude-code/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-26T09:00:00.000Z</news:publication_date>
-            <news:title>Vibe coding is groovy</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/26/vibe-coding-with-claude-code.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/25/napster-sold-to-tech-commerce-company-for-207-million/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-25T18:22:09.000Z</news:publication_date>
-            <news:title>Napster sold to tech commerce company for $207 million</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/25/napster-sold-to-tech-commerce-company-for-207-million.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/25/waymo-plans-to-bring-its-driverless-taxis-to-washington-in-2026/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-25T15:37:03.000Z</news:publication_date>
-            <news:title>Waymo plans to bring its driverless taxis to Washington in 2026</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/25/waymo-plans-to-bring-its-driverless-taxis-to-washington-in-2026.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/25/as-federal-employees-return-to-office-agencies-need-a-reliable-secure-system-to-meet-mandates-and-deliver-efficient-productive-facilities/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-25T15:26:53.000Z</news:publication_date>
-            <news:title>As federal employees return to office, agencies need a reliable, secure system to meet mandates and deliver efficient, productive facilities</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/25/as-federal-employees-return-to-office-agencies-need-a-reliable-secure-system-to-meet-mandates-and-deliver-efficient-productive-facilities.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/24/americas-smallest-ev-truck-prototype-has-arrived/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-24T10:00:19.000Z</news:publication_date>
-            <news:title>America's smallest EV truck prototype has arrived</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/24/americas-smallest-ev-truck-prototype-has-arrived.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/24/learning-ai-governance-lessons-from-saas-and-web2/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-24T09:00:00.000Z</news:publication_date>
-            <news:title>Learning AI governance lessons from SaaS and Web2</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/24/learning-ai-governance-lessons-from-saas-and-web2.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/22/protect-your-files-memories-simple-spring-cleaning-tips/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-22T14:00:12.000Z</news:publication_date>
-            <news:title>Protect your files and memories with simple spring cleaning tips</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/22/protect-your-files-memories-simple-spring-cleaning-tips.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/22/ai-newsletter-nvidia-joins-trump-push.webp</image:loc>
           </image:image>
         </url></urlset>
