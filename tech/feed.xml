@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 29 Mar 2025 12:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Mar 2025 13:23:06 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -41,17 +41,6 @@
           <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>Google introduces Gemini 2.5 reasoning models</title>
-          <description><![CDATA[Google has introduced version 2.5 of its Gemini AI model, which the company said offers a new level of performance by combining an enhanced base model with improved post-training.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/29/google-introduces-gemini-2-5-reasoning-models/</guid>
-          <link>https://majordigest.com/tech/2025/03/29/google-introduces-gemini-2-5-reasoning-models/</link>
-          <pubDate>Sat, 29 Mar 2025 00:15:31 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/29/google-introduces-gemini-2-5-reasoning-models.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/29/google-introduces-gemini-2-5-reasoning-models.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
           <title>Elon Musk sells X to his own xAI for $33 billion in all-stock deal</title>
           <description><![CDATA[Elon Musk has sold social media site X to his own xAI artificial intelligence company in a $33 billion all-stock deal, the billionaire announced on Friday.]]></description>
           <guid>https://majordigest.com/tech/2025/03/28/elon-musk-sells-x-to-his-own-xai-for-33-billion-in-all-stock-deal/</guid>
@@ -63,48 +52,27 @@
           <dc:creator>Barbara Ortutay, Associated Press, KPRC 2</dc:creator>
         </item>
         <item>
-          <title>Musk says xAI buys social media platform X for $45 billion</title>
-          <description><![CDATA[Elon Musk said Friday his artificial intelligence firm xAI has bought his social media platform X. "xAI and X’s futures are intertwined. Today, we officially take the step to combine the data, models, compute, distribution and talent," Musk wrote in a post on X.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/28/musk-xai-x-purchase/</guid>
-          <link>https://majordigest.com/tech/2025/03/28/musk-xai-x-purchase/</link>
-          <pubDate>Fri, 28 Mar 2025 22:22:35 GMT</pubDate>
+          <title>What to know about earthquakes like the one that hit Myanmar</title>
+          <description><![CDATA[A major 7.7 magnitude earthquake that originated near Mandalay, Myanmar shook the Earth as far as Bangkok.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/28/what-to-know-about-earthquakes-like-the-one-that-hit-myanmar/</guid>
+          <link>https://majordigest.com/tech/2025/03/28/what-to-know-about-earthquakes-like-the-one-that-hit-myanmar/</link>
+          <pubDate>Fri, 28 Mar 2025 17:48:24 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/musk-xai-x-purchase.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/musk-xai-x-purchase.webp"/>
-          <dc:creator>Miranda Nazzaro, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/what-to-know-about-earthquakes-like-the-one-that-hit-myanmar.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/what-to-know-about-earthquakes-like-the-one-that-hit-myanmar.webp"/>
+          <dc:creator>Christina Larson, Associated Press, KPRC 2</dc:creator>
         </item>
         <item>
-          <title>Ubuntu namespace vulnerability should be addressed quickly: Expert</title>
-          <description><![CDATA[Linux admins who have enabled the unprivileged user namespace restriction in their recent Ubuntu environments should take action to close three new vulnerabilities that allow a threat actor to bypass the supposed protection.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/28/ubuntu-namespace-vulnerability-should-be-addressed-quickly-expert/</guid>
-          <link>https://majordigest.com/tech/2025/03/28/ubuntu-namespace-vulnerability-should-be-addressed-quickly-expert/</link>
-          <pubDate>Fri, 28 Mar 2025 22:21:03 GMT</pubDate>
+          <title>This may be the most private and secure cloud-based AI solution around</title>
+          <description><![CDATA[What if you could build a business-specific generative AI (genAI) solution that was hosted in the cloud? What if that cloud used the most energy-efficient systems in the world? And what if those services were also all running on the world’s most secure computing platform, the Mac? 
+Wonder no more, b]]></description>
+          <guid>https://majordigest.com/tech/2025/03/28/this-may-be-the-most-private-and-secure-cloud-based-ai-solution-around/</guid>
+          <link>https://majordigest.com/tech/2025/03/28/this-may-be-the-most-private-and-secure-cloud-based-ai-solution-around/</link>
+          <pubDate>Fri, 28 Mar 2025 17:33:03 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/ubuntu-namespace-vulnerability-should-be-addressed-quickly-expert.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/ubuntu-namespace-vulnerability-should-be-addressed-quickly-expert.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>Firefox patches zero-day security flaw days after Chrome fixes the same issue</title>
-          <description><![CDATA[A bug similar to one recently found in Google Chrome was also spotted in Firefox and subsequently fixed.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/28/firefox-patches-zero-day-security-flaw-days-after-chrome-fixes-the-same-issue/</guid>
-          <link>https://majordigest.com/tech/2025/03/28/firefox-patches-zero-day-security-flaw-days-after-chrome-fixes-the-same-issue/</link>
-          <pubDate>Fri, 28 Mar 2025 16:19:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/firefox-patches-zero-day-security-flaw-days-after-chrome-fixes-the-same-issue.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/firefox-patches-zero-day-security-flaw-days-after-chrome-fixes-the-same-issue.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>Apple, Meta face modest fines as EU seeks to avoid US spat</title>
-          <description><![CDATA[Apple Inc. and Meta Platforms Inc. are set to be hit by fines under the European Union's Big Tech competition rulebook toward the end of next week, with the iPhone maker facing the added threat of recurring penalties under the bloc's Digital Markets Act.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/28/apple-meta-face-modest-fines-as-eu-seeks-to-avoid-us-spat/</guid>
-          <link>https://majordigest.com/tech/2025/03/28/apple-meta-face-modest-fines-as-eu-seeks-to-avoid-us-spat/</link>
-          <pubDate>Fri, 28 Mar 2025 16:09:10 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/apple-meta-face-modest-fines-as-eu-seeks-to-avoid-us-spat.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/apple-meta-face-modest-fines-as-eu-seeks-to-avoid-us-spat.webp"/>
-          <dc:creator>Bloomberg, The Mercury News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/this-may-be-the-most-private-and-secure-cloud-based-ai-solution-around.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/this-may-be-the-most-private-and-secure-cloud-based-ai-solution-around.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
           <title>Convicted of bilking investors, Nikola founder and Trump donor gets a presidential pardon</title>
@@ -115,7 +83,98 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/convicted-founder-of-electric-vehicle-startup-nikola-pardoned-by-trump.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/convicted-founder-of-electric-vehicle-startup-nikola-pardoned-by-trump.webp"/>
-          <dc:creator>Associated Press, KPRC 2</dc:creator>
+          <dc:creator>Associated Press, Local 4</dc:creator>
+        </item>
+        <item>
+          <title>ChatGPT's viral Studio Ghibli-style images highlight AI copyright concerns</title>
+          <description><![CDATA[LOS ANGELES (AP) — Fans of Studio Ghibli, the famed Japanese animation studio behind “Spirited Away” and other beloved movies, were delighted this week when a new version of ChatGPT let them transform popular internet memes or personal photos into the distinct style of Ghibli founder Hayao Miyazaki.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/28/chatgpts-viral-studio-ghibli-style-images-highlights-ai-copyright-concerns/</guid>
+          <link>https://majordigest.com/tech/2025/03/28/chatgpts-viral-studio-ghibli-style-images-highlights-ai-copyright-concerns/</link>
+          <pubDate>Fri, 28 Mar 2025 13:50:12 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/chatgpts-viral-studio-ghibli-style-images-highlights-ai-copyright-concerns.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/chatgpts-viral-studio-ghibli-style-images-highlights-ai-copyright-concerns.webp"/>
+          <dc:creator>MATT O'BRIEN and SARAH PARVINI, Associated Press, Fox 5</dc:creator>
+        </item>
+        <item>
+          <title>Black Ops 6 Season 3 release date and time in your timezone</title>
+          <description><![CDATA[Here's what we know about the Black Ops 6 Season two Reloaded release time, including a look at the new skins and maps that are set to be added.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/28/black-ops-6-season-3-release-time/</guid>
+          <link>https://majordigest.com/tech/2025/03/28/black-ops-6-season-3-release-time/</link>
+          <pubDate>Fri, 28 Mar 2025 13:26:33 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/black-ops-6-season-3-release-time.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/black-ops-6-season-3-release-time.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Musk: Trump will 'go after' people 'pushing the lies' about Tesla</title>
+          <description><![CDATA[Tech billionaire Elon Musk suggested Thursday that the Trump administration will crack down on vehicle vandalization, expressing his concerns about protesters targeting Tesla dealerships across the U.S. and abroad.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/28/elon-musk-donald-trump-response-tesla-vandalism/</guid>
+          <link>https://majordigest.com/tech/2025/03/28/elon-musk-donald-trump-response-tesla-vandalism/</link>
+          <pubDate>Fri, 28 Mar 2025 12:55:03 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/elon-musk-donald-trump-response-tesla-vandalism.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/elon-musk-donald-trump-response-tesla-vandalism.webp"/>
+          <dc:creator>Ashleigh Fields, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Nvidia RTX 5090 Stock May Be Improving, but Don't Get Too Excited</title>
+          <description><![CDATA[Nvidia RTX 5090 GPU stock may be improving, but the high price tag is still a major issue. Asus ROG Astral LC RTX 5090 OC Edition priced at $3,719, a whopping 85% above MSRP.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/28/theres-suddenly-tons-of-nvidia-rtx-5090-gpu-stock-on-the-shelves-of-one-us-retailer-probably-because-no-one-wants-to-buy-at-nearly-double-the-launch-price/</guid>
+          <link>https://majordigest.com/tech/2025/03/28/theres-suddenly-tons-of-nvidia-rtx-5090-gpu-stock-on-the-shelves-of-one-us-retailer-probably-because-no-one-wants-to-buy-at-nearly-double-the-launch-price/</link>
+          <pubDate>Fri, 28 Mar 2025 12:41:40 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/theres-suddenly-tons-of-nvidia-rtx-5090-gpu-stock-on-the-shelves-of-one-us-retailer-probably-because-no-one-wants-to-buy-at-nearly-double-the-launch-price.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/theres-suddenly-tons-of-nvidia-rtx-5090-gpu-stock-on-the-shelves-of-one-us-retailer-probably-because-no-one-wants-to-buy-at-nearly-double-the-launch-price.webp"/>
+          <dc:creator>TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>6 advanced Gboard tricks for smarter Android typing</title>
+          <description><![CDATA[QWERTY, QWERTY, QWERTY. QWERTY.
+Oh — hi there! Sorry for the slightly nonsensical greeting. I’ve been thinking a lot about keyboards this week, y’see, and how that trusty ol’ QWERTY surface has evolved in our lives.
+Also, saying “QWERTY” over and over again is surprisingly fun to do.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/28/gboard-android-typing/</guid>
+          <link>https://majordigest.com/tech/2025/03/28/gboard-android-typing/</link>
+          <pubDate>Fri, 28 Mar 2025 09:45:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/gboard-android-typing.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/gboard-android-typing.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>An AI-based drone that speeds up the detection and monitoring of wildfires is presented in Germany</title>
+          <description><![CDATA[EBERSWALDE, Germany (AP) — A company that specializes in early wildfire detection has developed a new, AI-based drone it says will help speed up the detection, location and monitoring of fires.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/28/an-ai-based-drone-that-speeds-up-the-detection-and-monitoring-of-wildfires-is-presented-in-germany/</guid>
+          <link>https://majordigest.com/tech/2025/03/28/an-ai-based-drone-that-speeds-up-the-detection-and-monitoring-of-wildfires-is-presented-in-germany/</link>
+          <pubDate>Fri, 28 Mar 2025 09:14:09 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/an-ai-based-drone-that-speeds-up-the-detection-and-monitoring-of-wildfires-is-presented-in-germany.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/an-ai-based-drone-that-speeds-up-the-detection-and-monitoring-of-wildfires-is-presented-in-germany.webp"/>
+          <dc:creator>PIETRO DE CRISTOFARO, Associated Press, PIX 11</dc:creator>
+        </item>
+        <item>
+          <title>The RACI matrix: Your blueprint for project success</title>
+          <description><![CDATA[Having managed and rescued dozens of projects, and helped others do so, I’ve noted that there is always one critical success factor (CSF) that has either been effectively addressed or missed/messed up: clarity around the roles and responsibilities for each project participant and key stakeholder.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/28/project-management-how-to-design-a-successful-raci-project-plan/</guid>
+          <link>https://majordigest.com/tech/2025/03/28/project-management-how-to-design-a-successful-raci-project-plan/</link>
+          <pubDate>Fri, 28 Mar 2025 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/project-management-how-to-design-a-successful-raci-project-plan.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/project-management-how-to-design-a-successful-raci-project-plan.webp"/>
+          <dc:creator>CIO</dc:creator>
+        </item>
+        <item>
+          <title>Why Tesla may be spared from Trump&#8217;s auto tariffs</title>
+          <description><![CDATA[As the global auto world reeled from the potential fallout of Donald Trump‘s new auto tariffs, one name stood out as less affected than others—electric-vehicle maker Tesla.
+The Texas-based company’s shares were the rare automotive stock to trade in the green in U.S.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/28/tesla-spared-trumps-auto-tariffs-domestic-global-production/</guid>
+          <link>https://majordigest.com/tech/2025/03/28/tesla-spared-trumps-auto-tariffs-domestic-global-production/</link>
+          <pubDate>Fri, 28 Mar 2025 03:30:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/28/tesla-spared-trumps-auto-tariffs-domestic-global-production.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/28/tesla-spared-trumps-auto-tariffs-domestic-global-production.webp"/>
+          <dc:creator>Reuters, Fast Company</dc:creator>
         </item>
         <item>
           <title>Elon Musk privately pressured Reddit CEO Steve Huffman on content moderation: report</title>
@@ -137,7 +196,7 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/27/what-is-classified-information-what-are-secure-communications-heres-a-primer.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/27/what-is-classified-information-what-are-secure-communications-heres-a-primer.webp"/>
-          <dc:creator>DAVID KLEPPER, Associated Press, KREX 5</dc:creator>
+          <dc:creator>DAVID KLEPPER, Associated Press, Fox 5</dc:creator>
         </item>
         <item>
           <title>An AI pioneer is launching a blockchain-powered marketplace for open-source models and applications</title>
@@ -162,51 +221,59 @@
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>The &#8216;New York Times&#8217;&#8217;s copyright lawsuit against OpenAI can proceed, says a federal judge</title>
-          <description><![CDATA[A federal judge has ruled that The New York Times and other newspapers can proceed with a copyright lawsuit against OpenAI and Microsoft seeking to end the practice of using their stories to train artificial intelligence chatbots.
-U.S.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/27/new-york-times-copyright-lawsuit-against-openai-proceed-says-federal-judge/</guid>
-          <link>https://majordigest.com/tech/2025/03/27/new-york-times-copyright-lawsuit-against-openai-proceed-says-federal-judge/</link>
-          <pubDate>Thu, 27 Mar 2025 21:28:48 GMT</pubDate>
+          <title>Fired FTC commissioners sue Trump</title>
+          <description><![CDATA[Two Federal Trade Commission (FTC) members fired by President Trump sued him Thursday, setting up another major test of his administration’s expansionist view of presidential authority over independent agencies.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/27/fired-ftc-commissioners-sue-trump/</guid>
+          <link>https://majordigest.com/tech/2025/03/27/fired-ftc-commissioners-sue-trump/</link>
+          <pubDate>Thu, 27 Mar 2025 16:40:20 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/27/new-york-times-copyright-lawsuit-against-openai-proceed-says-federal-judge.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/27/new-york-times-copyright-lawsuit-against-openai-proceed-says-federal-judge.webp"/>
-          <dc:creator>Associated Press, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/27/fired-ftc-commissioners-sue-trump.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/27/fired-ftc-commissioners-sue-trump.webp"/>
+          <dc:creator>Zach Schonfeld, The Hill</dc:creator>
         </item>
         <item>
-          <title>Microsoft abandons data center projects as OpenAI considers its own, hinting at a market shift</title>
-          <description><![CDATA[OpenAI is reportedly contemplating building its own data center as Microsoft backs off on its own infrastructure investments.
-OpenAI has privately discussed building and operating its first data center to house storage, which is essential for developing sophisticated AI models.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/27/microsoft-abandons-data-center-projects-as-openai-considers-its-own-hinting-at-a-market-shift/</guid>
-          <link>https://majordigest.com/tech/2025/03/27/microsoft-abandons-data-center-projects-as-openai-considers-its-own-hinting-at-a-market-shift/</link>
-          <pubDate>Thu, 27 Mar 2025 01:36:48 GMT</pubDate>
+          <title>Figure skating embraces the future with new technology, modern concepts to engage athletes and fans</title>
+          <description><![CDATA[BOSTON (AP) — Ashley Wagner and Ben Agosto know what it's like to step off the ice at the figure skating world championships and feel as though they've conquered the sport. And what it feels like when the notoriously fickle sport bites back.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/27/figure-skating-embraces-the-future-with-new-technology-modern-concepts-to-engage-athletes-and-fans/</guid>
+          <link>https://majordigest.com/tech/2025/03/27/figure-skating-embraces-the-future-with-new-technology-modern-concepts-to-engage-athletes-and-fans/</link>
+          <pubDate>Thu, 27 Mar 2025 16:15:47 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/27/microsoft-abandons-data-center-projects-as-openai-considers-its-own-hinting-at-a-market-shift.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/27/microsoft-abandons-data-center-projects-as-openai-considers-its-own-hinting-at-a-market-shift.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/27/figure-skating-embraces-the-future-with-new-technology-modern-concepts-to-engage-athletes-and-fans.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/27/figure-skating-embraces-the-future-with-new-technology-modern-concepts-to-engage-athletes-and-fans.webp"/>
+          <dc:creator>DAVE SKRETTA, Associated Press, NewsNation</dc:creator>
         </item>
         <item>
-          <title>Microsoft lauds Hyperlight Wasm for WebAssembly workloads</title>
-          <description><![CDATA[Microsoft has unveiled Hyperlight Wasm, a virtual machine “micro-guest” that can run WebAssembly component workloads written in a multitude of languages including C and Python.
-Introduced March 26, Hyperlight Wasm serves as a Rust library crate.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/26/microsoft-lauds-hyperlight-wasm-for-webassembly-workloads/</guid>
-          <link>https://majordigest.com/tech/2025/03/26/microsoft-lauds-hyperlight-wasm-for-webassembly-workloads/</link>
-          <pubDate>Wed, 26 Mar 2025 21:40:19 GMT</pubDate>
+          <title>ClickFix malware tricks you into infecting your own Windows PC</title>
+          <description><![CDATA[Hackers are tricking people into installing password-stealing malware by making them press keyboard shortcuts under the pretense of proving they&apos;re not bots.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/27/clickfix-malware-tricks-you-infecting-your-own-windows-pc/</guid>
+          <link>https://majordigest.com/tech/2025/03/27/clickfix-malware-tricks-you-infecting-your-own-windows-pc/</link>
+          <pubDate>Thu, 27 Mar 2025 14:00:56 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/microsoft-lauds-hyperlight-wasm-for-webassembly-workloads.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/microsoft-lauds-hyperlight-wasm-for-webassembly-workloads.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/27/clickfix-malware-tricks-you-infecting-your-own-windows-pc.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/27/clickfix-malware-tricks-you-infecting-your-own-windows-pc.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>White House taps Musk to investigate Signal chat mishap</title>
-          <description><![CDATA[The White House has asked Elon Musk and his team at the Department of Government Efficiency (DOGE) to help investigate how a journalist was included on a Signal chat with national security officials.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/26/white-house-asks-musk-investigate-signal/</guid>
-          <link>https://majordigest.com/tech/2025/03/26/white-house-asks-musk-investigate-signal/</link>
-          <pubDate>Wed, 26 Mar 2025 18:17:28 GMT</pubDate>
+          <title>Preserve loved ones' voicemails on iPhone</title>
+          <description><![CDATA[Saving the voices of loved ones can be a comforting way to keep alive memories. Kurt &quot;the CyberGuy&quot; Knutsson explains how to preserve voicemail messages.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/27/preserve-loved-ones-voicemails-iphone/</guid>
+          <link>https://majordigest.com/tech/2025/03/27/preserve-loved-ones-voicemails-iphone/</link>
+          <pubDate>Thu, 27 Mar 2025 10:00:12 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/white-house-asks-musk-investigate-signal.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/white-house-asks-musk-investigate-signal.webp"/>
-          <dc:creator>Alex Gangitano, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/27/preserve-loved-ones-voicemails-iphone.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/27/preserve-loved-ones-voicemails-iphone.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Judge allows newspaper copyright lawsuit against OpenAI to proceed</title>
+          <description><![CDATA[NEW YORK (AP) — A federal judge has ruled that The New York Times and other newspapers can proceed with a copyright lawsuit against OpenAI and Microsoft seeking to end the practice of using their stories to train artificial intelligence chatbots. U.S.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/26/judge-allows-newspaper-copyright-lawsuit-against-openai-to-proceed/</guid>
+          <link>https://majordigest.com/tech/2025/03/26/judge-allows-newspaper-copyright-lawsuit-against-openai-to-proceed/</link>
+          <pubDate>Wed, 26 Mar 2025 23:59:45 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/judge-allows-newspaper-copyright-lawsuit-against-openai-to-proceed.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/judge-allows-newspaper-copyright-lawsuit-against-openai-to-proceed.webp"/>
+          <dc:creator>Associated Press, ABC 4</dc:creator>
         </item>
         <item>
           <title>Cyprus to fund desalination plants at hotels to reduce impact of water shortages on tourism</title>
@@ -217,39 +284,17 @@ Introduced March 26, Hyperlight Wasm serves as a Rust library crate.]]></descrip
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/cyprus-to-fund-desalination-plants-at-hotels-to-reduce-impact-of-water-shortages-on-tourism.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/cyprus-to-fund-desalination-plants-at-hotels-to-reduce-impact-of-water-shortages-on-tourism.webp"/>
-          <dc:creator>MENELAOS HADJICOSTIS, Associated Press, Fox 5</dc:creator>
+          <dc:creator>MENELAOS HADJICOSTIS, Associated Press, ABC 4</dc:creator>
         </item>
         <item>
-          <title>Critical RCE flaws put Kubernetes clusters at risk of takeover</title>
-          <description><![CDATA[The Kubernetes project has released patches for five vulnerabilities in a widely used popular component called the Ingress NGINX Controller that’s used to route external traffic to Kubernetes services. If exploited, the flaw could allow attackers to completely take over entire clusters.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/26/critical-rce-flaws-put-kubernetes-clusters-at-risk-of-takeover/</guid>
-          <link>https://majordigest.com/tech/2025/03/26/critical-rce-flaws-put-kubernetes-clusters-at-risk-of-takeover/</link>
-          <pubDate>Wed, 26 Mar 2025 14:53:29 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/critical-rce-flaws-put-kubernetes-clusters-at-risk-of-takeover.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/critical-rce-flaws-put-kubernetes-clusters-at-risk-of-takeover.webp"/>
-          <dc:creator>csoonline</dc:creator>
-        </item>
-        <item>
-          <title>Ethernet roadmap: AI drives high-speed, efficient Ethernet networks</title>
-          <description><![CDATA[At next month’s Optical Fiber Communication Conference and Exhibition (OFC), many of the technologies that are driving current and future Ethernet development will be on full display by the Ethernet Alliance, which is set to unveil its tenth anniversary Ethernet roadmap.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/26/ethernet-roadmap-ai-drives-high-speed-efficient-ethernet-networks/</guid>
-          <link>https://majordigest.com/tech/2025/03/26/ethernet-roadmap-ai-drives-high-speed-efficient-ethernet-networks/</link>
-          <pubDate>Wed, 26 Mar 2025 14:37:43 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/ethernet-roadmap-ai-drives-high-speed-efficient-ethernet-networks.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/ethernet-roadmap-ai-drives-high-speed-efficient-ethernet-networks.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>What you need to know about Go, Rust, and Zig</title>
-          <description><![CDATA[Every language has a life cycle. Sometimes it starts with a relatively narrow use case and escapes its container; sometimes it’s intended as a general-purpose language but finds a powerful niche instead.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig/</guid>
-          <link>https://majordigest.com/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig/</link>
+          <title>Intro to Alpine.js: A JavaScript framework for minimalists</title>
+          <description><![CDATA[I recently backpacked through Big Sur, and after a few days, the inevitable happened: I looked at everything I carried and demanded it justify its presence in my backpack. Making tech choices during the software development process is similar.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/26/intro-to-alpinejs-a-javascript-framework-for-minimalists/</guid>
+          <link>https://majordigest.com/tech/2025/03/26/intro-to-alpinejs-a-javascript-framework-for-minimalists/</link>
           <pubDate>Wed, 26 Mar 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/what-you-need-to-know-about-go-rust-and-zig.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/26/intro-to-alpinejs-a-javascript-framework-for-minimalists.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/26/intro-to-alpinejs-a-javascript-framework-for-minimalists.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
@@ -261,95 +306,5 @@ Introduced March 26, Hyperlight Wasm serves as a Rust library crate.]]></descrip
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/25/napster-sold-to-tech-commerce-company-for-207-million.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/25/napster-sold-to-tech-commerce-company-for-207-million.webp"/>
-          <dc:creator>Associated Press, Fox 5</dc:creator>
-        </item>
-        <item>
-          <title>Two new AI tools help illuminate GSA&#8217;s future state</title>
-          <description><![CDATA[GSA's acting Administrator Stephen Ehikian said that the agency is breaking down the data silos to allow systems to better communicate with one another.
-The post Two new AI tools help illuminate GSA’s future state first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/25/two-new-ai-tools-help-illuminate-gsas-future-state/</guid>
-          <link>https://majordigest.com/tech/2025/03/25/two-new-ai-tools-help-illuminate-gsas-future-state/</link>
-          <pubDate>Tue, 25 Mar 2025 17:06:25 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/25/two-new-ai-tools-help-illuminate-gsas-future-state.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/25/two-new-ai-tools-help-illuminate-gsas-future-state.webp"/>
-          <dc:creator>Jason Miller, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>The nation&#8217;s statisticians worry about the state of federal data gathering</title>
-          <description><![CDATA[One of the government's activities is the gathering of reliable statistics to guide policy and the quality of national statistics has become a concern.
-The post The nation’s statisticians worry about the state of federal data gathering first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/25/the-nations-statisticians-worry-about-the-state-of-federal-data-gathering/</guid>
-          <link>https://majordigest.com/tech/2025/03/25/the-nations-statisticians-worry-about-the-state-of-federal-data-gathering/</link>
-          <pubDate>Tue, 25 Mar 2025 16:04:03 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/25/the-nations-statisticians-worry-about-the-state-of-federal-data-gathering.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/25/the-nations-statisticians-worry-about-the-state-of-federal-data-gathering.webp"/>
-          <dc:creator>Tom Temin, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Waymo plans to bring its driverless taxis to Washington in 2026</title>
-          <description><![CDATA[Waymo on Tuesday added Washington to its pioneering robotaxi service's steadily expanding list of U.S. markets, although passengers will have to wait until next year until they can take a driverless ride around the nation's capital city.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/25/waymo-plans-to-bring-its-driverless-taxis-to-washington-in-2026/</guid>
-          <link>https://majordigest.com/tech/2025/03/25/waymo-plans-to-bring-its-driverless-taxis-to-washington-in-2026/</link>
-          <pubDate>Tue, 25 Mar 2025 15:37:03 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/25/waymo-plans-to-bring-its-driverless-taxis-to-washington-in-2026.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/25/waymo-plans-to-bring-its-driverless-taxis-to-washington-in-2026.webp"/>
-          <dc:creator>MICHAEL LIEDTKE, Associated Press, KRON4</dc:creator>
-        </item>
-        <item>
-          <title>Fauna to shut down FaunaDB service in May</title>
-          <description><![CDATA[Fauna, the provider of the NoSQL database FaunaDB, has said that it will shut down the service by the end of May due to the unavailability of capital required to support the database service and market it.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/25/fauna-to-shut-down-faunadb-service-in-may/</guid>
-          <link>https://majordigest.com/tech/2025/03/25/fauna-to-shut-down-faunadb-service-in-may/</link>
-          <pubDate>Tue, 25 Mar 2025 10:47:43 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/25/fauna-to-shut-down-faunadb-service-in-may.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/25/fauna-to-shut-down-faunadb-service-in-may.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Cosmonic uses WebAssembly to manage apps</title>
-          <description><![CDATA[Leveraging the WebAssembly binary instruction format, Cosmonic has launched wasmCloud-based Cosmonic Control, an enterprise control plane for managing distributed applications.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/25/cosmonic-uses-webassembly-to-manage-apps/</guid>
-          <link>https://majordigest.com/tech/2025/03/25/cosmonic-uses-webassembly-to-manage-apps/</link>
-          <pubDate>Tue, 25 Mar 2025 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/25/cosmonic-uses-webassembly-to-manage-apps.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/25/cosmonic-uses-webassembly-to-manage-apps.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>A European startup scrubs its attempt to launch an orbital rocket on its first test flight</title>
-          <description><![CDATA[OSLO, Norway (AP) — A private European aerospace company scrubbed its attempt on Monday to launch the first test flight of its orbital launch vehicle from Norway.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/24/a-european-startup-is-set-to-launch-an-orbital-rocket-on-its-first-test-flight/</guid>
-          <link>https://majordigest.com/tech/2025/03/24/a-european-startup-is-set-to-launch-an-orbital-rocket-on-its-first-test-flight/</link>
-          <pubDate>Mon, 24 Mar 2025 15:32:44 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/24/a-european-startup-is-set-to-launch-an-orbital-rocket-on-its-first-test-flight.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/24/a-european-startup-is-set-to-launch-an-orbital-rocket-on-its-first-test-flight.webp"/>
-          <dc:creator>Associated Press, KRON4</dc:creator>
-        </item>
-        <item>
-          <title>World Backup Day is March 31</title>
-          <description><![CDATA[Are you ready? World Backup Day is March 31, a day that has been recognized every year since it was first set up in 2011.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/24/world-backup-day-is-heading-our-way/</guid>
-          <link>https://majordigest.com/tech/2025/03/24/world-backup-day-is-heading-our-way/</link>
-          <pubDate>Mon, 24 Mar 2025 14:39:27 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/24/world-backup-day-is-heading-our-way.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/24/world-backup-day-is-heading-our-way.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>Apple fixes Passwords app vulnerability enabling Wi-Fi attacks</title>
-          <description><![CDATA[Tech expert Kurt “CyberGuy&quot; Knutsson says Apple&apos;s Passwords app had a three-month phishing flaw from iOS 18 to 18.2 patch.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/24/apple-fixes-passwords-app-vulnerability-enabling-wi-fi-attacks/</guid>
-          <link>https://majordigest.com/tech/2025/03/24/apple-fixes-passwords-app-vulnerability-enabling-wi-fi-attacks/</link>
-          <pubDate>Mon, 24 Mar 2025 14:00:21 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/24/apple-fixes-passwords-app-vulnerability-enabling-wi-fi-attacks.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/24/apple-fixes-passwords-app-vulnerability-enabling-wi-fi-attacks.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <dc:creator>Associated Press, ABC 4</dc:creator>
         </item></channel></rss>
