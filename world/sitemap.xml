@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/world/2025/03/29/myanmar-earthquake-death-toll-jumps-to-nearly-700-according-to-government-state-run-media-reports/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-29T08:49:16.000Z</news:publication_date>
+            <news:title>Myanmar's earthquake death toll jumps to more than 1,000 as more bodies recovered from the rubble</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/03/29/myanmar-earthquake-death-toll-jumps-to-nearly-700-according-to-government-state-run-media-reports.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2025/03/29/new-us-strikes-against-houthi-rebels-kill-at-least-1-in-yemen/</loc>
           <news:news>
             <news:publication>
@@ -14,20 +28,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/world/2025/03/29/new-us-strikes-against-houthi-rebels-kill-at-least-1-in-yemen.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/03/29/strong-earthquake-rocks-thai-capital-of-bangkok/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-29T03:56:01.000Z</news:publication_date>
-            <news:title>Massive quake rocks Myanmar and Thailand. Hundreds feared dead</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/29/strong-earthquake-rocks-thai-capital-of-bangkok.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,17 +45,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/29/film-academy-apologizes-for-not-naming-no-other-land-co-director-in-response-to-attack-on-him/</loc>
+          <loc>https://majordigest.com/world/2025/03/28/drought-wind-and-debris-from-recent-hurricanes-are-stoking-fires-across-the-us/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-29T00:16:48.000Z</news:publication_date>
-            <news:title>Film academy apologizes for not naming 'No Other Land' co-director in response to attack on him</news:title>
+            <news:publication_date>2025-03-28T21:41:00.000Z</news:publication_date>
+            <news:title>Drought, wind, and debris from recent hurricanes are stoking fires across the US</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/29/film-academy-apologizes-for-not-naming-no-other-land-co-director-in-response-to-attack-on-him.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/drought-wind-and-debris-from-recent-hurricanes-are-stoking-fires-across-the-us.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/03/28/denmark-trumps-crosshairs-vance-makes-ambitious-appeal-greenland/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T20:35:01.000Z</news:publication_date>
+            <news:title>Denmark in Trump's crosshairs as Vance makes ambitious appeal to Greenland</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/denmark-trumps-crosshairs-vance-makes-ambitious-appeal-greenland.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/03/28/israel-strikes-beirut-for-the-first-time-since-a-ceasefire-ended-the-latest-israel-hezbollah-war/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T20:30:11.000Z</news:publication_date>
+            <news:title>Israel strikes Beirut for the first time since a ceasefire ended the latest Israel-Hezbollah war</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/israel-strikes-beirut-for-the-first-time-since-a-ceasefire-ended-the-latest-israel-hezbollah-war.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/03/28/denmark-greenland-security/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T20:11:04.000Z</news:publication_date>
+            <news:title>Vance slams Denmark's handling of Greenland security</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/denmark-greenland-security.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,20 +115,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/28/canadian-company-seeks-us-permission-to-start-deep-sea-mining-as-outcry-ensues/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-28T20:04:12.000Z</news:publication_date>
-            <news:title>Canadian company seeks US permission to start deep-sea mining as outcry ensues</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/28/canadian-company-seeks-us-permission-to-start-deep-sea-mining-as-outcry-ensues.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2025/03/28/trump-administration-to-end-usaid/</loc>
           <news:news>
             <news:publication>
@@ -101,213 +129,227 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/28/countries-issued-travel-advisories-us/</loc>
+          <loc>https://majordigest.com/world/2025/03/28/putin-suggests-putting-ukraine-under-u-n-sponsored-external-governance-boasts-battlefield-gains/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-28T17:01:51.000Z</news:publication_date>
-            <news:title>Countries that have issued travel advisories for US</news:title>
+            <news:publication_date>2025-03-28T18:40:28.000Z</news:publication_date>
+            <news:title>Putin suggests putting Ukraine under UN-sponsored external governance</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/28/countries-issued-travel-advisories-us.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/putin-suggests-putting-ukraine-under-u-n-sponsored-external-governance-boasts-battlefield-gains.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/28/mcmaster-warns-putin-ukraine/</loc>
+          <loc>https://majordigest.com/world/2025/03/28/us-japan-philippines-stage-navy-drills-in-disputed-south-china-sea-as-a-chinese-ship-keeps-watch/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-28T16:36:20.000Z</news:publication_date>
-            <news:title>Putin 'lying' to Trump envoy: McMaster</news:title>
+            <news:publication_date>2025-03-28T16:42:14.000Z</news:publication_date>
+            <news:title>US, Japan, Philippines stage navy drills in disputed South China Sea as a Chinese ship keeps watch</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/28/mcmaster-warns-putin-ukraine.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/us-japan-philippines-stage-navy-drills-in-disputed-south-china-sea-as-a-chinese-ship-keeps-watch.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/28/what-to-know-about-the-u-s-militarys-pituffik-space-base-in-greenland/</loc>
+          <loc>https://majordigest.com/world/2025/03/28/myanmar-at-a-glance-embroiled-in-civil-war-now-facing-more-devastation-after-powerful-earthquake/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-28T15:26:18.000Z</news:publication_date>
-            <news:title>What to know about the US military's Pituffik Space Base in Greenland</news:title>
+            <news:publication_date>2025-03-28T16:36:54.000Z</news:publication_date>
+            <news:title>Myanmar at a glance: Embroiled in civil war, now facing more devastation after powerful earthquake</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/28/what-to-know-about-the-u-s-militarys-pituffik-space-base-in-greenland.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/myanmar-at-a-glance-embroiled-in-civil-war-now-facing-more-devastation-after-powerful-earthquake.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/28/european-universities-target-scientists-us/</loc>
+          <loc>https://majordigest.com/world/2025/03/28/mitch-mcconnell-ukraine-russia/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-28T11:26:55.000Z</news:publication_date>
-            <news:title>European institutions target 'scientific asylum-seekers' from US</news:title>
+            <news:publication_date>2025-03-28T16:23:06.000Z</news:publication_date>
+            <news:title>McConnell: US headed for &#8216;Russia wins, America loses&#8217; headline on Ukraine deal</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/28/european-universities-target-scientists-us.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/mitch-mcconnell-ukraine-russia.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/28/rain-and-cooler-weather-help-south-korean-fire-crews-battle-devastating-wildfires/</loc>
+          <loc>https://majordigest.com/world/2025/03/28/trump-call-with-canada-prime-minister-mark-carney/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-28T10:56:23.000Z</news:publication_date>
-            <news:title>South Korea's worst wildfires are now almost contained following rain and cooler weather</news:title>
+            <news:publication_date>2025-03-28T15:43:07.000Z</news:publication_date>
+            <news:title>Trump holds 'productive call' with new Canadian prime minister</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/28/rain-and-cooler-weather-help-south-korean-fire-crews-battle-devastating-wildfires.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/trump-call-with-canada-prime-minister-mark-carney.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/27/canadian-pm-carney-old-relationship-us-over-tension-trump-tariffs/</loc>
+          <loc>https://majordigest.com/world/2025/03/28/trump-25percent-tariff-vehicle-imports/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T23:19:24.000Z</news:publication_date>
-            <news:title>Canadian Prime Minister Mark Carney says 'old relationship' with US 'is over' amid tension over Trump tariffs</news:title>
+            <news:publication_date>2025-03-28T15:27:12.000Z</news:publication_date>
+            <news:title>Trump tariffs on autos, parts imports could add $4,711 to vehicle cost: Economist</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/27/canadian-pm-carney-old-relationship-us-over-tension-trump-tariffs.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/trump-25percent-tariff-vehicle-imports.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/27/uk-doesnt-want-to-escalate-trump-trade-war-with-auto-tariff-response/</loc>
+          <loc>https://majordigest.com/world/2025/03/28/putin-says-trump-plans-greenland-has-nothing-do-russia/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T20:47:33.000Z</news:publication_date>
-            <news:title>UK doesn't want to 'escalate' Trump trade war with auto tariff response</news:title>
+            <news:publication_date>2025-03-28T15:18:26.000Z</news:publication_date>
+            <news:title>Putin says Trump plans for Greenland 'has nothing to do' with Russia</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/27/uk-doesnt-want-to-escalate-trump-trade-war-with-auto-tariff-response.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/putin-says-trump-plans-greenland-has-nothing-do-russia.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/27/greenland-lawmakers-form-a-new-government-on-the-eve-of-vance-visit/</loc>
+          <loc>https://majordigest.com/world/2025/03/28/suspected-us-strikes-pummel-houthi-controlled-areas-of-yemen/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T20:43:29.000Z</news:publication_date>
-            <news:title>Greenland lawmakers form a new government on the eve of Vance visit</news:title>
+            <news:publication_date>2025-03-28T05:48:15.000Z</news:publication_date>
+            <news:title>Suspected US strikes pummel Houthi-controlled areas of Yemen</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/27/greenland-lawmakers-form-a-new-government-on-the-eve-of-vance-visit.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/suspected-us-strikes-pummel-houthi-controlled-areas-of-yemen.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/27/us-canada-airline-bookings-drop-trump-tariffs/</loc>
+          <loc>https://majordigest.com/world/2025/03/28/lithuanian-polish-troops-aid-search-recovery-4-missing-us-soldiers-fort-stewart/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T19:48:43.000Z</news:publication_date>
-            <news:title>US-Canada airline bookings plummet 70 percent: Report</news:title>
+            <news:publication_date>2025-03-28T01:39:02.000Z</news:publication_date>
+            <news:title>Lithuanian, Polish troops aid in 'search and recovery' for 4 missing US soldiers from Fort Stewart</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/27/us-canada-airline-bookings-drop-trump-tariffs.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/lithuanian-polish-troops-aid-search-recovery-4-missing-us-soldiers-fort-stewart.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/27/police-use-force-to-break-up-protests-at-university-in-turkeys-capital/</loc>
+          <loc>https://majordigest.com/world/2025/03/28/king-charles-iii-experiences-side-effects-after-receiving-medical-treatment-and-is-in-hospital/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T19:46:17.000Z</news:publication_date>
-            <news:title>Police use force to break up protests at a university in Turkey's capital</news:title>
+            <news:publication_date>2025-03-28T00:25:28.000Z</news:publication_date>
+            <news:title>King Charles III briefly hospitalized for observation following side effects from cancer treatment</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/27/police-use-force-to-break-up-protests-at-university-in-turkeys-capital.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/28/king-charles-iii-experiences-side-effects-after-receiving-medical-treatment-and-is-in-hospital.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/27/secret-documents-on-nazis-who-fled-to-argentina-after-wwii-being-declassified/</loc>
+          <loc>https://majordigest.com/world/2025/03/27/knife-wielding-man-injures-multiple-people-amsterdam-including-americans/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T18:00:17.000Z</news:publication_date>
-            <news:title>Secret documents on Nazis who fled to Argentina after WWII being declassified</news:title>
+            <news:publication_date>2025-03-27T22:48:54.000Z</news:publication_date>
+            <news:title>Knife-wielding man injures multiple people in Amsterdam, including 2 Americans</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/27/secret-documents-on-nazis-who-fled-to-argentina-after-wwii-being-declassified.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/27/knife-wielding-man-injures-multiple-people-amsterdam-including-americans.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/27/south-sudan-opposition-says-its-leader-machar-has-been-arrested-as-un-warns-of-a-renewed-civil-war/</loc>
+          <loc>https://majordigest.com/world/2025/03/27/an-apartheid-era-song-elon-musk-has-decried-as-anti-white-is-headline-news-again-in-south-africa/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T17:40:07.000Z</news:publication_date>
-            <news:title>South Sudan opposition says peace deal has collapsed after arrest of its leader</news:title>
+            <news:publication_date>2025-03-27T20:36:53.000Z</news:publication_date>
+            <news:title>An apartheid-era song Elon Musk has decried as anti-white is headline news again in South Africa</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/27/south-sudan-opposition-says-its-leader-machar-has-been-arrested-as-un-warns-of-a-renewed-civil-war.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/27/an-apartheid-era-song-elon-musk-has-decried-as-anti-white-is-headline-news-again-in-south-africa.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/27/europe-says-no-trump-pledge-help-lift-sanctions-russia-upending-black-sea-ceasefire/</loc>
+          <loc>https://majordigest.com/world/2025/03/27/5-wounded-in-stabbing-in-amsterdam-1-person-arrested/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T14:43:21.000Z</news:publication_date>
-            <news:title>Europe says no to Trump push to lift sanctions on Russia, upending Black Sea ceasefire</news:title>
+            <news:publication_date>2025-03-27T20:34:54.000Z</news:publication_date>
+            <news:title>A stabbing attack in Amsterdam wounds five people, including four foreigners</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/27/europe-says-no-trump-pledge-help-lift-sanctions-russia-upending-black-sea-ceasefire.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/27/5-wounded-in-stabbing-in-amsterdam-1-person-arrested.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/27/dead-after-tourist-submarine-sinks-off-egypts-coast-officials/</loc>
+          <loc>https://majordigest.com/world/2025/03/27/a-coalition-of-the-willing-mulls-more-aid-for-ukraine-and-a-possible-armed-force/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T13:42:41.000Z</news:publication_date>
-            <news:title>6 dead after tourist submarine sinks off Egypt's coast: officials</news:title>
+            <news:publication_date>2025-03-27T19:04:50.000Z</news:publication_date>
+            <news:title>French president says not all European allies agree on a proposed force for Ukraine</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/27/dead-after-tourist-submarine-sinks-off-egypts-coast-officials.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/27/a-coalition-of-the-willing-mulls-more-aid-for-ukraine-and-a-possible-armed-force.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/27/signal-leak-trump-adviser-mike-waltz/</loc>
+          <loc>https://majordigest.com/world/2025/03/27/his-brothers-keeper-liran-berman-calls-urgent-action-save-his-brothers-gali-ziv-from/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T04:33:24.000Z</news:publication_date>
-            <news:title>Signal leak: Trump adviser Mike Waltz may have to go, Warner says</news:title>
+            <news:publication_date>2025-03-27T12:57:37.000Z</news:publication_date>
+            <news:title>His brothers&#8217; keeper: Liran Berman calls for urgent action to save his brothers, Gali and Ziv, from Hamas</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/27/signal-leak-trump-adviser-mike-waltz.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/27/his-brothers-keeper-liran-berman-calls-urgent-action-save-his-brothers-gali-ziv-from.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/03/27/human-rights-council-blocks-watchdog-chief-from-criticizing-un-official-accused-antisemitism/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-27T12:05:55.000Z</news:publication_date>
+            <news:title>Human Rights Council blocks watchdog chief from criticizing UN official accused of antisemitism</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/03/27/human-rights-council-blocks-watchdog-chief-from-criticizing-un-official-accused-antisemitism.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -325,17 +367,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/26/missing-us-soldiers-in-lithuania-killed-nato-chief/</loc>
+          <loc>https://majordigest.com/world/2025/03/26/south-koreas-centuries-old-gounsa-temple-left-ruins-unprecedented-wildfires/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T18:24:07.000Z</news:publication_date>
-            <news:title>Missing US soldiers in Lithuania killed: NATO chief</news:title>
+            <news:publication_date>2025-03-26T23:46:07.000Z</news:publication_date>
+            <news:title>South Korea&#8217;s centuries-old Gounsa temple is left in ruins by unprecedented wildfires</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/26/missing-us-soldiers-in-lithuania-killed-nato-chief.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/26/south-koreas-centuries-old-gounsa-temple-left-ruins-unprecedented-wildfires.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -353,17 +395,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/26/amanda-knox-prosecutor-who-put-me-in-prison-still-texts-me-every-day/</loc>
+          <loc>https://majordigest.com/world/2025/03/26/signal-text-message-leak-trump-full/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-26T01:04:19.000Z</news:publication_date>
-            <news:title>Amanda Knox reveals surprising relationship with man who prosecuted her</news:title>
+            <news:publication_date>2025-03-26T13:22:20.000Z</news:publication_date>
+            <news:title>The Atlantic releases full Signal text chain</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/26/amanda-knox-prosecutor-who-put-me-in-prison-still-texts-me-every-day.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/26/signal-text-message-leak-trump-full.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -381,31 +423,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/25/gerard-depardieus-trial-on-sexual-assault-charges-is-starting-in-france/</loc>
+          <loc>https://majordigest.com/world/2025/03/24/israeli-strike-kills-senior-hamas-political-leader-in-gaza/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-25T00:50:18.000Z</news:publication_date>
-            <news:title>French actor G&#233;rard Depardieu stands trial in Paris for alleged sexual assaults on film set</news:title>
+            <news:publication_date>2025-03-24T05:55:06.000Z</news:publication_date>
+            <news:title>Gaza's Health Ministry says Israel has struck the largest hospital in the territory's south</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/25/gerard-depardieus-trial-on-sexual-assault-charges-is-starting-in-france.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/03/24/us-russia-talks-saudi-arabia-ukraine-ceasefire/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-24T10:48:53.000Z</news:publication_date>
-            <news:title>US, Russian officials meet in Saudi Arabia to talk ceasefire</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/24/us-russia-talks-saudi-arabia-ukraine-ceasefire.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/24/israeli-strike-kills-senior-hamas-political-leader-in-gaza.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -437,17 +465,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/03/22/pope-francis-will-be-released-from-the-hospital-on-sunday-doctors-say/</loc>
+          <loc>https://majordigest.com/world/2025/03/22/oleg-gordievsky-britains-most-valuable-cold-war-spy-inside-the-kgb-dies-at-86/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-22T18:10:29.000Z</news:publication_date>
-            <news:title>Pope Francis will be released from the hospital on Sunday, doctors say</news:title>
+            <news:publication_date>2025-03-22T19:55:16.000Z</news:publication_date>
+            <news:title>Oleg Gordievsky, Britain's most valuable Cold War spy inside the KGB, dies at 86</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/22/pope-francis-will-be-released-from-the-hospital-on-sunday-doctors-say.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/03/22/oleg-gordievsky-britains-most-valuable-cold-war-spy-inside-the-kgb-dies-at-86.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/03/22/doctors-will-provide-first-in-person-update-in-pope-francis-recovery-from-pneumonia-in-a-month/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-22T19:13:29.000Z</news:publication_date>
+            <news:title>Pope Francis to be released from hospital Sunday after 5 weeks fighting life-threatening pneumonia</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/03/22/doctors-will-provide-first-in-person-update-in-pope-francis-recovery-from-pneumonia-in-a-month.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -462,19 +504,5 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/world/2025/03/22/2-convicted-in-us-of-iran-backed-plot-to-kill-journalist-critical-of-tehran.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/03/22/us-24th-happiest-countries-world/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-22T15:55:36.000Z</news:publication_date>
-            <news:title>US ranked 24th among happiest countries in the world: Research</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/03/22/us-24th-happiest-countries-world.webp</image:loc>
           </image:image>
         </url></urlset>
