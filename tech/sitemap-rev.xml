@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/03/27/qualcomm-launches-global-antitrust-offensive-against-arm-accusing-it-of-stifling-competition/</loc>
+          <loc>https://majordigest.com/tech/2025/03/31/blue-or-green-or-black-windows-11s-infamous-screen-of-death-error-message-is-going-through-some-confusing-changes/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-27T13:37:05.000Z</news:publication_date>
-            <news:title>Qualcomm Launches Global Antitrust Offensive Against Arm Holdings</news:title>
+            <news:publication_date>2025-03-31T14:10:00.000Z</news:publication_date>
+            <news:title>Microsoft's New 'Black Screen of Death' for Windows 11 - Analysis and Reaction</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/27/qualcomm-launches-global-antitrust-offensive-against-arm-accusing-it-of-stifling-competition.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/31/blue-or-green-or-black-windows-11s-infamous-screen-of-death-error-message-is-going-through-some-confusing-changes.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/31/how-terraform-is-evolving-infrastructure-as-code/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-31T09:00:00.000Z</news:publication_date>
+            <news:title>Terraform's Dominance in IaC Market Under Threat</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/31/how-terraform-is-evolving-infrastructure-as-code.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/03/28/musk-xai-x-purchase/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-03-28T22:22:35.000Z</news:publication_date>
+            <news:title>Elon Musk's AI Firm Buys Social Media Platform X</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/28/musk-xai-x-purchase.webp</image:loc>
           </image:image>
         </url></urlset>
