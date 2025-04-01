@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.comnull</loc>
+          <loc>https://majordigest.com/tech/2025/04/01/nasdaq-100s-worst-quarter-in-years-sealed-by-ai-bubble-fears-3/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-01T20:04:50.000Z</news:publication_date>
-            <news:title>Astronauts Blast Off on First Rocket Ride to North and South Poles</news:title>
+            <news:publication_date>2025-04-01T16:04:06.000Z</news:publication_date>
+            <news:title>Nasdaq 100 Plummets Amid Fears of AI Bubble - A Threat to Tech Heavyweight Stocks</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/01/spacex-flight-launches-4-space-tourists-into-first-ever-polar-orbit.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/01/nasdaq-100s-worst-quarter-in-years-sealed-by-ai-bubble-fears-3.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/01/emergency-chrome-security-update-amid-cyber-espionage-threats/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-01T14:00:19.000Z</news:publication_date>
+            <news:title>Google Chrome Vulnerability: What You Need to Know</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/01/emergency-chrome-security-update-amid-cyber-espionage-threats.webp</image:loc>
           </image:image>
         </url></urlset>
