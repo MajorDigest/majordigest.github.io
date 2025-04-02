@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.comnull</loc>
+          <loc>https://majordigest.com/tech/2025/04/02/trump-discusses-tiktok-sale/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-02T16:00:00.000Z</news:publication_date>
-            <news:title>The Invisible World of Large Language Models: Uncovering the Secrets of AI Chatbots</news:title>
+            <news:publication_date>2025-04-02T16:43:09.000Z</news:publication_date>
+            <news:title>President Trump to Meet on TikTok Investors</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/what-is-ai-thinking-anthropic-researchers-are-starting-to-figure-it-out.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/trump-discusses-tiktok-sale.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/02/rewriting-social-security-will-be-a-train-wreck/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-02T09:00:00.000Z</news:publication_date>
+            <news:title>Government Software Development: A Business of Poor Incentives</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/rewriting-social-security-will-be-a-train-wreck.webp</image:loc>
           </image:image>
         </url></urlset>
