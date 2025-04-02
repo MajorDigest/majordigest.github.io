@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 02 Apr 2025 19:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 20:24:56 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,13 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>The Unseen Mind: New Insights into AI Chatbots' Thinking</title>
-          <description><![CDATA[Researchers at Anthropic have made fresh insights into Large Language Models' internal 'thinking', shedding light on the complex workings of these intelligent chatbots.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/02/what-is-ai-thinking-anthropic-researchers-are-starting-to-figure-it-out/</guid>
-          <link>https://majordigest.com/tech/2025/04/02/what-is-ai-thinking-anthropic-researchers-are-starting-to-figure-it-out/</link>
-          <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
+          <title>Ahead of Java's Final-Means-Final Plan: Preparing for Immutability</title>
+          <description><![CDATA[Java developers are bracing themselves for a significant change with the proposed JEP to make final mean final in Java, which would ensure integrity by default and potentially make Java safer and faster.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/01/java-plan-prepares-to-restrict-final-field-mutation/</guid>
+          <link>https://majordigest.com/tech/2025/04/01/java-plan-prepares-to-restrict-final-field-mutation/</link>
+          <pubDate>Tue, 01 Apr 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/02/what-is-ai-thinking-anthropic-researchers-are-starting-to-figure-it-out.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/02/what-is-ai-thinking-anthropic-researchers-are-starting-to-figure-it-out.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/01/java-plan-prepares-to-restrict-final-field-mutation.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/01/java-plan-prepares-to-restrict-final-field-mutation.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
