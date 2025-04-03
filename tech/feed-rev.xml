@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 03 Apr 2025 15:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 16:21:39 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,24 +19,35 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>A Universal Lock File Format for Python: A Game-Changer for Reproducible Environments</title>
-          <description><![CDATA[Python Enhancement Proposal 751 (PEP 751) has been accepted, proposing a universal lock file format to specify dependencies and enable reproducibility in Python environments.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/31/new-python-lock-file-format-will-specify-dependencies/</guid>
-          <link>https://majordigest.com/tech/2025/03/31/new-python-lock-file-format-will-specify-dependencies/</link>
-          <pubDate>Mon, 31 Mar 2025 23:10:00 GMT</pubDate>
+          <title>The Future of AI: Why Agentic AI May Not Drive Public Cloud Growth</title>
+          <description><![CDATA[The future of artificial intelligence (AI) and its impact on public cloud growth may not align with the ambitious projections of major cloud providers, such as AWS, Google, and Microsoft. The reality is that agentic AI's architectural approach enables systems to work independently, making decisions and managing resources, often without needing specialized GPU clusters.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/01/agentic-ai-wont-make-public-cloud-providers-rich/</guid>
+          <link>https://majordigest.com/tech/2025/04/01/agentic-ai-wont-make-public-cloud-providers-rich/</link>
+          <pubDate>Tue, 01 Apr 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/31/new-python-lock-file-format-will-specify-dependencies.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/31/new-python-lock-file-format-will-specify-dependencies.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/01/agentic-ai-wont-make-public-cloud-providers-rich.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/01/agentic-ai-wont-make-public-cloud-providers-rich.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item>
         <item>
-          <title>Silicon Motion Begins Shipping 128TB SSD Reference Design Kit</title>
-          <description><![CDATA[Silicon Motion has started shipping its 128TB Solid State Disks (SSD) Reference Design Kit, aimed at maximizing performance and efficiency in AI tool workloads.]]></description>
-          <guid>https://majordigest.com/tech/2025/03/31/silicon-motion-rolls-ssd-kit-to-bolster-ai-workload-performance/</guid>
-          <link>https://majordigest.com/tech/2025/03/31/silicon-motion-rolls-ssd-kit-to-bolster-ai-workload-performance/</link>
-          <pubDate>Mon, 31 Mar 2025 15:46:36 GMT</pubDate>
+          <title>Chinese Companies Accused of Hiding Ties to Steal Taiwan's Semiconductor Talent</title>
+          <description><![CDATA[Taiwanese Ministry of Justice Investigation Bureau alleges that Chinese companies are using 'front' companies to hire away its best engineering talent in the semiconductor industry.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/31/chinese-firms-accused-of-poaching-taiwans-chip-engineers-using-bogus-front-companies/</guid>
+          <link>https://majordigest.com/tech/2025/03/31/chinese-firms-accused-of-poaching-taiwans-chip-engineers-using-bogus-front-companies/</link>
+          <pubDate>Mon, 31 Mar 2025 18:09:06 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/31/silicon-motion-rolls-ssd-kit-to-bolster-ai-workload-performance.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/31/silicon-motion-rolls-ssd-kit-to-bolster-ai-workload-performance.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/31/chinese-firms-accused-of-poaching-taiwans-chip-engineers-using-bogus-front-companies.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/31/chinese-firms-accused-of-poaching-taiwans-chip-engineers-using-bogus-front-companies.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Navy's Unified Endpoint Effort: Aiming for Simpler Networks and Better User Experience</title>
+          <description><![CDATA[The Navy is working to simplify its IT services by implementing a unified endpoint enterprise service, aiming to reduce the number of one-off approaches and deliver better user experience.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/31/dod-modernization-exchange-2025-navys-justin-fanelli-brandon-wehler-and-matthew-rambo-on-unified-endpoints/</guid>
+          <link>https://majordigest.com/tech/2025/03/31/dod-modernization-exchange-2025-navys-justin-fanelli-brandon-wehler-and-matthew-rambo-on-unified-endpoints/</link>
+          <pubDate>Mon, 31 Mar 2025 13:17:08 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/31/dod-modernization-exchange-2025-navys-justin-fanelli-brandon-wehler-and-matthew-rambo-on-unified-endpoints.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/31/dod-modernization-exchange-2025-navys-justin-fanelli-brandon-wehler-and-matthew-rambo-on-unified-endpoints.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
