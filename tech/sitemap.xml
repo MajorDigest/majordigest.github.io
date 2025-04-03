@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/03/exploring-the-confluence-of-tech-and-sustainability-for-a-better-future/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-03T12:44:28.000Z</news:publication_date>
-            <news:title>Exploring the confluence of tech and sustainability for a better future</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/03/exploring-the-confluence-of-tech-and-sustainability-for-a-better-future.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/04/03/opinion-the-tech-fantasy-that-powers-ai-is-running-on-fumes/</loc>
           <news:news>
             <news:publication>
@@ -28,6 +14,20 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/04/03/opinion-the-tech-fantasy-that-powers-ai-is-running-on-fumes.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/03/the-tumblr-revival-is-real-and-gen-z-is-leading-the-charge/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-03T11:20:00.000Z</news:publication_date>
+            <news:title>The Tumblr revival is real&#8212;and Gen Z is leading the charge</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/03/the-tumblr-revival-is-real-and-gen-z-is-leading-the-charge.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -59,31 +59,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/03/lenovo-accidentally-leaks-nvidia-rtx-5060-ti-and-5060-models-in-a-desktop-pc-suggesting-these-gpus-are-close-to-release/</loc>
+          <loc>https://majordigest.com/tech/2025/04/03/humanoid-robot-stuns-perfect-side-flip-acrobatics/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-03T09:55:04.000Z</news:publication_date>
-            <news:title>Lenovo accidentally leaks Nvidia RTX 5060 Ti and 5060 models in a desktop PC, suggesting these GPUs are close to release</news:title>
+            <news:publication_date>2025-04-03T10:00:57.000Z</news:publication_date>
+            <news:title>Humanoid robot stuns with perfect side-flip acrobatics</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/03/lenovo-accidentally-leaks-nvidia-rtx-5060-ti-and-5060-models-in-a-desktop-pc-suggesting-these-gpus-are-close-to-release.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/03/humanoid-robot-stuns-perfect-side-flip-acrobatics.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/03/new-mlcommons-benchmarks-to-test-ai-infrastructure-performance/</loc>
+          <loc>https://majordigest.com/tech/2025/04/03/edge-ai-for-robots-smart-devices-not-far-off/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-03T09:32:25.000Z</news:publication_date>
-            <news:title>New MLCommons benchmarks to test AI infrastructure performance</news:title>
+            <news:publication_date>2025-04-03T10:00:00.000Z</news:publication_date>
+            <news:title>Edge AI for robots, smart devices not far off</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/03/new-mlcommons-benchmarks-to-test-ai-infrastructure-performance.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/03/edge-ai-for-robots-smart-devices-not-far-off.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/03/most-workers-are-greatly-overestimating-their-ai-skills/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-03T09:30:03.000Z</news:publication_date>
+            <news:title>Most workers are greatly overestimating their AI skills</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/03/most-workers-are-greatly-overestimating-their-ai-skills.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/03/ecco-come-lai-aggiunge-complessita-alla-cybersicurezza-e-alle-frodi/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-03T05:00:00.000Z</news:publication_date>
+            <news:title>Ecco come l&#8217;AI aggiunge complessit&#224; alla cybersicurezza e alle frodi</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/03/ecco-come-lai-aggiunge-complessita-alla-cybersicurezza-e-alle-frodi.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/03/microsoft-founder-bill-gates-reflects-upon-a-50-year-old-computer-code-that-reshaped-technology/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-03T04:30:06.000Z</news:publication_date>
+            <news:title>Microsoft founder Bill Gates reflects upon a 50-year-old computer code that reshaped technology</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/03/microsoft-founder-bill-gates-reflects-upon-a-50-year-old-computer-code-that-reshaped-technology.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -115,101 +157,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/02/genai-is-already-transforming-the-healthcare-industry/</loc>
+          <loc>https://majordigest.com/tech/2025/04/02/arkansas-social-media-age-verification-law/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-02T20:57:20.000Z</news:publication_date>
-            <news:title>GenAI is already transforming the healthcare industry</news:title>
+            <news:publication_date>2025-04-02T22:31:59.000Z</news:publication_date>
+            <news:title>Judge blocks social media age-verification law in Arkansas</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/genai-is-already-transforming-the-healthcare-industry.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/arkansas-social-media-age-verification-law.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/02/united-faa-certification-starlink-aircraft/</loc>
+          <loc>https://majordigest.com/tech/2025/04/02/nasas-webb-telescope-captures-photos-of-the-asteroid-that-wont-hit-earth-in-2032/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-02T20:41:31.000Z</news:publication_date>
-            <news:title>United receives FAA certification on Starlink-equipped aircraft</news:title>
+            <news:publication_date>2025-04-02T20:49:31.000Z</news:publication_date>
+            <news:title>NASA's Webb telescope captures photos of the asteroid that won't hit Earth in 2032</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/united-faa-certification-starlink-aircraft.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/02/splunk-launches-inventory-tool-to-simplify-opentelemetry-monitoring/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-02T20:07:13.000Z</news:publication_date>
-            <news:title>Splunk launches inventory tool to simplify OpenTelemetry monitoring</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/splunk-launches-inventory-tool-to-simplify-opentelemetry-monitoring.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/02/san-jose-tech-ai-artificial-intelligence-economy-jobs-sjsu-power-pge/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-02T19:40:30.000Z</news:publication_date>
-            <news:title>Plug and Play AI startup incubator launches downtown San Jose tech hub</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/san-jose-tech-ai-artificial-intelligence-economy-jobs-sjsu-power-pge.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/02/vapes-arent-just-for-smoking-anymore-now-theyre-digital-toys/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-02T18:00:00.000Z</news:publication_date>
-            <news:title>Vapes aren&#8217;t just for smoking anymore&#8212;now they&#8217;re digital toys</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/vapes-arent-just-for-smoking-anymore-now-theyre-digital-toys.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/02/apple-tv-has-discovered-the-fountain-of-youth-and-you-can-jump-in-this-may-when-the-movie-starts-streaming/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-02T16:42:08.000Z</news:publication_date>
-            <news:title>Apple TV+ has discovered the Fountain of Youth and you can jump in this May when the movie starts streaming</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/apple-tv-has-discovered-the-fountain-of-youth-and-you-can-jump-in-this-may-when-the-movie-starts-streaming.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/02/bad-news-foldable-fans-the-rumored-samsung-galaxy-tri-fold-phone-could-be-harder-to-get-hold-of-than-we-first-thought/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-02T16:40:51.000Z</news:publication_date>
-            <news:title>Bad news, foldable fans &#8211; the rumored Samsung Galaxy tri-fold phone could be harder to get hold of than we first thought</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/bad-news-foldable-fans-the-rumored-samsung-galaxy-tri-fold-phone-could-be-harder-to-get-hold-of-than-we-first-thought.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/nasas-webb-telescope-captures-photos-of-the-asteroid-that-wont-hit-earth-in-2032.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -227,17 +199,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/02/tesla-sales-drop-13-in-first-quarter-as-elon-musk-backlash-aging-models-hurt-demand/</loc>
+          <loc>https://majordigest.com/tech/2025/04/02/everything-we-learned-during-the-nintendo-switch-2-direct-including-the-new-mario-kart-pricing-for-the-console-and-some-fancy-new-features/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-02T13:44:36.000Z</news:publication_date>
-            <news:title>Tesla sales drop 13% in first quarter as Elon Musk backlash, aging models hurt demand</news:title>
+            <news:publication_date>2025-04-02T16:35:10.000Z</news:publication_date>
+            <news:title>11 things we learned from the Nintendo Switch 2 Direct, including the new Mario Kart, pricing for the console, and some fancy new features</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/tesla-sales-drop-13-in-first-quarter-as-elon-musk-backlash-aging-models-hurt-demand.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/everything-we-learned-during-the-nintendo-switch-2-direct-including-the-new-mario-kart-pricing-for-the-console-and-some-fancy-new-features.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/02/ftc-chair-defends-trump-firing/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-02T16:30:14.000Z</news:publication_date>
+            <news:title>FTC chair defends Trump firing of Democratic commissioners</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/ftc-chair-defends-trump-firing.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/02/what-is-ai-thinking-anthropic-researchers-are-starting-to-figure-it-out/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-02T16:00:00.000Z</news:publication_date>
+            <news:title>What is AI thinking? Anthropic researchers are starting to figure it out</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/what-is-ai-thinking-anthropic-researchers-are-starting-to-figure-it-out.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -247,95 +247,109 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-02T11:05:41.000Z</news:publication_date>
-            <news:title>Why no one is challenging Trump's executive order that keeps TikTok running</news:title>
+            <news:publication_date>2025-04-02T15:55:39.000Z</news:publication_date>
+            <news:title>Why no one is challenging Trump&#8217;s executive order that keeps TikTok running</news:title>
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/04/02/why-no-one-is-challenging-trumps-executive-order-that-keeps-tiktok-running.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/02/rewriting-social-security-will-be-a-train-wreck/</loc>
+          <loc>https://majordigest.com/tech/2025/04/02/netbox-labs-launches-drift-detection-tool-to-tame-configuration-chaos/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-02T09:00:00.000Z</news:publication_date>
-            <news:title>Rewriting Social Security will be a train wreck</news:title>
+            <news:publication_date>2025-04-02T15:43:58.000Z</news:publication_date>
+            <news:title>NetBox Labs launches drift detection tool to tame configuration chaos</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/rewriting-social-security-will-be-a-train-wreck.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/netbox-labs-launches-drift-detection-tool-to-tame-configuration-chaos.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/02/making-python-faster-wont-be-easy-but-itll-be-worth-it/</loc>
+          <loc>https://majordigest.com/tech/2025/04/02/nintendo-switch-2-launch/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-02T09:00:00.000Z</news:publication_date>
-            <news:title>Making Python faster won&#8217;t be easy, but it&#8217;ll be worth it</news:title>
+            <news:publication_date>2025-04-02T15:35:41.000Z</news:publication_date>
+            <news:title>Nintendo Switch 2 launch date is announced</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/making-python-faster-wont-be-easy-but-itll-be-worth-it.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/nintendo-switch-2-launch.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/02/htmx-and-alpine-js-how-to-combine-two-great-lean-front-ends/</loc>
+          <loc>https://majordigest.com/tech/2025/04/02/senate-democrats-elon-musk-doge-education-department-call-center-ai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-02T09:00:00.000Z</news:publication_date>
-            <news:title>HTMX and Alpine.js: How to combine two great, lean front ends</news:title>
+            <news:publication_date>2025-04-02T14:55:14.000Z</news:publication_date>
+            <news:title>Senate Democrats open investigation into reports AI could replace contract workers at Education Department</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/htmx-and-alpine-js-how-to-combine-two-great-lean-front-ends.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/senate-democrats-elon-musk-doge-education-department-call-center-ai.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/01/red-hat-developer-hub-adds-analysis-dashboard/</loc>
+          <loc>https://majordigest.com/tech/2025/04/02/solarwinds-launches-incident-response-tool-boosts-ai-in-observability-platform/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-01T21:47:24.000Z</news:publication_date>
-            <news:title>Red Hat Developer Hub adds analysis dashboard</news:title>
+            <news:publication_date>2025-04-02T14:27:05.000Z</news:publication_date>
+            <news:title>SolarWinds launches incident response tool, boosts AI in observability platform</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/01/red-hat-developer-hub-adds-analysis-dashboard.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/solarwinds-launches-incident-response-tool-boosts-ai-in-observability-platform.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/01/metas-head-of-ai-research-stepping-down/</loc>
+          <loc>https://majordigest.com/tech/2025/04/02/google-adds-end-to-end-email-encryption-to-gmail/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-01T21:23:05.000Z</news:publication_date>
-            <news:title>Meta's head of AI research stepping down</news:title>
+            <news:publication_date>2025-04-02T14:17:42.000Z</news:publication_date>
+            <news:title>Google adds end-to-end email encryption to Gmail</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/01/metas-head-of-ai-research-stepping-down.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/google-adds-end-to-end-email-encryption-to-gmail.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/01/in-a-tough-time-for-hollywood-kickstarter-is-helping-more-filmmakers-actually-make-their-movies/</loc>
+          <loc>https://majordigest.com/tech/2025/04/02/fbi-warns-about-new-extortion-scam-targeting-sensitive-data/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-01T21:00:00.000Z</news:publication_date>
-            <news:title>Kickstarter isn&#8217;t just for indie passion projects anymore</news:title>
+            <news:publication_date>2025-04-02T14:00:35.000Z</news:publication_date>
+            <news:title>FBI Warns of Ransom Letter Scam Targeting Businesses, Especially Healthcare Sector</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/01/in-a-tough-time-for-hollywood-kickstarter-is-helping-more-filmmakers-actually-make-their-movies.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/fbi-warns-about-new-extortion-scam-targeting-sensitive-data.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/02/nintendo-direct-to-unveil-switch-2-details-as-release-date-price-have-yet-to-be-announced/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-02T02:59:52.000Z</news:publication_date>
+            <news:title>Nintendo Switch 2 launches in June with new Mario Kart World game</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/nintendo-direct-to-unveil-switch-2-details-as-release-date-price-have-yet-to-be-announced.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -353,45 +367,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/01/boebert-to-introduce-resolution-condemning-tesla-vehicle-attacks/</loc>
+          <loc>https://majordigest.com/tech/2025/04/01/network-jobs-watch-hiring-skills-and-certification-trends/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-01T18:38:45.000Z</news:publication_date>
-            <news:title>Boebert to introduce resolution condemning Tesla vehicle attacks</news:title>
+            <news:publication_date>2025-04-01T18:44:32.000Z</news:publication_date>
+            <news:title>Network jobs watch: Hiring, skills and certification trends</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/01/boebert-to-introduce-resolution-condemning-tesla-vehicle-attacks.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/01/understand-pythons-new-lock-file-format/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-01T17:07:07.000Z</news:publication_date>
-            <news:title>Understand Python&#8217;s new lock file format</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/01/understand-pythons-new-lock-file-format.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/01/how-to-use-apples-mail-categorization-ai-in-macos-15-4/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-01T15:46:43.000Z</news:publication_date>
-            <news:title>Apple Releases macOS Sequoia 15.4 with AI-Boosted Email Categorization</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/01/how-to-use-apples-mail-categorization-ai-in-macos-15-4.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/01/network-jobs-watch-hiring-skills-and-certification-trends.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -409,20 +395,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/01/save-loved-ones-voicemails-android/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-01T10:00:42.000Z</news:publication_date>
-            <news:title>Preserving Precious Voicemails on Android and iPhone</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/01/save-loved-ones-voicemails-android.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/04/01/nasa-finds-generative-ai-cant-be-trusted/</loc>
           <news:news>
             <news:publication>
@@ -437,72 +409,30 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/01/ai-agents-can-and-will-be-scammed/</loc>
+          <loc>https://majordigest.com/tech/2025/03/31/dod-modernization-exchange-2025-disas-jeff-marshall-on-aligning-tech-to-solving-warfighter-problems/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-01T10:00:00.000Z</news:publication_date>
-            <news:title>AI agents can (and will) be scammed</news:title>
+            <news:publication_date>2025-03-31T12:51:40.000Z</news:publication_date>
+            <news:title>DoD Modernization Exchange 2025: DISA&#8217;s Jeff Marshall on aligning tech to solving warfighter problems</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/01/ai-agents-can-and-will-be-scammed.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/31/dod-modernization-exchange-2025-disas-jeff-marshall-on-aligning-tech-to-solving-warfighter-problems.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/01/volcano-begins-erupting-in-southwestern-iceland-after-a-nearby-town-and-spa-are-evacuated/</loc>
+          <loc>https://majordigest.com/tech/2025/03/31/chinas-telecoms-giant-huawei-technologies-says-its-profit-fell-28-while-revenue-surged-in-2024/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-01T08:41:27.000Z</news:publication_date>
-            <news:title>Volcano erupts in southwestern Iceland after a nearby town and spa are evacuated</news:title>
+            <news:publication_date>2025-03-31T12:07:36.000Z</news:publication_date>
+            <news:title>China's telecoms giant Huawei Technologies says its profit fell 28% while revenue surged in 2024</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/01/volcano-begins-erupting-in-southwestern-iceland-after-a-nearby-town-and-spa-are-evacuated.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/31/microsoft-adds-data-agents-to-fabric-to-help-business-users-with-analytics/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-31T15:00:00.000Z</news:publication_date>
-            <news:title>Microsoft adds data agents to Fabric to help business users with analytics</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/31/microsoft-adds-data-agents-to-fabric-to-help-business-users-with-analytics.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/28/dod-modernization-exchange-2025-googles-scott-frohman-on-restoring-symmetry-to-the-cyber-fight/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-28T19:45:48.000Z</news:publication_date>
-            <news:title>DoD Modernization Exchange 2025: Google&#8217;s Scott Frohman on restoring symmetry to the cyber fight</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/28/dod-modernization-exchange-2025-googles-scott-frohman-on-restoring-symmetry-to-the-cyber-fight.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/03/28/an-ai-based-drone-that-speeds-up-the-detection-and-monitoring-of-wildfires-is-presented-in-germany/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-03-28T09:14:09.000Z</news:publication_date>
-            <news:title>An AI-based drone that speeds up the detection and monitoring of wildfires is presented in Germany</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/28/an-ai-based-drone-that-speeds-up-the-detection-and-monitoring-of-wildfires-is-presented-in-germany.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/03/31/chinas-telecoms-giant-huawei-technologies-says-its-profit-fell-28-while-revenue-surged-in-2024.webp</image:loc>
           </image:image>
         </url></urlset>
