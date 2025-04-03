@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.comnull</loc>
+          <loc>https://majordigest.com/tech/2025/04/01/how-to-use-apples-mail-categorization-ai-in-macos-15-4/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-03-31T19:17:24.000Z</news:publication_date>
-            <news:title>Building a Resilient Cyber Culture in 2025</news:title>
+            <news:publication_date>2025-04-01T15:46:43.000Z</news:publication_date>
+            <news:title>Apple Releases macOS Sequoia 15.4 with AI-Boosted Email Categorization</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/03/31/prioritizing-an-enterprisewide-cyber-culture-in-2025.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/01/how-to-use-apples-mail-categorization-ai-in-macos-15-4.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/01/save-loved-ones-voicemails-android/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-01T10:00:42.000Z</news:publication_date>
+            <news:title>Preserving Precious Voicemails on Android and iPhone</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/01/save-loved-ones-voicemails-android.webp</image:loc>
           </image:image>
         </url></urlset>
