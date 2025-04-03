@@ -3,16 +3,44 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/02/netbox-labs-launches-drift-detection-tool-to-tame-configuration-chaos/</loc>
+          <loc>https://majordigest.com/tech/2025/04/03/the-nintendo-switch-2-is-backward-compatible-but-a-ton-of-original-switch-games-have-start-up-and-compatibility-issues/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-02T15:43:58.000Z</news:publication_date>
-            <news:title>NetBox Labs Unveils NetBox Assurance for Proactive Network Management</news:title>
+            <news:publication_date>2025-04-03T15:45:48.000Z</news:publication_date>
+            <news:title>Nintendo Switch 2: Over 120 Games with Start Up and Compatibility Issues Revealed</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/02/netbox-labs-launches-drift-detection-tool-to-tame-configuration-chaos.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/03/the-nintendo-switch-2-is-backward-compatible-but-a-ton-of-original-switch-games-have-start-up-and-compatibility-issues.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/02/3-key-features-in-kong-ai-gateway-3-10/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-02T13:00:00.000Z</news:publication_date>
+            <news:title>Kong AI Gateway 3.10: Simplifying Generative AI Orchestration</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/3-key-features-in-kong-ai-gateway-3-10.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/02/meta-is-fined-by-turkey-after-refusing-to-restrict-content-on-facebook-and-instagram/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-02T10:30:57.000Z</news:publication_date>
+            <news:title>Turkish Government Fines Meta Over Resistance to Content Restrictions</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/meta-is-fined-by-turkey-after-refusing-to-restrict-content-on-facebook-and-instagram.webp</image:loc>
           </image:image>
         </url></urlset>
