@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 03 Apr 2025 14:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 15:12:06 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>FBI Warns of Ransom Letter Scam Targeting Businesses, Especially Healthcare Sector</title>
-          <description><![CDATA[The FBI is warning businesses, particularly those in the healthcare sector, about a scam involving physical ransom letters sent via the U.S. Postal Service.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/02/fbi-warns-about-new-extortion-scam-targeting-sensitive-data/</guid>
-          <link>https://majordigest.com/tech/2025/04/02/fbi-warns-about-new-extortion-scam-targeting-sensitive-data/</link>
-          <pubDate>Wed, 02 Apr 2025 14:00:35 GMT</pubDate>
+          <title>A Universal Lock File Format for Python: A Game-Changer for Reproducible Environments</title>
+          <description><![CDATA[Python Enhancement Proposal 751 (PEP 751) has been accepted, proposing a universal lock file format to specify dependencies and enable reproducibility in Python environments.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/31/new-python-lock-file-format-will-specify-dependencies/</guid>
+          <link>https://majordigest.com/tech/2025/03/31/new-python-lock-file-format-will-specify-dependencies/</link>
+          <pubDate>Mon, 31 Mar 2025 23:10:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/02/fbi-warns-about-new-extortion-scam-targeting-sensitive-data.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/02/fbi-warns-about-new-extortion-scam-targeting-sensitive-data.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/31/new-python-lock-file-format-will-specify-dependencies.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/31/new-python-lock-file-format-will-specify-dependencies.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Silicon Motion Begins Shipping 128TB SSD Reference Design Kit</title>
+          <description><![CDATA[Silicon Motion has started shipping its 128TB Solid State Disks (SSD) Reference Design Kit, aimed at maximizing performance and efficiency in AI tool workloads.]]></description>
+          <guid>https://majordigest.com/tech/2025/03/31/silicon-motion-rolls-ssd-kit-to-bolster-ai-workload-performance/</guid>
+          <link>https://majordigest.com/tech/2025/03/31/silicon-motion-rolls-ssd-kit-to-bolster-ai-workload-performance/</link>
+          <pubDate>Mon, 31 Mar 2025 15:46:36 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/03/31/silicon-motion-rolls-ssd-kit-to-bolster-ai-workload-performance.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/03/31/silicon-motion-rolls-ssd-kit-to-bolster-ai-workload-performance.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
