@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/03/elon-musk-doge-tesla-legacy/</loc>
+          <loc>https://majordigest.com/tech/2025/04/03/potential-nvidia-chip-shortage-looms-as-chinese-customers-rush-to-beat-us-sales-ban/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-03T23:22:18.000Z</news:publication_date>
-            <news:title>Musk's Political Pivot: A Disruptor in Disarray</news:title>
+            <news:publication_date>2025-04-03T01:06:09.000Z</news:publication_date>
+            <news:title>Nvidia AI Chip Shortage Worsens Amid Chinese H20 Orders and Proposed US Sales Ban</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/03/elon-musk-doge-tesla-legacy.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/03/potential-nvidia-chip-shortage-looms-as-chinese-customers-rush-to-beat-us-sales-ban.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/02/nvidias-blackwell-raises-the-bar-with-new-mlperf-inference-v5-0-results/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-02T19:07:17.000Z</news:publication_date>
+            <news:title>Nvidia Sets New Records in AI Performance Benchmarks - AI Computing Advancements</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/02/nvidias-blackwell-raises-the-bar-with-new-mlperf-inference-v5-0-results.webp</image:loc>
           </image:image>
         </url></urlset>

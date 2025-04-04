@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 04 Apr 2025 13:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 14:14:48 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Musk's Political Pivot: A Disruptor in Disarray</title>
-          <description><![CDATA[Elon Musk's government stint sparks backlash, impacting Tesla stock and public image.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/03/elon-musk-doge-tesla-legacy/</guid>
-          <link>https://majordigest.com/tech/2025/04/03/elon-musk-doge-tesla-legacy/</link>
-          <pubDate>Thu, 03 Apr 2025 23:22:18 GMT</pubDate>
+          <title>Nvidia AI Chip Shortage Worsens Amid Chinese H20 Orders and Proposed US Sales Ban</title>
+          <description><![CDATA[Nvidia faces a severe shortage of its AI chips, particularly the H20 model, due to massive orders from Chinese companies like ByteDance, Alibaba Group, and Tencent Holdings. The proposed US sales ban on the chip has exacerbated the situation, prompting concerns about global supply chain disruptions.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/03/potential-nvidia-chip-shortage-looms-as-chinese-customers-rush-to-beat-us-sales-ban/</guid>
+          <link>https://majordigest.com/tech/2025/04/03/potential-nvidia-chip-shortage-looms-as-chinese-customers-rush-to-beat-us-sales-ban/</link>
+          <pubDate>Thu, 03 Apr 2025 01:06:09 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/03/elon-musk-doge-tesla-legacy.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/03/elon-musk-doge-tesla-legacy.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/03/potential-nvidia-chip-shortage-looms-as-chinese-customers-rush-to-beat-us-sales-ban.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/03/potential-nvidia-chip-shortage-looms-as-chinese-customers-rush-to-beat-us-sales-ban.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Nvidia Sets New Records in AI Performance Benchmarks - AI Computing Advancements</title>
+          <description><![CDATA[Nvidia releases MLPerf Inference V5.0 benchmark results for its Blackwell GPU, achieving record-breaking performance and setting the stage for future AI computing advancements.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/02/nvidias-blackwell-raises-the-bar-with-new-mlperf-inference-v5-0-results/</guid>
+          <link>https://majordigest.com/tech/2025/04/02/nvidias-blackwell-raises-the-bar-with-new-mlperf-inference-v5-0-results/</link>
+          <pubDate>Wed, 02 Apr 2025 19:07:17 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/02/nvidias-blackwell-raises-the-bar-with-new-mlperf-inference-v5-0-results.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/02/nvidias-blackwell-raises-the-bar-with-new-mlperf-inference-v5-0-results.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
