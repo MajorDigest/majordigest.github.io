@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/07/bogus-report-on-tariff-pause-briefly-lifted-markets-before-white-house-denied-it/</loc>
+          <loc>https://majordigest.com/tech/2025/04/07/uk-court-reveals-apples-fight-against-government-order-for-backdoor-access-to-encrypted-cloud-data/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-07T18:06:09.000Z</news:publication_date>
-            <news:title>Stock Market Jitters: Trump Tariff Pause Rumor Sparks Confusion and Brief Market Surge</news:title>
+            <news:publication_date>2025-04-07T16:22:39.000Z</news:publication_date>
+            <news:title>Apple Challenges British Government Order for iPhone Backdoor Access</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/07/bogus-report-on-tariff-pause-briefly-lifted-markets-before-white-house-denied-it.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/07/uk-court-reveals-apples-fight-against-government-order-for-backdoor-access-to-encrypted-cloud-data.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/07/darpa-backs-multiple-quantum-paths-in-benchmarking-initiative/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-07T15:29:09.000Z</news:publication_date>
+            <news:title>DARPA Selects 15 Quantum Computing Companies for Benchmarking Initiative</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/07/darpa-backs-multiple-quantum-paths-in-benchmarking-initiative.webp</image:loc>
           </image:image>
         </url></urlset>
