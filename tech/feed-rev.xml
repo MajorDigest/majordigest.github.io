@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Tue, 08 Apr 2025 02:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 03:12:15 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>New Relic Unveils eBPF-Powered Agent for Kubernetes Monitoring</title>
-          <description><![CDATA[New Relic this week announced a new capability in its Intelligent Observability Platform that enables engineering teams to deploy an eBPF-powered agent to automatically discover and monitor all applications running on Kubernetes clusters.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/03/new-relic-simplifies-kubernetes-performance-monitoring/</guid>
-          <link>https://majordigest.com/tech/2025/04/03/new-relic-simplifies-kubernetes-performance-monitoring/</link>
-          <pubDate>Thu, 03 Apr 2025 16:34:46 GMT</pubDate>
+          <title>Protecting Your Privacy in a World of AI: What Not to Share and How to Safeguard Your Data</title>
+          <description><![CDATA[As chatbots like ChatGPT become increasingly sophisticated, it's essential to understand what not to share with them and take steps to protect your privacy. Learn how to safeguard your sensitive information and minimize risks.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/07/dangers-oversharing-ai-tools/</guid>
+          <link>https://majordigest.com/tech/2025/04/07/dangers-oversharing-ai-tools/</link>
+          <pubDate>Mon, 07 Apr 2025 14:00:24 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/03/new-relic-simplifies-kubernetes-performance-monitoring.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/03/new-relic-simplifies-kubernetes-performance-monitoring.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/07/dangers-oversharing-ai-tools.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/07/dangers-oversharing-ai-tools.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Federal Judge Blocks Arkansas Age Verification Law</title>
+          <description><![CDATA[Federal judge blocks Arkansas age verification law, deeming it unconstitutional]]></description>
+          <guid>https://majordigest.com/tech/2025/04/02/arkansas-social-media-age-verification-law/</guid>
+          <link>https://majordigest.com/tech/2025/04/02/arkansas-social-media-age-verification-law/</link>
+          <pubDate>Wed, 02 Apr 2025 22:31:59 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/02/arkansas-social-media-age-verification-law.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/02/arkansas-social-media-age-verification-law.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
