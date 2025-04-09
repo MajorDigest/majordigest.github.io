@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 09 Apr 2025 15:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 16:20:26 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,35 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>UALink Consortium Publishes Open Standard Interconnect for AI Clusters</title>
-          <description><![CDATA[UALink consortium publishes open standard interconnect for AI clusters, providing alternative to Nvidia's NVLink]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/ualink-releases-inaugural-gpu-interconnect-specification/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/ualink-releases-inaugural-gpu-interconnect-specification/</link>
-          <pubDate>Wed, 09 Apr 2025 13:09:28 GMT</pubDate>
+          <title>NetBox Labs Expands into Generative AI Capabilities</title>
+          <description><![CDATA[NetBox Labs is pushing ahead with NetBox, an open-source tool for understanding and modeling networks, by expanding its generative AI capabilities.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/07/netbox-labs-embraces-intersection-of-network-management-and-ai/</guid>
+          <link>https://majordigest.com/tech/2025/04/07/netbox-labs-embraces-intersection-of-network-management-and-ai/</link>
+          <pubDate>Mon, 07 Apr 2025 14:42:39 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/ualink-releases-inaugural-gpu-interconnect-specification.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/ualink-releases-inaugural-gpu-interconnect-specification.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/07/netbox-labs-embraces-intersection-of-network-management-and-ai.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/07/netbox-labs-embraces-intersection-of-network-management-and-ai.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item>
         <item>
-          <title>Google Unveils Open Protocol to Connect Agents Across Ecosystems</title>
-          <description><![CDATA[Google has introduced a new open protocol called Agent2Agent (A2A) that enables enterprises to adopt agents more readily by bypassing the challenge of agents built on different vendor ecosystems not being able to communicate with each other.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/googles-agent2agent-open-protocol-aims-to-connect-disparate-agents/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/googles-agent2agent-open-protocol-aims-to-connect-disparate-agents/</link>
-          <pubDate>Wed, 09 Apr 2025 12:00:00 GMT</pubDate>
+          <title>Apple to Offer Products as Service Amid Tariff Uncertainty</title>
+          <description><![CDATA[Apple may introduce a service where customers can rent its products, including iPhones, amid concerns over tariffs and falling sales.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/07/why-iphone-as-a-service-may-make-sense-as-tariffs-bite-apple/</guid>
+          <link>https://majordigest.com/tech/2025/04/07/why-iphone-as-a-service-may-make-sense-as-tariffs-bite-apple/</link>
+          <pubDate>Mon, 07 Apr 2025 12:03:09 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/googles-agent2agent-open-protocol-aims-to-connect-disparate-agents.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/googles-agent2agent-open-protocol-aims-to-connect-disparate-agents.webp"/>
-          <dc:creator>Major Digest</dc:creator>
-        </item>
-        <item>
-          <title>Google Unveils Open Source Framework for Building AI Agents</title>
-          <description><![CDATA[Google adds open source Agent Development Kit (ADK) to Vertex AI, along with other updates to help deploy and maintain AI agents.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/google-adds-open-source-framework-for-building-agents-to-vertex-ai/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/google-adds-open-source-framework-for-building-agents-to-vertex-ai/</link>
-          <pubDate>Wed, 09 Apr 2025 12:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/google-adds-open-source-framework-for-building-agents-to-vertex-ai.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/google-adds-open-source-framework-for-building-agents-to-vertex-ai.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/07/why-iphone-as-a-service-may-make-sense-as-tariffs-bite-apple.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/07/why-iphone-as-a-service-may-make-sense-as-tariffs-bite-apple.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
