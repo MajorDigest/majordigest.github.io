@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Wed, 09 Apr 2025 20:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 21:15:19 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Tesla Expands into Saudi Arabia Amid Growing Demand for Electric Vehicles</title>
-          <description><![CDATA[Tesla starts selling cars in Saudi Arabia, a country with ambitious plans to adopt electric vehicles despite limited charging infrastructure and summer heat that drains EV batteries.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/tesla-launching-sales-saudi-arabia-where-obstacles-do-not-yet-include-musk-protests/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/tesla-launching-sales-saudi-arabia-where-obstacles-do-not-yet-include-musk-protests/</link>
-          <pubDate>Wed, 09 Apr 2025 21:43:32 GMT</pubDate>
+          <title>Google Unveils Ironwood Chip to Accelerate Generative AI Workloads</title>
+          <description><![CDATA[Google's new chip, Ironwood, is designed to accelerate generative AI workloads, especially inferencing. The inferencing-only semiconductor market is projected to be $191 billion in size by 2030.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/google-targets-ai-inferencing-opportunity-with-ironwood-chip/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/google-targets-ai-inferencing-opportunity-with-ironwood-chip/</link>
+          <pubDate>Wed, 09 Apr 2025 12:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/tesla-launching-sales-saudi-arabia-where-obstacles-do-not-yet-include-musk-protests.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/tesla-launching-sales-saudi-arabia-where-obstacles-do-not-yet-include-musk-protests.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/google-targets-ai-inferencing-opportunity-with-ironwood-chip.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/google-targets-ai-inferencing-opportunity-with-ironwood-chip.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Google Enhances AlloyDB with AI Capabilities</title>
+          <description><![CDATA[Google updates its fully managed database-as-a-service (DBaaS) AlloyDB with new AI capabilities, aiming to help developers build applications underpinned by generative AI.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/google-adds-natural-language-query-capabilities-to-alloydb/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/google-adds-natural-language-query-capabilities-to-alloydb/</link>
+          <pubDate>Wed, 09 Apr 2025 12:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/google-adds-natural-language-query-capabilities-to-alloydb.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/google-adds-natural-language-query-capabilities-to-alloydb.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
