@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/08/prague-zoo-joins-the-effort-to-ensure-the-survival-of-a-rare-insect-once-considered-extinct/</loc>
+          <loc>https://majordigest.comnull</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-08T13:52:28.000Z</news:publication_date>
-            <news:title>Prague Zoo Joins Global Effort to Save Rare Insect</news:title>
+            <news:publication_date>2025-04-08T05:53:15.000Z</news:publication_date>
+            <news:title>NASA Astronaut Arrives at International Space Station</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/08/prague-zoo-joins-the-effort-to-ensure-the-survival-of-a-rare-insect-once-considered-extinct.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/08/a-us-russian-crew-of-3-launches-to-the-international-space-station.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/04/tech-hiring-dropped-by-29k-in-march-even-as-us-job-growth-remained-solid/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-04T18:37:57.000Z</news:publication_date>
+            <news:title>US Tech Job Market Sees Mixed Signals in March, Despite Overall Economic Growth</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/04/tech-hiring-dropped-by-29k-in-march-even-as-us-job-growth-remained-solid.webp</image:loc>
           </image:image>
         </url></urlset>
