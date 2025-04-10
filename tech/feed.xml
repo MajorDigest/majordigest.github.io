@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 10 Apr 2025 07:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 08:19:12 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,70 +19,114 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>April update has broken Windows Hello for some devices but there&#8217;s a quick fix</title>
-          <description><![CDATA[A software hiccup has occurred with Windows Hello following this month’s security updates, one that could prevent users from logging in via facial recognition.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/10/april-update-has-broken-windows-hello-for-some-devices-but-theres-a-quick-fix/</guid>
-          <link>https://majordigest.com/tech/2025/04/10/april-update-has-broken-windows-hello-for-some-devices-but-theres-a-quick-fix/</link>
-          <pubDate>Thu, 10 Apr 2025 02:25:14 GMT</pubDate>
+          <title>Gigabit NBN plans are cheaper, faster and better than ever &#8211; these are 4 I'd recommend</title>
+          <description><![CDATA[Fast speeds, low costs and plenty of extra perks, NBN 1000 plans are becoming increasingly more attractive.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/10/gigabit-nbn-plans-are-cheaper-faster-and-better-than-ever-these-are-4-id-recommend/</guid>
+          <link>https://majordigest.com/tech/2025/04/10/gigabit-nbn-plans-are-cheaper-faster-and-better-than-ever-these-are-4-id-recommend/</link>
+          <pubDate>Thu, 10 Apr 2025 05:50:01 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/10/april-update-has-broken-windows-hello-for-some-devices-but-theres-a-quick-fix.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/10/april-update-has-broken-windows-hello-for-some-devices-but-theres-a-quick-fix.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Tesla is launching sales in Saudi Arabia, where the obstacles do not (yet) include Musk protests</title>
-          <description><![CDATA[Tesla starts selling cars in Saudi Arabia on Thursday, a country where on a 900-kilometre (559 mile) stretch of its main east-west highway linking the capital Riyadh and the holy city of Mecca there isn’t a single charging station.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/tesla-launching-sales-saudi-arabia-where-obstacles-do-not-yet-include-musk-protests/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/tesla-launching-sales-saudi-arabia-where-obstacles-do-not-yet-include-musk-protests/</link>
-          <pubDate>Wed, 09 Apr 2025 21:43:32 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/tesla-launching-sales-saudi-arabia-where-obstacles-do-not-yet-include-musk-protests.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/tesla-launching-sales-saudi-arabia-where-obstacles-do-not-yet-include-musk-protests.webp"/>
-          <dc:creator>Reuters, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>GitHub Advanced Security now offers security campaigns</title>
-          <description><![CDATA[GitHub has made security campaigns available for GitHub Advanced Security and GitHub Code Security users. Security campaigns help control security debt and manage risk by enabling collaboration between developers and security teams, GitHub said.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/github-advanced-security-now-offers-security-campaigns/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/github-advanced-security-now-offers-security-campaigns/</link>
-          <pubDate>Wed, 09 Apr 2025 21:08:56 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/github-advanced-security-now-offers-security-campaigns.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/github-advanced-security-now-offers-security-campaigns.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Achieve greater business value with VMware Cloud Foundation on Google Cloud VMware Engine</title>
-          <description><![CDATA[VMware Cloud Foundation on Google Cloud VMware Engine (GCVE) is now generally available, and there has never been a better time to move your VMware workloads to Google Cloud, so you can bring down your costs and benefit from a modern cloud experience.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/achieve-greater-business-value-with-vmware-cloud-foundation-on-google-cloud-vmware-engine/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/achieve-greater-business-value-with-vmware-cloud-foundation-on-google-cloud-vmware-engine/</link>
-          <pubDate>Wed, 09 Apr 2025 18:28:18 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/achieve-greater-business-value-with-vmware-cloud-foundation-on-google-cloud-vmware-engine.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/achieve-greater-business-value-with-vmware-cloud-foundation-on-google-cloud-vmware-engine.webp"/>
-          <dc:creator>CIO</dc:creator>
-        </item>
-        <item>
-          <title>Scared that your high-end Nvidia GPU might experience a cable-melting disaster? Asus has a new power monitoring feature to calm your fears</title>
-          <description><![CDATA[Asus has a winner with its new Power Detector+ warning, though it only works for some of the company’s GPUs right now.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/scared-that-your-high-end-nvidia-gpu-might-experience-a-cable-melting-disaster-asus-has-a-new-power-monitoring-feature-to-calm-your-fears/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/scared-that-your-high-end-nvidia-gpu-might-experience-a-cable-melting-disaster-asus-has-a-new-power-monitoring-feature-to-calm-your-fears/</link>
-          <pubDate>Wed, 09 Apr 2025 16:05:23 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/scared-that-your-high-end-nvidia-gpu-might-experience-a-cable-melting-disaster-asus-has-a-new-power-monitoring-feature-to-calm-your-fears.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/scared-that-your-high-end-nvidia-gpu-might-experience-a-cable-melting-disaster-asus-has-a-new-power-monitoring-feature-to-calm-your-fears.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/10/gigabit-nbn-plans-are-cheaper-faster-and-better-than-ever-these-are-4-id-recommend.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/10/gigabit-nbn-plans-are-cheaper-faster-and-better-than-ever-these-are-4-id-recommend.webp"/>
           <dc:creator>TechRadar</dc:creator>
         </item>
         <item>
-          <title>200 million social media records leaked in major X data breach</title>
-          <description><![CDATA[X hit with massive data breach with 200 million records leaked, including emails. Tech expert Kurt “CyberGuy&quot; Knutsson offers seven tips to help protect yourself.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/200-million-social-media-records-leaked-major-x-data-breach/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/200-million-social-media-records-leaked-major-x-data-breach/</link>
-          <pubDate>Wed, 09 Apr 2025 14:00:20 GMT</pubDate>
+          <title>Waymo gets stuck in California Chick-fil-A drive-thru</title>
+          <description><![CDATA[Videos showed Chick-fil-A workers standing around the stalled vehicle, which had its hazard lights on.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/10/waymo-stuck-california-chick-fil-a-drive-thru/</guid>
+          <link>https://majordigest.com/tech/2025/04/10/waymo-stuck-california-chick-fil-a-drive-thru/</link>
+          <pubDate>Thu, 10 Apr 2025 00:02:21 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/200-million-social-media-records-leaked-major-x-data-breach.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/200-million-social-media-records-leaked-major-x-data-breach.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/10/waymo-stuck-california-chick-fil-a-drive-thru.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/10/waymo-stuck-california-chick-fil-a-drive-thru.webp"/>
+          <dc:creator>Travis Schlepp, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>Microsoft says it's 'slowing or pausing' some AI data center projects, including $1B plan for Ohio</title>
+          <description><![CDATA[Microsoft said it is “slowing or pausing” some of its data center construction, including a $1 billion project in Ohio, the latest sign that the demand for artificial intelligence technology that drove a massive infrastructure expansion might not need quite as many powerful computers as expected.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/microsoft-says-its-slowing-or-pausing-some-ai-data-center-projects-including-1b-plan-for-ohio/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/microsoft-says-its-slowing-or-pausing-some-ai-data-center-projects-including-1b-plan-for-ohio/</link>
+          <pubDate>Wed, 09 Apr 2025 21:56:59 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/microsoft-says-its-slowing-or-pausing-some-ai-data-center-projects-including-1b-plan-for-ohio.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/microsoft-says-its-slowing-or-pausing-some-ai-data-center-projects-including-1b-plan-for-ohio.webp"/>
+          <dc:creator>MATT O'BRIEN, Associated Press, KGET 17, NBC</dc:creator>
+        </item>
+        <item>
+          <title>Microsoft 365: A guide to the updates</title>
+          <description><![CDATA[Microsoft 365 (and Office 365) subscribers get more frequent software updates than those who have purchased Office without a subscription, which means subscribers have access to the latest features, security patches, and bug fixes.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/office-365-a-guide-to-the-updates/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/office-365-a-guide-to-the-updates/</link>
+          <pubDate>Wed, 09 Apr 2025 19:40:19 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/office-365-a-guide-to-the-updates.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/office-365-a-guide-to-the-updates.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Whistleblower tells senators that Meta undermined U.S. security, interests</title>
+          <description><![CDATA[Sarah Wynn-Williams, the former director of global public policy at Facebook, which is now called Meta, testified at a Senate hearing Wednesday that she saw Meta executives “repeatedly undermine U.S. national security and betray American values” during her seven-year stint in that job.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/meta-executives-undermine-national-security/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/meta-executives-undermine-national-security/</link>
+          <pubDate>Wed, 09 Apr 2025 19:23:09 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/meta-executives-undermine-national-security.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/meta-executives-undermine-national-security.webp"/>
+          <dc:creator>Alexander Bolton, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Google Cloud Next &#8217;25: What to expect</title>
+          <description><![CDATA[Google Cloud Next ’25, which runs from April 9-11 in Las Vegas) is highlighting the latest advancements and future directions of Google Cloud Platform and cloud computing.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/google-cloud-next-25-what-to-expect/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/google-cloud-next-25-what-to-expect/</link>
+          <pubDate>Wed, 09 Apr 2025 16:51:32 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/google-cloud-next-25-what-to-expect.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/google-cloud-next-25-what-to-expect.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Apple's Next Vision: Faster, Cheaper, and Made in the USA?</title>
+          <description><![CDATA[Apple is rumored to be building a new generation visionOS device, which will likely be faster and more affordable than its predecessor. Could this be made in the US? We explore the possibilities.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/ignoring-wall-street-apple-gets-busy-on-vision-pro-2-0/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/ignoring-wall-street-apple-gets-busy-on-vision-pro-2-0/</link>
+          <pubDate>Wed, 09 Apr 2025 16:03:25 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/ignoring-wall-street-apple-gets-busy-on-vision-pro-2-0.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/ignoring-wall-street-apple-gets-busy-on-vision-pro-2-0.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Scientists map part of a mouse's brain that's so complex it looks like a galaxy</title>
+          <description><![CDATA[Thanks to a mouse watching clips from “The Matrix,” scientists have created the largest functional map of a brain to date.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/scientists-map-part-of-a-mouses-brain-thats-so-complex-it-looks-like-a-galaxy/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/scientists-map-part-of-a-mouses-brain-thats-so-complex-it-looks-like-a-galaxy/</link>
+          <pubDate>Wed, 09 Apr 2025 15:02:38 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/scientists-map-part-of-a-mouses-brain-thats-so-complex-it-looks-like-a-galaxy.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/scientists-map-part-of-a-mouses-brain-thats-so-complex-it-looks-like-a-galaxy.webp"/>
+          <dc:creator>Lauran Neergaard, Associated Press, KPRC 2</dc:creator>
+        </item>
+        <item>
+          <title>Google to add on-demand genAI data analyst to Workspace</title>
+          <description><![CDATA[Google’s new on-demand generative AI (genAI) analyst for spreadsheets stood out among a slew of new AI features for its Workplace productivity suite announced at this week’s Cloud Next event in Las Vegas.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/google-to-add-on-demand-genai-data-analyst-to-workspace/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/google-to-add-on-demand-genai-data-analyst-to-workspace/</link>
+          <pubDate>Wed, 09 Apr 2025 12:01:38 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/google-to-add-on-demand-genai-data-analyst-to-workspace.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/google-to-add-on-demand-genai-data-analyst-to-workspace.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Data trust and the evolution of enterprise analytics in the age of AI</title>
+          <description><![CDATA[In “Prioritizing AI investments: Balancing short-term gains with long-term vision,” I addressed the foundational role of data trust in crafting a viable AI investment strategy.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/data-trust-and-the-evolution-of-enterprise-analytics-in-the-age-of-ai/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/data-trust-and-the-evolution-of-enterprise-analytics-in-the-age-of-ai/</link>
+          <pubDate>Wed, 09 Apr 2025 12:01:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/data-trust-and-the-evolution-of-enterprise-analytics-in-the-age-of-ai.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/data-trust-and-the-evolution-of-enterprise-analytics-in-the-age-of-ai.webp"/>
+          <dc:creator>CIO</dc:creator>
         </item>
         <item>
           <title>Google targets AI inferencing opportunity with Ironwood chip</title>
@@ -96,47 +140,14 @@
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Google adds natural language query capabilities to AlloyDB</title>
-          <description><![CDATA[Google is enhancing AlloyDB, its fully managed database-as-a-service (DBaaS), to help developers build applications underpinned by generative AI.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/google-adds-natural-language-query-capabilities-to-alloydb/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/google-adds-natural-language-query-capabilities-to-alloydb/</link>
-          <pubDate>Wed, 09 Apr 2025 12:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/google-adds-natural-language-query-capabilities-to-alloydb.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/google-adds-natural-language-query-capabilities-to-alloydb.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Nvidia RTX 5060 Ti Price Rumor: Could Lower MSRPs Be in Store?</title>
-          <description><![CDATA[Rumor has it that Nvidia's upcoming RTX 5060 Ti graphics cards could launch at lower prices than expected, with the 8GB model allegedly priced at $379 and the 16GB version at $429.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/nvidia-rtx-5060-ti-price-rumor-is-what-all-gamers-want-to-hear-these-models-may-be-cheaper-than-rtx-4060-ti-equivalents-especially-the-16gb-gpu/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/nvidia-rtx-5060-ti-price-rumor-is-what-all-gamers-want-to-hear-these-models-may-be-cheaper-than-rtx-4060-ti-equivalents-especially-the-16gb-gpu/</link>
-          <pubDate>Wed, 09 Apr 2025 10:49:30 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/nvidia-rtx-5060-ti-price-rumor-is-what-all-gamers-want-to-hear-these-models-may-be-cheaper-than-rtx-4060-ti-equivalents-especially-the-16gb-gpu.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/nvidia-rtx-5060-ti-price-rumor-is-what-all-gamers-want-to-hear-these-models-may-be-cheaper-than-rtx-4060-ti-equivalents-especially-the-16gb-gpu.webp"/>
-          <dc:creator>TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>A wild new way to think about Android apps</title>
-          <description><![CDATA[Fair warning: This column is a fair bit different from the type of thinking we typically take on in these musty virtual quarters of ours.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/android-web-apps/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/android-web-apps/</link>
-          <pubDate>Wed, 09 Apr 2025 09:45:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/android-web-apps.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/android-web-apps.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>What is Kubernetes? Scalable cloud-native applications</title>
-          <description><![CDATA[Kubernetes is a popular open source platform for container orchestration—that is, for managing applications built from multiple, largely self-contained runtimes called containers.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/what-is-kubernetes-scalable-cloud-native-applications/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/what-is-kubernetes-scalable-cloud-native-applications/</link>
+          <title>Four paradoxes of software development</title>
+          <description><![CDATA[Civil engineers can rightfully claim that no two bridges are exactly alike. However, bridges share many known characteristics, and the materials they are built with have known characteristics. Building bridges involves many known knowns and not as many unknown unknowns as one might think.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/four-paradoxes-of-software-development/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/four-paradoxes-of-software-development/</link>
           <pubDate>Wed, 09 Apr 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/what-is-kubernetes-scalable-cloud-native-applications.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/what-is-kubernetes-scalable-cloud-native-applications.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/four-paradoxes-of-software-development.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/four-paradoxes-of-software-development.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
@@ -151,93 +162,60 @@
           <dc:creator>Damita Menezes, NewsNation</dc:creator>
         </item>
         <item>
-          <title>Musk&#8217;s brother urges Trump to fire Navarro</title>
-          <description><![CDATA[Elon Musk’s brother, Kimball Musk, urged President Trump to fire his senior trade advisor Peter Navarro on Tuesday night. “@realDonaldTrump Mr President, if Peter Navarro has lied to you about Ron Vara, what else has he lied to you about?” Kimball Musk said in a post on X.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/elon-musk-brother-trump-navarro/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/elon-musk-brother-trump-navarro/</link>
-          <pubDate>Wed, 09 Apr 2025 01:15:58 GMT</pubDate>
+          <title>GitHub Copilot rolls out agent mode in Visual Studio Code</title>
+          <description><![CDATA[GitHub has rolled out agent mode and MCP (Model Context Protocol) support in GitHub Copilot for all Visual Studio Code users. The company is also releasing an open source GitHub MCP server, allowing developers to add GitHub functionality to any LLM that supports MCP.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/08/github-copilot-rolls-out-agent-mode-in-visual-studio-code/</guid>
+          <link>https://majordigest.com/tech/2025/04/08/github-copilot-rolls-out-agent-mode-in-visual-studio-code/</link>
+          <pubDate>Tue, 08 Apr 2025 22:15:25 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/elon-musk-brother-trump-navarro.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/elon-musk-brother-trump-navarro.webp"/>
-          <dc:creator>Lauren Irwin, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/github-copilot-rolls-out-agent-mode-in-visual-studio-code.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/github-copilot-rolls-out-agent-mode-in-visual-studio-code.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>For safeguarding critical infrastructure, stronger governance alone isn&#8217;t a magic bullet</title>
-          <description><![CDATA[Proposed TSA security requirements mark a step in the right direction for ICS/OT security. However, stricter compliance alone isn’t enough.
-The post For safeguarding critical infrastructure, stronger governance alone isn’t a magic bullet first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/08/for-safeguarding-critical-infrastructure-stronger-governance-alone-isnt-a-magic-bullet/</guid>
-          <link>https://majordigest.com/tech/2025/04/08/for-safeguarding-critical-infrastructure-stronger-governance-alone-isnt-a-magic-bullet/</link>
-          <pubDate>Tue, 08 Apr 2025 21:37:15 GMT</pubDate>
+          <title>Google, with potential breakup looming over its search monopoly, backs down from muzzling workers</title>
+          <description><![CDATA[Crucial hearings start this month in monopoly case against Google over its internet-search dominance.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/08/google-breakup-looming-search-monopoly-muzzling-workers/</guid>
+          <link>https://majordigest.com/tech/2025/04/08/google-breakup-looming-search-monopoly-muzzling-workers/</link>
+          <pubDate>Tue, 08 Apr 2025 21:30:39 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/for-safeguarding-critical-infrastructure-stronger-governance-alone-isnt-a-magic-bullet.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/for-safeguarding-critical-infrastructure-stronger-governance-alone-isnt-a-magic-bullet.webp"/>
-          <dc:creator>commentators, Federal News Network</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/google-breakup-looming-search-monopoly-muzzling-workers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/google-breakup-looming-search-monopoly-muzzling-workers.webp"/>
+          <dc:creator>Ethan Baron, The Mercury News</dc:creator>
         </item>
         <item>
-          <title>Broadcom favors stock buyback over investing in innovation</title>
-          <description><![CDATA[Broadcom plans to spend its cash pile on buying back as much as $10 billion worth of its common stock, dampening IT department hopes that it might invest in innovation or make its products more affordable.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/08/broadcom-favors-stock-buyback-over-investing-in-innovation/</guid>
-          <link>https://majordigest.com/tech/2025/04/08/broadcom-favors-stock-buyback-over-investing-in-innovation/</link>
-          <pubDate>Tue, 08 Apr 2025 17:23:41 GMT</pubDate>
+          <title>AI might be scanning your resume. Here&#8217;s what job hunters should know</title>
+          <description><![CDATA[Applying for a new job? A human resources representative or hiring manager may not be the first to review your resume. Instead, it might be an AI-powered tool.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/08/ai-might-be-scanning-your-resume-heres/</guid>
+          <link>https://majordigest.com/tech/2025/04/08/ai-might-be-scanning-your-resume-heres/</link>
+          <pubDate>Tue, 08 Apr 2025 21:20:38 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/broadcom-favors-stock-buyback-over-investing-in-innovation.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/broadcom-favors-stock-buyback-over-investing-in-innovation.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/ai-might-be-scanning-your-resume-heres.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/ai-might-be-scanning-your-resume-heres.webp"/>
+          <dc:creator>CNN.com Wire Service, The Mercury News</dc:creator>
         </item>
         <item>
-          <title>Meta is bringing stricter parental controls to Facebook and Messenger</title>
-          <description><![CDATA[Meta is bringing its Teen Accounts, which have stricter parental controls, to its Facebook and Messenger platforms on Tuesday, expanding its teen service from just Instagram.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/08/meta-is-expanding-its-teen-accounts-to-facebook-and-messenger/</guid>
-          <link>https://majordigest.com/tech/2025/04/08/meta-is-expanding-its-teen-accounts-to-facebook-and-messenger/</link>
-          <pubDate>Tue, 08 Apr 2025 17:00:00 GMT</pubDate>
+          <title>Hawaii's Kilauea volcano spews fountains of lava in latest eruption episode</title>
+          <description><![CDATA[Scientists are bracing for high lava fountains in the latest episode of an ongoing eruption of Hawaii’s Kilauea volcano.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/08/hawaiis-kilauea-volcano-spews-fountains-of-lava-in-latest-eruption-episode/</guid>
+          <link>https://majordigest.com/tech/2025/04/08/hawaiis-kilauea-volcano-spews-fountains-of-lava-in-latest-eruption-episode/</link>
+          <pubDate>Tue, 08 Apr 2025 19:03:03 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/meta-is-expanding-its-teen-accounts-to-facebook-and-messenger.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/meta-is-expanding-its-teen-accounts-to-facebook-and-messenger.webp"/>
-          <dc:creator>Jessica Bursztynsky, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/hawaiis-kilauea-volcano-spews-fountains-of-lava-in-latest-eruption-episode.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/hawaiis-kilauea-volcano-spews-fountains-of-lava-in-latest-eruption-episode.webp"/>
+          <dc:creator>Associated Press, Local 4</dc:creator>
         </item>
         <item>
-          <title>Scientists genetically engineer wolves with white hair and muscular jaws like the extinct dire wolf</title>
-          <description><![CDATA[Three genetically engineered wolves that may resemble extinct dire wolves are trotting, sleeping and howling in an undisclosed secure location in the U.S., according to the company that aims to bring back lost species.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/08/scientists-genetically-engineer-wolves-with-white-hair-and-muscular-jaws-like-the-extinct-dire-wolf/</guid>
-          <link>https://majordigest.com/tech/2025/04/08/scientists-genetically-engineer-wolves-with-white-hair-and-muscular-jaws-like-the-extinct-dire-wolf/</link>
-          <pubDate>Tue, 08 Apr 2025 16:05:26 GMT</pubDate>
+          <title>Redbox goes up for auction following a wild bankruptcy saga</title>
+          <description><![CDATA[Redbox is getting ready for one final sale.
+The defunct DVD rental chain’s assets, and those of its corporate siblings Crackle and Chicken Soup for the Soul Entertainment, are being auctioned off in New York later this month, according to a court filing published Monday morning.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/08/redbox-goes-up-for-auction-following-a-wild-bankruptcy-saga/</guid>
+          <link>https://majordigest.com/tech/2025/04/08/redbox-goes-up-for-auction-following-a-wild-bankruptcy-saga/</link>
+          <pubDate>Tue, 08 Apr 2025 03:20:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/scientists-genetically-engineer-wolves-with-white-hair-and-muscular-jaws-like-the-extinct-dire-wolf.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/scientists-genetically-engineer-wolves-with-white-hair-and-muscular-jaws-like-the-extinct-dire-wolf.webp"/>
-          <dc:creator>CHRISTINA LARSON, Associated Press, Fox 5</dc:creator>
-        </item>
-        <item>
-          <title>Beware these 10 malicious VS Code extensions</title>
-          <description><![CDATA[Developers using Microsoft’s Visual Studio Code (VSCode) editor are being warned to delete, or at least stay away from, 10 newly published extensions which will trigger the installation of a cryptominer.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/08/warning-to-developers-stay-away-from-these-10-vscode-extensions/</guid>
-          <link>https://majordigest.com/tech/2025/04/08/warning-to-developers-stay-away-from-these-10-vscode-extensions/</link>
-          <pubDate>Tue, 08 Apr 2025 14:47:27 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/warning-to-developers-stay-away-from-these-10-vscode-extensions.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/warning-to-developers-stay-away-from-these-10-vscode-extensions.webp"/>
-          <dc:creator>csoonline</dc:creator>
-        </item>
-        <item>
-          <title>Meta launches AI family Llama 4</title>
-          <description><![CDATA[Over the weekend, Meta took the opportunity to launch Llama 4, a new series of AI models trained on a large amount of text, images and videos.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/08/meta-launches-ai-family-llama-4-but-the-eu-doesnt-get-everything/</guid>
-          <link>https://majordigest.com/tech/2025/04/08/meta-launches-ai-family-llama-4-but-the-eu-doesnt-get-everything/</link>
-          <pubDate>Tue, 08 Apr 2025 10:22:07 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/meta-launches-ai-family-llama-4-but-the-eu-doesnt-get-everything.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/meta-launches-ai-family-llama-4-but-the-eu-doesnt-get-everything.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>An Intel-TSMC deal could reshape x86 future and enterprise chip supply chains</title>
-          <description><![CDATA[Intel is reportedly in advanced discussions with TSMC to form a joint venture that could potentially reshape the future of the x86 platform and the global semiconductor landscape.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/08/an-intel-tsmc-deal-could-reshape-x86-future-and-enterprise-chip-supply-chains/</guid>
-          <link>https://majordigest.com/tech/2025/04/08/an-intel-tsmc-deal-could-reshape-x86-future-and-enterprise-chip-supply-chains/</link>
-          <pubDate>Tue, 08 Apr 2025 09:44:17 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/an-intel-tsmc-deal-could-reshape-x86-future-and-enterprise-chip-supply-chains.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/an-intel-tsmc-deal-could-reshape-x86-future-and-enterprise-chip-supply-chains.webp"/>
-          <dc:creator>Computer World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/redbox-goes-up-for-auction-following-a-wild-bankruptcy-saga.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/redbox-goes-up-for-auction-following-a-wild-bankruptcy-saga.webp"/>
+          <dc:creator>Janko Roettgers, Fast Company</dc:creator>
         </item>
         <item>
           <title>Microsoft workers say they've been fired after 50th anniversary protest over Israel contract</title>
@@ -248,7 +226,18 @@ The post For safeguarding critical infrastructure, stronger governance alone isn
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/08/microsoft-workers-say-theyve-been-fired-after-50th-anniversary-protest-over-israel-contract.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/08/microsoft-workers-say-theyve-been-fired-after-50th-anniversary-protest-over-israel-contract.webp"/>
-          <dc:creator>MATT O'BRIEN, Associated Press, KLAS, CBS News</dc:creator>
+          <dc:creator>MATT O'BRIEN, Associated Press, PIX 11</dc:creator>
+        </item>
+        <item>
+          <title>Appeals panel clears way for DOGE access to sensitive personal data at OPM, Education Department</title>
+          <description><![CDATA[A federal appeals panel on Monday paused an order curtailing the Department of Government Efficiency's (DOGE) access to troves of sensitive personal data from three federal agencies, reopening the floodgates for the cost-cutting advisory board. In a 2-1 decision, a panel of judges on the U.S.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/07/federal-appeals-panel-doge-data-access-opm-education-department/</guid>
+          <link>https://majordigest.com/tech/2025/04/07/federal-appeals-panel-doge-data-access-opm-education-department/</link>
+          <pubDate>Mon, 07 Apr 2025 19:59:09 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/07/federal-appeals-panel-doge-data-access-opm-education-department.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/07/federal-appeals-panel-doge-data-access-opm-education-department.webp"/>
+          <dc:creator>Ella Lee, The Hill</dc:creator>
         </item>
         <item>
           <title>DARPA backs multiple quantum paths in benchmarking initiative</title>
@@ -260,17 +249,6 @@ The post For safeguarding critical infrastructure, stronger governance alone isn
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/07/darpa-backs-multiple-quantum-paths-in-benchmarking-initiative.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/07/darpa-backs-multiple-quantum-paths-in-benchmarking-initiative.webp"/>
           <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>Trump threatens additional 50 percent tariff on China</title>
-          <description><![CDATA[President Trump on Monday threatened to impose a 50 percent tariff on imports from China, a massive escalation of a potential trade war between the world's two largest economies. Trump's threat is the latest tit for tat between the U.S. and China in the last week.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/07/trump-threatens-50-percent-tariff-china/</guid>
-          <link>https://majordigest.com/tech/2025/04/07/trump-threatens-50-percent-tariff-china/</link>
-          <pubDate>Mon, 07 Apr 2025 15:28:42 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/07/trump-threatens-50-percent-tariff-china.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/07/trump-threatens-50-percent-tariff-china.webp"/>
-          <dc:creator>Brett Samuels, The Hill</dc:creator>
         </item>
         <item>
           <title>NetBox Labs embraces intersection of network management and AI</title>
@@ -285,28 +263,6 @@ NetBox Labs, the lead commercial sponsor behind the open-source project, has con
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Zero-emissions hydrogen-electric jet disrupts conventional flights</title>
-          <description><![CDATA[Beyond Aero&apos;s BYA-1: Hydrogen-electric jet with zero emissions, reduced costs, 2030 launch. Kurt “CyberGuy&quot; Knutsson discusses a potential game changer in the evolution of air travel.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/07/zero-emissions-hydrogen-electric-jet-disrupts-conventional-flights/</guid>
-          <link>https://majordigest.com/tech/2025/04/07/zero-emissions-hydrogen-electric-jet-disrupts-conventional-flights/</link>
-          <pubDate>Mon, 07 Apr 2025 10:00:03 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/07/zero-emissions-hydrogen-electric-jet-disrupts-conventional-flights.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/07/zero-emissions-hydrogen-electric-jet-disrupts-conventional-flights.webp"/>
-          <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>How to free up space on your Android</title>
-          <description><![CDATA[Kurt the CyberGuy offers some of his easy expert tips to free up storage space on your Android if your device is running short on storage.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/05/how-free-up-space-your-android/</guid>
-          <link>https://majordigest.com/tech/2025/04/05/how-free-up-space-your-android/</link>
-          <pubDate>Sat, 05 Apr 2025 10:00:39 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/05/how-free-up-space-your-android.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/05/how-free-up-space-your-android.webp"/>
-          <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
           <title>Microsoft employees protest at 50th anniversary party over Israel contract</title>
           <description><![CDATA[A pro-Palestinian protest by Microsoft employees interrupted the company’s 50th anniversary celebration Friday, the latest backlash over the tech industry’s work to supply artificial intelligence technology to the Israeli military.]]></description>
           <guid>https://majordigest.com/tech/2025/04/05/pro-palestinian-protester-interrupts-microsofts-50th-anniversary-party-over-israel-contract/</guid>
@@ -315,73 +271,30 @@ NetBox Labs, the lead commercial sponsor behind the open-source project, has con
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/05/pro-palestinian-protester-interrupts-microsofts-50th-anniversary-party-over-israel-contract.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/05/pro-palestinian-protester-interrupts-microsofts-50th-anniversary-party-over-israel-contract.webp"/>
-          <dc:creator>MATT O'BRIEN, Associated Press, KREX 5</dc:creator>
+          <dc:creator>MATT O'BRIEN, Associated Press, KRON4</dc:creator>
         </item>
         <item>
-          <title>Nintendo delays Switch 2 US preorders over Trump tariffs</title>
-          <description><![CDATA[Nintendo said U.S. preorders of its Switch 2 console will not take place on April 9 as it assesses tariff implications.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/04/nintendo-switch-2-preorders-tariffs/</guid>
-          <link>https://majordigest.com/tech/2025/04/04/nintendo-switch-2-preorders-tariffs/</link>
-          <pubDate>Fri, 04 Apr 2025 18:46:09 GMT</pubDate>
+          <title>How internet search algorithms could help critical infrastructure</title>
+          <description><![CDATA[Researchers found the algorithms that rank pages in internet searches also can help planners understand how to prevent failures in electrical systems.
+The post How internet search algorithms could help critical infrastructure first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/04/how-internet-search-algorithms-could-help-critical-infrastructure/</guid>
+          <link>https://majordigest.com/tech/2025/04/04/how-internet-search-algorithms-could-help-critical-infrastructure/</link>
+          <pubDate>Fri, 04 Apr 2025 15:36:16 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/04/nintendo-switch-2-preorders-tariffs.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/04/nintendo-switch-2-preorders-tariffs.webp"/>
-          <dc:creator>Jeff Arnold, NewsNation</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/04/how-internet-search-algorithms-could-help-critical-infrastructure.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/04/how-internet-search-algorithms-could-help-critical-infrastructure.webp"/>
+          <dc:creator>Tom Temin, Federal News Network</dc:creator>
         </item>
         <item>
-          <title>An AI avatar tried to argue a case before a New York court. The judges weren't having it</title>
-          <description><![CDATA[NEW YORK (AP) — It took only seconds for the judges on a New York appeals court to realize that the man addressing them from a video screen — a person about to present an argument in a lawsuit — not only had no law degree, but didn't exist at all.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/04/an-ai-avatar-tried-to-argue-a-case-before-a-new-york-court-the-judges-werent-having-it/</guid>
-          <link>https://majordigest.com/tech/2025/04/04/an-ai-avatar-tried-to-argue-a-case-before-a-new-york-court-the-judges-werent-having-it/</link>
-          <pubDate>Fri, 04 Apr 2025 17:52:09 GMT</pubDate>
+          <title>AI vs. pro gambler's $1 million March Madness bet coming down to Duke and Houston</title>
+          <description><![CDATA[SAN ANTONIO (AP) — The $1 million March Madness wager between a pro gambler and an artificial-intelligence site will be decided by the winner of the Duke-Houston game in the Final Four. The Vegas bookies project the gambler, who picked 5 1/2-point favorite Duke, should win.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/04/ai-vs-pro-gamblers-1-million-march-madness-bet-coming-down-to-duke-and-houston/</guid>
+          <link>https://majordigest.com/tech/2025/04/04/ai-vs-pro-gamblers-1-million-march-madness-bet-coming-down-to-duke-and-houston/</link>
+          <pubDate>Fri, 04 Apr 2025 13:55:09 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/04/an-ai-avatar-tried-to-argue-a-case-before-a-new-york-court-the-judges-werent-having-it.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/04/an-ai-avatar-tried-to-argue-a-case-before-a-new-york-court-the-judges-werent-having-it.webp"/>
-          <dc:creator>LARRY NEUMEISTER, Associated Press, KRON4</dc:creator>
-        </item>
-        <item>
-          <title>Ivanti warns customers of new critical flaw exploited in the wild</title>
-          <description><![CDATA[Ivanti is warning customers that a critical vulnerability that impacts its VPN appliances and other products has already been exploited in the wild by a Chinese APT group.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/04/ivanti-warns-customers-of-new-critical-flaw-exploited-in-the-wild/</guid>
-          <link>https://majordigest.com/tech/2025/04/04/ivanti-warns-customers-of-new-critical-flaw-exploited-in-the-wild/</link>
-          <pubDate>Fri, 04 Apr 2025 16:35:39 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/04/ivanti-warns-customers-of-new-critical-flaw-exploited-in-the-wild.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/04/ivanti-warns-customers-of-new-critical-flaw-exploited-in-the-wild.webp"/>
-          <dc:creator>csoonline</dc:creator>
-        </item>
-        <item>
-          <title>New Intel CEO Lip-Bu Tan begins to lay out technology roadmap</title>
-          <description><![CDATA[He’s only been on the job for two weeks, but newly appointed Intel CEO Lip-Bu Tan gave a major speech at a partner conference this week where he said the ailing company needs to get its act together, and he doesn’t want customers to hold back on their criticism.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/04/new-intel-ceo-lip-bu-tan-beings-to-lay-out-technology-roadmap/</guid>
-          <link>https://majordigest.com/tech/2025/04/04/new-intel-ceo-lip-bu-tan-beings-to-lay-out-technology-roadmap/</link>
-          <pubDate>Fri, 04 Apr 2025 15:54:07 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/04/new-intel-ceo-lip-bu-tan-beings-to-lay-out-technology-roadmap.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/04/new-intel-ceo-lip-bu-tan-beings-to-lay-out-technology-roadmap.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>High-tech canopy provides off-grid power and water</title>
-          <description><![CDATA[The EO Canopy is a self-sustaining, solar-powered camping platform designed to provide all the comforts of home while completely off the grid.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/04/high-tech-canopy-provides-off-grid-power-water/</guid>
-          <link>https://majordigest.com/tech/2025/04/04/high-tech-canopy-provides-off-grid-power-water/</link>
-          <pubDate>Fri, 04 Apr 2025 10:00:21 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/04/high-tech-canopy-provides-off-grid-power-water.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/04/high-tech-canopy-provides-off-grid-power-water.webp"/>
-          <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>Microsoft founder Bill Gates reflects upon a 50-year-old computer code that reshaped technology</title>
-          <description><![CDATA[Even as he grows older, Microsoft founder Bill Gates still fondly remembers the catalytic computer code he wrote 50 years ago that opened up a new frontier in technology.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/03/microsoft-founder-bill-gates-reflects-upon-a-50-year-old-computer-code-that-reshaped-technology/</guid>
-          <link>https://majordigest.com/tech/2025/04/03/microsoft-founder-bill-gates-reflects-upon-a-50-year-old-computer-code-that-reshaped-technology/</link>
-          <pubDate>Thu, 03 Apr 2025 23:00:02 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/03/microsoft-founder-bill-gates-reflects-upon-a-50-year-old-computer-code-that-reshaped-technology.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/03/microsoft-founder-bill-gates-reflects-upon-a-50-year-old-computer-code-that-reshaped-technology.webp"/>
-          <dc:creator>MICHAEL LIEDTKE, Associated Press, KREX 5</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/04/ai-vs-pro-gamblers-1-million-march-madness-bet-coming-down-to-duke-and-houston.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/04/ai-vs-pro-gamblers-1-million-march-madness-bet-coming-down-to-duke-and-houston.webp"/>
+          <dc:creator>EDDIE PELLS, Associated Press, KRON4</dc:creator>
         </item>
         <item>
           <title>A behind-the-scenes look at Nintendo Switch 2</title>
@@ -392,5 +305,5 @@ NetBox Labs, the lead commercial sponsor behind the open-source project, has con
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/03/a-behind-the-scenes-look-at-nintendo-switch-2.webp"/>
           <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/03/a-behind-the-scenes-look-at-nintendo-switch-2.webp"/>
-          <dc:creator>RYAN KRYSKA, Associated Press, KRON4</dc:creator>
+          <dc:creator>RYAN KRYSKA, Associated Press, KGET 17, NBC</dc:creator>
         </item></channel></rss>
