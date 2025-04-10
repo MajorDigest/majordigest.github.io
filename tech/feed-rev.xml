@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 10 Apr 2025 02:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 03:29:15 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>New AI Features Announced at Google Cloud Next Event</title>
-          <description><![CDATA[Google announces new AI features, including on-demand generative AI analyst for spreadsheets and workflow automation tool, at Cloud Next event.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/09/google-to-add-on-demand-genai-data-analyst-to-workspace/</guid>
-          <link>https://majordigest.com/tech/2025/04/09/google-to-add-on-demand-genai-data-analyst-to-workspace/</link>
-          <pubDate>Wed, 09 Apr 2025 12:01:38 GMT</pubDate>
+          <title>Asus GPU Tweak III Gets Power Detector+ Warning for Critical Power Cable Issue</title>
+          <description><![CDATA[Asus has released a new version of its GPU software suite with the Power Detector+ warning function, which warns users if any of the pins on their graphics card's power connector have too many amps flowing through them, potentially leading to a melted power cable disaster.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/scared-that-your-high-end-nvidia-gpu-might-experience-a-cable-melting-disaster-asus-has-a-new-power-monitoring-feature-to-calm-your-fears/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/scared-that-your-high-end-nvidia-gpu-might-experience-a-cable-melting-disaster-asus-has-a-new-power-monitoring-feature-to-calm-your-fears/</link>
+          <pubDate>Wed, 09 Apr 2025 16:05:23 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/google-to-add-on-demand-genai-data-analyst-to-workspace.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/google-to-add-on-demand-genai-data-analyst-to-workspace.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/scared-that-your-high-end-nvidia-gpu-might-experience-a-cable-melting-disaster-asus-has-a-new-power-monitoring-feature-to-calm-your-fears.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/scared-that-your-high-end-nvidia-gpu-might-experience-a-cable-melting-disaster-asus-has-a-new-power-monitoring-feature-to-calm-your-fears.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Windows Server Update Services (WSUS) Driver Sync Lives On | Microsoft Postpones Deprecation</title>
+          <description><![CDATA[Microsoft continues to support driver update synchronization with Windows Server Update Services (WSUS), despite previously announcing a deprecation date of April 18.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/09/microsoft-extends-support-for-key-windows-tool-but-probably-not-the-one-youd-expect/</guid>
+          <link>https://majordigest.com/tech/2025/04/09/microsoft-extends-support-for-key-windows-tool-but-probably-not-the-one-youd-expect/</link>
+          <pubDate>Wed, 09 Apr 2025 13:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/09/microsoft-extends-support-for-key-windows-tool-but-probably-not-the-one-youd-expect.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/09/microsoft-extends-support-for-key-windows-tool-but-probably-not-the-one-youd-expect.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>

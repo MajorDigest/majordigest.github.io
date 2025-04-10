@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/09/google-to-add-on-demand-genai-data-analyst-to-workspace/</loc>
+          <loc>https://majordigest.com/tech/2025/04/09/scared-that-your-high-end-nvidia-gpu-might-experience-a-cable-melting-disaster-asus-has-a-new-power-monitoring-feature-to-calm-your-fears/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-09T12:01:38.000Z</news:publication_date>
-            <news:title>New AI Features Announced at Google Cloud Next Event</news:title>
+            <news:publication_date>2025-04-09T16:05:23.000Z</news:publication_date>
+            <news:title>Asus GPU Tweak III Gets Power Detector+ Warning for Critical Power Cable Issue</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/09/google-to-add-on-demand-genai-data-analyst-to-workspace.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/09/scared-that-your-high-end-nvidia-gpu-might-experience-a-cable-melting-disaster-asus-has-a-new-power-monitoring-feature-to-calm-your-fears.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/09/microsoft-extends-support-for-key-windows-tool-but-probably-not-the-one-youd-expect/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-09T13:00:00.000Z</news:publication_date>
+            <news:title>Windows Server Update Services (WSUS) Driver Sync Lives On | Microsoft Postpones Deprecation</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/09/microsoft-extends-support-for-key-windows-tool-but-probably-not-the-one-youd-expect.webp</image:loc>
           </image:image>
         </url></urlset>
