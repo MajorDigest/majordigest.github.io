@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Fri, 11 Apr 2025 16:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 17:27:29 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed-rev.xml" type="application/rss+xml" />
@@ -19,13 +19,24 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>WhatsApp's New Features Raise Concerns Among Users - The Latest Tech News</title>
-          <description><![CDATA[WhatsApp's recent update has introduced several new features, but two of them have raised concerns among users.]]></description>
-          <guid>https://majordigest.com/tech/2025/04/11/whatsapp-has-just-dropped-these-9-new-features-including-2-that-im-not-happy-about/</guid>
-          <link>https://majordigest.com/tech/2025/04/11/whatsapp-has-just-dropped-these-9-new-features-including-2-that-im-not-happy-about/</link>
-          <pubDate>Fri, 11 Apr 2025 15:30:09 GMT</pubDate>
+          <title>AI's Mixed Bag: Microsoft Research Reveals Debugging Limitations</title>
+          <description><![CDATA[Microsoft researchers discover that popular AI models struggle with debugging, a crucial task in software development, but excel at code creation.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/11/microsoft-study-claims-ai-is-still-struggling-to-debug-software/</guid>
+          <link>https://majordigest.com/tech/2025/04/11/microsoft-study-claims-ai-is-still-struggling-to-debug-software/</link>
+          <pubDate>Fri, 11 Apr 2025 10:30:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/11/whatsapp-has-just-dropped-these-9-new-features-including-2-that-im-not-happy-about.webp"/>
-          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/11/whatsapp-has-just-dropped-these-9-new-features-including-2-that-im-not-happy-about.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/11/microsoft-study-claims-ai-is-still-struggling-to-debug-software.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/11/microsoft-study-claims-ai-is-still-struggling-to-debug-software.webp"/>
+          <dc:creator>Major Digest</dc:creator>
+        </item>
+        <item>
+          <title>Top Picks for Python Readers: Essential Articles and Updates</title>
+          <description><![CDATA[Stay up-to-date with the latest developments in the Python community, from speeding up your code to leveraging new features and tools.]]></description>
+          <guid>https://majordigest.com/tech/2025/04/11/more-and-faster-new-proposals-changing-python-from-within/</guid>
+          <link>https://majordigest.com/tech/2025/04/11/more-and-faster-new-proposals-changing-python-from-within/</link>
+          <pubDate>Fri, 11 Apr 2025 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static12/tech/2025/04/11/more-and-faster-new-proposals-changing-python-from-within.webp"/>
+          <media:thumbnail url="https://majordigest.com/static12/tech/2025/04/11/more-and-faster-new-proposals-changing-python-from-within.webp"/>
           <dc:creator>Major Digest</dc:creator>
         </item></channel></rss>
