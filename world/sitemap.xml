@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/world/2025/04/11/israel-releases-palestinian-who-took-part-in-attack-aged-13-and-developed-mental-illness-in-prison/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-11T00:41:58.000Z</news:publication_date>
+            <news:title>Israel releases Palestinian who took part in attack at 13 and developed mental illness in prison</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/04/11/israel-releases-palestinian-who-took-part-in-attack-aged-13-and-developed-mental-illness-in-prison.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/world/2025/04/10/sudan-faces-the-worlds-worst-humanitarian-crisis-as-second-anniversary-of-war-nears-un-says/</loc>
           <news:news>
             <news:publication>
@@ -17,17 +31,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/10/trump-tariffs-bond-market/</loc>
+          <loc>https://majordigest.com/world/2025/04/10/us-china-tariff-war/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-10T20:44:36.000Z</news:publication_date>
-            <news:title>Why Trump and others are worried about the bond market</news:title>
+            <news:publication_date>2025-04-10T20:27:25.000Z</news:publication_date>
+            <news:title>Democrat says Trump-Xi in 'testosterone battle' with tariff war</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/10/trump-tariffs-bond-market.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/10/us-china-tariff-war.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/04/10/khalil-lawyers-rubio-trump-columbia-deportations-student-visas/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-10T19:18:46.000Z</news:publication_date>
+            <news:title>Khalil lawyers blast Rubio court filing that claims power to deport noncitizens over speech</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/04/10/khalil-lawyers-rubio-trump-columbia-deportations-student-visas.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -37,7 +65,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-10T20:32:47.000Z</news:publication_date>
+            <news:publication_date>2025-04-10T19:18:38.000Z</news:publication_date>
             <news:title>Prince Harry meets war victims in unannounced visit to Ukraine</news:title>
           </news:news>
           <image:image>
@@ -65,7 +93,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-10T17:00:44.000Z</news:publication_date>
+            <news:publication_date>2025-04-10T17:00:43.000Z</news:publication_date>
             <news:title>Israel releases 10 Palestinians detained from Gaza. They say they suffered abuse</news:title>
           </news:news>
           <image:image>
@@ -101,34 +129,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/10/greenpeace-uk-leader-arrested-targeting-american-embassy-blood-red-dye-report/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-10T16:14:34.000Z</news:publication_date>
-            <news:title>Greenpeace UK leader arrested for targeting American embassy with ' blood-red dye&#8217;: report</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/10/greenpeace-uk-leader-arrested-targeting-american-embassy-blood-red-dye-report.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/04/10/donald-trump-china-tariff-talks/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-10T13:34:15.000Z</news:publication_date>
-            <news:title>China on increased Trump tariffs: US must show 'respect' for any talks</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/10/donald-trump-china-tariff-talks.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2025/04/10/european-union-90-day-tariff-pause/</loc>
           <news:news>
             <news:publication>
@@ -143,59 +143,101 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/10/american-ballerina-released-from-russia/</loc>
+          <loc>https://majordigest.com/world/2025/04/10/tariff-pause-trump-stock-market-china/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-10T12:01:55.000Z</news:publication_date>
-            <news:title>American ballerina released from Russia in prisoner exchange: Rubio</news:title>
+            <news:publication_date>2025-04-10T10:48:15.000Z</news:publication_date>
+            <news:title>Tariffs on China are 145%, White House clarifies as stocks slump</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/10/american-ballerina-released-from-russia.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/10/tariff-pause-trump-stock-market-china.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/10/defense-chiefs-from-around-30-countries-expected-at-nato-for-talks-on-a-future-ukraine-force/</loc>
+          <loc>https://majordigest.com/world/2025/04/10/trump-iran-nuclear-talks/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-10T06:31:30.000Z</news:publication_date>
-            <news:title>Ukraine 'coalition of the willing' presses ahead with force planning amid doubts about US support</news:title>
+            <news:publication_date>2025-04-10T10:00:00.000Z</news:publication_date>
+            <news:title>Trump&#8217;s Iran talks raise big questions on Capitol Hill</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/10/defense-chiefs-from-around-30-countries-expected-at-nato-for-talks-on-a-future-ukraine-force.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/10/trump-iran-nuclear-talks.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/10/israeli-strike-on-gaza-apartment-building-kills-at-least-15-officials-say/</loc>
+          <loc>https://majordigest.com/world/2025/04/10/us-russian-dual-national-ksenia-karelina-is-released-in-prisoner-swap-between-moscow-and-washington/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-10T02:17:49.000Z</news:publication_date>
-            <news:title>Israeli strike on Gaza apartment building kills at least 23, officials say</news:title>
+            <news:publication_date>2025-04-10T09:18:25.000Z</news:publication_date>
+            <news:title>A prisoner swap between Moscow and Washington frees Ksenia Karelina, a US-Russia dual national</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/10/israeli-strike-on-gaza-apartment-building-kills-at-least-15-officials-say.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/10/us-russian-dual-national-ksenia-karelina-is-released-in-prisoner-swap-between-moscow-and-washington.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/09/senate-approves-peter-hoekstra-next-us-ambassador-canada/</loc>
+          <loc>https://majordigest.com/world/2025/04/10/countries-trump-tariffs-china-gordon-chang/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-09T18:40:21.000Z</news:publication_date>
-            <news:title>Senate approves Peter Hoekstra as next US ambassador to Canada</news:title>
+            <news:publication_date>2025-04-10T02:03:56.000Z</news:publication_date>
+            <news:title>Countries will follow Trump imposing tariffs on China: Gordon Chang</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/09/senate-approves-peter-hoekstra-next-us-ambassador-canada.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/10/countries-trump-tariffs-china-gordon-chang.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/04/10/beijing-rejects-ukraines-claim-significant-numbers-of-chinese-troops-are-fighting-alongside-russia/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-10T01:42:59.000Z</news:publication_date>
+            <news:title>Ukraine says more than 150 Chinese mercenaries are fighting for Russia in Ukraine</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/04/10/beijing-rejects-ukraines-claim-significant-numbers-of-chinese-troops-are-fighting-alongside-russia.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/04/10/canadian-pm-carney-says-negotiations-with-trump-on-economic-security-relationship-after-election/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-10T00:33:31.000Z</news:publication_date>
+            <news:title>Canadian PM: Negotiations with Trump on economic, security relationship to begin after election</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/04/10/canadian-pm-carney-says-negotiations-with-trump-on-economic-security-relationship-after-election.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/04/09/china-vows-to-fight-tariffs-to-end-saying-trade-with-us-is-already-balanced/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-09T19:30:19.000Z</news:publication_date>
+            <news:title>Trump hits back with a 125% tariff in escalating trade war with China</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/04/09/china-vows-to-fight-tariffs-to-end-saying-trade-with-us-is-already-balanced.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -213,31 +255,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/09/conservative-leader-friedrich-merz-secures-german-government-coalition-after-months-political-drift/</loc>
+          <loc>https://majordigest.com/world/2025/04/09/long-fraught-timeline-of-tensions-between-iran-and-the-us-as-nuclear-negotiations-loom/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-09T16:37:59.000Z</news:publication_date>
-            <news:title>Conservative leader Friedrich Merz secures German government coalition after months of political drift</news:title>
+            <news:publication_date>2025-04-09T12:29:19.000Z</news:publication_date>
+            <news:title>Long, fraught timeline of tensions between Iran and the US as nuclear negotiations approach</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/09/conservative-leader-friedrich-merz-secures-german-government-coalition-after-months-political-drift.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/09/long-fraught-timeline-of-tensions-between-iran-and-the-us-as-nuclear-negotiations-loom.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/09/nicaraguas-crackdown-on-the-catholic-church-is-worsening-exiles-and-human-rights-advocates-say/</loc>
+          <loc>https://majordigest.com/world/2025/04/09/8-people-die-from-cholera-in-south-sudan-as-funding-cuts-force-longer-walks-to-clinics/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-09T15:54:53.000Z</news:publication_date>
-            <news:title>Nicaragua&#8217;s crackdown on the Catholic Church is worsening, exiles and human rights advocates say</news:title>
+            <news:publication_date>2025-04-09T11:02:59.000Z</news:publication_date>
+            <news:title>8 people die from cholera in South Sudan as funding cuts force longer walks to clinics</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/09/nicaraguas-crackdown-on-the-catholic-church-is-worsening-exiles-and-human-rights-advocates-say.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/09/8-people-die-from-cholera-in-south-sudan-as-funding-cuts-force-longer-walks-to-clinics.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -269,45 +311,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/09/ukraines-zelenskyy-says-2-chinese-were-caught-fighting-alongside-russia/</loc>
+          <loc>https://majordigest.com/world/2025/04/09/famous-north-korean-assassin-who-became-a-pastor-in-the-south-following-failed-1968-mission-dies/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-09T07:24:53.000Z</news:publication_date>
-            <news:title>Ukraine's Zelenskyy says 2 Chinese were caught fighting alongside Russia</news:title>
+            <news:publication_date>2025-04-09T08:29:16.000Z</news:publication_date>
+            <news:title>Famous North Korean assassin who became a pastor in the South following failed 1968 mission dies</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/09/ukraines-zelenskyy-says-2-chinese-were-caught-fighting-alongside-russia.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/04/08/slain-hamas-hostages-family-fights-release-those-still-gaza/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-08T23:37:09.000Z</news:publication_date>
-            <news:title>Slain Hamas hostage's family fights for the release of those still in Gaza</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/08/slain-hamas-hostages-family-fights-release-those-still-gaza.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/world/2025/04/08/what-is-known-about-the-roof-collapse-at-a-club-in-the-dominican-republic-that-killed-at-least-44/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-08T19:57:11.000Z</news:publication_date>
-            <news:title>What to know about the roof collapse at an iconic club in the Dominican Republic that killed 221</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/08/what-is-known-about-the-roof-collapse-at-a-club-in-the-dominican-republic-that-killed-at-least-44.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/09/famous-north-korean-assassin-who-became-a-pastor-in-the-south-following-failed-1968-mission-dies.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -353,20 +367,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/08/prince-harry-appeals-the-loss-of-his-uk-security-detail/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-08T09:09:40.000Z</news:publication_date>
-            <news:title>Prince Harry appeals the loss of his UK security detail</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/08/prince-harry-appeals-the-loss-of-his-uk-security-detail.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/world/2025/04/07/duke-basketball-star-deportation-trump-visa-policy/</loc>
           <news:news>
             <news:publication>
@@ -381,59 +381,87 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/07/trump-netanyahu-meet-white-house-israel-seeks-tariff-relief-discussions-iran-gaza-hostages/</loc>
+          <loc>https://majordigest.com/world/2025/04/07/trump-says-us-deal-directly-iran-high-level-meeting-saturday/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-07T09:30:52.000Z</news:publication_date>
-            <news:title>Trump, Netanyahu to meet at White House as Israel seeks tariff relief, discussions on Iran, Gaza hostages</news:title>
+            <news:publication_date>2025-04-07T20:28:17.000Z</news:publication_date>
+            <news:title>Trump says US will deal 'directly' with Iran in high-level meeting on Saturday</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/07/trump-netanyahu-meet-white-house-israel-seeks-tariff-relief-discussions-iran-gaza-hostages.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/07/trump-says-us-deal-directly-iran-high-level-meeting-saturday.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/06/pope-appears-before-crowd-in-st-peters-square-2-weeks-after-his-release-from-hospital/</loc>
+          <loc>https://majordigest.com/world/2025/04/06/the-us-has-revoked-visas-for-south-sudanese-while-civil-war-threatens-at-home/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-06T15:43:07.000Z</news:publication_date>
-            <news:title>Pope makes surprise appearance at St. Peter&#8217;s Square, 2 weeks after leaving hospital</news:title>
+            <news:publication_date>2025-04-06T16:35:38.000Z</news:publication_date>
+            <news:title>US revokes visas for South Sudanese as civil war looms at home</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/06/pope-appears-before-crowd-in-st-peters-square-2-weeks-after-his-release-from-hospital.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/06/the-us-has-revoked-visas-for-south-sudanese-while-civil-war-threatens-at-home.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/06/pope-makes-surprise-appearance-at-st-peters-square-2-weeks-after-leaving-hospital/</loc>
+          <loc>https://majordigest.com/world/2025/04/06/hamas-terror-outlet-quietly-cuts-gaza-death-count-reveals-most-killed-were-combat-age-men/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-06T12:51:16.000Z</news:publication_date>
-            <news:title>Pope makes surprise appearance at St. Peter&#8217;s Square, 2 weeks after leaving hospital</news:title>
+            <news:publication_date>2025-04-06T15:15:07.000Z</news:publication_date>
+            <news:title>Hamas terror outlet quietly cuts Gaza death count, reveals most killed were combat-age men</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/06/pope-makes-surprise-appearance-at-st-peters-square-2-weeks-after-leaving-hospital.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/06/hamas-terror-outlet-quietly-cuts-gaza-death-count-reveals-most-killed-were-combat-age-men.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/world/2025/04/05/new-ecosystem-found-after-chicago-sized-chunk-of-antarctica-breaks-off/</loc>
+          <loc>https://majordigest.com/world/2025/04/06/pope-appears-angelus-prayers-first-time-weeks/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-05T17:25:38.000Z</news:publication_date>
-            <news:title>New ecosystem found after Chicago-sized chunk of Antarctica breaks off</news:title>
+            <news:publication_date>2025-04-06T12:31:41.000Z</news:publication_date>
+            <news:title>Pope appears in St. Peter's Square for first time in weeks</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/world/2025/04/05/new-ecosystem-found-after-chicago-sized-chunk-of-antarctica-breaks-off.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/world/2025/04/06/pope-appears-angelus-prayers-first-time-weeks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/04/06/need-reform-un-media-department-carrying-out-anti-israel-agenda/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-06T12:30:16.000Z</news:publication_date>
+            <news:title>UN global comms arm under fire for anti-Israel bias as critics call for reforms</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/04/06/need-reform-un-media-department-carrying-out-anti-israel-agenda.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/04/04/sick-sea-lions-other-mammals-stranded-on-beaches-in-baja-southern-california/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-04T22:17:20.000Z</news:publication_date>
+            <news:title>Sick sea lions, other mammals stranded on  beaches in Baja, Southern California</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/04/04/sick-sea-lions-other-mammals-stranded-on-beaches-in-baja-southern-california.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -448,5 +476,33 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/world/2025/04/04/russia-accused-by-britain-and-france-of-delaying-ceasefire-talks-say-putin-owes-the-us-an-answer.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/04/04/nintendo-switch-2-preorders-tariffs/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-04T18:46:09.000Z</news:publication_date>
+            <news:title>Nintendo delays Switch 2 US preorders over Trump tariffs</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/04/04/nintendo-switch-2-preorders-tariffs.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/world/2025/04/04/israeli-strikes-on-gaza-overnight-leaves-more-than-50-palestinians-dead/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-04T09:36:20.000Z</news:publication_date>
+            <news:title>Israeli strike on a school in Gaza kills at least 27 people, Palestinian health officials say</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/world/2025/04/04/israeli-strikes-on-gaza-overnight-leaves-more-than-50-palestinians-dead.webp</image:loc>
           </image:image>
         </url></urlset>
