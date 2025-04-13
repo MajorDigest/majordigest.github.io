@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.comnull</loc>
+          <loc>https://majordigest.com/tech/2025/04/12/ai-newsletter-white-house-record-keeping-revamp/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-09T20:15:50.000Z</news:publication_date>
-            <news:title> Cisco, Google Cloud Expand Partnership for SD-WAN Integration</news:title>
+            <news:publication_date>2025-04-12T12:30:12.000Z</news:publication_date>
+            <news:title>AI Updates: White House Implementing AI in Federal Records, 'Wizard of Oz' Transformation, OpenAI vs. Musk</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/09/cisco-google-cloud-offer-enterprises-new-way-to-connect-sd-wans.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/12/ai-newsletter-white-house-record-keeping-revamp.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/11/doctors-remove-pig-kidney-from-an-alabama-woman-after-a-record-130-days/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-11T16:35:30.000Z</news:publication_date>
+            <news:title>Xenotransplant Disappointment: Alabama Woman's Pig Kidney Removed After 130 Days</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/11/doctors-remove-pig-kidney-from-an-alabama-woman-after-a-record-130-days.webp</image:loc>
           </image:image>
         </url></urlset>
