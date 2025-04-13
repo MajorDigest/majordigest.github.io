@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/12/trump-administration-says-it-will-exclude-some-electronics-from-reciprocal-tariffs/</loc>
+          <loc>https://majordigest.com/tech/2025/04/12/free-image-sharpening/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-12T14:38:41.000Z</news:publication_date>
-            <news:title>Tariff Exemption for Electronics Set to Boost Tech Stocks</news:title>
+            <news:publication_date>2025-04-12T17:00:00.000Z</news:publication_date>
+            <news:title>Unblur Image Online: The Ultimate Web App for Unblurring Images</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/12/trump-administration-says-it-will-exclude-some-electronics-from-reciprocal-tariffs.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/12/free-image-sharpening.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/08/trumps-ai-policy-shifts-focus-to-high-impact-use-cases/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-08T15:35:52.000Z</news:publication_date>
+            <news:title>Trump's AI Policy Shifts Focus to 'High Impact' Use Cases</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/08/trumps-ai-policy-shifts-focus-to-high-impact-use-cases.webp</image:loc>
           </image:image>
         </url></urlset>
