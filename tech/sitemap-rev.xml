@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/11/ive-never-been-more-excited-to-get-my-hands-on-a-new-handheld-intels-new-graphics-driver-reportedly-provides-greater-msi-claw-8-ai-performance/</loc>
+          <loc>https://majordigest.com/tech/2025/04/13/meta-vs-ftc-trial-begins/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-11T11:01:01.000Z</news:publication_date>
-            <news:title>Intel's Arc Graphics Driver Boosts Handheld Gaming PC Performance</news:title>
+            <news:publication_date>2025-04-13T23:40:08.000Z</news:publication_date>
+            <news:title>Meta Faces Antitrust Trial Over Instagram and WhatsApp Acquisitions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/11/ive-never-been-more-excited-to-get-my-hands-on-a-new-handheld-intels-new-graphics-driver-reportedly-provides-greater-msi-claw-8-ai-performance.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/13/meta-vs-ftc-trial-begins.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/09/shopify-ai-hiring-employee-memo/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-09T12:29:03.000Z</news:publication_date>
+            <news:title>Shopify CEO Orders Employees to Prove AI Can't Handle Work Before Hiring</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/09/shopify-ai-hiring-employee-memo.webp</image:loc>
           </image:image>
         </url></urlset>
