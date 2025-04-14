@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/13/google-rumored-to-be-looking-to-rent-latest-nvidia-ai-gpu-from-coreweave-because-it-doesnt-have-enough-of-them/</loc>
+          <loc>https://majordigest.com/tech/2025/04/09/cisco-google-cloud-offer-enterprises-new-way-to-connect-sd-wans/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-13T13:03:00.000Z</news:publication_date>
-            <news:title>AI Hyperscaler CoreWeave Faces Uncertainty Amid Google and Microsoft's Rival Bids</news:title>
+            <news:publication_date>2025-04-09T20:15:50.000Z</news:publication_date>
+            <news:title>Cisco, Google Cloud Expand Partnership with Integration of SD-WAN, Cloud WAN</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/13/google-rumored-to-be-looking-to-rent-latest-nvidia-ai-gpu-from-coreweave-because-it-doesnt-have-enough-of-them.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/09/cisco-google-cloud-offer-enterprises-new-way-to-connect-sd-wans.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/08/broadcom-favors-stock-buyback-over-investing-in-innovation/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-08T17:23:41.000Z</news:publication_date>
+            <news:title>Broadcom's $10 Billion Stock Buyback: A Blow to Enterprise IT Leaders?</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/08/broadcom-favors-stock-buyback-over-investing-in-innovation.webp</image:loc>
           </image:image>
         </url></urlset>
