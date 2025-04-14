@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/10/google-unveils-firebase-studio-for-ai-app-development/</loc>
+          <loc>https://majordigest.com/tech/2025/04/14/nvidia-plans-to-manufacture-ai-chips-in-the-us-for-the-first-time/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-10T22:10:52.000Z</news:publication_date>
-            <news:title>Google Unveils Firebase Studio: A Cloud-Based Development Environment</news:title>
+            <news:publication_date>2025-04-14T17:43:59.000Z</news:publication_date>
+            <news:title>Nvidia Announces AI Supercomputer Production in US</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/10/google-unveils-firebase-studio-for-ai-app-development.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/nvidia-plans-to-manufacture-ai-chips-in-the-us-for-the-first-time.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/09/no-new-hires-unless-you-prove-ai-cant-do-the-job-shopify-ceo/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-09T19:40:43.000Z</news:publication_date>
+            <news:title>Shopify CEO Tobi Lutke Introduces AI Mandate: Employees Must Prove Need for New Hires</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/09/no-new-hires-unless-you-prove-ai-cant-do-the-job-shopify-ceo.webp</image:loc>
           </image:image>
         </url></urlset>
