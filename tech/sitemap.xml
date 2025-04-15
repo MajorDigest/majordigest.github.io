@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2025/04/15/los-cio-recalibran-las-agendas-de-ti-para-hacer-sitio-al-aumento-del-gasto-en-ia/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-15T07:50:32.000Z</news:publication_date>
+            <news:title>Los CIO recalibran las agendas de TI para hacer sitio al aumento del gasto en IA</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/15/los-cio-recalibran-las-agendas-de-ti-para-hacer-sitio-al-aumento-del-gasto-en-ia.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/04/15/us-moves-ahead-on-tariffs-with-investigations-into-computer-chips-and-pharmaceuticals/</loc>
           <news:news>
             <news:publication>
@@ -17,45 +31,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/15/uber-and-lyft-drivers-in-california-could-get-the-right-to-unionize-under-this-bill/</loc>
+          <loc>https://majordigest.com/tech/2025/04/15/elon-musk-and-jack-dorsey-want-to-kill-ip-law-that-would-be-a-huge-mistake/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-15T04:07:12.000Z</news:publication_date>
-            <news:title>Uber and Lyft drivers in California could get the right to unionize under this bill</news:title>
+            <news:publication_date>2025-04-15T02:25:57.000Z</news:publication_date>
+            <news:title>Elon Musk and Jack Dorsey want to kill IP law. That would be a huge mistake</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/15/uber-and-lyft-drivers-in-california-could-get-the-right-to-unionize-under-this-bill.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/15/elon-musk-and-jack-dorsey-want-to-kill-ip-law-that-would-be-a-huge-mistake.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/15/microsoft-releases-out-of-band-updates-to-fix-reporting-error/</loc>
+          <loc>https://majordigest.com/tech/2025/04/14/meta-faces-historic-antitrust-trial-that-could-force-it-to-break-off-instagram-whatsapp/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-15T01:55:33.000Z</news:publication_date>
-            <news:title>Microsoft releases out-of-band updates to fix reporting error</news:title>
+            <news:publication_date>2025-04-14T22:04:55.000Z</news:publication_date>
+            <news:title>Meta CEO Mark Zuckerberg takes the stand in historic antitrust trial</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/15/microsoft-releases-out-of-band-updates-to-fix-reporting-error.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/14/white-house-launches-national-security-investigation-into-pharma-semiconductors/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T22:01:26.000Z</news:publication_date>
-            <news:title>White House launches national security investigation into pharma, semiconductors</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/white-house-launches-national-security-investigation-into-pharma-semiconductors.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/meta-faces-historic-antitrust-trial-that-could-force-it-to-break-off-instagram-whatsapp.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -73,34 +73,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/14/judgment-day-is-coming-for-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T19:36:20.000Z</news:publication_date>
-            <news:title>Judgment Day is coming&#8230; for AI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/judgment-day-is-coming-for-ai.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/14/windows-server-2025-domain-controllers-may-lose-connectivity-after-reboot-says-microsoft/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T18:20:05.000Z</news:publication_date>
-            <news:title>Windows Server 2025 domain controllers may lose connectivity after reboot, says Microsoft</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/windows-server-2025-domain-controllers-may-lose-connectivity-after-reboot-says-microsoft.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/04/14/intel-sells-majority-stake-in-altera-to-silver-lake-investors-in-a-deal-valued-at-8-75-billion/</loc>
           <news:news>
             <news:publication>
@@ -115,59 +87,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/14/this-wild-phone-battery-rumor-has-me-wondering-whether-iphone-will-ever-catch-up-to-android/</loc>
+          <loc>https://majordigest.com/tech/2025/04/14/mark-zuckerberg-takes-the-stand-at-meta-trial/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-14T17:08:22.000Z</news:publication_date>
-            <news:title>This wild phone battery rumor has me wondering whether iPhone will ever catch up to Android</news:title>
+            <news:publication_date>2025-04-14T17:53:49.000Z</news:publication_date>
+            <news:title>Meta CEO Zuckerberg Takes Stand in Antitrust Case</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/this-wild-phone-battery-rumor-has-me-wondering-whether-iphone-will-ever-catch-up-to-android.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/14/microsoft-teams-tips/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T17:00:00.000Z</news:publication_date>
-            <news:title>4 time-saving Microsoft Teams tricks to make you more productive</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/microsoft-teams-tips.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/14/quantum-computing-could-change-science-forever-if-it-works/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T17:00:00.000Z</news:publication_date>
-            <news:title>Quantum computing could change science forever&#8212;if it works</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/quantum-computing-could-change-science-forever-if-it-works.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/14/intel-to-sell-51-altera-stake-to-silver-lake-amid-cost-cuts/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T16:56:46.000Z</news:publication_date>
-            <news:title>Intel to sell 51% Altera stake to Silver Lake amid cost cuts</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/intel-to-sell-51-altera-stake-to-silver-lake-amid-cost-cuts.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/mark-zuckerberg-takes-the-stand-at-meta-trial.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -185,76 +115,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/14/meta-faces-potential-breakup-with-start-of-antitrust-trial/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T16:55:52.000Z</news:publication_date>
-            <news:title>Meta faces potential breakup with start of antitrust trial</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/meta-faces-potential-breakup-with-start-of-antitrust-trial.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/14/nvidia-ai-chip-manufacturing/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T16:49:13.000Z</news:publication_date>
-            <news:title>Nvidia Announces $500 Billion AI Chip and Supercomputer Manufacturing Push in US</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/nvidia-ai-chip-manufacturing.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/14/bitcoin-scam-ohio/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T16:14:16.000Z</news:publication_date>
-            <news:title>More than $35,000 recovered in stolen Bitcoin scam for Ohio woman</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/bitcoin-scam-ohio.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/14/navwar-using-catapult-to-find-sbir-technologies-faster/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T16:00:28.000Z</news:publication_date>
-            <news:title>NAVWAR using Catapult to find SBIR technologies faster</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/navwar-using-catapult-to-find-sbir-technologies-faster.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/14/one-day-youll-fold-your-mac-and-pop-it-in-your-pocket/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T15:56:10.000Z</news:publication_date>
-            <news:title>One day, you&#8217;ll fold your Mac and pop it in your pocket</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/one-day-youll-fold-your-mac-and-pop-it-in-your-pocket.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/04/14/meta-says-it-will-resume-ai-training-with-public-content-from-european-users/</loc>
           <news:news>
             <news:publication>
@@ -269,13 +129,83 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2025/04/14/intel-sells-majority-stake-in-altera-to-silver-lake-investors-in-a-deal-valued-at-875-billion/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-14T14:01:31.000Z</news:publication_date>
+            <news:title>Intel sells majority stake in Altera to Silver Lake investors in a deal valued at $8.75 billion</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/intel-sells-majority-stake-in-altera-to-silver-lake-investors-in-a-deal-valued-at-875-billion.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/14/as-legacy-of-ford-fades-in-brazil-chinas-byd-looks-to-extend-global-lead-in-ev-sales/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-14T13:32:53.000Z</news:publication_date>
+            <news:title>As legacy of Ford fades in Brazil, China's BYD looks to extend global lead in EV sales</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/as-legacy-of-ford-fades-in-brazil-chinas-byd-looks-to-extend-global-lead-in-ev-sales.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/14/now-companies-can-patch-windows-11-without-rebooting/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-14T12:05:14.000Z</news:publication_date>
+            <news:title>Microsoft Adds Hotpatching Support in Windows 11 Enterprise</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/now-companies-can-patch-windows-11-without-rebooting.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/14/trumps-tariff-flip-flop-policy-shifts-disrupt-tech-procurement-for-cios/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-14T12:00:28.000Z</news:publication_date>
+            <news:title>Trump&#8217;s tariff flip-flop: Policy shifts disrupt tech procurement for CIOs</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/trumps-tariff-flip-flop-policy-shifts-disrupt-tech-procurement-for-cios.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/14/microsoft-defender-is-getting-a-useful-upgrade-to-help-stop-endpoint-attacks/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-14T11:34:00.000Z</news:publication_date>
+            <news:title>Microsoft Defender is getting a useful upgrade to help stop endpoint attacks</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/microsoft-defender-is-getting-a-useful-upgrade-to-help-stop-endpoint-attacks.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/04/14/sony-hikes-playstation-5-console-prices-for-europe-uk-and-australia-citing-economic-turmoil/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-14T10:39:11.000Z</news:publication_date>
+            <news:publication_date>2025-04-14T10:22:06.000Z</news:publication_date>
             <news:title>Sony hikes PlayStation 5 console prices for Europe, UK and Australia citing economic turmoil</news:title>
           </news:news>
           <image:image>
@@ -283,227 +213,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/14/sennheiser-launches-airpods-like-open-earbuds-and-if-theyre-as-good-as-the-rest-of-its-accentum-headphones-theyll-be-a-bargain/</loc>
+          <loc>https://majordigest.com/tech/2025/04/14/stocks-rally-worldwide-after-trump-eases-some-of-his-tariffs-on-electronics-for-now/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-14T10:21:50.000Z</news:publication_date>
-            <news:title>Sennheiser launches AirPods-like open earbuds, and if they're as good as the rest of its Accentum headphones, they'll be a bargain</news:title>
+            <news:publication_date>2025-04-14T04:39:33.000Z</news:publication_date>
+            <news:title>Stocks rally worldwide after Trump eases some of his tariffs on electronics, for now</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/sennheiser-launches-airpods-like-open-earbuds-and-if-theyre-as-good-as-the-rest-of-its-accentum-headphones-theyll-be-a-bargain.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/stocks-rally-worldwide-after-trump-eases-some-of-his-tariffs-on-electronics-for-now.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/14/microsoft-warns-that-anyone-who-deleted-mysterious-folder-that-appeared-after-latest-windows-11-update-must-take-action-to-put-it-back/</loc>
+          <loc>https://majordigest.com/tech/2025/04/13/meta-vs-ftc-trial-begins/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-14T09:56:07.000Z</news:publication_date>
-            <news:title>Microsoft warns that anyone who deleted mysterious folder that appeared after latest Windows 11 update must take action to put it back</news:title>
+            <news:publication_date>2025-04-13T23:40:08.000Z</news:publication_date>
+            <news:title>Meta vs. Federal Trade Commission trial begins Monday. What to know</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/microsoft-warns-that-anyone-who-deleted-mysterious-folder-that-appeared-after-latest-windows-11-update-must-take-action-to-put-it-back.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/13/meta-vs-ftc-trial-begins.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/14/leaked-avengers-doomsday-images-tease-meeting/</loc>
+          <loc>https://majordigest.com/tech/2025/04/13/some-top-tech-leaders-have-embraced-trump-thats-created-a-political-divide-in-silicon-valley/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-14T09:37:53.000Z</news:publication_date>
-            <news:title>Leaked Avengers: Doomsday images seemingly tease meeting between rival X-Men characters &#8211; and a Marvel hero who wasn't part of the original cast reveal</news:title>
+            <news:publication_date>2025-04-13T17:45:07.000Z</news:publication_date>
+            <news:title>Some top tech leaders have embraced Trump. That's created a political divide in Silicon Valley</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/leaked-avengers-doomsday-images-tease-meeting.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/13/some-top-tech-leaders-have-embraced-trump-thats-created-a-political-divide-in-silicon-valley.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/12/japanese-leader-says-he-hopes-osaka-expo-will-help-reunite-a-divided-world/</loc>
+          <loc>https://majordigest.com/tech/2025/04/13/5-mobile-privacy-terms-you-need-know-protect-yourself/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-12T18:46:17.000Z</news:publication_date>
-            <news:title>Japanese leader says he hopes Osaka expo will help reunite a divided world</news:title>
+            <news:publication_date>2025-04-13T14:00:06.000Z</news:publication_date>
+            <news:title>5 mobile privacy terms you need to know to protect yourself</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/12/japanese-leader-says-he-hopes-osaka-expo-will-help-reunite-a-divided-world.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/12/how-ai-is-transforming-news-into-a-two-way-conversation/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-12T01:30:00.000Z</news:publication_date>
-            <news:title>The next big AI shift in media? Turning news into a two-way conversation</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/12/how-ai-is-transforming-news-into-a-two-way-conversation.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/11/for-april-a-large-dynamic-patch-tuesday-release/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-11T19:32:35.000Z</news:publication_date>
-            <news:title>For April, a large &#8216;dynamic&#8217; Patch Tuesday release</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/11/for-april-a-large-dynamic-patch-tuesday-release.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/11/social-security-administration-social-platform-x-releases/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-11T18:25:18.000Z</news:publication_date>
-            <news:title>Social Security Administration &#8216;will be using X to communicate' moving forward</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/11/social-security-administration-social-platform-x-releases.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/11/apple-flew-in-600-tons-of-iphones-from-india-to-avoid-trumps-tariffs/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-11T18:22:23.000Z</news:publication_date>
-            <news:title>Apple flew 600 tons of iPhones from India to the US to avoid Trump tariffs</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/11/apple-flew-in-600-tons-of-iphones-from-india-to-avoid-trumps-tariffs.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/11/garcia-musk-unlikeable/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-11T17:13:25.000Z</news:publication_date>
-            <news:title>Musk 'most unlikeable person' in US: House Democrat</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/11/garcia-musk-unlikeable.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/11/cant-find-your-android-phone-heres-what-do-track-down/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-11T14:00:31.000Z</news:publication_date>
-            <news:title>Can't find your Android phone? Here's what to do to track it down</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/11/cant-find-your-android-phone-heres-what-do-track-down.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/11/what-is-data-fabric-how-it-offers-a-unified-view-of-your-data/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-11T14:00:00.000Z</news:publication_date>
-            <news:title>What is data fabric? How it offers a unified view of your data</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/11/what-is-data-fabric-how-it-offers-a-unified-view-of-your-data.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/11/google-pixel-9a/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-11T09:45:00.000Z</news:publication_date>
-            <news:title>The problem with Google&#8217;s Pixel 9a</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/11/google-pixel-9a.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/11/more-and-faster-new-proposals-changing-python-from-within/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-11T09:00:00.000Z</news:publication_date>
-            <news:title>More and faster: New proposals changing Python from within</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/11/more-and-faster-new-proposals-changing-python-from-within.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/10/google-unveils-firebase-studio-for-ai-app-development/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-10T22:10:52.000Z</news:publication_date>
-            <news:title>Google unveils Firebase Studio for AI app development</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/10/google-unveils-firebase-studio-for-ai-app-development.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/10/microsoft-slowing-or-pausing-some-ai-data-center-projects/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-10T19:50:57.000Z</news:publication_date>
-            <news:title>Microsoft 'slowing or pausing' some AI data center projects</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/10/microsoft-slowing-or-pausing-some-ai-data-center-projects.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/10/omb-expands-on-best-ways-agencies-should-buy-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-10T18:38:56.000Z</news:publication_date>
-            <news:title>OMB expands on best ways agencies should buy AI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/10/omb-expands-on-best-ways-agencies-should-buy-ai.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/13/5-mobile-privacy-terms-you-need-know-protect-yourself.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -518,5 +280,19 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/04/10/hackers-breach-moroccos-social-security-database-in-an-unprecedented-cyberattack.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/10/google-reaffirms-75b-ai-infra-investment-as-cloud-providers-pursue-divergent-strategies/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-10T13:39:20.000Z</news:publication_date>
+            <news:title>Google reaffirms $75B AI infra investment as cloud providers pursue divergent strategies</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/10/google-reaffirms-75b-ai-infra-investment-as-cloud-providers-pursue-divergent-strategies.webp</image:loc>
           </image:image>
         </url></urlset>

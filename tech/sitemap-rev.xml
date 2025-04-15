@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/14/nvidia-ai-chip-manufacturing/</loc>
+          <loc>https://majordigest.com/tech/2025/04/14/mark-zuckerberg-takes-the-stand-at-meta-trial/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-14T16:49:13.000Z</news:publication_date>
-            <news:title>Nvidia Announces $500 Billion AI Chip and Supercomputer Manufacturing Push in US</news:title>
+            <news:publication_date>2025-04-14T17:53:49.000Z</news:publication_date>
+            <news:title>Meta CEO Zuckerberg Takes Stand in Antitrust Case</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/nvidia-ai-chip-manufacturing.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/mark-zuckerberg-takes-the-stand-at-meta-trial.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/14/now-companies-can-patch-windows-11-without-rebooting/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-14T12:05:14.000Z</news:publication_date>
+            <news:title>Microsoft Adds Hotpatching Support in Windows 11 Enterprise</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/now-companies-can-patch-windows-11-without-rebooting.webp</image:loc>
           </image:image>
         </url></urlset>
