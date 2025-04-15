@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/09/opm-digitizes-federal-retirement-booklets-as-part-of-longtime-modernization-effort/</loc>
+          <loc>https://majordigest.com/tech/2025/04/14/judgment-day-is-coming-for-ai/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-09T20:38:25.000Z</news:publication_date>
-            <news:title>OPM Digitizes Federal Retirement Booklets</news:title>
+            <news:publication_date>2025-04-14T19:36:20.000Z</news:publication_date>
+            <news:title>The Limits of Artificial Intelligence: A Tool, Not an Expert</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/09/opm-digitizes-federal-retirement-booklets-as-part-of-longtime-modernization-effort.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/judgment-day-is-coming-for-ai.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/12/japanese-leader-says-he-hopes-osaka-expo-will-help-reunite-a-divided-world/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-12T18:46:17.000Z</news:publication_date>
+            <news:title>Japan's Expo 2025 Osaka Opens Amid Global Tensions - AP News</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/12/japanese-leader-says-he-hopes-osaka-expo-will-help-reunite-a-divided-world.webp</image:loc>
           </image:image>
         </url></urlset>
