@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/14/4-legged-hydrogen-powered-robot-you-can-actually-ride/</loc>
+          <loc>https://majordigest.com/tech/2025/04/15/china-pursuing-3-alleged-us-operatives-over-cyberattacks-during-asian-games/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-14T10:00:40.000Z</news:publication_date>
-            <news:title>Kawasaki Unveils Futuristic Robot RIDE: CORLEO</news:title>
+            <news:publication_date>2025-04-15T10:05:51.000Z</news:publication_date>
+            <news:title>China Accuses US Operatives of Cyberattacks on Chinese Infrastructure</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/4-legged-hydrogen-powered-robot-you-can-actually-ride.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/15/china-pursuing-3-alleged-us-operatives-over-cyberattacks-during-asian-games.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/10/apples-macs-are-powering-the-pc-markets-recovery/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-10T17:37:36.000Z</news:publication_date>
+            <news:title>Apple's Macs Drive PC Sales Rebound, Canalys Data Shows</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/10/apples-macs-are-powering-the-pc-markets-recovery.webp</image:loc>
           </image:image>
         </url></urlset>
