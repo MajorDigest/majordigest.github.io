@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2025/04/16/cyber-roundup-cisa-pulls-cve-from-the-brink/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-16T22:39:35.000Z</news:publication_date>
+            <news:title>Cyber roundup: CISA pulls CVE from the brink</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/16/cyber-roundup-cisa-pulls-cve-from-the-brink.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/04/16/trumps-china-tariffs-spark-viral-tiktok-workarounds/</loc>
           <news:news>
             <news:publication>
@@ -23,7 +37,7 @@
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-16T20:22:57.000Z</news:publication_date>
+            <news:publication_date>2025-04-16T20:22:56.000Z</news:publication_date>
             <news:title>Meta CEO Mark Zuckerberg wraps up testimony in antitrust case</news:title>
           </news:news>
           <image:image>
@@ -31,73 +45,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/16/tatooine-like-planet-outside-the-solar-system-may-orbit-two-failed-stars-scientists-say/</loc>
+          <loc>https://majordigest.com/tech/2025/04/16/amd-sees-800-million-charge-from-export-curbs-on-ai-chips/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-16T18:01:38.000Z</news:publication_date>
-            <news:title>Tatooine-like planet outside the solar system may orbit two failed stars, scientists say</news:title>
+            <news:publication_date>2025-04-16T17:07:35.000Z</news:publication_date>
+            <news:title>AMD sees $800 million charge from export curbs on AI chips</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/tatooine-like-planet-outside-the-solar-system-may-orbit-two-failed-stars-scientists-say.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/16/openai-picks-labor-icon-dolores-huerta-and-other-philanthropy-advisers-as-it-moves-toward-for-profit/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-16T17:17:31.000Z</news:publication_date>
-            <news:title>OpenAI picks labor icon Dolores Huerta and other philanthropy advisers as it moves toward for-profit</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/openai-picks-labor-icon-dolores-huerta-and-other-philanthropy-advisers-as-it-moves-toward-for-profit.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/16/car-rental-startup-turo-cuts-15-of-workers-after-icing-ipo/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-16T17:07:02.000Z</news:publication_date>
-            <news:title>Car rental startup Turo cuts 15% of workers after icing IPO</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/car-rental-startup-turo-cuts-15-of-workers-after-icing-ipo.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/16/deezer-is-rolling-out-its-answer-to-wrapped-and-replay-plus-three-new-features-you-wont-find-on-spotify-or-apple-music/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-16T17:00:55.000Z</news:publication_date>
-            <news:title>Deezer is rolling out its answer to Wrapped and Replay, plus three new features you won't find on Spotify or Apple Music</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/deezer-is-rolling-out-its-answer-to-wrapped-and-replay-plus-three-new-features-you-wont-find-on-spotify-or-apple-music.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/16/fox-news-ai-newsletter-nvidia-announces-plans-make-ai-supercomputers-us/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-16T15:59:25.000Z</news:publication_date>
-            <news:title>Nvidia Announces Plans to Make AI Supercomputers in US for First Time - Latest AI Advancements</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/fox-news-ai-newsletter-nvidia-announces-plans-make-ai-supercomputers-us.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/16/amd-sees-800-million-charge-from-export-curbs-on-ai-chips.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -115,143 +73,101 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/16/south-korean-ai-innovator-upstage-eyes-expansion-in-the-us-and-japan/</loc>
+          <loc>https://majordigest.com/tech/2025/04/16/nintendo-switch-2-pre-orders-will-reportedly-begin-soon-in-canada-and-im-hoping-that-the-us-follows-suit/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-16T14:18:18.000Z</news:publication_date>
-            <news:title>South Korean full-stack AI startup Upstage eyes expansion in the US and Japan</news:title>
+            <news:publication_date>2025-04-16T10:29:12.000Z</news:publication_date>
+            <news:title>Nintendo Switch 2 pre-orders will reportedly begin soon in Canada, and I'm hoping that the US follows suit</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/south-korean-ai-innovator-upstage-eyes-expansion-in-the-us-and-japan.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/16/nintendo-switch-2-pre-orders-will-reportedly-begin-soon-in-canada-and-im-hoping-that-the-us-follows-suit.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/16/windows-11-is-about-to-get-a-nifty-shortcut-for-copying-out-all-the-text-from-an-image/</loc>
+          <loc>https://majordigest.com/tech/2025/04/16/cloud-next-2025-las-innovaciones-en-ia-de-google-que-los-cio-deberian-conocer-2/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-16T13:02:40.000Z</news:publication_date>
-            <news:title>Windows 11 is about to get a nifty shortcut for copying out all the text from an image</news:title>
+            <news:publication_date>2025-04-16T09:39:11.000Z</news:publication_date>
+            <news:title>Cloud Next 2025: las innovaciones en IA de Google que los CIO deber&#237;an conocer</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/windows-11-is-about-to-get-a-nifty-shortcut-for-copying-out-all-the-text-from-an-image.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/16/cloud-next-2025-las-innovaciones-en-ia-de-google-que-los-cio-deberian-conocer-2.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/16/google-search-ditches-country-specific-domains-directs-all-users-to-google-com/</loc>
+          <loc>https://majordigest.com/tech/2025/04/16/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-16T10:06:38.000Z</news:publication_date>
-            <news:title>Google search ditches country-specific domains, directs all users to google.com</news:title>
+            <news:publication_date>2025-04-16T08:49:01.000Z</news:publication_date>
+            <news:title>Agentic AI &#8211; Ongoing coverage of its impact on the enterprise</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/google-search-ditches-country-specific-domains-directs-all-users-to-google-com.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/16/agentic-ai-ongoing-coverage-of-its-impact-on-the-enterprise.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/16/major-baks-data-sharing-office-of-the-comptroller-of-the-currency/</loc>
+          <loc>https://majordigest.com/tech/2025/04/16/nvidia-shares-fall-after-it-says-us-controls-on-exports-of-ai-chip-will-cost-it-55-billion/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-16T02:42:27.000Z</news:publication_date>
-            <news:title>Major U.S. banks pause data sharing with this federal bureau after a cyberattack exposed sensitive information</news:title>
+            <news:publication_date>2025-04-16T05:44:33.000Z</news:publication_date>
+            <news:title>Tech shares fall after Nvidia says new US controls on exports of AI chip will cost it $5.5 billion</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/major-baks-data-sharing-office-of-the-comptroller-of-the-currency.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/16/nvidia-shares-fall-after-it-says-us-controls-on-exports-of-ai-chip-will-cost-it-55-billion.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/16/coheres-embed-4-model-helps-enterprises-search-dynamic-documents-messy-data/</loc>
+          <loc>https://majordigest.com/tech/2025/04/16/dont-like-a-columnists-opinion-los-angeles-times-offers-an-ai-generated-opposing-viewpoint/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-16T01:23:17.000Z</news:publication_date>
-            <news:title>Cohere&#8217;s Embed 4 model helps enterprises search dynamic documents, &#8216;messy&#8217; data</news:title>
+            <news:publication_date>2025-04-16T04:05:18.000Z</news:publication_date>
+            <news:title>Don't like a columnist's opinion? Los Angeles Times offers an AI-generated opposing viewpoint</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/coheres-embed-4-model-helps-enterprises-search-dynamic-documents-messy-data.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/16/dont-like-a-columnists-opinion-los-angeles-times-offers-an-ai-generated-opposing-viewpoint.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/16/meta-accused-of-copying-competitors-features/</loc>
+          <loc>https://majordigest.com/tech/2025/04/16/openai-wants-to-be-more-than-an-ai-company/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-16T01:13:22.000Z</news:publication_date>
-            <news:title>8 times Meta has been accused of copying competitors&#8217; features</news:title>
+            <news:publication_date>2025-04-16T01:25:57.000Z</news:publication_date>
+            <news:title>OpenAI wants to be more like Apple and Google</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/meta-accused-of-copying-competitors-features.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/16/openai-wants-to-be-more-than-an-ai-company.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/16/meta-ceo-zuckerberg-spars-with-ftc-lawyer-over-meaning-of-emails-cited-in-antitrust-trial/</loc>
+          <loc>https://majordigest.com/tech/2025/04/15/tsa-precheck-stress-time/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-16T00:57:50.000Z</news:publication_date>
-            <news:title>Meta CEO Zuckerberg considered spinning off Instagram in 2018 over antitrust worries, email says</news:title>
+            <news:publication_date>2025-04-15T19:00:47.000Z</news:publication_date>
+            <news:title>TSA PreCheck: Is It Really Saving You Time?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/16/meta-ceo-zuckerberg-spars-with-ftc-lawyer-over-meaning-of-emails-cited-in-antitrust-trial.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/15/zuckerberg-defends-metas-instagram-whatsapp-deals-ftc-antitrust-trial/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-15T23:23:01.000Z</news:publication_date>
-            <news:title>Zuckerberg defends Meta&#8217;s Instagram, WhatsApp deals in U.S. antitrust trial</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/15/zuckerberg-defends-metas-instagram-whatsapp-deals-ftc-antitrust-trial.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/15/bankrupt-23andme-faces-scrutiny-u-s-house-committee-government-seeks-testimony-co-founder/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-15T22:23:59.000Z</news:publication_date>
-            <news:title>Bankrupt 23andMe faces scrutiny by U.S. House Committee as government seeks testimony from cofounder</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/15/bankrupt-23andme-faces-scrutiny-u-s-house-committee-government-seeks-testimony-co-founder.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/15/seth-rogen-silicon-valley-trump-support-breakthrough-prize/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-15T21:26:57.000Z</news:publication_date>
-            <news:title>Seth Rogen calls out Silicon Valley's Trump support in cut awards-show remarks: Report</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/15/seth-rogen-silicon-valley-trump-support-breakthrough-prize.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/15/tsa-precheck-stress-time.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -269,31 +185,45 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/15/microsoft-releases-out-of-band-updates-to-fix-reporting-error/</loc>
+          <loc>https://majordigest.com/tech/2025/04/14/self-driving-tesla-driver-asleep-crash/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-15T02:01:50.000Z</news:publication_date>
-            <news:title>Microsoft releases out-of-band updates to fix reporting error</news:title>
+            <news:publication_date>2025-04-14T22:31:11.000Z</news:publication_date>
+            <news:title>Self-driving Tesla hits car, sign while driver sleeps behind wheel</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/15/microsoft-releases-out-of-band-updates-to-fix-reporting-error.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/self-driving-tesla-driver-asleep-crash.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/14/accelerate-together-zero-trust-2025-wizs-chris-saunders-on-extending-zta-to-cloud/</loc>
+          <loc>https://majordigest.com/tech/2025/04/14/meta-faces-historic-antitrust-trial-that-could-force-it-to-break-off-instagram-whatsapp/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-14T20:16:23.000Z</news:publication_date>
-            <news:title>Accelerate Together</news:title>
+            <news:publication_date>2025-04-14T22:04:55.000Z</news:publication_date>
+            <news:title>Meta CEO Mark Zuckerberg takes the stand in historic antitrust trial</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/accelerate-together-zero-trust-2025-wizs-chris-saunders-on-extending-zta-to-cloud.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/meta-faces-historic-antitrust-trial-that-could-force-it-to-break-off-instagram-whatsapp.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/14/intel-sells-majority-stake-in-altera-to-silver-lake-investors-in-a-deal-valued-at-8-75-billion/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-14T17:59:01.000Z</news:publication_date>
+            <news:title>Intel sells majority stake in Altera to Silver Lake investors in a deal valued at $8.75 billion</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/intel-sells-majority-stake-in-altera-to-silver-lake-investors-in-a-deal-valued-at-8-75-billion.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -308,20 +238,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/tech/2025/04/14/nvidia-plans-to-manufacture-ai-chips-in-the-us-for-the-first-time.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/04/14/lawmakers-call-on-national-archives-to-investigate-use-of-signal-and-gmail-by-top-government-officials/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-14T17:11:31.000Z</news:publication_date>
-            <news:title>Lawmakers Call for Investigation into Unauthorized Government Communications</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/lawmakers-call-on-national-archives-to-investigate-use-of-signal-and-gmail-by-top-government-officials.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -353,31 +269,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/12/japanese-leader-says-he-hopes-osaka-expo-will-help-reunite-a-divided-world/</loc>
+          <loc>https://majordigest.com/tech/2025/04/14/sony-hikes-playstation-5-console-prices-for-europe-uk-and-australia-citing-economic-turmoil/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-12T18:46:17.000Z</news:publication_date>
-            <news:title>Japanese leader says he hopes Osaka expo will help reunite a divided world</news:title>
+            <news:publication_date>2025-04-14T10:39:11.000Z</news:publication_date>
+            <news:title>Sony hikes PlayStation 5 console prices for Europe, UK and Australia citing economic turmoil</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/12/japanese-leader-says-he-hopes-osaka-expo-will-help-reunite-a-divided-world.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/14/sony-hikes-playstation-5-console-prices-for-europe-uk-and-australia-citing-economic-turmoil.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/04/10/how-thieves-use-new-credit-card-numbers-before-you-receive-them/</loc>
+          <loc>https://majordigest.com/tech/2025/04/13/via-porn-gore-and-ultra-violence-extremist-groups-are-sinking-hooks-online-into-the-very-young/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-10T14:00:13.000Z</news:publication_date>
-            <news:title>How thieves use new credit card numbers before you receive them</news:title>
+            <news:publication_date>2025-04-13T06:22:40.000Z</news:publication_date>
+            <news:title>Via porn, gore and ultra-violence, extremist groups are sinking hooks online into the very young</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/10/how-thieves-use-new-credit-card-numbers-before-you-receive-them.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/13/via-porn-gore-and-ultra-violence-extremist-groups-are-sinking-hooks-online-into-the-very-young.webp</image:loc>
           </image:image>
         </url>
         <url>
