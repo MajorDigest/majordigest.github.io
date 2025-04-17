@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/18/new-jersey-is-suing-discord-for-allegedly-violating-child-safety-laws/</loc>
+          <loc>https://majordigest.com/tech/2025/04/17/new-iphone-17-pro-render-ditches-the-two-tone-design-for-a-possibly-more-accurate-appearance/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-18T03:01:59.000Z</news:publication_date>
-            <news:title>New Jersey Sues Discord Over Alleged Safety Failures</news:title>
+            <news:publication_date>2025-04-17T09:43:56.000Z</news:publication_date>
+            <news:title>New iPhone 17 Pro Render Sparks Design Debate: Single Color or Two-Tone?</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/18/new-jersey-is-suing-discord-for-allegedly-violating-child-safety-laws.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/17/new-iphone-17-pro-render-ditches-the-two-tone-design-for-a-possibly-more-accurate-appearance.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/16/nvidia-unveils-5-5b-charge-to-comply-with-trump-rule/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-16T18:29:33.000Z</news:publication_date>
+            <news:title>Nvidia Hit by $5.5 Billion Export Control Charge</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/16/nvidia-unveils-5-5b-charge-to-comply-with-trump-rule.webp</image:loc>
           </image:image>
         </url></urlset>
