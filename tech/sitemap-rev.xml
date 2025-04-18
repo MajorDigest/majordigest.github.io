@@ -3,16 +3,30 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2025/04/14/windows-server-2025-domain-controllers-may-lose-connectivity-after-reboot-says-microsoft/</loc>
+          <loc>https://majordigest.com/tech/2025/04/18/google-loses-major-ad-tech-antitrust-case/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-14T18:20:05.000Z</news:publication_date>
-            <news:title>Microsoft Warns of Windows Server 2025 Connectivity Issue</news:title>
+            <news:publication_date>2025-04-18T00:41:08.000Z</news:publication_date>
+            <news:title>Federal Judge Rules Google Acted Illegally in Online Advertising</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/tech/2025/04/14/windows-server-2025-domain-controllers-may-lose-connectivity-after-reboot-says-microsoft.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/18/google-loses-major-ad-tech-antitrust-case.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/04/17/googles-digital-ad-network-declared-an-illegal-monopoly-joining-its-search-engine-in-penalty-box/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-17T22:46:49.000Z</news:publication_date>
+            <news:title>Google Branded Abusive Monopolist for Exploiting Online Marketing Technology</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/tech/2025/04/17/googles-digital-ad-network-declared-an-illegal-monopoly-joining-its-search-engine-in-penalty-box.webp</image:loc>
           </image:image>
         </url></urlset>
