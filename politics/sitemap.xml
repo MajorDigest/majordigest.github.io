@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/politics/2025/04/19/npr-trump-harvard-tax-irs-antisemitism/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-19T13:10:00.000Z</news:publication_date>
-            <news:title>History shows revoking Harvard's tax status won't be easy</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/19/npr-trump-harvard-tax-irs-antisemitism.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/politics/2025/04/19/some-jan-6-rioters-pardoned-by-trump-are-now-embraced-as-heroes-and-candidates-for-office/</loc>
           <news:news>
             <news:publication>
@@ -31,17 +17,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/04/19/a-prince-and-knight-fall-in-love-and-the-supreme-court-is-asked-to-intervene/</loc>
+          <loc>https://majordigest.com/politics/2025/04/19/big-10-schools-creating-a-mutual-defense-compact-against-trump-actions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-19T12:10:03.000Z</news:publication_date>
-            <news:title>A prince and knight fall in love and the Supreme Court is asked to intervene</news:title>
+            <news:publication_date>2025-04-19T12:24:28.000Z</news:publication_date>
+            <news:title>Big 10 schools creating a 'mutual defense compact' against Trump actions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/19/a-prince-and-knight-fall-in-love-and-the-supreme-court-is-asked-to-intervene.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/19/big-10-schools-creating-a-mutual-defense-compact-against-trump-actions.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/04/19/trumps-first-quarter-approval-rating-sits-at-45-percent-poll/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-19T12:21:01.000Z</news:publication_date>
+            <news:title>Trump&#8217;s first quarter approval rating sits at 45 percent: Poll</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/19/trumps-first-quarter-approval-rating-sits-at-45-percent-poll.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -70,76 +70,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static12/politics/2025/04/19/how-trump-backed-away-from-promising-to-end-the-russia-ukraine-war-in-24-hours.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/04/19/rubio-us-ukraine-russia-peace-efforts/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-19T02:37:46.000Z</news:publication_date>
-            <news:title>Trump says Ukraine-Russia talks 'coming to a head' and 'no one is playing' him in push to end war</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/19/rubio-us-ukraine-russia-peace-efforts.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/04/19/appeals-court-halts-boasbergs-contempt-proceedings-against-trump-administration/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-19T01:11:05.000Z</news:publication_date>
-            <news:title>Appeals court halts Boasberg&#8217;s contempt proceedings against Trump administration</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/19/appeals-court-halts-boasbergs-contempt-proceedings-against-trump-administration.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/04/19/fired-probationary-workers-at-commerce-say-their-insurance-is-being-cut-early/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-19T00:44:47.000Z</news:publication_date>
-            <news:title>Fired probationary workers at Commerce say their insurance is being cut early</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/19/fired-probationary-workers-at-commerce-say-their-insurance-is-being-cut-early.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/04/19/rubio-says-state-department-to-restrict-visas-of-at-least-250-nicaraguan-officials/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-19T00:43:51.000Z</news:publication_date>
-            <news:title>Rubio says State Department to restrict visas of at least 250 Nicaraguan officials</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/19/rubio-says-state-department-to-restrict-visas-of-at-least-250-nicaraguan-officials.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/04/19/bill-ban-congressional-trading/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-19T00:17:23.000Z</news:publication_date>
-            <news:title>Bill would require lawmakers to put some investments in blind trust</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/19/bill-ban-congressional-trading.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -185,59 +115,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/04/18/aclu-asks-supreme-court-to-block-imminent-wave-of-alien-enemies-act-deportations/</loc>
+          <loc>https://majordigest.com/politics/2025/04/18/trump-dishes-abrego-garcias-unbelievably-bad-record-democrats-fake-trip-el-salvador/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-18T22:06:15.000Z</news:publication_date>
-            <news:title>ACLU asks Supreme Court to block &#8216;imminent&#8217; wave of Alien Enemies Act deportations</news:title>
+            <news:publication_date>2025-04-18T20:55:58.000Z</news:publication_date>
+            <news:title>Trump dishes on Abrego-Garcia's 'unbelievably bad' record and Democrat's 'fake' El Salvador trip</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/18/aclu-asks-supreme-court-to-block-imminent-wave-of-alien-enemies-act-deportations.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/18/trump-dishes-abrego-garcias-unbelievably-bad-record-democrats-fake-trip-el-salvador.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/04/18/judge-blocks-trump-administrations-from-passport-changes-affecting-transgender-americans/</loc>
+          <loc>https://majordigest.com/politics/2025/04/18/pentagons-week-power-struggles-leak-fallout-shouting-matches-hit-hegseths-inner-circle/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-18T21:51:59.000Z</news:publication_date>
-            <news:title>Judge blocks Trump administration from passport changes affecting some transgender Americans</news:title>
+            <news:publication_date>2025-04-18T19:48:07.000Z</news:publication_date>
+            <news:title>Pentagon's week of power struggles: Leak fallout and shouting matches hit Hegseth's inner circle</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/18/judge-blocks-trump-administrations-from-passport-changes-affecting-transgender-americans.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/18/pentagons-week-power-struggles-leak-fallout-shouting-matches-hit-hegseths-inner-circle.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/04/18/ice-dispels-rumors-about-viral-video-showing-agents-smashing-window-arrest-illegal/</loc>
+          <loc>https://majordigest.com/politics/2025/04/18/maryland-senator-is-returning-to-us-after-pushing-for-abrego-garcias-release-and-meeting-with-him/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-18T20:21:32.000Z</news:publication_date>
-            <news:title>ICE dispels rumors about viral video showing agents smashing window to arrest illegal</news:title>
+            <news:publication_date>2025-04-18T18:59:05.000Z</news:publication_date>
+            <news:title>US senator returns from El Salvador trip, says Abrego Garcia case is about far more than one man</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/18/ice-dispels-rumors-about-viral-video-showing-agents-smashing-window-arrest-illegal.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/18/maryland-senator-is-returning-to-us-after-pushing-for-abrego-garcias-release-and-meeting-with-him.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/04/18/despite-trumps-order-surprising-number-dei-programs-remain-active-colleges-universities/</loc>
+          <loc>https://majordigest.com/politics/2025/04/18/chinas-military-pressure-taiwan-us-relations/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-18T19:07:52.000Z</news:publication_date>
-            <news:title>Despite Trump's order, a surprising number of DEI programs remain 'active' at colleges and universities</news:title>
+            <news:publication_date>2025-04-18T17:15:32.000Z</news:publication_date>
+            <news:title>China's military pressure near Taiwan is up 300%: What it means for the US</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/18/despite-trumps-order-surprising-number-dei-programs-remain-active-colleges-universities.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/18/chinas-military-pressure-taiwan-us-relations.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/04/18/judge-declines-to-further-enforce-order-restoring-ap-access-to-white-house/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-18T16:39:26.000Z</news:publication_date>
+            <news:title>Judge declines to further enforce order restoring AP access to White House</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/18/judge-declines-to-further-enforce-order-restoring-ap-access-to-white-house.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -269,59 +213,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/04/18/ethics-investigation-of-state-senate-president-prompts-conflict-of-interest-rules-scrutiny/</loc>
+          <loc>https://majordigest.com/politics/2025/04/18/us-citizen-held-by-ice-despite-judge-seeing-birth-certificate/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-18T02:09:28.000Z</news:publication_date>
-            <news:title>Ethics investigation of state Senate president prompts conflict-of-interest rules scrutiny</news:title>
+            <news:publication_date>2025-04-18T02:31:49.000Z</news:publication_date>
+            <news:title>US citizen held by ICE despite judge seeing birth certificate</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/18/ethics-investigation-of-state-senate-president-prompts-conflict-of-interest-rules-scrutiny.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/18/us-citizen-held-by-ice-despite-judge-seeing-birth-certificate.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/04/18/hope-florida-foundation-meeting-disrupted-by-slurs-pornographic-images-amid-scrutiny/</loc>
+          <loc>https://majordigest.com/politics/2025/04/17/supreme-court-to-hear-rare-may-arguments-in-birthright-citizenship-battle/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-18T00:59:20.000Z</news:publication_date>
-            <news:title>Hope Florida Foundation meeting disrupted by slurs, pornographic images amid scrutiny</news:title>
+            <news:publication_date>2025-04-17T18:15:15.000Z</news:publication_date>
+            <news:title>Supreme Court to hear rare May arguments in birthright citizenship battle</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/18/hope-florida-foundation-meeting-disrupted-by-slurs-pornographic-images-amid-scrutiny.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/04/17/pennsylvania-senator-asked-child-pornography-question-during-civics-competition/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-17T23:58:26.000Z</news:publication_date>
-            <news:title>Pennsylvania senator asked child 'pornography' question during civics competition</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/17/pennsylvania-senator-asked-child-pornography-question-during-civics-competition.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/politics/2025/04/17/protesters-gather-el-salvador-consulate-st-paul/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-04-17T20:07:59.000Z</news:publication_date>
-            <news:title>Protesters gather outside El Salvador&#8217;s consulate in St. Paul</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/17/protesters-gather-el-salvador-consulate-st-paul.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/17/supreme-court-to-hear-rare-may-arguments-in-birthright-citizenship-battle.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -339,45 +255,73 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/04/17/gop-lawmakers-investigate-nonprofit-founded-by-casey-desantis-executive-director-resigns/</loc>
+          <loc>https://majordigest.com/politics/2025/04/16/funding-for-nyc-pre-k-and-3-k-permanently-locked-in-mayor/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-17T00:58:41.000Z</news:publication_date>
-            <news:title>GOP lawmakers investigate nonprofit founded by Casey DeSantis; executive director resigns</news:title>
+            <news:publication_date>2025-04-16T17:11:22.000Z</news:publication_date>
+            <news:title>Funding for NYC Pre-K and 3-K permanently locked in: Mayor</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/17/gop-lawmakers-investigate-nonprofit-founded-by-casey-desantis-executive-director-resigns.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/16/funding-for-nyc-pre-k-and-3-k-permanently-locked-in-mayor.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/04/16/wisconsin-beats-minnesota-in-voter-turnout/</loc>
+          <loc>https://majordigest.com/politics/2025/04/16/lawmakers-press-hope-florida-officials-over-political-contributions/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-16T21:06:52.000Z</news:publication_date>
-            <news:title>Wisconsin squeaks past Minnesota for the top spot in voter turnout</news:title>
+            <news:publication_date>2025-04-16T03:08:49.000Z</news:publication_date>
+            <news:title>Lawmakers press Hope Florida officials over political contributions</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/16/wisconsin-beats-minnesota-in-voter-turnout.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/16/lawmakers-press-hope-florida-officials-over-political-contributions.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/politics/2025/04/15/281-bills-fall-victim-to-deadline-at-nevada-legislature-here-are-the-highlights/</loc>
+          <loc>https://majordigest.com/politics/2025/04/16/nil-payments-ok-at-unlv-unr-but-payment-amounts-secret-under-sb293/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-04-15T02:13:38.000Z</news:publication_date>
-            <news:title>281 bills fall victim to deadline at Nevada Legislature. Here are the highlights</news:title>
+            <news:publication_date>2025-04-16T01:41:31.000Z</news:publication_date>
+            <news:title>NIL payments OK at UNLV, UNR, but payment amounts secret under SB293</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static12/politics/2025/04/15/281-bills-fall-victim-to-deadline-at-nevada-legislature-here-are-the-highlights.webp</image:loc>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/16/nil-payments-ok-at-unlv-unr-but-payment-amounts-secret-under-sb293.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/04/15/trump-administration-freezes-22-billion-in-grants-to-harvard-over-campus-activism/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-15T01:16:15.000Z</news:publication_date>
+            <news:title>Trump administration freezes $2.2 billion in grants to Harvard over campus activism</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/15/trump-administration-freezes-22-billion-in-grants-to-harvard-over-campus-activism.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/politics/2025/04/15/getting-the-irs-on-the-phone-is-more-difficult-this-tax-filing-season-experts-say/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-04-15T01:09:25.000Z</news:publication_date>
+            <news:title>Getting the IRS on the phone is more difficult this tax filing season, experts say</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static12/politics/2025/04/15/getting-the-irs-on-the-phone-is-more-difficult-this-tax-filing-season-experts-say.webp</image:loc>
           </image:image>
         </url>
         <url>
