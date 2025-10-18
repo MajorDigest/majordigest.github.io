@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 18 Oct 2025 10:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Oct 2025 11:04:33 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,37 +19,117 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Salesforce chief says he no longer backs Trump sending National Guard to San Francisco</title>
-          <description><![CDATA[Salesforce CEO Marc Benioff apologized Friday for comments suggesting that President Trump should deploy the National Guard to San Francisco, saying he no longer believes it is necessary.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/17/salesforce-ceo-apologizes-trump-comments/</guid>
-          <link>https://majordigest.com/tech/2025/10/17/salesforce-ceo-apologizes-trump-comments/</link>
-          <pubDate>Fri, 17 Oct 2025 21:59:58 GMT</pubDate>
+          <title>Claude just got a skill upgrade and it&#8217;s coming for your workflows</title>
+          <description><![CDATA[Model builders are moving beyond simple AI chatbots to creating comprehensive assistants that, in the words of AI dignitary Ethan Mollick, “do real work” in enterprise workflows.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/18/claude-just-got-a-skill-upgrade-and-its-coming-for-your-workflows/</guid>
+          <link>https://majordigest.com/tech/2025/10/18/claude-just-got-a-skill-upgrade-and-its-coming-for-your-workflows/</link>
+          <pubDate>Sat, 18 Oct 2025 01:13:15 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/salesforce-ceo-apologizes-trump-comments.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/salesforce-ceo-apologizes-trump-comments.webp"/>
-          <dc:creator>Julia Shapero, The Hill</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/18/claude-just-got-a-skill-upgrade-and-its-coming-for-your-workflows.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/18/claude-just-got-a-skill-upgrade-and-its-coming-for-your-workflows.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>AI-powered Bay Area home insurance startup expands in risky markets</title>
-          <description><![CDATA[San Francisco-based Stand uses remote sensing data and collects details from homeowners. The startup analyzes this information using AI, which it uses to simulate how wind, heat, embers and other factors stand to contribute to possible damage.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/17/ai-powered-home-insurance-startup-expands-in-risky-markets/</guid>
-          <link>https://majordigest.com/tech/2025/10/17/ai-powered-home-insurance-startup-expands-in-risky-markets/</link>
-          <pubDate>Fri, 17 Oct 2025 14:44:43 GMT</pubDate>
+          <title>Threat actors are spreading malicious extensions via VS marketplaces</title>
+          <description><![CDATA[Careless developers publishing Visual Studio extensions to two open marketplaces have been including access tokens and other secrets that can be exploited by threat actors, a security vendor has found.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/18/threat-actors-are-spreading-malicious-extensions-via-vs-marketplaces/</guid>
+          <link>https://majordigest.com/tech/2025/10/18/threat-actors-are-spreading-malicious-extensions-via-vs-marketplaces/</link>
+          <pubDate>Sat, 18 Oct 2025 00:18:48 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/ai-powered-home-insurance-startup-expands-in-risky-markets.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/ai-powered-home-insurance-startup-expands-in-risky-markets.webp"/>
-          <dc:creator>Bloomberg, The Mercury News</dc:creator>
-        </item>
-        <item>
-          <title>A mini-CrowdStrike moment? Windows 11 update cripples dev environments</title>
-          <description><![CDATA[Just as Windows 10 has reached its end of life (EOL), issues with Windows 11 abound, the most recent an update that broke localhost for some developers, preventing them from accessing web apps running locally on their machines.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/17/a-mini-crowdstrike-moment-windows-11-update-cripples-dev-environments-2/</guid>
-          <link>https://majordigest.com/tech/2025/10/17/a-mini-crowdstrike-moment-windows-11-update-cripples-dev-environments-2/</link>
-          <pubDate>Fri, 17 Oct 2025 12:22:33 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/a-mini-crowdstrike-moment-windows-11-update-cripples-dev-environments-2.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/a-mini-crowdstrike-moment-windows-11-update-cripples-dev-environments-2.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/18/threat-actors-are-spreading-malicious-extensions-via-vs-marketplaces.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/18/threat-actors-are-spreading-malicious-extensions-via-vs-marketplaces.webp"/>
           <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Sex could become the next big business opportunity for AI companies</title>
+          <description><![CDATA[ChatGPT will be able to have kinkier conversations after OpenAI CEO Sam Altman announced the artificial intelligence company will soon allow its chatbot to engage in “erotica for verified adults.”
+OpenAI won’t be the first to try to profit from sexualized AI.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/17/openai-chatgpt-sex-ai-companies/</guid>
+          <link>https://majordigest.com/tech/2025/10/17/openai-chatgpt-sex-ai-companies/</link>
+          <pubDate>Fri, 17 Oct 2025 23:45:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/openai-chatgpt-sex-ai-companies.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/openai-chatgpt-sex-ai-companies.webp"/>
+          <dc:creator>Associated Press, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Hi-fi legend Quad's new super-powerful, super-connected stereo amp could be all the amp you need for the rest of your life</title>
+          <description><![CDATA[Money No Object: Quad launches its "finest-ever" integrated amp, and it's future-proofed in a ton of ways]]></description>
+          <guid>https://majordigest.com/tech/2025/10/17/hi-fi-legend-quads-new-super-powerful-super-connected-stereo-amp-could-be-all-the-amp-you-need-for-the-rest-of-your-life/</guid>
+          <link>https://majordigest.com/tech/2025/10/17/hi-fi-legend-quads-new-super-powerful-super-connected-stereo-amp-could-be-all-the-amp-you-need-for-the-rest-of-your-life/</link>
+          <pubDate>Fri, 17 Oct 2025 23:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/hi-fi-legend-quads-new-super-powerful-super-connected-stereo-amp-could-be-all-the-amp-you-need-for-the-rest-of-your-life.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/hi-fi-legend-quads-new-super-powerful-super-connected-stereo-amp-could-be-all-the-amp-you-need-for-the-rest-of-your-life.webp"/>
+          <dc:creator>Carrie Marshall, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Toonstar&#8217;s new &#8216;Uncle Roger&#8217; cartoon embraces AI&#8212;but slop it&#8217;s not</title>
+          <description><![CDATA[“The gyoza needs to look a little whiter. It’s too pink.”
+Nigel Ng is genially micromanaging the look and feel of Fried, an animated series that will premiere on YouTube later this year.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/17/uncle-roger-cartoon-nigel-ng-toonstar/</guid>
+          <link>https://majordigest.com/tech/2025/10/17/uncle-roger-cartoon-nigel-ng-toonstar/</link>
+          <pubDate>Fri, 17 Oct 2025 19:13:12 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/uncle-roger-cartoon-nigel-ng-toonstar.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/uncle-roger-cartoon-nigel-ng-toonstar.webp"/>
+          <dc:creator>Harry McCracken, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Shaping enterprise talent strategies in the age of AI</title>
+          <description><![CDATA[AI, and in particular agentic AI, present an opportunity to rethink the nature of work, reshaping teams and blurring the line between technology and talent leadership.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/17/shaping-enterprise-talent-strategies-in-the-age-of-ai/</guid>
+          <link>https://majordigest.com/tech/2025/10/17/shaping-enterprise-talent-strategies-in-the-age-of-ai/</link>
+          <pubDate>Fri, 17 Oct 2025 18:44:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/shaping-enterprise-talent-strategies-in-the-age-of-ai.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/shaping-enterprise-talent-strategies-in-the-age-of-ai.webp"/>
+          <dc:creator>CIO</dc:creator>
+        </item>
+        <item>
+          <title>From heart health to health equity, Dr. David Goff is shaping science and inspiring public service</title>
+          <description><![CDATA["We've had a lot of success, but we're now having backsliding, and there's a lot of work to be done," said Dr. David Goff.
+The post From heart health to health equity, Dr. David Goff is shaping science and inspiring public service first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/17/from-heart-health-to-health-equity-dr-david-goff-is-shaping-science-and-inspiring-public-service/</guid>
+          <link>https://majordigest.com/tech/2025/10/17/from-heart-health-to-health-equity-dr-david-goff-is-shaping-science-and-inspiring-public-service/</link>
+          <pubDate>Fri, 17 Oct 2025 18:05:55 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/from-heart-health-to-health-equity-dr-david-goff-is-shaping-science-and-inspiring-public-service.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/from-heart-health-to-health-equity-dr-david-goff-is-shaping-science-and-inspiring-public-service.webp"/>
+          <dc:creator>Terry Gerton, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Manufacturing, research and industrial hub may replace San Jose offices</title>
+          <description><![CDATA[A "high-end industrial campus" is being eyed at a north San Jose site, a project that is expected to create new jobs.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/17/san-jose-tech-jobs-economy-industrial-research-property-build-develop/</guid>
+          <link>https://majordigest.com/tech/2025/10/17/san-jose-tech-jobs-economy-industrial-research-property-build-develop/</link>
+          <pubDate>Fri, 17 Oct 2025 18:02:40 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/san-jose-tech-jobs-economy-industrial-research-property-build-develop.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/san-jose-tech-jobs-economy-industrial-research-property-build-develop.webp"/>
+          <dc:creator>George Avalos, The Mercury News</dc:creator>
+        </item>
+        <item>
+          <title>Apple&#8217;s Big Bang AI moment is approaching</title>
+          <description><![CDATA[Want to use artificial intelligence (AI) that maintains privacy and doesn’t need a lake full of water or industrial electricity generator to make an emojii? Apple has that.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/17/apples-big-bang-ai-moment-is-approaching/</guid>
+          <link>https://majordigest.com/tech/2025/10/17/apples-big-bang-ai-moment-is-approaching/</link>
+          <pubDate>Fri, 17 Oct 2025 15:32:46 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/apples-big-bang-ai-moment-is-approaching.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/apples-big-bang-ai-moment-is-approaching.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>The Sonoma County connection to an off-the-grid Nobel Prize winner</title>
+          <description><![CDATA[Fred Ramsdell, who won a Nobel Prize in medicine, made headlines by missing the announcement because he was camping.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/17/the-sonoma-county-connection-to-an-off-the-grid-nobel-prize-winner/</guid>
+          <link>https://majordigest.com/tech/2025/10/17/the-sonoma-county-connection-to-an-off-the-grid-nobel-prize-winner/</link>
+          <pubDate>Fri, 17 Oct 2025 12:21:32 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/the-sonoma-county-connection-to-an-off-the-grid-nobel-prize-winner.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/the-sonoma-county-connection-to-an-off-the-grid-nobel-prize-winner.webp"/>
+          <dc:creator>Charles Swanson, The Mercury News</dc:creator>
         </item>
         <item>
           <title>How to make workers happier with less pay</title>
@@ -64,17 +144,6 @@ The study published this week was conducted with Levels.]]></description>
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Meta adds parental controls for AI-teen interactions</title>
-          <description><![CDATA[Meta is adding parental controls to kids’ interactions with artificial intelligence chatbots — including the ability to turn off one-on-one chats with AI characters altogether.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/17/meta-adds-parental-controls-for-ai-teen-interactions/</guid>
-          <link>https://majordigest.com/tech/2025/10/17/meta-adds-parental-controls-for-ai-teen-interactions/</link>
-          <pubDate>Fri, 17 Oct 2025 10:11:14 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/meta-adds-parental-controls-for-ai-teen-interactions.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/meta-adds-parental-controls-for-ai-teen-interactions.webp"/>
-          <dc:creator>Barbara Ortutay, Associated Press, Local 4</dc:creator>
-        </item>
-        <item>
           <title>AI pushes CIOs to redefine IT roles for the future</title>
           <description><![CDATA[AI is already reshaping the IT job landscape, with layoffs and demand for AI skills creating a mismatched market for IT skills. But the technology is also contributing to possible contraction for IT workforces as enterprises IT leaders find themselves redefining IT roles in the wake of AI’s rise.]]></description>
           <guid>https://majordigest.com/tech/2025/10/17/ai-pushes-cios-to-redefine-it-roles-for-the-future/</guid>
@@ -86,92 +155,190 @@ The study published this week was conducted with Levels.]]></description>
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>2 weird but wonderful Android launchers</title>
-          <description><![CDATA[I think at this point, it’s safe to say I’m an Android launcher aficionado. (I think it’s also safe to both pat myself on the back and bop myself uponst the nose for coming up with such a delightfully dorky description. But I’ll save that for later.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/17/weird-android-launchers/</guid>
-          <link>https://majordigest.com/tech/2025/10/17/weird-android-launchers/</link>
-          <pubDate>Fri, 17 Oct 2025 09:45:00 GMT</pubDate>
+          <title>Big Tech is paying millions to train teachers on AI, in a push to bring chatbots into classrooms</title>
+          <description><![CDATA[SAN ANTONIO (AP) — On a scorching hot Saturday in San Antonio, dozens of teachers traded a day off for a glimpse of the future. The topic of the day’s workshop: enhancing instruction with artificial intelligence.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/17/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms/</guid>
+          <link>https://majordigest.com/tech/2025/10/17/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms/</link>
+          <pubDate>Fri, 17 Oct 2025 04:04:23 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/weird-android-launchers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/weird-android-launchers.webp"/>
-          <dc:creator>Computer World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms.webp"/>
+          <dc:creator>JOCELYN GECKER, Associated Press, KRON4</dc:creator>
         </item>
         <item>
-          <title>Nvidia: Latest news and insights</title>
-          <description><![CDATA[More processor coverage on Network World:
-Intel news and insights | AMD news and insights
-With its legacy of innovation in GPU technology, Nvidia has become a dominant force in the AI market.  Nvidia’s partners read like a technology who’s who list – e.g.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/17/nvidia-latest-news-and-insights/</guid>
-          <link>https://majordigest.com/tech/2025/10/17/nvidia-latest-news-and-insights/</link>
-          <pubDate>Fri, 17 Oct 2025 08:34:22 GMT</pubDate>
+          <title>Getac launches world's fastest rugged laptop - and, for the first time in decades, we have an AMD-powered rugged notebook</title>
+          <description><![CDATA[Getac’s S510AD introduces AMD’s AI power to rugged laptops, blending durability, sustainability, and field-ready performance for professional users.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/getac-launches-worlds-fastest-rugged-laptop-and-for-the-first-time-in-decades-this-is-an-amd-powered-rugged-notebook/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/getac-launches-worlds-fastest-rugged-laptop-and-for-the-first-time-in-decades-this-is-an-amd-powered-rugged-notebook/</link>
+          <pubDate>Thu, 16 Oct 2025 22:33:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/17/nvidia-latest-news-and-insights.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/17/nvidia-latest-news-and-insights.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/getac-launches-worlds-fastest-rugged-laptop-and-for-the-first-time-in-decades-this-is-an-amd-powered-rugged-notebook.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/getac-launches-worlds-fastest-rugged-laptop-and-for-the-first-time-in-decades-this-is-an-amd-powered-rugged-notebook.webp"/>
+          <dc:creator>Efosa Udinmwen, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Chamber of Commerce sues to block $100K H-1B visa fees</title>
+          <description><![CDATA[The U.S. Chamber of Commerce sued the Trump administration Thursday over its decision to raise the fee for H-1B work visa applications to $100,000, arguing that President Trump exceeded his authority in altering the visa program.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/chamber-sues-trump-h1b-fee/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/chamber-sues-trump-h1b-fee/</link>
+          <pubDate>Thu, 16 Oct 2025 21:55:32 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/chamber-sues-trump-h1b-fee.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/chamber-sues-trump-h1b-fee.webp"/>
+          <dc:creator>Julia Shapero, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Nvidia, Infineon partner for AI data center power overhaul</title>
+          <description><![CDATA[Infineon’s Power & Sensor Systems division is teaming up with Nvidia to upgrade the outdated power architecture of AI data centers and replace them with a centralized high-voltage DC power setup.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/nvidia-infineon-partner-for-ai-data-center-power-overhaul/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/nvidia-infineon-partner-for-ai-data-center-power-overhaul/</link>
+          <pubDate>Thu, 16 Oct 2025 21:16:52 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/nvidia-infineon-partner-for-ai-data-center-power-overhaul.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/nvidia-infineon-partner-for-ai-data-center-power-overhaul.webp"/>
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>SpaceX launches the 11th test flight of its mega Starship rocket with another win</title>
-          <description><![CDATA[SpaceX launched another of its mammoth Starship rockets on a test flight Monday, successfully making it halfway around the world while releasing mock satellites like last time. Starship — the biggest and most powerful rocket ever built — thundered into the evening sky from the southern tip of Texas.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/14/spacex-launches-the-11th-test-flight-of-its-mega-starship-rocket/</guid>
-          <link>https://majordigest.com/tech/2025/10/14/spacex-launches-the-11th-test-flight-of-its-mega-starship-rocket/</link>
-          <pubDate>Tue, 14 Oct 2025 01:50:40 GMT</pubDate>
+          <title>Meta details cutting-edge networking technologies for AI infrastructure</title>
+          <description><![CDATA[Meta shared details about its AI and networking advances at this week’s 2025 OCP Global Summit in San Jose, Calif.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/meta-details-cutting-edge-networking-technologies-for-ai-infrastructure/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/meta-details-cutting-edge-networking-technologies-for-ai-infrastructure/</link>
+          <pubDate>Thu, 16 Oct 2025 20:13:36 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/14/spacex-launches-the-11th-test-flight-of-its-mega-starship-rocket.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/14/spacex-launches-the-11th-test-flight-of-its-mega-starship-rocket.webp"/>
-          <dc:creator>MARCIA DUNN, Associated Press, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>OpenAI partners with Broadcom to design its own AI chips</title>
-          <description><![CDATA[OpenAI said Monday it is working with chipmaker Broadcom to design its own artificial intelligence computer chips. The two California companies didn't disclose the financial terms of the deal but said they will start deploying the new racks of customized “AI accelerators” late next year.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/13/openai-partners-with-broadcom-to-design-its-own-ai-chips/</guid>
-          <link>https://majordigest.com/tech/2025/10/13/openai-partners-with-broadcom-to-design-its-own-ai-chips/</link>
-          <pubDate>Mon, 13 Oct 2025 21:08:20 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/13/openai-partners-with-broadcom-to-design-its-own-ai-chips.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/13/openai-partners-with-broadcom-to-design-its-own-ai-chips.webp"/>
-          <dc:creator>MATT O'BRIEN, Associated Press, ABC 4</dc:creator>
-        </item>
-        <item>
-          <title>Inside Nvidia&#8217;s &#8216;grid-to-chip&#8217; vision: How Vera Rubin and Spectrum-XGS push toward AI giga-factories</title>
-          <description><![CDATA[Nvidia will be front-and-center at this week’s Global Summit for members of the Open Compute Project (OCP), emphasizing its “grid-to-chip” philosophy.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/13/inside-nvidias-grid-to-chip-vision-how-vera-rubin-and-spectrum-xgs-push-toward-ai-giga-factories/</guid>
-          <link>https://majordigest.com/tech/2025/10/13/inside-nvidias-grid-to-chip-vision-how-vera-rubin-and-spectrum-xgs-push-toward-ai-giga-factories/</link>
-          <pubDate>Mon, 13 Oct 2025 15:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/13/inside-nvidias-grid-to-chip-vision-how-vera-rubin-and-spectrum-xgs-push-toward-ai-giga-factories.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/13/inside-nvidias-grid-to-chip-vision-how-vera-rubin-and-spectrum-xgs-push-toward-ai-giga-factories.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/meta-details-cutting-edge-networking-technologies-for-ai-infrastructure.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/meta-details-cutting-edge-networking-technologies-for-ai-infrastructure.webp"/>
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Ethernet vs Wi-Fi security comparison reveals surprising results for home users seeking protection</title>
-          <description><![CDATA[Expert analysis reveals whether wired Ethernet or wireless Wi-Fi connections are safer for home internet use, plus practical steps to secure your network from attackers.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/12/ethernet-vs-wi-fi-security-comparison-reveals-surprising-results-home-users-seeking-protection/</guid>
-          <link>https://majordigest.com/tech/2025/10/12/ethernet-vs-wi-fi-security-comparison-reveals-surprising-results-home-users-seeking-protection/</link>
-          <pubDate>Sun, 12 Oct 2025 12:00:40 GMT</pubDate>
+          <title>Major companies, including Google and Dior, hit by massive Salesforce data breach</title>
+          <description><![CDATA[Google, Dior, Allianz and dozens of other companies lost sensitive customer data in Salesforce-related breaches affecting millions of records across multiple sectors.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/major-companies-including-google-dior-hit-massive-salesforce-data-breach/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/major-companies-including-google-dior-hit-massive-salesforce-data-breach/</link>
+          <pubDate>Thu, 16 Oct 2025 19:39:48 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/12/ethernet-vs-wi-fi-security-comparison-reveals-surprising-results-home-users-seeking-protection.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/12/ethernet-vs-wi-fi-security-comparison-reveals-surprising-results-home-users-seeking-protection.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/major-companies-including-google-dior-hit-massive-salesforce-data-breach.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/major-companies-including-google-dior-hit-massive-salesforce-data-breach.webp"/>
           <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>Crypto spent millions to defeat Sherrod Brown and elect allies. It's ready for a repeat in 2026</title>
-          <description><![CDATA[COLUMBUS, Ohio (AP) — At a five-star resort tucked in the mountains of Jackson Hole, Wyoming, the cryptocurrency industry was celebrating a historic start to the year on Capitol Hill. Its priorities were sailing through Congress with unusual speed and one senator did not hesitate to say why. Sen.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/11/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026/</guid>
-          <link>https://majordigest.com/tech/2025/10/11/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026/</link>
-          <pubDate>Sat, 11 Oct 2025 16:17:15 GMT</pubDate>
+          <title>Arm joins Open Compute Project to build next-generation AI data center silicon</title>
+          <description><![CDATA[Chip designer Arm Holdings plc has announced it is joining the Open Compute Project to help address rising energy demands from AI-oriented data centers.
+Arm said it plans to support companies in developing the next phase of purpose-built silicon and packaging for converged infrastructure.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/arm-joins-open-compute-project-to-build-next-generation-ai-data-center-silicon/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/arm-joins-open-compute-project-to-build-next-generation-ai-data-center-silicon/</link>
+          <pubDate>Thu, 16 Oct 2025 18:32:43 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/11/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/11/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026.webp"/>
-          <dc:creator>JOEY CAPPELLETTI, Associated Press, KREX 5</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/arm-joins-open-compute-project-to-build-next-generation-ai-data-center-silicon.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/arm-joins-open-compute-project-to-build-next-generation-ai-data-center-silicon.webp"/>
+          <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>How malicious party invites target your inbox</title>
-          <description><![CDATA[Cybercriminals are using fake invitation emails to trick recipients into downloading malware and stealing personal information and data.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/11/how-malicious-party-invites-target-your-inbox/</guid>
-          <link>https://majordigest.com/tech/2025/10/11/how-malicious-party-invites-target-your-inbox/</link>
-          <pubDate>Sat, 11 Oct 2025 13:49:11 GMT</pubDate>
+          <title>Energy Department offers $1.6 billion loan guarantee to upgrade transmission lines across Midwest</title>
+          <description><![CDATA[The Department of Energy says it has finalized a $1.6 billion loan guarantee to a subsidiary of one of the nation’s largest power companies to upgrade nearly 5,000 miles of transmission lines across five states, mostly in the Midwest, for largely fossil fuel-run energy.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/energy-department-offers-16-billion-loan-guarantee-to-upgrade-transmission-lines-across-midwest/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/energy-department-offers-16-billion-loan-guarantee-to-upgrade-transmission-lines-across-midwest/</link>
+          <pubDate>Thu, 16 Oct 2025 18:01:33 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/11/how-malicious-party-invites-target-your-inbox.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/11/how-malicious-party-invites-target-your-inbox.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/energy-department-offers-16-billion-loan-guarantee-to-upgrade-transmission-lines-across-midwest.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/energy-department-offers-16-billion-loan-guarantee-to-upgrade-transmission-lines-across-midwest.webp"/>
+          <dc:creator>Matthew Daly, Associated Press, KPRC 2</dc:creator>
+        </item>
+        <item>
+          <title>As Broadcom becomes its latest major ally, this graph shows how OpenAI made itself too big to fail by securing hundreds of billions from the world's largest tech companies</title>
+          <description><![CDATA[Broadcom joins Nvidia, AMD, and Microsoft in OpenAI’s trillion-dollar AI infrastructure collaboration revealed in social media image.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/as-broadcom-becomes-its-latest-ally-this-graph-shows-how-openai-made-itself-too-big-to-fail-by-securing-hundreds-of-billions-from-the-worlds-largest-tech-companies/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/as-broadcom-becomes-its-latest-ally-this-graph-shows-how-openai-made-itself-too-big-to-fail-by-securing-hundreds-of-billions-from-the-worlds-largest-tech-companies/</link>
+          <pubDate>Thu, 16 Oct 2025 17:31:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/as-broadcom-becomes-its-latest-ally-this-graph-shows-how-openai-made-itself-too-big-to-fail-by-securing-hundreds-of-billions-from-the-worlds-largest-tech-companies.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/as-broadcom-becomes-its-latest-ally-this-graph-shows-how-openai-made-itself-too-big-to-fail-by-securing-hundreds-of-billions-from-the-worlds-largest-tech-companies.webp"/>
+          <dc:creator>Wayne Williams, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Apple adds game-changing iPhone document feature that users waited years to see</title>
+          <description><![CDATA[Apple launches iOS 26 with new Preview app that combines document editing, PDF annotation and scanning features into one streamlined iPhone experience.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/apple-adds-game-changing-document-feature-iphone-users-have-been-waiting-years/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/apple-adds-game-changing-document-feature-iphone-users-have-been-waiting-years/</link>
+          <pubDate>Thu, 16 Oct 2025 16:57:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/apple-adds-game-changing-document-feature-iphone-users-have-been-waiting-years.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/apple-adds-game-changing-document-feature-iphone-users-have-been-waiting-years.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Booker courts red state voters online, urging them to join &#8216;No Kings&#8217; protests</title>
+          <description><![CDATA[Sen. Cory Booker (D-N.J.) is pressing red state voters to join local “No Kings” protests Saturday and put pressure on their GOP legislators to end the government shutdown through his outreach with social media influencers and creators in Florida and North Carolina.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/booker-red-state-voters-no-kings/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/booker-red-state-voters-no-kings/</link>
+          <pubDate>Thu, 16 Oct 2025 16:51:16 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/booker-red-state-voters-no-kings.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/booker-red-state-voters-no-kings.webp"/>
+          <dc:creator>Caroline Vakil, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Microsoft: Russia, China increasingly using AI to escalate cyberattacks on the US</title>
+          <description><![CDATA[Russia, China, Iran and North Korea are using artificial intelligence to improve their cyberattacks on U.S. companies, governments and individuals, according to new research from Microsoft.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us/</link>
+          <pubDate>Thu, 16 Oct 2025 14:44:35 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us.webp"/>
+          <dc:creator>David Klepper, Associated Press, KPRC 2</dc:creator>
+        </item>
+        <item>
+          <title>Death of kidnapped South Korean student spurs talks with Cambodia to tackle online scams</title>
+          <description><![CDATA[PHNOM PENH, Cambodia (AP) — Cambodian and South Korean officials agreed Thursday to cooperate in combating online scams, after the death of a South Korean student who was reportedly forced to work in a scam center in Cambodia triggered public outrage in South Korea.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/death-of-kidnapped-south-korean-student-spurs-talks-with-cambodia-to-tackle-online-scams/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/death-of-kidnapped-south-korean-student-spurs-talks-with-cambodia-to-tackle-online-scams/</link>
+          <pubDate>Thu, 16 Oct 2025 14:39:37 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/death-of-kidnapped-south-korean-student-spurs-talks-with-cambodia-to-tackle-online-scams.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/death-of-kidnapped-south-korean-student-spurs-talks-with-cambodia-to-tackle-online-scams.webp"/>
+          <dc:creator>HYUNG-JIN KIM and SOPHENG CHEANG, Associated Press, KGET 17, NBC</dc:creator>
+        </item>
+        <item>
+          <title>Top Army official using ChatGPT to make military decisions: Report</title>
+          <description><![CDATA[An expert warned that, no matter how fast the tech can give an answer, nothing can replace human judgment when it comes to military calls.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/military-generals-using-ai-decision-making-combat/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/military-generals-using-ai-decision-making-combat/</link>
+          <pubDate>Thu, 16 Oct 2025 10:57:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/military-generals-using-ai-decision-making-combat.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/military-generals-using-ai-decision-making-combat.webp"/>
+          <dc:creator>NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>Using Valkey on Azure and in .NET Aspire</title>
+          <description><![CDATA[Big changes to the license used by the popular open source key/value store Redis prompted a fork, with the launch of Valkey. In the time since that fork in March 2024, the two projects have diverged.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/using-valkey-on-azure-and-in-net-aspire/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/using-valkey-on-azure-and-in-net-aspire/</link>
+          <pubDate>Thu, 16 Oct 2025 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/using-valkey-on-azure-and-in-net-aspire.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/using-valkey-on-azure-and-in-net-aspire.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>How to run an R data visualization chatbot you can talk to</title>
+          <description><![CDATA[Typing questions into a chatbot is nice, but speaking often feels more natural. In fact, some experts encourage people to talk to generative AI instead of typing, in part to get out of the habit of using them as glorified search engines.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/16/how-to-run-an-r-data-visualization-chatbot-you-can-talk-to/</guid>
+          <link>https://majordigest.com/tech/2025/10/16/how-to-run-an-r-data-visualization-chatbot-you-can-talk-to/</link>
+          <pubDate>Thu, 16 Oct 2025 09:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/16/how-to-run-an-r-data-visualization-chatbot-you-can-talk-to.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/16/how-to-run-an-r-data-visualization-chatbot-you-can-talk-to.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Flying drones take aim at retail theft</title>
+          <description><![CDATA[Flying drones could help retailers fight a 93% increase in theft rates as Flock Safety promotes airborne security systems to track suspects and deter crime.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/11/flying-drones-take-aim-retail-theft/</guid>
+          <link>https://majordigest.com/tech/2025/10/11/flying-drones-take-aim-retail-theft/</link>
+          <pubDate>Sat, 11 Oct 2025 12:49:05 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/11/flying-drones-take-aim-retail-theft.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/11/flying-drones-take-aim-retail-theft.webp"/>
           <dc:creator>Fox News</dc:creator>
         </item></channel></rss>
