@@ -3,6 +3,34 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2025/10/18/beeper-slack-whatsapp-telegram/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-10-18T16:00:00.000Z</news:publication_date>
+            <news:title>This messaging mecca integrates Slack, WhatsApp, and Telegram</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static13/tech/2025/10/18/beeper-slack-whatsapp-telegram.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/10/18/teslas-self-driving-cars-under-fire-again/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-10-18T11:00:09.000Z</news:publication_date>
+            <news:title>Tesla's self-driving cars under fire again</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static13/tech/2025/10/18/teslas-self-driving-cars-under-fire-again.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/10/18/claude-just-got-a-skill-upgrade-and-its-coming-for-your-workflows/</loc>
           <news:news>
             <news:publication>
@@ -14,34 +42,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static13/tech/2025/10/18/claude-just-got-a-skill-upgrade-and-its-coming-for-your-workflows.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/18/threat-actors-are-spreading-malicious-extensions-via-vs-marketplaces/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-18T00:18:48.000Z</news:publication_date>
-            <news:title>Threat actors are spreading malicious extensions via VS marketplaces</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/18/threat-actors-are-spreading-malicious-extensions-via-vs-marketplaces.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/17/openai-chatgpt-sex-ai-companies/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-17T23:45:00.000Z</news:publication_date>
-            <news:title>Sex could become the next big business opportunity for AI companies</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/17/openai-chatgpt-sex-ai-companies.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -59,6 +59,20 @@
           </image:image>
         </url>
         <url>
+          <loc>https://majordigest.com/tech/2025/10/17/meta-adding-ai-chatbot-safety-features-for-teens/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-10-17T20:08:47.000Z</news:publication_date>
+            <news:title>Meta adding AI chatbot safety features for teens</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static13/tech/2025/10/17/meta-adding-ai-chatbot-safety-features-for-teens.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2025/10/17/uncle-roger-cartoon-nigel-ng-toonstar/</loc>
           <news:news>
             <news:publication>
@@ -70,20 +84,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static13/tech/2025/10/17/uncle-roger-cartoon-nigel-ng-toonstar.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/17/shaping-enterprise-talent-strategies-in-the-age-of-ai/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-17T18:44:44.000Z</news:publication_date>
-            <news:title>Shaping enterprise talent strategies in the age of AI</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/17/shaping-enterprise-talent-strategies-in-the-age-of-ai.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,87 +101,31 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/10/17/san-jose-tech-jobs-economy-industrial-research-property-build-develop/</loc>
+          <loc>https://majordigest.com/tech/2025/10/17/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-10-17T18:02:40.000Z</news:publication_date>
-            <news:title>Manufacturing, research and industrial hub may replace San Jose offices</news:title>
+            <news:publication_date>2025-10-17T18:05:31.000Z</news:publication_date>
+            <news:title>Microsoft&#8217;s Patch Tuesday updates: Keeping up with the latest fixes</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/17/san-jose-tech-jobs-economy-industrial-research-property-build-develop.webp</image:loc>
+            <image:loc>https://majordigest.com/static13/tech/2025/10/17/microsofts-patch-tuesday-updates-keeping-up-with-the-latest-fixes.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/10/17/apples-big-bang-ai-moment-is-approaching/</loc>
+          <loc>https://majordigest.com/tech/2025/10/17/uber-wants-to-become-the-uber-of-data-labeling/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-10-17T15:32:46.000Z</news:publication_date>
-            <news:title>Apple&#8217;s Big Bang AI moment is approaching</news:title>
+            <news:publication_date>2025-10-17T02:21:43.000Z</news:publication_date>
+            <news:title>Uber wants to become the &#8216;Uber&#8217; of data labeling</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/17/apples-big-bang-ai-moment-is-approaching.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/17/the-sonoma-county-connection-to-an-off-the-grid-nobel-prize-winner/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-17T12:21:32.000Z</news:publication_date>
-            <news:title>The Sonoma County connection to an off-the-grid Nobel Prize winner</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/17/the-sonoma-county-connection-to-an-off-the-grid-nobel-prize-winner.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/17/how-to-make-workers-happier-with-less-pay/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-17T11:00:00.000Z</news:publication_date>
-            <news:title>How to make workers happier with less pay</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/17/how-to-make-workers-happier-with-less-pay.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/17/ai-pushes-cios-to-redefine-it-roles-for-the-future/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-17T10:01:00.000Z</news:publication_date>
-            <news:title>AI pushes CIOs to redefine IT roles for the future</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/17/ai-pushes-cios-to-redefine-it-roles-for-the-future.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/17/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-17T04:04:23.000Z</news:publication_date>
-            <news:title>Big Tech is paying millions to train teachers on AI, in a push to bring chatbots into classrooms</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/17/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms.webp</image:loc>
+            <image:loc>https://majordigest.com/static13/tech/2025/10/17/uber-wants-to-become-the-uber-of-data-labeling.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -199,104 +143,6 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/10/16/chamber-sues-trump-h1b-fee/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-16T21:55:32.000Z</news:publication_date>
-            <news:title>Chamber of Commerce sues to block $100K H-1B visa fees</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/16/chamber-sues-trump-h1b-fee.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/16/nvidia-infineon-partner-for-ai-data-center-power-overhaul/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-16T21:16:52.000Z</news:publication_date>
-            <news:title>Nvidia, Infineon partner for AI data center power overhaul</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/16/nvidia-infineon-partner-for-ai-data-center-power-overhaul.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/16/meta-details-cutting-edge-networking-technologies-for-ai-infrastructure/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-16T20:13:36.000Z</news:publication_date>
-            <news:title>Meta details cutting-edge networking technologies for AI infrastructure</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/16/meta-details-cutting-edge-networking-technologies-for-ai-infrastructure.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/16/major-companies-including-google-dior-hit-massive-salesforce-data-breach/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-16T19:39:48.000Z</news:publication_date>
-            <news:title>Major companies, including Google and Dior, hit by massive Salesforce data breach</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/16/major-companies-including-google-dior-hit-massive-salesforce-data-breach.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/16/arm-joins-open-compute-project-to-build-next-generation-ai-data-center-silicon/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-16T18:32:43.000Z</news:publication_date>
-            <news:title>Arm joins Open Compute Project to build next-generation AI data center silicon</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/16/arm-joins-open-compute-project-to-build-next-generation-ai-data-center-silicon.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/16/energy-department-offers-16-billion-loan-guarantee-to-upgrade-transmission-lines-across-midwest/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-16T18:01:33.000Z</news:publication_date>
-            <news:title>Energy Department offers $1.6 billion loan guarantee to upgrade transmission lines across Midwest</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/16/energy-department-offers-16-billion-loan-guarantee-to-upgrade-transmission-lines-across-midwest.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/16/as-broadcom-becomes-its-latest-ally-this-graph-shows-how-openai-made-itself-too-big-to-fail-by-securing-hundreds-of-billions-from-the-worlds-largest-tech-companies/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-16T17:31:00.000Z</news:publication_date>
-            <news:title>As Broadcom becomes its latest major ally, this graph shows how OpenAI made itself too big to fail by securing hundreds of billions from the world's largest tech companies</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/16/as-broadcom-becomes-its-latest-ally-this-graph-shows-how-openai-made-itself-too-big-to-fail-by-securing-hundreds-of-billions-from-the-worlds-largest-tech-companies.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2025/10/16/apple-adds-game-changing-document-feature-iphone-users-have-been-waiting-years/</loc>
           <news:news>
             <news:publication>
@@ -308,20 +154,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static13/tech/2025/10/16/apple-adds-game-changing-document-feature-iphone-users-have-been-waiting-years.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/16/booker-red-state-voters-no-kings/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-16T16:51:16.000Z</news:publication_date>
-            <news:title>Booker courts red state voters online, urging them to join &#8216;No Kings&#8217; protests</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/16/booker-red-state-voters-no-kings.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -353,58 +185,44 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/10/16/military-generals-using-ai-decision-making-combat/</loc>
+          <loc>https://majordigest.com/tech/2025/10/16/microsoft-set-to-escape-french-antitrust-probe-as-qwant-complaint-falters/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-10-16T10:57:44.000Z</news:publication_date>
-            <news:title>Top Army official using ChatGPT to make military decisions: Report</news:title>
+            <news:publication_date>2025-10-16T10:08:37.000Z</news:publication_date>
+            <news:title>Microsoft set to escape French antitrust probe as Qwant complaint falters</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/16/military-generals-using-ai-decision-making-combat.webp</image:loc>
+            <image:loc>https://majordigest.com/static13/tech/2025/10/16/microsoft-set-to-escape-french-antitrust-probe-as-qwant-complaint-falters.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/10/16/using-valkey-on-azure-and-in-net-aspire/</loc>
+          <loc>https://majordigest.com/tech/2025/10/16/oracles-big-bet-for-ai-zettascale10/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-10-16T09:00:00.000Z</news:publication_date>
-            <news:title>Using Valkey on Azure and in .NET Aspire</news:title>
+            <news:publication_date>2025-10-16T02:57:17.000Z</news:publication_date>
+            <news:title>Oracle&#8217;s big bet for AI: Zettascale10</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/16/using-valkey-on-azure-and-in-net-aspire.webp</image:loc>
+            <image:loc>https://majordigest.com/static13/tech/2025/10/16/oracles-big-bet-for-ai-zettascale10.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/10/16/how-to-run-an-r-data-visualization-chatbot-you-can-talk-to/</loc>
+          <loc>https://majordigest.com/tech/2025/10/15/pixel-fold-android-foldable-app/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-10-16T09:00:00.000Z</news:publication_date>
-            <news:title>How to run an R data visualization chatbot you can talk to</news:title>
+            <news:publication_date>2025-10-15T09:45:00.000Z</news:publication_date>
+            <news:title>Got a Pixel Fold</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/16/how-to-run-an-r-data-visualization-chatbot-you-can-talk-to.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/10/11/flying-drones-take-aim-retail-theft/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-10-11T12:49:05.000Z</news:publication_date>
-            <news:title>Flying drones take aim at retail theft</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static13/tech/2025/10/11/flying-drones-take-aim-retail-theft.webp</image:loc>
+            <image:loc>https://majordigest.com/static13/tech/2025/10/15/pixel-fold-android-foldable-app.webp</image:loc>
           </image:image>
         </url></urlset>
