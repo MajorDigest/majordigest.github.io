@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 25 Oct 2025 11:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 11:07:36 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,227 +19,247 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Bethesda celebrates Fallout Day with a host of announcements, including a Fallout 4 Anniversary Edition and Nintendo Switch 2 Edition, a native Fallout 76 release for PS5 and Xbox Series X, and more</title>
-          <description><![CDATA[Bethesda celebrates Fallout Day with a slew of announcements that include a Fallout 4 Anniversary Edition, Fallout 76 for current-gen consoles, and more.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/23/bethesda-celebrates-fallout-day-with-a-host-of-announcements-including-a-fallout-4-anniversary-edition-and-nintendo-switch-2-edition-a-native-fallout-76-release-for-ps5-and-xbox-series-x-and-more/</guid>
-          <link>https://majordigest.com/tech/2025/10/23/bethesda-celebrates-fallout-day-with-a-host-of-announcements-including-a-fallout-4-anniversary-edition-and-nintendo-switch-2-edition-a-native-fallout-76-release-for-ps5-and-xbox-series-x-and-more/</link>
-          <pubDate>Thu, 23 Oct 2025 18:00:00 GMT</pubDate>
+          <title>This money-saving emporium is like Facebook Marketplace for gift cards</title>
+          <description><![CDATA[You don’t have to be an avid reader of restaurant industry trade publications—though I can attest that they are oddly fascinating—to realize that everything’s getting more expensive.
+The good news is that there’s an easy way to counteract those rising menu prices.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/25/discounted-gift-cards-cardcash/</guid>
+          <link>https://majordigest.com/tech/2025/10/25/discounted-gift-cards-cardcash/</link>
+          <pubDate>Sat, 25 Oct 2025 17:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/bethesda-celebrates-fallout-day-with-a-host-of-announcements-including-a-fallout-4-anniversary-edition-and-nintendo-switch-2-edition-a-native-fallout-76-release-for-ps5-and-xbox-series-x-and-more.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/bethesda-celebrates-fallout-day-with-a-host-of-announcements-including-a-fallout-4-anniversary-edition-and-nintendo-switch-2-edition-a-native-fallout-76-release-for-ps5-and-xbox-series-x-and-more.webp"/>
-          <dc:creator>Demi Williams, TechRadar</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/25/discounted-gift-cards-cardcash.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/25/discounted-gift-cards-cardcash.webp"/>
+          <dc:creator>Jared Newman, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Google&#8217;s Quantum chip claims 13,000x speed advantage over supercomputers</title>
-          <description><![CDATA[Google Quantum AI has demonstrated what it describes as a verifiable quantum advantage — running a new algorithm on quantum hardware that outperforms classical supercomputers by a factor of 13,000.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/23/googles-quantum-chip-achieves-13000x-speed-advantage-over-supercomputers/</guid>
-          <link>https://majordigest.com/tech/2025/10/23/googles-quantum-chip-achieves-13000x-speed-advantage-over-supercomputers/</link>
-          <pubDate>Thu, 23 Oct 2025 12:38:42 GMT</pubDate>
+          <title>OpenAI&#8217;s company knowledge wants access to all of your internal data</title>
+          <description><![CDATA[OpenAI on Thursday rolled out its latest offering, a comprehensive data collection and analysis capability called “company knowledge”.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/25/openais-company-knowledge-wants-access-to-all-of-your-internal-data/</guid>
+          <link>https://majordigest.com/tech/2025/10/25/openais-company-knowledge-wants-access-to-all-of-your-internal-data/</link>
+          <pubDate>Sat, 25 Oct 2025 00:23:41 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/googles-quantum-chip-achieves-13000x-speed-advantage-over-supercomputers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/googles-quantum-chip-achieves-13000x-speed-advantage-over-supercomputers.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/25/openais-company-knowledge-wants-access-to-all-of-your-internal-data.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/25/openais-company-knowledge-wants-access-to-all-of-your-internal-data.webp"/>
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>How to use keyed services in ASP.NET Core</title>
-          <description><![CDATA[Dependency injection (also known as DI) is a design pattern in which the dependent types of a class are injected (passed to it by another class or object) rather than created directly, thereby facilitating loose coupling and promoting easier testing and maintenance.
-In ASP.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/23/how-to-use-keyed-services-in-asp-net-core/</guid>
-          <link>https://majordigest.com/tech/2025/10/23/how-to-use-keyed-services-in-asp-net-core/</link>
-          <pubDate>Thu, 23 Oct 2025 09:00:00 GMT</pubDate>
+          <title>Scammers try to trick LastPass users into giving up credentials by telling them they&#8217;re dead</title>
+          <description><![CDATA[Are you sure you’re still alive? If so, you may fall for a phishing scam aimed at getting the master login passwords of LastPass password manager users.
+OK, this sounds weird, but in some ways it isn’t.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/scammers-try-to-trick-lastpass-users-into-giving-up-credentials-by-telling-them-theyre-dead/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/scammers-try-to-trick-lastpass-users-into-giving-up-credentials-by-telling-them-theyre-dead/</link>
+          <pubDate>Fri, 24 Oct 2025 23:21:47 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/how-to-use-keyed-services-in-asp-net-core.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/how-to-use-keyed-services-in-asp-net-core.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>Inside Google&#8217;s multi-architecture revolution: Axion Arm joins x86 in production clusters</title>
-          <description><![CDATA[While x86 has been dominant for decades, a new migration project at Google represents a significant shift to more mixed architectures.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/23/inside-googles-multi-architecture-revolution-axion-arm-joins-x86-in-production-clusters/</guid>
-          <link>https://majordigest.com/tech/2025/10/23/inside-googles-multi-architecture-revolution-axion-arm-joins-x86-in-production-clusters/</link>
-          <pubDate>Thu, 23 Oct 2025 03:36:56 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/inside-googles-multi-architecture-revolution-axion-arm-joins-x86-in-production-clusters.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/inside-googles-multi-architecture-revolution-axion-arm-joins-x86-in-production-clusters.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>Reddit sues Perplexity and others for allegedly scraping millions of user comments</title>
-          <description><![CDATA[Social media platform Reddit sued the artificial intelligence company Perplexity AI and three other entities on Wednesday, alleging their involvement in an “industrial-scale, unlawful” economy to “scrape” the comments of millions of Reddit users for commercial gain.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/23/reddit-perplexity-lawsuit-scraping-user-comments/</guid>
-          <link>https://majordigest.com/tech/2025/10/23/reddit-perplexity-lawsuit-scraping-user-comments/</link>
-          <pubDate>Thu, 23 Oct 2025 03:20:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/reddit-perplexity-lawsuit-scraping-user-comments.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/reddit-perplexity-lawsuit-scraping-user-comments.webp"/>
-          <dc:creator>Associated Press, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>Reddit sues AI company Perplexity and others for 'industrial-scale' scraping of user comments</title>
-          <description><![CDATA[Social media platform Reddit sued the artificial intelligence company Perplexity AI and three other entities on Wednesday, alleging their involvement in an “industrial-scale, unlawful” economy to “scrape” the comments of millions of Reddit users for commercial gain.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments/</link>
-          <pubDate>Wed, 22 Oct 2025 20:41:33 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments.webp"/>
-          <dc:creator>MATT O'BRIEN, Associated Press, ABC 4</dc:creator>
-        </item>
-        <item>
-          <title>OpenAI launches Atlas browser to compete with Google Chrome</title>
-          <description><![CDATA[OpenAI introduced its own web browser, Atlas, on Tuesday, putting the ChatGPT maker in direct competition with Google as more internet users rely on artificial intelligence to answer their questions.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/openai-launches-web-browser-to-compete-with-google-chrome/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/openai-launches-web-browser-to-compete-with-google-chrome/</link>
-          <pubDate>Wed, 22 Oct 2025 20:02:24 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/openai-launches-web-browser-to-compete-with-google-chrome.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/openai-launches-web-browser-to-compete-with-google-chrome.webp"/>
-          <dc:creator>MATT O'BRIEN and MICHAEL LIEDTKE, Associated Press, KRON4</dc:creator>
-        </item>
-        <item>
-          <title>Amazon hopes robots can replace 600K future hires: Report</title>
-          <description><![CDATA[Amazon hopes robots can replace hundreds of thousands of future roles, according to leaked documents seen by The New York Times.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/amazon-robots-future-hires/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/amazon-robots-future-hires/</link>
-          <pubDate>Wed, 22 Oct 2025 19:56:57 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/amazon-robots-future-hires.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/amazon-robots-future-hires.webp"/>
-          <dc:creator>Andrew Dorn, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Modernization with purpose: How federal health agencies can align tech with mission</title>
-          <description><![CDATA[Aligning tech, data and workforce to improve health outcomes starts with asking why, Maximus’ Monica Rosser says.
-The post Modernization with purpose: How federal health agencies can align tech with mission first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/modernization-with-purpose-how-federal-health-agencies-can-align-tech-with-mission/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/modernization-with-purpose-how-federal-health-agencies-can-align-tech-with-mission/</link>
-          <pubDate>Wed, 22 Oct 2025 19:35:57 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/modernization-with-purpose-how-federal-health-agencies-can-align-tech-with-mission.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/modernization-with-purpose-how-federal-health-agencies-can-align-tech-with-mission.webp"/>
-          <dc:creator>Vanessa Roberts, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Schiff presses Witkoff on divesting from Trump-tied crypto&#160;venture</title>
-          <description><![CDATA[Sen. Adam Schiff (D-Calif.) and seven other Senate Democrats pressed U.S. special envoy Steve Witkoff on Wednesday about divesting his stake in World Liberty Financial, the crypto venture launched by the Trump and Witkoff families last year.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/schiff-presses-witkoff-on-divesting-from-trump-tied-crypto-venture/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/schiff-presses-witkoff-on-divesting-from-trump-tied-crypto-venture/</link>
-          <pubDate>Wed, 22 Oct 2025 16:44:58 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/schiff-presses-witkoff-on-divesting-from-trump-tied-crypto-venture.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/schiff-presses-witkoff-on-divesting-from-trump-tied-crypto-venture.webp"/>
-          <dc:creator>Julia Shapero, The Hill</dc:creator>
-        </item>
-        <item>
-          <title>Google and Apple face extra UK scrutiny over 'strategic' role in mobile platforms</title>
-          <description><![CDATA[LONDON (AP) — Britain’s antitrust watchdog on Wednesday targeted Google and Apple for their “strategic” roles in mobile ecosystems, opening the door for regulators to impose changes to their business practices to improve competition.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/google-and-apple-face-extra-uk-scrutiny-over-strategic-role-in-mobile-platforms/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/google-and-apple-face-extra-uk-scrutiny-over-strategic-role-in-mobile-platforms/</link>
-          <pubDate>Wed, 22 Oct 2025 16:34:03 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/google-and-apple-face-extra-uk-scrutiny-over-strategic-role-in-mobile-platforms.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/google-and-apple-face-extra-uk-scrutiny-over-strategic-role-in-mobile-platforms.webp"/>
-          <dc:creator>Associated Press, KRON4</dc:creator>
-        </item>
-        <item>
-          <title>AI PCs</title>
-          <description><![CDATA[Virtually every aspect of technology has been affected, and potentially improved, by artificial intelligence (AI). PCs are no exception. While the meaning of “AI PC” is still evolving, it generally refers to a computer specifically designed to excel at AI-powered tasks.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/ai-pcs-get-the-latest-news-and-insights/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/ai-pcs-get-the-latest-news-and-insights/</link>
-          <pubDate>Wed, 22 Oct 2025 10:17:08 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/ai-pcs-get-the-latest-news-and-insights.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/ai-pcs-get-the-latest-news-and-insights.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/scammers-try-to-trick-lastpass-users-into-giving-up-credentials-by-telling-them-theyre-dead.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/scammers-try-to-trick-lastpass-users-into-giving-up-credentials-by-telling-them-theyre-dead.webp"/>
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>The best new features in Java 25</title>
-          <description><![CDATA[Java continues its fast and feature-packed release schedule, with JDK 25 delivering syntax improvements, simplifications, and performance enhancements. This article looks at the core updates in Java 25, with code and usage examples.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/7-key-features-in-java-25/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/7-key-features-in-java-25/</link>
-          <pubDate>Wed, 22 Oct 2025 09:00:00 GMT</pubDate>
+          <title>Scientists spot skyscraper-sized asteroid racing through solar system</title>
+          <description><![CDATA[Astronomers have discovered asteroid 2025 SC79, a skyscraper-sized space rock orbiting the sun in just 128 days. the second-fastest known.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/scientists-spot-skyscraper-sized-asteroid-racing-solar-system/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/scientists-spot-skyscraper-sized-asteroid-racing-solar-system/</link>
+          <pubDate>Fri, 24 Oct 2025 20:30:11 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/7-key-features-in-java-25.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/7-key-features-in-java-25.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>F5 hack highlights persistent supply chain security concerns</title>
-          <description><![CDATA[The F5 breach targets a "foundational technology" relied upon by government agencies and critical infrastructure operators.
-The post F5 hack highlights persistent supply chain security concerns first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/21/f5-hack-highlights-persistent-supply-chain-security-concerns/</guid>
-          <link>https://majordigest.com/tech/2025/10/21/f5-hack-highlights-persistent-supply-chain-security-concerns/</link>
-          <pubDate>Tue, 21 Oct 2025 22:28:44 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/f5-hack-highlights-persistent-supply-chain-security-concerns.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/f5-hack-highlights-persistent-supply-chain-security-concerns.webp"/>
-          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Rude ChatGPT prompts, better answers? What the data says</title>
-          <description><![CDATA[OpenAI CEO Sam Altman says polite words like &quot;please&quot; and &quot;thank you&quot; cost millions annually, while direct prompts may improve ChatGPT accuracy by several points.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/21/rude-chatgpt-prompts-better-answers-what-data-says/</guid>
-          <link>https://majordigest.com/tech/2025/10/21/rude-chatgpt-prompts-better-answers-what-data-says/</link>
-          <pubDate>Tue, 21 Oct 2025 12:54:41 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/rude-chatgpt-prompts-better-answers-what-data-says.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/rude-chatgpt-prompts-better-answers-what-data-says.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/scientists-spot-skyscraper-sized-asteroid-racing-solar-system.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/scientists-spot-skyscraper-sized-asteroid-racing-solar-system.webp"/>
           <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>The lost 30 years: The decline of Japan&#8217;s semiconductor industry</title>
-          <description><![CDATA[Global industrial competition has entered an era in which “whoever controls semiconductors controls the future.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/21/the-lost-30-years-the-decline-of-japans-semiconductor-industry/</guid>
-          <link>https://majordigest.com/tech/2025/10/21/the-lost-30-years-the-decline-of-japans-semiconductor-industry/</link>
-          <pubDate>Tue, 21 Oct 2025 10:00:00 GMT</pubDate>
+          <title>Zelle plans to expand bank-owned payments network to outside US</title>
+          <description><![CDATA[Zelle, the bank-owned service that facilitates consumer money movement, said it plans to expand its services internationally.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/zelle-plans-to-expand-bank-owned-payments-network-to-outside-us/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/zelle-plans-to-expand-bank-owned-payments-network-to-outside-us/</link>
+          <pubDate>Fri, 24 Oct 2025 16:16:58 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/the-lost-30-years-the-decline-of-japans-semiconductor-industry.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/the-lost-30-years-the-decline-of-japans-semiconductor-industry.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/zelle-plans-to-expand-bank-owned-payments-network-to-outside-us.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/zelle-plans-to-expand-bank-owned-payments-network-to-outside-us.webp"/>
+          <dc:creator>Bloomberg, The Mercury News</dc:creator>
+        </item>
+        <item>
+          <title>Why Nvidia just invested in a battery recycling company</title>
+          <description><![CDATA[As Nvidia’s value has soared—becoming the first public company to hit $4 trillion in market capitalization earlier this year—it’s been pouring money into AI startups. Its venture arm, NVentures, is also backing less expected bets.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/why-nvidia-just-invested-in-a-battery-recycling-company/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/why-nvidia-just-invested-in-a-battery-recycling-company/</link>
+          <pubDate>Fri, 24 Oct 2025 16:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/why-nvidia-just-invested-in-a-battery-recycling-company.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/why-nvidia-just-invested-in-a-battery-recycling-company.webp"/>
+          <dc:creator>Adele Peters, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Apple may turn off key privacy tool in Europe</title>
+          <description><![CDATA[In a victory for surveillance capitalism, Apple may be forced to leave its users in Europe vulnerable to rapacious ad data collection in response to “intense lobbying” by politicians in the region.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/apple-may-turn-off-key-privacy-tool-in-europe/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/apple-may-turn-off-key-privacy-tool-in-europe/</link>
+          <pubDate>Fri, 24 Oct 2025 15:56:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/apple-may-turn-off-key-privacy-tool-in-europe.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/apple-may-turn-off-key-privacy-tool-in-europe.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>Trump 'terribly advised' on crypto billionaire pardon: Key supporter</title>
+          <description><![CDATA[Venture capitalist Joe Lonsdale, a key supporter of President Trump, suggested Thursday that the president was “terribly advised” on his decision to pardon Binance founder Changpeng Zhao.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/donald-trump-binance-crypto-pardon-criticism/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/donald-trump-binance-crypto-pardon-criticism/</link>
+          <pubDate>Fri, 24 Oct 2025 15:09:10 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/donald-trump-binance-crypto-pardon-criticism.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/donald-trump-binance-crypto-pardon-criticism.webp"/>
+          <dc:creator>Julia Shapero, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>Anthropic signs billion-dollar deal with Google Cloud</title>
+          <description><![CDATA[US-based AI company Anthropic has signed a major deal with Google Cloud that is said to be worth tens of billions of dollars. As part of the deal, Anthropic will have access to up to one million of Google’s purpose-built Tensor Processing Unit (TPU) AI accelerators.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/anthropic-signs-billion-dollar-deal-with-google-cloud/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/anthropic-signs-billion-dollar-deal-with-google-cloud/</link>
+          <pubDate>Fri, 24 Oct 2025 15:06:38 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/anthropic-signs-billion-dollar-deal-with-google-cloud.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/anthropic-signs-billion-dollar-deal-with-google-cloud.webp"/>
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>New military age demands new C2 comms</title>
-          <description><![CDATA[As purposely scattered forces replace massing, all units need access to rich and latency-free crucial situational data regardless of from where they operate.
-The post New military age demands new C2 comms first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/21/new-military-age-demands-new-c2-comms/</guid>
-          <link>https://majordigest.com/tech/2025/10/21/new-military-age-demands-new-c2-comms/</link>
-          <pubDate>Tue, 21 Oct 2025 09:01:06 GMT</pubDate>
+          <title>Spotify gives parents new power to control what their kids hear on streaming platform</title>
+          <description><![CDATA[Spotify&apos;s managed accounts for kids under 13 now available in at least seven countries, allowing parents to filter and block explicit content and songs.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/spotify-gives-parents-new-power-control-what-kids-hear-streaming-platform/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/spotify-gives-parents-new-power-control-what-kids-hear-streaming-platform/</link>
+          <pubDate>Fri, 24 Oct 2025 14:09:12 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/new-military-age-demands-new-c2-comms.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/new-military-age-demands-new-c2-comms.webp"/>
-          <dc:creator>Tom Temin, Federal News Network</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/spotify-gives-parents-new-power-control-what-kids-hear-streaming-platform.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/spotify-gives-parents-new-power-control-what-kids-hear-streaming-platform.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>Anthropic extends Claude Code to browsers</title>
-          <description><![CDATA[Anthropic has launched Claude Code on the web, enabling developers to use the company’s AI coding assistant directly from their browser or smartphone, with no terminal required.
-Developers can connect a first GitHub repository to Claude Code on the web at claude.com/code.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/21/anthropic-extends-claude-code-to-browsers/</guid>
-          <link>https://majordigest.com/tech/2025/10/21/anthropic-extends-claude-code-to-browsers/</link>
-          <pubDate>Tue, 21 Oct 2025 01:34:49 GMT</pubDate>
+          <title>Microsoft adds Copilot Mode to Edge as AI browser race heats up</title>
+          <description><![CDATA[Microsoft is enhancing its Edge browser with Copilot Mode to strengthen its AI capabilities, as it struggles to compete with Chrome’s dominance and a wave of emerging AI-native browsers.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/microsoft-adds-copilot-mode-to-edge-as-ai-browser-race-heats-up/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/microsoft-adds-copilot-mode-to-edge-as-ai-browser-race-heats-up/</link>
+          <pubDate>Fri, 24 Oct 2025 13:06:43 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/anthropic-extends-claude-code-to-browsers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/anthropic-extends-claude-code-to-browsers.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/microsoft-adds-copilot-mode-to-edge-as-ai-browser-race-heats-up.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/microsoft-adds-copilot-mode-to-edge-as-ai-browser-race-heats-up.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>What CIOs can learn at TechCrunch Disrupt 2025</title>
+          <description><![CDATA[AI is arguably one of the most disruptive forces for enterprises since the advent of cloud computing, making it a natural focus for many of the presentations at TechCrunch Disrupt 2025. The event, in San Francisco from Oct.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/what-cios-can-learn-at-techcrunch-disrupt-2025/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/what-cios-can-learn-at-techcrunch-disrupt-2025/</link>
+          <pubDate>Fri, 24 Oct 2025 12:33:10 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/what-cios-can-learn-at-techcrunch-disrupt-2025.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/what-cios-can-learn-at-techcrunch-disrupt-2025.webp"/>
+          <dc:creator>CIO</dc:creator>
+        </item>
+        <item>
+          <title>Can&#8217;t wait for the touchscreen MacBook Pro M6? This wild, affordable accessory brings touch to your current Mac</title>
+          <description><![CDATA[The LapTouch can add touchscreen functionality to any MacBook for a fraction of the cost of a new Mac.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/cant-wait-for-the-touchscreen-macbook-pro-m6-this-wild-affordable-accessory-brings-touch-to-your-current-mac/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/cant-wait-for-the-touchscreen-macbook-pro-m6-this-wild-affordable-accessory-brings-touch-to-your-current-mac/</link>
+          <pubDate>Fri, 24 Oct 2025 12:18:58 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/cant-wait-for-the-touchscreen-macbook-pro-m6-this-wild-affordable-accessory-brings-touch-to-your-current-mac.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/cant-wait-for-the-touchscreen-macbook-pro-m6-this-wild-affordable-accessory-brings-touch-to-your-current-mac.webp"/>
+          <dc:creator>Alex Blake, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>In a California farming region, researchers are mapping rural heat to protect farmworkers</title>
+          <description><![CDATA[In the summers, the sky is jet black when Raul Cruz arrives at this Imperial Valley sugarcane field to start his day. He chops, cleans and bundles the crop, taking heed as the sun rises. It's hard work, but so is starting at 4 a.m.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/in-a-california-farming-region-researchers-are-mapping-rural-heat-to-protect-farmworkers/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/in-a-california-farming-region-researchers-are-mapping-rural-heat-to-protect-farmworkers/</link>
+          <pubDate>Fri, 24 Oct 2025 12:03:15 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/in-a-california-farming-region-researchers-are-mapping-rural-heat-to-protect-farmworkers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/in-a-california-farming-region-researchers-are-mapping-rural-heat-to-protect-farmworkers.webp"/>
+          <dc:creator>DORANY PINEDA and JAE C. HONG, Associated Press, KREX 5</dc:creator>
+        </item>
+        <item>
+          <title>OpenAI seeks to automate &#8216;computer use&#8217; for Macs in the enterprise</title>
+          <description><![CDATA[While AI bots have begun mastering tasks in browsers and on Windows, Mac-using enterprises have largely been overlooked, until now. OpenAI aims to change that with its acquisition of generative AI interface maker Software Applications Incorporated.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/openai-seeks-to-automate-computer-use-for-macs-in-the-enterprise/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/openai-seeks-to-automate-computer-use-for-macs-in-the-enterprise/</link>
+          <pubDate>Fri, 24 Oct 2025 11:41:02 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/openai-seeks-to-automate-computer-use-for-macs-in-the-enterprise.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/openai-seeks-to-automate-computer-use-for-macs-in-the-enterprise.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Visual Studio Code taps AI for merge conflict resolution</title>
-          <description><![CDATA[Visual Studio Code 1.105, the latest release of Microsoft’s popular Visual Studio Code editor, introduces several new AI coding features, including the ability to resolve merge conflicts with AI assistance, the ability to resume recent chat sessions, and the ability to install Model Context Protocol]]></description>
-          <guid>https://majordigest.com/tech/2025/10/21/visual-studio-code-taps-ai-for-merge-conflict-resolution/</guid>
-          <link>https://majordigest.com/tech/2025/10/21/visual-studio-code-taps-ai-for-merge-conflict-resolution/</link>
-          <pubDate>Tue, 21 Oct 2025 00:27:03 GMT</pubDate>
+          <title>Eyeing up an NBN 750 plan? I&#8217;d save your money and make this financially savvy decision instead</title>
+          <description><![CDATA[The September NBN speed upgrades introduced a slew of new plan options, including NBN 750. I've not been convinced by its value, and would make this smarter financial move instead.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/eyeing-up-an-nbn-750-plan-id-save-your-money-and-make-this-financially-savvy-decision-instead/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/eyeing-up-an-nbn-750-plan-id-save-your-money-and-make-this-financially-savvy-decision-instead/</link>
+          <pubDate>Fri, 24 Oct 2025 05:13:31 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/visual-studio-code-taps-ai-for-merge-conflict-resolution.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/visual-studio-code-taps-ai-for-merge-conflict-resolution.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/eyeing-up-an-nbn-750-plan-id-save-your-money-and-make-this-financially-savvy-decision-instead.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/eyeing-up-an-nbn-750-plan-id-save-your-money-and-make-this-financially-savvy-decision-instead.webp"/>
+          <dc:creator>Max Langridge, TechRadar</dc:creator>
         </item>
         <item>
-          <title>Big Tech is paying millions to train teachers on AI, in a push to bring chatbots into classrooms</title>
-          <description><![CDATA[SAN ANTONIO (AP) — On a scorching hot Saturday in San Antonio, dozens of teachers traded a day off for a glimpse of the future. The topic of the day’s workshop: enhancing instruction with artificial intelligence.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/20/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms/</guid>
-          <link>https://majordigest.com/tech/2025/10/20/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms/</link>
-          <pubDate>Mon, 20 Oct 2025 21:02:28 GMT</pubDate>
+          <title>Scammers are targeting cloud systems to make off with hauls of gift cards</title>
+          <description><![CDATA[Gift cards are ideal for hackers since they can easily be redeemed or sold without sharing personally identifiable data.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/scammers-are-targeting-cloud-systems-to-make-off-with-hauls-of-gift-cards/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/scammers-are-targeting-cloud-systems-to-make-off-with-hauls-of-gift-cards/</link>
+          <pubDate>Thu, 23 Oct 2025 20:19:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/20/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/20/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms.webp"/>
-          <dc:creator>JOCELYN GECKER, Associated Press, NewsNation</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/scammers-are-targeting-cloud-systems-to-make-off-with-hauls-of-gift-cards.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/scammers-are-targeting-cloud-systems-to-make-off-with-hauls-of-gift-cards.webp"/>
+          <dc:creator>Sead Fadilpašić, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Florida test scores rise, attendance improves after cellphone ban</title>
+          <description><![CDATA[A new study finds that Florida test scores rose and attendance improved after a school cellphone ban, although short-term disciplinary problems also arose in the state.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/22/florida-school-cell-phone-ban-test-scores/</guid>
+          <link>https://majordigest.com/tech/2025/10/22/florida-school-cell-phone-ban-test-scores/</link>
+          <pubDate>Wed, 22 Oct 2025 14:42:58 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/florida-school-cell-phone-ban-test-scores.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/florida-school-cell-phone-ban-test-scores.webp"/>
+          <dc:creator>Lexi Lonas Cochran, The Hill</dc:creator>
+        </item>
+        <item>
+          <title>With federal HR in flux, smaller teams are finding smarter ways to do more with less</title>
+          <description><![CDATA["When you do any type of workforce reductions, you have to realize that you're also going to have attrition. Employees are going to leave," Rick Hammell said.
+The post With federal HR in flux, smaller teams are finding smarter ways to do more with less first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/20/with-federal-hr-in-flux-smaller-teams-are-finding-smarter-ways-to-do-more-with-less/</guid>
+          <link>https://majordigest.com/tech/2025/10/20/with-federal-hr-in-flux-smaller-teams-are-finding-smarter-ways-to-do-more-with-less/</link>
+          <pubDate>Mon, 20 Oct 2025 19:43:13 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/20/with-federal-hr-in-flux-smaller-teams-are-finding-smarter-ways-to-do-more-with-less.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/20/with-federal-hr-in-flux-smaller-teams-are-finding-smarter-ways-to-do-more-with-less.webp"/>
+          <dc:creator>Terry Gerton, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Teens face new PG-13 limits on Instagram</title>
+          <description><![CDATA[New Instagram parental controls allow families to manage teen screen time and content limits through the Family Center with stricter safety settings.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/20/teens-face-new-pg-13-limits-instagram/</guid>
+          <link>https://majordigest.com/tech/2025/10/20/teens-face-new-pg-13-limits-instagram/</link>
+          <pubDate>Mon, 20 Oct 2025 15:40:06 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/20/teens-face-new-pg-13-limits-instagram.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/20/teens-face-new-pg-13-limits-instagram.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>China accuses US of cyberattack on national time center</title>
+          <description><![CDATA[BEIJING (AP) — China on Sunday accused the U.S. National Security Agency of carrying out cyberattacks on its national time center, saying any damage to related facilities could have disrupted network communications, financial systems and power supply.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/20/china-accuses-us-of-cyberattack-on-national-time-center/</guid>
+          <link>https://majordigest.com/tech/2025/10/20/china-accuses-us-of-cyberattack-on-national-time-center/</link>
+          <pubDate>Mon, 20 Oct 2025 03:26:18 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/20/china-accuses-us-of-cyberattack-on-national-time-center.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/20/china-accuses-us-of-cyberattack-on-national-time-center.webp"/>
+          <dc:creator>Associated Press, ABC 4</dc:creator>
+        </item>
+        <item>
+          <title>Teens turning to AI for love and comfort</title>
+          <description><![CDATA[Survey of 1,000 students shows teens using AI for personal relationships while two-thirds of parents remain unaware of their children&apos;s AI usage.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/19/teens-turning-ai-love-comfort/</guid>
+          <link>https://majordigest.com/tech/2025/10/19/teens-turning-ai-love-comfort/</link>
+          <pubDate>Sun, 19 Oct 2025 13:55:42 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/19/teens-turning-ai-love-comfort.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/19/teens-turning-ai-love-comfort.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item></channel></rss>
