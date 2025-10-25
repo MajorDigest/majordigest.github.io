@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 25 Oct 2025 07:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 07:07:52 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,48 +19,59 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>About 4 in 10 worried about environmental impacts of AI: Survey</title>
-          <description><![CDATA[A new poll shows growing concerns among citizens over the potential environmental effects caused by artificial intelligence.  The Associated Press-NORC Center poll, released Thursday, found about 4 in 10 U.S.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/ai-environmental-concerns-poll/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/ai-environmental-concerns-poll/</link>
-          <pubDate>Fri, 24 Oct 2025 21:26:03 GMT</pubDate>
+          <title>Anthropic signs billion-dollar deal with Google Cloud</title>
+          <description><![CDATA[US-based AI company Anthropic has signed a major deal with Google Cloud that is said to be worth tens of billions of dollars. As part of the deal, Anthropic will have access to up to one million of Google’s purpose-built Tensor Processing Unit (TPU) AI accelerators.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/anthropic-signs-billion-dollar-deal-with-google-cloud/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/anthropic-signs-billion-dollar-deal-with-google-cloud/</link>
+          <pubDate>Fri, 24 Oct 2025 15:06:38 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/ai-environmental-concerns-poll.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/ai-environmental-concerns-poll.webp"/>
-          <dc:creator>Ashleigh Fields, The Hill</dc:creator>
-        </item>
-        <item>
-          <title>Scientists spot skyscraper-sized asteroid racing through solar system</title>
-          <description><![CDATA[Astronomers have discovered asteroid 2025 SC79, a skyscraper-sized space rock orbiting the sun in just 128 days. the second-fastest known.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/scientists-spot-skyscraper-sized-asteroid-racing-solar-system/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/scientists-spot-skyscraper-sized-asteroid-racing-solar-system/</link>
-          <pubDate>Fri, 24 Oct 2025 20:30:11 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/scientists-spot-skyscraper-sized-asteroid-racing-solar-system.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/scientists-spot-skyscraper-sized-asteroid-racing-solar-system.webp"/>
-          <dc:creator>Fox News</dc:creator>
-        </item>
-        <item>
-          <title>Trump administration pushes to get AI data centers on the grid faster</title>
-          <description><![CDATA[The Trump administration issued a proposal late Thursday that aims to help AI data centers get connected to the electric grid more quickly.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/ai-data-center-energy/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/ai-data-center-energy/</link>
-          <pubDate>Fri, 24 Oct 2025 17:14:44 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/ai-data-center-energy.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/ai-data-center-energy.webp"/>
-          <dc:creator>Rachel Frazin, The Hill</dc:creator>
-        </item>
-        <item>
-          <title>Intel sees supply shortage, will prioritize data center technology</title>
-          <description><![CDATA[Intel reported better than expected Q3 figures, reflecting a turnaround in sales along with cutting operational expenses and a renewed focus on its core business. On the downside, Intel is enjoying a little too much success and is seeing a shortage of supply.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/intel-sees-supply-shortage-will-prioritize-data-center-technology/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/intel-sees-supply-shortage-will-prioritize-data-center-technology/</link>
-          <pubDate>Fri, 24 Oct 2025 16:25:56 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/intel-sees-supply-shortage-will-prioritize-data-center-technology.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/intel-sees-supply-shortage-will-prioritize-data-center-technology.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/anthropic-signs-billion-dollar-deal-with-google-cloud.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/anthropic-signs-billion-dollar-deal-with-google-cloud.webp"/>
           <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>CISA warns Motex Landscope Endpoint Manager has a worrying security flaw, so patch now</title>
+          <description><![CDATA[The critical severity bug is being actively exploited in the wild, possibly by ransomware actors, CISA says.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/cisa-warns-motex-landscope-endpoint-manager-has-a-worrying-security-flaw-so-patch-now/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/cisa-warns-motex-landscope-endpoint-manager-has-a-worrying-security-flaw-so-patch-now/</link>
+          <pubDate>Fri, 24 Oct 2025 15:03:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/cisa-warns-motex-landscope-endpoint-manager-has-a-worrying-security-flaw-so-patch-now.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/cisa-warns-motex-landscope-endpoint-manager-has-a-worrying-security-flaw-so-patch-now.webp"/>
+          <dc:creator>Sead Fadilpašić, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Microsoft adds Copilot Mode to Edge as AI browser race heats up</title>
+          <description><![CDATA[Microsoft is enhancing its Edge browser with Copilot Mode to strengthen its AI capabilities, as it struggles to compete with Chrome’s dominance and a wave of emerging AI-native browsers.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/microsoft-adds-copilot-mode-to-edge-as-ai-browser-race-heats-up/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/microsoft-adds-copilot-mode-to-edge-as-ai-browser-race-heats-up/</link>
+          <pubDate>Fri, 24 Oct 2025 13:06:43 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/microsoft-adds-copilot-mode-to-edge-as-ai-browser-race-heats-up.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/microsoft-adds-copilot-mode-to-edge-as-ai-browser-race-heats-up.webp"/>
+          <dc:creator>Computer World</dc:creator>
+        </item>
+        <item>
+          <title>What CIOs can learn at TechCrunch Disrupt 2025</title>
+          <description><![CDATA[AI is arguably one of the most disruptive forces for enterprises since the advent of cloud computing, making it a natural focus for many of the presentations at TechCrunch Disrupt 2025. The event, in San Francisco from Oct.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/what-cios-can-learn-at-techcrunch-disrupt-2025/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/what-cios-can-learn-at-techcrunch-disrupt-2025/</link>
+          <pubDate>Fri, 24 Oct 2025 12:33:10 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/what-cios-can-learn-at-techcrunch-disrupt-2025.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/what-cios-can-learn-at-techcrunch-disrupt-2025.webp"/>
+          <dc:creator>CIO</dc:creator>
+        </item>
+        <item>
+          <title>Lego just announced its official Black Friday sale - here are 11 early deals I'd buy right now</title>
+          <description><![CDATA[Lego’s own Black Friday deals event is officially returning for 2025, and with it, you can expect major discounts on sets that only Lego sells – but in the lead-up, you can save on these 12 deals from Lego and other retailers.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/lego-just-announced-its-official-black-friday-sale-here-are-11-early-deals-id-buy-right-now/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/lego-just-announced-its-official-black-friday-sale-here-are-11-early-deals-id-buy-right-now/</link>
+          <pubDate>Fri, 24 Oct 2025 12:15:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/lego-just-announced-its-official-black-friday-sale-here-are-11-early-deals-id-buy-right-now.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/lego-just-announced-its-official-black-friday-sale-here-are-11-early-deals-id-buy-right-now.webp"/>
+          <dc:creator>Jacob Krol, TechRadar</dc:creator>
         </item>
         <item>
           <title>In a California farming region, researchers are mapping rural heat to protect farmworkers</title>
@@ -71,7 +82,7 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/in-a-california-farming-region-researchers-are-mapping-rural-heat-to-protect-farmworkers.webp"/>
           <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/in-a-california-farming-region-researchers-are-mapping-rural-heat-to-protect-farmworkers.webp"/>
-          <dc:creator>DORANY PINEDA and JAE C. HONG, Associated Press, KLAS, CBS News</dc:creator>
+          <dc:creator>DORANY PINEDA and JAE C. HONG, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
           <title>OpenAI seeks to automate &#8216;computer use&#8217; for Macs in the enterprise</title>
@@ -85,215 +96,181 @@
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>OpenAI is connecting all company secrets to ChatGPT - all your work data and apps are now open</title>
-          <description><![CDATA[Company knowledge, a self-explanatory ChatGPT tool, will cite internal documents for accurate reporting.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/openai-is-connecting-all-your-work-data-and-apps-to-chatgpt-so-what-next/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/openai-is-connecting-all-your-work-data-and-apps-to-chatgpt-so-what-next/</link>
-          <pubDate>Fri, 24 Oct 2025 10:45:15 GMT</pubDate>
+          <title>OpenAI seeks to automate &#8216;computer use&#8217; for Macs in the enterprise</title>
+          <description><![CDATA[While AI bots have begun mastering tasks in browsers and on Windows, Mac-using enterprises have largely been overlooked, until now. OpenAI aims to change that with its acquisition of generative AI interface maker Software Applications Incorporated.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/openai-seeks-to-automate-computer-use-for-macs-in-the-enterprise/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/openai-seeks-to-automate-computer-use-for-macs-in-the-enterprise/</link>
+          <pubDate>Fri, 24 Oct 2025 11:41:02 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/openai-is-connecting-all-your-work-data-and-apps-to-chatgpt-so-what-next.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/openai-is-connecting-all-your-work-data-and-apps-to-chatgpt-so-what-next.webp"/>
-          <dc:creator>Craig Hale, TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>Some of the top Sims 4 creators have just quit the game&#8217;s EA Creator Network, citing the ongoing EA sale to Saudi-backed investors &#8211; here&#8217;s what lilsimsie, James Turner and more have said in their statements</title>
-          <description><![CDATA[Here's what some of the top Sims 4 creators have to say on the proposed EA sale deal, including info on who's leaving the EA Creator Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/top-sims-4-creators-quit-ea-creator-network-in-reaction-to-proposed-55-billion-saudi-backed-deal/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/top-sims-4-creators-quit-ea-creator-network-in-reaction-to-proposed-55-billion-saudi-backed-deal/</link>
-          <pubDate>Fri, 24 Oct 2025 10:28:54 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/top-sims-4-creators-quit-ea-creator-network-in-reaction-to-proposed-55-billion-saudi-backed-deal.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/top-sims-4-creators-quit-ea-creator-network-in-reaction-to-proposed-55-billion-saudi-backed-deal.webp"/>
-          <dc:creator>Jake Green, TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>AI &#8216;workslop&#8217;: The new productivity killer only training can stop</title>
-          <description><![CDATA[AI offers workers the promise of increased efficiency and productivity, freeing them up from repetitive work to tackle more complex tasks. But as companies have rolled out AI tools to employees, many are facing a different challenge: AI-generated work that does the opposite.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/ai-workslop-the-new-productivity-killer-only-training-can-stop/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/ai-workslop-the-new-productivity-killer-only-training-can-stop/</link>
-          <pubDate>Fri, 24 Oct 2025 10:01:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/ai-workslop-the-new-productivity-killer-only-training-can-stop.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/ai-workslop-the-new-productivity-killer-only-training-can-stop.webp"/>
-          <dc:creator>CIO</dc:creator>
-        </item>
-        <item>
-          <title>Windows 95 icons still exist in Windows 11 today as dusty old relics from another time &#8211; here's where to find them</title>
-          <description><![CDATA[Nostalgic for Windows 95? Believe it or not, you can still find icons from the dusty old OS kicking about in Windows 11.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/windows-95-icons-still-exist-in-windows-11-today-as-dusty-old-relics-from-another-time-heres-where-to-find-them/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/windows-95-icons-still-exist-in-windows-11-today-as-dusty-old-relics-from-another-time-heres-where-to-find-them/</link>
-          <pubDate>Fri, 24 Oct 2025 09:40:43 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/windows-95-icons-still-exist-in-windows-11-today-as-dusty-old-relics-from-another-time-heres-where-to-find-them.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/windows-95-icons-still-exist-in-windows-11-today-as-dusty-old-relics-from-another-time-heres-where-to-find-them.webp"/>
-          <dc:creator>Darren Allan, TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>Turning vision into value: The strategic role of intelligent IP cameras</title>
-          <description><![CDATA[The cameras and sensors that are installed across your business are doing more than watching. These IP cameras serve as a network of intelligent eyes across your operations, providing a potentially untapped resource that could improve business intelligence and operational efficiencies.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/turning-vision-into-value-the-strategic-role-of-intelligent-ip-cameras/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/turning-vision-into-value-the-strategic-role-of-intelligent-ip-cameras/</link>
-          <pubDate>Fri, 24 Oct 2025 09:24:19 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/turning-vision-into-value-the-strategic-role-of-intelligent-ip-cameras.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/turning-vision-into-value-the-strategic-role-of-intelligent-ip-cameras.webp"/>
-          <dc:creator>CIO</dc:creator>
-        </item>
-        <item>
-          <title>Next.js 16 features explicit caching, AI-powered debugging</title>
-          <description><![CDATA[Vercel’s React framework for building full-stack web applications gets an upgrade in Next.js 16, with more explicit caching and AI-based debugging, among other features.
-Announced October 21, Next.js 16 now is generally available, with installation instructions available at nextjs.org.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/next-js-16-features-explicit-caching-ai-powered-debugging/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/next-js-16-features-explicit-caching-ai-powered-debugging/</link>
-          <pubDate>Fri, 24 Oct 2025 09:00:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/next-js-16-features-explicit-caching-ai-powered-debugging.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/next-js-16-features-explicit-caching-ai-powered-debugging.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/openai-seeks-to-automate-computer-use-for-macs-in-the-enterprise.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/openai-seeks-to-automate-computer-use-for-macs-in-the-enterprise.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>5 big updates coming to the ChatGPT Atlas browser</title>
-          <description><![CDATA[OpenAI is rushing out quality-of-life upgrades for ChatGPT Atlas that promise to make the AI-powered browser better.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/5-big-updates-coming-to-the-chatgpt-atlas-browser/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/5-big-updates-coming-to-the-chatgpt-atlas-browser/</link>
-          <pubDate>Fri, 24 Oct 2025 08:18:33 GMT</pubDate>
+          <title>The iPhone 18 Pro could come with a big Starlink upgrade &#8211; and it sounds perfect for off-grid adventures</title>
+          <description><![CDATA[We're starting to hear a few rumors around what Apple may have planned for the next set of flagship iPhones.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/24/the-iphone-18-pro-could-come-with-a-big-starlink-upgrade-and-it-sounds-perfect-for-off-grid-adventures/</guid>
+          <link>https://majordigest.com/tech/2025/10/24/the-iphone-18-pro-could-come-with-a-big-starlink-upgrade-and-it-sounds-perfect-for-off-grid-adventures/</link>
+          <pubDate>Fri, 24 Oct 2025 11:36:02 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/5-big-updates-coming-to-the-chatgpt-atlas-browser.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/5-big-updates-coming-to-the-chatgpt-atlas-browser.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/the-iphone-18-pro-could-come-with-a-big-starlink-upgrade-and-it-sounds-perfect-for-off-grid-adventures.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/the-iphone-18-pro-could-come-with-a-big-starlink-upgrade-and-it-sounds-perfect-for-off-grid-adventures.webp"/>
+          <dc:creator>David Nield, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Musk's rollercoaster year: From boycotts and plunging earnings to a potential trillion-dollar payday</title>
+          <description><![CDATA[NEW YORK (AP) — If someone left a government job with a black eye, literally, ran a company with shrinking profits, and suddenly had federal investigators crawling over their business, you might say they’re having a bad year. But most people are not Elon Musk.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/musks-rollercoaster-year-from-boycotts-and-plunging-earnings-to-a-potential-trillion-dollar-payday/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/musks-rollercoaster-year-from-boycotts-and-plunging-earnings-to-a-potential-trillion-dollar-payday/</link>
+          <pubDate>Thu, 23 Oct 2025 18:51:32 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/musks-rollercoaster-year-from-boycotts-and-plunging-earnings-to-a-potential-trillion-dollar-payday.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/musks-rollercoaster-year-from-boycotts-and-plunging-earnings-to-a-potential-trillion-dollar-payday.webp"/>
+          <dc:creator>BERNARD CONDON, Associated Press, NewsNation</dc:creator>
+        </item>
+        <item>
+          <title>Dinosaurs were thriving in North America before the mass-extinction asteroid strike, study suggests</title>
+          <description><![CDATA[New research suggests that dinosaur populations were thriving in North America before the asteroid impact 66 million years ago that caused mass extinction.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/dinosaurs-were-thriving-in-north-america-before-the-mass-extinction-asteroid-strike-study-suggests/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/dinosaurs-were-thriving-in-north-america-before-the-mass-extinction-asteroid-strike-study-suggests/</link>
+          <pubDate>Thu, 23 Oct 2025 18:00:57 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/dinosaurs-were-thriving-in-north-america-before-the-mass-extinction-asteroid-strike-study-suggests.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/dinosaurs-were-thriving-in-north-america-before-the-mass-extinction-asteroid-strike-study-suggests.webp"/>
+          <dc:creator>Christina Larson, Associated Press, Local 4</dc:creator>
+        </item>
+        <item>
+          <title>Bethesda celebrates Fallout Day with a host of announcements, including a Fallout 4 Anniversary Edition and Nintendo Switch 2 Edition, a native Fallout 76 release for PS5 and Xbox Series X, and more</title>
+          <description><![CDATA[Bethesda celebrates Fallout Day with a slew of announcements that include a Fallout 4 Anniversary Edition, Fallout 76 for current-gen consoles, and more.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/bethesda-celebrates-fallout-day-with-a-host-of-announcements-including-a-fallout-4-anniversary-edition-and-nintendo-switch-2-edition-a-native-fallout-76-release-for-ps5-and-xbox-series-x-and-more/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/bethesda-celebrates-fallout-day-with-a-host-of-announcements-including-a-fallout-4-anniversary-edition-and-nintendo-switch-2-edition-a-native-fallout-76-release-for-ps5-and-xbox-series-x-and-more/</link>
+          <pubDate>Thu, 23 Oct 2025 18:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/bethesda-celebrates-fallout-day-with-a-host-of-announcements-including-a-fallout-4-anniversary-edition-and-nintendo-switch-2-edition-a-native-fallout-76-release-for-ps5-and-xbox-series-x-and-more.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/bethesda-celebrates-fallout-day-with-a-host-of-announcements-including-a-fallout-4-anniversary-edition-and-nintendo-switch-2-edition-a-native-fallout-76-release-for-ps5-and-xbox-series-x-and-more.webp"/>
+          <dc:creator>Demi Williams, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Celtic vs Sturm Graz live stream &#8211; How to watch Europa League online, FREE trial, kick-off time</title>
+          <description><![CDATA[Celtic take on Sturm Graz: European night sparks, Austrian counter-press chaos, and Kyogo Furuhashi magic — who will roar the loudest in the Europa League 2025?]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/watch-celtic-vs-sturm-graz-live-stream/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/watch-celtic-vs-sturm-graz-live-stream/</link>
+          <pubDate>Thu, 23 Oct 2025 17:35:48 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/watch-celtic-vs-sturm-graz-live-stream.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/watch-celtic-vs-sturm-graz-live-stream.webp"/>
+          <dc:creator>Tom Bailey, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>How to watch Nottingham Forest vs FC Porto: Europa League 2025/26 free stream, TV channels, kick-off time</title>
+          <description><![CDATA[We'll show you all the ways you can watch Nottingham Forest vs FC Porto as Sean Dyche looks to secure the East Midlands side the first win in the competition.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/nottingham-forest-vs-fc-porto-europa-league-2025-26/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/nottingham-forest-vs-fc-porto-europa-league-2025-26/</link>
+          <pubDate>Thu, 23 Oct 2025 16:45:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/nottingham-forest-vs-fc-porto-europa-league-2025-26.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/nottingham-forest-vs-fc-porto-europa-league-2025-26.webp"/>
+          <dc:creator>Jacob Jones, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Think you can trust ChatGPT and Gemini to give you the news? Here's why you might want to think again</title>
+          <description><![CDATA[AI assistants routinely misrepresent news, raising concerns about misinformation and public trust in the digital age.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/think-you-can-trust-chatgpt-and-gemini-to-give-you-the-news-heres-why-you-might-want-to-think-again/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/think-you-can-trust-chatgpt-and-gemini-to-give-you-the-news-heres-why-you-might-want-to-think-again/</link>
+          <pubDate>Thu, 23 Oct 2025 16:39:57 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/think-you-can-trust-chatgpt-and-gemini-to-give-you-the-news-heres-why-you-might-want-to-think-again.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/think-you-can-trust-chatgpt-and-gemini-to-give-you-the-news-heres-why-you-might-want-to-think-again.webp"/>
           <dc:creator>Eric Hal Schwartz, TechRadar</dc:creator>
         </item>
         <item>
-          <title>Krafton shifting to 'AI-first' game development</title>
-          <description><![CDATA[The makers of popular video game "PUBG: Battlegrounds" are switching gears and becoming an "AI-first" developer.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/24/krafton-ai-first-game-developers/</guid>
-          <link>https://majordigest.com/tech/2025/10/24/krafton-ai-first-game-developers/</link>
-          <pubDate>Fri, 24 Oct 2025 04:26:14 GMT</pubDate>
+          <title>Who sets the rules for AI? It matters more than most people realize</title>
+          <description><![CDATA[Governing AI is "a matter of incredible economic importance of national security significance," said Kevin Frazier.
+The post Who sets the rules for AI? It matters more than most people realize first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/who-sets-the-rules-for-ai-it-matters-more-than-most-people-realize/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/who-sets-the-rules-for-ai-it-matters-more-than-most-people-realize/</link>
+          <pubDate>Thu, 23 Oct 2025 16:37:54 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/24/krafton-ai-first-game-developers.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/24/krafton-ai-first-game-developers.webp"/>
-          <dc:creator>Patrick Djordjevic, NewsNation</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/who-sets-the-rules-for-ai-it-matters-more-than-most-people-realize.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/who-sets-the-rules-for-ai-it-matters-more-than-most-people-realize.webp"/>
+          <dc:creator>Terry Gerton, Federal News Network</dc:creator>
         </item>
         <item>
-          <title>From friendly text to financial trap: the new scam trend</title>
-          <description><![CDATA[Friendly text conversations about BBQs and social events can lead to WEEX gold trading scams that target older adults with fake investment opportunities.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/23/from-friendly-text-financial-trap-new-scam-trend/</guid>
-          <link>https://majordigest.com/tech/2025/10/23/from-friendly-text-financial-trap-new-scam-trend/</link>
-          <pubDate>Thu, 23 Oct 2025 20:00:54 GMT</pubDate>
+          <title>Elden Ring Tarnished Edition, FromSoftware's Nintendo Switch 2 exclusive version, has been delayed</title>
+          <description><![CDATA[FromSoftware has announced that it has delayed the Nintendo Switch 2 exclusive Elden Ring Tarnished Edition to 2026.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/elden-ring-tarnished-edition-fromsoftwares-nintendo-switch-2-exclusive-version-has-been-delayed/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/elden-ring-tarnished-edition-fromsoftwares-nintendo-switch-2-exclusive-version-has-been-delayed/</link>
+          <pubDate>Thu, 23 Oct 2025 16:19:01 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/from-friendly-text-financial-trap-new-scam-trend.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/from-friendly-text-financial-trap-new-scam-trend.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/elden-ring-tarnished-edition-fromsoftwares-nintendo-switch-2-exclusive-version-has-been-delayed.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/elden-ring-tarnished-edition-fromsoftwares-nintendo-switch-2-exclusive-version-has-been-delayed.webp"/>
+          <dc:creator>Demi Williams, TechRadar</dc:creator>
         </item>
         <item>
-          <title>Inside Google&#8217;s multi-architecture revolution: Axion Arm joins x86 in production clusters</title>
-          <description><![CDATA[While x86 has been dominant for decades, a new migration project at Google represents a significant shift to more mixed architectures.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/23/inside-googles-multi-architecture-revolution-axion-arm-joins-x86-in-production-clusters/</guid>
-          <link>https://majordigest.com/tech/2025/10/23/inside-googles-multi-architecture-revolution-axion-arm-joins-x86-in-production-clusters/</link>
-          <pubDate>Thu, 23 Oct 2025 03:36:56 GMT</pubDate>
+          <title>Netflix shakes up Stranger Things season 5 finale release with simultaneous theater and streaming debut in world first</title>
+          <description><![CDATA[Netflix isn’t letting the Stranger Things season 5 finale just shout into the streaming void as it confirms the episode will also come to movie theaters.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/netflix-shakes-up-stranger-things-season-5-finale-release-with-simultaneous-theater-and-streaming-debut-in-world-first/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/netflix-shakes-up-stranger-things-season-5-finale-release-with-simultaneous-theater-and-streaming-debut-in-world-first/</link>
+          <pubDate>Thu, 23 Oct 2025 16:14:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/inside-googles-multi-architecture-revolution-axion-arm-joins-x86-in-production-clusters.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/inside-googles-multi-architecture-revolution-axion-arm-joins-x86-in-production-clusters.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/netflix-shakes-up-stranger-things-season-5-finale-release-with-simultaneous-theater-and-streaming-debut-in-world-first.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/netflix-shakes-up-stranger-things-season-5-finale-release-with-simultaneous-theater-and-streaming-debut-in-world-first.webp"/>
+          <dc:creator>Amelia Schwanke, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>How to watch Maccabi Tel Aviv vs Midtjylland: Europa League 2025/26 live stream, TV channels, kick-off time</title>
+          <description><![CDATA[We'll show you all the ways to watch Maccabi Tel Aviv vs Midtjylland with the Israeli side looking to focus on what they can do on the pitch.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/maccabi-tel-aviv-vs-midtjylland-europa-league-2025-26/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/maccabi-tel-aviv-vs-midtjylland-europa-league-2025-26/</link>
+          <pubDate>Thu, 23 Oct 2025 16:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/maccabi-tel-aviv-vs-midtjylland-europa-league-2025-26.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/maccabi-tel-aviv-vs-midtjylland-europa-league-2025-26.webp"/>
+          <dc:creator>Jacob Jones, TechRadar</dc:creator>
+        </item>
+        <item>
+          <title>Extreme brings AI agent to Platform ONE for swift network diagnostics, troubleshooting</title>
+          <description><![CDATA[Extreme Networks has officially worked its Service AI Agent into its flagship network management package, Platform ONE, to give customers rapid access to diagnostics, autonomous troubleshooting, root-cause analysis, dashboards, and automation.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/23/extreme-brings-ai-agent-to-platform-one-for-swift-network-diagnostics-troubleshooting/</guid>
+          <link>https://majordigest.com/tech/2025/10/23/extreme-brings-ai-agent-to-platform-one-for-swift-network-diagnostics-troubleshooting/</link>
+          <pubDate>Thu, 23 Oct 2025 13:39:21 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/extreme-brings-ai-agent-to-platform-one-for-swift-network-diagnostics-troubleshooting.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/extreme-brings-ai-agent-to-platform-one-for-swift-network-diagnostics-troubleshooting.webp"/>
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Reddit sues Perplexity and others for allegedly scraping millions of user comments</title>
-          <description><![CDATA[Social media platform Reddit sued the artificial intelligence company Perplexity AI and three other entities on Wednesday, alleging their involvement in an “industrial-scale, unlawful” economy to “scrape” the comments of millions of Reddit users for commercial gain.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/23/reddit-perplexity-lawsuit-scraping-user-comments/</guid>
-          <link>https://majordigest.com/tech/2025/10/23/reddit-perplexity-lawsuit-scraping-user-comments/</link>
-          <pubDate>Thu, 23 Oct 2025 03:20:00 GMT</pubDate>
+          <title>85% of developers use AI regularly &#8211; JetBrains survey</title>
+          <description><![CDATA[AI usage has become standard practice in software development, with 85% of developers in a recent JetBrains survey citing regular use of AI tools for coding and development. Additionally, 62% were relying on at least one AI-powered coding assistant, agent, or code editor.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/22/85-of-developers-use-ai-regularly-jetbrains-survey/</guid>
+          <link>https://majordigest.com/tech/2025/10/22/85-of-developers-use-ai-regularly-jetbrains-survey/</link>
+          <pubDate>Wed, 22 Oct 2025 21:18:24 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/reddit-perplexity-lawsuit-scraping-user-comments.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/reddit-perplexity-lawsuit-scraping-user-comments.webp"/>
-          <dc:creator>Associated Press, Fast Company</dc:creator>
-        </item>
-        <item>
-          <title>PyTorch team unveils framework for programming clusters</title>
-          <description><![CDATA[The PyTorch team at Meta, stewards of the PyTorch open source machine learning framework, has unveiled Monarch, a distributed programming framework intended to bring the simplicity of PyTorch to entire clusters.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/23/pytorch-team-unveils-framework-for-programming-clusters/</guid>
-          <link>https://majordigest.com/tech/2025/10/23/pytorch-team-unveils-framework-for-programming-clusters/</link>
-          <pubDate>Thu, 23 Oct 2025 02:19:04 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/23/pytorch-team-unveils-framework-for-programming-clusters.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/23/pytorch-team-unveils-framework-for-programming-clusters.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/85-of-developers-use-ai-regularly-jetbrains-survey.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/85-of-developers-use-ai-regularly-jetbrains-survey.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Solarium commission urges reversal on Trump&#8217;s cyber cuts</title>
-          <description><![CDATA[Cuts at CISA, the State Department and elsewhere have stalled, and in some cases reversed, progress on the Cyberspace Solarium Commission's recommendations.
-The post Solarium commission urges reversal on Trump’s cyber cuts first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/solarium-commission-urges-reversal-on-trumps-cyber-cuts/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/solarium-commission-urges-reversal-on-trumps-cyber-cuts/</link>
-          <pubDate>Wed, 22 Oct 2025 23:34:05 GMT</pubDate>
+          <title>Reddit sues AI company Perplexity and others for 'industrial-scale' scraping of user comments</title>
+          <description><![CDATA[Social media platform Reddit sued the artificial intelligence company Perplexity AI and three other entities on Wednesday, alleging their involvement in an “industrial-scale, unlawful” economy to “scrape” the comments of millions of Reddit users for commercial gain.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/22/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments/</guid>
+          <link>https://majordigest.com/tech/2025/10/22/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments/</link>
+          <pubDate>Wed, 22 Oct 2025 20:41:33 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/solarium-commission-urges-reversal-on-trumps-cyber-cuts.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/solarium-commission-urges-reversal-on-trumps-cyber-cuts.webp"/>
-          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/reddit-sues-ai-company-perplexity-and-others-for-industrial-scale-scraping-of-user-comments.webp"/>
+          <dc:creator>MATT O'BRIEN, Associated Press, KREX 5</dc:creator>
         </item>
         <item>
-          <title>Amazon hopes robots can replace 600K future hires: Report</title>
-          <description><![CDATA[Amazon hopes robots can replace hundreds of thousands of future roles, according to leaked documents seen by The New York Times.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/amazon-robots-future-hires/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/amazon-robots-future-hires/</link>
-          <pubDate>Wed, 22 Oct 2025 19:56:57 GMT</pubDate>
+          <title>OpenAI launches Atlas browser to compete with Google Chrome</title>
+          <description><![CDATA[OpenAI introduced its own web browser, Atlas, on Tuesday, putting the ChatGPT maker in direct competition with Google as more internet users rely on artificial intelligence to answer their questions.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/22/openai-launches-web-browser-to-compete-with-google-chrome/</guid>
+          <link>https://majordigest.com/tech/2025/10/22/openai-launches-web-browser-to-compete-with-google-chrome/</link>
+          <pubDate>Wed, 22 Oct 2025 20:02:24 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/amazon-robots-future-hires.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/amazon-robots-future-hires.webp"/>
-          <dc:creator>Andrew Dorn, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>AI helps IT teams resolve incidents faster, report finds</title>
-          <description><![CDATA[New data suggests that generative artificial intelligence (genAI) is delivering measurable benefits for IT organizations and their IT Service Management (ITSM) efforts.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/ai-helps-it-teams-resolve-incidents-faster-report-finds/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/ai-helps-it-teams-resolve-incidents-faster-report-finds/</link>
-          <pubDate>Wed, 22 Oct 2025 18:49:09 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/ai-helps-it-teams-resolve-incidents-faster-report-finds.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/ai-helps-it-teams-resolve-incidents-faster-report-finds.webp"/>
-          <dc:creator>Network World</dc:creator>
-        </item>
-        <item>
-          <title>Meta cutting 600 AI jobs even as it continues to hire more for its superintelligence lab</title>
-          <description><![CDATA[MENLO PARK, Calif. (AP) — Meta Platforms is cutting roughly 600 artificial intelligence jobs even as it continues to hire more workers for its superintelligence lab, the company confirmed on Wednesday.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/meta-cutting-600-ai-jobs-even-as-it-continues-to-hire-more-for-its-superintelligence-lab/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/meta-cutting-600-ai-jobs-even-as-it-continues-to-hire-more-for-its-superintelligence-lab/</link>
-          <pubDate>Wed, 22 Oct 2025 17:45:47 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/meta-cutting-600-ai-jobs-even-as-it-continues-to-hire-more-for-its-superintelligence-lab.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/meta-cutting-600-ai-jobs-even-as-it-continues-to-hire-more-for-its-superintelligence-lab.webp"/>
-          <dc:creator>The Associated Press, Fox 5</dc:creator>
-        </item>
-        <item>
-          <title>Kandji becomes Iru, opens MDM for Windows and Android</title>
-          <description><![CDATA[Apple device management and security company Kandji has changed its name to Iru, reflecting a new approach to what it does while opening its offer up to Windows and Android.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/kandji-becomes-iru-opens-mdm-for-windows-and-android/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/kandji-becomes-iru-opens-mdm-for-windows-and-android/</link>
-          <pubDate>Wed, 22 Oct 2025 16:58:27 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/kandji-becomes-iru-opens-mdm-for-windows-and-android.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/kandji-becomes-iru-opens-mdm-for-windows-and-android.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
-          <title>Ukraine unveils upgraded sea drone it says can strike anywhere in the Black Sea</title>
-          <description><![CDATA[KYIV, Ukraine (AP) — Ukraine's state security service has unveiled an upgraded sea drone it says can now operate anywhere in the Black Sea, carry heavier weapons and use artificial intelligence for targeting.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/ukraine-unveils-upgraded-sea-drone-it-says-can-strike-anywhere-in-the-black-sea/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/ukraine-unveils-upgraded-sea-drone-it-says-can-strike-anywhere-in-the-black-sea/</link>
-          <pubDate>Wed, 22 Oct 2025 16:39:24 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/ukraine-unveils-upgraded-sea-drone-it-says-can-strike-anywhere-in-the-black-sea.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/ukraine-unveils-upgraded-sea-drone-it-says-can-strike-anywhere-in-the-black-sea.webp"/>
-          <dc:creator>EFREM LUKATSKY and DEREK GATOPOULOS, Associated Press, NewsNation</dc:creator>
-        </item>
-        <item>
-          <title>Google and Apple face extra UK scrutiny over 'strategic' role in mobile platforms</title>
-          <description><![CDATA[LONDON (AP) — Britain’s antitrust watchdog on Wednesday targeted Google and Apple for their “strategic” roles in mobile ecosystems, opening the door for regulators to impose changes to their business practices to improve competition.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/google-and-apple-face-extra-uk-scrutiny-over-strategic-role-in-mobile-platforms/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/google-and-apple-face-extra-uk-scrutiny-over-strategic-role-in-mobile-platforms/</link>
-          <pubDate>Wed, 22 Oct 2025 16:34:03 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/google-and-apple-face-extra-uk-scrutiny-over-strategic-role-in-mobile-platforms.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/google-and-apple-face-extra-uk-scrutiny-over-strategic-role-in-mobile-platforms.webp"/>
-          <dc:creator>Associated Press, ABC 4</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/openai-launches-web-browser-to-compete-with-google-chrome.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/openai-launches-web-browser-to-compete-with-google-chrome.webp"/>
+          <dc:creator>MATT O'BRIEN and MICHAEL LIEDTKE, Associated Press, KRON4</dc:creator>
         </item>
         <item>
           <title>Florida test scores rise, attendance improves after cellphone ban</title>
@@ -318,26 +295,61 @@ The post Solarium commission urges reversal on Trump’s cyber cuts first appear
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Call to ban AI superintelligence could redraw the global tech race between the US and China</title>
-          <description><![CDATA[More than 850 prominent figures have called for a prohibition on developing AI superintelligence, a move that could reshape enterprise AI investments and intensify the US-China technology race if adopted.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/call-to-ban-ai-superintelligence-could-redraw-the-global-tech-race-between-the-us-and-china/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/call-to-ban-ai-superintelligence-could-redraw-the-global-tech-race-between-the-us-and-china/</link>
-          <pubDate>Wed, 22 Oct 2025 13:08:55 GMT</pubDate>
+          <title>Scammers target retirees with election tricks and fake polling updates ahead of Nov 4 vote</title>
+          <description><![CDATA[Public voter records expose retirees&apos; personal details to election scammers who create targeted cons using names, addresses, and voting history data.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/22/scammers-target-retirees-election-tricks-fake-polling-updates-ahead-nov-4-vote/</guid>
+          <link>https://majordigest.com/tech/2025/10/22/scammers-target-retirees-election-tricks-fake-polling-updates-ahead-nov-4-vote/</link>
+          <pubDate>Wed, 22 Oct 2025 13:40:43 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/call-to-ban-ai-superintelligence-could-redraw-the-global-tech-race-between-the-us-and-china.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/call-to-ban-ai-superintelligence-could-redraw-the-global-tech-race-between-the-us-and-china.webp"/>
-          <dc:creator>Computer World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/scammers-target-retirees-election-tricks-fake-polling-updates-ahead-nov-4-vote.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/scammers-target-retirees-election-tricks-fake-polling-updates-ahead-nov-4-vote.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>How to use Python dataclasses</title>
-          <description><![CDATA[Everything in Python is an object, or so the saying goes. If you want to create your own custom objects, with their own properties and methods, you use Python’s class object to do it.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/22/how-to-use-python-dataclasses/</guid>
-          <link>https://majordigest.com/tech/2025/10/22/how-to-use-python-dataclasses/</link>
+          <title>DCIM explained: How data center information management powers AI, capacity planning, and sustainability</title>
+          <description><![CDATA[Data center infrastructure management (DCIM) involves managing all aspects of the physical data center.
+DCIM converges IT management, operations management, facilities management, and automation.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/22/dcim-explained-how-data-center-information-management-powers-ai-capacity-planning-and-sustainability/</guid>
+          <link>https://majordigest.com/tech/2025/10/22/dcim-explained-how-data-center-information-management-powers-ai-capacity-planning-and-sustainability/</link>
           <pubDate>Wed, 22 Oct 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/how-to-use-python-dataclasses.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/how-to-use-python-dataclasses.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/dcim-explained-how-data-center-information-management-powers-ai-capacity-planning-and-sustainability.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/dcim-explained-how-data-center-information-management-powers-ai-capacity-planning-and-sustainability.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Self-propagating worm found in marketplaces for Visual Studio Code extensions</title>
+          <description><![CDATA[A month after a self-propagating worm was discovered in the open source NPM code repository, a similar worm has been found targeting Visual Studio Code extensions in open marketplaces.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/22/self-propagating-worm-found-in-marketplaces-for-visual-studio-code-extensions/</guid>
+          <link>https://majordigest.com/tech/2025/10/22/self-propagating-worm-found-in-marketplaces-for-visual-studio-code-extensions/</link>
+          <pubDate>Wed, 22 Oct 2025 01:23:19 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/22/self-propagating-worm-found-in-marketplaces-for-visual-studio-code-extensions.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/22/self-propagating-worm-found-in-marketplaces-for-visual-studio-code-extensions.webp"/>
           <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>F5 hack highlights persistent supply chain security concerns</title>
+          <description><![CDATA[The F5 breach targets a "foundational technology" relied upon by government agencies and critical infrastructure operators.
+The post F5 hack highlights persistent supply chain security concerns first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/21/f5-hack-highlights-persistent-supply-chain-security-concerns/</guid>
+          <link>https://majordigest.com/tech/2025/10/21/f5-hack-highlights-persistent-supply-chain-security-concerns/</link>
+          <pubDate>Tue, 21 Oct 2025 22:28:44 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/f5-hack-highlights-persistent-supply-chain-security-concerns.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/f5-hack-highlights-persistent-supply-chain-security-concerns.webp"/>
+          <dc:creator>Justin Doubleday, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Senators seek to expand protections for storing child sex abuse evidence</title>
+          <description><![CDATA[A group of bipartisan senators introduced legislation Tuesday to provide limited liability protections for organizations to store evidence of child sexual exploitation in the cloud for law enforcement.   The Safe Cloud Storage Act, put forward by Sens. Marsha Blackburn (R-Tenn.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/21/protecting-children-online-legislation/</guid>
+          <link>https://majordigest.com/tech/2025/10/21/protecting-children-online-legislation/</link>
+          <pubDate>Tue, 21 Oct 2025 22:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/protecting-children-online-legislation.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/protecting-children-online-legislation.webp"/>
+          <dc:creator>Julia Shapero, The Hill</dc:creator>
         </item>
         <item>
           <title>Netflix blames tax dispute in Brazil for rare quarterly earnings letdown</title>
@@ -348,7 +360,7 @@ The post Solarium commission urges reversal on Trump’s cyber cuts first appear
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/netflix-blames-tax-dispute-in-brazil-for-earnings-miss.webp"/>
           <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/netflix-blames-tax-dispute-in-brazil-for-earnings-miss.webp"/>
-          <dc:creator>MICHAEL LIEDTKE, Associated Press, ABC 4</dc:creator>
+          <dc:creator>MICHAEL LIEDTKE, Associated Press, KGET 17, NBC</dc:creator>
         </item>
         <item>
           <title>OpenAI launches web browser ChatGPT Atlas: How to start using it</title>
@@ -362,16 +374,16 @@ The post Solarium commission urges reversal on Trump’s cyber cuts first appear
           <dc:creator>Jeremy Tanner, WGN 9</dc:creator>
         </item>
         <item>
-          <title>OPM renews effort to consolidate 119 HR systems into one</title>
-          <description><![CDATA[The Office of Personnel Management is looking to implement a commercial software-as-a-service human capital management system for all agencies by July 4, 2027.
-The post OPM renews effort to consolidate 119 HR systems into one first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/21/opm-renews-effort-to-consolidate-119-hr-systems-into-one/</guid>
-          <link>https://majordigest.com/tech/2025/10/21/opm-renews-effort-to-consolidate-119-hr-systems-into-one/</link>
-          <pubDate>Tue, 21 Oct 2025 20:20:24 GMT</pubDate>
+          <title>Accelerate together</title>
+          <description><![CDATA[Is Agentic AI Your New Cyber Wingman?
+The post Accelerate together — Secure by AI first appeared on Federal News Network.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/21/accelerate-together-secure-by-ai/</guid>
+          <link>https://majordigest.com/tech/2025/10/21/accelerate-together-secure-by-ai/</link>
+          <pubDate>Tue, 21 Oct 2025 17:20:37 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/opm-renews-effort-to-consolidate-119-hr-systems-into-one.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/opm-renews-effort-to-consolidate-119-hr-systems-into-one.webp"/>
-          <dc:creator>Jason Miller, Federal News Network</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/accelerate-together-secure-by-ai.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/accelerate-together-secure-by-ai.webp"/>
+          <dc:creator>wfedstaff, Federal News Network</dc:creator>
         </item>
         <item>
           <title>AI dominates Gartner&#8217;s top strategic technology trends for 2026</title>
@@ -385,36 +397,24 @@ The post OPM renews effort to consolidate 119 HR systems into one first appeared
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>The lost 30 years: The decline of Japan&#8217;s semiconductor industry</title>
-          <description><![CDATA[Global industrial competition has entered an era in which “whoever controls semiconductors controls the future.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/21/the-lost-30-years-the-decline-of-japans-semiconductor-industry/</guid>
-          <link>https://majordigest.com/tech/2025/10/21/the-lost-30-years-the-decline-of-japans-semiconductor-industry/</link>
-          <pubDate>Tue, 21 Oct 2025 10:00:00 GMT</pubDate>
+          <title>Visual Studio Code taps AI for merge conflict resolution</title>
+          <description><![CDATA[Visual Studio Code 1.105, the latest release of Microsoft’s popular Visual Studio Code editor, introduces several new AI coding features, including the ability to resolve merge conflicts with AI assistance, the ability to resume recent chat sessions, and the ability to install Model Context Protocol]]></description>
+          <guid>https://majordigest.com/tech/2025/10/21/visual-studio-code-taps-ai-for-merge-conflict-resolution/</guid>
+          <link>https://majordigest.com/tech/2025/10/21/visual-studio-code-taps-ai-for-merge-conflict-resolution/</link>
+          <pubDate>Tue, 21 Oct 2025 00:27:03 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/the-lost-30-years-the-decline-of-japans-semiconductor-industry.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/the-lost-30-years-the-decline-of-japans-semiconductor-industry.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/21/visual-studio-code-taps-ai-for-merge-conflict-resolution.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/21/visual-studio-code-taps-ai-for-merge-conflict-resolution.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Unlocking efficiency with AI, commercial software and the cloud</title>
-          <description><![CDATA[Government agencies are already exploring opportunities to apply artificial intelligence to their operations in ways that increase efficiency and save money.
-The post Unlocking efficiency with AI, commercial software and the cloud first appeared on Federal News Network.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/20/unlocking-efficiency-with-ai-commercial-software-and-the-cloud/</guid>
-          <link>https://majordigest.com/tech/2025/10/20/unlocking-efficiency-with-ai-commercial-software-and-the-cloud/</link>
-          <pubDate>Mon, 20 Oct 2025 21:51:50 GMT</pubDate>
+          <title>Big Tech is paying millions to train teachers on AI, in a push to bring chatbots into classrooms</title>
+          <description><![CDATA[SAN ANTONIO (AP) — On a scorching hot Saturday in San Antonio, dozens of teachers traded a day off for a glimpse of the future. The topic of the day’s workshop: enhancing instruction with artificial intelligence.]]></description>
+          <guid>https://majordigest.com/tech/2025/10/20/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms/</guid>
+          <link>https://majordigest.com/tech/2025/10/20/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms/</link>
+          <pubDate>Mon, 20 Oct 2025 21:02:28 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/20/unlocking-efficiency-with-ai-commercial-software-and-the-cloud.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/20/unlocking-efficiency-with-ai-commercial-software-and-the-cloud.webp"/>
-          <dc:creator>commentators, Federal News Network</dc:creator>
-        </item>
-        <item>
-          <title>Teens face new PG-13 limits on Instagram</title>
-          <description><![CDATA[New Instagram parental controls allow families to manage teen screen time and content limits through the Family Center with stricter safety settings.]]></description>
-          <guid>https://majordigest.com/tech/2025/10/20/teens-face-new-pg-13-limits-instagram/</guid>
-          <link>https://majordigest.com/tech/2025/10/20/teens-face-new-pg-13-limits-instagram/</link>
-          <pubDate>Mon, 20 Oct 2025 15:40:06 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/20/teens-face-new-pg-13-limits-instagram.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/20/teens-face-new-pg-13-limits-instagram.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/10/20/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/10/20/big-tech-is-paying-millions-to-train-teachers-on-ai-in-a-push-to-bring-chatbots-into-classrooms.webp"/>
+          <dc:creator>JOCELYN GECKER, Associated Press, Fox 5</dc:creator>
         </item></channel></rss>
