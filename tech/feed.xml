@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sat, 22 Nov 2025 13:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Nov 2025 13:05:51 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,47 +19,70 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Waymo gets permission to expand robotaxi service to East Bay, North Bay, Sacramento</title>
-          <description><![CDATA[Earlier this month, Waymo began offering driverless robotaxi service on Peninsula freeways, and to and from Mineta San Jose International Airport.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/21/waymo-expand-robotaxi-east-bay-north-bay-sacramento/</guid>
-          <link>https://majordigest.com/tech/2025/11/21/waymo-expand-robotaxi-east-bay-north-bay-sacramento/</link>
-          <pubDate>Fri, 21 Nov 2025 23:06:18 GMT</pubDate>
+          <title>Linus Torvalds gives approval to "vibe coding" - just don't use it on anything important</title>
+          <description><![CDATA[Linux godfather supports vibe coding for learning while rejecting its use in critical kernel development due to maintenance and quality concerns.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/21/linux-godfather-linus-torvald-says-hes-fine-with-vibe-coding-just-dont-use-it-on-anything-important/</guid>
+          <link>https://majordigest.com/tech/2025/11/21/linux-godfather-linus-torvald-says-hes-fine-with-vibe-coding-just-dont-use-it-on-anything-important/</link>
+          <pubDate>Fri, 21 Nov 2025 19:29:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/21/waymo-expand-robotaxi-east-bay-north-bay-sacramento.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/21/waymo-expand-robotaxi-east-bay-north-bay-sacramento.webp"/>
-          <dc:creator>Ethan Baron, The Mercury News</dc:creator>
-        </item>
-        <item>
-          <title>F# 10 features scoped warning suppression</title>
-          <description><![CDATA[The newest version of Microsoft’s multi-paradigm language features a much-sought ability to suppress warnings in specified code sections.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/20/f-10-features-scoped-warning-suppression/</guid>
-          <link>https://majordigest.com/tech/2025/11/20/f-10-features-scoped-warning-suppression/</link>
-          <pubDate>Thu, 20 Nov 2025 22:53:22 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/f-10-features-scoped-warning-suppression.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/f-10-features-scoped-warning-suppression.webp"/>
-          <dc:creator>Info World</dc:creator>
-        </item>
-        <item>
-          <title>RIP mobile hotspots - Netgear's new Nighthawk 5G M7 features Wi-Fi 7 connectivity and even global eSIM support</title>
-          <description><![CDATA[Netgear Nighthawk 5G M7 offers Wi-Fi 7 speeds, global eSIM support, and multi-device connectivity in a compact portable hotspot.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/20/rip-mobile-hotspots-netgears-new-nighthawk-5g-m7-features-wi-fi-7-connectivity-and-even-global-esim-support/</guid>
-          <link>https://majordigest.com/tech/2025/11/20/rip-mobile-hotspots-netgears-new-nighthawk-5g-m7-features-wi-fi-7-connectivity-and-even-global-esim-support/</link>
-          <pubDate>Thu, 20 Nov 2025 22:24:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/rip-mobile-hotspots-netgears-new-nighthawk-5g-m7-features-wi-fi-7-connectivity-and-even-global-esim-support.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/rip-mobile-hotspots-netgears-new-nighthawk-5g-m7-features-wi-fi-7-connectivity-and-even-global-esim-support.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/21/linux-godfather-linus-torvald-says-hes-fine-with-vibe-coding-just-dont-use-it-on-anything-important.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/21/linux-godfather-linus-torvald-says-hes-fine-with-vibe-coding-just-dont-use-it-on-anything-important.webp"/>
           <dc:creator>Efosa Udinmwen, TechRadar</dc:creator>
         </item>
         <item>
-          <title>CIO Essential Insights: Strategies for AI Success</title>
-          <description><![CDATA[Research indicates that an alarming number of AI projects fail to achieve their goals and provide hoped for return-on-investment.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/20/cio-essential-insights-strategies-for-ai-success/</guid>
-          <link>https://majordigest.com/tech/2025/11/20/cio-essential-insights-strategies-for-ai-success/</link>
-          <pubDate>Thu, 20 Nov 2025 22:11:09 GMT</pubDate>
+          <title>It&#8217;s the end of vibe coding, already</title>
+          <description><![CDATA[In the early days of generative AI, AI-driven programming seemed to promise endless possibility, or at least a free pass to vibe code your way into quick wins. But now that era of freewheeling experimentation is coming to an end.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/21/the-end-of-vibe-coding-already/</guid>
+          <link>https://majordigest.com/tech/2025/11/21/the-end-of-vibe-coding-already/</link>
+          <pubDate>Fri, 21 Nov 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/cio-essential-insights-strategies-for-ai-success.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/cio-essential-insights-strategies-for-ai-success.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/21/the-end-of-vibe-coding-already.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/21/the-end-of-vibe-coding-already.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>PHP 8.5 enables secure URI and URL parsing</title>
+          <description><![CDATA[PHP 8.5 has been released, adding an extension for securely parsing URIs and URLs to the now-30-year-old server-side scripting language.
+Described as a major update, PHP 8.5 was released November 20 and can be accessed at PHP.net.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/21/php-8-5-enables-secure-uri-and-url-parsing/</guid>
+          <link>https://majordigest.com/tech/2025/11/21/php-8-5-enables-secure-uri-and-url-parsing/</link>
+          <pubDate>Fri, 21 Nov 2025 01:23:32 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/21/php-8-5-enables-secure-uri-and-url-parsing.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/21/php-8-5-enables-secure-uri-and-url-parsing.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Google&#8217;s Gemini 3 Pro: Better than mid</title>
+          <description><![CDATA[Welcome to AI Decoded, Fast Company’s weekly newsletter that breaks down the most important news in the world of AI. I’m Mark Sullivan, a senior writer at Fast Company, covering emerging tech, AI, and tech policy.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/21/google-gemini-3-anthropic-microsoft-nvidia/</guid>
+          <link>https://majordigest.com/tech/2025/11/21/google-gemini-3-anthropic-microsoft-nvidia/</link>
+          <pubDate>Fri, 21 Nov 2025 01:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/21/google-gemini-3-anthropic-microsoft-nvidia.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/21/google-gemini-3-anthropic-microsoft-nvidia.webp"/>
+          <dc:creator>Mark Sullivan, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Shopping for toys this holiday season? Avoid the AI ones, groups warn parents</title>
+          <description><![CDATA[They’re cute, even cuddly, and promise learning and companionship—but artificial intelligence toys are not safe for kids, according to children’s and consumer advocacy groups urging parents not to buy them during the holiday season.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/21/ai-toys-advocacy-groups-parents-holiday-shopping/</guid>
+          <link>https://majordigest.com/tech/2025/11/21/ai-toys-advocacy-groups-parents-holiday-shopping/</link>
+          <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/21/ai-toys-advocacy-groups-parents-holiday-shopping.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/21/ai-toys-advocacy-groups-parents-holiday-shopping.webp"/>
+          <dc:creator>Associated Press, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>Register today: CIO Essential Insights Cloud 2026: New Strategies for Success</title>
+          <description><![CDATA[Foundry research shows continued growth in enterprise cloud spending, with new AI initiatives a key driver of that increased investment. But at the same time, concerns about cloud expense, security, management, and skills are also ratcheting up.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/20/cio-essential-insights-cloud-2026-new-strategies-for-success/</guid>
+          <link>https://majordigest.com/tech/2025/11/20/cio-essential-insights-cloud-2026-new-strategies-for-success/</link>
+          <pubDate>Thu, 20 Nov 2025 22:09:40 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/cio-essential-insights-cloud-2026-new-strategies-for-success.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/cio-essential-insights-cloud-2026-new-strategies-for-success.webp"/>
           <dc:creator>CIO</dc:creator>
         </item>
         <item>
@@ -74,81 +97,150 @@
           <dc:creator>Susan Montoya Bryan, Associated Press, KPRC 2</dc:creator>
         </item>
         <item>
-          <title>How synthetic data trains AI to solve real&#160;problems</title>
-          <description><![CDATA[You’ve just finished a strenuous hike to the top of a mountain. You’re exhausted but elated. The view of the city below is gorgeous, and you want to capture the moment on camera. But it’s already quite dark, and you’re not sure you’ll get a good shot.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/20/synthetic-data-trains-ai-solve-real-problems/</guid>
-          <link>https://majordigest.com/tech/2025/11/20/synthetic-data-trains-ai-solve-real-problems/</link>
-          <pubDate>Thu, 20 Nov 2025 19:00:00 GMT</pubDate>
+          <title>Bubble fears ease but investors still waiting for AI to live up to its promise</title>
+          <description><![CDATA[Fears about the artificial intelligence boom turning into an overblown bubble have diminished for now, thanks to a stellar earnings report from Nvidia.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/20/ai-bubble-fears-ease-but-investors-still-waiting-for-investments-to-live-up-to-their-promise/</guid>
+          <link>https://majordigest.com/tech/2025/11/20/ai-bubble-fears-ease-but-investors-still-waiting-for-investments-to-live-up-to-their-promise/</link>
+          <pubDate>Thu, 20 Nov 2025 19:37:08 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/synthetic-data-trains-ai-solve-real-problems.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/synthetic-data-trains-ai-solve-real-problems.webp"/>
-          <dc:creator>The Conversation, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/ai-bubble-fears-ease-but-investors-still-waiting-for-investments-to-live-up-to-their-promise.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/ai-bubble-fears-ease-but-investors-still-waiting-for-investments-to-live-up-to-their-promise.webp"/>
+          <dc:creator>Michael Liedtke, Associated Press, Local 4</dc:creator>
         </item>
         <item>
-          <title>Microsoft Ignite 2025</title>
-          <description><![CDATA[Microsoft Ignite 2025  runs November 18-21, 2025, in San Francisco, with an optional pre-day on November 17. Can’t make it to the Moscone Center in San Francisco? No problem. It’s a hybrid event, and you can register to attend Ignite (for free) virtually here.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/20/microsoft-ignite-latest-news-and-insights/</guid>
-          <link>https://majordigest.com/tech/2025/11/20/microsoft-ignite-latest-news-and-insights/</link>
-          <pubDate>Thu, 20 Nov 2025 17:13:15 GMT</pubDate>
+          <title>Joe Rogan tops Apple&#8217;s most popular podcasts of 2025</title>
+          <description><![CDATA[When it comes to podcasting, it’s Joe Rogan’s world. The Joe Rogan Experience was the most popular podcast of 2025, according to Apple’s just-released rankings.
+This is the first year Rogan has topped the Apple charts.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/20/joe-rogan-apples-podcast-popular/</guid>
+          <link>https://majordigest.com/tech/2025/11/20/joe-rogan-apples-podcast-popular/</link>
+          <pubDate>Thu, 20 Nov 2025 18:30:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/microsoft-ignite-latest-news-and-insights.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/microsoft-ignite-latest-news-and-insights.webp"/>
-          <dc:creator>Computer World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/joe-rogan-apples-podcast-popular.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/joe-rogan-apples-podcast-popular.webp"/>
+          <dc:creator>Chris Morris, Fast Company</dc:creator>
         </item>
         <item>
-          <title>Manage Android apps with the new 'Uninstall' button</title>
-          <description><![CDATA[Android users can now manage apps across multiple devices more easily with Google Play Store&apos;s updated remote uninstall button in the latest update.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/20/manage-android-apps-new-uninstall-button/</guid>
-          <link>https://majordigest.com/tech/2025/11/20/manage-android-apps-new-uninstall-button/</link>
-          <pubDate>Thu, 20 Nov 2025 14:42:26 GMT</pubDate>
+          <title>The what, why and how of agentic AI for supply chain management</title>
+          <description><![CDATA[Efficient supply chain management (SCM) requires contending with vast amounts of data, constantly changing variables and multiple stakeholders; factors that have traditionally made SCM difficult for humans, to put it mildly.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/20/the-what-why-and-how-of-agentic-ai-for-supply-chain-management/</guid>
+          <link>https://majordigest.com/tech/2025/11/20/the-what-why-and-how-of-agentic-ai-for-supply-chain-management/</link>
+          <pubDate>Thu, 20 Nov 2025 18:06:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/manage-android-apps-new-uninstall-button.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/manage-android-apps-new-uninstall-button.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/the-what-why-and-how-of-agentic-ai-for-supply-chain-management.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/the-what-why-and-how-of-agentic-ai-for-supply-chain-management.webp"/>
+          <dc:creator>CIO</dc:creator>
         </item>
         <item>
-          <title>Cobalt 200: Microsoft&#8217;s next-gen Arm CPU targets lower TCO for cloud workloads</title>
-          <description><![CDATA[Microsoft has unveiled the next generation of its Arm-based custom CPUs in the form of Cobalt 200 as part of its ongoing efforts to reduce dependency on x86-based instances and make its data centers more energy-efficient while offering better performance for cloud computing workloads.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/20/cobalt-200-microsofts-next-gen-arm-cpu-targets-lower-tco-for-cloud-workloads/</guid>
-          <link>https://majordigest.com/tech/2025/11/20/cobalt-200-microsofts-next-gen-arm-cpu-targets-lower-tco-for-cloud-workloads/</link>
-          <pubDate>Thu, 20 Nov 2025 11:35:43 GMT</pubDate>
+          <title>Sony, Warner and Universal sign AI music licensing deals with startup Klay</title>
+          <description><![CDATA[The world's biggest music labels have struck AI licensing deals with a startup named Klay Vision, the companies said Thursday.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/20/sony-warner-and-universal-sign-ai-music-licensing-deals-with-startup-klay/</guid>
+          <link>https://majordigest.com/tech/2025/11/20/sony-warner-and-universal-sign-ai-music-licensing-deals-with-startup-klay/</link>
+          <pubDate>Thu, 20 Nov 2025 12:56:43 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/cobalt-200-microsofts-next-gen-arm-cpu-targets-lower-tco-for-cloud-workloads.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/cobalt-200-microsofts-next-gen-arm-cpu-targets-lower-tco-for-cloud-workloads.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/sony-warner-and-universal-sign-ai-music-licensing-deals-with-startup-klay.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/sony-warner-and-universal-sign-ai-music-licensing-deals-with-startup-klay.webp"/>
+          <dc:creator>Kelvin Chan, Associated Press, KPRC 2</dc:creator>
+        </item>
+        <item>
+          <title>Spanish court orders Meta to pay nearly half a billion euros in damages to media outlets</title>
+          <description><![CDATA[Spanish legacy media companies in Spain have scored a victory against social media giant Meta after a Madrid-based court ordered that it must pay news outlets nearly half a billion euros in damages.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/20/spanish-court-orders-meta-to-pay-nearly-half-a-billion-euros-in-damages-to-media-outlets/</guid>
+          <link>https://majordigest.com/tech/2025/11/20/spanish-court-orders-meta-to-pay-nearly-half-a-billion-euros-in-damages-to-media-outlets/</link>
+          <pubDate>Thu, 20 Nov 2025 11:58:56 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/spanish-court-orders-meta-to-pay-nearly-half-a-billion-euros-in-damages-to-media-outlets.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/spanish-court-orders-meta-to-pay-nearly-half-a-billion-euros-in-damages-to-media-outlets.webp"/>
+          <dc:creator>Joseph Wilson, Associated Press, KPRC 2</dc:creator>
+        </item>
+        <item>
+          <title>SAP touts Microsoft disaster recovery plan for Europe; Analysts doubt it will work</title>
+          <description><![CDATA[SAP has cut European deals with Microsoft, Capgemini, and Orange to ostensibly deliver an emergency disaster recovery failover if Microsoft is legally blocked from delivering European services.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/20/sap-touts-microsoft-disaster-recovery-plan-for-europe-analysts-doubt-it-will-work-2/</guid>
+          <link>https://majordigest.com/tech/2025/11/20/sap-touts-microsoft-disaster-recovery-plan-for-europe-analysts-doubt-it-will-work-2/</link>
+          <pubDate>Thu, 20 Nov 2025 03:03:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/sap-touts-microsoft-disaster-recovery-plan-for-europe-analysts-doubt-it-will-work-2.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/sap-touts-microsoft-disaster-recovery-plan-for-europe-analysts-doubt-it-will-work-2.webp"/>
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>Improving annotation quality with machine learning</title>
-          <description><![CDATA[Data science and machine learning teams face a hidden productivity killer: annotation errors. Recent research from Apple analyzing production machine learning (ML) applications found annotation error rates averaging 10% across search relevance tasks.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/20/improving-annotation-quality-with-machine-learning/</guid>
-          <link>https://majordigest.com/tech/2025/11/20/improving-annotation-quality-with-machine-learning/</link>
-          <pubDate>Thu, 20 Nov 2025 09:00:00 GMT</pubDate>
+          <title>From small business roots to mid-tier powerhouse, this firm is using employee ownership and AI to stay ahead in federal contracting</title>
+          <description><![CDATA["I've got to show up every day changing hearts and minds, showing the innovation and showing how at the end of the day, it's actually better," Travis Mack said.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/19/from-small-business-roots-to-mid-tier-powerhouse-this-firm-is-using-employee-ownership-and-ai-to-stay-ahead-in-federal-contracting/</guid>
+          <link>https://majordigest.com/tech/2025/11/19/from-small-business-roots-to-mid-tier-powerhouse-this-firm-is-using-employee-ownership-and-ai-to-stay-ahead-in-federal-contracting/</link>
+          <pubDate>Wed, 19 Nov 2025 19:52:04 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/improving-annotation-quality-with-machine-learning.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/improving-annotation-quality-with-machine-learning.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/19/from-small-business-roots-to-mid-tier-powerhouse-this-firm-is-using-employee-ownership-and-ai-to-stay-ahead-in-federal-contracting.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/19/from-small-business-roots-to-mid-tier-powerhouse-this-firm-is-using-employee-ownership-and-ai-to-stay-ahead-in-federal-contracting.webp"/>
+          <dc:creator>Terry Gerton, Federal News Network</dc:creator>
+        </item>
+        <item>
+          <title>Microsoft Fabric IQ adds &#8216;semantic intelligence&#8217; layer to Fabric</title>
+          <description><![CDATA[With Fabric IQ, Microsoft is adding new semantic intelligence capabilities to its unified data and analytics platform, Fabric, that it says will help enterprises maintain a common data model and automate operational decisions.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/19/microsoft-fabric-iq-adds-semantic-intelligence-layer-to-fabric/</guid>
+          <link>https://majordigest.com/tech/2025/11/19/microsoft-fabric-iq-adds-semantic-intelligence-layer-to-fabric/</link>
+          <pubDate>Wed, 19 Nov 2025 17:46:34 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/19/microsoft-fabric-iq-adds-semantic-intelligence-layer-to-fabric.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/19/microsoft-fabric-iq-adds-semantic-intelligence-layer-to-fabric.webp"/>
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Perseverance rover spots mysterious 'visitor from outer space' rock on Mars surface after 4 years</title>
-          <description><![CDATA[NASA&apos;s Perseverance rover discovers shiny metallic rock on Mars that could be a meteorite from an ancient asteroid, containing high levels of iron and nickel.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/20/perseverance-rover-spots-mysterious-visitor-from-outer-space-rock-mars-surface-after-four-years/</guid>
-          <link>https://majordigest.com/tech/2025/11/20/perseverance-rover-spots-mysterious-visitor-from-outer-space-rock-mars-surface-after-four-years/</link>
-          <pubDate>Thu, 20 Nov 2025 02:57:05 GMT</pubDate>
+          <title>A developer&#8217;s guide to avoiding the brambles</title>
+          <description><![CDATA[Software development is fraught with peril. For any development task, there are a million ways to do it wrong, and the one correct way is a small, narrow trail that winds quietly through the forest. It takes experience to know the path and to avoid the dangerous pitfalls along the way.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/19/a-developers-guide-to-avoiding-the-brambles/</guid>
+          <link>https://majordigest.com/tech/2025/11/19/a-developers-guide-to-avoiding-the-brambles/</link>
+          <pubDate>Wed, 19 Nov 2025 09:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/perseverance-rover-spots-mysterious-visitor-from-outer-space-rock-mars-surface-after-four-years.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/perseverance-rover-spots-mysterious-visitor-from-outer-space-rock-mars-surface-after-four-years.webp"/>
-          <dc:creator>Fox News</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/19/a-developers-guide-to-avoiding-the-brambles.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/19/a-developers-guide-to-avoiding-the-brambles.webp"/>
+          <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Advocacy groups urge parents to avoid AI toys this holiday season</title>
-          <description><![CDATA[Children’s and consumer advocacy groups are urging parents not to buy AI-powered toys during the holiday season.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/20/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season/</guid>
-          <link>https://majordigest.com/tech/2025/11/20/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season/</link>
-          <pubDate>Thu, 20 Nov 2025 00:59:31 GMT</pubDate>
+          <title>Google unveils Gemini 3 AI model, Antigravity agentic development tool</title>
+          <description><![CDATA[Google has introduced the Gemini 3 AI model, an update of Gemini with improved visual reasoning, and Google Antigravity, an agentic development platform for AI-assisted software development.
+Both were announced on November 18.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/19/google-unveils-gemini-3-ai-model-antigravity-agentic-development-tool/</guid>
+          <link>https://majordigest.com/tech/2025/11/19/google-unveils-gemini-3-ai-model-antigravity-agentic-development-tool/</link>
+          <pubDate>Wed, 19 Nov 2025 03:23:36 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/20/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/20/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season.webp"/>
-          <dc:creator>Barbara Ortutay And Matt O'Brien, Associated Press, Local 4</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/19/google-unveils-gemini-3-ai-model-antigravity-agentic-development-tool.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/19/google-unveils-gemini-3-ai-model-antigravity-agentic-development-tool.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Dell targets enterprise AI with switches, servers, reinforced Nvidia partnership</title>
+          <description><![CDATA[Dell Technologies has filled out its enterprise AI infrastructure products with key upgrades to servers, storage, and software offerings.
+First, announced at the Supercomputing 25 conference, the company introduced two new switches, the Dell PowerSwitch Z9964F-ON and Dell PowerSwitch Z9964FL-ON.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/18/dell-targets-enterprise-ai-with-switches-servers-reinforced-nvidia-partnership/</guid>
+          <link>https://majordigest.com/tech/2025/11/18/dell-targets-enterprise-ai-with-switches-servers-reinforced-nvidia-partnership/</link>
+          <pubDate>Tue, 18 Nov 2025 21:59:06 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/18/dell-targets-enterprise-ai-with-switches-servers-reinforced-nvidia-partnership.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/18/dell-targets-enterprise-ai-with-switches-servers-reinforced-nvidia-partnership.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Go team to improve support for AI assistants</title>
+          <description><![CDATA[Users of the Go language can expect improved support for AI coding agents in the coming year, according to the Go team. Also in the works is an overhauled go fix command that promises greater developer productivity.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/18/go-team-to-improve-support-for-ai-assistants/</guid>
+          <link>https://majordigest.com/tech/2025/11/18/go-team-to-improve-support-for-ai-assistants/</link>
+          <pubDate>Tue, 18 Nov 2025 21:36:32 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/18/go-team-to-improve-support-for-ai-assistants.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/18/go-team-to-improve-support-for-ai-assistants.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Hyundai AutoEver America breached: Know the risks to you</title>
+          <description><![CDATA[Hyundai AutoEver America suffered a data breach affecting 2,000 current and former employees, exposing names, Social Security numbers and driver&apos;s license information.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/18/hyundai-autoever-america-breached-know-risks-you/</guid>
+          <link>https://majordigest.com/tech/2025/11/18/hyundai-autoever-america-breached-know-risks-you/</link>
+          <pubDate>Tue, 18 Nov 2025 16:30:42 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/18/hyundai-autoever-america-breached-know-risks-you.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/18/hyundai-autoever-america-breached-know-risks-you.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
           <title>Microsoft 365: A guide to the updates</title>
@@ -162,13 +254,13 @@
           <dc:creator>Computer World</dc:creator>
         </item>
         <item>
-          <title>Microsoft fixes Windows 10 update flaw</title>
-          <description><![CDATA[It didn’t take long for some IT leaders who last month started paying to get Windows 10 security updates to face their first support problem.]]></description>
-          <guid>https://majordigest.com/tech/2025/11/18/microsoft-fixes-windows-10-update-flaw-2/</guid>
-          <link>https://majordigest.com/tech/2025/11/18/microsoft-fixes-windows-10-update-flaw-2/</link>
-          <pubDate>Tue, 18 Nov 2025 03:04:05 GMT</pubDate>
+          <title>Pennsylvania bill seeks to legalize flying cars</title>
+          <description><![CDATA[The Jetsons Act aims to position Pennsylvania as a leader in advanced air mobility by establishing regulations for hybrid ground-air vehicles.]]></description>
+          <guid>https://majordigest.com/tech/2025/11/15/pennsylvania-bill-seeks-legalize-flying-cars/</guid>
+          <link>https://majordigest.com/tech/2025/11/15/pennsylvania-bill-seeks-legalize-flying-cars/</link>
+          <pubDate>Sat, 15 Nov 2025 16:00:30 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/18/microsoft-fixes-windows-10-update-flaw-2.webp"/>
-          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/18/microsoft-fixes-windows-10-update-flaw-2.webp"/>
-          <dc:creator>Computer World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static13/tech/2025/11/15/pennsylvania-bill-seeks-legalize-flying-cars.webp"/>
+          <media:thumbnail url="https://majordigest.com/static13/tech/2025/11/15/pennsylvania-bill-seeks-legalize-flying-cars.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item></channel></rss>
