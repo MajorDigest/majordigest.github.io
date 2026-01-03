@@ -3,6 +3,20 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
+          <loc>https://majordigest.com/tech/2026/01/03/california-lawmaker-ban-ai-toys/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-01-03T05:00:00.000Z</news:publication_date>
+            <news:title>A California lawmaker wants to ban AI from children&#8217;s toys</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static14/tech/2026/01/03/california-lawmaker-ban-ai-toys.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
           <loc>https://majordigest.com/tech/2026/01/02/sam-altman-wants-to-pay-some-lucky-person-usd555-000-a-year-to-look-after-openais-ai/</loc>
           <news:news>
             <news:publication>
@@ -14,76 +28,6 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static14/tech/2026/01/02/sam-altman-wants-to-pay-some-lucky-person-usd555-000-a-year-to-look-after-openais-ai.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2026/01/02/five-things-to-watch-in-cybersecurity-for-2026/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2026-01-02T18:26:50.000Z</news:publication_date>
-            <news:title>Five things to watch in cybersecurity for 2026</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/02/five-things-to-watch-in-cybersecurity-for-2026.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2026/01/02/ai-trust-benchmark-2026-openai-anthropic/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2026-01-02T18:00:00.000Z</news:publication_date>
-            <news:title>AI&#8217;s most important benchmark in 2026? Trust</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/02/ai-trust-benchmark-2026-openai-anthropic.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2026/01/02/theres-still-no-sign-of-the-nvidia-rtx-5080-32gb-despite-rumors-and-a-fresh-claim-suggests-a-worrying-possibility/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2026-01-02T16:45:26.000Z</news:publication_date>
-            <news:title>There's still no sign of the Nvidia RTX 5080 32GB despite rumors &#8211; and a fresh claim suggests a worrying possibility</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/02/theres-still-no-sign-of-the-nvidia-rtx-5080-32gb-despite-rumors-and-a-fresh-claim-suggests-a-worrying-possibility.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2026/01/02/opinion-epa-clears-hurdles-for-ai-industry-yet-snubs-its-power-to-protect-public/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2026-01-02T11:45:30.000Z</news:publication_date>
-            <news:title>Opinion: EPA helping AI industry grow but ignoring technology&#8217;s power to protect environment</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/02/opinion-epa-clears-hurdles-for-ai-industry-yet-snubs-its-power-to-protect-public.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2026/01/02/googles-chromium-browser-explained/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2026-01-02T11:00:00.000Z</news:publication_date>
-            <news:title>Chromium explained: How the open-source engine drives today&#8217;s browsers</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/02/googles-chromium-browser-explained.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -101,226 +45,128 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/01/02/cloud-costs-now-no-2-expense-at-midsize-it-companies-behind-labor/</loc>
+          <loc>https://majordigest.com/tech/2026/01/02/back-to-the-future-the-most-popular-javascript-stories-and-themes-of-2025/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-01-02T10:01:00.000Z</news:publication_date>
-            <news:title>Cloud costs now No. 2 expense at midsize IT companies behind labor</news:title>
+            <news:publication_date>2026-01-02T09:00:00.000Z</news:publication_date>
+            <news:title>Back to the future: The most popular JavaScript stories and themes of 2025</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/02/cloud-costs-now-no-2-expense-at-midsize-it-companies-behind-labor.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/01/02/back-to-the-future-the-most-popular-javascript-stories-and-themes-of-2025.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/01/02/this-is-how-ctic-ruraltech-creates-real-solutions-for-the-challenges-of-the-rural-world/</loc>
+          <loc>https://majordigest.com/tech/2026/01/02/for-apple-in-26-its-time-to-take-the-snow-leopard-approach-to-os-updates/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-01-02T10:00:00.000Z</news:publication_date>
-            <news:title>How AI transforms agriculture in the rural world</news:title>
+            <news:publication_date>2026-01-02T07:00:00.000Z</news:publication_date>
+            <news:title>For Apple in &#8217;26, it&#8217;s time to take the &#8216;Snow Leopard&#8217; approach to OS updates</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/02/this-is-how-ctic-ruraltech-creates-real-solutions-for-the-challenges-of-the-rural-world.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/01/02/for-apple-in-26-its-time-to-take-the-snow-leopard-approach-to-os-updates.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/01/01/america-cant-afford-to-hollow-out-its-cyber-defenses/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2026-01-01T20:59:45.000Z</news:publication_date>
-            <news:title>America can&#8217;t afford to hollow out its cyber defenses</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/01/america-cant-afford-to-hollow-out-its-cyber-defenses.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2026/01/01/chatgpt-ai-python/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2026-01-01T18:00:00.000Z</news:publication_date>
-            <news:title>How to unlock the power of ChatGPT</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/01/chatgpt-ai-python.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2026/01/01/sunderland-vs-man-city-premier-league-2025-26/</loc>
+          <loc>https://majordigest.com/tech/2026/01/01/red-eye-season-2-free/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
             <news:publication_date>2026-01-01T17:00:00.000Z</news:publication_date>
-            <news:title>Sunderland vs Man City live streams: How to watch Premier League 2025-26 from anywhere in the world</news:title>
+            <news:title>How to watch Red Eye season 2</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/01/sunderland-vs-man-city-premier-league-2025-26.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/01/01/red-eye-season-2-free.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/01/01/how-share-your-estimated-arrival-time-iphone-android/</loc>
+          <loc>https://majordigest.com/tech/2026/01/01/a-fresh-samsung-galaxy-s26-leak-points-to-a-launch-date-and-brings-good-news-on-pricing/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-01-01T16:00:37.000Z</news:publication_date>
-            <news:title>How to share your estimated arrival time on iPhone and Android</news:title>
+            <news:publication_date>2026-01-01T12:30:00.000Z</news:publication_date>
+            <news:title>A fresh Samsung Galaxy S26 leak points to a launch date</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/01/how-share-your-estimated-arrival-time-iphone-android.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/01/01/a-fresh-samsung-galaxy-s26-leak-points-to-a-launch-date-and-brings-good-news-on-pricing.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/01/01/traitors-uk-season-4-free/</loc>
+          <loc>https://majordigest.com/tech/2025/12/31/the-top-10-ai-stories-of-2025/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-01-01T12:00:00.000Z</news:publication_date>
-            <news:title>How to watch The Traitors UK season 4</news:title>
+            <news:publication_date>2025-12-31T10:01:00.000Z</news:publication_date>
+            <news:title>The top 10 AI stories of 2025</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/01/traitors-uk-season-4-free.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/31/the-top-10-ai-stories-of-2025.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/01/01/android-apps-202/</loc>
+          <loc>https://majordigest.com/tech/2025/12/30/nvidia-licenses-groqs-inferencing-chip-tech-and-hires-its-leaders-2/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-01-01T10:45:00.000Z</news:publication_date>
-            <news:title>47 awesome Android app discoveries from 2025</news:title>
+            <news:publication_date>2025-12-30T15:22:44.000Z</news:publication_date>
+            <news:title>Nvidia licenses Groq&#8217;s inferencing chip tech and hires its leaders</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/01/android-apps-202.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/30/nvidia-licenses-groqs-inferencing-chip-tech-and-hires-its-leaders-2.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/31/nih-wants-1-million-americans-for-a-study-but-first-must-close-critical-data-security-gaps/</loc>
+          <loc>https://majordigest.com/tech/2025/12/30/meta-buys-high-profile-ai-startup-manus/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-31T21:33:10.000Z</news:publication_date>
-            <news:title>NIH wants 1 million Americans for a study</news:title>
+            <news:publication_date>2025-12-30T09:16:03.000Z</news:publication_date>
+            <news:title>Meta buys high-profile AI startup Manus</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/31/nih-wants-1-million-americans-for-a-study-but-first-must-close-critical-data-security-gaps.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/30/meta-buys-high-profile-ai-startup-manus.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/31/college-football-bowl-games-free-cotton-orange-rose-sugar/</loc>
+          <loc>https://majordigest.com/tech/2025/12/29/top-intel-stories-of-2025/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-31T20:00:00.000Z</news:publication_date>
-            <news:title>College Football Bowl Games Free Streams: TV Channels, Schedule &#38; Preview for Orange, Rose and Sugar Bowl</news:title>
+            <news:publication_date>2025-12-29T10:00:00.000Z</news:publication_date>
+            <news:title>Top Intel stories of 2025</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/31/college-football-bowl-games-free-cotton-orange-rose-sugar.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/29/top-intel-stories-of-2025.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/31/from-robovacs-for-small-homes-to-a-roomba-for-your-lawn-here-are-4-things-we-can-expect-to-see-from-irobot-according-to-the-ceo/</loc>
+          <loc>https://majordigest.com/tech/2025/12/29/using-dism-to-install-windows-updates/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-31T18:02:08.000Z</news:publication_date>
-            <news:title>From robovacs for small homes to a Roomba for your lawn, here are 4 things we can expect to see from iRobot &#8211; according to the CEO</news:title>
+            <news:publication_date>2025-12-29T07:31:00.000Z</news:publication_date>
+            <news:title>Using DISM to install Windows updates</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/31/from-robovacs-for-small-homes-to-a-roomba-for-your-lawn-here-are-4-things-we-can-expect-to-see-from-irobot-according-to-the-ceo.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/12/31/watch-jools-hollands-annual-hootenanny-2025-online/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-31T16:00:00.000Z</news:publication_date>
-            <news:title>How to watch Jools Holland's Annual Hootenanny 2025</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/31/watch-jools-hollands-annual-hootenanny-2025-online.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/12/29/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-29T18:53:52.000Z</news:publication_date>
-            <news:title>SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/29/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/12/29/22-tech-luminaries-we-lost-in-2025/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-29T11:00:00.000Z</news:publication_date>
-            <news:title>22 tech luminaries we lost in 2025</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/29/22-tech-luminaries-we-lost-in-2025.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/12/29/open-ai-seeks-new-head-of-ai-readiness/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-29T09:19:52.000Z</news:publication_date>
-            <news:title>OpenAI looks for a new head of AI preparedness</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/29/open-ai-seeks-new-head-of-ai-readiness.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/12/27/doordash-launches-zesty-ai-app-finding-local-food/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-27T12:30:38.000Z</news:publication_date>
-            <news:title>DoorDash launches Zesty, an AI app for finding local food</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/27/doordash-launches-zesty-ai-app-finding-local-food.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/29/using-dism-to-install-windows-updates.webp</image:loc>
           </image:image>
         </url></urlset>
