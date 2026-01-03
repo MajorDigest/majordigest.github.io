@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/us/2026/01/03/former-baseball-player-lenny-dykstra-faces-drug-charges-after-new-years-day-traffic-stop/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2026-01-03T00:22:06.000Z</news:publication_date>
-            <news:title>Former baseball player Lenny Dykstra faces drug charges after New Year's Day traffic stop</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/us/2026/01/03/former-baseball-player-lenny-dykstra-faces-drug-charges-after-new-years-day-traffic-stop.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/us/2026/01/03/fans-mourn-closure-of-cupcake-vending-machine-company-sprinkles-cupcakes/</loc>
           <news:news>
             <news:publication>
@@ -28,5 +14,19 @@
           </news:news>
           <image:image>
             <image:loc>https://majordigest.com/static14/us/2026/01/03/fans-mourn-closure-of-cupcake-vending-machine-company-sprinkles-cupcakes.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/us/2026/01/02/fbi-says-it-disrupted-a-potential-new-years-eve-attack-inspired-by-islamic-state-group/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-01-02T17:11:22.000Z</news:publication_date>
+            <news:title>FBI says it disrupted a New Year's Eve attack plan inspired by Islamic State group</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static14/us/2026/01/02/fbi-says-it-disrupted-a-potential-new-years-eve-attack-inspired-by-islamic-state-group.webp</image:loc>
           </image:image>
         </url></urlset>
