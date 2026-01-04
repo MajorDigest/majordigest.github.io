@@ -3,20 +3,6 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2026/01/03/not-exactly-a-deepseek-moment-for-ai-accelerators-but-this-chinese-optical-chip-may-well-be-100x-faster-than-nvidias-a100-on-some-tasks/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2026-01-03T21:40:00.000Z</news:publication_date>
-            <news:title>Not exactly a DeepSeek moment for AI accelerators - but this Chinese optical chip may well be 100x faster than Nvidia's A100 on some tasks</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/03/not-exactly-a-deepseek-moment-for-ai-accelerators-but-this-chinese-optical-chip-may-well-be-100x-faster-than-nvidias-a100-on-some-tasks.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
           <loc>https://majordigest.com/tech/2026/01/03/australia-vs-england-5th-ashes-test-free/</loc>
           <news:news>
             <news:publication>
@@ -31,45 +17,87 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/01/03/california-lawmaker-ban-ai-toys/</loc>
+          <loc>https://majordigest.com/tech/2026/01/02/experts-warn-ai-advances-could-lead-to-200-000-banking-jobs-being-cut-this-year/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-01-03T05:00:00.000Z</news:publication_date>
-            <news:title>A California lawmaker wants to ban AI from children&#8217;s toys</news:title>
+            <news:publication_date>2026-01-02T12:35:00.000Z</news:publication_date>
+            <news:title>Experts warn AI advances could lead to 200,000 banking jobs being cut this year</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/03/california-lawmaker-ban-ai-toys.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/01/02/experts-warn-ai-advances-could-lead-to-200-000-banking-jobs-being-cut-this-year.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/01/02/opinion-epa-clears-hurdles-for-ai-industry-yet-snubs-its-power-to-protect-public/</loc>
+          <loc>https://majordigest.com/tech/2026/01/02/samsungs-new-freestyle-portable-projector-nearly-doubles-the-brightness-and-makes-the-image-look-better-on-any-surface/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-01-02T11:45:30.000Z</news:publication_date>
-            <news:title>Opinion: EPA helping AI industry grow but ignoring technology&#8217;s power to protect environment</news:title>
+            <news:publication_date>2026-01-02T12:26:49.000Z</news:publication_date>
+            <news:title>Samsung's new Freestyle+ portable projector nearly doubles the brightness, and makes the image look better on any surface</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/02/opinion-epa-clears-hurdles-for-ai-industry-yet-snubs-its-power-to-protect-public.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/01/02/samsungs-new-freestyle-portable-projector-nearly-doubles-the-brightness-and-makes-the-image-look-better-on-any-surface.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/01/01/how-share-your-estimated-arrival-time-iphone-android/</loc>
+          <loc>https://majordigest.com/tech/2026/01/02/googles-chromium-browser-explained/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-01-01T16:00:37.000Z</news:publication_date>
-            <news:title>How to share your estimated arrival time on iPhone and Android</news:title>
+            <news:publication_date>2026-01-02T11:00:00.000Z</news:publication_date>
+            <news:title>Chromium explained: How the open-source engine drives today&#8217;s browsers</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/01/01/how-share-your-estimated-arrival-time-iphone-android.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/01/02/googles-chromium-browser-explained.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2026/01/01/techradars-year-in-review-2025-the-biggest-trends-in-ai-phones-computing-tvs-gaming-and-more/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-01-01T18:30:03.000Z</news:publication_date>
+            <news:title>TechRadar's Year in Review 2025 &#8211; the biggest trends in AI, phones, computing, TVs, gaming and more</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static14/tech/2026/01/01/techradars-year-in-review-2025-the-biggest-trends-in-ai-phones-computing-tvs-gaming-and-more.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2026/01/01/make-2026-your-most-private-year-yet-removing-broker-data/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-01-01T11:54:44.000Z</news:publication_date>
+            <news:title>Make 2026 your most private year yet by removing broker data</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static14/tech/2026/01/01/make-2026-your-most-private-year-yet-removing-broker-data.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2025/12/31/notebooklm-guide-google-docs/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-12-31T18:30:00.000Z</news:publication_date>
+            <news:title>The complete guide to NotebookLM</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/31/notebooklm-guide-google-docs.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -87,17 +115,17 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/31/heres-how-the-us-economy-fared-under-trump-in-2025/</loc>
+          <loc>https://majordigest.com/tech/2025/12/31/10-simple-cybersecurity-resolutions-safer-2026/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-31T17:32:38.000Z</news:publication_date>
-            <news:title>Here&#8217;s how the US economy fared under Trump in 2025</news:title>
+            <news:publication_date>2025-12-31T16:42:39.000Z</news:publication_date>
+            <news:title>10 simple cybersecurity resolutions for a safer 2026</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/31/heres-how-the-us-economy-fared-under-trump-in-2025.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/31/10-simple-cybersecurity-resolutions-safer-2026.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -115,156 +143,114 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/31/from-integration-pain-to-partnership-gain-how-collaboration-strengthens-cybersecurity/</loc>
+          <loc>https://majordigest.com/tech/2025/12/30/on-a-remote-alaskan-glacier-a-73-year-mission-of-recovery-and-respect/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-31T10:00:00.000Z</news:publication_date>
-            <news:title>From integration pain to partnership gain: How collaboration strengthens cybersecurity</news:title>
+            <news:publication_date>2025-12-30T21:49:43.000Z</news:publication_date>
+            <news:title>On a remote Alaskan glacier, a 73-year mission of recovery and respect</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/31/from-integration-pain-to-partnership-gain-how-collaboration-strengthens-cybersecurity.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/30/on-a-remote-alaskan-glacier-a-73-year-mission-of-recovery-and-respect.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/31/ai-agents-2025-recap-challenges-next-year/</loc>
+          <loc>https://majordigest.com/tech/2025/12/30/meta-buys-startup-manus-in-latest-move-to-advance-its-artificial-intelligence-efforts/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-31T02:14:33.000Z</news:publication_date>
-            <news:title>AI agents 2025 recap: What happened and what to expect next year</news:title>
+            <news:publication_date>2025-12-30T16:02:03.000Z</news:publication_date>
+            <news:title>Meta buys startup Manus in latest move to advance its artificial intelligence efforts</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/31/ai-agents-2025-recap-challenges-next-year.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/30/meta-buys-startup-manus-in-latest-move-to-advance-its-artificial-intelligence-efforts.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/30/openai-tightens-ai-rules-teens-concerns-remain/</loc>
+          <loc>https://majordigest.com/tech/2025/12/30/nvidia-licenses-groqs-inferencing-chip-tech-and-hires-its-leaders/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-30T12:11:54.000Z</news:publication_date>
-            <news:title>OpenAI tightens AI rules for teens but concerns remain</news:title>
+            <news:publication_date>2025-12-30T15:14:19.000Z</news:publication_date>
+            <news:title>Nvidia licenses Groq&#8217;s inferencing chip tech and hires its leaders</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/30/openai-tightens-ai-rules-teens-concerns-remain.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/30/nvidia-licenses-groqs-inferencing-chip-tech-and-hires-its-leaders.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/30/delivering-resilience-and-continuity-for-ai/</loc>
+          <loc>https://majordigest.com/tech/2025/12/30/google-pixel-tips-2025/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-30T10:00:00.000Z</news:publication_date>
-            <news:title>Delivering resilience and continuity for AI</news:title>
+            <news:publication_date>2025-12-30T10:45:00.000Z</news:publication_date>
+            <news:title>The top Google Pixel tips of 2025</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/30/delivering-resilience-and-continuity-for-ai.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/30/google-pixel-tips-2025.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/30/how-to-build-rag-at-scale/</loc>
+          <loc>https://majordigest.com/tech/2025/12/30/cios-top-resolution-should-be-to-create-a-visions-rich-2026/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-30T09:00:00.000Z</news:publication_date>
-            <news:title>How to build RAG at scale</news:title>
+            <news:publication_date>2025-12-30T09:30:00.000Z</news:publication_date>
+            <news:title>CIOs&#8217; top resolution should be to create a visions-rich 2026</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/30/how-to-build-rag-at-scale.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/30/cios-top-resolution-should-be-to-create-a-visions-rich-2026.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/29/understanding-ai-native-cloud-from-microservices-to-model-serving/</loc>
+          <loc>https://majordigest.com/tech/2025/12/29/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition-2/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-29T20:12:28.000Z</news:publication_date>
-            <news:title>Understanding AI-native cloud: from microservices to model-serving</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/29/understanding-ai-native-cloud-from-microservices-to-model-serving.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/12/29/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-29T18:53:52.000Z</news:publication_date>
+            <news:publication_date>2025-12-29T18:58:11.000Z</news:publication_date>
             <news:title>SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/29/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/29/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition-2.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/29/react2shell-anatomy-of-a-max-severity-flaw-that-sent-shockwaves-through-the-web-2/</loc>
+          <loc>https://majordigest.com/tech/2025/12/29/top-intel-stories-of-2025/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-29T11:03:26.000Z</news:publication_date>
-            <news:title>React2Shell: Anatomy of a max-severity flaw that sent shockwaves through the web</news:title>
+            <news:publication_date>2025-12-29T10:00:00.000Z</news:publication_date>
+            <news:title>Top Intel stories of 2025</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/29/react2shell-anatomy-of-a-max-severity-flaw-that-sent-shockwaves-through-the-web-2.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/29/top-intel-stories-of-2025.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2025/12/29/open-ai-seeks-new-head-of-ai-readiness/</loc>
+          <loc>https://majordigest.com/tech/2025/12/28/how-retirement-community-using-virtual-reality-help-residents-build-social-connections/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2025-12-29T09:19:52.000Z</news:publication_date>
-            <news:title>OpenAI looks for a new head of AI preparedness</news:title>
+            <news:publication_date>2025-12-28T20:00:00.000Z</news:publication_date>
+            <news:title>How this retirement community is using virtual reality to help residents build social connections</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/29/open-ai-seeks-new-head-of-ai-readiness.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/12/29/4-new-years-resolutions-for-devops-success/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-29T09:00:00.000Z</news:publication_date>
-            <news:title>4 New Year&#8217;s resolutions for devops success</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/29/4-new-years-resolutions-for-devops-success.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2025/12/29/ais-trust-tax-for-developers/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2025-12-29T09:00:00.000Z</news:publication_date>
-            <news:title>AI&#8217;s trust tax for developers</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2025/12/29/ais-trust-tax-for-developers.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2025/12/28/how-retirement-community-using-virtual-reality-help-residents-build-social-connections.webp</image:loc>
           </image:image>
         </url></urlset>
