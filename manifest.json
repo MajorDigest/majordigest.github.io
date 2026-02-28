@@ -1,0 +1,79 @@
+{
+  "id": "com.majordigest",
+  "short_name": "Major Digest",
+  "name": "Major Digest - Reliable and Comprehensive News Sources",
+  "description": "Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!",
+  "icons": [
+    {
+      "src": "/assets/icons/logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icons/logo-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icons/logo-512x512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "https://majordigest.com/?utm_source=web_app_manifest&utm_medium=homescreen",
+  "related_applications": [
+    { "platform": "webapp", "url": "https://majordigest.com/manifest.json" },
+    {
+      "platform": "chromeos_play",
+      "id": "com.majordigest.android",
+      "url": "https://play.google.com/store/apps/details?id=com.majordigest.android"
+    },
+    {
+      "platform": "play",
+      "id": "com.majordigest.android",
+      "url": "https://play.google.com/store/apps/details?id=com.majordigest.android"
+    }
+  ],
+  "prefer_related_applications": false,
+  "display_override": ["fullscreen", "minimal-ui"],
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "en",
+  "dir": "auto",
+  "scope": "/",
+  "categories": ["news", "magazines"],
+  "iarc_rating_id": "997d79b0-0e40-44ec-8256-6040b2082faf",
+  "screenshots": [
+    {
+      "src": "https://majordigest.com/assets/screenshots/screenshot-home.png",
+      "sizes": "2048x1300",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "Major Digest home page"
+    },
+    {
+      "src": "https://majordigest.com/assets/screenshots/screenshot-sports.png",
+      "sizes": "2048x1300",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "Major Digest sports news"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Terms of Service",
+      "url": "/terms/?utm_source=web_app_manifest&utm_medium=shortcut",
+      "description": "Major Digest Terms of Service"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy/?utm_source=web_app_manifest&utm_medium=shortcut",
+      "description": "Major Digest Privacy Policy"
+    }
+  ]
+}
