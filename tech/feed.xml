@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Sun, 19 Apr 2026 14:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 15:06:17 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,26 +19,49 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>Equinix offering targets automated AI-centric network operations</title>
-          <description><![CDATA[Equinix has introduced Fabric Intelligence, a service designed to automate and optimize network infrastructure as enterprises scale artificial intelligence workloads across multiple distributed locations.]]></description>
-          <guid>https://majordigest.com/tech/2026/04/17/equinix-offering-targets-automated-ai-centric-network-operations/</guid>
-          <link>https://majordigest.com/tech/2026/04/17/equinix-offering-targets-automated-ai-centric-network-operations/</link>
-          <pubDate>Fri, 17 Apr 2026 16:58:32 GMT</pubDate>
+          <title>IPv6 may briefly have accounted for more than half of internet traffic</title>
+          <description><![CDATA[Has IPv6 finally reached its day of glory?
+It’s fair to say that IPv6 has not had the level of take-up expected when the Internet Engineering Task Force (IETF) ratified it back in 1998. Take-up has been agonizingly slow, not reaching 5 percent of traffic until 2014.]]></description>
+          <guid>https://majordigest.com/tech/2026/04/17/ipv6-may-briefly-have-accounted-for-more-than-half-of-internet-traffic/</guid>
+          <link>https://majordigest.com/tech/2026/04/17/ipv6-may-briefly-have-accounted-for-more-than-half-of-internet-traffic/</link>
+          <pubDate>Fri, 17 Apr 2026 17:59:59 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/17/equinix-offering-targets-automated-ai-centric-network-operations.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/17/equinix-offering-targets-automated-ai-centric-network-operations.webp"/>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/17/ipv6-may-briefly-have-accounted-for-more-than-half-of-internet-traffic.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/17/ipv6-may-briefly-have-accounted-for-more-than-half-of-internet-traffic.webp"/>
           <dc:creator>Network World</dc:creator>
         </item>
         <item>
-          <title>How to think about Apple Business</title>
-          <description><![CDATA[Apple Business is aimed at small businesses coalesced around Macs, iPhones, and iPads. If that’s you, and all your systems are made by Apple, the service is likely to be all you need to run a small operation of up to a few dozen seats.]]></description>
-          <guid>https://majordigest.com/tech/2026/04/17/how-to-think-about-apple-business/</guid>
-          <link>https://majordigest.com/tech/2026/04/17/how-to-think-about-apple-business/</link>
-          <pubDate>Fri, 17 Apr 2026 15:43:44 GMT</pubDate>
+          <title>Oracle delivers semantic search without LLMs</title>
+          <description><![CDATA[Oracle says its new Trusted Answer Search can deliver reliable results at scale in the enterprise by scouring a governed set of approved documents using vector search instead of large language models (LLMs) and retrieval-augmented generation (RAG).]]></description>
+          <guid>https://majordigest.com/tech/2026/04/17/oracle-delivers-semantic-search-without-llms/</guid>
+          <link>https://majordigest.com/tech/2026/04/17/oracle-delivers-semantic-search-without-llms/</link>
+          <pubDate>Fri, 17 Apr 2026 17:07:59 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/17/how-to-think-about-apple-business.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/17/how-to-think-about-apple-business.webp"/>
-          <dc:creator>Computer World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/17/oracle-delivers-semantic-search-without-llms.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/17/oracle-delivers-semantic-search-without-llms.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Fox News AI Newsletter: Tech company cuts 1,000 jobs in AI-driven restructuring</title>
+          <description><![CDATA[The Fox News AI Newsletter gives readers the latest AI technology advancements, covering the challenges and opportunities AI presents.]]></description>
+          <guid>https://majordigest.com/tech/2026/04/17/ai-newsletter-tech-company-cuts-1000-jobs-ai-driven-restructuring/</guid>
+          <link>https://majordigest.com/tech/2026/04/17/ai-newsletter-tech-company-cuts-1000-jobs-ai-driven-restructuring/</link>
+          <pubDate>Fri, 17 Apr 2026 16:09:27 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/17/ai-newsletter-tech-company-cuts-1000-jobs-ai-driven-restructuring.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/17/ai-newsletter-tech-company-cuts-1000-jobs-ai-driven-restructuring.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>The stigma around AI in journalism may be easing, but trust is still fragile</title>
+          <description><![CDATA[I tend to write about AI from the perspective of the bleeding edge, looking at how journalists and media companies are using the technology to change the way they work, reach new audiences, and transform their organizations.]]></description>
+          <guid>https://majordigest.com/tech/2026/04/17/the-stigma-around-ai-in-journalism-may-be-easing-but-trust-is-still-fragile/</guid>
+          <link>https://majordigest.com/tech/2026/04/17/the-stigma-around-ai-in-journalism-may-be-easing-but-trust-is-still-fragile/</link>
+          <pubDate>Fri, 17 Apr 2026 16:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/17/the-stigma-around-ai-in-journalism-may-be-easing-but-trust-is-still-fragile.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/17/the-stigma-around-ai-in-journalism-may-be-easing-but-trust-is-still-fragile.webp"/>
+          <dc:creator>Pete Pachal, Fast Company</dc:creator>
         </item>
         <item>
           <title>When cloud giants neglect resilience</title>
@@ -52,15 +75,26 @@
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>OpenAI shifts its focus to business users amid Anthropic pressure</title>
-          <description><![CDATA[The same ChatGPT chatbot that gave OpenAI’s chief financial officer Sarah Friar a tilapia recipe for a recent Sunday night dinner at home is also now doing her most mundane tasks at work like summarizing her emails and Slack messages.]]></description>
-          <guid>https://majordigest.com/tech/2026/04/17/openai-chatgpt-spud-sam-altman-anthropic-mythos/</guid>
-          <link>https://majordigest.com/tech/2026/04/17/openai-chatgpt-spud-sam-altman-anthropic-mythos/</link>
-          <pubDate>Fri, 17 Apr 2026 01:13:12 GMT</pubDate>
+          <title>Inside NTT Research&#8217;s push to commercialize deep tech</title>
+          <description><![CDATA[Since opening in Silicon Valley in 2019, NTT Research has operated as a long-horizon science lab, a dedicated arm of Japan’s telecommunications giant NTT Group, which invests more than $3 billion annually in global R&D.]]></description>
+          <guid>https://majordigest.com/tech/2026/04/16/inside-ntt-researchs-push-to-commercialize-deep-tech/</guid>
+          <link>https://majordigest.com/tech/2026/04/16/inside-ntt-researchs-push-to-commercialize-deep-tech/</link>
+          <pubDate>Thu, 16 Apr 2026 22:41:02 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/17/openai-chatgpt-spud-sam-altman-anthropic-mythos.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/17/openai-chatgpt-spud-sam-altman-anthropic-mythos.webp"/>
-          <dc:creator>Associated Press, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/16/inside-ntt-researchs-push-to-commercialize-deep-tech.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/16/inside-ntt-researchs-push-to-commercialize-deep-tech.webp"/>
+          <dc:creator>Victor Dey, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>AI isn&#8217;t built for all languages and cultures. There&#8217;s a push to fix that</title>
+          <description><![CDATA[Egyptian coder Assem Sabry has long wanted an AI model that represents his culture. The problem is he hasn’t been able to find one. “The AI industry in Egypt . . . doesn’t exist,” Sabry says. So he built his own: Horus, named after the ancient Egyptian god of the sky.]]></description>
+          <guid>https://majordigest.com/tech/2026/04/16/the-global-push-to-rebuild-ai-in-local-languages/</guid>
+          <link>https://majordigest.com/tech/2026/04/16/the-global-push-to-rebuild-ai-in-local-languages/</link>
+          <pubDate>Thu, 16 Apr 2026 17:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/16/the-global-push-to-rebuild-ai-in-local-languages.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/16/the-global-push-to-rebuild-ai-in-local-languages.webp"/>
+          <dc:creator>Chris Stokel-Walker, Fast Company</dc:creator>
         </item>
         <item>
           <title>Younger adult colon cancer deaths are concentrated in people with less education, study says</title>
@@ -71,18 +105,7 @@
           <category>tech</category>
           <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/16/younger-adult-colon-cancer-deaths-are-concentrated-in-people-with-less-education-study-says.webp"/>
           <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/16/younger-adult-colon-cancer-deaths-are-concentrated-in-people-with-less-education-study-says.webp"/>
-          <dc:creator>Mike Stobbe, Associated Press, Local 4</dc:creator>
-        </item>
-        <item>
-          <title>Satellite backhaul service Globalstar has a new, rich owner amid challenging market conditions</title>
-          <description><![CDATA[Globalstar, a mobile satellite services (MSS) operator in which Apple has a 20% stake, on Tuesday announced a merger agreement with Amazon, which, pending regulatory approval, could soon bring direct to device services (D2D) services to Leo, the latter’s low Earth orbit satellite network.]]></description>
-          <guid>https://majordigest.com/tech/2026/04/15/satellite-backhaul-service-globalstar-has-a-new-rich-owner-amid-challenging-market-conditions/</guid>
-          <link>https://majordigest.com/tech/2026/04/15/satellite-backhaul-service-globalstar-has-a-new-rich-owner-amid-challenging-market-conditions/</link>
-          <pubDate>Wed, 15 Apr 2026 04:42:51 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/15/satellite-backhaul-service-globalstar-has-a-new-rich-owner-amid-challenging-market-conditions.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/15/satellite-backhaul-service-globalstar-has-a-new-rich-owner-amid-challenging-market-conditions.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <dc:creator>Mike Stobbe, Associated Press, KPRC 2</dc:creator>
         </item>
         <item>
           <title>GitHub adds Stacked PRs to speed complex code reviews</title>
@@ -96,24 +119,35 @@
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>The hyperscalers are pricing themselves out of AI workloads</title>
-          <description><![CDATA[Large cloud providers still want the market to believe that AI infrastructure is a premium business where customers pay premium prices.]]></description>
-          <guid>https://majordigest.com/tech/2026/04/14/the-hyperscalers-are-pricing-themselves-out-of-ai-workloads/</guid>
-          <link>https://majordigest.com/tech/2026/04/14/the-hyperscalers-are-pricing-themselves-out-of-ai-workloads/</link>
-          <pubDate>Tue, 14 Apr 2026 09:00:00 GMT</pubDate>
+          <title>Why your home Wi-Fi needs more than just a strong password</title>
+          <description><![CDATA[A strong Wi-Fi password is not enough to keep your online activity private. Learn why a VPN is essential to encrypt your connection and block ISP tracking.]]></description>
+          <guid>https://majordigest.com/tech/2026/04/14/why-your-home-wi-fi-needs-more-than-just-strong-password/</guid>
+          <link>https://majordigest.com/tech/2026/04/14/why-your-home-wi-fi-needs-more-than-just-strong-password/</link>
+          <pubDate>Tue, 14 Apr 2026 16:30:21 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/14/the-hyperscalers-are-pricing-themselves-out-of-ai-workloads.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/14/the-hyperscalers-are-pricing-themselves-out-of-ai-workloads.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/14/why-your-home-wi-fi-needs-more-than-just-strong-password.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/14/why-your-home-wi-fi-needs-more-than-just-strong-password.webp"/>
+          <dc:creator>Fox News</dc:creator>
         </item>
         <item>
-          <title>Mastering the dull reality of sexy AI</title>
-          <description><![CDATA[This week in New York, my Oracle team ran workshops for enterprise developers on building retrieval-augmented generation and agentic applications. Interest was so strong that we quickly had to figure out how to double the room’s capacity (much to the fire marshal’s chagrin).]]></description>
-          <guid>https://majordigest.com/tech/2026/04/13/mastering-the-dull-reality-of-sexy-ai/</guid>
-          <link>https://majordigest.com/tech/2026/04/13/mastering-the-dull-reality-of-sexy-ai/</link>
-          <pubDate>Mon, 13 Apr 2026 09:00:00 GMT</pubDate>
+          <title>2026 network outage report and internet health check</title>
+          <description><![CDATA[ThousandEyes, a Cisco company, monitors how ISPs, cloud providers and conferencing services are handling any performance challenges and provides Network World with a weekly roundup of events that impact service delivery.]]></description>
+          <guid>https://majordigest.com/tech/2026/04/14/2026-network-outage-report-and-internet-health-check/</guid>
+          <link>https://majordigest.com/tech/2026/04/14/2026-network-outage-report-and-internet-health-check/</link>
+          <pubDate>Tue, 14 Apr 2026 13:46:13 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/13/mastering-the-dull-reality-of-sexy-ai.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/13/mastering-the-dull-reality-of-sexy-ai.webp"/>
-          <dc:creator>Info World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/14/2026-network-outage-report-and-internet-health-check.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/14/2026-network-outage-report-and-internet-health-check.webp"/>
+          <dc:creator>Network World</dc:creator>
+        </item>
+        <item>
+          <title>Fixing encryption isn&#8217;t enough. Quantum developments put focus on authentication</title>
+          <description><![CDATA[We are now entering the era of fault-tolerant quantum computing. The computers are getting better. The qubits are getting faster and more reliable, and there are more of them.]]></description>
+          <guid>https://majordigest.com/tech/2026/04/14/fixing-encryption-isnt-enough-quantum-developments-put-focus-on-authentication/</guid>
+          <link>https://majordigest.com/tech/2026/04/14/fixing-encryption-isnt-enough-quantum-developments-put-focus-on-authentication/</link>
+          <pubDate>Tue, 14 Apr 2026 08:00:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/04/14/fixing-encryption-isnt-enough-quantum-developments-put-focus-on-authentication.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/04/14/fixing-encryption-isnt-enough-quantum-developments-put-focus-on-authentication.webp"/>
+          <dc:creator>Network World</dc:creator>
         </item></channel></rss>
