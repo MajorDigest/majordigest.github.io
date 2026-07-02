@@ -7,7 +7,7 @@
         <title>Major Digest - Reliable and Comprehensive News Sources: tech</title>
         <description>Get the latest news online at Major Digest, the top online news resource for the most reliable news sources. Stay informed about the world around you!</description>
         <link>https://majordigest.com/?utm_medium=RSS</link>
-        <lastBuildDate>Thu, 02 Jul 2026 08:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 09:06:08 GMT</lastBuildDate>
         <generator>https://majordigest.com/?v=1.1.6</generator>
         <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
         <atom:link rel="self" href="https://majordigest.com/tech/feed.xml" type="application/rss+xml" />
@@ -19,15 +19,38 @@
           <link>https://majordigest.com/?utm_medium=RSS</link>
         </image>
         <item>
-          <title>What Meta, Oracle moves say about data center economics</title>
-          <description><![CDATA[Hyperscalers continue to invest astronomical amounts in data infrastructure for AI workloads, even as they concede that the massive projects may not pan out as planned.]]></description>
-          <guid>https://majordigest.com/tech/2026/07/02/what-meta-oracle-moves-say-about-data-center-economics-2/</guid>
-          <link>https://majordigest.com/tech/2026/07/02/what-meta-oracle-moves-say-about-data-center-economics-2/</link>
-          <pubDate>Thu, 02 Jul 2026 03:11:08 GMT</pubDate>
+          <title>Publishers can&#8217;t control AI answers. They can&#8217;t ignore them either</title>
+          <description><![CDATA[Stop me if you’ve heard this one: Google’s AI Overviews are sometimes wrong. This has been a perennial complaint about the Gemini-written summaries that appear at the top of search results since their debut in mid 2024.
+It also happens to be true.]]></description>
+          <guid>https://majordigest.com/tech/2026/07/01/publishers-cant-control-ai-answers-they-cant-ignore-them-either/</guid>
+          <link>https://majordigest.com/tech/2026/07/01/publishers-cant-control-ai-answers-they-cant-ignore-them-either/</link>
+          <pubDate>Wed, 01 Jul 2026 23:39:27 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/02/what-meta-oracle-moves-say-about-data-center-economics-2.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/02/what-meta-oracle-moves-say-about-data-center-economics-2.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/publishers-cant-control-ai-answers-they-cant-ignore-them-either.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/publishers-cant-control-ai-answers-they-cant-ignore-them-either.webp"/>
+          <dc:creator>Pete Pachal, Fast Company</dc:creator>
+        </item>
+        <item>
+          <title>SnapLogic MCP Builder eases creation of MCP servers</title>
+          <description><![CDATA[SnapLogic has released MCP Builder, a template-based tool designed to help organizations operationalize AI faster by turning existing integration pipelines into agent-ready Model Context Protocol (MCP) servers.]]></description>
+          <guid>https://majordigest.com/tech/2026/07/01/snaplogic-mcp-builder-eases-creation-of-mcp-servers/</guid>
+          <link>https://majordigest.com/tech/2026/07/01/snaplogic-mcp-builder-eases-creation-of-mcp-servers/</link>
+          <pubDate>Wed, 01 Jul 2026 22:51:46 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/snaplogic-mcp-builder-eases-creation-of-mcp-servers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/snaplogic-mcp-builder-eases-creation-of-mcp-servers.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>Zoning authority could be the answer to data center woes, as San Marcos becomes the first Texas city to ban data centers</title>
+          <description><![CDATA[Zoning laws could help ban data centers in Texas cities, but there is state legislation that might get in the way]]></description>
+          <guid>https://majordigest.com/tech/2026/07/01/zoning-authority-could-be-the-answer-to-data-center-woes-as-san-marcos-becomes-the-first-texas-city-to-ban-data-centers/</guid>
+          <link>https://majordigest.com/tech/2026/07/01/zoning-authority-could-be-the-answer-to-data-center-woes-as-san-marcos-becomes-the-first-texas-city-to-ban-data-centers/</link>
+          <pubDate>Wed, 01 Jul 2026 21:05:00 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/zoning-authority-could-be-the-answer-to-data-center-woes-as-san-marcos-becomes-the-first-texas-city-to-ban-data-centers.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/zoning-authority-could-be-the-answer-to-data-center-woes-as-san-marcos-becomes-the-first-texas-city-to-ban-data-centers.webp"/>
+          <dc:creator>Benedict Collins, TechRadar</dc:creator>
         </item>
         <item>
           <title>AWS aims to lower log analytics costs with new analytics engine for managed OpenSearch</title>
@@ -41,37 +64,38 @@
           <dc:creator>Info World</dc:creator>
         </item>
         <item>
-          <title>Network jobs watch: Hiring, skills and certification trends</title>
-          <description><![CDATA[Network and infrastructure roles continue to shift as enterprises adopt technologies such as AI-driven network operations, multicloud networking, zero trust network access (ZTNA), and SD-WAN.]]></description>
-          <guid>https://majordigest.com/tech/2026/07/01/network-jobs-watch-hiring-skills-and-certification-trends/</guid>
-          <link>https://majordigest.com/tech/2026/07/01/network-jobs-watch-hiring-skills-and-certification-trends/</link>
-          <pubDate>Wed, 01 Jul 2026 19:27:42 GMT</pubDate>
+          <title>UBTech launched its first full-size Ultra-Bionic humanoid robot, but what it really wants to do is make robot replicas of loved ones</title>
+          <description><![CDATA[UBTech's new UWorld U1 Series robot is its first fully humanoid bot, and it could eventually be configured to look like a lost loved one — if that's your thing.]]></description>
+          <guid>https://majordigest.com/tech/2026/07/01/ubtech-just-introduced-its-first-full-size-ultra-bionic-humanoid-robot-but-what-it-really-wants-to-do-is-make-robot-replicas-of-loved-ones-thats-a-hard-no/</guid>
+          <link>https://majordigest.com/tech/2026/07/01/ubtech-just-introduced-its-first-full-size-ultra-bionic-humanoid-robot-but-what-it-really-wants-to-do-is-make-robot-replicas-of-loved-ones-thats-a-hard-no/</link>
+          <pubDate>Wed, 01 Jul 2026 18:47:35 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/network-jobs-watch-hiring-skills-and-certification-trends.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/network-jobs-watch-hiring-skills-and-certification-trends.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/ubtech-just-introduced-its-first-full-size-ultra-bionic-humanoid-robot-but-what-it-really-wants-to-do-is-make-robot-replicas-of-loved-ones-thats-a-hard-no.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/ubtech-just-introduced-its-first-full-size-ultra-bionic-humanoid-robot-but-what-it-really-wants-to-do-is-make-robot-replicas-of-loved-ones-thats-a-hard-no.webp"/>
+          <dc:creator>Lance Ulanoff, TechRadar</dc:creator>
         </item>
         <item>
-          <title>Inside the $9 billion Texas startup building a drone armada for the U.S. Navy</title>
-          <description><![CDATA[It was September 2022, and Dino Mavrookas was trying to build the future of U.S. naval power atop an $800 dinghy.]]></description>
-          <guid>https://majordigest.com/tech/2026/07/01/saronic-navy-drone-boat-unmanned-surface-vessels/</guid>
-          <link>https://majordigest.com/tech/2026/07/01/saronic-navy-drone-boat-unmanned-surface-vessels/</link>
-          <pubDate>Wed, 01 Jul 2026 18:00:00 GMT</pubDate>
+          <title>How to watch Belgium vs Senegal: Free Streams, TV Channels &#38; Kick-Off time for FIFA World Cup 2026 as Kevin De Bruyne &#38; Co. eye progress, team news</title>
+          <description><![CDATA[Jeremy Doku returns to the Belgium starting XI for their FIFA World Cup 2026 clash with Senegal. Here's how to watch the last-32 tie for free online and from anywhere.]]></description>
+          <guid>https://majordigest.com/tech/2026/07/01/belgium-vs-senegal-world-cup-2026-free/</guid>
+          <link>https://majordigest.com/tech/2026/07/01/belgium-vs-senegal-world-cup-2026-free/</link>
+          <pubDate>Wed, 01 Jul 2026 17:05:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/saronic-navy-drone-boat-unmanned-surface-vessels.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/saronic-navy-drone-boat-unmanned-surface-vessels.webp"/>
-          <dc:creator>Alex Pasternack, Fast Company</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/belgium-vs-senegal-world-cup-2026-free.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/belgium-vs-senegal-world-cup-2026-free.webp"/>
+          <dc:creator>James Roberts, TechRadar</dc:creator>
         </item>
         <item>
-          <title>Apple signals that the new attack surface is time itself</title>
-          <description><![CDATA[The nature of security threats is changing. AI hasn’t just driven up energy prices and consumer electronics costs, it’s also ushering in a new era of AI-augmented cyberattacks, one where the time between a flaw being discovered and being exploited is shrinking fast.]]></description>
-          <guid>https://majordigest.com/tech/2026/07/01/apple-signals-that-the-new-attack-surface-is-time-itself/</guid>
-          <link>https://majordigest.com/tech/2026/07/01/apple-signals-that-the-new-attack-surface-is-time-itself/</link>
-          <pubDate>Wed, 01 Jul 2026 16:55:18 GMT</pubDate>
+          <title>How to avoid AI in as many places as possible</title>
+          <description><![CDATA[It’s not easy wanting nothing to do with AI these days.
+As a tech advice journalist, I’ve heard from plenty of folks who were perfectly happy with how their apps and operating systems worked before the artificial intelligence boom.]]></description>
+          <guid>https://majordigest.com/tech/2026/07/01/how-to-avoid-ai-in-as-many-places-as-possible/</guid>
+          <link>https://majordigest.com/tech/2026/07/01/how-to-avoid-ai-in-as-many-places-as-possible/</link>
+          <pubDate>Wed, 01 Jul 2026 17:00:00 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/apple-signals-that-the-new-attack-surface-is-time-itself.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/apple-signals-that-the-new-attack-surface-is-time-itself.webp"/>
-          <dc:creator>Computer World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/how-to-avoid-ai-in-as-many-places-as-possible.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/how-to-avoid-ai-in-as-many-places-as-possible.webp"/>
+          <dc:creator>Jared Newman, Fast Company</dc:creator>
         </item>
         <item>
           <title>Windscribe trolls Mullvad's political donation crisis with a 'scandal' of its own</title>
@@ -85,61 +109,6 @@
           <dc:creator>Rene Millman, TechRadar</dc:creator>
         </item>
         <item>
-          <title>Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm</title>
-          <description><![CDATA[The Trump administration has lifted restrictions on artificial intelligence company Anthropic’s latest versions of its Claude chatbot, ending a weekslong ban tied to cybersecurity concerns.]]></description>
-          <guid>https://majordigest.com/tech/2026/07/01/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/</guid>
-          <link>https://majordigest.com/tech/2026/07/01/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/</link>
-          <pubDate>Wed, 01 Jul 2026 14:49:48 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm.webp"/>
-          <dc:creator>Associated Press, Local 4</dc:creator>
-        </item>
-        <item>
-          <title>Your iPhone is about to get more software updates</title>
-          <description><![CDATA[Because of the risks posed by AI cyber-hacking, we're all about to get more frequent Apple security updates.]]></description>
-          <guid>https://majordigest.com/tech/2026/07/01/your-iphone-is-about-to-get-more-software-updates-and-ai-is-the-reason-why/</guid>
-          <link>https://majordigest.com/tech/2026/07/01/your-iphone-is-about-to-get-more-software-updates-and-ai-is-the-reason-why/</link>
-          <pubDate>Wed, 01 Jul 2026 13:40:33 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/your-iphone-is-about-to-get-more-software-updates-and-ai-is-the-reason-why.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/your-iphone-is-about-to-get-more-software-updates-and-ai-is-the-reason-why.webp"/>
-          <dc:creator>Graham Barlow, TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>That free VPN Chrome and Firefox extension may be reading your clipboard every half a second, researchers warn</title>
-          <description><![CDATA[Researchers at Socket found two "VPN Go" browser extensions for Chrome and Firefox that posed as free VPNs while quietly stealing clipboard data through later updates.]]></description>
-          <guid>https://majordigest.com/tech/2026/07/01/that-free-vpn-chrome-and-firefox-extension-may-be-reading-your-clipboard-every-half-a-second-researchers-warn/</guid>
-          <link>https://majordigest.com/tech/2026/07/01/that-free-vpn-chrome-and-firefox-extension-may-be-reading-your-clipboard-every-half-a-second-researchers-warn/</link>
-          <pubDate>Wed, 01 Jul 2026 13:22:10 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/that-free-vpn-chrome-and-firefox-extension-may-be-reading-your-clipboard-every-half-a-second-researchers-warn.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/that-free-vpn-chrome-and-firefox-extension-may-be-reading-your-clipboard-every-half-a-second-researchers-warn.webp"/>
-          <dc:creator>Monica J. White, TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>This new tool can let you ask Claude if that 'too good to be true' online offer is actually a scam</title>
-          <description><![CDATA[Norton's scam detection will let you ask Claude whether an email or online deal looks suspicious without leaving the AI chatbot.]]></description>
-          <guid>https://majordigest.com/tech/2026/07/01/this-new-tool-can-let-you-ask-claude-if-that-too-good-to-be-true-online-offer-is-actually-a-scam/</guid>
-          <link>https://majordigest.com/tech/2026/07/01/this-new-tool-can-let-you-ask-claude-if-that-too-good-to-be-true-online-offer-is-actually-a-scam/</link>
-          <pubDate>Wed, 01 Jul 2026 12:20:00 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/this-new-tool-can-let-you-ask-claude-if-that-too-good-to-be-true-online-offer-is-actually-a-scam.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/this-new-tool-can-let-you-ask-claude-if-that-too-good-to-be-true-online-offer-is-actually-a-scam.webp"/>
-          <dc:creator>Craig Hale, TechRadar</dc:creator>
-        </item>
-        <item>
-          <title>US reverses export restrictions on Anthropic&#8217;s Fable 5, Mythos 5 AI models</title>
-          <description><![CDATA[The US government has reversed export restrictions on Anthropic’s frontier AI models Fable 5 and Mythos 5, allowing the company to resume global access after nearly three weeks of disruption triggered by concerns over the models’ cybersecurity capabilities.]]></description>
-          <guid>https://majordigest.com/tech/2026/07/01/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models-2/</guid>
-          <link>https://majordigest.com/tech/2026/07/01/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models-2/</link>
-          <pubDate>Wed, 01 Jul 2026 11:12:41 GMT</pubDate>
-          <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/07/01/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models-2.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/07/01/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models-2.webp"/>
-          <dc:creator>Computer World</dc:creator>
-        </item>
-        <item>
           <title>5 takeaways from Anthropic&#8217;s big science event</title>
           <description><![CDATA[Even compared to most CEOs of AI companies, Anthropic cofounder and CEO Dario Amodei is known for making jaw-dropping predictions.]]></description>
           <guid>https://majordigest.com/tech/2026/07/01/claude-science/</guid>
@@ -151,14 +120,35 @@
           <dc:creator>Harry McCracken, Fast Company</dc:creator>
         </item>
         <item>
-          <title>IBM unveils sub-1 nanometer chip with nearly 100 billion transistors</title>
-          <description><![CDATA[IBM is showing off a fingernail-size silicon chip that promises to deliver more power, more efficiently, in future computing, communications, and infrastructure deployments. 
-The sub-1 nanometer (nm) chip features a transistor architecture at the 0.7 nm, or 7 angstrom node, IBM says.]]></description>
-          <guid>https://majordigest.com/tech/2026/06/25/ibm-unveils-sub-1-nanometer-chip-with-nearly-100-billion-transistors/</guid>
-          <link>https://majordigest.com/tech/2026/06/25/ibm-unveils-sub-1-nanometer-chip-with-nearly-100-billion-transistors/</link>
-          <pubDate>Thu, 25 Jun 2026 16:20:28 GMT</pubDate>
+          <title>Microsoft unveils Memora to tackle AI agents&#8217; memory problem</title>
+          <description><![CDATA[With AI agents increasingly expected to remember conversations, preferences, and decisions over extended periods, Microsoft Research has developed Memora, a memory system designed to provide more scalable and reliable long-term recall than existing approaches.]]></description>
+          <guid>https://majordigest.com/tech/2026/06/30/microsoft-unveils-memora-to-tackle-ai-agents-memory-problem/</guid>
+          <link>https://majordigest.com/tech/2026/06/30/microsoft-unveils-memora-to-tackle-ai-agents-memory-problem/</link>
+          <pubDate>Tue, 30 Jun 2026 10:20:39 GMT</pubDate>
           <category>tech</category>
-          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/06/25/ibm-unveils-sub-1-nanometer-chip-with-nearly-100-billion-transistors.webp"/>
-          <media:thumbnail url="https://majordigest.com/static14/tech/2026/06/25/ibm-unveils-sub-1-nanometer-chip-with-nearly-100-billion-transistors.webp"/>
-          <dc:creator>Network World</dc:creator>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/06/30/microsoft-unveils-memora-to-tackle-ai-agents-memory-problem.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/06/30/microsoft-unveils-memora-to-tackle-ai-agents-memory-problem.webp"/>
+          <dc:creator>Info World</dc:creator>
+        </item>
+        <item>
+          <title>FBI warns Microsoft users about passwordless scam</title>
+          <description><![CDATA[The FBI warns about Kali365, a phishing scam targeting Microsoft 365 accounts that can bypass multifactor authentication using device code tricks.]]></description>
+          <guid>https://majordigest.com/tech/2026/06/28/fbi-warns-microsoft-users-passwordless-scam/</guid>
+          <link>https://majordigest.com/tech/2026/06/28/fbi-warns-microsoft-users-passwordless-scam/</link>
+          <pubDate>Sun, 28 Jun 2026 13:53:49 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/06/28/fbi-warns-microsoft-users-passwordless-scam.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/06/28/fbi-warns-microsoft-users-passwordless-scam.webp"/>
+          <dc:creator>Fox News</dc:creator>
+        </item>
+        <item>
+          <title>Cyberattacks pose a &#8216;threat to life&#8217; in Australia</title>
+          <description><![CDATA[Australia’s Security Intelligence Organization (ASIO) has uncovered an attack on a critical infrastructure operator’s network. State-sponsored actors had compromised the network and were preparing to sabotage it, according to its director general, Mike Burgess.]]></description>
+          <guid>https://majordigest.com/tech/2026/06/26/cyberattacks-pose-a-threat-to-life-in-australia-2/</guid>
+          <link>https://majordigest.com/tech/2026/06/26/cyberattacks-pose-a-threat-to-life-in-australia-2/</link>
+          <pubDate>Fri, 26 Jun 2026 15:02:33 GMT</pubDate>
+          <category>tech</category>
+          <media:content medium="image" url="https://majordigest.com/static14/tech/2026/06/26/cyberattacks-pose-a-threat-to-life-in-australia-2.webp"/>
+          <media:thumbnail url="https://majordigest.com/static14/tech/2026/06/26/cyberattacks-pose-a-threat-to-life-in-australia-2.webp"/>
+          <dc:creator>Computer World</dc:creator>
         </item></channel></rss>
