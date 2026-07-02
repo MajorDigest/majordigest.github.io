@@ -3,31 +3,45 @@
               xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
               xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
         <url>
-          <loc>https://majordigest.com/tech/2026/07/02/microsoft-struggles-to-address-ai-notetaker-governance-nightmare/</loc>
+          <loc>https://majordigest.com/tech/2026/07/02/what-meta-oracle-moves-say-about-data-center-economics-2/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-07-02T01:11:34.000Z</news:publication_date>
-            <news:title>Microsoft struggles to address AI notetaker governance nightmare</news:title>
+            <news:publication_date>2026-07-02T03:11:08.000Z</news:publication_date>
+            <news:title>What Meta, Oracle moves say about data center economics</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/07/02/microsoft-struggles-to-address-ai-notetaker-governance-nightmare.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/07/02/what-meta-oracle-moves-say-about-data-center-economics-2.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/07/01/zoning-authority-could-be-the-answer-to-data-center-woes-as-san-marcos-becomes-the-first-texas-city-to-ban-data-centers/</loc>
+          <loc>https://majordigest.com/tech/2026/07/01/aws-aims-to-lower-log-analytics-costs-with-new-analytics-engine-for-managed-opensearch/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-07-01T21:05:00.000Z</news:publication_date>
-            <news:title>Zoning authority could be the answer to data center woes, as San Marcos becomes the first Texas city to ban data centers</news:title>
+            <news:publication_date>2026-07-01T20:00:00.000Z</news:publication_date>
+            <news:title>AWS aims to lower log analytics costs with new analytics engine for managed OpenSearch</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/07/01/zoning-authority-could-be-the-answer-to-data-center-woes-as-san-marcos-becomes-the-first-texas-city-to-ban-data-centers.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/07/01/aws-aims-to-lower-log-analytics-costs-with-new-analytics-engine-for-managed-opensearch.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2026/07/01/network-jobs-watch-hiring-skills-and-certification-trends/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-07-01T19:27:42.000Z</news:publication_date>
+            <news:title>Network jobs watch: Hiring, skills and certification trends</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static14/tech/2026/07/01/network-jobs-watch-hiring-skills-and-certification-trends.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -45,17 +59,59 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/07/01/how-to-avoid-ai-in-as-many-places-as-possible/</loc>
+          <loc>https://majordigest.com/tech/2026/07/01/apple-signals-that-the-new-attack-surface-is-time-itself/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-07-01T17:00:00.000Z</news:publication_date>
-            <news:title>How to avoid AI in as many places as possible</news:title>
+            <news:publication_date>2026-07-01T16:55:18.000Z</news:publication_date>
+            <news:title>Apple signals that the new attack surface is time itself</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/07/01/how-to-avoid-ai-in-as-many-places-as-possible.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/07/01/apple-signals-that-the-new-attack-surface-is-time-itself.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2026/07/01/windscribe-trolls-mullvads-political-donation-crisis-with-a-scandal-of-its-own/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-07-01T16:09:46.000Z</news:publication_date>
+            <news:title>Windscribe trolls Mullvad's political donation crisis with a 'scandal' of its own</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static14/tech/2026/07/01/windscribe-trolls-mullvads-political-donation-crisis-with-a-scandal-of-its-own.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2026/07/01/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-07-01T14:49:48.000Z</news:publication_date>
+            <news:title>Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static14/tech/2026/07/01/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm.webp</image:loc>
+          </image:image>
+        </url>
+        <url>
+          <loc>https://majordigest.com/tech/2026/07/01/your-iphone-is-about-to-get-more-software-updates-and-ai-is-the-reason-why/</loc>
+          <news:news>
+            <news:publication>
+              <news:name>Major Digest</news:name>
+              <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2026-07-01T13:40:33.000Z</news:publication_date>
+            <news:title>Your iPhone is about to get more software updates</news:title>
+          </news:news>
+          <image:image>
+            <image:loc>https://majordigest.com/static14/tech/2026/07/01/your-iphone-is-about-to-get-more-software-updates-and-ai-is-the-reason-why.webp</image:loc>
           </image:image>
         </url>
         <url>
@@ -87,72 +143,44 @@
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/07/01/nanoleafs-new-ceiling-light-isnt-a-show-stopper-like-the-philips-skylight-but-it-wins-on-the-smart-home-features-front-and-its-more-affordable/</loc>
+          <loc>https://majordigest.com/tech/2026/07/01/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models-2/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-07-01T11:09:42.000Z</news:publication_date>
-            <news:title>Nanoleaf&#8217;s new ceiling light isn&#8217;t a show-stopper like the Philips Skylight, but it wins on the smart home features front</news:title>
+            <news:publication_date>2026-07-01T11:12:41.000Z</news:publication_date>
+            <news:title>US reverses export restrictions on Anthropic&#8217;s Fable 5, Mythos 5 AI models</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/07/01/nanoleafs-new-ceiling-light-isnt-a-show-stopper-like-the-philips-skylight-but-it-wins-on-the-smart-home-features-front-and-its-more-affordable.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/07/01/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models-2.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/06/30/the-largest-digital-camera-ever-built-begins-decade-long-survey-of-the-universe/</loc>
+          <loc>https://majordigest.com/tech/2026/07/01/claude-science/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-06-30T15:02:05.000Z</news:publication_date>
-            <news:title>The largest digital camera ever built begins decade-long survey of the universe</news:title>
+            <news:publication_date>2026-07-01T09:00:00.000Z</news:publication_date>
+            <news:title>5 takeaways from Anthropic&#8217;s big science event</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/06/30/the-largest-digital-camera-ever-built-begins-decade-long-survey-of-the-universe.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/07/01/claude-science.webp</image:loc>
           </image:image>
         </url>
         <url>
-          <loc>https://majordigest.com/tech/2026/06/30/five-tools-to-bolster-your-ai-coding-stack/</loc>
+          <loc>https://majordigest.com/tech/2026/06/25/ibm-unveils-sub-1-nanometer-chip-with-nearly-100-billion-transistors/</loc>
           <news:news>
             <news:publication>
               <news:name>Major Digest</news:name>
               <news:language>en</news:language>
             </news:publication>
-            <news:publication_date>2026-06-30T09:00:00.000Z</news:publication_date>
-            <news:title>Five tools to bolster your AI coding stack</news:title>
+            <news:publication_date>2026-06-25T16:20:28.000Z</news:publication_date>
+            <news:title>IBM unveils sub-1 nanometer chip with nearly 100 billion transistors</news:title>
           </news:news>
           <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/06/30/five-tools-to-bolster-your-ai-coding-stack.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2026/06/30/kotlin-improves-compile-time-constants/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2026-06-30T09:00:00.000Z</news:publication_date>
-            <news:title>Kotlin improves compile-time constants</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/06/30/kotlin-improves-compile-time-constants.webp</image:loc>
-          </image:image>
-        </url>
-        <url>
-          <loc>https://majordigest.com/tech/2026/06/26/ohio-robot-cop-retires-zero-arrests/</loc>
-          <news:news>
-            <news:publication>
-              <news:name>Major Digest</news:name>
-              <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2026-06-26T17:00:17.000Z</news:publication_date>
-            <news:title>Ohio robot cop retires after zero arrests</news:title>
-          </news:news>
-          <image:image>
-            <image:loc>https://majordigest.com/static14/tech/2026/06/26/ohio-robot-cop-retires-zero-arrests.webp</image:loc>
+            <image:loc>https://majordigest.com/static14/tech/2026/06/25/ibm-unveils-sub-1-nanometer-chip-with-nearly-100-billion-transistors.webp</image:loc>
           </image:image>
         </url></urlset>
