@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en"
+  prefix="og: https://ogp.me/ns#">
+
+<head>
+  <meta charset="utf-8">
+  <title>Create searchable Bluesky bookmarks with R - Major Digest</title>
+  <meta name="description" content="The Bluesky social network is seeping into the mainstream, thanks in part to people unhappy with changes at X (formerly Twitter). “It’s not some untouched paradise, but it’s got a spark of something refreshing,” Jan Beger, global head of AI Advocacy at GE HealthCare, posted on LinkedIn last month.">
+  <link rel="canonical" href="https://majordigest.com/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r/">
+
+  <meta itemprop="name" content="Create searchable Bluesky bookmarks with R - Major Digest">
+  <meta itemprop="description" content="The Bluesky social network is seeping into the mainstream, thanks in part to people unhappy with changes at X (formerly Twitter). “It’s not some untouched paradise, but it’s got a spark of something refreshing,” Jan Beger, global head of AI Advocacy at GE HealthCare, posted on LinkedIn last month.">
+  <link itemprop="url" href="https://majordigest.com/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r/">
+  <meta itemprop="image" content="https://majordigest.com/static11/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r.webp">
+
+  <meta property="og:title" content="Create searchable Bluesky bookmarks with R - Major Digest">
+  <meta property="og:description" content="The Bluesky social network is seeping into the mainstream, thanks in part to people unhappy with changes at X (formerly Twitter). “It’s not some untouched paradise, but it’s got a spark of something refreshing,” Jan Beger, global head of AI Advocacy at GE HealthCare, posted on LinkedIn last month.">
+  <meta property="og:url" content="https://majordigest.com/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r/">
+  <meta property="og:image" content="https://majordigest.com/static11/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Create searchable Bluesky bookmarks with R - Major Digest">
+  <meta name="twitter:description" content="The Bluesky social network is seeping into the mainstream, thanks in part to people unhappy with changes at X (formerly Twitter). “It’s not some untouched paradise, but it’s got a spark of something refreshing,” Jan Beger, global head of AI Advocacy at GE HealthCare, posted on LinkedIn last month.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r/">
+  <meta name="twitter:image" content="https://majordigest.com/static11/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r.webp">
+  <meta name="twitter:image:alt" content="Create searchable Bluesky bookmarks with R - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.5">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.5">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2024-12-19T10:00:21.967Z" itemprop="datePublished">Thursday, December 19, 2024</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Create searchable Bluesky bookmarks with R - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "Create searchable Bluesky bookmarks with R - Major Digest"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Thu, 19 Dec 2024 09:00:00 GMT">
+  <meta itemprop="url" content="/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r/">
+  <h2 itemprop="headline">Create searchable Bluesky bookmarks with R</h2>
+  <div itemprop="articleBody">
+    <img src="/static11/tech/2024/12/19/create-searchable-bluesky-bookmarks-with-r.webp" alt="Create searchable Bluesky bookmarks with R" align="left" itemprop="image" width="400" height="225">
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The Bluesky social network is seeping into the mainstream, thanks in part to people unhappy with changes at X (formerly Twitter). “It’s not some untouched paradise, but it’s got a spark of something refreshing,” Jan Beger, global head of AI Advocacy at GE HealthCare, posted on LinkedIn last month. “Like moving to a new neighborhood where the air feels a little clearer, and people actually wave when they see you.” </p>
+
+
+
+<p>That includes an increasing number of R users, who often use the hashtag #rstats. “Bluesky is taking off! Please join us there with this handy Posit employees starter pack,” Posit (formerly RStudio) wrote in its December newsletter. Starter packs make it easy to find and follow other Bluesky users based on topics and interests, either one by one or with a single click. Any user can create them. (See my companion FAQ on Bluesky with tips for getting started.)</p>
+
+
+
+<p>However, because Bluesky is relatively new (it opened to the general public early this year), some features that are standard on other microblogging platforms aren’t yet available. One of the most sorely missed is “bookmarks” — being able to save a liked post for easy retrieval later. There are a couple of workarounds, either with third-party apps or custom feeds. In addition, thanks to Bluesky’s free API and the atrrr R package, you can use R to save data locally of <em>all</em> your liked posts — and query them however you want. Here’s how.</p>
+
+
+
+<h3 class="wp-block-heading" id="save-and-search-your-bluesky-likes">Save and search your Bluesky likes</h3>
+
+
+
+<p>This project lets you download your Bluesky likes, wrangle the data, save it, and load it into a searchable table. Optionally, you can save the data to a spreadsheet and manually mark the ones you want to consider as bookmarks, so you can then search only those. </p>
+
+
+
+<p>For even more functionality, you can send the results to a generative AI chatbot and ask natural language questions instead of searching for specific words.</p>
+
+
+
+<p>Let’s get started!</p>
+
+
+
+<h3 class="wp-block-heading" id="step-1-install-the-atrrr-r-package">Step 1. Install the atrrr R package</h3>
+
+
+
+<p>I suggest installing the development version of the atrrr R package from GitHub. I typically use the remotes package for installing from GitHub, although there are other options such as devtools or pak.</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+remotes::install_github("JBGruber/atrrr", build_vignettes = TRUE)
+</code>
+</pre>
+
+
+
+
+
+<p>I’ll also be using dplyr, purrr, stringr, tidyr, and rio for data wrangling and DT to optionally display the data in a searchable table. Install those from CRAN, then load them all with the following code.</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+library(atrrr)
+library(dplyr)
+library(purrr)
+library(stringr)
+library(tidyr)
+library(rio)
+library(DT) # optional
+</code>
+</pre>
+
+
+
+
+
+<p>You will need a free Bluesky application password (different from your account password) to request data from the Bluesky API. The first time you make a request via atrrr, the app should helpfully open the correct page on the Bluesky website for you to add an app password, <em>if</em> you’re already logged into Bluesky in your default browser. Or, you can go here to create an app password in advance.</p>
+
+
+
+<p>Either way, when you first use the atrrr package, you’ll be asked to input an application password if there’s not one already stored. Once you do that, a token should be generated and stored in a cache directory at <code>file.path(tools::R_user_dir("atrrr", "cache"), Sys.getenv("BSKY_TOKEN", unset = "token.rds"))</code>. Future requests should access that token automatically.</p>
+
+
+
+<p>You can find more details about Bluesky authentication at the atrrr package website.</p>
+
+
+
+<h3 class="wp-block-heading" id="step-2-download-and-wrangle-your-bluesky-likes">Step 2. Download and wrangle your Bluesky likes</h3>
+
+
+
+<p>The <code>get_actor_likes()</code> function lets you download a user’s likes. Here’s how to download your 100 most recent likes:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+my_recent_likes 
+</code></pre>
+
+
+
+
+
+<p>Note: As of this writing, if you ask for more likes than there actually are, you’ll get an error. If that happens, try a smaller number. (You may end up with a larger number anyway.)</p>
+
+
+
+<p>The <code>get_actor_likes()</code> command above returns a data frame — more specifically a tibble, which is a special type of tidyverse data frame — with 20 columns. However, some of those columns are <em>list columns</em> with nested data, which you can see if you run <code>glimpse(my_recent_likes)</code>. You’ll probably want to extract some information from those.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><p class="imageCredit">IDG</p></div>
+
+
+
+<p>As shown above, each liked post’s text, author_name, author_handle, like_count, and repost_count are arranged in conventional (unnested) columns. However, the timestamp when the post was created is nested inside the posted_data list column, while any URLs mentioned in a post are buried deep within the embed_data column.</p>
+
+
+
+<p>Here’s one way to unnest those columns using the tidyr package’s <code>unnest_wider()</code> function:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+my_recent_likes_cleaned 
+  unnest_wider(post_data, names_sep = "_", names_repair = "unique") |>
+  unnest_wider(embed_data, names_sep = "_", names_repair = "unique") |>
+  unnest_wider(embed_data_external, names_sep = "_", names_repair = "unique")
+</code>
+</pre>
+
+
+
+
+
+<p>That creates a data frame (tibble) with 40 columns. I’ll select and rename the columns I want, and add a TimePulled timestamp column, which could come in handy later. </p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+my_recent_likes_cleaned 
+  select(Post = text, By = author_handle, Name = author_name, CreatedAt = post_data_createdAt, Likes = like_count, Reposts = repost_count, URI = uri, ExternalURL = embed_data_external_uri) |>
+  mutate(TimePulled = Sys.time() )
+</code>
+</pre>
+
+
+
+
+
+<p>Another column that would be useful to have is the URL of each liked post. Note that the existing URI column is in a format like <em>at://did:plc:oky5czdrnfjpqslsw2a5iclo/app.bsky.feed.post/3lbd2ee2qvm2r</em>. But the post URL uses the syntax <em>https://bsky.app/profile/{author_handle}/post/{a portion of the URI}</em>.</p>
+
+
+
+<p>The R code below creates a URL column from the URI and By columns, adding a new PostID column as well for the part of the URI used for the URL. </p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+my_recent_likes_cleaned 
+mutate(PostID = stringr::str_replace(URI, "at.*?post\\/(.*?)$", "\\1"),
+       URL = glue::glue("https://bsky.app/profile/{By}/post/{PostID}") )
+</code>
+</pre>
+
+
+
+
+
+<p>I typically save data like this as Parquet files with the rio package. </p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+rio::export(my_recent_likes_cleaned, "my_likes.parquet")
+</code>
+</pre>
+
+
+
+
+
+<p>You can save the data in a different format, such as an .rds file or a .csv file, simply by changing the file extension in the file name above.</p>
+
+
+
+<h3 class="wp-block-heading" id="step-3-keep-your-bluesky-likes-file-updated">Step 3. Keep your Bluesky likes file updated</h3>
+
+
+
+<p>It’s nice to have a collection of likes as a snapshot in time, but it’s more useful if you can keep it updated. There are probably more elegant ways to accomplish this, but a simple approach is to load the old data, pull some new data, find which rows aren’t in the old data frame, and add them to your old data.</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+previous_my_likes 
+</code></pre>
+
+
+
+
+
+<p>Next, get your recent likes by running all the code we did above, up until saving the likes. Change the limit to what’s appropriate for your level of liking activity.</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+my_recent_likes 
+  unnest_wider(post_data, names_sep = "_", names_repair = "unique") |>
+  unnest_wider(embed_data, names_sep = "_", names_repair = "unique") |>
+  unnest_wider(embed_data_external, names_sep = "_", names_repair = "unique") |>
+  select(Post = text, By = author_handle, Name = author_name, CreatedAt = post_data_createdAt, Likes = like_count, Reposts = repost_count, URI = uri, ExternalURL = embed_data_external_uri) |>
+  mutate(TimePulled = Sys.time() ) |>
+  mutate(PostID = stringr::str_replace(URI, "at.*?post\\/(.*?)$", "\\1"),
+       URL = glue::glue("https://bsky.app/profile/{By}/post/{PostID}") )
+</code>
+</pre>
+
+
+
+
+
+<p>Find the new likes that aren’t already in the existing data: </p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+new_my_likes 
+</code></pre>
+
+
+
+
+
+<p>Combine the new and old data:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+deduped_my_likes 
+</code></pre>
+
+
+
+
+
+<p>And, finally, save the updated data by overwriting the old file: </p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+rio::export(deduped_my_likes, 'my_likes.parquet')
+</code>
+</pre>
+
+
+
+
+
+<h3 class="wp-block-heading" id="step-4-view-and-search-your-data-the-conventional-way">Step 4. View and search your data the conventional way</h3>
+
+
+
+<p>I like to create a version of this data specifically to use in a searchable table. It includes a link at the end of each post’s text to the original post on Bluesky, letting me easily view any images, replies, parents, or threads that aren’t in a post’s plain text. I also remove some columns I don’t need in the table.</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+my_likes_for_table 
+   mutate(
+     Post = str_glue("{Post} <a href="%7BURL%7D" target="_blank" rel="noopener"><strong>>></strong></a>"),
+     ExternalURL = ifelse(!is.na(ExternalURL), str_glue("{substr(ExternalURL, 1, 25)}..."), "")
+    
+     ) |>
+  select(Post, Name, CreatedAt, ExternalURL)
+</code>
+</pre>
+
+
+
+
+
+<p>Here’s one way to create a searchable HTML table of that data, using the DT package:</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+DT::datatable(my_likes_for_table, rownames = FALSE, filter = 'top', escape = FALSE, options = list(pageLength = 25, autoWidth = TRUE, filter = "top", lengthMenu = c(25, 50, 75, 100), searchHighlight = TRUE,
+                  search = list(regex = TRUE)
+                                                                           
+      )
+)
+</code>
+</pre>
+
+
+
+
+
+<p>This table has a table-wide search box at the top right and search filters for each column, so I can search for two terms in my table, such as the #rstats hashtag in the main search bar and then any post where the text contains LLM (the table’s search isn’t case sensitive) in the Post column filter bar. Or, because I enabled regular expression searching with the <code>search = list(regex = TRUE)</code> option, I could use a single regexp lookahead pattern (<code>?=.<em>rstats)(?=.</em>(LLM)</code>) in the search box.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><p class="imageCredit">IDG</p></div>
+
+
+
+<p>Generative AI chatbots like ChatGPT and Claude can be quite good at writing complex regular expressions. And with matching text highlights turned on in the table, it will be easy for you to see whether the regexp is doing what you want.</p>
+
+
+
+<h3 class="wp-block-heading" id="query-your-bluesky-likes-with-an-llm">Query your Bluesky likes with an LLM</h3>
+
+
+
+<p>The simplest free way to use generative AI to query these posts is by uploading the data file to a service of your choice. I’ve had good results with Google’s NotebookLM, which is free and shows you the source text for its answers. NotebookLM has a generous file limit of 500,000 words or 200MB per source, and Google says it won’t train its large language models (LLMs) on your data.</p>
+
+
+
+<p>The query “Someone talked about an R package with science-related color palettes” pulled up the <em>exact</em> post I was thinking of — one which I had liked and then re-posted with my own comments. And I didn’t have to give NotebookLLM my own prompts or instructions to tell it that I wanted to 1) use only that document for answers, and 2) see the source text it used to generate its response. All I had to do was ask my question.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><p class="imageCredit">IDG</p></div>
+
+
+
+<p>I formatted the data to be a bit more useful and less wasteful by limiting CreatedAt to dates without times, keeping the post URL as a separate column (instead of a clickable link with added HTML), and deleting the external URLs column. I saved that slimmer version as a .txt and not .csv file, since NotebookLM doesn’t handle .csv extentions. </p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+my_likes_for_ai 
+   mutate(CreatedAt = substr(CreatedAt, 1, 10)) |>
+  select(Post, Name, CreatedAt, URL)
+
+rio::export(my_likes_for_ai, "my_likes_for_ai.txt")
+</code>
+</pre>
+
+
+
+
+
+<p>After uploading your likes file to NotebookLM, you can ask questions right away once the file is processed.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><p class="imageCredit">IDG</p></div>
+
+
+
+<p>If you really wanted to query the document within R instead of using an external service, one option is the Elmer Assistant, a project on GitHub. It should be fairly straightforward to modify its prompt and source info for your needs. However, I haven’t had great luck running this locally, even though I have a fairly robust Windows PC.</p>
+
+
+
+<h3 class="wp-block-heading" id="update-your-likes-by-scheduling-the-script-to-run-automatically">Update your likes by scheduling the script to run automatically</h3>
+
+
+
+<p>In order to be useful, you’ll need to keep the underlying “posts I’ve liked” data up to date. I run my script manually on my local machine periodically when I’m active on Bluesky, but you can also schedule the script to run automatically every day or once a week. Here are three options:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Run a script locally.</strong> If you’re not too worried about your script always running on an exact schedule, tools such as taskscheduleR for Windows or cronR for Mac or Linux can help you run your R scripts automatically. </li>
+
+
+
+<li><strong>Use GitHub Actions.</strong> Johannes Gruber, the author of the atrrr package, describes how he uses free GitHub Actions to run his R Bloggers Bluesky bot. His instructions can be modified for other R scripts. </li>
+
+
+
+<li><strong>Run a script on a cloud server</strong>. Or you could use an instance on a public cloud such as Digital Ocean plus a cron job. </li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="use-a-spreadsheet-or-r-tool-to-add-bookmarks-and-notes-columns">Use a spreadsheet or R tool to add Bookmarks and Notes columns</h3>
+
+
+
+<p>You may want a version of your Bluesky likes data that doesn’t include every post you’ve liked. Sometimes you may click like just to acknowledge you saw a post, or to encourage the author that people are reading, or because you found the post amusing but otherwise don’t expect you’ll want to find it again.</p>
+
+
+
+<p>However, a caution: It can get onerous to manually mark bookmarks in a spreadsheet if you like a lot of posts, and you need to be committed to keep it up to date. There’s nothing wrong with searching through your entire database of likes instead of curating a subset with “bookmarks.”</p>
+
+
+
+<p>That said, here’s a version of the process I’ve been using. For the initial setup, I suggest using an Excel or .csv file. </p>
+
+
+
+<h3 class="wp-block-heading" id="step-1-import-your-likes-into-a-spreadsheet-and-add-columns">Step 1. Import your likes into a spreadsheet and add columns </h3>
+
+
+
+<p>I’ll start by importing the my_likes.parquet file and adding empty Bookmark and Notes columns, and then saving that to a new file.</p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+my_likes 
+  mutate(Notes = as.character(""), .before = 1) |>
+  mutate(Bookmark = as.character(""), .after = Bookmark)
+
+rio::export(likes_w_bookmarks, "likes_w_bookmarks.xlsx")
+</code>
+</pre>
+
+
+
+
+
+<p>After some experimenting, I opted to have a Bookmark column as characters, where I can add just “T” or “F” in a spreadsheet, and not a logical TRUE or FALSE column. With characters, I don’t have to worry whether R’s Boolean fields will translate properly if I decide to use this data outside of R. The Notes column lets me add text to explain why I might want to find something again.</p>
+
+
+
+<p>Next is the manual part of the process: marking which likes you want to keep as bookmarks. Opening this in a spreadsheet is convenient because you can click and drag F or T down multiple cells at a time. If you have a lot of likes already, this may be tedious! You could decide to mark them all “F” for now and start bookmarking manually going forward, which may be less onerous.</p>
+
+
+
+<p>Save the file manually back to likes_w_bookmarks.xlsx.</p>
+
+
+
+<h3 class="wp-block-heading" id="step-2-keep-your-spreadsheet-in-sync-with-your-likes">Step 2. Keep your spreadsheet in sync with your likes</h3>
+
+
+
+<p>After that initial setup, you’ll want to keep the spreadsheet in sync with the data as it gets updated. Here’s one way to implement that.</p>
+
+
+
+<p>After updating the new deduped_my_likes likes file, create a bookmark check lookup, and then join that with your deduped likes file. </p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+bookmark_check 
+  select(URL, Bookmark, Notes)
+
+my_likes_w_bookmarks 
+  relocate(Bookmark, Notes)
+</code>
+</pre>
+
+
+
+
+
+<p>Now you have a file with the new likes data joined with your existing bookmarks data, with entries at the top having no Bookmark or Notes entries yet. Save that to your spreadsheet file. </p>
+
+
+
+<p>
+</p><pre class="prettyprint">
+<code>
+rio::export(my_likes_w_bookmarks, "likes_w_bookmarks.xlsx")
+</code>
+</pre>
+
+
+
+
+
+<p>An alternative to this somewhat manual and intensive process could be using <code>dplyr::filter()</code> on your deduped likes data frame to remove items you know you won’t want again, such as posts mentioning a favorite sports team or posts on certain dates when you know you focused on a topic you don’t need to revisit.</p>
+
+
+
+<h3 class="wp-block-heading" id="next-steps">Next steps</h3>
+
+
+
+<p>Want to search your own posts as well? You can pull them via the Bluesky API in a similar workflow using atrrr’s <code>get_skeets_authored_by()</code> function. Once you start down this road, you’ll see there’s a lot more you can do. And you’ll likely have company among R users.</p>
+</div></div></div></div>
+  </div>
+  <p>
+    Sources:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/3623509/create-searchable-bluesky-bookmarks-with-r.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Dec 19, 2024, 4:00:00 AM EST</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://t.me/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Telegram" aria-label="Follow us on Telegram"><svg role="img" aria-label="Telegram Logo" width="24px" height="24px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M40.83,8.48c1.14,0,2,1,1.54,2.86l-5.58,26.3c-.39,1.87-1.52,2.32-3.08,1.45L20.4,29.26a.4.4,0,0,1,0-.65L35.77,14.73c.7-.62-.15-.92-1.07-.36L15.41,26.54a.46.46,0,0,1-.4.05L6.82,24C5,23.47,5,22.22,7.23,21.33L40,8.69a2.16,2.16,0,0,1,.83-.21Z"/></svg></a>
+      <a href="https://www.youtube.com/@MajorDigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on YouTube" aria-label="Follow us on YouTube"><svg role="img" aria-label="YouTube Logo" height="24px" width="24px" version="1.1" viewBox="0 0 461.001 461.00" xmlns="http://www.w3.org/2000/svg"><path d="M365.257,67.393H95.744C42.866,67.393,0,110.259,0,163.137v134.728 c0,52.878,42.866,95.744,95.744,95.744h269.513c52.878,0,95.744-42.866,95.744-95.744V163.137 C461.001,110.259,418.135,67.393,365.257,67.393z M300.506,237.056l-126.06,60.123c-3.359,1.602-7.239-0.847-7.239-4.568V168.607 c0-3.774,3.982-6.22,7.348-4.514l126.06,63.881C304.363,229.873,304.298,235.248,300.506,237.056z"/></svg></a>
+      <a href="https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Apple Podcasts" aria-label="Follow us on Apple Podcasts"><svg role="img" aria-label="Apple Podcasts Logo" width="21px" height="21px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M7.12 0c-3.937-0.011-7.131 3.183-7.12 7.12v17.76c-0.011 3.937 3.183 7.131 7.12 7.12h17.76c3.937 0.011 7.131-3.183 7.12-7.12v-17.76c0.011-3.937-3.183-7.131-7.12-7.12zM15.817 3.421c3.115 0 5.932 1.204 8.079 3.453 1.631 1.693 2.547 3.489 3.016 5.855 0.161 0.787 0.161 2.932 0.009 3.817-0.5 2.817-2.041 5.339-4.317 7.063-0.812 0.615-2.797 1.683-3.115 1.683-0.12 0-0.129-0.12-0.077-0.615 0.099-0.792 0.192-0.953 0.64-1.141 0.713-0.296 1.932-1.167 2.677-1.911 1.301-1.303 2.229-2.932 2.677-4.719 0.281-1.1 0.244-3.543-0.063-4.672-0.969-3.595-3.907-6.385-7.5-7.136-1.041-0.213-2.943-0.213-4 0-3.636 0.751-6.647 3.683-7.563 7.371-0.245 1.004-0.245 3.448 0 4.448 0.609 2.443 2.188 4.681 4.255 6.015 0.407 0.271 0.896 0.547 1.1 0.631 0.447 0.192 0.547 0.355 0.629 1.14 0.052 0.485 0.041 0.62-0.072 0.62-0.073 0-0.62-0.235-1.199-0.511l-0.052-0.041c-3.297-1.62-5.407-4.364-6.177-8.016-0.187-0.943-0.224-3.187-0.036-4.052 0.479-2.323 1.396-4.135 2.921-5.739 2.199-2.319 5.027-3.543 8.172-3.543zM16 7.172c0.541 0.005 1.068 0.052 1.473 0.14 3.715 0.828 6.344 4.543 5.833 8.229-0.203 1.489-0.713 2.709-1.619 3.844-0.448 0.573-1.537 1.532-1.729 1.532-0.032 0-0.063-0.365-0.063-0.803v-0.808l0.552-0.661c2.093-2.505 1.943-6.005-0.339-8.296-0.885-0.896-1.912-1.423-3.235-1.661-0.853-0.161-1.031-0.161-1.927-0.011-1.364 0.219-2.417 0.744-3.355 1.672-2.291 2.271-2.443 5.791-0.348 8.296l0.552 0.661v0.813c0 0.448-0.037 0.807-0.084 0.807-0.036 0-0.349-0.213-0.683-0.479l-0.047-0.016c-1.109-0.885-2.088-2.453-2.495-3.995-0.244-0.932-0.244-2.697 0.011-3.625 0.672-2.505 2.521-4.448 5.079-5.359 0.547-0.193 1.509-0.297 2.416-0.281zM15.823 11.156c0.417 0 0.828 0.084 1.131 0.24 0.645 0.339 1.183 0.989 1.385 1.677 0.62 2.104-1.609 3.948-3.631 3.005h-0.015c-0.953-0.443-1.464-1.276-1.475-2.36 0-0.979 0.541-1.828 1.484-2.328 0.297-0.156 0.709-0.235 1.125-0.235zM15.812 17.464c1.319-0.005 2.271 0.463 2.625 1.291 0.265 0.62 0.167 2.573-0.292 5.735-0.307 2.208-0.479 2.765-0.905 3.141-0.589 0.52-1.417 0.667-2.209 0.385h-0.004c-0.953-0.344-1.157-0.808-1.553-3.527-0.452-3.161-0.552-5.115-0.285-5.735 0.348-0.823 1.296-1.285 2.624-1.291z"/></svg></a>
+      <a href="https://podcasters.spotify.com/pod/show/majordigest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Spotify" aria-label="Follow us on Spotify"><svg role="img" aria-label="Spotify Logo" width="28px" height="28px" viewBox="0 -2 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M13.2 20.84c-0.2 0-0.4-0.080-0.56-0.2-1.84-1.6-5.8-1.12-7.2-0.84-0.44 0.12-0.92-0.2-1-0.64-0.12-0.44 0.2-0.88 0.64-1 0.24-0.040 5.8-1.24 8.64 1.2 0.36 0.32 0.4 0.84 0.080 1.2-0.12 0.16-0.36 0.28-0.6 0.28zM14.2 18.44c-0.16 0-0.32-0.040-0.48-0.16-3.36-2.4-8.48-1.080-8.52-1.080-0.44 0.12-0.92-0.16-1.040-0.6s0.16-0.92 0.6-1.040c0.24-0.080 5.92-1.56 9.96 1.32 0.36 0.28 0.48 0.8 0.2 1.16-0.2 0.28-0.44 0.4-0.72 0.4zM15.24 15.72c-0.16 0-0.32-0.040-0.48-0.16-4.44-2.96-10.040-1.040-10.12-1.040-0.44 0.16-0.88-0.080-1.040-0.52s0.080-0.92 0.52-1.080c0.28-0.080 6.48-2.2 11.6 1.24 0.4 0.24 0.48 0.76 0.24 1.16-0.2 0.24-0.48 0.4-0.72 0.4zM9.6 25.6c-5.28 0-9.6-4.32-9.6-9.6s4.32-9.6 9.6-9.6 9.6 4.32 9.6 9.6-4.32 9.6-9.6 9.6zM9.6 8.080c-4.36 0-7.92 3.56-7.92 7.92s3.56 7.92 7.92 7.92 7.92-3.56 7.92-7.92-3.56-7.92-7.92-7.92z"></path></svg></a>
+<!--
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2024&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.5)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.5">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.5" async></script>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasters.spotify.com/pod/show/majordigest/",
+   "name": "Major Digest Podcast - Spotify Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189",
+   "name": "Major Digest Podcast - Apple Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+
+</body>
+</html>
