@@ -1,0 +1,9 @@
+*.back
+.DS_Store
+node_modules/
+tmp/
+.env
+.env.development
+*.log
+slugs.json
+threads.json
