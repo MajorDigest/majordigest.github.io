@@ -1,0 +1,13 @@
+User-agent: AhrefsBot
+User-agent: AhrefsSiteAudit
+Disallow: /assets/images/
+Disallow: /assets/script.js?v=*
+Disallow: /assets/styles.css?v=*
+Disallow: /cdn-cgi/
+
+User-agent: *
+Disallow: /cdn-cgi/
+Allow: /
+
+Sitemap: https://majordigest.com/sitemap.xml
+Host: https://majordigest.com
