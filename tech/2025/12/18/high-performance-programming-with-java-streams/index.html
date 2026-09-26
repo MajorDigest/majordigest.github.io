@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en"
+  prefix="og: https://ogp.me/ns#">
+
+<head>
+  <meta charset="utf-8">
+  <title>High-performance programming with Java streams - Major Digest</title>
+  <meta name="description" content="My recent Java Stream API tutorial introduced Java streams, including how to create your first Java stream and how to build declarative stream pipelines with filtering, mapping, and sorting.">
+  <link rel="canonical" href="https://majordigest.com/tech/2025/12/18/high-performance-programming-with-java-streams/">
+
+  <meta itemprop="name" content="High-performance programming with Java streams - Major Digest">
+  <meta itemprop="description" content="My recent Java Stream API tutorial introduced Java streams, including how to create your first Java stream and how to build declarative stream pipelines with filtering, mapping, and sorting.">
+  <link itemprop="url" href="https://majordigest.com/tech/2025/12/18/high-performance-programming-with-java-streams/">
+  <meta itemprop="image" content="https://majordigest.com/static13/tech/2025/12/18/high-performance-programming-with-java-streams.webp">
+
+  <meta property="og:title" content="High-performance programming with Java streams - Major Digest">
+  <meta property="og:description" content="My recent Java Stream API tutorial introduced Java streams, including how to create your first Java stream and how to build declarative stream pipelines with filtering, mapping, and sorting.">
+  <meta property="og:url" content="https://majordigest.com/tech/2025/12/18/high-performance-programming-with-java-streams/">
+  <meta property="og:image" content="https://majordigest.com/static13/tech/2025/12/18/high-performance-programming-with-java-streams.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="High-performance programming with Java streams - Major Digest">
+  <meta name="twitter:description" content="My recent Java Stream API tutorial introduced Java streams, including how to create your first Java stream and how to build declarative stream pipelines with filtering, mapping, and sorting.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2025/12/18/high-performance-programming-with-java-streams/">
+  <meta name="twitter:image" content="https://majordigest.com/static13/tech/2025/12/18/high-performance-programming-with-java-streams.webp">
+  <meta name="twitter:image:alt" content="High-performance programming with Java streams - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.6">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.6">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2025-12-18T13:00:11.260Z" itemprop="datePublished">Thursday, December 18, 2025</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>High-performance programming with Java streams - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "High-performance programming with Java streams - Major Digest"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Thu, 18 Dec 2025 09:00:00 GMT">
+  <meta itemprop="url" content="/tech/2025/12/18/high-performance-programming-with-java-streams/">
+  <h2 itemprop="headline">High-performance programming with Java streams</h2>
+  <div itemprop="articleBody">
+    <figure>
+      <img src="/static13/tech/2025/12/18/high-performance-programming-with-java-streams.webp" alt="High-performance programming with Java streams" itemprop="image" width="400" height="225"
+        data-src="https://www.infoworld.com/wp-content/uploads/2025/12/4091427-0-25061700-1766048555-shutterstock_519476362-100943303-orig.jpg?quality=50&strip=all">
+      <figcaption>Credit: Info World</figcaption>
+    </figure>
+    
+<div id="remove_no_follow">
+<body><div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>My recent Java Stream API tutorial introduced Java streams, including how to create your first Java stream and how to build declarative stream pipelines with filtering, mapping, and sorting. I also demonstrated how to combine streams, collectors, and optionals, and I provided examples of functional programming with Java streams. If you are just getting started with Java streams, I recommend starting with the introductory tutorial.</p>
+
+
+
+<p>In this tutorial, we go beyond the basics to explore advanced techniques with Java streams. You’ll learn about short-circuiting, parallel execution, virtual threads, and stream gatherers in the Java Stream API. You will also learn how to combine and zip Java streams, and we’ll conclude with a list of best practices for writing efficient, scalable stream code.</p>
+
+
+
+<aside class="sidebar large">
+<h3 id="get-the-code">Get the code</h3>
+<p>See the Java Challengers GitHub repository for the example code presented in this article.</p>
+</aside>
+
+
+
+
+<h3 class="wp-block-heading" id="short-circuiting-with-java-streams">Short-circuiting with Java streams</h3>
+
+
+
+<p>A stream pipeline doesn’t always need to process every element. In some cases, we can use <em>short-circuiting</em>. These are operations that stop the stream processing as soon as a result is determined, saving time and memory.</p>
+
+
+
+<p>Here’s a list of common short-circuiting operations:</p>
+
+
+
+<ul class="wp-block-list">
+<li><code>findFirst()</code> returns the first match and stops.</li>
+
+
+
+<li><code>findAny()</code> returns any match (more efficient in parallel).</li>
+
+
+
+<li><code>anyMatch()</code> / <code>allMatch()</code> / <code>noneMatch()</code> stops the stream once the outcome is known.</li>
+
+
+
+<li><code>limit(n)</code> defines an intermediate operation that processes only the first <em>n</em> elements.</li>
+</ul>
+
+
+
+<p>Here’s an example of short-circuiting operations in a Java stream pipeline:</p>
+
+
+
+<pre class="wp-block-code"><code>import java.util.List;
+
+public class ShortCircuitDemo {
+    public static void main(String[] args) {
+        List<String> names = List.of("Duke", "Tux", "Juggy", "Moby", "Gordon");
+
+        boolean hasLongNames = names.stream()
+                                    .peek(System.out::println)
+                                    .anyMatch(n -> n.length() > 4);
+    }
+}</code></pre>
+
+
+
+<p>The output for this pipeline will be:</p>
+
+
+
+<pre class="wp-block-code"><code>Duke
+Tux
+Juggy</code></pre>
+
+
+
+<p>After <code>"Juggy"</code>, the pipeline stops. That’s because it has served its purpose, so there is no need to evaluate Moby or Gordon. Short-circuiting takes advantage of the laziness of streams to complete work as soon as possible.</p>
+
+
+
+<h3 class="wp-block-heading" id="parallelstreams-leveragingmultiplecores">Parallel streams: Leveraging multiple cores</h3>
+
+
+
+<p>By default, streams run sequentially. When every element can be processed independently and the workload is CPU-intensive, switching to a parallel stream can significantly reduce processing time.</p>
+
+
+
+<p>Behind the scenes, Java uses the ForkJoinPool to split work across CPU cores and merge the partial results when it’s done:</p>
+
+
+
+<pre class="wp-block-code"><code>import java.util.List;
+
+public class ParallelDemo {
+    public static void main(String[] args) {
+        List<String> names = List.of("Duke", "Juggy", "Moby", "Tux", "Dash");
+
+        System.out.println("=== Sequential Stream ===");
+        names.stream()
+             .peek(n -> System.out.println(Thread.currentThread().getName() + " -> " + n))
+             .filter(n -> n.length() > 4)
+             .count();
+
+        System.out.println("\n=== Parallel Stream ===");
+        names.parallelStream()
+             .peek(n -> System.out.println(Thread.currentThread().getName() + " -> " + n))
+             .filter(n -> n.length() > 4)
+             .count();
+    }
+}</code></pre>
+
+
+
+<p>Here, we compare output from sequential and parallel processing in a typical multi-core run:</p>
+
+
+
+<pre class="wp-block-code"><code>=== Sequential Stream ===
+main -> Duke
+main -> Juggy
+main -> Moby
+main -> Tux
+main -> Dash
+
+=== Parallel Stream ===
+ForkJoinPool.commonPool-worker-3 -> Moby
+ForkJoinPool.commonPool-worker-1 -> Juggy
+main -> Duke
+ForkJoinPool.commonPool-worker-5 -> Dash
+ForkJoinPool.commonPool-worker-7 -> Tux
+</code></pre>
+
+
+
+<p>Sequential streams run on a single thread (usually <code>main</code>), while parallel streams distribute work across multiple <code>ForkJoinPool</code> worker threads, typically one per CPU core.</p>
+
+
+
+<p>Use the following to check the number of available cores:</p>
+
+
+
+<pre class="wp-block-code"><code>System.out.println(Runtime.getRuntime().availableProcessors());</code></pre>
+
+
+
+<p>Parallelism produces real performance gains only for CPU-bound, stateless computations on large datasets. For lightweight or I/O-bound operations, the overhead of thread management often outweighs any benefits.</p>
+
+
+
+<h3 class="wp-block-heading" id="sequential-versus-parallelstream-processing">Sequential versus parallel stream processing</h3>
+
+
+
+<p>The program below simulates CPU-intensive work for each element and measures execution time with both sequential and parallel streams:</p>
+
+
+
+<pre class="wp-block-code"><code>import java.util.*;
+import java.util.stream.*;
+import java.time.*;
+
+public class ParallelThresholdDemo {
+    public static void main(String[] args) {
+        List<Integer> sizes = List.of(10_000, 100_000, 1_000_000, 10_000_000);
+
+        for (int size : sizes) {
+            List<Integer> data = IntStream.range(0, size).boxed().toList();
+
+            System.out.printf("%nData size: %,d%n", size);
+            System.out.printf("Sequential: %d ms%n",
+                time(() -> data.stream()
+                               .mapToLong(ParallelThresholdDemo::cpuWork)
+                               .sum()));
+            System.out.printf("Parallel:   %d ms%n",
+                time(() -> data.parallelStream()
+                               .mapToLong(ParallelThresholdDemo::cpuWork)
+                               .sum()));
+        }
+    }
+
+    static long cpuWork(long n) {
+        long r = 0;
+        for (int i = 0; i < 200; i++) r += Math.sqrt(n + i);
+        return r;
+    }
+
+    static long time(Runnable task) {
+        Instant start = Instant.now();
+        task.run();
+        return Duration.between(start, Instant.now()).toMillis();
+    }
+}</code></pre>
+
+
+
+<p>Now let’s look at some results. Here’s a snapshot after running both sequential and parallel streams on an Intel Core i9 (13th Gen) processor with Java 25:</p>
+
+
+
+
+
+
+
+<p>At small scales (10,000 elements), the parallel version is slightly slower. This is because splitting, scheduling, and merging threads carries a fixed overhead. However, as the per-element workload grows, that overhead becomes negligible, and parallel processing begins to dominate.</p>
+
+
+
+<p>Performance thresholds also differ across processors and architectures:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Intel Core i7/i9</strong> or <strong>AMD Ryzen 7/9</strong>: Parallelism pays off once you process hundreds of thousands of elements or heavier computations. Coordination costs are higher, so smaller datasets run faster with sequential processing.</li>
+
+
+
+<li><strong>Apple Silicon (M1/M2/M3)</strong>: Thanks to unified memory and highly efficient thread scheduling, parallel streams often become faster even for <em>mid-size datasets</em>, typically after a few hundred to a few thousand elements, depending on the work per element.</li>
+</ul>
+
+
+
+<p>The number of elements isn’t the key variable; what you want to watch is the amount of CPU work per element. If computation is trivial, sequential execution remains faster.</p>
+
+
+
+<h3 class="wp-block-heading" id="guidelines-for-using-parallelstreams">Guidelines for using parallel streams</h3>
+
+
+
+<p>If each element involves significant math, parsing, or compression, parallel streams can easily deliver five to nine times the processing speed of sequential streams. Keep these guidelines in mind when deciding whether to use parallel streams or stick with sequential processing:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Cheap, per-element work requires tens of thousands of elements before parallelism pays off.</li>
+
+
+
+<li>Benefits appear much sooner for expensive, per-element work.</li>
+
+
+
+<li>Use sequential processing for I/O or order-sensitive tasks.</li>
+
+
+
+<li>Pay attention to hardware and workload specs—these will define where parallelism begins to make a difference.</li>
+</ul>
+
+
+
+<p>Parallel streams shine when each element is independent, computation is heavy, and there’s enough data to keep all the CPU cores busy. Used deliberately, parallel streams can unlock large performance gains with minimal code changes.</p>
+
+
+
+<h3 class="wp-block-heading" id="performance-tuning-parallel-streams">Performance-tuning parallel streams</h3>
+
+
+
+<p>Parallel streams use the common <code>ForkJoinPool</code>, which, by default, creates enough threads to fully utilize every available CPU core. In most situations, this default configuration performs well and requires no adjustment. However, for benchmarking or fine-grained performance testing, you can run a parallel stream inside a custom <code>ForkJoinPool</code>:</p>
+
+
+
+<pre class="wp-block-code"><code>import java.util.concurrent.*;
+import java.util.stream.IntStream;
+
+public class ParallelTuningExample {
+    public static void main(String[] args) {
+        ForkJoinPool pool = new ForkJoinPool(8);
+
+        long result = pool.submit(() ->
+                IntStream.range(0, 1_000_000)
+                         .parallel()
+                         .sum()
+        ).join();
+    }
+}</code></pre>
+
+
+
+<p>Using a dedicated <code>ForkJoinPool</code> lets you experiment with different levels of parallelism to measure their impact on performance, without affecting other parts of the application.</p>
+
+
+
+<aside class="sidebar large">
+<h3 id="avoid-changing-the-global-setting">Avoid changing the global setting</h3>
+<p>The global setting <code>system.setProperty("java.util.concurrent.ForkJoinPool.
+common.parallelism", "8")</code> modifies the behavior of the common pool across the entire JVM, which can lead to unpredictable performance in unrelated code.</p>
+</aside>
+
+
+
+
+<p><strong>Remember</strong>: Parallel streams deliver benefits only for <em>CPU-bound</em>, <em>stateless</em> operations where each element can run independently in parallel. For small datasets or I/O-bound work, the overhead of parallelism usually outweighs its benefits. In these cases, sequential streams are faster and simpler.</p>
+
+
+
+<h3 class="wp-block-heading" id="streamsandvirtualthreadsjava21">Streams and virtual threads (Java 21+)</h3>
+
+
+
+<p>Virtual threads, introduced in Java 21 via Project Loom, have redefined Java concurrency. While parallel streams focus on CPU-bound parallelism, virtual threads are designed for massive I/O concurrency.</p>
+
+
+
+<p>A <em>virtual thread</em> is a lightweight, user-mode thread that does not block an underlying operating-system thread while waiting. This means you can run thousands—or even millions—of blocking tasks efficiently. Here’s an example:</p>
+
+
+
+<pre class="wp-block-code"><code>import java.util.concurrent.*;
+import java.util.stream.IntStream;
+
+public class ThreadPerformanceComparison {
+    public static void main(String[] args) throws Exception {
+        int tasks = 1000;
+
+        run("Platform Threads (FixedPool)",
+                Executors.newFixedThreadPool(100), tasks);
+
+        run("Virtual Threads (Per Task)",
+                Executors.newVirtualThreadPerTaskExecutor(), tasks);
+    }
+
+    static void run(String label, ExecutorService executor, int tasks) throws Exception {
+        long start = System.nanoTime();
+
+        var futures = IntStream.range(0, tasks)
+                .mapToObj(i -> executor.submit(() -> sleep(500)))
+                .toList();
+
+        // Wait for all to complete
+        for (var future : futures) {
+            future.get();
+        }
+
+        System.out.printf("%s finished in %.3f s%n",
+                label, (System.nanoTime() - start) / 1_000_000_000.0);
+
+        executor.shutdown();
+    }
+
+    static void sleep(long millis) {
+        try {
+            Thread.sleep(millis);
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+        }
+    }
+}
+</code></pre>
+
+
+
+<p>Output example: <code>Platform Threads ≈ 5 s, Virtual Threads ≈ 0.6 s</code>.</p>
+
+
+
+<p>You probably noticed there are two executors in this example. Here’s how each one works:</p>
+
+
+
+<p><code>newFixedThreadPool(100)</code>:  Creates an executor backed by 100 platform threads (real operating system threads). At most, 100 tasks run concurrently, while additional tasks wait in the queue until a thread is available. Each platform thread stays fully blocked during <code>Thread.sleep()</code> or I/O operations, which means those 100 threads can’t do other work until the blocking call completes.</p>
+
+
+
+<p><code>newVirtualThreadPerTaskExecutor()</code>: Creates one virtual thread per task. Virtual threads are cheap, user-mode threads that <em>don’t tie up an operating system thread</em> when blocked. An analogy would be a few delivery trucks (platform threads) handling millions of packages (virtual threads). Only a handful of trucks drive at once, but millions of deliveries happen efficiently over time.</p>
+
+
+
+<p>In the example, each task simulates blocking I/O with <code>Thread.sleep(500)</code>.</p>
+
+
+
+<p>If we were to run <code>newFixedThreadPool(100)</code>:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Only 100 tasks run concurrently.</li>
+
+
+
+<li>1000 tasks ÷ 100 threads = 10 batches × 0.5 s ≈ 5 s total.</li>
+</ul>
+
+
+
+<p>If we were to run <code>newVirtualThreadPerTaskExecutor()</code>:</p>
+
+
+
+<ul class="wp-block-list">
+<li>All 1,000 tasks run at once.</li>
+
+
+
+<li>Every task sleeps for 500 ms concurrently.</li>
+
+
+
+<li>Total ≈ 0.5–0.6 s—just the simulated delay, no waiting queue.</li>
+</ul>
+
+
+
+<p>Virtual threads drastically reduce overhead by releasing their underlying operating-system threads whenever blocking occurs, allowing vast I/O concurrency with minimal resource cost. Both parallel streams and virtual threads offer performance benefits, but you have to know when to use them. As a rule of thumb:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Use <em>parallel streams</em> for CPU-bound workloads that benefit from data parallelism.</li>
+
+
+
+<li>Use <em>virtual threads</em> for I/O-bound tasks where many concurrent operations block on external resources.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="stream-gatherers-java-22">Stream gatherers (Java 22+)</h3>
+
+
+
+<p>Before Java 22, streams were great for stateless transformations like filtering or mapping. But when you needed logic that depended on earlier elements—things like sliding windows, running totals, and conditional grouping—you had to abandon streams entirely and write imperative loops with mutable state. That changed with the introduction of stream gatherers.</p>
+
+
+
+<p>Before stream gatherers, let’s say we wanted to calculate a moving average over a sliding window of three elements:</p>
+
+
+
+<pre class="wp-block-code"><code>List<Integer> data = List.of(1, 2, 3, 4, 5, 6);
+List<Double> movingAverages = new ArrayList<>();
+Deque<Integer> window = new ArrayDeque<>();
+
+for (int value : data) {
+    window.add(value);
+    if (window.size() > 3) {
+        window.removeFirst();
+    }
+    
+    if (window.size() == 3) {  // Only calculate when window is full
+        double avg = window.stream()
+            .mapToInt(Integer::intValue)
+            .average()
+            .orElse(0.0);
+        movingAverages.add(avg);
+    }
+}
+
+System.out.println(movingAverages); // [2.0, 3.0, 4.0, 5.0]</code></pre>
+
+
+
+<p>This approach works but it breaks the declarative, lazy nature of streams. In this code, we are manually managing state, mixing imperative and functional styles, and we’ve lost composability.</p>
+
+
+
+<p>Now consider the same example using <code>Stream.gather()</code> and built-in gatherers. Using stream gatherers lets us perform stateful operations directly inside the stream pipeline while keeping it lazy and readable:</p>
+
+
+
+<pre class="wp-block-code"><code>List<Double> movingAverages = Stream.of(1, 2, 3, 4, 5, 6)
+    .gather(Gatherers.windowSliding(3))
+    .map(window -> window.stream()
+        .mapToInt(Integer::intValue)
+        .average()
+        .orElse(0.0))
+    .toList();
+
+System.out.println(movingAverages); // [2.0, 3.0, 4.0, 5.0]</code></pre>
+
+
+
+<p>As you can see, <code>windowSliding(3)</code> waits until it has three elements, then emits <code>[1,2,3]</code> and slides forward by one: <code>[2,3,4]</code>, <code>[3,4,5]</code>, <code>[4,5,6]</code>. The gatherer manages this state automatically, so we can express complex data flows cleanly without manual buffering or loops.</p>
+
+
+
+<h3 class="wp-block-heading" id="built-in-gatherers">Built-in gatherers</h3>
+
+
+
+<p>The Stream Gatherers API includes the following built-in gatherers:</p>
+
+
+
+<ul class="wp-block-list">
+<li><code>windowFixed(n)</code>: Used for non-overlapping batches of <em>n</em> elements.</li>
+
+
+
+<li><code>windowSliding(n)</code>: Used to create overlapping windows for moving averages or trend detection.</li>
+
+
+
+<li><code>scan(seed, acc)</code>: Used for running totals or cumulative metrics.</li>
+
+
+
+<li><code>mapConcurrent(maxConcurrency, mapper)</code>: Supports concurrent mapping with controlled parallelism.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="collectorsvs-gatherers">Collectors vs. gatherers</h3>
+
+
+
+<p>In my introduction to Java streams, you learned about collectors, which serve a similar purpose to gatherers but operate differently. <em>Collectors</em> aggregate the entire stream into one result at the end, such as a list or sum, while <em>gatherers</em> operate during stream processing, maintaining context between elements. An easy way to remember the difference between the two features is that collectors <em>finalize data once</em>, whereas gatherers <em>reshape it as it flows</em>.</p>
+
+
+
+<h3 class="wp-block-heading" id="examplerunningtotalwithstreams-gatherers">Example: Running total with streams gatherers</h3>
+
+
+
+<p>The following example demonstrates the benefits of stream gatherers:</p>
+
+
+
+<pre class="wp-block-code"><code>Stream.of(2, 4, 6, 8)
+    .gather(Gatherers.scan(() -> 0, Integer::sum))
+    .forEach(System.out::println);
+// 2, 6, 12, 20</code></pre>
+
+
+
+<p>Each emitted value includes the cumulative sum so far. The stream remains lazy and free of side-effects.</p>
+
+
+
+<p>Like any technology, stream gatherers have their place. Use stream gatherers when the following conditions are true:</p>
+
+
+
+<ul class="wp-block-list">
+<li>The application involves sliding or cumulative analytics.</li>
+
+
+
+<li>The application produces metrics or transformations that depend on previous elements.</li>
+
+
+
+<li>The operation includes sequence analysis or pattern recognition.</li>
+
+
+
+<li>The code requires manual state with clean, declarative logic.</li>
+</ul>
+
+
+
+<p>Gatherers restore the full expressive power of Java streams for stateful operations while keeping pipelines readable, efficient, and parallel-friendly.</p>
+
+
+
+<h3 class="wp-block-heading" id="combining-and-zipping-streams">Combining and zipping streams</h3>
+
+
+
+<p>Sometimes you need to combine data from multiple streams; an example is merging two sequences element by element. While the Stream API doesn’t yet include a built-in <code>zip()</code> method, you can easily implement one:</p>
+
+
+
+<pre class="wp-block-code"><code>import java.util.*;
+import java.util.function.BiFunction;
+import java.util.stream.*;
+
+public class StreamZipDemo {
+    public static <A, B, C> Stream<C> zip(
+            Stream<A> a, Stream<B> b, BiFunction<A, B, C> combiner) {
+
+        Iterator<A> itA = a.iterator();
+        Iterator<B> itB = b.iterator();
+
+        Iterable<C> iterable = () -> new Iterator<>() {
+            public boolean hasNext() {
+                return itA.hasNext() && itB.hasNext();
+            }
+            public C next() {
+                return combiner.apply(itA.next(), itB.next());
+            }
+        };
+
+        return StreamSupport.stream(iterable.spliterator(), false);
+    }
+    
+    // Usage:
+    public static void main(String[] args) {
+        zip(Stream.of(1, 2, 3),
+            Stream.of("Duke", "Juggy", "Moby"),
+            (n, s) -> n + " → " + s)
+            .forEach(System.out::println);
+    }
+}
+</code></pre>
+
+
+
+<p>The output will be:</p>
+
+
+
+<pre class="wp-block-code"><code>1 → Duke
+2 → Juggy
+3 → Moby</code></pre>
+
+
+
+<p>Zipping pairs elements from two streams until one runs out, which is perfect for combining related data sequences.</p>
+
+
+
+<h3 class="wp-block-heading" id="pitfallsandbestpractices-with-java-streams">Pitfalls and best practices with Java streams</h3>
+
+
+
+<p>We’ll conclude with an overview of pitfalls to avoid when working with streams, and some best practices to enhance streams performance and efficiency.</p>
+
+
+
+<h3 class="wp-block-heading" id="pitfalls-to-avoid-when-using-java-streams">Pitfalls to avoid when using Java streams</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Overusing streams: Not every loop should be a stream.</li>
+
+
+
+<li>Side-effects in <code>map</code>/<code>filter</code>: Retain pure functions.</li>
+
+
+
+<li>Forgetting terminal operations: Remember that streams are lazy.</li>
+
+
+
+<li>Parallel misuse: Helps CPU-bound work but hurts I/O-bound work.</li>
+
+
+
+<li>Reusing consumed streams: One traversal only.</li>
+
+
+
+<li>Collector misuse: Avoid shared mutable state.</li>
+
+
+
+<li>Manual state hacks: Use gatherers instead.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="bestpractices-when-using-java-streams">Best practices when using Java streams</h3>
+
+
+
+<p>To maximize the benefits of Java streams, apply the following best practices:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Keep pipelines small and readable.</li>
+
+
+
+<li>Prefer primitive streams for numbers.</li>
+
+
+
+<li>Use <code>peek()</code> only for debugging.</li>
+
+
+
+<li>Filter early, before expensive ops.</li>
+
+
+
+<li>Favor built-in gatherers for stateful logic.</li>
+
+
+
+<li>Avoid parallel streams for I/O; use virtual threads instead.</li>
+
+
+
+<li>Use the Java Microbenchmark Harness or profilers to measure performance before optimizing your code.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="conclusion">Conclusion</h3>
+
+
+
+<p>The advanced Java Stream API techniques in this tutorial will help you unlock expressive, high-performance data processing in modern Java. Short-circuiting saves computation; parallel streams use multiple cores; virtual threads handle massive I/O; and gatherers bring stateful transformations without breaking the declarative style in your Java code.</p>
+
+
+
+<p>Combine these techniques wisely by testing, measuring, and reasoning about your workload, and your streams will remain concise, scalable, and as smooth as Duke surfing the digital wave!</p>
+
+
+
+<p><strong>Now it’s your turn:</strong> Take one of the examples in the Java Challengers GitHub repository, tweak it, and run your own benchmarks or experiments. Practice is the real challenge—and that’s how you’ll master modern Java streams.</p>
+</div></div></div>
+</body></div>
+  </div>
+  <p>
+    Sources:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/4091427/high-performance-programming-with-java-streams.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Dec 18, 2025, 4:00:00 AM EST</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://t.me/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Telegram" aria-label="Follow us on Telegram"><svg role="img" aria-label="Telegram Logo" width="24px" height="24px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M40.83,8.48c1.14,0,2,1,1.54,2.86l-5.58,26.3c-.39,1.87-1.52,2.32-3.08,1.45L20.4,29.26a.4.4,0,0,1,0-.65L35.77,14.73c.7-.62-.15-.92-1.07-.36L15.41,26.54a.46.46,0,0,1-.4.05L6.82,24C5,23.47,5,22.22,7.23,21.33L40,8.69a2.16,2.16,0,0,1,.83-.21Z"/></svg></a>
+<!--
+      <a href="https://www.youtube.com/@MajorDigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on YouTube" aria-label="Follow us on YouTube"><svg role="img" aria-label="YouTube Logo" height="24px" width="24px" version="1.1" viewBox="0 0 461.001 461.00" xmlns="http://www.w3.org/2000/svg"><path d="M365.257,67.393H95.744C42.866,67.393,0,110.259,0,163.137v134.728 c0,52.878,42.866,95.744,95.744,95.744h269.513c52.878,0,95.744-42.866,95.744-95.744V163.137 C461.001,110.259,418.135,67.393,365.257,67.393z M300.506,237.056l-126.06,60.123c-3.359,1.602-7.239-0.847-7.239-4.568V168.607 c0-3.774,3.982-6.22,7.348-4.514l126.06,63.881C304.363,229.873,304.298,235.248,300.506,237.056z"/></svg></a>
+      <a href="https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Apple Podcasts" aria-label="Follow us on Apple Podcasts"><svg role="img" aria-label="Apple Podcasts Logo" width="21px" height="21px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M7.12 0c-3.937-0.011-7.131 3.183-7.12 7.12v17.76c-0.011 3.937 3.183 7.131 7.12 7.12h17.76c3.937 0.011 7.131-3.183 7.12-7.12v-17.76c0.011-3.937-3.183-7.131-7.12-7.12zM15.817 3.421c3.115 0 5.932 1.204 8.079 3.453 1.631 1.693 2.547 3.489 3.016 5.855 0.161 0.787 0.161 2.932 0.009 3.817-0.5 2.817-2.041 5.339-4.317 7.063-0.812 0.615-2.797 1.683-3.115 1.683-0.12 0-0.129-0.12-0.077-0.615 0.099-0.792 0.192-0.953 0.64-1.141 0.713-0.296 1.932-1.167 2.677-1.911 1.301-1.303 2.229-2.932 2.677-4.719 0.281-1.1 0.244-3.543-0.063-4.672-0.969-3.595-3.907-6.385-7.5-7.136-1.041-0.213-2.943-0.213-4 0-3.636 0.751-6.647 3.683-7.563 7.371-0.245 1.004-0.245 3.448 0 4.448 0.609 2.443 2.188 4.681 4.255 6.015 0.407 0.271 0.896 0.547 1.1 0.631 0.447 0.192 0.547 0.355 0.629 1.14 0.052 0.485 0.041 0.62-0.072 0.62-0.073 0-0.62-0.235-1.199-0.511l-0.052-0.041c-3.297-1.62-5.407-4.364-6.177-8.016-0.187-0.943-0.224-3.187-0.036-4.052 0.479-2.323 1.396-4.135 2.921-5.739 2.199-2.319 5.027-3.543 8.172-3.543zM16 7.172c0.541 0.005 1.068 0.052 1.473 0.14 3.715 0.828 6.344 4.543 5.833 8.229-0.203 1.489-0.713 2.709-1.619 3.844-0.448 0.573-1.537 1.532-1.729 1.532-0.032 0-0.063-0.365-0.063-0.803v-0.808l0.552-0.661c2.093-2.505 1.943-6.005-0.339-8.296-0.885-0.896-1.912-1.423-3.235-1.661-0.853-0.161-1.031-0.161-1.927-0.011-1.364 0.219-2.417 0.744-3.355 1.672-2.291 2.271-2.443 5.791-0.348 8.296l0.552 0.661v0.813c0 0.448-0.037 0.807-0.084 0.807-0.036 0-0.349-0.213-0.683-0.479l-0.047-0.016c-1.109-0.885-2.088-2.453-2.495-3.995-0.244-0.932-0.244-2.697 0.011-3.625 0.672-2.505 2.521-4.448 5.079-5.359 0.547-0.193 1.509-0.297 2.416-0.281zM15.823 11.156c0.417 0 0.828 0.084 1.131 0.24 0.645 0.339 1.183 0.989 1.385 1.677 0.62 2.104-1.609 3.948-3.631 3.005h-0.015c-0.953-0.443-1.464-1.276-1.475-2.36 0-0.979 0.541-1.828 1.484-2.328 0.297-0.156 0.709-0.235 1.125-0.235zM15.812 17.464c1.319-0.005 2.271 0.463 2.625 1.291 0.265 0.62 0.167 2.573-0.292 5.735-0.307 2.208-0.479 2.765-0.905 3.141-0.589 0.52-1.417 0.667-2.209 0.385h-0.004c-0.953-0.344-1.157-0.808-1.553-3.527-0.452-3.161-0.552-5.115-0.285-5.735 0.348-0.823 1.296-1.285 2.624-1.291z"/></svg></a>
+      <a href="https://podcasters.spotify.com/pod/show/majordigest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Spotify" aria-label="Follow us on Spotify"><svg role="img" aria-label="Spotify Logo" width="28px" height="28px" viewBox="0 -2 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M13.2 20.84c-0.2 0-0.4-0.080-0.56-0.2-1.84-1.6-5.8-1.12-7.2-0.84-0.44 0.12-0.92-0.2-1-0.64-0.12-0.44 0.2-0.88 0.64-1 0.24-0.040 5.8-1.24 8.64 1.2 0.36 0.32 0.4 0.84 0.080 1.2-0.12 0.16-0.36 0.28-0.6 0.28zM14.2 18.44c-0.16 0-0.32-0.040-0.48-0.16-3.36-2.4-8.48-1.080-8.52-1.080-0.44 0.12-0.92-0.16-1.040-0.6s0.16-0.92 0.6-1.040c0.24-0.080 5.92-1.56 9.96 1.32 0.36 0.28 0.48 0.8 0.2 1.16-0.2 0.28-0.44 0.4-0.72 0.4zM15.24 15.72c-0.16 0-0.32-0.040-0.48-0.16-4.44-2.96-10.040-1.040-10.12-1.040-0.44 0.16-0.88-0.080-1.040-0.52s0.080-0.92 0.52-1.080c0.28-0.080 6.48-2.2 11.6 1.24 0.4 0.24 0.48 0.76 0.24 1.16-0.2 0.24-0.48 0.4-0.72 0.4zM9.6 25.6c-5.28 0-9.6-4.32-9.6-9.6s4.32-9.6 9.6-9.6 9.6 4.32 9.6 9.6-4.32 9.6-9.6 9.6zM9.6 8.080c-4.36 0-7.92 3.56-7.92 7.92s3.56 7.92 7.92 7.92 7.92-3.56 7.92-7.92-3.56-7.92-7.92-7.92z"></path></svg></a>
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2025&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.6)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.6">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.6" async></script>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasters.spotify.com/pod/show/majordigest/",
+   "name": "Major Digest Podcast - Spotify Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189",
+   "name": "Major Digest Podcast - Apple Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+
+</body>
+</html>

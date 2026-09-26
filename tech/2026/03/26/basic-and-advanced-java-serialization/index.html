@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en"
+  prefix="og: https://ogp.me/ns#">
+
+<head>
+  <meta charset="utf-8">
+  <title>Basic and advanced Java serialization - Major Digest</title>
+  <meta name="description" content="Serialization is the process of converting a Java object into a sequence of bytes so they can be written to disk, sent over a network, or stored outside of memory. Later, the Java virtual machine (JVM) reads those bytes and reconstructs the original object. This process is called deserialization.">
+  <link rel="canonical" href="https://majordigest.com/tech/2026/03/26/basic-and-advanced-java-serialization/">
+
+  <meta itemprop="name" content="Basic and advanced Java serialization - Major Digest">
+  <meta itemprop="description" content="Serialization is the process of converting a Java object into a sequence of bytes so they can be written to disk, sent over a network, or stored outside of memory. Later, the Java virtual machine (JVM) reads those bytes and reconstructs the original object. This process is called deserialization.">
+  <link itemprop="url" href="https://majordigest.com/tech/2026/03/26/basic-and-advanced-java-serialization/">
+  <meta itemprop="image" content="https://majordigest.com/static14/tech/2026/03/26/basic-and-advanced-java-serialization.webp">
+
+  <meta property="og:title" content="Basic and advanced Java serialization - Major Digest">
+  <meta property="og:description" content="Serialization is the process of converting a Java object into a sequence of bytes so they can be written to disk, sent over a network, or stored outside of memory. Later, the Java virtual machine (JVM) reads those bytes and reconstructs the original object. This process is called deserialization.">
+  <meta property="og:url" content="https://majordigest.com/tech/2026/03/26/basic-and-advanced-java-serialization/">
+  <meta property="og:image" content="https://majordigest.com/static14/tech/2026/03/26/basic-and-advanced-java-serialization.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Basic and advanced Java serialization - Major Digest">
+  <meta name="twitter:description" content="Serialization is the process of converting a Java object into a sequence of bytes so they can be written to disk, sent over a network, or stored outside of memory. Later, the Java virtual machine (JVM) reads those bytes and reconstructs the original object. This process is called deserialization.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2026/03/26/basic-and-advanced-java-serialization/">
+  <meta name="twitter:image" content="https://majordigest.com/static14/tech/2026/03/26/basic-and-advanced-java-serialization.webp">
+  <meta name="twitter:image:alt" content="Basic and advanced Java serialization - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.6">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.6">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2026-03-26T11:59:46.226Z" itemprop="datePublished">Thursday, March 26, 2026</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Basic and advanced Java serialization - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "Basic and advanced Java serialization - Major Digest"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Thu, 26 Mar 2026 09:00:00 GMT">
+  <meta itemprop="url" content="/tech/2026/03/26/basic-and-advanced-java-serialization/">
+  <h2 itemprop="headline">Basic and advanced Java serialization</h2>
+  <div itemprop="articleBody">
+    <figure>
+      <img src="/static14/tech/2026/03/26/basic-and-advanced-java-serialization.webp" alt="Basic and advanced Java serialization" itemprop="image" width="400" height="225"
+        data-src="https://www.infoworld.com/wp-content/uploads/2026/03/4130290-0-56701900-1774515706-shutterstock_1657245325.jpg?quality=50&strip=all">
+      <figcaption>Credit: Info World</figcaption>
+    </figure>
+    
+<div id="remove_no_follow">
+<body><div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p><em>Serialization</em> is the process of converting a Java object into a sequence of bytes so they can be written to disk, sent over a network, or stored outside of memory. Later, the Java virtual machine (JVM) reads those bytes and reconstructs the original object. This process is called <em>deserialization</em>.</p>
+
+
+
+<p>Under normal circumstances, objects exist only in memory and disappear when a program terminates. Serialization allows an object’s state to outlive the program that created it, or to be transferred between different execution contexts.</p>
+
+
+
+<aside class="sidebar large">
+<h3 id="get-the-code">Get the code</h3>
+<p>To follow along with the examples in this article, you can download the accompanying source code here. All examples were written and tested using Java 25 or later.</p>
+</aside>
+
+
+
+
+<h3 class="wp-block-heading" id="the-serializable-interface">The Serializable interface</h3>
+
+
+
+<p>Java does not allow every object to be serialized. A class must explicitly opt in by implementing the <code>Serializable</code> interface, as shown here:</p>
+
+
+
+<pre class="wp-block-code"><code>public class Challenger implements Serializable {
+
+    private Long id;
+    private String name;
+
+    public Challenger(Long id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+}</code></pre>
+
+
+
+<p><code>Serializable</code> (<code>java.io.Serializable</code>) is a <em>marker interface</em>, meaning that it does not define any methods. By implementing it, the class signals to the JVM that its instances may be converted into bytes. If Java attempts to serialize an object whose class does not implement the <code>Serializable</code> interface, it fails at runtime with a <code>NotSerializableException</code>. There is no compile‑time warning.</p>
+
+
+
+<p>Serialization traverses the entire object graph. Every non‑transient field must refer to an object that is itself serializable. If any referenced object cannot be serialized, the entire operation fails. All primitive wrapper types (<code>Integer</code>, <code>Long</code>, <code>Boolean</code>, and others), as well as <code>String</code>, implement <code>Serializable</code>, which is why they can be safely used in serialized object graphs.</p>
+
+
+
+<h3 class="wp-block-heading" id="limits-of-java-serialization">Limits of Java serialization</h3>
+
+
+
+<p>Serialization stores instance state and preserves reference identity within the object graph (shared references and cycles). It does not preserve behavior or JVM identity across runs. Remember the following guidelines when using serialization:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Instance fields are written to the byte stream.</li>
+
+
+
+<li>Behavior is not serialized.</li>
+
+
+
+<li>Static fields are not serialized.</li>
+
+
+
+<li>Object identity is preserved.</li>
+</ul>
+
+
+
+<p>Also note: If two fields reference the same object before serialization, that relationship is preserved after deserialization.</p>
+
+
+
+<h3 class="wp-block-heading" id="a-java-serialization-example">A Java serialization example</h3>
+
+
+
+<p>As an example of serialization, consider the following example, a <em>Java Challengers</em> player:</p>
+
+
+
+<pre class="wp-block-code"><code>Challenger duke = new Challenger(1L, "Duke");</code></pre>
+
+
+
+<p>What do you notice? Let’s unpack it.</p>
+
+
+
+<h3 class="wp-block-heading" id="1-writing-the-object">1. Writing the object</h3>
+
+
+
+<p>First, Java verifies that the class implements <code>Serializable</code>, converts the object’s field values into bytes, and writes them to the file:</p>
+
+
+
+<pre class="wp-block-code"><code>try (ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("duke.ser"))) {
+    out.writeObject(duke);
+}</code></pre>
+
+
+
+<h3 class="wp-block-heading" id="2-reading-the-object-back">2. Reading the object back</h3>
+
+
+
+<p>During deserialization, the serializable class’s own constructor is not called. The JVM creates the object through an internal mechanism and assigns field values directly from the serialized data. However, if the class extends a nonserializable superclass, that superclass’s no‑argument constructor <em>will</em> run:</p>
+
+
+
+<pre class="wp-block-code"><code>try (ObjectInputStream in = new ObjectInputStream(new FileInputStream("duke.ser"))) {
+    Challenger duke = (Challenger) in.readObject();
+}</code></pre>
+
+
+
+<p>This behavior often surprises developers the first time they debug a deserialized object, as the invariants are silently broken. This distinction is also important in class hierarchies, which we’ll discuss later in the article.</p>
+
+
+
+<h3 class="wp-block-heading" id="serialization-callbacks">Serialization callbacks</h3>
+
+
+
+<p>Because the JVM controls object creation and field restoration during serialization, it also provides hooks that allow a class to customize how its state is written and restored. A class can define two private methods with exact signatures:</p>
+
+
+
+<pre class="wp-block-code"><code>private void writeObject(ObjectOutputStream out) throws IOException
+private void readObject(ObjectInputStream in) throws IOException, ClassNotFoundException</code></pre>
+
+
+
+<p>These methods are not called directly by application code. They are JVM callbacks invoked automatically during serialization and deserialization. Calling them manually results in a <code>NotActiveException</code>, because they require an active serialization context managed by the JVM:</p>
+
+
+
+<pre class="wp-block-code"><code>import java.io.*;
+
+public class OrderSensitiveExample implements Serializable {
+    private static final long serialVersionUID = 1L;
+
+    void main() throws IOException, ClassNotFoundException {
+        OrderSensitiveExample example = new OrderSensitiveExample();
+
+        // Serialization: triggers writeObject(...)
+        try (ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("example.ser"))) {
+            out.writeObject(example);
+        }
+
+        // Deserialization: triggers readObject(...)
+        try (ObjectInputStream in = new ObjectInputStream(new FileInputStream("example.ser"))) {
+            in.readObject();
+        }
+    }
+
+    private void writeObject(ObjectOutputStream out) throws IOException {
+        out.defaultWriteObject();
+        out.writeObject("Duke");
+        out.writeObject("Juggy");
+    }
+
+    private void readObject(ObjectInputStream in) throws IOException, ClassNotFoundException {
+        in.defaultReadObject();
+        String first = (String) in.readObject();
+        String second = (String) in.readObject();
+
+        System.out.println(first + " " + second);
+    }
+}</code></pre>
+
+
+
+<p>Meanwhile, <code>writeObject</code> and <code>readObject</code> are invoked by the JVM. This is done via Java reflection, as part of <code>ObjectOutputStream.writeObject</code> and <code>ObjectInputStream.readObject</code>, and cannot be meaningfully called by application code.</p>
+
+
+
+<h3 class="wp-block-heading" id="using-serialversionuid-for-version-control">Using serialVersionUID for version control</h3>
+
+
+
+<p>Every serializable class has a version identifier called <code>serialVersionUID</code>. This value is written into the serialized data. During deserialization, the JVM compares the value stored in the serialized data with the value declared in the current version of the class. If they differ, deserialization fails with an <code>InvalidClassException</code>.</p>
+
+
+
+<p>If you do not declare a <code>serialVersionUID</code>, Java generates one automatically based on the given class structure. Adding a field, removing a method, or even recompiling the class can change it and break compatibility. This is why  relying on the generated value is usually a mistake.</p>
+
+
+
+<h3 class="wp-block-heading" id="choosing-a-serialversionuid">Choosing a serialVersionUID</h3>
+
+
+
+<p>For new classes, it is common and correct to start with the following declaration:</p>
+
+
+
+<pre class="wp-block-code"><code>private static final long serialVersionUID = 1L;</code></pre>
+
+
+
+<p>IDEs often suggest long, generated values that mirror the JVM’s default computation. While technically correct, those values are frequently misunderstood. They do not distinguish objects, prevent name collisions, or identify individual instances. All objects of the same class share the same <code>serialVersionUID</code>.</p>
+
+
+
+<p>The purpose of this value is to identify the class definition, not the object. It acts as a compatibility check during deserialization, ensuring that the class structure matches the one used when the data was written. This usually becomes a problem only after data has already been serialized and deployed.</p>
+
+
+
+<p>The number itself has no special meaning; Java does not treat 1L differently from any other value. What matters is that the value is explicit, stable, and changed intentionally.</p>
+
+
+
+<h3 class="wp-block-heading" id="when-to-change-serialversionuid">When to change serialVersionUID</h3>
+
+
+
+<p>You should change <code>serialVersionUID</code> when a class change causes previously serialized field values to have a different meaning for the current code.</p>
+
+
+
+<p>Typical reasons include removing or renaming a serialized field, changing the type of a serialized field, changing the meaning of stored values such as status codes, introducing new constraints that old data may violate, or changing the class hierarchy or custom serialization logic.</p>
+
+
+
+<p>In these cases, deserialization may still succeed, but the resulting object would represent an incorrect logical state. Changing the <code>serialVersionUID</code> ensures such data is rejected instead of silently misused.</p>
+
+
+
+<p>If changes only add behavior or optional data, such as adding new fields or methods, the value usually does not need to change.</p>
+
+
+
+<h3 class="wp-block-heading" id="excluding-fields-with-transient">Excluding fields with transient</h3>
+
+
+
+<p>Some fields should not be serialized, such as passwords, cached values, or temporary data. In these cases, you can use the <code>transient</code> keyword:</p>
+
+
+
+<pre class="wp-block-code"><code>public class ChallengerAccount implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+
+    private String username;
+    private transient String password;
+
+    public ChallengerAccount(String username, String password) {
+        this.username = username;
+        this.password = password;
+    }
+}</code></pre>
+
+
+
+<p>A field marked <code>transient</code> is skipped during serialization. When the object is deserialized, the field is set to its default value, which is usually null.</p>
+
+
+
+<h3 class="wp-block-heading" id="serialization-and-inheritance">Serialization and inheritance</h3>
+
+
+
+<p>Serialization works across class hierarchies, but there are strict rules.</p>
+
+
+
+<p>If a superclass does not implement <code>Serializable</code>, its fields are not serialized, and it must provide a no‑argument constructor. This failure tends to surface late, often after a seemingly harmless refactor of a base class:</p>
+
+
+
+<pre class="wp-block-code"><code>class Person {
+    String name;
+    public Person() { this.name = "unknown"; }
+}
+
+class RankedChallenger extends Person implements Serializable {
+    private static final long serialVersionUID = 1L;
+    int ranking;
+}</code></pre>
+
+
+
+<p>During deserialization, the superclass constructor runs and initializes its fields, while only the subclass fields are restored from the serialized data. If the no‑argument constructor is missing, deserialization fails at runtime.</p>
+
+
+
+<h3 class="wp-block-heading" id="custom-serialization-with-sensitive-data">Custom serialization with sensitive data</h3>
+
+
+
+<p>Revisiting the <code>ChallengerAccount</code> example we looked at earlier, the password field was marked as <code>transient</code>, so it is not included in default serialization and will be null after deserialization. In controlled environments, this behavior can be overridden by defining custom serialization logic.</p>
+
+
+
+<p>In the example below, the <code>writeObject</code> and <code>readObject</code> methods are shown inline for clarity, but they must be declared as private methods inside the serializable class. Here’s what happens during deserialization:</p>
+
+
+
+<pre class="wp-block-code"><code>private void writeObject(ObjectOutputStream out) throws IOException {
+    out.defaultWriteObject();
+    out.writeObject(password);
+}
+
+private void readObject(ObjectInputStream in) throws IOException, ClassNotFoundException {
+    in.defaultReadObject();
+    this.password = (String) in.readObject();
+}</code></pre>
+
+
+
+<p>This is considered <em>custom serialization</em> because the class explicitly writes and reads part of its state instead of relying entirely on the JVM’s default mechanism. The call to <code>readObject()</code> does not read a field by name. Java serialization is a linear byte stream, not a keyed structure.</p>
+
+
+
+<p>The value returned here is simply the next object in the stream, which happens to be the password because it was written immediately after the default object data. For this reason, values must be read in the exact order they were written. Changing that order will corrupt the stream or cause deserialization to fail.</p>
+
+
+
+<h3 class="wp-block-heading" id="transforming-data-during-serialization">Transforming data during serialization</h3>
+
+
+
+<p>Custom serialization can also transform data before writing it. This is useful for derived values, normalization, or compact representations:</p>
+
+
+
+<pre class="wp-block-code"><code>public class ChallengerProfile implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+
+    private String username;
+    private transient LocalDate joinDate;
+
+    public ChallengerProfile(String username, LocalDate joinDate) {
+        this.username = username;
+        this.joinDate = joinDate;
+    }
+}</code></pre>
+
+
+
+<p>The <code>joinDate</code> field is marked as transient, so it is not serialized by default. Although <code>LocalDate</code> is itself <code>Serializable</code>, marking it as transient and writing it as a single long demonstrates how custom serialization can transform a field into a different representation:</p>
+
+
+
+<pre class="wp-block-code"><code>private void writeObject(ObjectOutputStream out) throws IOException {
+    out.defaultWriteObject();
+    out.writeLong(joinDate.toEpochDay());
+}</code></pre>
+
+
+
+<p>During deserialization, the epoch day is converted back into a <code>LocalDate</code>:</p>
+
+
+
+<pre class="wp-block-code"><code>private void readObject(ObjectInputStream in)throws IOException, ClassNotFoundException {
+    in.defaultReadObject();
+    this.joinDate = LocalDate.ofEpochDay(in.readLong());
+}</code></pre>
+
+
+
+<p>The important point is not the specific transformation, but that <code>writeObject</code> and <code>readObject</code> must apply inverse transformations and read values in the exact order they were written. Here, <code>toEpochDay</code> and <code>ofEpochDay</code> are natural inverses: One converts a date to a number, and the other converts it back.</p>
+
+
+
+<h3 class="wp-block-heading" id="restoring-derived-fields">Restoring derived fields</h3>
+
+
+
+<p>Some fields are derived from others and should not be serialized:</p>
+
+
+
+<pre class="wp-block-code"><code>public class ChallengerStats implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+
+    private int wins;
+    private int losses;
+
+    private transient int score;
+
+    public ChallengerStats(int wins, int losses) {
+        this.wins = wins;
+        this.losses = losses;
+        this.score = calculateScore();
+    }
+
+    private int calculateScore() {
+        return wins * 3 - losses;
+    }
+}</code></pre>
+
+
+
+<p>After deserialization, <code>score</code> will be zero. It can be restored as follows:</p>
+
+
+
+<pre class="wp-block-code"><code>private void readObject(ObjectInputStream in)  throws IOException, ClassNotFoundException {
+    in.defaultReadObject();
+    this.score = calculateScore();
+}</code></pre>
+
+
+
+<h3 class="wp-block-heading" id="why-order-matters-in-custom-serialization-logic">Why order matters in custom serialization logic</h3>
+
+
+
+<p>When writing custom serialization logic, the order in which values are written must exactly match the order in which they are read:</p>
+
+
+
+<pre class="wp-block-code"><code>private void writeObject(ObjectOutputStream out) throws IOException {
+    out.defaultWriteObject();
+    out.writeInt(42);
+    out.writeUTF("Duke");
+    out.writeLong(1_000_000L);
+}
+private void readObject(ObjectInputStream in) throws IOException, ClassNotFoundException {
+    in.defaultReadObject();
+    int level = in.readInt();
+    String name = in.readUTF();
+    long score = in.readLong();
+}</code></pre>
+
+
+
+<p>Because the stream is not keyed by field name, each <code>read</code> call simply consumes the next value in sequence. If <code>readUTF</code> were called before <code>readInt</code>, the stream would attempt to interpret the bytes of an integer as a UTF string, resulting in corrupted data or a deserialization failure. This is one of the main reasons custom serialization should be used sparingly. A useful mental model is to think of serialization as a tape recorder: Deserialization must replay the tape in exactly the order it was recorded.</p>
+
+
+
+<h3 class="wp-block-heading" id="why-serialization-is-risky">Why serialization is risky</h3>
+
+
+
+<p>Serialization is fragile when classes change. Even small modifications can make previously stored data unreadable.</p>
+
+
+
+<p>Deserializing untrusted data is particularly dangerous. Deserialization can trigger unexpected code paths on attacker‑controlled object graphs, and this has been the source of real‑world security vulnerabilities.</p>
+
+
+
+<p>For these reasons, Java serialization should be used only in controlled environments.</p>
+
+
+
+<h3 class="wp-block-heading" id="when-serialization-makes-sense">When serialization makes sense</h3>
+
+
+
+<p>Java serialization is suitable only for a narrow set of use cases where class versions and trust boundaries are tightly controlled.</p>
+
+
+
+
+
+
+
+<p><strong>Rule of thumb</strong>: If the data must survive class evolution, cross trust boundaries, or be consumed by non‑Java systems, prefer JSON or a schema‑based format over Java serialization.</p>
+
+
+
+<h3 class="wp-block-heading" id="advanced-serialization-techniques">Advanced serialization techniques</h3>
+
+
+
+<p>The mechanisms we’ve covered so far handle most practical scenarios, but Java serialization has a few additional tools for solving problems that default serialization cannot.</p>
+
+
+
+<h3 class="wp-block-heading" id="preserving-singletons-with-readresolve">Preserving singletons with readResolve</h3>
+
+
+
+<p>Deserialization creates a new object. For classes that enforce a single instance, this breaks the guarantee silently:</p>
+
+
+
+<pre class="wp-block-code"><code>public class GameConfig implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+    private static final GameConfig INSTANCE = new GameConfig();
+
+    private GameConfig() {}
+
+    public static GameConfig getInstance() {
+        return INSTANCE;
+    }
+
+    private Object readResolve() throws ObjectStreamException {
+        return INSTANCE;
+    }
+}</code></pre>
+
+
+
+<p>Without <code>readResolve</code>, deserializing a <code>GameConfig</code> would produce a second instance, and any identity check using <code>==</code> would fail. The method intercepts the deserialized object and substitutes the canonical one. The deserialized copy is discarded.</p>
+
+
+
+<h3 class="wp-block-heading" id="substituting-objects-with-writereplace">Substituting objects with writeReplace</h3>
+
+
+
+<p>Whereas <code>readResolve</code> controls what comes <em>out</em> of deserialization, <code>writeReplace</code> controls what goes <em>into</em> serialization. A class can define this method to substitute a different object before any bytes are written.</p>
+
+
+
+<p>The two methods are often used together to implement a <em>serialization proxy</em>. One class represents the object’s runtime form, while another represents its serialized form.</p>
+
+
+
+<p>In this example,<code>ChallengerWriteReplace</code> plays the role of the “real” object, while <code>ChallengerProxy</code> represents its serialized form:</p>
+
+
+
+<pre class="wp-block-code"><code>public class ChallengerProxy implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+
+    private final long id;
+    private final String name;
+
+    public ChallengerProxy(long id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+
+    private Object readResolve() throws ObjectStreamException {
+        return new ChallengerWriteReplace(id, name);
+    }
+}
+
+class ChallengerWriteReplace implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+
+    private long id;
+    private String name;
+
+    public ChallengerWriteReplace(long id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+
+    private Object writeReplace() throws ObjectStreamException {
+        return new ChallengerProxy(id, name);
+    }
+}</code></pre>
+
+
+
+<p>When a <code>ChallengerWriteReplace</code> instance is serialized, its <code>writeReplace</code> method substitutes it with a lightweight <code>ChallengerProxy</code>. The proxy is the only object that is actually written to the byte stream.</p>
+
+
+
+<p>During deserialization, the proxy’s <code>readResolve</code> method reconstructs a new <code>ChallengerWriteReplace</code> instance, and the proxy itself is discarded. The application never observes the proxy object directly.</p>
+
+
+
+<p>This technique keeps the serialized form decoupled from the internal structure of <code>ChallengerWriteReplace</code>. As long as the proxy remains stable, the main class can evolve freely without breaking previously serialized data. It also provides a controlled point where invariants can be enforced during reconstruction.</p>
+
+
+
+<h3 class="wp-block-heading" id="filtering-deserialized-classes-with-objectinputfilter">Filtering deserialized classes with ObjectInputFilter</h3>
+
+
+
+<p>I have explained why deserializing untrusted data is dangerous. Introduced in Java 9, the <code>ObjectInputFilter</code> API gives applications a way to restrict which classes are allowed during deserialization:</p>
+
+
+
+<pre class="wp-block-code"><code>ObjectInputFilter filter = ObjectInputFilter.Config.createFilter(
+        "com.example.model.*;!*"
+);
+
+try (ObjectInputStream in = new ObjectInputStream(new FileInputStream("data.ser"))) {
+    in.setObjectInputFilter(filter); // must be set before readObject()
+    Object obj = in.readObject();
+}</code></pre>
+
+
+
+<p>This filter allows only classes under <code>com.example.model</code> and rejects everything else. The pattern syntax supports <code>allowlisting</code> by package, as well as setting limits on array sizes, object graph depth, and total object count.</p>
+
+
+
+<p>Java 9 made it possible to set a process-wide filter via <code>ObjectInputFilter.Config.setSerialFilter</code> or the <code>jdk.serialFilter</code> system property, ensuring that no <code>ObjectInputStream</code> would be left unprotected by default. Java 17 extended this further by introducing <em>filter factories</em> (<code>ObjectInputFilter.Config.setSerialFilterFactory</code>), which allow context‑specific filters to be applied per stream rather than relying on a single global policy. If your application deserializes data that crosses a trust boundary, an input filter is not optional; it is the minimum viable defense.</p>
+
+
+
+<h3 class="wp-block-heading" id="java-records-and-serialization">Java records and serialization</h3>
+
+
+
+<p>Java records can implement <code>Serializable</code>, but they behave differently from ordinary classes in one critical way: During deserialization, the record’s canonical constructor is called. This means any validation logic in the constructor runs on deserialized data, which is a significant safety advantage:</p>
+
+
+
+<pre class="wp-block-code"><code>public record ChallengerRecord(Long id, String name) implements Serializable {
+    public ChallengerRecord {
+        if (id == null || name == null) {
+            throw new IllegalArgumentException(
+                    "id and name must not be null");
+        }
+    }
+}</code></pre>
+
+
+
+<p>With a traditional <code>Serializable</code> class, a corrupted or malicious stream could inject null values into fields that the constructor would normally reject. With a record, the constructor acts as a gatekeeper even during deserialization.</p>
+
+
+
+<p>Records do not support <code>writeObject</code>, <code>readObject</code>, or <code>serialPersistentFields</code>. Their serialized form is derived entirely from their components, a design decision that intentionally favors predictability and safety over customization.</p>
+
+
+
+<h3 class="wp-block-heading" id="alternatives-to-java-serialization">Alternatives to Java serialization</h3>
+
+
+
+<p>The <code>Externalizable</code> interface is an alternative to <code>Serializable</code> that gives the class complete control over the byte format. A class that implements <code>Externalizable</code> must define <code>writeExternal</code> and <code>readExternal</code>, and must provide a public no‑argument constructor:</p>
+
+
+
+<pre class="wp-block-code"><code>public class ChallengerExt implements Externalizable {
+
+    private long id;
+    private String name;
+
+    public ChallengerExt() {} // required
+
+    public ChallengerExt(long id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+
+    @Override
+    public void writeExternal(ObjectOutput out) throws IOException {
+        out.writeLong(id);
+        out.writeUTF(name);
+    }
+
+    @Override
+    public void readExternal(ObjectInput in) throws IOException {
+        this.id = in.readLong();
+        this.name = in.readUTF();
+    }
+}</code></pre>
+
+
+
+<p>Unlike <code>Serializable</code>, no field metadata or field values are written automatically. The class descriptor (class name and <code>serialVersionUID</code>) is still written, but the developer is fully responsible for writing and reading all instance state.</p>
+
+
+
+<p>Because <code>writeExternal</code> and <code>readExternal</code> work directly with primitives and raw values, fields should use primitive types where possible. Using a wrapper type such as <code>Long</code> with <code>writeLong</code> would throw a <code>NullPointerException</code> if the value were null, since auto‑unboxing cannot handle that case.</p>
+
+
+
+<p>This approach can produce more compact output, but the developer is fully responsible for versioning, field ordering, and backward compatibility.</p>
+
+
+
+<p>In practice, <code>Externalizable</code> is rarely used in modern Java. When a full control over-the-wire format is needed, most teams choose Protocol Buffers, Avro, or similar schema‑based formats instead.</p>
+
+
+
+<h3 class="wp-block-heading" id="conclusion">Conclusion</h3>
+
+
+
+<p>Java serialization is a low-level JVM mechanism for saving and restoring object state. Known for being powerful but unforgiving, serialization bypasses constructors, assumes stable class definitions, and provides no automatic safety guarantees. Used deliberately in tightly controlled systems, it can be effective. Used casually, it introduces subtle bugs and serious security vulnerabilities. Understanding the trade-offs discussed in this article will help you use serialization correctly and avoid accidental misuse.</p>
+</div></div></div>
+</body></div>
+  </div>
+  <p>
+    Sources:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/4130290/basic-and-advanced-java-serialization.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Mar 26, 2026, 5:00:00 AM EDT</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://t.me/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Telegram" aria-label="Follow us on Telegram"><svg role="img" aria-label="Telegram Logo" width="24px" height="24px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M40.83,8.48c1.14,0,2,1,1.54,2.86l-5.58,26.3c-.39,1.87-1.52,2.32-3.08,1.45L20.4,29.26a.4.4,0,0,1,0-.65L35.77,14.73c.7-.62-.15-.92-1.07-.36L15.41,26.54a.46.46,0,0,1-.4.05L6.82,24C5,23.47,5,22.22,7.23,21.33L40,8.69a2.16,2.16,0,0,1,.83-.21Z"/></svg></a>
+<!--
+      <a href="https://www.youtube.com/@MajorDigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on YouTube" aria-label="Follow us on YouTube"><svg role="img" aria-label="YouTube Logo" height="24px" width="24px" version="1.1" viewBox="0 0 461.001 461.00" xmlns="http://www.w3.org/2000/svg"><path d="M365.257,67.393H95.744C42.866,67.393,0,110.259,0,163.137v134.728 c0,52.878,42.866,95.744,95.744,95.744h269.513c52.878,0,95.744-42.866,95.744-95.744V163.137 C461.001,110.259,418.135,67.393,365.257,67.393z M300.506,237.056l-126.06,60.123c-3.359,1.602-7.239-0.847-7.239-4.568V168.607 c0-3.774,3.982-6.22,7.348-4.514l126.06,63.881C304.363,229.873,304.298,235.248,300.506,237.056z"/></svg></a>
+      <a href="https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Apple Podcasts" aria-label="Follow us on Apple Podcasts"><svg role="img" aria-label="Apple Podcasts Logo" width="21px" height="21px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M7.12 0c-3.937-0.011-7.131 3.183-7.12 7.12v17.76c-0.011 3.937 3.183 7.131 7.12 7.12h17.76c3.937 0.011 7.131-3.183 7.12-7.12v-17.76c0.011-3.937-3.183-7.131-7.12-7.12zM15.817 3.421c3.115 0 5.932 1.204 8.079 3.453 1.631 1.693 2.547 3.489 3.016 5.855 0.161 0.787 0.161 2.932 0.009 3.817-0.5 2.817-2.041 5.339-4.317 7.063-0.812 0.615-2.797 1.683-3.115 1.683-0.12 0-0.129-0.12-0.077-0.615 0.099-0.792 0.192-0.953 0.64-1.141 0.713-0.296 1.932-1.167 2.677-1.911 1.301-1.303 2.229-2.932 2.677-4.719 0.281-1.1 0.244-3.543-0.063-4.672-0.969-3.595-3.907-6.385-7.5-7.136-1.041-0.213-2.943-0.213-4 0-3.636 0.751-6.647 3.683-7.563 7.371-0.245 1.004-0.245 3.448 0 4.448 0.609 2.443 2.188 4.681 4.255 6.015 0.407 0.271 0.896 0.547 1.1 0.631 0.447 0.192 0.547 0.355 0.629 1.14 0.052 0.485 0.041 0.62-0.072 0.62-0.073 0-0.62-0.235-1.199-0.511l-0.052-0.041c-3.297-1.62-5.407-4.364-6.177-8.016-0.187-0.943-0.224-3.187-0.036-4.052 0.479-2.323 1.396-4.135 2.921-5.739 2.199-2.319 5.027-3.543 8.172-3.543zM16 7.172c0.541 0.005 1.068 0.052 1.473 0.14 3.715 0.828 6.344 4.543 5.833 8.229-0.203 1.489-0.713 2.709-1.619 3.844-0.448 0.573-1.537 1.532-1.729 1.532-0.032 0-0.063-0.365-0.063-0.803v-0.808l0.552-0.661c2.093-2.505 1.943-6.005-0.339-8.296-0.885-0.896-1.912-1.423-3.235-1.661-0.853-0.161-1.031-0.161-1.927-0.011-1.364 0.219-2.417 0.744-3.355 1.672-2.291 2.271-2.443 5.791-0.348 8.296l0.552 0.661v0.813c0 0.448-0.037 0.807-0.084 0.807-0.036 0-0.349-0.213-0.683-0.479l-0.047-0.016c-1.109-0.885-2.088-2.453-2.495-3.995-0.244-0.932-0.244-2.697 0.011-3.625 0.672-2.505 2.521-4.448 5.079-5.359 0.547-0.193 1.509-0.297 2.416-0.281zM15.823 11.156c0.417 0 0.828 0.084 1.131 0.24 0.645 0.339 1.183 0.989 1.385 1.677 0.62 2.104-1.609 3.948-3.631 3.005h-0.015c-0.953-0.443-1.464-1.276-1.475-2.36 0-0.979 0.541-1.828 1.484-2.328 0.297-0.156 0.709-0.235 1.125-0.235zM15.812 17.464c1.319-0.005 2.271 0.463 2.625 1.291 0.265 0.62 0.167 2.573-0.292 5.735-0.307 2.208-0.479 2.765-0.905 3.141-0.589 0.52-1.417 0.667-2.209 0.385h-0.004c-0.953-0.344-1.157-0.808-1.553-3.527-0.452-3.161-0.552-5.115-0.285-5.735 0.348-0.823 1.296-1.285 2.624-1.291z"/></svg></a>
+      <a href="https://podcasters.spotify.com/pod/show/majordigest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Spotify" aria-label="Follow us on Spotify"><svg role="img" aria-label="Spotify Logo" width="28px" height="28px" viewBox="0 -2 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M13.2 20.84c-0.2 0-0.4-0.080-0.56-0.2-1.84-1.6-5.8-1.12-7.2-0.84-0.44 0.12-0.92-0.2-1-0.64-0.12-0.44 0.2-0.88 0.64-1 0.24-0.040 5.8-1.24 8.64 1.2 0.36 0.32 0.4 0.84 0.080 1.2-0.12 0.16-0.36 0.28-0.6 0.28zM14.2 18.44c-0.16 0-0.32-0.040-0.48-0.16-3.36-2.4-8.48-1.080-8.52-1.080-0.44 0.12-0.92-0.16-1.040-0.6s0.16-0.92 0.6-1.040c0.24-0.080 5.92-1.56 9.96 1.32 0.36 0.28 0.48 0.8 0.2 1.16-0.2 0.28-0.44 0.4-0.72 0.4zM15.24 15.72c-0.16 0-0.32-0.040-0.48-0.16-4.44-2.96-10.040-1.040-10.12-1.040-0.44 0.16-0.88-0.080-1.040-0.52s0.080-0.92 0.52-1.080c0.28-0.080 6.48-2.2 11.6 1.24 0.4 0.24 0.48 0.76 0.24 1.16-0.2 0.24-0.48 0.4-0.72 0.4zM9.6 25.6c-5.28 0-9.6-4.32-9.6-9.6s4.32-9.6 9.6-9.6 9.6 4.32 9.6 9.6-4.32 9.6-9.6 9.6zM9.6 8.080c-4.36 0-7.92 3.56-7.92 7.92s3.56 7.92 7.92 7.92 7.92-3.56 7.92-7.92-3.56-7.92-7.92-7.92z"></path></svg></a>
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2026&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.6)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.6">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.6" async></script>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasters.spotify.com/pod/show/majordigest/",
+   "name": "Major Digest Podcast - Spotify Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189",
+   "name": "Major Digest Podcast - Apple Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+
+</body>
+</html>
