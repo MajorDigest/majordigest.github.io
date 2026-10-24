@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en"
+  prefix="og: https://ogp.me/ns#">
+
+<head>
+  <meta charset="utf-8">
+  <title>How to choose the best LLM using R and vitals - Major Digest</title>
+  <meta name="description" content="Is your generative AI application giving the responses you expect? Are there less expensive large language models—or even free ones you can run locally—that might work well enough for some of your tasks?
+Answering questions like these isn’t always easy. Model capabilities seem to change every month.">
+  <link rel="canonical" href="https://majordigest.com/tech/2026/04/06/how-to-choose-the-best-llm-using-r-and-vitals/">
+
+  <meta itemprop="name" content="How to choose the best LLM using R and vitals - Major Digest">
+  <meta itemprop="description" content="Is your generative AI application giving the responses you expect? Are there less expensive large language models—or even free ones you can run locally—that might work well enough for some of your tasks?
+Answering questions like these isn’t always easy. Model capabilities seem to change every month.">
+  <link itemprop="url" href="https://majordigest.com/tech/2026/04/06/how-to-choose-the-best-llm-using-r-and-vitals/">
+  <meta itemprop="image" content="https://majordigest.com/static14/tech/2026/04/06/how-to-choose-the-best-llm-using-r-and-vitals.webp">
+
+  <meta property="og:title" content="How to choose the best LLM using R and vitals - Major Digest">
+  <meta property="og:description" content="Is your generative AI application giving the responses you expect? Are there less expensive large language models—or even free ones you can run locally—that might work well enough for some of your tasks?
+Answering questions like these isn’t always easy. Model capabilities seem to change every month.">
+  <meta property="og:url" content="https://majordigest.com/tech/2026/04/06/how-to-choose-the-best-llm-using-r-and-vitals/">
+  <meta property="og:image" content="https://majordigest.com/static14/tech/2026/04/06/how-to-choose-the-best-llm-using-r-and-vitals.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="How to choose the best LLM using R and vitals - Major Digest">
+  <meta name="twitter:description" content="Is your generative AI application giving the responses you expect? Are there less expensive large language models—or even free ones you can run locally—that might work well enough for some of your tasks?
+Answering questions like these isn’t always easy. Model capabilities seem to change every month.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2026/04/06/how-to-choose-the-best-llm-using-r-and-vitals/">
+  <meta name="twitter:image" content="https://majordigest.com/static14/tech/2026/04/06/how-to-choose-the-best-llm-using-r-and-vitals.webp">
+  <meta name="twitter:image:alt" content="How to choose the best LLM using R and vitals - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.6">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.6">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2026-04-06T21:05:20.233Z" itemprop="datePublished">Monday, April 6, 2026</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>How to choose the best LLM using R and vitals - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "How to choose the best LLM using R and vitals - Major Digest"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Mon, 06 Apr 2026 16:14:57 GMT">
+  <meta itemprop="url" content="/tech/2026/04/06/how-to-choose-the-best-llm-using-r-and-vitals/">
+  <h2 itemprop="headline">How to choose the best LLM using R and vitals</h2>
+  <div itemprop="articleBody">
+    <figure>
+      <img src="/static14/tech/2026/04/06/how-to-choose-the-best-llm-using-r-and-vitals.webp" alt="How to choose the best LLM using R and vitals" itemprop="image" width="400" height="225"
+        data-src="https://www.infoworld.com/wp-content/uploads/2026/04/4130274-0-11706700-1775492116-shutterstock_2380464095-100948325-orig.jpg?quality=50&strip=all">
+      <figcaption>Credit: Info World</figcaption>
+    </figure>
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Is your generative AI application giving the responses you expect? Are there less expensive large language models—or even free ones you can run locally—that might work well enough for some of your tasks?</p>
+
+
+
+<p>Answering questions like these isn’t always easy. Model capabilities seem to change every month. And, unlike conventional computer code, LLMs don’t always give the same answer twice. Running and rerunning tests can be tedious and time consuming.</p>
+
+
+
+<p>Fortunately, there are frameworks to help automate LLM tests. These LLM “evals,” as they’re known, are a bit like unit tests on more conventional computer code. But unlike unit tests, evals need to understand that LLMs can answer the same question in different ways, and that <em>more than one response may be correct</em>. In other words, this type of testing often requires the ability to analyze flexible criteria, not simply check if a given response equals a specific value.</p>
+
+
+
+<p>The vitals package, based on Python‘s Inspect framework, brings automated LLM evals to the R programming language. Vitals was designed to integrate with the ellmer R package, so you can use them together to evaluate prompts, AI applications, and how different LLMs affect both performance and cost. In one case, it helped show that AI agents often ignore information in plots when it goes against their expectations, according to package author Simon Couch, a senior software engineer at Posit. Couch said over email that the experiment, done using a set of vitals evaluations dubbed bluffbench, “really hit home for some folks.”</p>
+
+
+
+<p>Couch is also using the package to measure how well different LLMs write R code.</p>
+
+
+
+<h3 class="wp-block-heading" id="vitals-setup">Vitals setup</h3>
+
+
+
+<p>You can install the vitals package from CRAN or, if you want the development version, from GitHub with <code>pak::pak("tidyverse/vitals")</code>. As of this writing, you’ll need the dev version to access several features used in examples for this article, including a dedicated function for extracting structured data from text.</p>
+
+
+
+<p>Vitals uses a <code>Task</code> object to create and run evals. Each task needs three pieces: a <code>dataset</code>, a <code>solver,</code> and a <code>scorer</code>.</p>
+
+
+
+<h3 class="wp-block-heading" id="dataset">Dataset</h3>
+
+
+
+<p>A vitals <code>dataset</code> is a data frame with information about what you want to test. That data frame needs at least two columns:</p>
+
+
+
+<ul class="wp-block-list">
+<li><code>input</code>: The request you want to send to the LLM.</li>
+
+
+
+<li><code>target</code><strong>:</strong> How you expect the LLM to respond.</li>
+</ul>
+
+
+
+<p>The vitals package includes a sample dataset called <code>are</code>. That data frame has a few more columns, such as <code>id</code> (which is never a bad idea to include in your data), but these are optional.</p>
+
+
+
+<p>As Couch told posit::conf attendees a few months ago, one of the easiest ways to create your own input-target pairs for a dataset is to type what you want into a spreadsheet. Set up spreadsheet columns with “input” and “target,” add what you want, then read that spreadsheet into R with a package like googlesheets4 or rio.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Example of a spreadsheet to create a vitals dataset with input and target columns.</p>
+</figcaption></figure><p class="imageCredit">Sharon Machlis</p></div>
+
+
+
+<p>Below is the R code for three simple queries I’ll use to test out vitals. The code creates an R data frame directly, if you’d like to copy and paste to follow along. This dataset asks an LLM to write R code for a bar chart, determine the sentiment of some text, and create a haiku.</p>
+
+
+
+<pre class="wp-block-code"><code>my_dataset <- data.frame(
+  id = c("barchart", "sentiment-analysis", "haiku"),
+  input = c(
+    "Write R code using ggplot2 to create a bar chart with bars that are colored steel blue. Create your own sample data, with values larger than 1,000 so the axis labels will need commas. Remove all the grid lines and grey background from the graph, and make the background white. Put the category names on the Y axis and values on the X axis, so the bars are horizontal instead of vertical. Sort the bars by value in descending order with the largest value at the top.  Value axis labels should include commas. Make your code efficient and elegant. ONLY return runnable R code, with any comments or explanations included as R comments.",
+    "Determine whether the following review text has a sentiment of Positive, Negative, or Mixed: <review>This desktop computer has a better processor and can handle much more demanding tasks such as running LLMs locally. However, it\U{2019}s also noisy and comes with a lot of bloatware.</review>",
+    "Write me a haiku about winter"
+  ),
+  target = c(
+    'Example solution: ```library(ggplot2)\r\nlibrary(scales)\r\nsample_data <- data.frame(\r\n  category = c("Laptop", "Smartphone", "Tablet", "Headphones", "Monitor"),\r\n  revenue = c(45000, 62000, 28000, 15000, 33000)\r\n)\r\nggplot(sample_data, aes(x = revenue, y = reorder(category, revenue))) +\r\n  # Add steel blue bars\r\n  geom_col(fill = "steelblue") +\r\n  theme_classic() +\r\n   scale_x_continuous(labels = label_comma()) +\r\n  theme(\r\n    panel.grid = element_blank(),\r\n    axis.line = element_line(color = "black")\r\n  ) +\r\n  labs(\r\n    x = "Value",\r\n    y = "Category",\r\n    title = "Product Revenue - Sorted by Performance"\r\n  )```',
+    "Mixed",
+    "Response must be a 3-line poem with 5 syllables in the 1st line, 7 in the 2nd line, and 5 in the 3rd line. It must include some sort of theme about winter."
+  )
+)</code></pre>
+
+
+
+<p>Next, I’ll load my libraries and set a logging directory for when I run evals, since the package will suggest you do that as soon as you load it:</p>
+
+
+
+<pre class="wp-block-code"><code>library(vitals)
+library(ellmer)
+vitals_log_dir_set("./logs")</code></pre>
+
+
+
+<p>Here’s the start of setting up a new <code>Task</code> with the <code>dataset,</code> although this code will throw an error without the other two required arguments of <code>solver </code>and <code>scorer</code>.</p>
+
+
+
+<pre class="wp-block-code"><code>my_task <- Task$new(
+  dataset = my_dataset
+)</code></pre>
+
+
+
+<p>If you’d rather use a ready-made example, you can use <code>dataset = are</code> with its seven R tasks.</p>
+
+
+
+<p>It can take some effort to come up with good sample targets. The classification example was simple, since I wanted a single-word response, <em>mixed</em>. But other queries can have more free-form responses, such as writing code or summarizing text. Don’t rush through this part—if you want your automated “judge” to grade accurately, it pays to design your acceptable responses carefully.</p>
+
+
+
+<h3 class="wp-block-heading" id="solver">Solver</h3>
+
+
+
+<p>The second part of the task, the solver, is the R code that sends your queries to an LLM. For simple queries, you can usually just wrap an <code>ellmer</code> chat object with the vitals <code>generate() </code>function. If your input is more complex, such as needing to call tools, you may need a custom solver. For this part of the demo, I’ll use a standard solver with <code>generate()</code>. Later, we’ll add a second solver with <code>generate_structured()</code>.</p>
+
+
+
+<p>It helps to be familiar with the ellmer R package when using <code>vitals</code>. Below is an example of using ellmer without the vitals package, with <code>my_dataset$input[1]</code>, the first query in my dataset data frame, as my prompt. This code returns an answer to the question but doesn’t evaluate it.</p>
+
+
+
+<p><strong>Note</strong>: You’ll need an OpenAI key if you want to run this specific code. Or you can change the model (and API key) to any other LLM from a provider ellmer supports. Make sure to store any needed API keys for other providers. For the LLM, I chose OpenAI’s least expensive current model, GPT-5 nano.</p>
+
+
+
+<pre class="wp-block-code"><code>my_chat <- chat_openai(model = "gpt-5-nano")
+my_query <- my_dataset$input[1] # That variable holds the text of the first query I want to evaluate, in the dataset I created above
+result <- my_chat$chat(my_query)</code></pre>
+
+
+
+<p>You can turn that <code>my_chat ellmer</code> chat object into a vitals solver by wrapping it in the <code>generate()</code> function:</p>
+
+
+
+<pre class="wp-block-code"><code># This code won't run yet without the tasks's third required argument, a scorer
+my_task <- Task$new(
+  dataset = my_dataset,
+  solver = generate(my_chat) # Using my_chat that was created above
+)</code></pre>
+
+
+
+<p>The <code>Task</code> object knows to use the <code>input</code> column from your dataset as the question to send to the LLM. If the dataset holds more than one query, <code>generate()</code> handles processing them.</p>
+
+
+
+<h3 class="wp-block-heading" id="scorer">Scorer</h3>
+
+
+
+<p>Finally, we need a scorer. As the name implies, the scorer grades the result. Vitals has several different types of scorer. Two of them use an LLM to evaluate results, sometimes referred to as “LLM as a judge.” One of vitals’ LLM-as-a-judge options, <code>model_graded_qa()</code>, checks how well the solver answered a question. The other, <code>model_graded_fact()</code>, “determines whether a solver includes a given fact in its response,” according to the documentation. Other scorers look for string patterns, such as <code>detect_exact()</code> and <code>detect_includes()</code>.</p>
+
+
+
+<p>Some research shows that LLMs can do a decent job in evaluating results. However, like most things involving generative AI, I don’t trust LLM evaluations without human oversight.</p>
+
+
+
+<p><strong>Pro tip</strong>: If you’re testing a small, less capable model in your eval, <em>you don’t want that model also grading the results</em>. Vitals defaults to using the same LLM you’re testing as the scorer, but you can specify another LLM to be your judge. I usually want a top-tier frontier LLM for my judge unless the scoring is straightforward.</p>
+
+
+
+<p>Here’s what the syntax might look like if we were using Claude Sonnet as a <code>model_graded_qa()</code> scorer:</p>
+
+
+
+<pre class="wp-block-code"><code>scorer = model_graded_qa(scorer_chat = chat_anthropic(model = "claude-sonnet-4-6"))</code></pre>
+
+
+
+<p>Note that this scorer defaults to setting partial credit to <code>FALSE</code>—either the answer is 100% accurate or it’s wrong. However, you can choose to allow partial credit if that makes sense for your task, by adding the argument <code>partial_credit = TRUE</code>:</p>
+
+
+
+<pre class="wp-block-code"><code>scorer = model_graded_qa(partial_credit = TRUE, scorer_chat = chat_anthropic(model = "claude-sonnet-4-6"))</code></pre>
+
+
+
+<p>I started with Sonnet 4.5 as my scorer, without partial credit. It got one of the gradings wrong, giving a correct score to R code that did most things right for my bar chart but didn’t sort by descending order. I also tried Sonnet 4.6, released just this week, but it also got one of the grades wrong.</p>
+
+
+
+<p>Opus 4.6 is more capable than Sonnet, but it’s also about 67% pricier at $5 per million tokens input and $25 per million output. Which model and provider you choose depends in part on how much testing you’re doing, how much you like a specific LLM for understanding your work (Claude has a good reputation for writing R code), and how important it is to accurately evaluate your task. Keep an eye on your usage if cost is an issue. If you’d rather not spend any money following the examples in this tutorial, and you don’t mind using less capable LLMs, check out GitHub Models, which has a free tier. ellmer supports GitHub Models with <code>chat_github()</code>, and you can also see available LLMs by running <code>models_github()</code>.</p>
+
+
+
+<p>Keep an eye on your usage if cost is an issue. If you’d rather not spend <em>any</em> money following the examples in this tutorial, and you don’t mind using less capable LLMs, check out GitHub Models, which has a free tier. ellmer supports GitHub Models with <code>chat_github()</code>. (You can also see available LLMs by running <code>models_github()</code>.)</p>
+
+
+
+<p>Below, I’ve added <code>model_graded_qa()</code> scoring to <code>my_task</code>, and I also included a name for the task. However, I’d suggest <em>not adding a name to your task</em> if you plan to clone it later to try a different model. Cloned tasks keep their original name, and as of this writing, there’s no way to change that.</p>
+
+
+
+<pre class="wp-block-code"><code>my_task <- Task$new(
+  dataset = my_dataset,
+  solver = generate(my_chat), # Using my_chat that was created above
+  scorer = model_graded_qa(
+    scorer_chat = chat_anthropic(model = "claude-opus-4-6")
+  ),
+  name = "Basic gpt-5-nano test with Opus judging"
+)</code></pre>
+
+
+
+<p>Now, my task is ready to use.</p>
+
+
+
+<h3 class="wp-block-heading" id="run-your-first-vitals-task">Run your first vitals task</h3>
+
+
+
+<p>You execute a vitals task with the<code> task</code> object’s <code>$eval() method</code>:</p>
+
+
+
+<pre class="wp-block-code"><code>my_task$eval()</code></pre>
+
+
+
+<p>The <code>eval()</code> method launches five separate methods: <code>$solve()</code>, <code>$score()</code>, <code>$measure()</code>, <code>$log()</code>, and <code>$view()</code>. After it finishes running, a built-in log viewer should pop up. Click on the hyperlinked task to see more details:</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><figcaption class="wp-element-caption"><p>Details on a task run in vitals’ built-in viewer. You can click each sample for additional info.</p>
+</figcaption></figure><p class="imageCredit">Sharon Machlis</p></div>
+
+
+
+<p>“C” means correct and “I” stands for incorrect, and there could have been “P” for partially correct<em> </em>if I had allowed partial credit.</p>
+
+
+
+<p>If you want to see a log file in that viewer later, you can invoke the viewer again with <code>vitals_view("your_log_directory")</code>. The logs are just JSON files, so you can view them in other ways, too.</p>
+
+
+
+<p>You’ll probably want to run an eval multiple times, not just once, to feel more confident that an LLM is reliable and didn’t just get lucky. You can set multiple runs with the <code>epochs</code> argument:</p>
+
+
+
+<pre class="wp-block-code"><code>my_task$eval(epochs = 10)</code></pre>
+
+
+
+<p>The accuracy of bar chart code on one of my 10-epoch runs was 70%—which may or may not be “good enough.” Another time, that rose to 90%. If you want a true measure of an LLM’s performance, especially when it’s not scoring 100% on every run, you’ll want a good sample size; margin of error can be significant with just a few tests. (For a deep dive into statistical analysis of vitals results, see the package’s analysis vignette.)</p>
+
+
+
+<p>It cost about 14 cents to use Sonnet 4.6 as a judge versus 27 cents for Opus 4.6 on 11 total epoch runs of three queries each. (Not all these queries even needed an LLM for evaluation, though, if I were willing to separate the demo into multiple task objects. The sentiment analysis was just looking for “Mixed,” which is simpler scoring.)</p>
+
+
+
+<p>The vitals package includes a function that can format the results of a task’s evaluation as a data frame: <code>my_task$get_samples()</code>. If you like this formatting, save the data frame while the task still exists in your R session:</p>
+
+
+
+<pre class="wp-block-code"><code>results_df <- my_task$get_samples()
+saveRDS(results_df, "results1.Rds")</code></pre>
+
+
+
+<p>You may also want to save the <code>Task</code> object itself.</p>
+
+
+
+<p>If there’s an API glitch while you’re running your input queries, the entire run will fail. If you want to run a test for a <em>lot</em> of epochs, you may want to break it up into smaller groups so as not to risk wasting tokens (and time).</p>
+
+
+
+<h3 class="wp-block-heading" id="swap-in-another-llm">Swap in another LLM</h3>
+
+
+
+<p>There are several ways to run the same task with a different model. First, create a new chat object with that different model. Here’s the code for checking out Google Gemini 3 Flash Preview:</p>
+
+
+
+<pre class="wp-block-code"><code>my_chat_gemini <- chat_google_gemini(model = "gemini-3-flash-preview")</code></pre>
+
+
+
+<p>Then you can run the task in one of three ways.</p>
+
+
+
+<p>1. Clone an existing task and add the chat as its solver with <code>$set_solver()</code>:</p>
+
+
+
+<pre class="wp-block-code"><code>my_task_gemini <- my_task$clone()
+my_task_gemini$set_solver(generate(my_chat_gemini))
+my_task_gemini$eval(epochs = 3)</code></pre>
+
+
+
+<p>2. Clone an existing task and add the new chat as a solver <em>when you run it</em>:</p>
+
+
+
+<pre class="wp-block-code"><code>my_task_gemini <- my_task$clone()
+my_task_gemini$eval(epochs = 3, solver_chat = my_chat_gemini)</code></pre>
+
+
+
+<p>3. Create a new task from scratch, which allows you to include a new name:</p>
+
+
+
+<pre class="wp-block-code"><code>my_task_gemini <- Task$new(
+  dataset = my_dataset,
+  solver = generate(my_chat_gemini),
+  scorer = model_graded_qa(
+    partial_credit = FALSE,
+    scorer_chat = ellmer::chat_anthropic(model = "claude-opus-4-6")
+  ),
+  name = "Gemini flash 3 preview"
+)
+my_task_gemini$eval(epochs = 3)</code></pre>
+
+
+
+<p>Make sure you’ve set your API key for each provider you want to test, unless you’re using a platform that doesn’t need them, such as local LLMs with ollama.</p>
+
+
+
+<h3 class="wp-block-heading" id="view-multiple-task-runs">View multiple task runs</h3>
+
+
+
+<p>Once you’ve run multiple tasks with different models, you can use the <code>vitals_bind()</code> function to combine the results:</p>
+
+
+
+<pre class="wp-block-code"><code>both_tasks <- vitals_bind(
+  gpt5_nano = my_task,
+  gemini_3_flash = my_task_gemini
+)</code></pre>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Example of combined task results running each LLM with three epochs.</p>
+</figcaption></figure><p class="imageCredit">Sharon Machlis</p></div>
+
+
+
+<p>This returns an R data frame with columns for <code>task</code>,<code> id</code>, <code>epoch</code>, <code>score</code>, and <code>metadata</code>. The <code>metadata</code> column contains a data frame in each row with columns for<code> input</code>, <code>target</code>, <code>result</code>, <code>solver_chat</code>, <code>scorer_chat</code>, <code>scorer_metadata</code>, and <code>scorer</code>.</p>
+
+
+
+<p>To flatten the <code>input</code>, <code>target</code>, and <code>result</code> columns and make them easier to scan and analyze, I un-nested the <code>metadata</code> column with:</p>
+
+
+
+<pre class="wp-block-code"><code>library(tidyr)
+both_tasks_wide <- both_tasks |>
+  unnest_longer(metadata) |>
+  unnest_wider(metadata)</code></pre>
+
+
+
+<p>I was then able to run a quick script to cycle through each bar-chart result code and see what it produced:</p>
+
+
+
+<pre class="wp-block-code"><code>library(dplyr)
+
+# Some results are surrounded by markdown and that markdown code needs to be removed or the R code won't run
+extract_code <- function(text) {
+  # Remove markdown code fences
+  text <- gsub("```r\\n|```\\n|```", "", text)
+  text <- trimws(text)
+  text
+}
+
+# Filter for barchart results only
+barchart_results <- both_tasks_wide |>
+  filter(id == "barchart")
+
+# Loop through each result
+for (i in seq_len(nrow(barchart_results))) {
+  code_to_run <- extract_code(barchart_results$result[i])
+  score <- as.character(barchart_results$score[i])
+  task_name <- barchart_results$task[i]
+  epoch <- barchart_results$epoch[i]
+
+  # Display info
+  cat("\n", strrep("=", 60), "\n")
+  cat("Task:", task_name, "| Epoch:", epoch, "| Score:", score, "\n")
+  cat(strrep("=", 60), "\n\n")
+
+  # Try to run the code and print the plot
+  tryCatch(
+    {
+      plot_obj <- eval(parse(text = code_to_run))
+      print(plot_obj)
+      Sys.sleep(3)
+    },
+    error = function(e) {
+      cat("Error running code:", e$message, "\n")
+      Sys.sleep(3)
+    }
+  )
+}
+
+cat("\nFinished displaying all", nrow(barchart_results), "bar charts.\n")</code></pre>
+
+
+
+<h3 class="wp-block-heading" id="test-local-llms">Test local LLMs</h3>
+
+
+
+<p>This is one of my favorite use cases for vitals. Currently, models that fit into my PC’s 12GB of GPU RAM are rather limited. But I’m hopeful that small models will soon be useful for more tasks I’d like to do locally with sensitive data. Vitals makes it easy for me to test new LLMs on some of my specific use cases.</p>
+
+
+
+<p>vitals (via ellmer) supports ollama, a popular way of running LLMs locally. To use ollama, download, install, and run the ollama application, and either use the desktop app or a terminal window to run it. The syntax is <code>ollama pull <model name></code> to download an LLM, or <code>ollama run <model name></code> to both download and start a chat if you’d like to make sure the model works on your system. For example: <code>ollama pull ministral-3:14b</code>.</p>
+
+
+
+<p>The rollama R package lets you download a local LLM for ollama within R, as long as ollama is running. The syntax is <code>rollama::pull_model("model-name")</code>. For example, <code>rollama::pull_model("ministral-3:14b")</code>. You can test whether R can see ollama running on your system with <code>rollama::ping_ollama()</code>.</p>
+
+
+
+<p>I also pulled Google’s gemma3-12b and Microsoft’s phi4, then created tasks for each of them with the same dataset I used before. Note that as of this writing, you need the dev version of vitals to handle LLM names that include colons (the next CRAN version after 0.2.0 should handle that, though):</p>
+
+
+
+<pre class="wp-block-code"><code># Create chat objects
+ministral_chat <- chat_ollama(
+  model = "ministral-3:14b"
+)
+
+gemma_chat <- chat_ollama(
+  model = "gemma3:12b"
+)
+
+phi_chat <- chat_ollama(
+  model = "phi4"
+)
+
+# Create one task with ministral, without naming it
+ollama_task <- Task$new(
+  dataset = my_dataset,
+  solver = generate(ministral_chat),
+  scorer = model_graded_qa(
+    scorer_chat = ellmer::chat_anthropic(model = "claude-opus-4-6")
+  )
+)
+
+# Run that task object's evals
+ollama_task$eval(epochs = 5)
+
+# Clone that task and run it with different LLM chat objects
+gemma_task <- ollama_task$clone()
+gemma_task$eval(epochs = 5, solver_chat = gemma_chat)
+
+phi_task <- ollama_task$clone()
+phi_task$eval(epochs = 5, solver_chat = phi_chat)
+
+
+# Turn all these results into a combined data frame
+ollama_tasks <- vitals_bind(
+  ministral = ollama_task,
+  gemma = gemma_task,
+  phi = phi_task
+)</code></pre>
+
+
+
+<p>All three local LLMs nailed the sentiment analysis, and all did poorly on the bar chart. Some code produced bar charts but not with axes flipped and sorted in descending order; other code didn’t work at all.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>Results of one run of my dataset with five local LLMs.</p>
+</figcaption></figure><p class="imageCredit">Sharon Machlis</p></div>
+
+
+
+<p>R code for the results table above:</p>
+
+
+
+<pre class="wp-block-code"><code>library(dplyr)
+library(gt)
+library(scales)
+
+# Prepare the data
+plot_data <- ollama_tasks |>
+  rename(LLM = task, task = id) |>
+  group_by(LLM, task) |>
+  summarize(
+    pct_correct = mean(score == "C") * 100,
+    .groups = "drop"
+  )
+
+color_fn <- col_numeric(
+  palette = c("#d73027", "#fc8d59", "#fc8d59", "#fee08b", "#1a9850"),
+  domain = c(0, 20, 40, 60, 100)
+)
+
+plot_data |>
+  tidyr::pivot_wider(names_from = task, values_from = pct_correct) |>
+  gt() |>
+  tab_header(title = "Percent Correct") |>
+  cols_label(`sentiment-analysis` = html("sentiment-<br>analysis")) |>
+  data_color(
+    columns = -LLM,
+    fn = color_fn
+  )</code></pre>
+
+
+
+<p>It cost me 39 cents for Opus to judge these local LLM runs—not a bad bargain.</p>
+
+
+
+<p>Update (April 6, 2026): I used vitals and the same three-item dataset to test several LLMs from Google’s new Gemma 4 open-weight, commercially permissive family announced on April 2.</p>
+
+
+
+<p>While the 4b version did about the same as other local LLMs I’ve tried, gemma-4-26b scored a surprising 100% when I ran it six times.</p>
+
+
+
+<p>Note that although it ran at an acceptable speed in Ollama, gemma-4-26b was a tight fit in my PC’s memory when running vitals inside RStudio. In fact, it choked when I tried to run multiple epochs at once, so I ended up running only one test at a time.</p>
+
+
+
+<p>Also important: I set up the ellmer chat object to turn off the model’s “thinking.” The code:</p>
+
+
+
+<pre class="wp-block-code"><code>chat_gemma_26b <- chat_ollama(
+  model = "gemma4:26b",
+  api_args = list(
+    think = FALSE
+  )
+)
+
+my_task_gemma_26b_1 <- Task$new(
+  dataset = my_dataset,
+  solver = generate(chat_gemma_26b),
+  scorer = model_graded_qa(
+    scorer_chat = chat_anthropic(model = "claude-opus-4-6")
+  ),
+  name = "Basic gemma26b test running just once with Opus judging"
+)
+
+my_task_gemma_26b_1$eval(epochs = 1)
+</code></pre>
+
+
+
+<h3 class="wp-block-heading" id="extract-structured-data-from-text">Extract structured data from text</h3>
+
+
+
+<p>Vitals has a special function for extracting structured data from plain text: <code>generate_structured()</code>. It requires both a chat object <em>and</em> a defined data type you want the LLM to return. As of this writing, you need the development version of vitals to use the <code>generate_structured()</code> function.</p>
+
+
+
+<p>First, here’s my new dataset to extract topic, speaker name and affiliation, date, and start time from a plain-text description. The more complex version asks the LLM to convert the time zone to Eastern Time from Central European Time:</p>
+
+
+
+<pre class="wp-block-code"><code>extract_dataset <- data.frame(
+  id = c("entity-extract-basic", "entity-extract-more-complex"),
+  input = c(
+    "Extract the workshop topic, speaker name, speaker affiliation, date in 'yyyy-mm-dd' format, and start time in 'hh:mm' format from the text below. Assume the date year makes the most sense given that today's date is February 7, 2026. Return ONLY those entities in the format {topic}, {speaker name}, {date}, {start_time}. <text>R Package Development in Positron\r\nThursday, January 15th, 18:00 - 20:00 CET (Rome, Berlin, Paris timezone) \r\nStephen D. Turner is an associate professor of data science at the University of Virginia School of Data Science. Prior to re-joining UVA he was a data scientist in national security and defense consulting, and later at a biotech company (Colossal, the de-extinction company) where he built and deployed scores of R packages.</text>",
+
+    "Extract the workshop topic, speaker name, speaker affiliation, date in 'yyyy-mm-dd' format, and start time in Eastern Time zone in 'hh:mm ET' format from the text below. (TZ is the time zone). Assume the date year makes the most sense given that today's date is February 7, 2026. Return ONLY those entities in the format {topic}, {speaker name}, {date}, {start_time}. Convert the given time to Eastern Time if required. <text>R Package Development in Positron\r\nThursday, January 15th, 18:00 - 20:00 CET (Rome, Berlin, Paris timezone) \r\nStephen D. Turner is an associate professor of data science at the University of Virginia School of Data Science. Prior to re-joining UVA he was a data scientist in national security and defense consulting, and later at a biotech company (Colossal, the de-extinction company) where he built and deployed scores of R packages.</text>"
+  ),
+  target = c(
+    "R Package Development in Positron, Stephen D. Turner, University of Virginia (or University of Virginia School of Data Science), 2026-01-15, 18:00. OR R Package Development in Positron, Stephen D. Turner, University of Virginia (or University of Virginia School of Data Science), 2026-01-15, 18:00 CET.",
+    "R Package Development in Positron, Stephen D. Turner, University of Virginia (or University of Virginia School of Data Science), 2026-01-15, 12:00 ET."
+  )
+)</code></pre>
+
+
+
+<p>Below is an example of how to define a data structure using ellmer’s <code>type_object()</code> function. Each of the arguments gives the name of a data field and its type (<code>string</code>, <code>integer</code>, and so on). I’m specifying I want to extract a <code>workshop_topic</code>, <code>speaker_name</code>, <code>current_speaker_affiliation</code>, <code>date</code> (as a <code>string</code>), and <code>start_time</code> (also as a <code>string</code>):</p>
+
+
+
+<pre class="wp-block-code"><code>my_object <- type_object(
+  workshop_topic = type_string(),
+  speaker_name = type_string(),
+  current_speaker_affiliation = type_string(),
+  date = type_string(
+    "Date in yyyy-mm-dd format"
+  ),
+  start_time = type_string(
+    "Start time in hh:mm format, with timezone abbreviation if applicable"
+  )
+)</code></pre>
+
+
+
+<p>Next, I’ll use the chat objects I created earlier in a new structured data task, using Sonnet as the judge since grading is straightforward:</p>
+
+
+
+<pre class="wp-block-code"><code>my_task_structured <- Task$new(
+  dataset = extract_dataset,
+  solver = generate_structured(
+    solver_chat = my_chat,
+    type = my_object
+  ),
+  scorer = model_graded_qa(
+    partial_credit = FALSE,
+    scorer_chat = ellmer::chat_anthropic(model = "claude-sonnet-4-6")
+  )
+)
+
+
+gemini_task_structured <- my_task_structured$clone()
+
+# You need to add the type to generate_structured(), that's not included when a structured task is cloned
+gemini_task_structured$set_solver(
+  generate_structured(solver_chat = my_chat_gemini, type = my_object)
+)
+
+ministral_task_structured <- my_task_structured$clone()
+ministral_task_structured$set_solver(
+  generate_structured(solver_chat = ministral_chat, type = my_object)
+)
+
+phi_task_structured <- my_task_structured$clone()
+phi_task_structured$set_solver(
+  generate_structured(solver_chat = phi_chat, type = my_object)
+)
+
+gemma_task_structured <- my_task_structured$clone()
+gemma_task_structured$set_solver(
+  generate_structured(
+    solver_chat = gemma_chat,
+    type = my_object
+  )
+)
+
+# Run the evaluations!
+
+my_task_structured$eval(epochs = 3)
+gemini_task_structured$eval(epochs = 3)
+ministral_task_structured$eval(epochs = 3)
+gemma_task_structured$eval(epochs = 3)
+phi_task_structured$eval(epochs = 3)
+
+# Save results to data frame
+structured_tasks <- vitals_bind(
+  gemini = gemini_task_structured,
+  gpt_5_nano = my_task_structured,
+  ministral = ministral_task_structured,
+  gemma = gemma_task_structured,
+  phi = phi_task_structured
+)
+
+saveRDS(structured_tasks, "structured_tasks.Rds")</code></pre>
+
+
+
+<p>It cost me 16 cents for Sonnet to judge 15 evaluation runs of two queries and results each.</p>
+
+
+
+<p>Here are the results:</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><figcaption class="wp-element-caption"><p>How various LLMs fared on extracting structured data from text.</p>
+</figcaption></figure><p class="imageCredit">Sharon Machlis</p></div>
+
+
+
+<p>I was surprised that a local model, Gemma, scored 100%. I wanted to see if that was a fluke, so I ran the eval another 17 times for a total of 20. Weirdly, it missed on two of the 20 basic extractions by giving the title as “R Package Development” instead of “R Package Development in Positron,” but scored 100% on the more complex ones. I asked Claude Opus about that, and it said my “easier” task was more ambiguous for a less capable model to understand. Important takeaway: Be as specific as possible in your instructions!</p>
+
+
+
+<p>Still, Gemma’s results were good enough on this task for me to consider testing it on some real-world entity extraction tasks. And I wouldn’t have known that without running automated evaluations on multiple local LLMs.</p>
+
+
+
+<h3 class="wp-block-heading" id="conclusion">Conclusion</h3>
+
+
+
+<p>If you’re used to writing code that gives predictable, repeatable responses, a script that generates different answers each time it runs can feel unsettling. While there are no guarantees when it comes to predicting an LLM’s next response, evals can increase your confidence in your code by letting you run structured tests with measurable responses, instead of testing via manual, ad-hoc queries. And, as the model landscape keeps evolving, you can stay current by testing how newer LLMs perform—not on generic benchmarks, but on the tasks that matter most to you.</p>
+
+
+
+<h3 class="wp-block-heading" id="learn-more-about-the-vitals-r-package">Learn more about the vitals R package</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Visit the vitals package website.</li>
+
+
+
+<li>Use the are dataset on GitHub to run evaluations on various LLMs to see how they perform writing R code.</li>
+
+
+
+<li>View Simon Couch’s presentation at posit::conf(2025).</li>
+</ul>
+</div></div></div></div>
+  </div>
+  <p>
+    Sources:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/4130274/how-to-choose-the-best-llm-using-r-and-vitals.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Apr 6, 2026, 12:14:57 PM EDT</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://t.me/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Telegram" aria-label="Follow us on Telegram"><svg role="img" aria-label="Telegram Logo" width="24px" height="24px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M40.83,8.48c1.14,0,2,1,1.54,2.86l-5.58,26.3c-.39,1.87-1.52,2.32-3.08,1.45L20.4,29.26a.4.4,0,0,1,0-.65L35.77,14.73c.7-.62-.15-.92-1.07-.36L15.41,26.54a.46.46,0,0,1-.4.05L6.82,24C5,23.47,5,22.22,7.23,21.33L40,8.69a2.16,2.16,0,0,1,.83-.21Z"/></svg></a>
+<!--
+      <a href="https://www.youtube.com/@MajorDigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on YouTube" aria-label="Follow us on YouTube"><svg role="img" aria-label="YouTube Logo" height="24px" width="24px" version="1.1" viewBox="0 0 461.001 461.00" xmlns="http://www.w3.org/2000/svg"><path d="M365.257,67.393H95.744C42.866,67.393,0,110.259,0,163.137v134.728 c0,52.878,42.866,95.744,95.744,95.744h269.513c52.878,0,95.744-42.866,95.744-95.744V163.137 C461.001,110.259,418.135,67.393,365.257,67.393z M300.506,237.056l-126.06,60.123c-3.359,1.602-7.239-0.847-7.239-4.568V168.607 c0-3.774,3.982-6.22,7.348-4.514l126.06,63.881C304.363,229.873,304.298,235.248,300.506,237.056z"/></svg></a>
+      <a href="https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Apple Podcasts" aria-label="Follow us on Apple Podcasts"><svg role="img" aria-label="Apple Podcasts Logo" width="21px" height="21px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M7.12 0c-3.937-0.011-7.131 3.183-7.12 7.12v17.76c-0.011 3.937 3.183 7.131 7.12 7.12h17.76c3.937 0.011 7.131-3.183 7.12-7.12v-17.76c0.011-3.937-3.183-7.131-7.12-7.12zM15.817 3.421c3.115 0 5.932 1.204 8.079 3.453 1.631 1.693 2.547 3.489 3.016 5.855 0.161 0.787 0.161 2.932 0.009 3.817-0.5 2.817-2.041 5.339-4.317 7.063-0.812 0.615-2.797 1.683-3.115 1.683-0.12 0-0.129-0.12-0.077-0.615 0.099-0.792 0.192-0.953 0.64-1.141 0.713-0.296 1.932-1.167 2.677-1.911 1.301-1.303 2.229-2.932 2.677-4.719 0.281-1.1 0.244-3.543-0.063-4.672-0.969-3.595-3.907-6.385-7.5-7.136-1.041-0.213-2.943-0.213-4 0-3.636 0.751-6.647 3.683-7.563 7.371-0.245 1.004-0.245 3.448 0 4.448 0.609 2.443 2.188 4.681 4.255 6.015 0.407 0.271 0.896 0.547 1.1 0.631 0.447 0.192 0.547 0.355 0.629 1.14 0.052 0.485 0.041 0.62-0.072 0.62-0.073 0-0.62-0.235-1.199-0.511l-0.052-0.041c-3.297-1.62-5.407-4.364-6.177-8.016-0.187-0.943-0.224-3.187-0.036-4.052 0.479-2.323 1.396-4.135 2.921-5.739 2.199-2.319 5.027-3.543 8.172-3.543zM16 7.172c0.541 0.005 1.068 0.052 1.473 0.14 3.715 0.828 6.344 4.543 5.833 8.229-0.203 1.489-0.713 2.709-1.619 3.844-0.448 0.573-1.537 1.532-1.729 1.532-0.032 0-0.063-0.365-0.063-0.803v-0.808l0.552-0.661c2.093-2.505 1.943-6.005-0.339-8.296-0.885-0.896-1.912-1.423-3.235-1.661-0.853-0.161-1.031-0.161-1.927-0.011-1.364 0.219-2.417 0.744-3.355 1.672-2.291 2.271-2.443 5.791-0.348 8.296l0.552 0.661v0.813c0 0.448-0.037 0.807-0.084 0.807-0.036 0-0.349-0.213-0.683-0.479l-0.047-0.016c-1.109-0.885-2.088-2.453-2.495-3.995-0.244-0.932-0.244-2.697 0.011-3.625 0.672-2.505 2.521-4.448 5.079-5.359 0.547-0.193 1.509-0.297 2.416-0.281zM15.823 11.156c0.417 0 0.828 0.084 1.131 0.24 0.645 0.339 1.183 0.989 1.385 1.677 0.62 2.104-1.609 3.948-3.631 3.005h-0.015c-0.953-0.443-1.464-1.276-1.475-2.36 0-0.979 0.541-1.828 1.484-2.328 0.297-0.156 0.709-0.235 1.125-0.235zM15.812 17.464c1.319-0.005 2.271 0.463 2.625 1.291 0.265 0.62 0.167 2.573-0.292 5.735-0.307 2.208-0.479 2.765-0.905 3.141-0.589 0.52-1.417 0.667-2.209 0.385h-0.004c-0.953-0.344-1.157-0.808-1.553-3.527-0.452-3.161-0.552-5.115-0.285-5.735 0.348-0.823 1.296-1.285 2.624-1.291z"/></svg></a>
+      <a href="https://podcasters.spotify.com/pod/show/majordigest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Spotify" aria-label="Follow us on Spotify"><svg role="img" aria-label="Spotify Logo" width="28px" height="28px" viewBox="0 -2 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M13.2 20.84c-0.2 0-0.4-0.080-0.56-0.2-1.84-1.6-5.8-1.12-7.2-0.84-0.44 0.12-0.92-0.2-1-0.64-0.12-0.44 0.2-0.88 0.64-1 0.24-0.040 5.8-1.24 8.64 1.2 0.36 0.32 0.4 0.84 0.080 1.2-0.12 0.16-0.36 0.28-0.6 0.28zM14.2 18.44c-0.16 0-0.32-0.040-0.48-0.16-3.36-2.4-8.48-1.080-8.52-1.080-0.44 0.12-0.92-0.16-1.040-0.6s0.16-0.92 0.6-1.040c0.24-0.080 5.92-1.56 9.96 1.32 0.36 0.28 0.48 0.8 0.2 1.16-0.2 0.28-0.44 0.4-0.72 0.4zM15.24 15.72c-0.16 0-0.32-0.040-0.48-0.16-4.44-2.96-10.040-1.040-10.12-1.040-0.44 0.16-0.88-0.080-1.040-0.52s0.080-0.92 0.52-1.080c0.28-0.080 6.48-2.2 11.6 1.24 0.4 0.24 0.48 0.76 0.24 1.16-0.2 0.24-0.48 0.4-0.72 0.4zM9.6 25.6c-5.28 0-9.6-4.32-9.6-9.6s4.32-9.6 9.6-9.6 9.6 4.32 9.6 9.6-4.32 9.6-9.6 9.6zM9.6 8.080c-4.36 0-7.92 3.56-7.92 7.92s3.56 7.92 7.92 7.92 7.92-3.56 7.92-7.92-3.56-7.92-7.92-7.92z"></path></svg></a>
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2026&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.6)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.6">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.6" async></script>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasters.spotify.com/pod/show/majordigest/",
+   "name": "Major Digest Podcast - Spotify Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189",
+   "name": "Major Digest Podcast - Apple Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+
+</body>
+</html>

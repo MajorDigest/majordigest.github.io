@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en"
+  prefix="og: https://ogp.me/ns#">
+
+<head>
+  <meta charset="utf-8">
+  <title>Building a state-of-the-art development platform with Backstage - Major Digest</title>
+  <meta name="description" content="Key takeaways
+Backstage solved the portal problem, not the platform problem. A portal organizes catalogs, documentation, and templates. A platform owns deployments, environments, policies, and runtime operations. Backstage assumes that the execution layer exists beneath it.">
+  <link rel="canonical" href="https://majordigest.com/tech/2026/06/25/building-a-state-of-the-art-development-platform-with-backstage/">
+
+  <meta itemprop="name" content="Building a state-of-the-art development platform with Backstage - Major Digest">
+  <meta itemprop="description" content="Key takeaways
+Backstage solved the portal problem, not the platform problem. A portal organizes catalogs, documentation, and templates. A platform owns deployments, environments, policies, and runtime operations. Backstage assumes that the execution layer exists beneath it.">
+  <link itemprop="url" href="https://majordigest.com/tech/2026/06/25/building-a-state-of-the-art-development-platform-with-backstage/">
+  <meta itemprop="image" content="https://majordigest.com/static14/tech/2026/06/25/building-a-state-of-the-art-development-platform-with-backstage.webp">
+
+  <meta property="og:title" content="Building a state-of-the-art development platform with Backstage - Major Digest">
+  <meta property="og:description" content="Key takeaways
+Backstage solved the portal problem, not the platform problem. A portal organizes catalogs, documentation, and templates. A platform owns deployments, environments, policies, and runtime operations. Backstage assumes that the execution layer exists beneath it.">
+  <meta property="og:url" content="https://majordigest.com/tech/2026/06/25/building-a-state-of-the-art-development-platform-with-backstage/">
+  <meta property="og:image" content="https://majordigest.com/static14/tech/2026/06/25/building-a-state-of-the-art-development-platform-with-backstage.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Building a state-of-the-art development platform with Backstage - Major Digest">
+  <meta name="twitter:description" content="Key takeaways
+Backstage solved the portal problem, not the platform problem. A portal organizes catalogs, documentation, and templates. A platform owns deployments, environments, policies, and runtime operations. Backstage assumes that the execution layer exists beneath it.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2026/06/25/building-a-state-of-the-art-development-platform-with-backstage/">
+  <meta name="twitter:image" content="https://majordigest.com/static14/tech/2026/06/25/building-a-state-of-the-art-development-platform-with-backstage.webp">
+  <meta name="twitter:image:alt" content="Building a state-of-the-art development platform with Backstage - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.6">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.6">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2026-06-25T22:00:08.136Z" itemprop="datePublished">Thursday, June 25, 2026</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Building a state-of-the-art development platform with Backstage - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "Building a state-of-the-art development platform with Backstage - Major Digest"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Thu, 25 Jun 2026 09:00:00 GMT">
+  <meta itemprop="url" content="/tech/2026/06/25/building-a-state-of-the-art-development-platform-with-backstage/">
+  <h2 itemprop="headline">Building a state-of-the-art development platform with Backstage</h2>
+  <div itemprop="articleBody">
+    <figure>
+      <img src="/static14/tech/2026/06/25/building-a-state-of-the-art-development-platform-with-backstage.webp" alt="Building a state-of-the-art development platform with Backstage" itemprop="image" width="400" height="225"
+        data-src="https://www.infoworld.com/wp-content/uploads/2026/06/4189074-0-07197900-1782406916-it-infrastructure-shutterstock_313145102.jpg?quality=50&strip=all">
+      <figcaption>Credit: Info World</figcaption>
+    </figure>
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<h3 class="wp-block-heading" id="key-takeaways">Key takeaways</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Backstage solved the portal problem, not the platform problem. A portal organizes catalogs, documentation, and templates. A platform owns deployments, environments, policies, and runtime operations. Backstage assumes that the execution layer exists beneath it.</li>
+
+
+
+<li>Point-to-point integrations become a maintenance burden. Many organizations end up with a “messy middle” where Backstage is connected directly to CI/CD, GitOps, Kubernetes, and observability tools through custom wiring that’s fragile and hard to evolve.</li>
+
+
+
+<li>Abstractions are the interface between developers and infrastructure. Developers work with components, endpoints, and dependencies. Platform engineers work with environments, pipelines, and component types. The platform compiles both into Kubernetes resources.</li>
+
+
+
+<li>A control plane bridges the gap. It sits between the portal and runtime, compiling abstractions into infrastructure, enforcing policies consistently, reconciling drift, and aggregating runtime state back to the portal.</li>
+
+
+
+<li>Good abstractions enable advanced capabilities. Unified observability, automated guardrails, and AI agents that can reason about and act on your platform. All becomes possible when you have well-defined concepts and a control plane that understands both sides.</li>
+</ul>
+
+
+
+<p>…</p>
+
+
+
+<h3 class="wp-block-heading" id="start-with-backstage">Start with Backstage</h3>
+
+
+
+<p>If you’re building an internal developer platform, Backstage is certainly part of your architecture. It solved the discovery problem and became the default choice for developer portals.</p>
+
+
+
+<p>Before Backstage, developers navigated wikis, spreadsheets, and tribal knowledge just to find who owned a service or how to spin up a new one. Backstage brought structure: a unified catalog, a plugin ecosystem, and golden-path templates that actually got adopted.</p>
+
+
+
+<p>Backstage is a Cloud Native Computing Foundation (CNCF) project with one of the most active contributor communities in the ecosystem. When organizations evaluate developer portals, Backstage is the starting point.</p>
+
+
+
+<p>However, many teams discover something after deployment: Backstage provides a portal, not a platform. A portal organizes information. A platform owns execution: deployments, environments, policies, observability, and runtime operations.</p>
+
+
+
+<p>Backstage assumes that the execution layer exists beneath it. That layer is where most of the complexity lives, and it’s what this article is about.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>What a developer platform actually is</h3>
+
+
+
+<p>A developer platform or an internal developer platform is a self-service framework you build to help developers build, deploy, and manage applications independently.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><p class="imageCredit">WSO2</p></div>
+
+
+
+<p>Most organizations already have an organically grown version of this:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Developer commits code</li>
+
+
+
+<li>CI pipeline builds and pushes images to a registry</li>
+
+
+
+<li>Pipeline updates a GitOps repo containing Helm charts or Kubernetes manifests</li>
+
+
+
+<li>Argo CD or Flux syncs those manifests to clusters</li>
+</ul>
+
+
+
+<p>You may have this workflow running today. The question is whether it’s a pipeline stitched together with scripts and tribal knowledge, or a platform with consistent abstractions and self-service capabilities.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>What usually happens after adopting Backstage</h3>
+
+
+
+<p>How do you add Backstage to this setup? The common approach is for developers to maintain Backstage entity files (primarily component and API entities) alongside the source code. Then you configure the built-in entity provider in Backstage to scan source code repositories to populate the catalog. Eventually, you’ll end up with a portal with all your systems, components, APIs, and other resources. So far, so good.</p>
+
+
+
+<p>Once developers start using the portal, you’ll be hit with a consistent flow of feature requests:</p>
+
+
+
+<ul class="wp-block-list">
+<li>“I see my component in the catalog, but is it actually running?” You configure the Kubernetes plugin and link components to their corresponding manifests. Now developers can see pod status, deployment state, and replica counts.</li>
+
+
+
+<li>“I need logs, metrics, and traces related to my component.” You integrate your observability stack or developers context-switch to Grafana, Datadog, or whatever you’re running. Either way, more wiring.</li>
+
+
+
+<li>“Can I create new components from here?” You build Backstage templates that scaffold repos with the right structure, Backstage entities, Helm charts, and CI pipelines, all of which encode your organization’s best practices. Now you’re maintaining golden paths in templates, separately from the runtime configuration that actually enforces them.</li>
+</ul>
+
+
+
+<p>Each request is reasonable and achievable, but they add up.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>The messy middle</h3>
+
+
+
+<p>Eventually, you end up with a platform held together by point-to-point connections. Every new capability requires new wiring. Every upgrade risks breaking something. You spend more time maintaining integrations than building features.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><p class="imageCredit">WSO2</p></div>
+
+
+
+<p>You would never design a production system with this many point-to-point dependencies. Why accept it for your platform?</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>Treat the platform as a product, but also as a system</h3>
+
+
+
+<p>Organically grown systems get you started, but once you commit to Backstage as your portal, you need a product mindset. Start from developer experience, understand their pain points, then design a system that addresses them coherently.</p>
+
+
+
+<p>A platform is also a system. Approach it the way you would approach any production system you’re building. You wouldn’t design a back-end service without thinking about separation of concerns, clear interfaces, and extensibility.</p>
+
+
+
+<p>The same principles apply here:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Separation of concerns: Don’t mix developer-facing abstractions with infrastructure implementation. Keep them separate so you can evolve each independently.</li>
+
+
+
+<li>Clear interfaces: Define explicit abstractions. Developers and platform engineers should interact with well-defined concepts rather than implementation details scattered across Helm charts and CI scripts.</li>
+
+
+
+<li>Extensibility: Requirements keep changing. If every new capability requires custom wiring, you’ll spend more time maintaining than improving. Design for extension from the start.</li>
+</ul>
+
+
+
+<p>The difference between a pile of integrations and a platform is architecture. Get the system design right, and new capabilities slot in cleanly. Get it wrong, and every feature request becomes a maintenance burden.</p>
+
+
+
+<h3 class="wp-block-heading" id="the-missing-layer-beneath-backstage">The missing layer beneath Backstage</h3>
+
+
+
+<p>Moving from an organically grown pipeline to a streamlined, efficient, and highly productive developer platform is a big leap. You probably have CI/CD pipelines that work, a Kubernetes cluster running workloads, and a Backstage catalog describing what exists.</p>
+
+
+
+<p>The questions are:</p>
+
+
+
+<ul class="wp-block-list">
+<li>How do you transform an informational portal into one with a platform under the hood?</li>
+
+
+
+<li>How do you bridge the gap between what the catalog describes and what’s actually running?</li>
+
+
+
+<li>How do you enforce golden paths beyond initial scaffolding?</li>
+
+
+
+<li>How do you design a platform that evolves with your organization’s needs?</li>
+</ul>
+
+
+
+<p>What’s missing is a connective layer between Backstage and your runtime, something that makes the portal operational rather than just informational. Let’s look at the key architectural elements to consider when designing that layer and the whole platform.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>Start with abstractions</h3>
+
+
+
+<p>One of the main goals of a developer platform is to reduce cognitive load. The platform should meet developers where they are and speak their language, not Kubernetes’.</p>
+
+
+
+<p>Every organization has its own vocabulary, but the Backstage system model is a good starting point. It may not cover everything, but you can extend it with custom entities. The key is that developers work with high-level concepts while the platform compiles them into Kubernetes resources. Developers are abstracted away from the underlying details, but they can still see what’s happening underneath.</p>
+
+
+
+
+
+
+
+<p>These are not just static abstractions; they also have associated runtime semantics. The following diagram illustrates runtime representations of these concepts.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><p class="imageCredit">WSO2</p></div>
+
+
+
+<p>In the workload cluster, a project becomes an isolation boundary for all of its components. The platform translates this into Kubernetes namespaces and network policies that enforce the boundary, not just document it.</p>
+
+
+
+<p>Endpoint visibility determines which endpoints can talk to which. A project-scoped endpoint gets network policies that block traffic from outside the project. An organization-scoped endpoint is exposed to internal traffic but remains behind the internal gateway. An external endpoint gets routed through the public gateway with appropriate authentication. Developers declare visibility; the platform generates the policies.</p>
+
+
+
+<p>Dependencies work the same way. When a component declares a dependency on an endpoint, the platform injects the URL and other environment variables required to connect to the dependency. It configures the network policies for both directions, egress from the calling endpoint and ingress to the target endpoint. Without the declared dependency, egress is blocked by default. The dependency graph you see above reflects actual permitted traffic flow, not just intended relationships.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>You need platform abstractions, too</h3>
+
+
+
+<p>Developer abstractions help your developers. Platform abstractions help you.</p>
+
+
+
+<p>While developers work with components, endpoints, and dependencies, you need a different vocabulary to design and operate the platform itself. These abstractions let you and your team define standards, enforce policies, and create structure without writing low-level configurations for every scenario.</p>
+
+
+
+
+
+
+
+<p>These abstractions separate platform concerns from application concerns. Developers don’t need to know which cluster their code runs on or how environments are wired together. They deploy to “staging” or “prod,” and you define what those terms mean.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>The missing layer is a control plane</h3>
+
+
+
+<p>The control plane is where abstractions become real. It sits between the portal and your workload clusters, translating developer intent into infrastructure configuration.</p>
+
+
+
+<p>You can think of it as a compiler that targets Kubernetes clusters, converting higher-level abstractions into what Kubernetes and its underlying frameworks understand. It can also apply platform-wide rules during this compilation. Resource limits, security requirements, etc., can be enforced consistently, not merely documented and hoped for.</p>
+
+
+
+<p>But compilation is only half the job. The control plane also reconciles continuously. It monitors drift between the declared and actual states. When they diverge, it corrects. Your abstractions remain the source of truth; the control plane enforces them over time.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>Programmability is not optional</h3>
+
+
+
+<p>One of the key aspects of this control plane is programmability. If you want your platform to evolve, the control plane needs to be extensible. Different teams have different requirements. New capabilities emerge. You can’t anticipate everything up front.</p>
+
+
+
+<p>This means allowing customization of how abstractions compile to Kubernetes manifests. But extensibility without guardrails is dangerous. You need programmability that preserves your invariants. The goal is constrained flexibility, open enough to evolve, structured enough to stay coherent.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>Observable abstractions make the portal useful</h3>
+
+
+
+<p>The control plane also aggregates runtime state and associates it with your abstractions. This is what makes the portal useful. Without this, developers piece together information from different tools: Kubernetes dashboard for pod status, Argo CD for the deployment state, Grafana for metrics, Jaeger for traces. Each tool knows part of the story; none shows the full picture.</p>
+
+
+
+<p>With the control plane aggregating state, the portal tells a connected story. When a developer opens a component page in Backstage, they see:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Deployed environments and their status</li>
+
+
+
+<li>Current replicas and resource usage</li>
+
+
+
+<li>Recent deployments and who triggered them</li>
+
+
+
+<li>Logs, metrics, and traces that are scoped to that component, in each environment</li>
+
+
+
+<li>Dependencies and their health</li>
+</ul>
+
+
+
+<p>No context-switching. No reconstructing which pod belongs to which service in which cluster. The abstraction is the anchor; everything else attaches to it.</p>
+
+
+
+<p>This only works because the control plane understands both sides. It compiled the abstractions to Kubernetes, so it knows how to map runtime data back. Information flows in both directions. Downward: developer intent flows through the control plane and becomes running workloads. Upward: runtime state flows back through the control plane and appears in the portal.</p>
+
+
+
+<p>This is what makes the portal actionable. It’s not just displaying information; it’s connected to a system that can act.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>Data plane: keep it simple</h3>
+
+
+
+<p>The data plane is where your workloads actually run. In most cases, this means one or more Kubernetes clusters. The data plane doesn’t know about your abstractions. It understands Kubernetes primitives such as pods, deployments, services, and ingresses. The control plane’s job is to compile your higher-level concepts into these primitives and apply them.</p>
+
+
+
+<p>The data plane does one thing: it runs what the control plane tells it to run. The intelligence lives in the control plane; the execution happens in the data plane.</p>
+
+
+
+<h3 class="wp-block-heading" id="where-ai-fits-into-the-platform">Where AI fits into the platform</h3>
+
+
+
+<p>AI is now part of every platform conversation, but the architectural question is where it actually belongs.</p>
+
+
+
+<p>The abstractions and control plane you’ve built create the foundation. You have well-defined concepts such as components, endpoints, and dependencies. You have a runtime state aggregated and tied to those concepts. You have a connected view of your system. AI agents can definitely leverage this.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>Agents as platform users</h3>
+
+
+
+<p>AI agents should be able to interact with your platform as first-class participants. This requires exposing platform capabilities through interfaces that agents can use, such as Model Context Protocol (MCP) servers, APIs with clear semantics, user-friendly CLIs, and skills that map to platform operations.</p>
+
+
+
+<p>These capabilities of the platform enable agents to create components, trigger builds and deployments, query environment status, and reason about dependencies. They help you and your developers become more productive.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>Agents as platform capabilities</h3>
+
+
+
+<p>You can also embed agents inside your platform to help your teams’ day-to-day operations. Here are some examples of agents you can develop:</p>
+
+
+
+<ul class="wp-block-list">
+<li>SRE agents: Analyze logs, metrics, and traces to surface likely root causes. Instead of developers digging through dashboards, the agent correlates signals and suggests where to look.</li>
+
+
+
+<li>FinOps agents: Help teams understand and optimize resource costs across environments and components.</li>
+
+
+
+<li>Architect agents: Assist with system design decisions, such as dependency analysis, capacity planning, and migration impact assessment.</li>
+</ul>
+
+
+
+<p>These agents work because they have access to the control plane’s unified view. They see abstractions, runtime state, and observability data in one place, the same connected story developers see in the portal.</p>
+
+
+
+<p>The pattern holds. Good abstractions make everything easier, including AI.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>OpenChoreo as a reference implementation</h3>
+
+
+
+<p>OpenChoreo is an open-source developer platform for Kubernetes. It was recently accepted into the CNCF as a sandbox project. OpenChoreo implements the architecture described in this article: developer abstractions backed by a control plane, a Backstage-powered portal, integrated CI/CD and GitOps, and observability wired to your abstractions.</p>
+
+
+
+<p>If you’re building this architecture yourself, OpenChoreo is worth studying as a reference, even if you don’t adopt it directly. The project demonstrates how these pieces fit together: how abstractions compile into Kubernetes resources, how runtime state flows back to the portal, and how guardrails are enforced during compilation.</p>
+
+
+
+<p>You can use OpenChoreo as a complete platform, or install its Backstage plugins into your existing portal and use just the control plane layer. Either way, the underlying patterns are what matter. The architecture is the idea. OpenChoreo is one way to implement it.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><p class="imageCredit">WSO2</p></div>
+
+
+
+<h3 class="wp-block-heading" id="a-useful-mental-model-multi-plane-architecture">A useful mental model: multi-plane architecture</h3>
+
+
+
+<p>OpenChoreo separates concerns across five planes:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Experience plane: Where developers, platform engineers, and SREs interact with the platform via the Backstage-powered portal, CLI, GitOps, or AI agents.</li>
+
+
+
+<li>Control plane: The brain that translates high-level abstractions (components, APIs, environments, pipelines) into Kubernetes manifests. Programmable through component types and traits, so you can extend it without forking or writing low-level controllers. Continuously reconciles the runtime state back into those abstractions.</li>
+
+
+
+<li>Data plane: Where workloads run. Enforces the semantics of your abstractions, such as project isolation, traffic policies, and security boundaries. These aren’t just configurations; the platform guarantees them.</li>
+
+
+
+<li>Observability plane: Feeds metrics, logs, and traces back through the same abstractions developers already understand, requiring no translation.</li>
+
+
+
+<li>Workflow plane (optional): Handles builds using Cloud Native Buildpacks and Argo Workflows by default.</li>
+</ol>
+
+
+
+<p>These planes work together but remain separate concerns. You can reason about each independently, evolve them at different rates, and deploy them flexibly: a single cluster with namespace isolation for dev/test, fully separated multi-cluster setups for production, or hybrid topologies that colocate planes like Control and CI for cost efficiency.</p>
+
+
+
+<h3 class="wp-block-heading"><a></a>AI and OpenChoreo</h3>
+
+
+
+<p>OpenChoreo is being built to treat AI agents as first-class participants. In OpenChoreo 1.0, external agents can interact with the platform via MCP servers, agent skills, or the CLI to generate and edit component configurations, reason about releases and environments, and more. The built-in SRE Agent is a first example of this. It analyzes logs, metrics, and traces from your deployments and uses LLMs to surface likely root causes and actionable insights.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><p class="imageCredit">WSO2</p></div>
+
+
+
+<h3 class="wp-block-heading" id="from-portal-to-platform">From portal to platform</h3>
+
+
+
+<p>Backstage solved the portal problem. It gave you a unified interface for catalogs, documentation, and golden paths. But a portal isn’t a platform. There’s a gap between what developers see and what’s actually running, and that’s where you get stuck. You fill it with point-to-point integrations, custom plugins, and scripts that become their own maintenance burden.</p>
+
+
+
+<p>The pattern that works is portal, control plane, data plane: </p>
+
+
+
+<ul class="wp-block-list">
+<li>A portal that gives developers ready access to catalogs, documentation, and templates.</li>
+
+
+
+<li>A control plane that compiles platform abstractions, reconciles drift, and aggregates runtime state.</li>
+
+
+
+<li>A data plane that runs workloads and enforces guarantees.</li>
+</ul>
+
+
+
+<p>Whether you build this yourself or you adopt something like OpenChoreo, the architecture matters more than the tools. Get the layers right, and new capabilities slot in cleanly. Get them wrong, and every feature request becomes a project.</p>
+
+
+
+<p>Backstage gives you the front door. The real platform begins behind it.</p>
+
+
+
+<p><em>—</em></p>
+
+
+
+<p><a href="https://www.infoworld.com/blogs/new-tech-forum"><strong><em>New Tech Forum</em></strong></a><em><strong> provides a venue for technology leaders—including vendors and other outside contributors—to explore and discuss emerging enterprise technology in unprecedented depth and breadth. The selection is subjective, based on our pick of the technologies we believe to be important and of greatest interest to InfoWorld readers. InfoWorld does not accept marketing collateral for publication and reserves the right to edit all contributed content. Send all </strong></em><em><strong>inquiries to </strong></em><a href="mailto:doug_dineley@foundryco.com"><strong><em>doug_dineley@foundryco.com</em></strong></a><em><strong>.</strong></em></p>
+</div></div></div></div>
+  </div>
+  <p>
+    Sources:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/4189074/building-a-state-of-the-art-development-platform-with-backstage.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Jun 25, 2026, 5:00:00 AM EDT</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://t.me/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Telegram" aria-label="Follow us on Telegram"><svg role="img" aria-label="Telegram Logo" width="24px" height="24px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M40.83,8.48c1.14,0,2,1,1.54,2.86l-5.58,26.3c-.39,1.87-1.52,2.32-3.08,1.45L20.4,29.26a.4.4,0,0,1,0-.65L35.77,14.73c.7-.62-.15-.92-1.07-.36L15.41,26.54a.46.46,0,0,1-.4.05L6.82,24C5,23.47,5,22.22,7.23,21.33L40,8.69a2.16,2.16,0,0,1,.83-.21Z"/></svg></a>
+<!--
+      <a href="https://www.youtube.com/@MajorDigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on YouTube" aria-label="Follow us on YouTube"><svg role="img" aria-label="YouTube Logo" height="24px" width="24px" version="1.1" viewBox="0 0 461.001 461.00" xmlns="http://www.w3.org/2000/svg"><path d="M365.257,67.393H95.744C42.866,67.393,0,110.259,0,163.137v134.728 c0,52.878,42.866,95.744,95.744,95.744h269.513c52.878,0,95.744-42.866,95.744-95.744V163.137 C461.001,110.259,418.135,67.393,365.257,67.393z M300.506,237.056l-126.06,60.123c-3.359,1.602-7.239-0.847-7.239-4.568V168.607 c0-3.774,3.982-6.22,7.348-4.514l126.06,63.881C304.363,229.873,304.298,235.248,300.506,237.056z"/></svg></a>
+      <a href="https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Apple Podcasts" aria-label="Follow us on Apple Podcasts"><svg role="img" aria-label="Apple Podcasts Logo" width="21px" height="21px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M7.12 0c-3.937-0.011-7.131 3.183-7.12 7.12v17.76c-0.011 3.937 3.183 7.131 7.12 7.12h17.76c3.937 0.011 7.131-3.183 7.12-7.12v-17.76c0.011-3.937-3.183-7.131-7.12-7.12zM15.817 3.421c3.115 0 5.932 1.204 8.079 3.453 1.631 1.693 2.547 3.489 3.016 5.855 0.161 0.787 0.161 2.932 0.009 3.817-0.5 2.817-2.041 5.339-4.317 7.063-0.812 0.615-2.797 1.683-3.115 1.683-0.12 0-0.129-0.12-0.077-0.615 0.099-0.792 0.192-0.953 0.64-1.141 0.713-0.296 1.932-1.167 2.677-1.911 1.301-1.303 2.229-2.932 2.677-4.719 0.281-1.1 0.244-3.543-0.063-4.672-0.969-3.595-3.907-6.385-7.5-7.136-1.041-0.213-2.943-0.213-4 0-3.636 0.751-6.647 3.683-7.563 7.371-0.245 1.004-0.245 3.448 0 4.448 0.609 2.443 2.188 4.681 4.255 6.015 0.407 0.271 0.896 0.547 1.1 0.631 0.447 0.192 0.547 0.355 0.629 1.14 0.052 0.485 0.041 0.62-0.072 0.62-0.073 0-0.62-0.235-1.199-0.511l-0.052-0.041c-3.297-1.62-5.407-4.364-6.177-8.016-0.187-0.943-0.224-3.187-0.036-4.052 0.479-2.323 1.396-4.135 2.921-5.739 2.199-2.319 5.027-3.543 8.172-3.543zM16 7.172c0.541 0.005 1.068 0.052 1.473 0.14 3.715 0.828 6.344 4.543 5.833 8.229-0.203 1.489-0.713 2.709-1.619 3.844-0.448 0.573-1.537 1.532-1.729 1.532-0.032 0-0.063-0.365-0.063-0.803v-0.808l0.552-0.661c2.093-2.505 1.943-6.005-0.339-8.296-0.885-0.896-1.912-1.423-3.235-1.661-0.853-0.161-1.031-0.161-1.927-0.011-1.364 0.219-2.417 0.744-3.355 1.672-2.291 2.271-2.443 5.791-0.348 8.296l0.552 0.661v0.813c0 0.448-0.037 0.807-0.084 0.807-0.036 0-0.349-0.213-0.683-0.479l-0.047-0.016c-1.109-0.885-2.088-2.453-2.495-3.995-0.244-0.932-0.244-2.697 0.011-3.625 0.672-2.505 2.521-4.448 5.079-5.359 0.547-0.193 1.509-0.297 2.416-0.281zM15.823 11.156c0.417 0 0.828 0.084 1.131 0.24 0.645 0.339 1.183 0.989 1.385 1.677 0.62 2.104-1.609 3.948-3.631 3.005h-0.015c-0.953-0.443-1.464-1.276-1.475-2.36 0-0.979 0.541-1.828 1.484-2.328 0.297-0.156 0.709-0.235 1.125-0.235zM15.812 17.464c1.319-0.005 2.271 0.463 2.625 1.291 0.265 0.62 0.167 2.573-0.292 5.735-0.307 2.208-0.479 2.765-0.905 3.141-0.589 0.52-1.417 0.667-2.209 0.385h-0.004c-0.953-0.344-1.157-0.808-1.553-3.527-0.452-3.161-0.552-5.115-0.285-5.735 0.348-0.823 1.296-1.285 2.624-1.291z"/></svg></a>
+      <a href="https://podcasters.spotify.com/pod/show/majordigest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Spotify" aria-label="Follow us on Spotify"><svg role="img" aria-label="Spotify Logo" width="28px" height="28px" viewBox="0 -2 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M13.2 20.84c-0.2 0-0.4-0.080-0.56-0.2-1.84-1.6-5.8-1.12-7.2-0.84-0.44 0.12-0.92-0.2-1-0.64-0.12-0.44 0.2-0.88 0.64-1 0.24-0.040 5.8-1.24 8.64 1.2 0.36 0.32 0.4 0.84 0.080 1.2-0.12 0.16-0.36 0.28-0.6 0.28zM14.2 18.44c-0.16 0-0.32-0.040-0.48-0.16-3.36-2.4-8.48-1.080-8.52-1.080-0.44 0.12-0.92-0.16-1.040-0.6s0.16-0.92 0.6-1.040c0.24-0.080 5.92-1.56 9.96 1.32 0.36 0.28 0.48 0.8 0.2 1.16-0.2 0.28-0.44 0.4-0.72 0.4zM15.24 15.72c-0.16 0-0.32-0.040-0.48-0.16-4.44-2.96-10.040-1.040-10.12-1.040-0.44 0.16-0.88-0.080-1.040-0.52s0.080-0.92 0.52-1.080c0.28-0.080 6.48-2.2 11.6 1.24 0.4 0.24 0.48 0.76 0.24 1.16-0.2 0.24-0.48 0.4-0.72 0.4zM9.6 25.6c-5.28 0-9.6-4.32-9.6-9.6s4.32-9.6 9.6-9.6 9.6 4.32 9.6 9.6-4.32 9.6-9.6 9.6zM9.6 8.080c-4.36 0-7.92 3.56-7.92 7.92s3.56 7.92 7.92 7.92 7.92-3.56 7.92-7.92-3.56-7.92-7.92-7.92z"></path></svg></a>
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2026&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.6)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.6">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.6" async></script>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasters.spotify.com/pod/show/majordigest/",
+   "name": "Major Digest Podcast - Spotify Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189",
+   "name": "Major Digest Podcast - Apple Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+
+</body>
+</html>
