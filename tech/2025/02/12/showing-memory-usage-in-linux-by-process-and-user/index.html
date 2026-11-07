@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en"
+  prefix="og: https://ogp.me/ns#">
+
+<head>
+  <meta charset="utf-8">
+  <title>Showing memory usage in Linux by process and user - Major Digest</title>
+  <meta name="description" content="There are a lot of tools for looking at memory usage on Linux systems. Some are commonly used commands like ps, while others are tools like top that allow you to display system performance stats in various ways.">
+  <link rel="canonical" href="https://majordigest.com/tech/2025/02/12/showing-memory-usage-in-linux-by-process-and-user/">
+
+  <meta itemprop="name" content="Showing memory usage in Linux by process and user - Major Digest">
+  <meta itemprop="description" content="There are a lot of tools for looking at memory usage on Linux systems. Some are commonly used commands like ps, while others are tools like top that allow you to display system performance stats in various ways.">
+  <link itemprop="url" href="https://majordigest.com/tech/2025/02/12/showing-memory-usage-in-linux-by-process-and-user/">
+  <meta itemprop="image" content="https://majordigest.com/static12/tech/2025/02/12/showing-memory-usage-in-linux-by-process-and-user.webp">
+
+  <meta property="og:title" content="Showing memory usage in Linux by process and user - Major Digest">
+  <meta property="og:description" content="There are a lot of tools for looking at memory usage on Linux systems. Some are commonly used commands like ps, while others are tools like top that allow you to display system performance stats in various ways.">
+  <meta property="og:url" content="https://majordigest.com/tech/2025/02/12/showing-memory-usage-in-linux-by-process-and-user/">
+  <meta property="og:image" content="https://majordigest.com/static12/tech/2025/02/12/showing-memory-usage-in-linux-by-process-and-user.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Showing memory usage in Linux by process and user - Major Digest">
+  <meta name="twitter:description" content="There are a lot of tools for looking at memory usage on Linux systems. Some are commonly used commands like ps, while others are tools like top that allow you to display system performance stats in various ways.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2025/02/12/showing-memory-usage-in-linux-by-process-and-user/">
+  <meta name="twitter:image" content="https://majordigest.com/static12/tech/2025/02/12/showing-memory-usage-in-linux-by-process-and-user.webp">
+  <meta name="twitter:image:alt" content="Showing memory usage in Linux by process and user - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.6">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.6">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2025-02-13T00:00:29.631Z" itemprop="datePublished">Wednesday, February 12, 2025</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Showing memory usage in Linux by process and user - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "Showing memory usage in Linux by process and user - Major Digest"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Wed, 12 Feb 2025 18:11:56 GMT">
+  <meta itemprop="url" content="/tech/2025/02/12/showing-memory-usage-in-linux-by-process-and-user/">
+  <h2 itemprop="headline">Showing memory usage in Linux by process and user</h2>
+  <div itemprop="articleBody">
+    <figure>
+      <img src="/static12/tech/2025/02/12/showing-memory-usage-in-linux-by-process-and-user.webp" alt="Showing memory usage in Linux by process and user" itemprop="image" width="400" height="225"
+        data-src="https://www.networkworld.com/wp-content/uploads/2025/02/968314-0-63158200-1739383959-shutterstock_2078917720.jpg?quality=50&strip=all">
+      <figcaption>Credit: Network World</figcaption>
+    </figure>
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>There are a lot of tools for looking at memory usage on Linux systems. Some are commonly used commands like<strong> ps</strong>, while others are tools like <strong>top</strong> that allow you to display system performance stats in various ways. In this post, we’ll look at a number of commands that can be very helpful in identifying the users and processes that are using the most memory.</p>
+
+
+
+<h3 class="wp-block-heading" id="using-free">Using free</h3>
+
+
+
+<p>One of the most obvious commands for viewing memory usage is the <strong>free</strong> command, which displays total, used and free memory. With the <strong>-h</strong> option, it displays the stats in “human-readable” format, displaying the numbers in megabytes, gigabytes, etc. as appropriate.</p>
+
+
+
+<pre class="wp-block-preformatted">$ free<br>              total       used       free      shared  buff/cache   available<br>Mem:        3875540    2082216     109908      141692     1683416     1413648<br>Swap:       3874812      35328    3839484<br><br>$ free -h<br>              total       used       free      shared  buff/cache   available<br>Mem:          3.7Gi      2.0Gi      221Mi      132Mi       1.5Gi       1.4Gi<br>Swap:         3.7Gi       47Mi      3.6Gi</pre>
+
+
+
+<h3 class="wp-block-heading" id="using-top">Using top</h3>
+
+
+
+<p>Another of the best commands for looking at memory usage is <strong>top</strong>. One extremely easy way to see what processes are using the most memory is to start <strong>top</strong> and then press <strong>shift+m</strong> to switch the order of the processes shown to rank them by the percentage of memory each is using. Once you’ve entered <strong>shift+m</strong>, your top output should reorder the task entries to look something like what you see below. Note the <strong>%MEM</strong> column, as shown below, displays processes in memory usage order.</p>
+
+
+
+<pre class="wp-block-preformatted">top - 14:22:38 up 12 min,  3 users,  load average: 0.02, 0.22, 0.32<br>MiB Mem :   3784.7 total,    967.8 free,   1249.0 used,   1567.9 buff/cache<br>MiB Swap:   3784.0 total,   3737.2 free,     46.8 used.   2170.7 avail Mem<br><br>    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND<br>   3953 fedora    20   0 1785992 537936  76568 S   0.0  13.9   0:37.63 gnome-software<br>   3590 fedora    20   0 3868704 147920  96512 S   0.0   3.8   0:07.35 gnome-shell<br>   5885 root      20   0  664948 131048  24632 S   0.0   3.4   0:07.94 packagekitd<br>   5444 fedora    20   0  690380  77988  26884 S   0.0   2.0   0:02.11 python</pre>
+
+
+
+<p>The list will be limited by your window size, but the most significant processes with respect to memory usage will show up at the top of the process list.</p>
+
+
+
+<p>If you want to focus on a single user, <strong>top</strong> can be used much in the same way that it is used above. Just add a username with the -U option as shown below and press the <strong>shift+m</strong> keys to order by memory usage:</p>
+
+
+
+<pre class="wp-block-preformatted">$ top -U nemo<br>top - 14:28:54 up 18 min,  3 users,  load average: 0.01, 0.08, 0.22<br>Tasks: 242 total,   1 running, 241 sleeping,   0 stopped,   0 zombie<br>%Cpu(s):  0.3 us,  0.5 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st<br>MiB Mem :   3784.7 total,    761.7 free,   1118.5 used,   1904.5 buff/cache<br>MiB Swap:   3784.0 total,   3741.2 free,     42.8 used.   2298.2 avail Mem<br><br>    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND<br>   6906 nemo      20   0  225276   3712   2944 R   1.0   0.1   0:00.10 top<br>   5681 nemo      20   0   30604  16004  10496 S   0.0   0.4   0:00.29 systemd<br>   5702 nemo      20   0  168976  22256   2048 S   0.0   0.6   0:00.00 (sd-pam)<br>   5718 nemo      20   0   17192   7224   5120 S   0.0   0.2   0:00.04 sshd<br>   5732 nemo      20   0  224656   5248   3584 S   0.0   0.1   0:00.06 bash</pre>
+
+
+
+<h3 class="wp-block-heading" id="using-htop">Using htop</h3>
+
+
+
+<p>The <strong>htop</strong> command will run interactively – updating its display of all running processes, along with CPU, memory, and swap usage. You can also specify options when launching <strong>htop</strong>. For example, you can add a delay between its update using the <strong>-d</strong> option.</p>
+
+
+
+<p>The <strong>htop</strong> output will look like what you see below. Notice the reports on the number of running tasks, load averages, overall memory usage and swap usage that precede details on tasks using the most memory.</p>
+
+
+
+<pre class="wp-block-preformatted">0[                      2.69%] Tasks: 147, 345 thr, 100 kthr; 0 running<br>   1[|||                    5.2%] Load average: 0.05 0.06 0.03<br> Mem[||||||||||||||||1.16G/3.70G] Uptime: 81:51:21<br> Swp[|||              180M/3.70G]<br><br> PID USER PRI NI  VIRT  RES SHR S CPU% MEM% TIME+   Command<br>1234 user  20  0 1234M 250M 15M R 14.5 13.5 1:34.56 /usr/bin/gno<br>5678 user  20  0  678M 100M 10M S  6.2  0.6 0:23.12 code<br>4321 root  20  0  512M  80M  5M S  3.1  0.5 0:12.45 systemd<br>8765 user  20  0  200M  50M  3M S  1.6  0.3 0:05.67 terminal</pre>
+
+
+
+<h3 class="wp-block-heading" id="using-vmstat">Using vmstat</h3>
+
+
+
+<p>The vmstat command provides information about processes, memory, paging, block IO, traps, disks and cpu activity. Here’s an example of its output:</p>
+
+
+
+<pre class="wp-block-preformatted">$ vmstat<br>procs -----------memory--------- ---swap-- -----io--- -system- ------cpu----<br> r  b   swpd   free buff  cache   si   so    bi   bo   in   cs us sy id wa st<br> 0  0 185088 723712 2312 1998296   1   11   159   88  418  207  3  2 96  0  0</pre>
+
+
+
+<p>Note how the headings are used to separate the data into groups (e.g., memory includes swpd, fee, buff and cache). Here’s a listing of what each of these field headings means:</p>
+
+
+
+<p><strong>procs</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li> r: The number of processes waiting for run time</li>
+
+
+
+<li> b: The number of processes in uninterruptible sleep</li>
+</ul>
+
+
+
+<p><strong>memory</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>swpd: the amount of virtual memory used</li>
+
+
+
+<li>free: the amount of idle memory</li>
+
+
+
+<li>buff: the amount of memory used as buffers</li>
+
+
+
+<li>cache: the amount of memory used as cache</li>
+
+
+
+<li>inact: the amount of inactive memory (-a option)</li>
+
+
+
+<li>active: the amount of active memory (-a option)</li>
+</ul>
+
+
+
+<p><strong>swap</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>si: Amount of memory swapped in from disk (/s)</li>
+
+
+
+<li>so: Amount of memory swapped to disk (/s)</li>
+</ul>
+
+
+
+<p><strong>io</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>bi: Blocks received from a block device (blocks/s)</li>
+
+
+
+<li>bo: Blocks sent to a block device (blocks/s)</li>
+</ul>
+
+
+
+<p><strong>system</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>in: The number of interrupts per second, including the clock</li>
+
+
+
+<li>cs: The number of context switches per second</li>
+</ul>
+
+
+
+<p><strong>cpu </strong>(these are percentages of total CPU time)</p>
+
+
+
+<ul class="wp-block-list">
+<li>us: Time spent running non-kernel code (user time, including nice time)</li>
+
+
+
+<li>sy: Time spent running kernel code. (system time)</li>
+
+
+
+<li>id: Time spent idle. Prior to Linux 2.5.41, this includes IO-wait time</li>
+
+
+
+<li>wa: Time spent waiting for IO. Prior to Linux 2.5.41, included in idle</li>
+
+
+
+<li>st: Time stolen from a virtual machine. Prior to Linux 2.6.11, unknown</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="using-ps">Using ps</h3>
+
+
+
+<p>The <strong>ps</strong> command includes a column that displays memory usage for each process. To get the most useful display for viewing the top memory users, you can pass the <strong>ps</strong> output to the <strong>sort</strong> command. Here’s an example that provides a very useful display. The 4<sup>th</sup> field displays the percentage of memory used by each process.</p>
+
+
+
+<pre class="wp-block-preformatted">$ ps aux | sort -rnk 4 | head -5<br>nemo       400  3.4  9.2 3309580 563336 ?      Sl   08:59   1:36 /usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 9086 -prefMapSize 210653 -parentBuildID 20200107212822 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 32469 true tab<br>nemo     32469  8.2  7.7 3492840 469516 ?      Sl   08:54   4:15 /usr/lib/firefox/firefox -new-window<br>nemo     32542  8.9  7.6 2875428 462720 ?      Sl   08:55   4:36 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 1 -prefMapSize 210653 -parentBuildID 20200107212822 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 32469 true tab<br>nemo       342  9.9  5.9 2854664 363528 ?      Sl   08:59   4:44 /usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 8763 -prefMapSize 210653 -parentBuildID 20200107212822 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 32469 true tab<br>nemo      2389 39.5  3.8 1774412 236116 pts/1  Sl+  09:15  12:21 vlc videos/edge_computing.mp4</pre>
+
+
+
+<p>In the example above (truncated for this post), <strong>sort</strong> is being used with the <strong>-r</strong> (reverse), the <strong>-n</strong> (numeric) and the <strong>-k</strong> (key) options which are telling the command to sort the output in reverse numeric order based on the fourth column (memory usage) in the output from <strong>ps</strong>. If we first display the heading for the <strong>ps</strong> output, this is a little easier to see.</p>
+
+
+
+<pre class="wp-block-preformatted">$ ps aux | head -1; ps aux | sort -rnk 4 | head -5<br>USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND<br>nemo       400  3.4  9.2 3309580 563336 ?      Sl   08:59   1:36 /usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 9086 -prefMapSize 210653 -parentBuildID 20200107212822 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 32469 true tab<br>nemo     32469  8.2  7.7 3492840 469516 ?      Sl   08:54   4:15 /usr/lib/firefox/firefox -new-window<br>nemo     32542  8.9  7.6 2875428 462720 ?      Sl   08:55   4:36 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 1 -prefMapSize 210653 -parentBuildID 20200107212822 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 32469 true tab<br>nemo       342  9.9  5.9 2854664 363528 ?      Sl   08:59   4:44 /usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 8763 -prefMapSize 210653 -parentBuildID 20200107212822 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 32469 true tab<br>nemo      2389 39.5  3.8 1774412 236116 pts/1  Sl+  09:15  12:21 vlc videos/edge_computing.mp4</pre>
+
+
+
+<p>If you like this command, you can make it easier to use by setting up as an alias with a command like the one shown below. Don’t forget to add it to your ~/.bashrc file if you want to make it permanent.</p>
+
+
+
+<pre class="wp-block-preformatted">$ alias mem-by-proc="ps aux | head -1; ps aux | sort -rnk 4"</pre>
+
+
+
+<p>You can also use a <strong>ps</strong> command to rank an individual user’s processes by memory usage. In this example, we do this by selecting a single user’s processes with a <strong>grep</strong> command:</p>
+
+
+
+<pre class="wp-block-preformatted">$ ps aux | head -1; ps aux | grep ^nemo| sort -rnk 4 | more <br>USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND<br>nemo     32469  7.1 11.5 3724364 701388 ?      Sl   08:54   7:21 /usr/lib/firefox/firefox -new-window<br>nemo       400  2.0  8.9 3308556 543232 ?      Sl   08:59   2:01 /usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 9086 -prefMapSize 210653 -parentBuildID 20200107212822 -greomni /usr/lib/firefox/omni.ja -appomni/usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 32469 true tab<br>nemo     32542  7.9  7.1 2903084 436196 ?      Sl   08:55   8:07 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 1 -prefMapSize 210653 -parentBuildID 20200107212822 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 32469 true tab<br>nemo       342 10.8  7.0 2941056 426484 ?      Rl   08:59  10:45 /usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 8763 -prefMapSize 210653 -parentBuildID 20200107212822 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 32469 true tab<br>nemo      2389 16.9  3.8 1762960 234644 pts/1  Sl+  09:15  13:57 vlc videos/edge_computing.mp4<br>nemo     29527  3.9  3.7 2736924 227448 ?      Ssl  08:50   4:11 /usr/bin/gnome-shell</pre>
+
+
+
+<h3 class="wp-block-heading" id="using-ps-along-with-other-commands">Using ps along with other commands</h3>
+
+
+
+<p>Commands can get complicated when you want to compare users’ memory usages with each other. In that case, creating a by-user total and ranking them is a good technique, but it requires a little more work and requires a number of commands.</p>
+
+
+
+<p>The script below counts up the memory usage for each active user (including system accounts). The first (outer) for loop creates a list of users with active processes. The second (inner) counts up the percentage of memory each of those users’ processes occupy.</p>
+
+
+
+<pre class="wp-block-preformatted">#/bin/bash<br><br>echo -e USER "\t" % memory used<br>echo "=================="<br>for USER in `ps aux | grep -v USER | awk '{print $1}' | sort | uniq`<br>do<br>  sum=0<br>  for num in `ps aux | grep $USER | awk '{print $4}'`<br>  do<br>   sum=`echo $sum + $num | bc`<br>  done<br>  echo -e $sum "\t" $USER<br>done</pre>
+
+
+
+<p>Output from this script might look like this:</p>
+
+
+
+<pre class="wp-block-preformatted">$ ./show_user_mem_usage<br>USER     % memory used<br>==================<br>.1       avahi<br>.1       chrony<br>.3       colord<br>.9       dbus<br>44.0     fedora<br>.9       geoclue<br>1.0      pcp<br>.2       polkitd<br>16.2     root<br>0        rtkit<br>1.5      shs<br>.5       systemd+</pre>
+
+
+
+<h3 class="wp-block-heading" id="viewing-the-proc-meminfo-file">Viewing the /proc/meminfo file</h3>
+
+
+
+<p>The <strong>/proc/meminfo</strong>file provides a memory usage report for all kinds of system resources. The example below should give you an idea how detailed this data can be. The <strong>column</strong> command allows you to view the long list of stats in a single window. It adjusts to the width of your screen.</p>
+
+
+
+<pre class="wp-block-preformatted">$ cat /proc/meminfo | column<br>MemTotal:        3875540 kB     SecPageTables:         0 kB<br>MemFree:          740468 kB     NFS_Unstable:          0 kB<br>MemAvailable:    2341612 kB     Bounce:                0 kB<br>Buffers:            2312 kB     WritebackTmp:          0 kB<br>Cached:          1890228 kB     CommitLimit:     5812580 kB<br>SwapCached:          292 kB     Committed_AS:    5574984 kB<br>Active:          1295012 kB     VmallocTotal:   34359738367 kB<br>Inactive:        1458080 kB     VmallocUsed:       51380 kB<br>Active(anon):     617436 kB     VmallocChunk:          0 kB<br>Inactive(anon):   331996 kB     Percpu:             1832 kB<br>Active(file):     677576 kB     HardwareCorrupted:     0 kB<br>Inactive(file):  1126084 kB     AnonHugePages:         0 kB<br>Unevictable:       20512 kB     ShmemHugePages:        0 kB<br>Mlocked:            5568 kB     ShmemPmdMapped:        0 kB<br>SwapTotal:       3874812 kB     FileHugePages:         0 kB<br>SwapFree:        3689724 kB     FilePmdMapped:         0 kB<br>Zswap:                 0 kB     CmaTotal:              0 kB<br>Zswapped:              0 kB     CmaFree:               0 kB<br>Dirty:               768 kB     Unaccepted:            0 kB<br>Writeback:             0 kB     HugePages_Total:       0<br>AnonPages:        880780 kB     HugePages_Free:        0<br>Mapped:           313200 kB     HugePages_Rsvd:        0<br>Shmem:             83768 kB     HugePages_Surp:        0<br>KReclaimable:      93488 kB     Hugepagesize:       2048 kB<br>Slab:             203160 kB     Hugetlb:               0 kB<br>SReclaimable:      93488 kB     DirectMap4k:      173804 kB<br>SUnreclaim:       109672 kB     DirectMap2M:     3893248 kB<br>KernelStack:        9704 kB     DirectMap1G:           0 kB<br>PageTables:        25668 kB </pre>
+
+
+
+<h3 class="wp-block-heading" id="using-dstat">Using dstat</h3>
+
+
+
+<p>The <strong>dstat</strong> command provides real-time statistics on various system resources, including CPU, memory, disk, network and more. Here’s an example of the command’s output.</p>
+
+
+
+<pre class="wp-block-preformatted">$ dstat<br>You did not select any stats, using -cdngy by default.<br>----total-usage---- -dsk/total- -net/total- ---paging-- ---system--<br>usr sys idl wai stl| read  writ| recv  send|  in   out | int   csw<br>  0   0  99   0   0|   0     0 | 506B  658B|   0     0 |  91   172<br>  0   0  99   0   0|   0     0 |  60B  338B|   0     0 |  90   152<br>  3   1  96   0   0|   0     0 |  60B  354B|   0     0 | 277   518<br>  0   0  99   0   0|   0     0 |  60B  354B|   0     0 | 106   135<br>  1   0  99   0   0|   0  4096B|  60B  354B|   0     0 |  97   162<br>  1   0  99   0   0|   0     0 |7523B  492B|   0     0 |  81   130<br>  0   1  98   0   0|   0     0 | 506B  354B|   0     0 | 155   170<br>  0   0  99   0   0|   0     0 | 120B  424B|   0     0 |  59   102 ^C</pre>
+
+
+
+<h3 class="wp-block-heading" id="wrap-up">Wrap-up</h3>
+
+
+
+<p>There are certainly quite a few ways to display memory usage on Linux. To focus on how much memory various processes and users are consuming, get accustomed to the command options that are available to you. And, when it’s helpful, create aliases to make your queries easier.</p>
+</div></div></div></div>
+  </div>
+  <p>
+    Sources:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.networkworld.com/article/968314/showing-memory-usage-in-linux-by-process-and-user.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Network World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Feb 12, 2025, 1:11:56 PM EST</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://t.me/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Telegram" aria-label="Follow us on Telegram"><svg role="img" aria-label="Telegram Logo" width="24px" height="24px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M40.83,8.48c1.14,0,2,1,1.54,2.86l-5.58,26.3c-.39,1.87-1.52,2.32-3.08,1.45L20.4,29.26a.4.4,0,0,1,0-.65L35.77,14.73c.7-.62-.15-.92-1.07-.36L15.41,26.54a.46.46,0,0,1-.4.05L6.82,24C5,23.47,5,22.22,7.23,21.33L40,8.69a2.16,2.16,0,0,1,.83-.21Z"/></svg></a>
+      <a href="https://www.youtube.com/@MajorDigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on YouTube" aria-label="Follow us on YouTube"><svg role="img" aria-label="YouTube Logo" height="24px" width="24px" version="1.1" viewBox="0 0 461.001 461.00" xmlns="http://www.w3.org/2000/svg"><path d="M365.257,67.393H95.744C42.866,67.393,0,110.259,0,163.137v134.728 c0,52.878,42.866,95.744,95.744,95.744h269.513c52.878,0,95.744-42.866,95.744-95.744V163.137 C461.001,110.259,418.135,67.393,365.257,67.393z M300.506,237.056l-126.06,60.123c-3.359,1.602-7.239-0.847-7.239-4.568V168.607 c0-3.774,3.982-6.22,7.348-4.514l126.06,63.881C304.363,229.873,304.298,235.248,300.506,237.056z"/></svg></a>
+      <a href="https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Apple Podcasts" aria-label="Follow us on Apple Podcasts"><svg role="img" aria-label="Apple Podcasts Logo" width="21px" height="21px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M7.12 0c-3.937-0.011-7.131 3.183-7.12 7.12v17.76c-0.011 3.937 3.183 7.131 7.12 7.12h17.76c3.937 0.011 7.131-3.183 7.12-7.12v-17.76c0.011-3.937-3.183-7.131-7.12-7.12zM15.817 3.421c3.115 0 5.932 1.204 8.079 3.453 1.631 1.693 2.547 3.489 3.016 5.855 0.161 0.787 0.161 2.932 0.009 3.817-0.5 2.817-2.041 5.339-4.317 7.063-0.812 0.615-2.797 1.683-3.115 1.683-0.12 0-0.129-0.12-0.077-0.615 0.099-0.792 0.192-0.953 0.64-1.141 0.713-0.296 1.932-1.167 2.677-1.911 1.301-1.303 2.229-2.932 2.677-4.719 0.281-1.1 0.244-3.543-0.063-4.672-0.969-3.595-3.907-6.385-7.5-7.136-1.041-0.213-2.943-0.213-4 0-3.636 0.751-6.647 3.683-7.563 7.371-0.245 1.004-0.245 3.448 0 4.448 0.609 2.443 2.188 4.681 4.255 6.015 0.407 0.271 0.896 0.547 1.1 0.631 0.447 0.192 0.547 0.355 0.629 1.14 0.052 0.485 0.041 0.62-0.072 0.62-0.073 0-0.62-0.235-1.199-0.511l-0.052-0.041c-3.297-1.62-5.407-4.364-6.177-8.016-0.187-0.943-0.224-3.187-0.036-4.052 0.479-2.323 1.396-4.135 2.921-5.739 2.199-2.319 5.027-3.543 8.172-3.543zM16 7.172c0.541 0.005 1.068 0.052 1.473 0.14 3.715 0.828 6.344 4.543 5.833 8.229-0.203 1.489-0.713 2.709-1.619 3.844-0.448 0.573-1.537 1.532-1.729 1.532-0.032 0-0.063-0.365-0.063-0.803v-0.808l0.552-0.661c2.093-2.505 1.943-6.005-0.339-8.296-0.885-0.896-1.912-1.423-3.235-1.661-0.853-0.161-1.031-0.161-1.927-0.011-1.364 0.219-2.417 0.744-3.355 1.672-2.291 2.271-2.443 5.791-0.348 8.296l0.552 0.661v0.813c0 0.448-0.037 0.807-0.084 0.807-0.036 0-0.349-0.213-0.683-0.479l-0.047-0.016c-1.109-0.885-2.088-2.453-2.495-3.995-0.244-0.932-0.244-2.697 0.011-3.625 0.672-2.505 2.521-4.448 5.079-5.359 0.547-0.193 1.509-0.297 2.416-0.281zM15.823 11.156c0.417 0 0.828 0.084 1.131 0.24 0.645 0.339 1.183 0.989 1.385 1.677 0.62 2.104-1.609 3.948-3.631 3.005h-0.015c-0.953-0.443-1.464-1.276-1.475-2.36 0-0.979 0.541-1.828 1.484-2.328 0.297-0.156 0.709-0.235 1.125-0.235zM15.812 17.464c1.319-0.005 2.271 0.463 2.625 1.291 0.265 0.62 0.167 2.573-0.292 5.735-0.307 2.208-0.479 2.765-0.905 3.141-0.589 0.52-1.417 0.667-2.209 0.385h-0.004c-0.953-0.344-1.157-0.808-1.553-3.527-0.452-3.161-0.552-5.115-0.285-5.735 0.348-0.823 1.296-1.285 2.624-1.291z"/></svg></a>
+      <a href="https://podcasters.spotify.com/pod/show/majordigest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Spotify" aria-label="Follow us on Spotify"><svg role="img" aria-label="Spotify Logo" width="28px" height="28px" viewBox="0 -2 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M13.2 20.84c-0.2 0-0.4-0.080-0.56-0.2-1.84-1.6-5.8-1.12-7.2-0.84-0.44 0.12-0.92-0.2-1-0.64-0.12-0.44 0.2-0.88 0.64-1 0.24-0.040 5.8-1.24 8.64 1.2 0.36 0.32 0.4 0.84 0.080 1.2-0.12 0.16-0.36 0.28-0.6 0.28zM14.2 18.44c-0.16 0-0.32-0.040-0.48-0.16-3.36-2.4-8.48-1.080-8.52-1.080-0.44 0.12-0.92-0.16-1.040-0.6s0.16-0.92 0.6-1.040c0.24-0.080 5.92-1.56 9.96 1.32 0.36 0.28 0.48 0.8 0.2 1.16-0.2 0.28-0.44 0.4-0.72 0.4zM15.24 15.72c-0.16 0-0.32-0.040-0.48-0.16-4.44-2.96-10.040-1.040-10.12-1.040-0.44 0.16-0.88-0.080-1.040-0.52s0.080-0.92 0.52-1.080c0.28-0.080 6.48-2.2 11.6 1.24 0.4 0.24 0.48 0.76 0.24 1.16-0.2 0.24-0.48 0.4-0.72 0.4zM9.6 25.6c-5.28 0-9.6-4.32-9.6-9.6s4.32-9.6 9.6-9.6 9.6 4.32 9.6 9.6-4.32 9.6-9.6 9.6zM9.6 8.080c-4.36 0-7.92 3.56-7.92 7.92s3.56 7.92 7.92 7.92 7.92-3.56 7.92-7.92-3.56-7.92-7.92-7.92z"></path></svg></a>
+<!--
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2025&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.6)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.6">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.6" async></script>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasters.spotify.com/pod/show/majordigest/",
+   "name": "Major Digest Podcast - Spotify Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189",
+   "name": "Major Digest Podcast - Apple Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+
+</body>
+</html>

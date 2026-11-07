@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="https://schema.org/WebApplication" lang="en"
+  prefix="og: https://ogp.me/ns#">
+
+<head>
+  <meta charset="utf-8">
+  <title>Taming the Java cold-start beast: A practical guide to high-performance serverless with GraalVM and Spring - Major Digest</title>
+  <meta name="description" content="Java’s powerful and mature ecosystem has long been a top choice for enterprise applications. However, its traditional strengths have presented challenges in serverless environments, particularly concerning the performance penalty known as the cold start.">
+  <link rel="canonical" href="https://majordigest.com/tech/2025/10/27/taming-the-java-cold-start-beast-a-practical-guide-to-high-performance-serverless-with-graalvm-and-spring/">
+
+  <meta itemprop="name" content="Taming the Java cold-start beast: A practical guide to high-performance serverless with GraalVM and Spring - Major Digest">
+  <meta itemprop="description" content="Java’s powerful and mature ecosystem has long been a top choice for enterprise applications. However, its traditional strengths have presented challenges in serverless environments, particularly concerning the performance penalty known as the cold start.">
+  <link itemprop="url" href="https://majordigest.com/tech/2025/10/27/taming-the-java-cold-start-beast-a-practical-guide-to-high-performance-serverless-with-graalvm-and-spring/">
+  <meta itemprop="image" content="https://majordigest.com/static13/tech/2025/10/27/taming-the-java-cold-start-beast-a-practical-guide-to-high-performance-serverless-with-graalvm-and-spring.webp">
+
+  <meta property="og:title" content="Taming the Java cold-start beast: A practical guide to high-performance serverless with GraalVM and Spring - Major Digest">
+  <meta property="og:description" content="Java’s powerful and mature ecosystem has long been a top choice for enterprise applications. However, its traditional strengths have presented challenges in serverless environments, particularly concerning the performance penalty known as the cold start.">
+  <meta property="og:url" content="https://majordigest.com/tech/2025/10/27/taming-the-java-cold-start-beast-a-practical-guide-to-high-performance-serverless-with-graalvm-and-spring/">
+  <meta property="og:image" content="https://majordigest.com/static13/tech/2025/10/27/taming-the-java-cold-start-beast-a-practical-guide-to-high-performance-serverless-with-graalvm-and-spring.webp">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Major Digest">
+  <meta property="og:locale" content="en_US">
+  <meta property="fb:pages" content="113570554924596">
+  <!-- <meta property="fb:app_id" content="490025408049997"> -->
+
+  <meta name="twitter:title" content="Taming the Java cold-start beast: A practical guide to high-performance serverless with GraalVM and Spring - Major Digest">
+  <meta name="twitter:description" content="Java’s powerful and mature ecosystem has long been a top choice for enterprise applications. However, its traditional strengths have presented challenges in serverless environments, particularly concerning the performance penalty known as the cold start.">
+  <meta name="twitter:url" content="https://majordigest.com/tech/2025/10/27/taming-the-java-cold-start-beast-a-practical-guide-to-high-performance-serverless-with-graalvm-and-spring/">
+  <meta name="twitter:image" content="https://majordigest.com/static13/tech/2025/10/27/taming-the-java-cold-start-beast-a-practical-guide-to-high-performance-serverless-with-graalvm-and-spring.webp">
+  <meta name="twitter:image:alt" content="Taming the Java cold-start beast: A practical guide to high-performance serverless with GraalVM and Spring - Major Digest">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@major_digest">
+  <meta name="twitter:creator" content="@vpodk">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="/assets/icons/logo-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Major Digest">
+  <meta name="application-name" content="Major Digest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="manifest" href="/manifest.json?v=1.1.6">
+  <link rel="stylesheet" href="/assets/styles.css?v=1.1.6">
+  <link rel="alternate" type="application/rss+xml" title="Major Digest RSS Feed"
+    href="https://majordigest.com/tech/feed.xml">
+  <link rel="sitemap" type="application/xml" title="Major Digest Sitemap"
+    href="https://majordigest.com/tech/sitemap.xml">
+</head>
+
+<body class="tech">
+  <a href="#main" class="skip-nav">Skip to Main Content</a>
+  <header>
+    <span>
+      <time datetime="2025-10-27T12:59:44.685Z" itemprop="datePublished">Monday, October 27, 2025</time> &nbsp;
+    </span>
+    <h1>
+      <a href="/" aria-label="Major Digest Home"><img src="/assets/logo.svg" alt="Major Digest Home" width="225"
+          height="50"></a>
+      <span>Taming the Java cold-start beast: A practical guide to high-performance serverless with GraalVM and Spring - Major Digest</span>
+    </h1>
+  </header>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a itemprop="url" href="/us/" title="The Latest U.S. News From Most Reliable Sources">U.S.</a>
+    <a itemprop="url" href="/world/" title="Breaking News From Around the World">World</a>
+    <a itemprop="url" href="/tech/" title="The Latest Tech News and Headlines">Technology</a>
+    <a itemprop="url" href="/sports/" title="Stay Up to Date on Your Favorite Teams and Players">Sports</a>
+    <a itemprop="url" href="/politics/" title="The Latest Political News and Headlines">Politics</a>
+  </nav>
+  <main id="main" aria-label="Main content">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem", "position": 1, "name": "Home",
+    "item": "https://majordigest.com/"
+  }, {
+    "@type": "ListItem", "position": 2, "name": "tech",
+    "item": "https://majordigest.com/tech/"
+  }, {
+    "@type": "ListItem", "position": 3, "name": "Taming the Java cold-start beast: A practical guide to high-performance serverless with GraalVM and Spring - Major Digest"
+  }]
+}
+</script>
+<div itemscope itemtype="https://schema.org/NewsArticle" class="article">
+  <meta itemprop="dateModified" content="Mon, 27 Oct 2025 09:10:00 GMT">
+  <meta itemprop="url" content="/tech/2025/10/27/taming-the-java-cold-start-beast-a-practical-guide-to-high-performance-serverless-with-graalvm-and-spring/">
+  <h2 itemprop="headline">Taming the Java cold-start beast: A practical guide to high-performance serverless with GraalVM and Spring</h2>
+  <div itemprop="articleBody">
+    <figure>
+      <img src="/static13/tech/2025/10/27/taming-the-java-cold-start-beast-a-practical-guide-to-high-performance-serverless-with-graalvm-and-spring.webp" alt="Taming the Java cold-start beast: A practical guide to high-performance serverless with GraalVM and Spring" itemprop="image" width="400" height="225"
+        data-src="https://www.infoworld.com/wp-content/uploads/2025/10/4078803-0-11805800-1761556275-worried-concerned-programmer-developer-coder.jpg?quality=50&strip=all">
+      <figcaption>Credit: Info World</figcaption>
+    </figure>
+    <div id="remove_no_follow">
+		<div class="grid grid--cols-10@md grid--cols-8@lg article-column">
+					  <div class="col-12 col-10@md col-6@lg col-start-3@lg">
+						<div class="article-column__content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Java’s powerful and mature ecosystem has long been a top choice for enterprise applications. However, its traditional strengths have presented challenges in serverless environments, particularly concerning the performance penalty known as the cold start.</p>
+
+
+
+<p>My goal was to build high-throughput, event-driven systems on AWS Lambda without abandoning the Java ecosystem, which meant tackling the cold start problem head on. This is the story of how I tamed the cold start using a combination of modern tooling, robust architectural patterns and a shift in how I think about compiling applications.</p>
+
+
+
+<h3 class="wp-block-heading" id="the-java-challenge-in-a-serverless-world">The Java challenge in a serverless world</h3>
+
+
+
+<p>The Java Virtual Machine (JVM) is a marvel of engineering, optimized for long-running, high-performance applications. Its just-in-time (JIT) compiler analyzes code as it runs, making sophisticated optimizations to deliver incredible peak performance. But this strength becomes a weakness in a serverless model. When a Lambda function starts cold, the JVM must go through its entire initialization process: loading classes, verifying bytecode and beginning the slow warm-up of the JIT compiler. This can take several seconds — an eternity for a latency-sensitive workflow.</p>
+
+
+
+<p>AWS has attempted to address this with Lambda SnapStart, which works by caching a snapshot of an initialized microVM. It’s a clever infrastructure-level mitigation, but for many enterprise needs, it comes with limitations and subtle risks related to state uniqueness and stale data.<sup></sup></p>
+
+
+
+<p>I realized that I needed a solution that didn’t just mitigate the cold start but eliminated it at the application level. My search for a solution led me to GraalVM Native Image, a technology that fundamentally changes the nature of the deployed artifact.</p>
+
+
+
+<h3 class="wp-block-heading" id="the-native-image-transformation-a-deep-dive-into-graalvm-and-spring">The native image transformation: A deep dive into GraalVM and Spring</h3>
+
+
+
+<p>GraalVM Native Image is an ahead-of-time (AOT) compiler that transforms Java bytecode into a self-contained, platform-specific native executable. Unlike the JVM, which interprets bytecode at runtime, a native executable is machine code that runs directly on the operating system.</p>
+
+
+
+<p>The magic behind this is its closed-world assumption. At build time, the native-image tool performs a deep static analysis of the application, starting from its main entry point. It determines every single piece of code that is reachable and discards everything else. This aggressive dead-code elimination, combined with AOT compilation, results in an incredibly small and fast-starting binary.</p>
+
+
+
+<p>For my Lambda functions, I chose Spring Cloud Functions. It provides a simple, functional programming model (Function<T, R>, Consumer<T>, Supplier<T>) that abstracts away the underlying platform specifics. This allowed me to focus purely on business logic, writing standard Java functions that the framework automatically wires up to the AWS Lambda runtime.</p>
+
+
+
+<h3 class="wp-block-heading" id="getting-the-build-right-maven-configuration">Getting the build right: Maven configuration</h3>
+
+
+
+<p>To make this work, your project’s pom.xml needs a few key components. First is the spring-cloud-function-adapter-aws dependency. This adapter is the crucial bridge; it takes your generic Spring Cloud Function and converts it into a format that can be invoked by the AWS Lambda runtime, handling the translation of incoming AWS events into plain Java objects.</p>
+
+
+
+<pre class="wp-block-code"><code>XML
+
+
+<dependencies>
+    <dependency>
+        <groupId>org.springframework.cloud</groupId>
+        <artifactId>spring-cloud-function-adapter-aws</artifactId>
+    </dependency>
+</dependencies>
+</code></pre>
+
+
+
+<p>Next, you need two essential plugins. The spring-boot-maven-plugin is standard for any Spring Boot application and is responsible for packaging your code into an executable JAR. The native-maven-plugin from the GraalVM team integrates the native-image compiler directly into your Maven life cycle, orchestrating the complex AOT compilation process.</p>
+
+
+
+<pre class="wp-block-code"><code>XML
+
+
+<build>
+    <plugins>
+        <plugin>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-maven-plugin</artifactId>
+        </plugin>
+        <plugin>
+            <groupId>org.graalvm.buildtools</groupId>
+            <artifactId>native-maven-plugin</artifactId>
+        </plugin>
+    </plugins>
+</build></code></pre>
+
+
+
+<h3 class="wp-block-heading" id="handling-environment-specific-configurations">Handling environment-specific configurations</h3>
+
+
+
+<p>A common practice in Spring is to use the @Profile annotation to create different bean configurations for different environments (e.g., dev, test, prod). However, because GraalVM performs a closed-world static analysis at build time, the dynamic nature of profiles doesn’t translate directly to a native image. The application is compiled for a single, specific configuration.</p>
+
+
+
+<p>The best practice to mitigate this is to externalize environment-specific settings using Lambda environment variables. Instead of relying on @Profile to switch between, for example, a local DynamoDB instance and a cloud-based one, you can define the database endpoint URL as an environment variable. Your code reads this value at startup to connect to the correct resource. This approach keeps the compiled artifact environment-agnostic while allowing for flexible configuration at deployment time.</p>
+
+
+
+<h3 class="wp-block-heading" id="the-payoff-a-quantitative-analysis-of-performance-gains">The payoff: A quantitative analysis of performance gains</h3>
+
+
+
+<p>After re-architecting my Lambda function to be compiled as a native image, the results were transformative. I compared three deployment approaches: a standard JVM-based function, a native executable packaged as an OCI container image and a native executable packaged as a Zip archive. The data speaks for itself.</p>
+
+
+
+
+
+
+
+<p>Let’s break down what these numbers mean:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>JVM vs OCI:</strong> The OCI container approach — while promising due to its extremely low memory usage (77 MB) — introduced its own overhead. The Init Duration of 3.4 seconds was not from the native executable itself (which started in only 254 ms) but from the time AWS Lambda took to download and start the 44 MB container from ECR.</li>
+
+
+
+<li><strong>JVM vs. Native:</strong> The baseline JVM function had a cold start (Init Duration) of over 5.7 seconds. Simply compiling to a native executable and deploying as a Zip archive reduced this to just 655 ms — a staggering ~9x improvement.</li>
+</ul>
+
+
+
+<p>Once warm, the native image function was incredibly fast, with a typical billed duration of only 20 ms while using 160 MB of memory. This demonstrates the near-instantaneous performance after the initial cold start.</p>
+
+
+
+<p>For developers who need to squeeze out every last millisecond of performance, it’s worth noting that removing the Spring Cloud Functions framework and writing a plain Java function compiled to a native image can further reduce cold start times by another 30% to 40%. This is a trade-off between the convenience and abstraction of the framework versus raw performance.</p>
+
+
+
+<h3 class="wp-block-heading" id="building-for-production-the-ci-cd-pipeline">Building for production: The CI/CD pipeline</h3>
+
+
+
+<p>A key challenge with native images is ensuring the build environment matches the target runtime. A native executable compiled on macOS won’t run on AWS Lambda, which uses Amazon Linux. To solve this, the native image must be built inside a Docker container that mirrors the Lambda runtime, such as Amazon Linux 2023. This process is computationally intensive; the entire cycle to build the native executable and publish the artifact took about four minutes. However, this is time spent in the build pipeline, not at runtime, which is a worthy trade-off for the massive performance gains.</p>
+
+
+
+<h3 class="wp-block-heading" id="packaging-for-a-custom-runtime">Packaging for a custom runtime</h3>
+
+
+
+<p>Because the output is a native executable and not a JAR file, we can’t use the standard AWS-provided Java runtimes. Instead, I deploy it using a custom runtime. This requires creating a simple shell script named bootstrap that tells Lambda how to start the application. This file, which must be marked as executable, is placed in the root of the deployment package.</p>
+
+
+
+<pre class="wp-block-code"><code>Bash
+
+
+#!/bin/sh
+# Execute the native binary
+./spring-serverless-function-listener</code></pre>
+
+
+
+<h3 class="wp-block-heading" id="the-build-container">The build container</h3>
+
+
+
+<p>The Dockerfile below outlines the process for building the native executable and packaging it with the bootstrap script into a final zip archive.</p>
+
+
+
+<pre class="wp-block-code"><code>Dockerfile
+
+
+# Use the official Amazon Linux 2023 image as our build environment
+FROM amazonlinux:2023
+
+# Define versions for our tooling
+ENV JAVA_VERSION=21.0.8+13
+ENV NIK_VERSION=23.1.8+1
+ENV JAVA_HOME=/opt/bellsoft-liberica-vm-core-openjdk${JAVA_VERSION}
+ENV PATH=$JAVA_HOME/bin:$PATH
+
+# Install required build tools and dependencies for native-image
+RUN dnf install -y tar gzip gcc glibc-devel zlib-devel zip && \
+    dnf clean all
+
+# Download and extract a specific GraalVM distribution, BellSoft Liberica NIK
+RUN curl --location https://github.com/bell-sw/LibericaNIK/releases/download/${NIK_VERSION}-${JAVA_VERSION}/bellsoft-liberica-vm-core-openjdk${JAVA_VERSION}-${NIK_VERSION}-linux-amd64.tar.gz | tar -xzf - -C /opt/
+
+# Copy the application source code into the container
+WORKDIR /workspace
+COPY..
+
+# Run the Maven build to compile the native executable
+RUN./mvnw -Pnative native:compile -DskipTests
+
+# After compilation, zip the executable and the bootstrap script
+RUN cd target && zip -r spring-serverless-function.zip spring-serverless-function-listener../bootstrap && cd..
+
+# Keep the container running so we can copy the artifact out
+CMD ["tail", "-f", "/dev/null"]
+</code></pre>
+
+
+
+<h3 class="wp-block-heading" id="extracting-the-artifact">Extracting the artifact</h3>
+
+
+
+<p>This Docker container is used as a temporary build agent. The final step in the pipeline is not to push this image, but to extract the compiled Zip archive from it. The CMD [“tail”, “-f”, “/dev/null”] instruction keeps the container alive after the build so that subsequent pipeline steps can copy the artifact out.</p>
+
+
+
+<p>The process in a pipeline would be:</p>
+
+
+
+<ol class="wp-block-list">
+<li>Build the Docker image (e.g., native-compile-image).</li>
+
+
+
+<li>Run the container in the background.</li>
+
+
+
+<li>Copy the final zip archive from the container to the build agent’s local filesystem.</li>
+</ol>
+
+
+
+<pre class="wp-block-code"><code>Bash
+
+
+# Run the container in detached mode, giving it a name for reference
+docker run -d --rm --name native-compile-container native-compile-image
+
+# Copy the compiled zip file from the running container to the build agent's workspace
+docker cp native-compile-container:/workspace/target/spring-serverless-function.zip./target/</code></pre>
+
+
+
+<p>This process leaves you with a single, deployable spring-serverless-function.zip file, which can then be uploaded to an artifact repository.</p>
+
+
+
+<h3 class="wp-block-heading" id="deploying-with-the-aws-cdk">Deploying with the AWS CDK</h3>
+
+
+
+<p>With the deployment artifact ready, I can define the Lambda function using an infrastructure-as-code tool like the AWS Cloud Development Kit (CDK). The CDK code points to the zip file created by the pipeline and configures the Lambda function.</p>
+
+
+
+<pre class="wp-block-code"><code>TypeScript
+
+
+// Example CDK code for defining the Lambda function
+import * as path from 'path';
+import * as lambda from 'aws-cdk-lib/aws-lambda';
+
+// Assuming 'this' is a CDK Stack context
+const functionAssetDirectory = '/runtime/target/spring-serverless-function.zip';
+const runtimeDir = path.join(__dirname, '..', functionAssetDirectory);
+
+new lambda.Function(this, 'MyNativeLambda', {
+  runtime: lambda.Runtime.PROVIDED_AL2023,
+  code: lambda.Code.fromAsset(runtimeDir),
+  handler: 'org.springframework.cloud.function.adapter.aws.FunctionInvoker::handleRequest',
+  memorySize: 256,
+  timeout: Duration.seconds(30),
+  //... other configurations
+});</code></pre>
+
+
+
+<p>Here, lambda.Runtime.PROVIDED_AL2023 specifies that we are using a custom runtime. The code property points to our zip archive. Crucially, the handler is still set to Spring’s generic FunctionInvoker.</p>
+
+
+
+<h3 class="wp-block-heading" id="conclusion-javas-place-in-the-serverless-era">Conclusion: Java’s place in the serverless era</h3>
+
+
+
+<p>This journey demonstrates that with modern tools like GraalVM, Java is a highly competitive choice for serverless workloads, effectively addressing historical performance concerns. The ability to compile to a native executable presents a strong option that rivals the startup performance of traditionally faster languages.</p>
+
+
+
+<p>To scale this solution and increase developer productivity, I packaged this entire approach into a reusable blueprint. This was published in an internal marketplace, allowing any engineer to spin up a new native Lambda function quickly. The blueprint includes the pipeline to build the native image and the CDK code for deployment, hiding the underlying complexity. This allows teams to focus immediately on writing business logic without needing to become experts in the nuances of native image compilation.</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>This article is published as part of the Foundry Expert Contributor Network.<br></strong><a href="https://www.infoworld.com/expert-contributor-network/"><strong>Want to join?</strong></a></p>
+</div></div></div></div>
+  </div>
+  <p>
+    Sources:
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <a itemprop="url" href="https://www.infoworld.com/article/4078803/taming-the-java-cold-start-beast-a-practical-guide-to-high-performance-serverless-with-graalvm-and-spring.html" rel="external noreferrer nofollow noopener" target="_blank">
+        <span itemprop="name">Info World</span>
+      </a>
+    </span><br>
+    Published:
+    <span itemprop="datePublished">Oct 27, 2025, 5:10:00 AM EDT</span>
+  </p>
+</div>
+</main>
+<footer>
+  <div class="links">
+    <a href="/terms/">Terms of Service</a> •
+    <a href="/privacy/">Privacy Policy</a> •
+    <a href="/disclaimer/">Disclaimer</a>
+  </div>
+  <div class="copy">
+    <span class="icons" itemscope itemtype="https://schema.org/Organization">
+      <meta itemprop="name" content="Major Digest">
+      <meta itemprop="description" content="Reliable and Comprehensive News Sources">
+      <meta itemprop="naics" content="513110">
+      <link itemprop="url" href="https://majordigest.com/">
+      <link itemprop="logo" href="https://majordigest.com/assets/icons/logo-512x512.png">
+      <a href="https://x.com/major_digest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on X (Twitter)" aria-label="Follow us on X (Twitter)"><svg role="img" aria-label="X Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 312 312"><path d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/></svg></a>
+      <a href="https://www.facebook.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Facebook" aria-label="Follow us on Facebook"><svg role="img" aria-label="Facebook Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 455.73 455.73"><path d="M0,0v455.73h242.704V279.691h-59.33v-71.864h59.33v-60.353c0-43.893,35.582-79.475,79.475-79.475h62.025v64.622h-44.382 c-13.947,0-25.254,11.307-25.254,25.254v49.953h68.521l-9.47,71.864h-59.051V455.73H455.73V0H0z"/></svg></a>
+      <a href="https://www.instagram.com/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Instagram" aria-label="Follow us on Instagram"><svg role="img" aria-label="Instagram Logo" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 169.063 169.063"><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"></path><path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"></path><path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"></path></svg></a>
+      <a href="https://www.threads.net/majordigest" rel="external" target="_blank" itemprop="sameAs"  title="Follow us on Threads" aria-label="Follow us on Threads"><svg role="img" aria-label="Threads Logo" width="24px" height="24px" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"></path></svg></a>
+      <a href="https://t.me/majordigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Telegram" aria-label="Follow us on Telegram"><svg role="img" aria-label="Telegram Logo" width="24px" height="24px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" d="M40.83,8.48c1.14,0,2,1,1.54,2.86l-5.58,26.3c-.39,1.87-1.52,2.32-3.08,1.45L20.4,29.26a.4.4,0,0,1,0-.65L35.77,14.73c.7-.62-.15-.92-1.07-.36L15.41,26.54a.46.46,0,0,1-.4.05L6.82,24C5,23.47,5,22.22,7.23,21.33L40,8.69a2.16,2.16,0,0,1,.83-.21Z"/></svg></a>
+<!--
+      <a href="https://www.youtube.com/@MajorDigest" rel="external" target="_blank" itemprop="sameAs" title="Follow us on YouTube" aria-label="Follow us on YouTube"><svg role="img" aria-label="YouTube Logo" height="24px" width="24px" version="1.1" viewBox="0 0 461.001 461.00" xmlns="http://www.w3.org/2000/svg"><path d="M365.257,67.393H95.744C42.866,67.393,0,110.259,0,163.137v134.728 c0,52.878,42.866,95.744,95.744,95.744h269.513c52.878,0,95.744-42.866,95.744-95.744V163.137 C461.001,110.259,418.135,67.393,365.257,67.393z M300.506,237.056l-126.06,60.123c-3.359,1.602-7.239-0.847-7.239-4.568V168.607 c0-3.774,3.982-6.22,7.348-4.514l126.06,63.881C304.363,229.873,304.298,235.248,300.506,237.056z"/></svg></a>
+      <a href="https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Apple Podcasts" aria-label="Follow us on Apple Podcasts"><svg role="img" aria-label="Apple Podcasts Logo" width="21px" height="21px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M7.12 0c-3.937-0.011-7.131 3.183-7.12 7.12v17.76c-0.011 3.937 3.183 7.131 7.12 7.12h17.76c3.937 0.011 7.131-3.183 7.12-7.12v-17.76c0.011-3.937-3.183-7.131-7.12-7.12zM15.817 3.421c3.115 0 5.932 1.204 8.079 3.453 1.631 1.693 2.547 3.489 3.016 5.855 0.161 0.787 0.161 2.932 0.009 3.817-0.5 2.817-2.041 5.339-4.317 7.063-0.812 0.615-2.797 1.683-3.115 1.683-0.12 0-0.129-0.12-0.077-0.615 0.099-0.792 0.192-0.953 0.64-1.141 0.713-0.296 1.932-1.167 2.677-1.911 1.301-1.303 2.229-2.932 2.677-4.719 0.281-1.1 0.244-3.543-0.063-4.672-0.969-3.595-3.907-6.385-7.5-7.136-1.041-0.213-2.943-0.213-4 0-3.636 0.751-6.647 3.683-7.563 7.371-0.245 1.004-0.245 3.448 0 4.448 0.609 2.443 2.188 4.681 4.255 6.015 0.407 0.271 0.896 0.547 1.1 0.631 0.447 0.192 0.547 0.355 0.629 1.14 0.052 0.485 0.041 0.62-0.072 0.62-0.073 0-0.62-0.235-1.199-0.511l-0.052-0.041c-3.297-1.62-5.407-4.364-6.177-8.016-0.187-0.943-0.224-3.187-0.036-4.052 0.479-2.323 1.396-4.135 2.921-5.739 2.199-2.319 5.027-3.543 8.172-3.543zM16 7.172c0.541 0.005 1.068 0.052 1.473 0.14 3.715 0.828 6.344 4.543 5.833 8.229-0.203 1.489-0.713 2.709-1.619 3.844-0.448 0.573-1.537 1.532-1.729 1.532-0.032 0-0.063-0.365-0.063-0.803v-0.808l0.552-0.661c2.093-2.505 1.943-6.005-0.339-8.296-0.885-0.896-1.912-1.423-3.235-1.661-0.853-0.161-1.031-0.161-1.927-0.011-1.364 0.219-2.417 0.744-3.355 1.672-2.291 2.271-2.443 5.791-0.348 8.296l0.552 0.661v0.813c0 0.448-0.037 0.807-0.084 0.807-0.036 0-0.349-0.213-0.683-0.479l-0.047-0.016c-1.109-0.885-2.088-2.453-2.495-3.995-0.244-0.932-0.244-2.697 0.011-3.625 0.672-2.505 2.521-4.448 5.079-5.359 0.547-0.193 1.509-0.297 2.416-0.281zM15.823 11.156c0.417 0 0.828 0.084 1.131 0.24 0.645 0.339 1.183 0.989 1.385 1.677 0.62 2.104-1.609 3.948-3.631 3.005h-0.015c-0.953-0.443-1.464-1.276-1.475-2.36 0-0.979 0.541-1.828 1.484-2.328 0.297-0.156 0.709-0.235 1.125-0.235zM15.812 17.464c1.319-0.005 2.271 0.463 2.625 1.291 0.265 0.62 0.167 2.573-0.292 5.735-0.307 2.208-0.479 2.765-0.905 3.141-0.589 0.52-1.417 0.667-2.209 0.385h-0.004c-0.953-0.344-1.157-0.808-1.553-3.527-0.452-3.161-0.552-5.115-0.285-5.735 0.348-0.823 1.296-1.285 2.624-1.291z"/></svg></a>
+      <a href="https://podcasters.spotify.com/pod/show/majordigest/" rel="external" target="_blank" itemprop="sameAs" title="Follow us on Spotify" aria-label="Follow us on Spotify"><svg role="img" aria-label="Spotify Logo" width="28px" height="28px" viewBox="0 -2 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M13.2 20.84c-0.2 0-0.4-0.080-0.56-0.2-1.84-1.6-5.8-1.12-7.2-0.84-0.44 0.12-0.92-0.2-1-0.64-0.12-0.44 0.2-0.88 0.64-1 0.24-0.040 5.8-1.24 8.64 1.2 0.36 0.32 0.4 0.84 0.080 1.2-0.12 0.16-0.36 0.28-0.6 0.28zM14.2 18.44c-0.16 0-0.32-0.040-0.48-0.16-3.36-2.4-8.48-1.080-8.52-1.080-0.44 0.12-0.92-0.16-1.040-0.6s0.16-0.92 0.6-1.040c0.24-0.080 5.92-1.56 9.96 1.32 0.36 0.28 0.48 0.8 0.2 1.16-0.2 0.28-0.44 0.4-0.72 0.4zM15.24 15.72c-0.16 0-0.32-0.040-0.48-0.16-4.44-2.96-10.040-1.040-10.12-1.040-0.44 0.16-0.88-0.080-1.040-0.52s0.080-0.92 0.52-1.080c0.28-0.080 6.48-2.2 11.6 1.24 0.4 0.24 0.48 0.76 0.24 1.16-0.2 0.24-0.48 0.4-0.72 0.4zM9.6 25.6c-5.28 0-9.6-4.32-9.6-9.6s4.32-9.6 9.6-9.6 9.6 4.32 9.6 9.6-4.32 9.6-9.6 9.6zM9.6 8.080c-4.36 0-7.92 3.56-7.92 7.92s3.56 7.92 7.92 7.92 7.92-3.56 7.92-7.92-3.56-7.92-7.92-7.92z"></path></svg></a>
+      <a href="https://play.google.com/store/apps/details?id=com.majordigest.android" rel="external" target="_blank" itemprop="sameAs" title="Download Android App" aria-label="Download Android App"><svg role="img" aria-label="Google Play Logo" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" x="0px" y="0px" viewBox="0 0 32 32"><path d="M20.331 14.644l-13.794-13.831 17.55 10.075zM2.938 0c-0.813 0.425-1.356 1.2-1.356 2.206v27.581c0 1.006 0.544 1.781 1.356 2.206l16.038-16zM29.512 14.1l-3.681-2.131-4.106 4.031 4.106 4.031 3.756-2.131c1.125-0.893 1.125-2.906-0.075-3.8zM6.538 31.188l17.55-10.075-3.756-3.756z"/></svg></a>
+-->
+    </span>
+    © 2025&nbsp;<a href="/about/" title="About Major Digest: A Journey from Idea to Publication">Major Digest</a>
+    <small> (v.1.1.6)</small>
+  </div>
+</footer>
+
+<meta itemprop="operatingSystem" content="All">
+<meta itemprop="applicationCategory" content="LifestyleApplication">
+<meta itemprop="softwareVersion" content="1.1.6">
+<div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+  <meta itemprop="price" content="0">
+  <meta itemprop="priceCurrency" content="USD">
+</div>
+<!--
+<div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+  <meta itemprop="ratingValue" content="5">
+  <meta itemprop="ratingCount" content="2">
+  <link itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.majordigest.android">
+</div>
+<div itemprop="potentialAction" itemscope itemtype="https://schema.org/ViewAction">
+  <meta itemprop="name" content="Open Major Digest">
+  <link itemprop="target" href="https://majordigest.com/">
+  <link itemprop="target" href="android-app://com.majordigest.android/http/majordigest.com">
+</div>
+<link rel="alternate" href="android-app://com.majordigest.android/http/majordigest.com">
+-->
+
+<section id="consent-banner" aria-label="Consent Banner" role="dialog">
+  By continuing to use this app, you agree to our 
+  <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>. 
+  You can learn more about how we use cookies by reviewing our 
+  <a href="/privacy/">Privacy Policy</a>. 
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<section id="ios-pwa-prompt" aria-label="iOS Installation Prompt" role="dialog">
+  To install this app on your device tap
+  <svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 20.88 27.25">
+    <polyline points="13.13 8 20.38 8 20.38 26.75 0.5 26.75 0.5 8 7.5 8"/>
+    <line x1="10.44" y1="17" x2="10.44"/>
+    <line x1="10.48" y1="0.38" x2="15.28" y2="5.18"/>
+    <line x1="10.44" y1="0.38" x2="5.64" y2="5.18"/>
+  </svg>
+  and then Add to Home Screen.
+  <button onclick="this.parentNode.style.display='none'">Close</button>
+</section>
+<script src="/assets/script.js?v=1.1.6" async></script>
+
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasters.spotify.com/pod/show/majordigest/",
+   "name": "Major Digest Podcast - Spotify Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "PodcastSeries",
+   "image": "https://majordigest.com/assets/icons/logo-512x512.png",
+   "url": "https://podcasts.apple.com/us/podcast/major-digest-podcast/id1769748189",
+   "name": "Major Digest Podcast - Apple Podcasts",
+   "description": "Your daily dose of tech news, straight to your feed. From AI and software development to emerging innovations, we’ve got you covered. Join our community of tech enthusiasts and industry professionals for daily updates on the future of technology.",
+   "webFeed": "https://anchor.fm/s/fb28fbbc/podcast/rss",
+   "author": {
+     "@type": "Person",
+     "name": "Major Digest"
+   }
+}
+</script>
+
+</body>
+</html>
